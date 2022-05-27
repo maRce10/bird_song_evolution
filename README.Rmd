@@ -1,7 +1,7 @@
 ---
 title: Song annotation protocol
 subtitle: Bird song evolution
-author: <center><font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo Araya-Salas, PhD</a></font></center>
+author: <center><font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo Araya-Salas, PhD</a></font></center><br>
 date: <center>`r format(Sys.Date(), "%d-%m-%Y")`</center>
 output: github_document
 fontsize: 12pt 
