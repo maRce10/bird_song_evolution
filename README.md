@@ -1,6 +1,4 @@
-<center>
-<font size="6"><b>Song analysis protocol</b></font>
-</center>
+Song annotation protocol
 ================
 <center>
 <font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo
@@ -14,7 +12,7 @@ Araya-Salas, PhD</a></font>
 
 This is a short description of the project
 
-*Updated on 2022-05-26 18:34:21*
+*Updated on 2022-05-26 18:35:50*
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
