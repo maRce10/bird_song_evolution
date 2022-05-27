@@ -1,0 +1,201 @@
+---
+title: <center><font size="6"><b>Song analysis protocol</b></font></center>
+subtitle: <center><font size="4"><b>bird song evolution</b></font></center>
+author: <center><font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo Araya-Salas, PhD</a></font></center>
+date: <center>`r format(Sys.Date(), "%d-%m-%Y")`</center>
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: no
+      smooth_scroll: no
+fontsize: 12pt 
+editor_options: 
+  chunk_output_type: console
+---
+
+&nbsp;
+
+<div class="alert alert-info">
+
+### Purpose
+
+- This protocol explains the steps required to conduct an objective assessment of the vocal behavior of several bird species using recordings from the Macaulay Library
+
+</div>
+
+&nbsp;
+
+
+<div class="alert alert-warning">
+
+Please follow the instructions as close as possible to ensure the data would be comparable across species regardless of who did the analysis
+
+</div>
+
+&nbsp;
+
+# Analysis workflow
+
+### Finding the right file
+
+1. Choose a species assigned to you (“assigned to” column in “recordings_metadata.xlsx” file):
+
+```{r, out.width = "100%", echo = FALSE}
+
+knitr::include_graphics("data_sheet.png")
+
+```
+&nbsp;
+
+1. Look up the species in [https://ebird.org/explore](https://ebird.org/explore) to get an example of the species typical song. In this example the species is *Phaethornis longirostris*:
+
+```{r, out.width = "100%", echo = FALSE}
+
+knitr::include_graphics("ebird.png")
+
+```
+&nbsp;
+
+1. click on  the "listen" button:
+
+```{r, out.width = "100%", echo = FALSE}
+
+knitr::include_graphics("lbh.png")
+
+```
+&nbsp;
+
+1. Look for the example that matches the ID number in our data base:
+
+```{r, out.width = "100%", echo = FALSE}
+
+knitr::include_graphics("spectro_marked.png")
+
+```
+&nbsp;
+
+1. Look at the vocalization description for that recording on ebird and write it down in “vocalization_type” column in “recordings_metadata.xlsx” file:
+
+```{r, out.width = "100%", echo = FALSE}
+
+knitr::include_graphics("spectro_marked2.png")
+
+```
+&nbsp;
+
+
+<div class="alert alert-warning">
+
+The spectrogram that is shown contains what experts have identified as a good example of the species' vocalization, so it will be used to define which signals in our sound files will be annotated
+
+</div>
+
+&nbsp;
+
+### Annotating bird songs
+
+
+1. Open Raven
+
+1. In Raven you should open the sound files: Ctrl + O (or go to file → open sound files)
+
+1. Go to the folder with the recordings ("./recordings/"). 
+
+1. Open the sound file containing the Macaulay Library ID
+
+1. When you open the file a "Configure New Sound Window" window appears, in the "Window Preset" window, choose the "bird_song_evolution" option and then click "OK" (if this window does not open when loading a file you must go to View → Window Preset and select "bird_song_evolution")
+
+1. Examine the recording to determine the position of the signals that are shown in the spectrogram on the ebird web page
+
+1. Determine the sequence of elements of which the song is composed. *A song can be defined by the repetition of a sequence of elements* (even if the sequence is a single element) *and/or by long silences* (much greater than the silences between elements within a song). Sequence repetitions can vary in the composition and number of repeats of individual elements. Again, the example in the ebird web page should be used as a guide to determine vocalization structure.
+
+
+&nbsp;
+
+<div class="alert alert-info">
+## Example
+
+Let say we have a vocalization like this:           
+
+<font size="4">abcdab    abcdab   abcdab  abcdab   abcdab  abcdab        abcdab     abcdab   abcdab</font>
+
+In this example every sequence of 6 elements that is separated from others by a wide gap will be called a song. You will have to choose 5 of those. Something like this (**bold** means analyzed):
+
+<font size="4">**abcdab**    abcdab   **abcdab  abcdab**   abcdab  **abcdab**      abcdab     **abcdab   abcdab**
+</font>
+
+</div>
+
+&nbsp;
+
+1. Ensure that they belong to a single individual
+
+1. **Select the beginning and end of each of the elements for up to 5 songs** (if available). Songs do not have to be consecutive. If there are more songs available in the recordings and they vary considerably you can try to measure more songs.
+
+1. Make selections on the spectrogram by adjusting both time and frequency. If the songs have a lot of harmonics the high frequency can extend more (high frequency accuracy is not relevant when there are many harmonics).
+
+1. Set the beginning and end (the margins of the selection box) right at the beginning and end of the element, trying not to include the reverberations at the end of the element
+
+1. Avoid annotating songs in which the elements overlap other sounds
+
+1. If the recording was made on 2 channels, make the selections only on the first channel (the one above).
+
+1. Once you commit the selection (pressing “Enter”), **each element must be tagged with the song to which it belongs** (Raven will ask for the tag each time a new selection is entered). The label must be a number for the song and a letter for the element (eg "1a" for element "a" in song "1"). 
+
+1. Different elements should be labeled with different letters (so elements that look the same should be labeled with the same letter)
+
+1. Save the selection in the default folder suggested by Raven. When you try to close the audio file Raven will ask if they want to save the selection, just click OK and keep the suggested file name unchanged.
+
+
+1. Once you are done with the species:
+    1. enter the information in "recordings_metadata.xlsx".
+    1. If no song were found in the available recordings add a comment ("comments" column)
+
+5. Start with a new species
+
+
+At the end of the analysis session:
+
+1.Copy the selection files to "./selections". 
+
+1. If there is something inconsistent or poorly explained in this protocol please let us know!
+
+
+
+
+
+```{r, eval = FALSE, echo = FALSE}
+
+    1. If there is something wrong with the recording (e.g. doesn’t have vocalizations too noisy, or the file was not found, etc) add the information to the “comments” column in "recordings_metadata.xlsx".
+
+    1. Some species seem to have multiple song types (both simple and complex songs). If this seems to be the case it’s most important that the complex songs are selected. 
+
+Examples
+
+1.Single song repertoire: 
+
+This refers to songs composed by a single element that is repeated over and over again. In this case each sound represents an element and a song and should be labeled 1a, 2a, 3a, etc:
+
+
+For “full song” selections in single song repertoire species we should include several elements (ideally 5) in the same selection box.
+
+
+
+
+```
+
+
+&nbsp;
+
+<div class="alert alert-info">
+
+
+- Good performance on detecting zebra finch songs: F1 score was 0.95 for the training data set and 0.96 for the testing data 
+
+</div>
+
+&nbsp;
+
+---
