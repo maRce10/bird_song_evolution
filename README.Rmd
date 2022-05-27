@@ -3,13 +3,7 @@ title: <center><font size="6"><b>Song analysis protocol</b></font></center>
 subtitle: <center><font size="4"><b>bird song evolution</b></font></center>
 author: <center><font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo Araya-Salas, PhD</a></font></center>
 date: <center>`r format(Sys.Date(), "%d-%m-%Y")`</center>
-output:
-  html_document:
-    toc: yes
-    toc_depth: 3
-    toc_float:
-      collapsed: no
-      smooth_scroll: no
+output: github_document
 fontsize: 12pt 
 editor_options: 
   chunk_output_type: console
