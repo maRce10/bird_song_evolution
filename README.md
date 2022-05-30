@@ -1,4 +1,6 @@
-Song annotation protocol
+<center>
+<font size="6"><b>Song annotation protocol</b></font>
+</center>
 ================
 <center>
 <font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo
@@ -6,72 +8,65 @@ Araya-Salas, PhD</a></font>
 </center>
 <br>
 
-<center>
-26-05-2022
-</center>
-
-<!-- Short Description  -->
-
-This is a short description of the project
-
-*Updated on 2022-05-26 18:36:32*
+*Updated on 2022-05-30 10:35:45*
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ## Table of contents
 
--   [General info](#Analysis%20workflow)
-    -   [Analyses](#Analyses)
-        -   [To do list](#to-do-list)
-            -   [Contact](#contact)
-
-## 
-
- 
-
-<div class="alert alert-info">
+-   [Data links](#data-links)
+-   [Analysis workflow](#analysis-workflow)
+    -   [Finding the right file](#finding-the-right-file)
+    -   [Annotating bird songs](#annotating-bird-songs)
+-   [Status](#status)
+-   [To-do list](#to-do-list)
+-   [Contact](#contact)
 
 ## Purpose
 
--   This protocol explains the steps required to conduct an objective
+-   *This protocol explains the steps required to conduct an objective
     assessment of the vocal behavior of several bird species using
-    recordings from the Macaulay Library
-
-</div>
+    recordings from the Macaulay Library*
 
  
 
-<div class="alert alert-warning">
+------------------------------------------------------------------------
 
-Please follow the instructions as close as possible to ensure the data
-would be comparable across species regardless of who did the analysis
+## Data links
 
-</div>
+-   [Spreadsheet with the recording info and
+    metadata](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing)
+-   [Recordings by
+    family](https://6f33fa7f78ea46e2aaca-my.sharepoint.com/:f:/g/personal/marcelo_araya_ucr_ac_cr/EoaMWjKcnuZEuStxMx6Ck2YB4pLLQZSS-sdEMyayZbTs8g?e=y9zuIA)
 
- 
+------------------------------------------------------------------------
 
-# Analysis workflow
+## Analysis workflow
 
-### Finding the right file
+### Getting a file to annotate
 
-1.  Choose a species assigned to you (“assigned to” column in
-    “recordings_metadata.xlsx” file):
+Find the files you have been assigned to in the [recording
+spreadsheet](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing).
+Look at the “assigned_to” column:
 
-<img src="./scripts/data_sheet.png" width="100%" />  
+<img src="./scripts/metadata_doc.png" width="100%" />  
+
+Open the species ebird page by clicking on the link in the
+“species_ebird_url” column:
+
+<img src="./scripts/species_link.png" width="100%" />  
 
 1.  Look up the species in <https://ebird.org/explore> to get an example
     of the species typical song. In this example the species is
     *Phaethornis longirostris*:
 
-<img src="./scripts/ebird.png" width="100%" />  
+2.  Click on the “listen” (“escuchar”) button:
 
-1.  click on the “listen” button:
-
-<img src="./scripts/lbh.png" width="100%" />  
+<img src="./scripts/banana.png" width="100%" />  
 
 1.  Look for the example that matches the ID number in our data base:
 
-<img src="./scripts/spectro_marked.png" width="100%" />  
+<img src="./scripts/banana_spectro.png" width="100%" />  
 
 1.  Look at the vocalization description for that recording on ebird and
     write it down in “vocalization_type” column in
@@ -79,37 +74,36 @@ would be comparable across species regardless of who did the analysis
 
 <img src="./scripts/spectro_marked2.png" width="100%" />  
 
-<div class="alert alert-warning">
-
-The spectrogram that is shown contains what experts have identified as a
-good example of the species’ vocalization, so it will be used to define
-which signals in our sound files will be annotated
-
-</div>
+**The spectrogram that is shown contains what experts have identified as
+a good example of the species’ vocalization, so it will be used to
+define which signals in our sound files will be annotated.**
 
  
 
-### Annotating bird songs
+------------------------------------------------------------------------
 
-1.  Open Raven
+## Annotating bird songs
 
-2.  In Raven you should open the sound files: Ctrl + O (or go to file →
-    open sound files)
+1.  Open the sound file in Raven: Ctrl + O (or go to file → open sound
+    files). The sound file names follows the syntax
+    “species_name_ID_number.wav”:
 
-3.  Go to the folder with the recordings (“./recordings/”).
+<img src="./scripts/open_file.png" width="100%" />  
 
-4.  Open the sound file containing the Macaulay Library ID
+<img src="./scripts/raven_preset.png" width="100%" />  
 
-5.  When you open the file a “Configure New Sound Window” window
-    appears, in the “Window Preset” window, choose the
-    “bird_song_evolution” option and then click “OK” (if this window
-    does not open when loading a file you must go to View → Window
-    Preset and select “bird_song_evolution”)
+<img src="./scripts/raven_banana.png" width="100%" />  
 
-6.  Examine the recording to determine the position of the signals that
+1.  When you open the file a “Configure New Sound Window” window
+    appears, in the “Window Preset” window, choose the “bird_songs”
+    option and then click “OK” (if this window does not open when
+    loading a file you must go to View → Window Preset and select
+    “bird_song_evolution”)
+
+2.  Examine the recording to determine the position of the signals that
     are shown in the spectrogram on the ebird web page
 
-7.  Determine the sequence of elements of which the song is composed. *A
+3.  Determine the sequence of elements of which the song is composed. *A
     song can be defined by the repetition of a sequence of elements*
     (even if the sequence is a single element) *and/or by long silences*
     (much greater than the silences between elements within a song).
@@ -188,27 +182,6 @@ At the end of the analysis session:
 
 1.  If there is something inconsistent or poorly explained in this
     protocol please let us know!
-
- 
-
-<div class="alert alert-info">
-
--   Good performance on detecting zebra finch songs: F1 score was 0.95
-    for the training data set and 0.96 for the testing data
-
-</div>
-
- 
-
-------------------------------------------------------------------------
-
-## Analysis
-
--   Analysis 1
-
-## In progress
-
--   Something not finished yet
 
 ## To-do list
 

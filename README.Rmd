@@ -1,17 +1,13 @@
 ---
-title: Song annotation protocol
+title: <center><font size="6"><b>Song annotation protocol</b></font></center>
 subtitle: Bird song evolution
 author: <center><font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo Araya-Salas, PhD</a></font></center><br>
-date: <center>`r format(Sys.Date(), "%d-%m-%Y")`</center>
 output: github_document
 fontsize: 12pt 
 editor_options: 
   chunk_output_type: console
 ---
 
-
-<!-- Short Description  -->
-This is a short description of the project
 
 *Updated on `r Sys.time()`*
 
@@ -30,60 +26,61 @@ knitr::opts_chunk$set(
 
 
 ## Table of contents
-* [General info](#Analysis workflow)
-  * [Analyses](#Analyses)
-    * [To do list](#to-do-list)
-      * [Contact](#contact)
+* [Data links](#data-links)
+* [Analysis workflow](#analysis-workflow)
+    * [Finding the right file](#finding-the-right-file)
+    * [Annotating bird songs](#annotating-bird-songs)
+* [Status](#status)
+* [To-do list](#to-do-list)
+* [Contact](#contact)
 
-## 
-&nbsp;
-
-<div class="alert alert-info">
 
 ## Purpose
 
-- This protocol explains the steps required to conduct an objective assessment of the vocal behavior of several bird species using recordings from the Macaulay Library
-
-</div>
+- *This protocol explains the steps required to conduct an objective assessment of the vocal behavior of several bird species using recordings from the Macaulay Library*
 
 &nbsp;
 
+--- 
 
-<div class="alert alert-warning">
+## Data links
 
-Please follow the instructions as close as possible to ensure the data would be comparable across species regardless of who did the analysis
+- [Spreadsheet with the recording info and metadata](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing) 
+- [Recordings by family](https://6f33fa7f78ea46e2aaca-my.sharepoint.com/:f:/g/personal/marcelo_araya_ucr_ac_cr/EoaMWjKcnuZEuStxMx6Ck2YB4pLLQZSS-sdEMyayZbTs8g?e=y9zuIA)
 
-</div>
 
-&nbsp;
+---
 
-# Analysis workflow
+## Analysis workflow
 
-### Finding the right file
+### Getting a file to annotate
 
-1. Choose a species assigned to you (“assigned to” column in “recordings_metadata.xlsx” file):
+Find the files you have been assigned to in the [recording spreadsheet](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing). Look at the "assigned_to" column:
 
 ```{r, out.width = "100%", echo = FALSE}
 
-knitr::include_graphics("./scripts/data_sheet.png")
+knitr::include_graphics("./scripts/metadata_doc.png")
+
+```
+&nbsp;
+
+Open the species ebird page by clicking on the link in the "species_ebird_url"  column:
+
+```{r, out.width = "100%", echo = FALSE}
+
+knitr::include_graphics("./scripts/species_link.png")
 
 ```
 &nbsp;
 
 1. Look up the species in [https://ebird.org/explore](https://ebird.org/explore) to get an example of the species typical song. In this example the species is *Phaethornis longirostris*:
 
-```{r, out.width = "100%", echo = FALSE}
 
-knitr::include_graphics("./scripts/ebird.png")
-
-```
-&nbsp;
-
-1. click on  the "listen" button:
+1. Click on  the "listen" ("escuchar") button:
 
 ```{r, out.width = "100%", echo = FALSE}
 
-knitr::include_graphics("./scripts/lbh.png")
+knitr::include_graphics("./scripts/banana.png")
 
 ```
 &nbsp;
@@ -92,7 +89,7 @@ knitr::include_graphics("./scripts/lbh.png")
 
 ```{r, out.width = "100%", echo = FALSE}
 
-knitr::include_graphics("./scripts/spectro_marked.png")
+knitr::include_graphics("./scripts/banana_spectro.png")
 
 ```
 &nbsp;
@@ -107,26 +104,44 @@ knitr::include_graphics("./scripts/spectro_marked2.png")
 &nbsp;
 
 
-<div class="alert alert-warning">
-
-The spectrogram that is shown contains what experts have identified as a good example of the species' vocalization, so it will be used to define which signals in our sound files will be annotated
-
-</div>
+**The spectrogram that is shown contains what experts have identified as a good example of the species' vocalization, so it will be used to define which signals in our sound files will be annotated.**
 
 &nbsp;
 
-### Annotating bird songs
+---
+
+## Annotating bird songs
 
 
-1. Open Raven
+1. Open the sound file in Raven: Ctrl + O (or go to file → open sound files). The sound file names follows the syntax "species_name_ID_number.wav":
 
-1. In Raven you should open the sound files: Ctrl + O (or go to file → open sound files)
 
-1. Go to the folder with the recordings ("./recordings/"). 
 
-1. Open the sound file containing the Macaulay Library ID
+```{r, out.width = "100%", echo = FALSE}
 
-1. When you open the file a "Configure New Sound Window" window appears, in the "Window Preset" window, choose the "bird_song_evolution" option and then click "OK" (if this window does not open when loading a file you must go to View → Window Preset and select "bird_song_evolution")
+knitr::include_graphics("./scripts/open_file.png")
+
+```
+&nbsp;
+
+
+
+```{r, out.width = "100%", echo = FALSE}
+
+knitr::include_graphics("./scripts/raven_preset.png")
+
+```
+&nbsp;
+
+```{r, out.width = "100%", echo = FALSE}
+
+knitr::include_graphics("./scripts/raven_banana.png")
+
+```
+&nbsp;
+
+
+1. When you open the file a "Configure New Sound Window" window appears, in the "Window Preset" window, choose the "bird_songs" option and then click "OK" (if this window does not open when loading a file you must go to View → Window Preset and select "bird_song_evolution")
 
 1. Examine the recording to determine the position of the signals that are shown in the spectrogram on the ebird web page
 
@@ -207,27 +222,6 @@ For “full song” selections in single song repertoire species we should inclu
 
 ```
 
-
-&nbsp;
-
-<div class="alert alert-info">
-
-
-- Good performance on detecting zebra finch songs: F1 score was 0.95 for the training data set and 0.96 for the testing data 
-
-</div>
-
-&nbsp;
-
----
-
-## Analysis
-
-* Analysis 1
-
-## In progress
-
-*  Something not finished yet
 
 ## To-do list
 
