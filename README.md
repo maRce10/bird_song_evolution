@@ -8,7 +8,7 @@ Araya-Salas, PhD</a></font>
 </center>
 <br>
 
-*Updated on 2022-05-30 10:35:45*
+*Updated on 2022-05-30 10:44:21*
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -89,6 +89,10 @@ define which signals in our sound files will be annotated.**
     “species_name_ID_number.wav”:
 
 <img src="./scripts/open_file.png" width="100%" />  
+
+Select the preset “bird_songs”. This present can be download [from
+here](https://github.com/maRce10/bird_song_evolution/raw/master/bird_songs)
+and should be copied into “./RavenPro1.6/Presets/Sound Window”
 
 <img src="./scripts/raven_preset.png" width="100%" />  
 

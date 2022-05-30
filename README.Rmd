@@ -115,8 +115,6 @@ knitr::include_graphics("./scripts/spectro_marked2.png")
 
 1. Open the sound file in Raven: Ctrl + O (or go to file → open sound files). The sound file names follows the syntax "species_name_ID_number.wav":
 
-
-
 ```{r, out.width = "100%", echo = FALSE}
 
 knitr::include_graphics("./scripts/open_file.png")
@@ -125,6 +123,7 @@ knitr::include_graphics("./scripts/open_file.png")
 &nbsp;
 
 
+Select the preset "bird_songs". This present can be download [from here](https://github.com/maRce10/bird_song_evolution/raw/master/bird_songs) and should be copied into "./RavenPro1.6/Presets/Sound Window"
 
 ```{r, out.width = "100%", echo = FALSE}
 
