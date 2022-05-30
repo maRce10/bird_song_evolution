@@ -1,14 +1,9 @@
-<center>
-<font size="6"><b>Song annotation protocol</b></font>
-</center>
+<font size="6"><b>Song annotation protocol</b></font><br>
 ================
-<center>
 <font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo
-Araya-Salas, PhD</a></font>
-</center>
-<br>
+Araya-Salas, PhD</a></font><br>
 
-*Updated on 2022-05-30 10:44:21*
+*Updated on 2022-05-30 14:35:02*
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -16,8 +11,10 @@ Araya-Salas, PhD</a></font>
 
 -   [Data links](#data-links)
 -   [Analysis workflow](#analysis-workflow)
-    -   [Finding the right file](#finding-the-right-file)
+    -   [Getting a file to annotate](#getting-a-file-to-annotate)
     -   [Annotating bird songs](#annotating-bird-songs)
+    -   [Examples](#examples)
+    -   [Additional annotation tips](#additional-annotation-tips)
 -   [Status](#status)
 -   [To-do list](#to-do-list)
 -   [Contact](#contact)
@@ -38,6 +35,10 @@ Araya-Salas, PhD</a></font>
     metadata](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing)
 -   [Recordings by
     family](https://6f33fa7f78ea46e2aaca-my.sharepoint.com/:f:/g/personal/marcelo_araya_ucr_ac_cr/EoaMWjKcnuZEuStxMx6Ck2YB4pLLQZSS-sdEMyayZbTs8g?e=y9zuIA)
+-   [Raven window preset
+    file](https://github.com/maRce10/bird_song_evolution/raw/master/bird_songs)
+-   [Online folder for uploading selection
+    files](https://drive.google.com/drive/folders/1SqeJQFmWXP3u0zdeEMr1r-1wDY6Az73c?usp=sharing)
 
 ------------------------------------------------------------------------
 
@@ -45,30 +46,30 @@ Araya-Salas, PhD</a></font>
 
 ### Getting a file to annotate
 
-Find the files you have been assigned to in the [recording
-spreadsheet](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing).
-Look at the “assigned_to” column:
+1.  Find the files you have been assigned to in the [recording
+    spreadsheet](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing).
+    Look at the “assigned_to” column:
 
 <img src="./scripts/metadata_doc.png" width="100%" />  
 
-Open the species ebird page by clicking on the link in the
-“species_ebird_url” column:
+2.  Open the species eBird page by clicking on the link in the
+    “species_ebird_url” column:
 
 <img src="./scripts/species_link.png" width="100%" />  
 
-1.  Look up the species in <https://ebird.org/explore> to get an example
+3.  Look up the species in <https://ebird.org/explore> to get an example
     of the species typical song. In this example the species is
     *Phaethornis longirostris*:
 
-2.  Click on the “listen” (“escuchar”) button:
+4.  Click on the “listen” (“escuchar”) button:
 
 <img src="./scripts/banana.png" width="100%" />  
 
-1.  Look for the example that matches the ID number in our data base:
+5.  Look for the example that matches the ID number in our data base:
 
 <img src="./scripts/banana_spectro.png" width="100%" />  
 
-1.  Look at the vocalization description for that recording on ebird and
+6.  Look at the vocalization description for that recording on eBird and
     write it down in “vocalization_type” column in
     “recordings_metadata.xlsx” file:
 
@@ -90,101 +91,136 @@ define which signals in our sound files will be annotated.**
 
 <img src="./scripts/open_file.png" width="100%" />  
 
-Select the preset “bird_songs”. This present can be download [from
-here](https://github.com/maRce10/bird_song_evolution/raw/master/bird_songs)
-and should be copied into “./RavenPro1.6/Presets/Sound Window”
+2.  When you open the file a “Configure New Sound Window” window will
+    pop-up. In the “Window Preset” window, choose the “bird_songs”
+    option and then click “OK” (if this window does not open when
+    loading a file you must go to View → Window Preset and select
+    “bird_song_evolution”). This present can be download [from
+    here](https://github.com/maRce10/bird_song_evolution/raw/master/bird_songs)
+    and should be copied into “./RavenPro1.6/Presets/Sound Window”:
 
 <img src="./scripts/raven_preset.png" width="100%" />  
 
+The selection table should include the columns “Begin File”, “Begin
+Path”, “song” and “element”:
+
 <img src="./scripts/raven_banana.png" width="100%" />  
 
-1.  When you open the file a “Configure New Sound Window” window
-    appears, in the “Window Preset” window, choose the “bird_songs”
-    option and then click “OK” (if this window does not open when
-    loading a file you must go to View → Window Preset and select
-    “bird_song_evolution”)
+3.  Examine the recording to determine the position of the signals that
+    are shown in the spectrogram on the eBird web page.
 
-2.  Examine the recording to determine the position of the signals that
-    are shown in the spectrogram on the ebird web page
-
-3.  Determine the sequence of elements of which the song is composed. *A
+4.  Determine the sequence of elements of which the song is composed. *A
     song can be defined by the repetition of a sequence of elements*
     (even if the sequence is a single element) *and/or by long silences*
     (much greater than the silences between elements within a song).
     Sequence repetitions can vary in the composition and number of
-    repeats of individual elements. Again, the example in the ebird web
+    repeats of individual elements. Again, the example in the eBird web
     page should be used as a guide to determine vocalization structure.
+    **[This step is further explain below](#examples)**.
 
- 
+5.  Once you commit the selection (pressing “Enter”), **each element
+    must be tagged with the song to which it belongs** (Raven will ask
+    for the tag each time a new selection is entered). The label must be
+    a number for the song and a letter for the element (eg “1a” for
+    element “a” in song “1”).
 
-<div class="alert alert-info">
+6.  Save the selections with the name suggested by Raven (which includes
+    the sound file name). In that way we can easily track the recording
+    they belong to: <img src="./scripts/save_sel.png" width="100%" />  
 
-## Example
+7.  Update the [recording spreadsheet google
+    doc](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing):
+    add the current date to the “analyzed_to” column.
 
-Let say we have a vocalization like this:
+8.  Once you are done for the day load the selection tables [to this
+    online
+    folder](https://drive.google.com/drive/folders/1SqeJQFmWXP3u0zdeEMr1r-1wDY6Az73c?usp=sharing).
+     
 
-<font size="4">abcdab abcdab abcdab abcdab abcdab abcdab abcdab abcdab
-abcdab</font>
+9.  Start with a new species.
 
-In this example every sequence of 6 elements that is separated from
-others by a wide gap will be called a song. You will have to choose 5 of
-those. Something like this (**bold** means analyzed):
+------------------------------------------------------------------------
 
-<font size="4">**abcdab** abcdab **abcdab abcdab** abcdab **abcdab**
-abcdab **abcdab abcdab** </font>
+### Examples
 
-</div>
+This is an example of a song from the hummingbird *Anoupetia gounellei*
+(a 2-row spectrogram):
 
- 
+<img src="./scripts/anopetia_examp.png" width="100%" />  
 
-1.  Ensure that they belong to a single individual
+The orange lines with a single number on top refer to the song while the
+blue boxes refer to each of the elements. The letter on top of the boxes
+are the element categories (or element types). In the example above, the
+song is composed of 2 elements types, **a** and **b** in which **a** is
+repeated twice at the beginning of the song and **b** is uttered just
+once at the end. So there are 3 songs selected (labeled as 3, 4 and 5).
+In this case the song can be told apart as fixed sequence of elements,
+but notice that the gap between elements and between song is similar.
 
-2.  **Select the beginning and end of each of the elements for up to 5
+The selection table for this recording would look like this:
+
+<img src="./scripts/anopetia_sel.png" width="70%" />
+
+*(Note that song starts at 3 to match the labels in the image, but song
+labels should start at 1)*
+
+A similar structure is found in songs of *Phaethornis bourcieri*
+(clearly repeated element sequence but gaps similar between songs and
+elements):
+
+<img src="./scripts/P_bourcieri.png" width="100%" />  
+
+This other example from *Glaucis hirsutus* shows songs that are clearly
+differentiated by long silence gaps:
+<img src="./scripts/glaucis.png" width="100%" />  
+
+Also note that the sequence of elements for different songs is very
+similar but not exactly the same. In the absence of long gaps this could
+be used for telling songs apart.
+
+The selection table for the songs in the *Glaucis* spectrogram above:
+<img src="./scripts/glaucis_sel.png" width="70%" />  
+
+This is a nother example (*Phaethornis aethopygus*) with a similar
+pattern (song separated by both long gaps and the element sequence
+pattern): <img src="./scripts/p_aethopygus.png" width="100%" />  
+
+### Additional annotation tips
+
+1.  Ensure that the selected sounds belong to a single individual (or
+    pair if a duet, for instance in wrens). Sometimes more than one
+    individual can be found in a single recording. This can be
+    identified by overlapping in time and frequency but with similar
+
+2.  Select the beginning and end of each of the elements for **up to 5
     songs** (if available). Songs do not have to be consecutive. If
     there are more songs available in the recordings and they vary
     considerably you can try to measure more songs.
 
 3.  Make selections on the spectrogram by adjusting both time and
     frequency. If the songs have a lot of harmonics the high frequency
-    can extend more (high frequency accuracy is not relevant when there
-    are many harmonics).
+    try to include both the fundamental frequency (harmonic with the
+    lowest frequency) and dominant frequency (harmonic with the highest
+    energy), which sometimes can be the same harmonic.
 
 4.  Set the beginning and end (the margins of the selection box) right
     at the beginning and end of the element, trying not to include the
-    reverberations at the end of the element
+    reverberations at the end of the element.
 
-5.  Avoid annotating songs in which the elements overlap other sounds
+5.  Avoid annotating songs in which the elements overlap other sounds.
 
 6.  If the recording was made on 2 channels, make the selections only on
-    the first channel (the one above).
+    the first channel (the one on top).
 
-7.  Once you commit the selection (pressing “Enter”), **each element
-    must be tagged with the song to which it belongs** (Raven will ask
-    for the tag each time a new selection is entered). The label must be
-    a number for the song and a letter for the element (eg “1a” for
-    element “a” in song “1”).
-
-8.  Different elements should be labeled with different letters (so
+7.  Different elements should be labeled with different letters (so
     elements that look the same should be labeled with the same letter)
 
-9.  Save the selection in the default folder suggested by Raven. When
+8.  Save the selection in the default folder suggested by Raven. When
     you try to close the audio file Raven will ask if they want to save
     the selection, just click OK and keep the suggested file name
     unchanged.
 
-10. Once you are done with the species:
-
-    1.  enter the information in “recordings_metadata.xlsx”.
-    2.  If no song were found in the available recordings add a comment
-        (“comments” column)
-
-11. Start with a new species
-
-At the end of the analysis session:
-
-1.Copy the selection files to “./selections”.
-
-1.  If there is something inconsistent or poorly explained in this
+9.  If there is something inconsistent or poorly explained in this
     protocol please let us know!
 
 ## To-do list
@@ -197,4 +233,4 @@ Project is: *in progress*
 
 ## Contact
 
-Created by [Autor name](website_URL)
+Created by [Marcelo Araya-Salas](http://marceloarayasalas.weebly.com)
