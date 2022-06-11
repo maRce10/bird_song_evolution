@@ -144,7 +144,7 @@ knitr::include_graphics("./scripts/raven_banana.png")
 
 3. Examine the recording to determine the position of the signals that are shown in the spectrogram on the eBird web page.
 
-4. Determine the sequence of elements of which the song is composed. *A song can be defined by the repetition of a sequence of elements* (even if the sequence is a single element) *and/or by long silences* (much greater than the silences between elements within a song). Sequence repetitions can vary in the composition and number of repeats of individual elements. Again, the example in the eBird web page should be used as a guide to determine vocalization structure. **[This step is further explain below](#examples)**.
+4. Determine the sequence of elements of which the song is composed. *A song can be defined by the repetition of a sequence of elements* (even if the sequence is a single element) *and/or by long silences* (much greater than the silences between elements within a song). Sequence repetitions can vary in the composition and number of repeats of individual elements. Again, the example in the eBird web page should be used as a guide to determine vocalization structure. **[This step is further explain below](#examples)**. If some elements have other unison sounds they should be included as part of the song.
 
 5. Once you commit the selection (pressing “Enter”), **each element must be tagged with the song to which it belongs** (Raven will ask for the tag each time a new selection is entered). The label must be a number for the song and a letter for the element (eg "1a" for element "a" in song "1"). 
 
@@ -178,7 +178,7 @@ knitr::include_graphics("./scripts/anopetia_examp.png")
 &nbsp;          
 
 
-The orange lines with a single number on top  refer to the song while the blue boxes refer to each of the elements. The letter on top of the boxes are the element categories (or element types). In the example above, the song is composed of 2 elements types, **a** and **b** in which **a** is repeated twice at the beginning of the song and **b** is uttered just once at the end. So there are 3 songs selected (labeled as 3, 4 and 5). In this case the song can be told apart as fixed sequence of elements, but notice that the gap between elements and between song is similar.  
+The orange lines with a single number on top refer to the song while the blue boxes refer to each of the elements. The letter on top of the boxes are the element categories (or element types). In the example above, the song is composed of 2 elements types, **a** and **b** in which **a** is repeated twice at the beginning of the song and **b** is uttered just once at the end. So there are 3 songs selected (labeled as 3, 4 and 5). In this case the song can be told apart as fixed sequence of elements, but notice that the gap between elements and between song is similar.  
 
 The selection table for this recording would look like this:
 
@@ -233,7 +233,7 @@ knitr::include_graphics("./scripts/p_aethopygus.png")
 
 1. Select the beginning and end of each of the elements for **up to 5 songs** (if available). Songs do not have to be consecutive. If there are more songs available in the recordings and they vary considerably you can try to measure more songs.
 
-1. Make selections on the spectrogram by adjusting both time and frequency. If the songs have a lot of harmonics the high frequency try to include both the fundamental frequency (harmonic with the lowest frequency) and dominant frequency (harmonic with the highest energy), which sometimes can be the same harmonic.
+1. Make selections on the spectrogram by adjusting both time and frequency. If the songs have a lot of harmonics the high frequency try to include both the fundamental frequency (harmonic with the lowest frequency) and dominant frequency (harmonic with the highest energy), which sometimes can be the same harmonic. If individual harmonics are not easy to tell apart select the range of harmonics that clearly stand over the background noise.
 
 1. Set the beginning and end (the margins of the selection box) right at the beginning and end of the element, trying not to include the reverberations at the end of the element.
 
@@ -241,7 +241,9 @@ knitr::include_graphics("./scripts/p_aethopygus.png")
 
 1. If the recording was made on 2 channels, make the selections only on the first channel (the one on top).
 
-1. Different elements should be labeled with different letters (so elements that look the same should be labeled with the same letter)
+1. If the recording we have doesn't contain a song (and the species clearly has songs) look for other recordings in the Macaulay Library and write down the code in the "recording_needed" column.
+
+1. Duets should not be annotated unless each note can be distinguished. Make sure the vocalization type is labeled as duet (or mentioned in comments).       
 
 1. Save the selection in the default folder suggested by Raven. When you try to close the audio file Raven will ask if they want to save the selection, just click OK and keep the suggested file name unchanged.
 

@@ -3,7 +3,7 @@
 <font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo
 Araya-Salas, PhD</a></font><br>
 
-*Updated on 2022-06-06 18:55:26*
+*Updated on 2022-06-10 19:29:25*
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -116,7 +116,9 @@ Path”, “song” and “element”:
     Sequence repetitions can vary in the composition and number of
     repeats of individual elements. Again, the example in the eBird web
     page should be used as a guide to determine vocalization structure.
-    **[This step is further explain below](#examples)**.
+    **[This step is further explain below](#examples)**. If some
+    elements have other unison sounds they should be included as part of
+    the song.
 
 5.  Once you commit the selection (pressing “Enter”), **each element
     must be tagged with the song to which it belongs** (Raven will ask
@@ -201,7 +203,9 @@ pattern): <img src="./scripts/p_aethopygus.png" width="100%" />  
     frequency. If the songs have a lot of harmonics the high frequency
     try to include both the fundamental frequency (harmonic with the
     lowest frequency) and dominant frequency (harmonic with the highest
-    energy), which sometimes can be the same harmonic.
+    energy), which sometimes can be the same harmonic. If individual
+    harmonics are not easy to tell apart select the range of harmonics
+    that clearly stand over the background noise.
 
 4.  Set the beginning and end (the margins of the selection box) right
     at the beginning and end of the element, trying not to include the
@@ -212,15 +216,20 @@ pattern): <img src="./scripts/p_aethopygus.png" width="100%" />  
 6.  If the recording was made on 2 channels, make the selections only on
     the first channel (the one on top).
 
-7.  Different elements should be labeled with different letters (so
-    elements that look the same should be labeled with the same letter)
+7.  If the recording we have doesn’t contain a song (and the species
+    clearly has songs) look for other recordings in the Macaulay Library
+    and write down the code in the “recording_needed” column.
 
-8.  Save the selection in the default folder suggested by Raven. When
+8.  Duets should not be annotated unless each note can be distinguished.
+    Make sure the vocalization type is labeled as duet (or mentioned in
+    comments).
+
+9.  Save the selection in the default folder suggested by Raven. When
     you try to close the audio file Raven will ask if they want to save
     the selection, just click OK and keep the suggested file name
     unchanged.
 
-9.  If there is something inconsistent or poorly explained in this
+10. If there is something inconsistent or poorly explained in this
     protocol please let us know!
 
 ## To-do list
