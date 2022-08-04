@@ -3,7 +3,7 @@
 <font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo
 Araya-Salas, PhD</a></font><br>
 
-*Updated on 2022-06-10 19:29:25*
+*Updated on 2022-08-04 14:05:40*
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -95,7 +95,7 @@ define which signals in our sound files will be annotated.**
     pop-up. In the “Window Preset” window, choose the “bird_songs”
     option and then click “OK” (if this window does not open when
     loading a file you must go to View → Window Preset and select
-    “bird_song_evolution”). This present can be download [from
+    “bird_song_evolution”). This preset can be downloaded [from
     here](https://github.com/maRce10/bird_song_evolution/raw/master/bird_songs)
     and should be copied into “./RavenPro1.6/Presets/Sound Window”:
 
@@ -187,54 +187,73 @@ This is a nother example (*Phaethornis aethopygus*) with a similar
 pattern (song separated by both long gaps and the element sequence
 pattern): <img src="./scripts/p_aethopygus.png" width="100%" />  
 
-### Additional annotation tips
+### additional criteria for annotating
 
-1.  Ensure that the selected sounds belong to a single individual (or
-    pair if a duet, for instance in wrens). Sometimes more than one
+1.  Ensure that the selected **sounds belong to a single individual**
+    (or pair if a duet, for instance in wrens). Sometimes more than one
     individual can be found in a single recording. This can be
-    identified by overlapping in time and frequency but with similar
+    identified by signals overlapping in time and frequency but with
+    similar structure and timing
 
-2.  Select the beginning and end of each of the elements for **up to 5
-    songs** (if available). Songs do not have to be consecutive. If
-    there are more songs available in the recordings and they vary
-    considerably you can try to measure more songs.
+2.  Select the beginning and end of each of the elements for **up to 3
+    songs** (if available). Songs do not have to be consecutive. Avoid
+    those songs that look incomplete (e.g. if most songs have 5-6
+    elements and there is a couple with 2 elements avoid measuring the
+    latter).
 
-3.  Make selections on the spectrogram by adjusting both time and
-    frequency. If the songs have a lot of harmonics the high frequency
-    try to include both the fundamental frequency (harmonic with the
-    lowest frequency) and dominant frequency (harmonic with the highest
-    energy), which sometimes can be the same harmonic. If individual
-    harmonics are not easy to tell apart select the range of harmonics
-    that clearly stand over the background noise.
+3.  **Make selections on the spectrogram** by adjusting both time and
+    frequency. If the songs have a lot of harmonics include both the
+    fundamental frequency (harmonic with the lowest frequency) and
+    dominant frequency (harmonic with the highest energy), which
+    sometimes can be the same harmonic. If individual harmonics are not
+    easy to tell apart select the range of harmonics that clearly stand
+    over the background noise.
 
 4.  Set the beginning and end (the margins of the selection box) right
-    at the beginning and end of the element, trying not to include the
-    reverberations at the end of the element.
+    at the beginning and end of the element, **excluding the
+    reverberations** at the end of the element.
 
-5.  Avoid annotating songs in which the elements overlap other sounds.
+5.  **Avoid annotating songs in which the elements overlap other
+    sounds**.
 
-6.  If the recording was made on 2 channels, make the selections only on
-    the first channel (the one on top).
+6.  Include acoustic **units repeated in sequence with little time gaps
+    in between (for instance trills) as a single element** (i.e. a
+    single annotation box).
 
-7.  If the recording we have doesn’t contain a song (and the species
+7.  If the recording was made on 2 channels, make the **selections only
+    on the first channel** (the one on top).
+
+8.  If the recording we have doesn’t contain a song (and the species
     clearly has songs) look for other recordings in the Macaulay Library
     and write down the code in the “recording_needed” column.
 
-8.  Duets should not be annotated unless each note can be distinguished.
-    Make sure the vocalization type is labeled as duet (or mentioned in
-    comments).
+9.  **Duets should not be annotated unless each note can be
+    distinguished**. Make sure the vocalization type is labeled as duet
+    and a note in comments.
 
-9.  Save the selection in the default folder suggested by Raven. When
-    you try to close the audio file Raven will ask if they want to save
-    the selection, just click OK and keep the suggested file name
+10. **Save the selection in the default folder suggested by Raven**.
+    When you try to close the audio file Raven will ask if they want to
+    save the selection, just click OK and keep the suggested file name
     unchanged.
 
-10. If there is something inconsistent or poorly explained in this
+11. If the structure of the song is hard to define **look up for papers
+    describing the song** for that species and include the paper
+    citation into comments.
+
+12. If there is something inconsistent or poorly explained in this
     protocol please let us know!
 
 ## To-do list
 
--   Do the next analysis
+-   Develop algorithms to:
+    -   Tell which sound should belong to the same element based on the
+        average distance between elements within a song
+    -   Define decision rules to tell which elements belong to the same
+        category based on the similarities found in song with good
+        inter-observer agreement in element clasification (maybe using
+        cross-correlation)
+-   Add examples of trill and gradually changing sounds that should be
+    annotated as a single element
 
 ## Status
 
