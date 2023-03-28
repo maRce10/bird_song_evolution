@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	83.938863930	84.153562995	1045.0	2481.9	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	1	a
+2	Spectrogram 1	1	84.232836496	84.609385626	1149.5	3527.0	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	1	b
+3	Spectrogram 1	1	84.909964317	85.322847135	1280.2	3527.0	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	1	b
+4	Spectrogram 1	1	89.082204667	89.300206794	1463.0	2586.4	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	2	c
+5	Spectrogram 1	1	89.445541546	89.765938613	1881.0	3762.1	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	2	d
+6	Spectrogram 1	1	90.030183616	90.291125557	1045.0	3291.8	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	2	e
+7	Spectrogram 1	1	90.520001460	90.835309879	1045.0	6531.4	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	2	f
+8	Spectrogram 1	1	90.905378417	91.003474370	3265.7	6871.0	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	2	g
+9	Spectrogram 1	1	91.015152459	91.197330657	3945.0	6505.3	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	2	h
+10	Spectrogram 1	1	93.553943960	93.757081600	1645.9	2821.6	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	3	i
+11	Spectrogram 1	1	93.920583902	94.338421314	1828.8	3605.3	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	3	d
+12	Spectrogram 1	1	94.490304824	94.742989108	1123.4	3370.2	Turdus_kessleri-ML63476.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_kessleri-ML63476.wav	3	e

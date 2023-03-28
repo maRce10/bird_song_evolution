@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.681644904	2.522467356	193.9	1717.5	Bostrychia_hagedash-ML214446771.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_hagedash-ML214446771.wav	1	a
+2	Spectrogram 1	1	6.203401200	6.913429049	166.2	1662.1	Bostrychia_hagedash-ML214446771.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_hagedash-ML214446771.wav	2	b
+3	Spectrogram 1	1	16.872503867	17.582531716	166.2	1662.1	Bostrychia_hagedash-ML214446771.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_hagedash-ML214446771.wav	3	b

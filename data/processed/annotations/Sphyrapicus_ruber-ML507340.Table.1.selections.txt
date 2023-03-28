@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.213051903	2.609419408	664.8	3767.3	Sphyrapicus_ruber-ML507340.wav	D:\Andean\Picidae\Sphyrapicus_ruber-ML507340.wav	1	a
+2	Spectrogram 1	1	5.701085947	6.044604451	775.6	3795.0	Sphyrapicus_ruber-ML507340.wav	D:\Andean\Picidae\Sphyrapicus_ruber-ML507340.wav	2	a
+3	Spectrogram 1	1	8.204807353	8.541719733	637.1	3628.8	Sphyrapicus_ruber-ML507340.wav	D:\Andean\Picidae\Sphyrapicus_ruber-ML507340.wav	3	a

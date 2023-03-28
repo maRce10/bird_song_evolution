@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.569500461	5.613877201	720.2	2770.1	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	1	a
+2	Spectrogram 1	1	5.625555291	5.660589560	831.0	2770.1	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	1	a
+3	Spectrogram 1	1	5.676938885	5.711973154	803.3	2797.8	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	1	a
+4	Spectrogram 1	1	5.740000569	5.768027984	803.3	2659.3	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	1	a
+5	Spectrogram 1	1	6.893795822	6.935836945	664.8	2742.4	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	2	a
+6	Spectrogram 1	1	6.945179417	6.982549303	747.9	2631.6	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	2	a
+7	Spectrogram 1	1	7.001234247	7.043275369	886.4	2687.0	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	2	a
+8	Spectrogram 1	1	7.066631548	7.094658964	775.6	2631.6	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	2	a
+9	Spectrogram 1	1	7.129693232	7.155385030	637.1	1772.9	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	2	b
+10	Spectrogram 1	1	7.164727501	7.190419298	581.7	1689.8	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	2	b
+11	Spectrogram 1	1	7.302528959	7.342234463	831.0	2548.5	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	3	a
+12	Spectrogram 1	1	7.344570081	7.388946822	886.4	2520.8	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	3	a
+13	Spectrogram 1	1	7.412303001	7.447337270	858.7	2548.5	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	3	a
+14	Spectrogram 1	1	7.470693449	7.496385246	858.7	2437.7	Syrrhaptes_paradoxus-ML78123.wav	D:\Andean\Pteroclidae\Syrrhaptes_paradoxus-ML78123.wav	3	a

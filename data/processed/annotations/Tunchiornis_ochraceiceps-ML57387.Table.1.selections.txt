@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.480037461	8.188913054	3545.7	4432.2	Tunchiornis_ochraceiceps-ML57387.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Tunchiornis_ochraceiceps-ML57387.wav	1	a
+2	Spectrogram 1	1	11.115426466	11.812372662	3462.6	4155.2	Tunchiornis_ochraceiceps-ML57387.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Tunchiornis_ochraceiceps-ML57387.wav	2	b
+3	Spectrogram 1	1	15.403869514	16.110724898	3490.3	4293.7	Tunchiornis_ochraceiceps-ML57387.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Tunchiornis_ochraceiceps-ML57387.wav	3	a

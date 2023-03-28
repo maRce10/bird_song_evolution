@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	101.418341329	101.451222649	724.7	4289.7	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	1	a
+2	Spectrogram 1	1	101.540405338	101.581693620	763.9	4289.7	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	1	a
+3	Spectrogram 1	1	101.684088559	101.722073778	744.3	4309.3	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	1	a
+4	Spectrogram 1	1	101.836029435	101.875666186	763.9	4289.7	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	1	a
+5	Spectrogram 1	1	101.997879500	102.039167782	724.7	4309.3	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	1	a
+6	Spectrogram 1	1	102.158078033	102.184501627	763.9	4309.3	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	1	a
+7	Spectrogram 1	1	103.461134393	103.497467193	842.3	4191.7	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	2	b
+8	Spectrogram 1	1	103.580043757	103.613170962	783.5	4230.9	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	2	b
+9	Spectrogram 1	1	103.680787165	103.722075446	842.3	4270.1	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	2	a
+10	Spectrogram 1	1	103.827773448	103.869061729	783.5	4289.7	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	2	a
+11	Spectrogram 1	1	103.996229637	104.031737560	744.3	4407.2	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	2	c
+12	Spectrogram 1	1	104.197716452	104.233224375	822.7	4289.7	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	2	a
+13	Spectrogram 1	1	105.884841944	105.922827164	822.7	4074.2	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	3	d
+14	Spectrogram 1	1	106.000449133	106.031828227	803.1	4230.9	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	3	b
+15	Spectrogram 1	1	106.121010916	106.160647667	822.7	4270.1	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	3	a
+16	Spectrogram 1	1	106.276254856	106.312588544	822.7	4289.7	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	3	a
+17	Spectrogram 1	1	106.433150326	106.472787077	822.7	4270.1	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	3	a
+18	Spectrogram 1	1	106.613167235	106.644546329	803.1	4230.9	Hemitriccus_zosterops-ML17481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_zosterops-ML17481.wav	3	b

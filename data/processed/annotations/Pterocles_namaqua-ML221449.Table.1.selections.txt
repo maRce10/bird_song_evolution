@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	162.389498332	162.482923049	360.1	914.1	Pterocles_namaqua-ML221449.wav	D:\Andean\Pteroclidae\Pterocles_namaqua-ML221449.wav	1	a
+2	Spectrogram 1	1	162.523795686	162.599703269	443.2	1218.8	Pterocles_namaqua-ML221449.wav	D:\Andean\Pteroclidae\Pterocles_namaqua-ML221449.wav	1	b
+3	Spectrogram 1	1	162.609045740	162.877641801	415.5	3074.8	Pterocles_namaqua-ML221449.wav	D:\Andean\Pteroclidae\Pterocles_namaqua-ML221449.wav	1	c
+4	Spectrogram 1	1	163.799815595	163.897255940	360.1	914.1	Pterocles_namaqua-ML221449.wav	D:\Andean\Pteroclidae\Pterocles_namaqua-ML221449.wav	2	a
+5	Spectrogram 1	1	163.938544222	164.017817723	498.6	1218.8	Pterocles_namaqua-ML221449.wav	D:\Andean\Pteroclidae\Pterocles_namaqua-ML221449.wav	2	b
+6	Spectrogram 1	1	164.021120785	164.303532632	554.0	3157.9	Pterocles_namaqua-ML221449.wav	D:\Andean\Pteroclidae\Pterocles_namaqua-ML221449.wav	2	c
+7	Spectrogram 1	1	164.348123606	164.429048638	470.9	1218.8	Pterocles_namaqua-ML221449.wav	D:\Andean\Pteroclidae\Pterocles_namaqua-ML221449.wav	3	b
+8	Spectrogram 1	1	164.465382326	164.620626265	498.6	2797.8	Pterocles_namaqua-ML221449.wav	D:\Andean\Pteroclidae\Pterocles_namaqua-ML221449.wav	3	c

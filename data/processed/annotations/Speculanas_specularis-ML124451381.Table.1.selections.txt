@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.201284904	1.279296279	593.3	4177.6	Speculanas_specularis-ML124451381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Speculanas_specularis-ML124451381.wav	1	a
+2	Spectrogram 1	1	1.623255526	1.708358845	395.5	3905.7	Speculanas_specularis-ML124451381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Speculanas_specularis-ML124451381.wav	2	a
+3	Spectrogram 1	1	2.054091077	2.148059325	247.2	3831.6	Speculanas_specularis-ML124451381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Speculanas_specularis-ML124451381.wav	3	a

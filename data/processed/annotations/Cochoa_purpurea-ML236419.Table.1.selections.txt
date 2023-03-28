@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	32.309102710	34.264515735	1802.7	2429.7	Cochoa_purpurea-ML236419.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Cochoa_purpurea-ML236419.wav	1	a
+2	Spectrogram 1	1	37.722198865	39.663065316	1776.5	2377.4	Cochoa_purpurea-ML236419.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Cochoa_purpurea-ML236419.wav	2	a
+3	Spectrogram 1	1	44.732725854	46.417287750	1776.5	2481.9	Cochoa_purpurea-ML236419.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Cochoa_purpurea-ML236419.wav	3	a

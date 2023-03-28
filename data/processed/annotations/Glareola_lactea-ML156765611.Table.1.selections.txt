@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.829448060	2.932909595	391.8	5092.8	Glareola_lactea-ML156765611.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_lactea-ML156765611.wav	1	a
+2	Spectrogram 1	1	2.946404577	3.121839354	783.5	4980.8	Glareola_lactea-ML156765611.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_lactea-ML156765611.wav	1	a
+3	Spectrogram 1	1	4.394866064	4.570300841	783.5	5372.6	Glareola_lactea-ML156765611.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_lactea-ML156765611.wav	2	a
+4	Spectrogram 1	1	4.570300841	4.714247324	559.6	5316.6	Glareola_lactea-ML156765611.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_lactea-ML156765611.wav	2	a
+5	Spectrogram 1	1	4.723243979	4.835702169	615.6	5148.7	Glareola_lactea-ML156765611.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_lactea-ML156765611.wav	2	a
+6	Spectrogram 1	1	9.947474219	10.140902306	727.5	5540.5	Glareola_lactea-ML156765611.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_lactea-ML156765611.wav	3	a
+7	Spectrogram 1	1	10.131905651	10.311838755	559.6	5540.5	Glareola_lactea-ML156765611.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_lactea-ML156765611.wav	3	a

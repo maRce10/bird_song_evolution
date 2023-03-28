@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.875268228	1.193907251	2105.3	5318.6	Nothoprocta_perdicaria-ML54865331.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_perdicaria-ML54865331.wav	1	a

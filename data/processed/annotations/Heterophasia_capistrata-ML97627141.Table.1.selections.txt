@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.979438294	3.050146425	3470.0	3931.2	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	1	a
+2	Spectrogram 1	1	3.122622260	3.255200007	3228.4	3887.3	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	1	b
+3	Spectrogram 1	1	3.313534216	3.469092105	3228.4	3733.6	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	1	c
+4	Spectrogram 1	1	3.520355501	3.730712192	2833.1	3667.7	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	1	d
+5	Spectrogram 1	1	3.783743291	3.941068884	3140.6	3777.5	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	1	e
+6	Spectrogram 1	1	4.001170796	4.158496389	3184.5	3711.6	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	1	f
+7	Spectrogram 1	1	4.209759784	4.473147575	2723.3	3689.6	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	1	g
+8	Spectrogram 1	1	20.304004134	20.376479969	3382.2	3997.1	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	2	a
+9	Spectrogram 1	1	20.457794320	20.595675177	3184.5	3799.5	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	2	b
+10	Spectrogram 1	1	20.655777089	20.807799572	3272.4	3667.7	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	2	c
+11	Spectrogram 1	1	20.860830670	21.074722769	2877.0	3579.8	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	2	d
+12	Spectrogram 1	1	21.125986164	21.274473241	3184.5	3821.4	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	2	e
+13	Spectrogram 1	1	21.336342856	21.509577778	3162.5	3711.6	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	2	f
+14	Spectrogram 1	1	21.555538064	21.818925854	2723.3	3689.6	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	2	g
+15	Spectrogram 1	1	36.517238828	36.589714663	3404.1	3997.1	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	3	a
+16	Spectrogram 1	1	36.674564421	36.805374464	3184.5	3931.2	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	3	b
+17	Spectrogram 1	1	36.870779486	37.017498859	3272.4	3711.6	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	3	c
+18	Spectrogram 1	1	37.077600771	37.289725166	2855.1	3601.8	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	3	d
+19	Spectrogram 1	1	37.339220858	37.494778748	3162.5	3821.4	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	3	e
+20	Spectrogram 1	1	37.558416066	37.724580176	3184.5	3689.6	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	3	f
+21	Spectrogram 1	1	37.772308165	38.032160548	2745.3	3733.6	Heterophasia_capistrata-ML97627141.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_capistrata-ML97627141.wav	3	g

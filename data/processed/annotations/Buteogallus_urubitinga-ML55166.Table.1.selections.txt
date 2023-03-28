@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	276.274561250	278.280014597	1334.9	2694.5	Buteogallus_urubitinga-ML55166.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_urubitinga-ML55166.wav	1	a
+2	Spectrogram 1	1	314.998138248	316.891989639	1409.0	2645.0	Buteogallus_urubitinga-ML55166.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_urubitinga-ML55166.wav	2	a
+3	Spectrogram 1	1	333.622657483	335.486071976	1334.9	2447.3	Buteogallus_urubitinga-ML55166.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_urubitinga-ML55166.wav	3	a

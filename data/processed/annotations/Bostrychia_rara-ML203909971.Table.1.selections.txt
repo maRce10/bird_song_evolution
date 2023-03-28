@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.128541723	1.423185621	581.7	1634.4	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	1	a
+2	Spectrogram 1	1	1.534371997	1.862371808	498.6	1772.9	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	1	b
+3	Spectrogram 1	1	1.995795460	2.351591866	498.6	1772.9	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	1	b
+4	Spectrogram 1	1	2.485015518	2.835252604	498.6	1772.9	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	1	b
+5	Spectrogram 1	1	2.979794893	3.330031980	554.0	1606.7	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	1	a
+6	Spectrogram 1	1	3.519048820	3.785896124	609.4	1800.6	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	1	c
+7	Spectrogram 1	1	4.063862066	4.302912775	609.4	1800.6	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	1	c
+8	Spectrogram 1	1	4.508607572	4.858844658	554.0	1662.1	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	1	a
+9	Spectrogram 1	1	5.003386948	5.342505397	554.0	1662.1	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	1	a
+10	Spectrogram 1	1	14.059730709	14.154239129	498.6	1939.1	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	2	d
+11	Spectrogram 1	1	14.257086528	14.618442252	581.7	1634.4	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	2	a
+12	Spectrogram 1	1	14.724069310	15.074306396	609.4	1634.4	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	2	a
+13	Spectrogram 1	1	15.213481329	16.619988993	581.7	1772.9	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	2	b
+14	Spectrogram 1	1	15.680464111	16.086294385	554.0	1800.6	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	2	b
+15	Spectrogram 1	1	16.203040081	16.608870356	554.0	1772.9	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	2	b
+16	Spectrogram 1	1	16.848041231	17.120447854	581.7	1772.9	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	2	c
+17	Spectrogram 1	1	17.320583332	17.676379737	581.7	1689.8	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	2	a
+18	Spectrogram 1	1	17.943227041	18.176718432	581.7	1717.5	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	2	c
+19	Spectrogram 1	1	18.449125054	18.677057126	554.0	1772.9	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	2	c
+20	Spectrogram 1	1	26.010958813	26.333303441	554.0	1662.1	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	3	a
+21	Spectrogram 1	1	26.478751627	26.789303158	581.7	1717.5	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	3	b
+22	Spectrogram 1	1	26.946544440	27.280682164	609.4	1745.2	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	3	b
+23	Spectrogram 1	1	27.422199317	27.740612913	581.7	1717.5	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	3	b
+24	Spectrogram 1	1	27.899806002	28.281116110	581.7	1745.2	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	3	b
+25	Spectrogram 1	1	28.485529777	28.768564084	581.7	1662.1	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	3	a
+26	Spectrogram 1	1	28.969046718	29.295322378	554.0	1856.0	Bostrychia_rara-ML203909971.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_rara-ML203909971.wav	3	e

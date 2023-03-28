@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	263.710512572	263.809604448	2802.1	3194.9	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	1	a
+2	Spectrogram 1	1	263.849241199	264.100273952	3247.3	3640.1	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	1	b
+3	Spectrogram 1	1	264.602339458	264.721249710	2880.6	3221.1	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	1	a
+4	Spectrogram 1	1	264.774098710	265.077980464	3142.5	3692.5	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	1	b
+5	Spectrogram 1	1	265.586652096	266.161384978	2933.0	4897.1	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	1	c
+6	Spectrogram 1	1	266.808785236	267.403336494	3011.6	5028.0	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	1	c
+7	Spectrogram 1	1	268.143222503	268.698137010	3090.1	4870.9	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	1	c
+8	Spectrogram 1	1	269.550327146	270.118453903	3247.3	4870.9	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	1	c
+9	Spectrogram 1	1	274.877723720	274.980490908	2828.3	3194.9	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	2	a
+10	Spectrogram 1	1	274.989833380	275.302806182	3194.9	3613.9	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	2	b
+11	Spectrogram 1	1	275.741902351	275.844669539	2828.3	3221.1	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	2	a
+12	Spectrogram 1	1	275.914738077	276.199683464	3090.1	3640.1	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	2	b
+13	Spectrogram 1	1	276.774245472	277.353478717	2906.8	4897.1	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	2	c
+14	Spectrogram 1	1	277.974753084	278.596027451	2985.4	5080.4	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	2	c
+15	Spectrogram 1	1	279.324740243	279.903973488	3194.9	5001.8	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	2	c
+16	Spectrogram 1	1	282.279464924	282.396245821	2828.3	3168.7	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	3	a
+17	Spectrogram 1	1	282.442958179	282.713889858	3221.1	3718.6	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	3	b
+18	Spectrogram 1	1	283.129629848	283.251081980	2880.6	3168.7	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	3	a
+19	Spectrogram 1	1	283.293123103	283.606095904	3142.5	3613.9	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	3	b
+20	Spectrogram 1	1	284.218027800	284.853315874	3194.9	4792.3	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	3	c
+21	Spectrogram 1	1	285.474590242	285.969741241	3692.5	5001.8	Cyornis_concretus-ML199350.wav	E:\Andean\Muscicapidae\Cyornis_concretus-ML199350.wav	3	c

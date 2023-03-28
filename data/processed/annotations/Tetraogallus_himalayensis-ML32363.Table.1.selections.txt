@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	288.368266566	289.713582489	1024.9	1883.7	Tetraogallus_himalayensis-ML32363.wav	D:\Andean\Phasianidae\Tetraogallus_himalayensis-ML32363.wav	1	a
+2	Spectrogram 1	1	289.722924960	289.975171696	1856.0	2271.5	Tetraogallus_himalayensis-ML32363.wav	D:\Andean\Phasianidae\Tetraogallus_himalayensis-ML32363.wav	1	b
+3	Spectrogram 1	1	291.391789439	292.335379079	1329.6	1883.7	Tetraogallus_himalayensis-ML32363.wav	D:\Andean\Phasianidae\Tetraogallus_himalayensis-ML32363.wav	2	a
+4	Spectrogram 1	1	292.363406494	292.536242220	1772.9	2271.5	Tetraogallus_himalayensis-ML32363.wav	D:\Andean\Phasianidae\Tetraogallus_himalayensis-ML32363.wav	2	b
+5	Spectrogram 1	1	295.957873010	297.172394329	1080.3	1883.7	Tetraogallus_himalayensis-ML32363.wav	D:\Andean\Phasianidae\Tetraogallus_himalayensis-ML32363.wav	3	a
+6	Spectrogram 1	1	297.191079273	297.424641065	1883.7	2299.2	Tetraogallus_himalayensis-ML32363.wav	D:\Andean\Phasianidae\Tetraogallus_himalayensis-ML32363.wav	3	b

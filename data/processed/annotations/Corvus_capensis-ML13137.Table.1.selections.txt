@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	132.742590610	133.161109894	560.6	1845.3	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	1	a
+2	Spectrogram 1	1	133.553930626	134.010997738	747.5	2195.7	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	1	b
+3	Spectrogram 1	1	134.309266692	134.709042349	724.1	2102.2	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	1	b
+4	Spectrogram 1	1	134.956337349	135.368412588	817.5	2219.0	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	1	c
+5	Spectrogram 1	1	135.544936903	135.861642294	864.2	2195.7	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	1	c
+6	Spectrogram 1	1	136.100469309	136.458709833	887.6	2242.4	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	1	c
+7	Spectrogram 1	1	153.585041555	153.958857753	700.7	1821.9	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	2	a
+8	Spectrogram 1	1	154.249603685	154.711682042	840.9	2172.3	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	2	b
+9	Spectrogram 1	1	154.934933382	155.313941473	794.2	2195.7	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	2	b
+10	Spectrogram 1	1	155.843546061	156.092756860	747.5	1915.4	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	2	d
+11	Spectrogram 1	1	156.440613600	156.835197365	794.2	2195.7	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	2	b
+12	Spectrogram 1	1	157.219397347	157.665900028	911.0	2242.4	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	2	b
+13	Spectrogram 1	1	158.117594601	158.465451341	887.6	2148.9	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	2	c
+14	Spectrogram 1	1	158.725045923	159.124821580	864.2	2125.6	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	2	c
+15	Spectrogram 1	1	159.446718862	159.794575602	887.6	1962.1	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	2	c
+16	Spectrogram 1	1	166.896236246	167.285628119	770.8	1892.0	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	3	a
+17	Spectrogram 1	1	167.898271333	168.298046990	817.5	2195.7	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	3	b
+18	Spectrogram 1	1	168.526490222	168.983376687	840.9	2242.4	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	3	b
+19	Spectrogram 1	1	169.237779377	169.559676659	887.6	2148.9	Corvus_capensis-ML13137.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_capensis-ML13137.wav	3	b

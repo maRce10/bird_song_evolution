@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.934564546	5.416811677	496.4	940.5	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	1	a
+2	Spectrogram 1	1	5.978332309	6.520034566	470.3	836.0	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	1	b
+3	Spectrogram 1	1	6.929614321	7.405255327	391.9	888.3	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	1	c
+4	Spectrogram 1	1	7.821441208	8.244233213	444.1	809.9	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	1	d
+5	Spectrogram 1	1	38.590183076	39.019581206	548.6	888.3	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	2	e
+6	Spectrogram 1	1	39.600920213	40.142622470	470.3	836.0	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	2	b
+7	Spectrogram 1	1	40.545596100	41.054267732	418.0	809.9	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	2	d
+8	Spectrogram 1	1	41.463847487	41.893245617	313.5	862.1	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	2	f
+9	Spectrogram 1	1	73.322615434	73.778438065	574.8	862.1	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	3	g
+10	Spectrogram 1	1	74.293715821	74.861842578	444.1	836.0	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	3	b
+11	Spectrogram 1	1	75.264816208	75.720638839	418.0	783.8	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	3	d
+12	Spectrogram 1	1	76.150036969	76.546404474	398.4	783.8	Apaloderma_aequatoriale-ML212471.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Apaloderma_aequatoriale-ML212471.wav	3	d

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.925766889	7.991828140	3213.3	4376.8	Macronyx_flavicollis-ML31365651.wav	E:\Andean\Motacillidae\Macronyx_flavicollis-ML31365651.wav	1	a
+2	Spectrogram 1	1	8.824199901	8.890261151	3185.6	4404.5	Macronyx_flavicollis-ML31365651.wav	E:\Andean\Motacillidae\Macronyx_flavicollis-ML31365651.wav	2	a
+3	Spectrogram 1	1	9.702814537	9.782088038	3268.7	4459.9	Macronyx_flavicollis-ML31365651.wav	E:\Andean\Motacillidae\Macronyx_flavicollis-ML31365651.wav	3	a

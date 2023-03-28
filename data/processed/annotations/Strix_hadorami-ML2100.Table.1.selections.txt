@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	85.319531797	85.719571987	304.7	775.6	Strix_hadorami-ML2100.wav	D:\Andean\Strigidae\Strix_hadorami-ML2100.wav	1	a
+2	Spectrogram 1	1	86.139614187	86.379638301	277.0	720.2	Strix_hadorami-ML2100.wav	D:\Andean\Strigidae\Strix_hadorami-ML2100.wav	1	b
+3	Spectrogram 1	1	86.526319704	86.826349847	304.7	720.2	Strix_hadorami-ML2100.wav	D:\Andean\Strigidae\Strix_hadorami-ML2100.wav	1	b
+4	Spectrogram 1	1	94.130942499	94.564319371	290.9	761.8	Strix_hadorami-ML2100.wav	D:\Andean\Strigidae\Strix_hadorami-ML2100.wav	2	a
+5	Spectrogram 1	1	94.971026898	95.264389705	318.6	747.9	Strix_hadorami-ML2100.wav	D:\Andean\Strigidae\Strix_hadorami-ML2100.wav	2	b
+6	Spectrogram 1	1	95.397736435	95.677764568	346.3	664.8	Strix_hadorami-ML2100.wav	D:\Andean\Strigidae\Strix_hadorami-ML2100.wav	2	b
+7	Spectrogram 1	1	111.765581842	112.185624042	346.3	775.6	Strix_hadorami-ML2100.wav	D:\Andean\Strigidae\Strix_hadorami-ML2100.wav	3	a
+8	Spectrogram 1	1	112.572329559	112.859025029	332.4	720.2	Strix_hadorami-ML2100.wav	D:\Andean\Strigidae\Strix_hadorami-ML2100.wav	3	b
+9	Spectrogram 1	1	112.999039096	113.265732556	318.6	664.8	Strix_hadorami-ML2100.wav	D:\Andean\Strigidae\Strix_hadorami-ML2100.wav	3	b

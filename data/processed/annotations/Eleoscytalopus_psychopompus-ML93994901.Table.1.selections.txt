@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.322209985	5.041458407	609.4	1024.9	Eleoscytalopus_psychopompus-ML93994901.wav	D:\Andean\Rhinocryptidae\Eleoscytalopus_psychopompus-ML93994901.wav	1	a
+2	Spectrogram 1	1	11.900339083	15.639405880	637.1	997.2	Eleoscytalopus_psychopompus-ML93994901.wav	D:\Andean\Rhinocryptidae\Eleoscytalopus_psychopompus-ML93994901.wav	2	a
+3	Spectrogram 1	1	22.397763415	26.226012901	637.1	1024.9	Eleoscytalopus_psychopompus-ML93994901.wav	D:\Andean\Rhinocryptidae\Eleoscytalopus_psychopompus-ML93994901.wav	3	a

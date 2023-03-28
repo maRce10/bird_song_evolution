@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.971254044	11.094637005	7063.8	8448.8	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	1	a
+2	Spectrogram 1	1	11.249656622	11.480604215	6786.7	8227.2	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	1	b
+3	Spectrogram 1	1	11.815952774	11.857080428	7423.9	10332.5	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	1	c
+4	Spectrogram 1	1	12.594214525	12.720761151	6703.6	8476.5	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	2	a
+5	Spectrogram 1	1	12.945381413	13.135201352	6620.5	8310.3	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	2	b
+6	Spectrogram 1	1	13.473713577	13.540150556	7247.4	10028.8	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	2	c
+7	Spectrogram 1	1	13.821716799	13.862844453	6503.1	8501.0	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	2	d
+8	Spectrogram 1	1	13.945099760	14.160229024	6934.0	8501.0	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	2	e
+9	Spectrogram 1	1	15.028664341	15.167865630	6463.9	8226.8	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	3	a
+10	Spectrogram 1	1	15.329795662	15.582888915	6542.2	8226.8	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	3	b
+11	Spectrogram 1	1	15.927728471	15.981510787	7051.5	10381.4	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	3	c
+12	Spectrogram 1	1	16.206131049	16.259913365	6424.7	8422.7	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	3	d
+13	Spectrogram 1	1	16.335841341	16.566788933	7090.7	8501.0	Spindalis_portoricensis-ML188082.wav	D:\Andean\Spindalidae\Spindalis_portoricensis-ML188082.wav	3	e

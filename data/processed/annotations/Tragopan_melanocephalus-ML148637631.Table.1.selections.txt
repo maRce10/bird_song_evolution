@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.171759252	0.984312637	387.8	2160.7	Tragopan_melanocephalus-ML148637631.wav	D:\Andean\Phasianidae\Tragopan_melanocephalus-ML148637631.wav	1	a
+2	Spectrogram 1	1	2.933119537	3.765491297	332.4	2243.8	Tragopan_melanocephalus-ML148637631.wav	D:\Andean\Phasianidae\Tragopan_melanocephalus-ML148637631.wav	2	a
+3	Spectrogram 1	1	5.912481949	6.731641460	415.5	2326.9	Tragopan_melanocephalus-ML148637631.wav	D:\Andean\Phasianidae\Tragopan_melanocephalus-ML148637631.wav	3	a

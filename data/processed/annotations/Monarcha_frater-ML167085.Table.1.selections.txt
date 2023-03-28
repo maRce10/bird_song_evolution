@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	93.921939629	93.948364129	1440.5	2216.1	Monarcha_frater-ML167085.wav	E:\Andean\Monarchidae\Monarcha_frater-ML167085.wav	1	a
+2	Spectrogram 1	1	93.971485567	94.047456005	1606.7	2326.9	Monarcha_frater-ML167085.wav	E:\Andean\Monarchidae\Monarcha_frater-ML167085.wav	1	b
+3	Spectrogram 1	1	94.179578507	94.526400074	1856.0	3434.9	Monarcha_frater-ML167085.wav	E:\Andean\Monarchidae\Monarcha_frater-ML167085.wav	1	c
+4	Spectrogram 1	1	95.183709519	95.206830957	1440.5	2105.3	Monarcha_frater-ML167085.wav	E:\Andean\Monarchidae\Monarcha_frater-ML167085.wav	2	a
+5	Spectrogram 1	1	95.239861583	95.329044271	1551.3	2410.0	Monarcha_frater-ML167085.wav	E:\Andean\Monarchidae\Monarcha_frater-ML167085.wav	2	b
+6	Spectrogram 1	1	95.464469835	95.841018965	1717.5	3490.3	Monarcha_frater-ML167085.wav	E:\Andean\Monarchidae\Monarcha_frater-ML167085.wav	2	c
+7	Spectrogram 1	1	96.802210165	96.828634665	1357.3	2105.3	Monarcha_frater-ML167085.wav	E:\Andean\Monarchidae\Monarcha_frater-ML167085.wav	3	a
+8	Spectrogram 1	1	96.848453040	96.940938792	1495.9	2326.9	Monarcha_frater-ML167085.wav	E:\Andean\Monarchidae\Monarcha_frater-ML167085.wav	3	b
+9	Spectrogram 1	1	97.073061293	97.439701235	1717.5	3434.9	Monarcha_frater-ML167085.wav	E:\Andean\Monarchidae\Monarcha_frater-ML167085.wav	3	c

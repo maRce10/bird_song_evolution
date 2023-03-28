@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.705614963	14.730138952	1080.3	3296.4	Pteroglossus_aracari-ML115103.wav	D:\Andean\Ramphastidae\Pteroglossus_aracari-ML115103.wav	1	a
+2	Spectrogram 1	1	14.845752039	14.878450690	2603.9	5900.3	Pteroglossus_aracari-ML115103.wav	D:\Andean\Ramphastidae\Pteroglossus_aracari-ML115103.wav	1	b
+3	Spectrogram 1	1	19.670678803	19.698706218	1080.3	3213.3	Pteroglossus_aracari-ML115103.wav	D:\Andean\Ramphastidae\Pteroglossus_aracari-ML115103.wav	2	a
+4	Spectrogram 1	1	19.807312452	19.841178912	2548.5	5097.0	Pteroglossus_aracari-ML115103.wav	D:\Andean\Ramphastidae\Pteroglossus_aracari-ML115103.wav	2	b
+5	Spectrogram 1	1	21.995802866	22.020326854	1024.9	2991.7	Pteroglossus_aracari-ML115103.wav	D:\Andean\Ramphastidae\Pteroglossus_aracari-ML115103.wav	3	a
+6	Spectrogram 1	1	22.137107750	22.160463929	2576.2	5013.9	Pteroglossus_aracari-ML115103.wav	D:\Andean\Ramphastidae\Pteroglossus_aracari-ML115103.wav	3	b

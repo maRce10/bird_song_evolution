@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.494355004	0.746476056	918.7	2617.0	Gracula_indica-ML223424.wav	D:\Andean\Sturnidae\Gracula_indica-ML223424.wav	1	a
+2	Spectrogram 1	1	7.939341366	8.226067268	863.1	2366.5	Gracula_indica-ML223424.wav	D:\Andean\Sturnidae\Gracula_indica-ML223424.wav	2	a
+3	Spectrogram 1	1	13.493084542	13.856628789	1058.0	2589.2	Gracula_indica-ML223424.wav	D:\Andean\Sturnidae\Gracula_indica-ML223424.wav	3	a

@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.257898930	29.480191150	653.8	2716.0	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	1	a
+2	Spectrogram 1	1	30.110657879	30.375108970	776.3	2940.0	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	1	a
+3	Spectrogram 1	1	31.041985632	31.289189911	726.7	2873.9	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	1	a
+4	Spectrogram 1	1	43.747103972	44.017303999	693.7	3006.0	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	2	a
+5	Spectrogram 1	1	44.393840247	44.646793464	710.2	2708.7	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	2	a
+6	Spectrogram 1	1	44.974482858	45.279176506	578.1	2741.8	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	2	a
+7	Spectrogram 1	1	82.798733425	82.988448338	776.3	2923.4	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	3	a
+8	Spectrogram 1	1	83.494354771	83.707065430	908.4	3006.0	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	3	a
+9	Spectrogram 1	1	84.000261204	84.207222927	958.0	2758.3	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	3	a
+10	Spectrogram 1	1	84.471674017	84.707380423	792.8	2774.8	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	3	a
+11	Spectrogram 1	1	85.069563438	85.299520908	726.7	2741.8	Cyanocorax_caeruleus-ML63638.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_caeruleus-ML63638.wav	3	a

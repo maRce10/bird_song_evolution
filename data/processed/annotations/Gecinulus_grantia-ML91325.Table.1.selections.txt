@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	175.457977511	175.758556203	707.1	3404.4	Gecinulus_grantia-ML91325.wav	D:\Andean\Picidae\Gecinulus_grantia-ML91325.wav	1	a
+2	Spectrogram 1	1	176.059134894	176.333289085	628.5	3352.0	Gecinulus_grantia-ML91325.wav	D:\Andean\Picidae\Gecinulus_grantia-ML91325.wav	1	a
+3	Spectrogram 1	1	176.623958588	176.921234217	549.9	3325.8	Gecinulus_grantia-ML91325.wav	D:\Andean\Picidae\Gecinulus_grantia-ML91325.wav	1	a
+4	Spectrogram 1	1	177.195388408	177.459633411	707.1	3325.8	Gecinulus_grantia-ML91325.wav	D:\Andean\Picidae\Gecinulus_grantia-ML91325.wav	1	a
+5	Spectrogram 1	1	200.215553412	200.499616791	707.1	3430.6	Gecinulus_grantia-ML91325.wav	D:\Andean\Picidae\Gecinulus_grantia-ML91325.wav	2	a
+6	Spectrogram 1	1	200.770467919	201.044622110	602.3	3325.8	Gecinulus_grantia-ML91325.wav	D:\Andean\Picidae\Gecinulus_grantia-ML91325.wav	2	a
+7	Spectrogram 1	1	201.325382426	201.612748867	576.1	3299.6	Gecinulus_grantia-ML91325.wav	D:\Andean\Picidae\Gecinulus_grantia-ML91325.wav	2	a
+8	Spectrogram 1	1	205.454787375	205.748759941	811.8	3378.2	Gecinulus_grantia-ML91325.wav	D:\Andean\Picidae\Gecinulus_grantia-ML91325.wav	3	a
+9	Spectrogram 1	1	206.105837433	206.396506937	680.9	3299.6	Gecinulus_grantia-ML91325.wav	D:\Andean\Picidae\Gecinulus_grantia-ML91325.wav	3	a
+10	Spectrogram 1	1	206.650842753	206.928300006	654.7	3378.2	Gecinulus_grantia-ML91325.wav	D:\Andean\Picidae\Gecinulus_grantia-ML91325.wav	3	a

@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	30.269684915	30.393472665	4016.6	4543.0	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	1	a
+2	Spectrogram 1	1	30.785856476	30.888623664	3185.6	4321.4	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	1	b
+3	Spectrogram 1	1	31.056788155	31.096493659	2742.4	4487.6	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	1	c
+4	Spectrogram 1	1	31.189918376	31.295021183	3434.9	4820.0	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	1	d
+5	Spectrogram 1	1	33.742359683	33.873154286	3850.4	5013.9	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	2	e
+6	Spectrogram 1	1	34.267873715	34.379983376	3351.8	4958.5	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	2	f
+7	Spectrogram 1	1	34.627558875	34.702298649	3628.8	4764.6	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	2	g
+8	Spectrogram 1	1	37.023933877	37.143050391	3961.2	4626.1	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	3	a
+9	Spectrogram 1	1	37.577475325	37.682578131	3047.1	4321.4	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	3	b
+10	Spectrogram 1	1	37.797023409	37.846071386	2714.7	4349.1	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	3	c
+11	Spectrogram 1	1	37.944167338	38.039927673	3545.7	5097.0	Ficedula_strophiata-ML172622051.wav	E:\Andean\Muscicapidae\Ficedula_strophiata-ML172622051.wav	3	d

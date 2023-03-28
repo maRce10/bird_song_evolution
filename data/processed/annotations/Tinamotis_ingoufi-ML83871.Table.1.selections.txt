@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	58.129185487	58.428144581	1052.6	1966.8	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	a
+2	Spectrogram 1	1	58.437487052	58.666377609	803.3	1689.8	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	b
+3	Spectrogram 1	1	58.998035354	59.296994448	664.8	1966.8	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	c
+4	Spectrogram 1	1	59.296994448	59.521213768	803.3	1662.1	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	b
+5	Spectrogram 1	1	60.128474428	60.441447229	831.0	1994.5	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	c
+6	Spectrogram 1	1	60.450789701	60.717050144	747.9	1662.1	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	b
+7	Spectrogram 1	1	61.249571030	61.567215068	747.9	1994.5	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	c
+8	Spectrogram 1	1	61.571886304	61.819461803	775.6	1634.4	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	b
+9	Spectrogram 1	1	62.475320784	62.783622350	803.3	1966.8	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	c
+10	Spectrogram 1	1	62.790629204	63.045211557	803.3	1689.8	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	b
+11	Spectrogram 1	1	64.147623216	64.420890513	692.5	1966.8	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	c
+12	Spectrogram 1	1	64.424793835	64.656020009	803.3	1662.1	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	1	b
+14	Spectrogram 1	1	67.685342338	68.000650758	637.1	1994.5	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	2	c
+15	Spectrogram 1	1	68.005321994	68.206185135	775.6	1717.5	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	2	b
+16	Spectrogram 1	1	68.906870512	69.215172077	637.1	1994.5	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	2	c
+17	Spectrogram 1	1	69.215172077	69.444062634	775.6	1745.2	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	2	b
+18	Spectrogram 1	1	70.059894053	70.340168203	775.6	1994.5	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	2	c
+19	Spectrogram 1	1	70.344839439	70.566723142	831.0	1662.1	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	2	b
+20	Spectrogram 1	1	71.297771551	71.592059409	692.5	1966.8	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	2	c
+21	Spectrogram 1	1	71.594395027	71.825621202	831.0	1717.5	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	2	b
+22	Spectrogram 1	1	72.513158403	72.807446261	664.8	1966.8	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	2	c
+23	Spectrogram 1	1	72.834564333	73.031665582	803.3	1717.5	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	2	b
+24	Spectrogram 1	1	74.173782746	74.468070604	803.3	1939.1	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	3	d
+25	Spectrogram 1	1	74.472741840	74.675940599	775.6	1689.8	Tinamotis_ingoufi-ML83871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_ingoufi-ML83871.wav	3	b

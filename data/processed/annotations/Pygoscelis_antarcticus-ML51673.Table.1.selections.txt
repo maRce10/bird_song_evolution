@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.316075490	7.555551893	235.1	1698.2	Pygoscelis_antarcticus-ML51673.wav	D:\Andean\Spheniscidae\Pygoscelis_antarcticus-ML51673.wav	1	a

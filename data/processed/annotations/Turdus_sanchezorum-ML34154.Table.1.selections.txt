@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.454597684	24.900700707	1227.9	2090.0	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	1	a
+2	Spectrogram 1	1	25.101564493	25.517304483	1348.6	2235.3	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	1	b
+3	Spectrogram 1	1	25.739188186	26.136243232	1330.1	2253.8	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	1	c
+4	Spectrogram 1	1	26.400168058	26.836928609	1219.3	2032.1	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	1	d
+5	Spectrogram 1	1	27.147566953	27.553964471	1200.8	1939.7	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	1	e
+6	Spectrogram 1	1	27.887957834	28.254649847	1385.5	2142.9	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	1	f
+7	Spectrogram 1	1	34.752252160	35.025519457	1071.5	1625.7	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	2	g
+8	Spectrogram 1	1	35.266088103	35.695841801	1348.6	1976.7	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	2	h
+9	Spectrogram 1	1	35.931739211	36.321787404	1440.9	2272.3	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	2	i
+10	Spectrogram 1	1	36.553013578	37.050500195	1237.7	1958.2	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	2	d
+11	Spectrogram 1	1	37.265377348	37.648418687	1200.8	1865.8	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	2	e
+12	Spectrogram 1	1	37.966062724	38.246336875	1311.6	2032.1	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	2	f
+16	Spectrogram 1	1	44.783507926	45.255302746	1311.6	1921.3	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	3	j
+17	Spectrogram 1	1	45.409453529	45.815851047	1256.2	2290.7	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	3	b
+18	Spectrogram 1	1	46.026056660	46.446467886	1330.1	2327.7	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	3	c
+19	Spectrogram 1	1	46.689372150	47.156495735	1256.2	1995.1	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	3	d
+20	Spectrogram 1	1	47.446112357	47.885208526	1348.6	1865.8	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	3	e
+21	Spectrogram 1	1	48.137455262	48.520496601	1348.6	2069.0	Turdus_sanchezorum-ML34154.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_sanchezorum-ML34154.wav	3	f

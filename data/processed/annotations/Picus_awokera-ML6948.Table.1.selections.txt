@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.093680289	11.291864042	1828.3	2631.6	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	1	a
+2	Spectrogram 1	1	11.758650665	11.950228293	1856.0	2631.6	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	1	a
+3	Spectrogram 1	1	12.524961175	12.703326552	1800.6	2714.7	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	1	a
+4	Spectrogram 1	1	13.268150247	13.433303374	1883.7	2603.9	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	1	a
+5	Spectrogram 1	1	14.097218945	14.272281259	1828.3	2631.6	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	1	a
+6	Spectrogram 1	1	15.137880874	15.283215626	1828.3	2548.5	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	1	a
+7	Spectrogram 1	1	16.125496574	16.277437451	1911.4	2576.2	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	1	a
+8	Spectrogram 1	1	22.548363550	22.815911616	1634.4	2548.5	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	2	a
+9	Spectrogram 1	1	23.331189372	23.542585375	1772.9	2548.5	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	2	a
+10	Spectrogram 1	1	24.080984569	24.269259134	1856.0	2520.8	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	2	a
+11	Spectrogram 1	1	24.936477768	25.141267645	1745.2	2465.4	Picus_awokera-ML6948.wav	D:\Andean\Picidae\Picus_awokera-ML6948.wav	2	a

@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.883490463	4.220978309	908.200	3027.500	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	1	a
+2	Spectrogram 1	1	4.398471917	4.738459672	756.900	3027.500	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	1	a
+3	Spectrogram 1	1	4.936923758	5.274411604	614.900	3077.900	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	1	a
+4	Spectrogram 1	1	5.456905032	5.799392697	680.800	3077.900	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	1	a
+5	Spectrogram 1	1	6.206877571	6.576864247	724.800	3178.800	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	2	a
+6	Spectrogram 1	1	6.811855784	7.149343629	680.800	3153.600	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	2	a
+7	Spectrogram 1	1	7.359336067	7.739322382	593.000	3184.500	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	2	a
+8	Spectrogram 1	1	13.023435401	13.338424057	807.300	3077.900	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	3	a
+9	Spectrogram 1	1	13.460816599	13.795804534	731.600	3103.100	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	3	a
+10	Spectrogram 1	1	13.930799673	14.283286978	605.500	3103.100	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	3	a
+11	Spectrogram 1	1	14.455780224	14.788268250	630.700	3128.400	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	3	a
+12	Spectrogram 1	1	15.038259246	15.403246102	706.400	3052.700	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	3	a
+13	Spectrogram 1	1	15.643237459	16.015724044	580.300	3077.900	Cyanocorax_cristatellus-ML34109.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cristatellus-ML34109.wav	3	a

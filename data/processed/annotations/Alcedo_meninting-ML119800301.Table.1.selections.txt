@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.406126713	25.637785320	5480.1	6518.3	Alcedo_meninting-ML119800301.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_meninting-ML119800301.wav	1	a
+2	Spectrogram 1	1	25.747696338	25.957372742	5455.4	6518.3	Alcedo_meninting-ML119800301.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_meninting-ML119800301.wav	2	a
+3	Spectrogram 1	1	26.521810599	26.726414186	5776.7	6765.5	Alcedo_meninting-ML119800301.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_meninting-ML119800301.wav	3	a

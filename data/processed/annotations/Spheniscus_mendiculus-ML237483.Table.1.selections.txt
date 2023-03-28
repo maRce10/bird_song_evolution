@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	105.325307516	105.952865877	156.8	1201.8	Spheniscus_mendiculus-ML237483.wav	D:\Andean\Spheniscidae\Spheniscus_mendiculus-ML237483.wav	1	a
+2	Spectrogram 1	1	111.716156946	112.394944561	209.0	1436.9	Spheniscus_mendiculus-ML237483.wav	D:\Andean\Spheniscidae\Spheniscus_mendiculus-ML237483.wav	2	a
+3	Spectrogram 1	1	116.121872785	116.800660400	261.3	1384.7	Spheniscus_mendiculus-ML237483.wav	D:\Andean\Spheniscidae\Spheniscus_mendiculus-ML237483.wav	3	a

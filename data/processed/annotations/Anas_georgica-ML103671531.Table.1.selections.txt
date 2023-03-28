@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.430594830	3.831347311	2397.8	6377.7	Anas_georgica-ML103671531.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_georgica-ML103671531.wav	1	a
+2	Spectrogram 1	1	3.833038250	3.929421758	1112.4	1779.8	Anas_georgica-ML103671531.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_georgica-ML103671531.wav	1	b
+3	Spectrogram 1	1	3.959858656	4.208426651	2546.1	5908.0	Anas_georgica-ML103671531.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_georgica-ML103671531.wav	1	c
+4	Spectrogram 1	1	7.658187413	7.981156713	2546.1	6600.2	Anas_georgica-ML103671531.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_georgica-ML103671531.wav	2	a
+5	Spectrogram 1	1	7.976083897	8.058939895	1112.4	1854.0	Anas_georgica-ML103671531.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_georgica-ML103671531.wav	2	b
+6	Spectrogram 1	1	8.064012711	8.261852544	2595.6	6600.2	Anas_georgica-ML103671531.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_georgica-ML103671531.wav	2	b
+7	Spectrogram 1	1	9.309001706	9.736809208	2323.7	7168.7	Anas_georgica-ML103671531.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_georgica-ML103671531.wav	3	a
+8	Spectrogram 1	1	9.730045453	9.829810838	939.3	1804.5	Anas_georgica-ML103671531.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_georgica-ML103671531.wav	3	b
+9	Spectrogram 1	1	9.853483981	10.095288221	2274.2	6451.8	Anas_georgica-ML103671531.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_georgica-ML103671531.wav	3	c

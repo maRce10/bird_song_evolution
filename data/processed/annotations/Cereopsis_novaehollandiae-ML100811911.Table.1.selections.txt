@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.567762120	1.764563545	148.3	2472.0	Cereopsis_novaehollandiae-ML100811911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cereopsis_novaehollandiae-ML100811911.wav	1	a
+2	Spectrogram 1	1	12.174836228	12.403551397	123.6	2694.5	Cereopsis_novaehollandiae-ML100811911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cereopsis_novaehollandiae-ML100811911.wav	2	a
+3	Spectrogram 1	1	13.469115867	13.662371320	123.6	2274.2	Cereopsis_novaehollandiae-ML100811911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cereopsis_novaehollandiae-ML100811911.wav	3	a

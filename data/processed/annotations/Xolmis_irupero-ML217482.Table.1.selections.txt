@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.534500975	1.922213550	2795.4	4336.8	Xolmis_irupero-ML217482.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Xolmis_irupero-ML217482.wav	1	a
+2	Spectrogram 1	1	4.142081021	4.518115507	1698.2	2821.6	Xolmis_irupero-ML217482.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Xolmis_irupero-ML217482.wav	2	b
+3	Spectrogram 1	1	12.483893210	12.869270167	1672.0	2873.8	Xolmis_irupero-ML217482.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Xolmis_irupero-ML217482.wav	3	b

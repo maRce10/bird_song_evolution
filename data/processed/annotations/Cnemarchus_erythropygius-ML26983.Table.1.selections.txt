@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	69.027560648	69.409064371	2455.8	4885.5	Cnemarchus_erythropygius-ML26983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_erythropygius-ML26983.wav	1	a
+2	Spectrogram 1	1	74.153801010	74.304090356	2690.9	5538.6	Cnemarchus_erythropygius-ML26983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_erythropygius-ML26983.wav	2	b
+3	Spectrogram 1	1	74.878823238	75.202523367	2481.9	4911.6	Cnemarchus_erythropygius-ML26983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_erythropygius-ML26983.wav	2	
+4	Spectrogram 1	1	76.543985056	76.583621807	2377.4	4728.7	Cnemarchus_erythropygius-ML26983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_erythropygius-ML26983.wav	3	d
+5	Spectrogram 1	1	76.801512112	76.819613151	2586.4	4258.5	Cnemarchus_erythropygius-ML26983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_erythropygius-ML26983.wav	3	e
+6	Spectrogram 1	1	76.825452196	76.852311802	3108.9	5146.7	Cnemarchus_erythropygius-ML26983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_erythropygius-ML26983.wav	3	f
+7	Spectrogram 1	1	77.000623540	77.344543279	2168.4	5695.4	Cnemarchus_erythropygius-ML26983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_erythropygius-ML26983.wav	3	g
+8	Spectrogram 1	1	77.372125307	77.400152722	2952.2	4075.6	Cnemarchus_erythropygius-ML26983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_erythropygius-ML26983.wav	3	h
+9	Spectrogram 1	1	77.509926765	77.616197380	1410.8	5329.6	Cnemarchus_erythropygius-ML26983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_erythropygius-ML26983.wav	3	i
+10	Spectrogram 1	1	77.793704342	77.820563948	2926.1	4493.6	Cnemarchus_erythropygius-ML26983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_erythropygius-ML26983.wav	3	j

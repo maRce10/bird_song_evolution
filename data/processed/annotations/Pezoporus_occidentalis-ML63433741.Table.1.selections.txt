@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.042116232	1.104874420	1994.5	2382.3	Pezoporus_occidentalis-ML63433741.wav	D:\Andean\Psittaculidae\Pezoporus_occidentalis-ML63433741.wav	1	a
+2	Spectrogram 1	1	1.127995858	1.194057109	1966.8	2382.3	Pezoporus_occidentalis-ML63433741.wav	D:\Andean\Psittaculidae\Pezoporus_occidentalis-ML63433741.wav	1	a
+3	Spectrogram 1	1	13.601211885	14.200717737	1662.1	2243.8	Pezoporus_occidentalis-ML63433741.wav	D:\Andean\Psittaculidae\Pezoporus_occidentalis-ML63433741.wav	2	b
+4	Spectrogram 1	1	14.715977944	14.785342258	1994.5	2410.0	Pezoporus_occidentalis-ML63433741.wav	D:\Andean\Psittaculidae\Pezoporus_occidentalis-ML63433741.wav	2	a
+5	Spectrogram 1	1	14.801857570	14.876176477	1994.5	2437.7	Pezoporus_occidentalis-ML63433741.wav	D:\Andean\Psittaculidae\Pezoporus_occidentalis-ML63433741.wav	2	a
+6	Spectrogram 1	1	44.446658954	45.031301024	1800.6	2188.4	Pezoporus_occidentalis-ML63433741.wav	D:\Andean\Psittaculidae\Pezoporus_occidentalis-ML63433741.wav	3	b
+7	Spectrogram 1	1	45.891748816	45.956158536	1939.1	2382.3	Pezoporus_occidentalis-ML63433741.wav	D:\Andean\Psittaculidae\Pezoporus_occidentalis-ML63433741.wav	3	a
+8	Spectrogram 1	1	45.974325380	46.043689693	2049.9	2437.7	Pezoporus_occidentalis-ML63433741.wav	D:\Andean\Psittaculidae\Pezoporus_occidentalis-ML63433741.wav	3	a

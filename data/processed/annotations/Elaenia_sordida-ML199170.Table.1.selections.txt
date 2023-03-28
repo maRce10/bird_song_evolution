@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.543706761	23.670874669	1306.3	5381.9	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	1	a
+2	Spectrogram 1	1	23.675829263	23.741064748	809.9	4075.6	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	1	b
+3	Spectrogram 1	1	23.768315014	23.809603296	1489.2	5590.9	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	1	c
+4	Spectrogram 1	1	23.833550499	23.916952828	679.3	3631.5	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	1	d
+5	Spectrogram 1	1	23.943377328	24.021825064	1358.5	6244.0	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	1	e
+6	Spectrogram 1	1	26.720654714	26.851951450	1384.7	5486.4	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	2	a
+7	Spectrogram 1	1	26.859383341	26.922967295	836.0	3997.2	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	2	b
+8	Spectrogram 1	1	26.946088733	26.988202780	1567.5	5512.5	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	2	c
+9	Spectrogram 1	1	27.012149984	27.089771953	574.8	3736.0	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	2	d
+10	Spectrogram 1	1	27.121976813	27.199598783	1384.7	5904.4	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	2	f
+11	Spectrogram 1	1	30.846497818	30.974491491	1358.5	5251.2	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	3	a
+12	Spectrogram 1	1	30.980241151	31.047128168	783.8	3866.6	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	3	b
+13	Spectrogram 1	1	31.078507262	31.114840950	1541.4	5512.5	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	3	c
+14	Spectrogram 1	1	31.137136622	31.216410123	705.4	3474.7	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	3	d
+15	Spectrogram 1	1	31.245311920	31.326236952	1201.8	6191.8	Elaenia_sordida-ML199170.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_sordida-ML199170.wav	3	e

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.756416154	9.099350593	724.8	2723.3	Clibanornis_rubiginosus-ML127271.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rubiginosus-ML127271.wav	1	a
+2	Spectrogram 1	1	9.353899867	9.672086459	856.5	2723.3	Clibanornis_rubiginosus-ML127271.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rubiginosus-ML127271.wav	1	a
+3	Spectrogram 1	1	14.779082200	15.114945826	790.6	2635.5	Clibanornis_rubiginosus-ML127271.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rubiginosus-ML127271.wav	2	a
+4	Spectrogram 1	1	15.408384572	15.708894131	878.5	2657.4	Clibanornis_rubiginosus-ML127271.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rubiginosus-ML127271.wav	2	a
+5	Spectrogram 1	1	21.846348793	22.185747824	746.7	2679.4	Clibanornis_rubiginosus-ML127271.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rubiginosus-ML127271.wav	3	a
+6	Spectrogram 1	1	22.465044944	22.772625317	812.6	2613.5	Clibanornis_rubiginosus-ML127271.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rubiginosus-ML127271.wav	3	a

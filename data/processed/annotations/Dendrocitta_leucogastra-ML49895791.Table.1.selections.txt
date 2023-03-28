@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.979662866	8.227141326	811.3	2133.0	Dendrocitta_leucogastra-ML49895791.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_leucogastra-ML49895791.wav	1	a
+2	Spectrogram 1	1	8.334971227	8.573611172	775.6	2133.0	Dendrocitta_leucogastra-ML49895791.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_leucogastra-ML49895791.wav	1	a
+3	Spectrogram 1	1	8.729169061	8.951899676	752.6	2133.0	Dendrocitta_leucogastra-ML49895791.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_leucogastra-ML49895791.wav	1	a
+4	Spectrogram 1	1	13.354210289	13.629972002	761.8	2188.4	Dendrocitta_leucogastra-ML49895791.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_leucogastra-ML49895791.wav	2	a
+5	Spectrogram 1	1	13.741337310	13.972906441	761.8	2188.4	Dendrocitta_leucogastra-ML49895791.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_leucogastra-ML49895791.wav	2	a
+6	Spectrogram 1	1	14.098413374	14.344124132	692.5	2105.3	Dendrocitta_leucogastra-ML49895791.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_leucogastra-ML49895791.wav	2	a
+7	Spectrogram 1	1	18.714617060	18.972701740	775.6	2133.0	Dendrocitta_leucogastra-ML49895791.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_leucogastra-ML49895791.wav	3	a
+8	Spectrogram 1	1	19.066390015	19.329777805	817.2	2188.4	Dendrocitta_leucogastra-ML49895791.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_leucogastra-ML49895791.wav	3	a
+9	Spectrogram 1	1	19.458820146	19.722207936	747.9	2105.3	Dendrocitta_leucogastra-ML49895791.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_leucogastra-ML49895791.wav	3	a

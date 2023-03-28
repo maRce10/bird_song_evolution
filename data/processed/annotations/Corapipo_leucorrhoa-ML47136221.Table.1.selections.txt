@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.653076561	23.667940343	1332.000	4113.400	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	1	a
+2	Spectrogram 1	1	23.700970968	23.718312046	979.400	4426.800	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	1	a
+3	Spectrogram 1	1	23.744736547	23.763729156	940.200	4426.800	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	1	a
+4	Spectrogram 1	1	23.790153657	23.806668969	1802.100	5523.700	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	1	b
+5	Spectrogram 1	1	23.831441938	23.847957251	1684.500	5837.100	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	1	c
+6	Spectrogram 1	1	23.872730177	23.896677380	2428.900	5954.600	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	1	d
+7	Spectrogram 1	1	23.908226765	24.131766449	4581.449	8202.271	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	1	e
+8	Spectrogram 1	1	24.146544530	24.164061664	3760.800	4505.100	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	1	f
+9	Spectrogram 1	1	28.468513343	28.496589374	3369.100	4896.900	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	2	a
+10	Spectrogram 1	1	28.529620000	28.552741437	3878.300	5758.700	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	2	b
+45	Spectrogram 1	1	28.588586637	28.927799236	5098.709	7832.799	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	2	e
+20	Spectrogram 1	1	29.239481426	29.261669796	3872.300	5811.300	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	3	b
+21	Spectrogram 1	1	29.283858166	29.309549963	3927.700	5894.400	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	3	b
+22	Spectrogram 1	1	29.324731480	29.344277115	4647.900	6005.200	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	3	b
+46	Spectrogram 1	1	29.351345881	29.568498717	5652.917	8202.271	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	3	e
+27	Spectrogram 1	1	29.588349269	29.616376684	4072.000	5540.200	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	3	f
+28	Spectrogram 1	1	29.931669702	29.949010780	940.200	3094.800	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	4	g
+29	Spectrogram 1	1	29.985757351	29.998143835	901.000	2938.100	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	4	g
+30	Spectrogram 1	1	30.034477523	30.050167070	1096.900	4387.600	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	4	a
+31	Spectrogram 1	1	30.084023461	30.101364540	1096.900	5092.800	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	4	b
+32	Spectrogram 1	1	30.137698228	30.150910478	1253.600	4348.400	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	4	a
+33	Spectrogram 1	1	30.181463806	30.202933713	1449.500	4740.200	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	4	b
+34	Spectrogram 1	1	30.232661276	30.249176588	1606.200	5406.200	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	4	c
+35	Spectrogram 1	1	30.280556076	30.296245623	1880.400	6111.300	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	4	c
+44	Spectrogram 1	1	30.328242273	30.543975809	3251.351	7204.698	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	4	e
+43	Spectrogram 1	1	30.599251158	30.619895299	1488.700	4740.200	Corapipo_leucorrhoa-ML47136221.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_leucorrhoa-ML47136221.wav	4	b

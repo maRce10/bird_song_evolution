@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.577996997	3.640755185	1052.6	2770.1	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	1	a
+3	Spectrogram 1	1	3.655618967	3.726634811	1024.9	3130.2	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	1	b
+4	Spectrogram 1	1	3.774529218	4.106487004	997.2	4847.7	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	1	c
+5	Spectrogram 1	1	4.132911504	4.233654912	1135.7	4072.0	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	1	d
+6	Spectrogram 1	1	4.309625350	4.509460634	1218.8	3656.5	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	1	e
+7	Spectrogram 1	1	6.570764310	6.618658717	1108.0	2133.0	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	2	a
+8	Spectrogram 1	1	6.630219436	6.704538343	969.5	3074.8	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	2	b
+9	Spectrogram 1	1	6.739220500	7.074481348	858.7	4930.8	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	2	c
+10	Spectrogram 1	1	7.095951254	7.195043131	1246.5	3961.2	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	2	d
+11	Spectrogram 1	1	7.271013569	7.475803447	1052.6	3573.4	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	2	e
+12	Spectrogram 1	1	8.841519323	8.905929043	2188.4	3241.0	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	3	f
+13	Spectrogram 1	1	8.912535168	9.123931171	2188.4	4099.7	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	3	g
+14	Spectrogram 1	1	9.269265922	9.308902673	969.5	2216.1	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	3	h
+15	Spectrogram 1	1	9.368357799	9.581405333	941.8	3074.8	Vireo_brevipennis-ML48251651.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_brevipennis-ML48251651.wav	3	i

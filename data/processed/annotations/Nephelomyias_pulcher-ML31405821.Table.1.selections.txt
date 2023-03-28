@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.851632161	5.891268911	2548.5	7036.1	Nephelomyias_pulcher-ML31405821.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nephelomyias_pulcher-ML31405821.wav	1	a
+2	Spectrogram 1	1	5.957330162	5.998618444	2991.7	6925.3	Nephelomyias_pulcher-ML31405821.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nephelomyias_pulcher-ML31405821.wav	1	b
+3	Spectrogram 1	1	6.023391413	6.059725101	2659.3	6759.0	Nephelomyias_pulcher-ML31405821.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nephelomyias_pulcher-ML31405821.wav	1	c
+4	Spectrogram 1	1	6.292591010	6.330576229	2520.8	6786.7	Nephelomyias_pulcher-ML31405821.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nephelomyias_pulcher-ML31405821.wav	2	c
+5	Spectrogram 1	1	6.652624827	6.693913109	2964.0	7091.5	Nephelomyias_pulcher-ML31405821.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nephelomyias_pulcher-ML31405821.wav	3	b
+6	Spectrogram 1	1	6.721989140	6.761625891	2742.4	7285.4	Nephelomyias_pulcher-ML31405821.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nephelomyias_pulcher-ML31405821.wav	3	d

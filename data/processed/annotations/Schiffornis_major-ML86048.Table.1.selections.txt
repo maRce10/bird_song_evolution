@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	30.195339785	30.472797039	3351.8	4570.7	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	1	a
+2	Spectrogram 1	1	30.667287635	30.753705498	1883.7	3545.7	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	1	b
+3	Spectrogram 1	1	30.781732913	30.914863135	1856.0	4127.4	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	1	c
+4	Spectrogram 1	1	39.182315633	39.483610345	1994.5	2880.9	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	2	d
+5	Spectrogram 1	1	39.712500901	39.915699660	1883.7	4321.4	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	2	e
+6	Spectrogram 1	1	40.116562802	40.368809537	3767.3	4293.7	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	2	f
+7	Spectrogram 1	1	40.809712213	41.077240421	3185.6	3878.1	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	2	g
+8	Spectrogram 1	1	41.241801529	41.309534448	1911.4	3241.0	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	2	h
+9	Spectrogram 1	1	41.356246807	41.473027703	1772.9	4099.7	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	2	c
+10	Spectrogram 1	1	47.009366087	47.312996417	3213.3	3878.1	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	3	g
+11	Spectrogram 1	1	47.485832143	47.565243153	1939.1	3268.7	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	3	h
+12	Spectrogram 1	1	47.597941804	47.707715846	1911.4	3988.9	Schiffornis_major-ML86048.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_major-ML86048.wav	3	i

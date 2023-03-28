@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	44.823267202	45.497091960	4206.2	4833.2	Yuhina_nigrimenta-ML169287.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_nigrimenta-ML169287.wav	1	a
+2	Spectrogram 1	1	46.104855468	46.785286351	4232.3	4728.7	Yuhina_nigrimenta-ML169287.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_nigrimenta-ML169287.wav	1	b
+3	Spectrogram 1	1	47.148623231	48.020631742	3553.1	4049.5	Yuhina_nigrimenta-ML169287.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_nigrimenta-ML169287.wav	1	c
+4	Spectrogram 1	1	49.104036256	49.711799763	4232.3	4807.1	Yuhina_nigrimenta-ML169287.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_nigrimenta-ML169287.wav	1	d

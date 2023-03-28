@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.073765118	1.141087538	1557.3	3930.4	Charadrius_nivosus-ML71563311.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_nivosus-ML71563311.wav	1	a
+2	Spectrogram 1	1	1.676123614	1.787737100	1433.7	4326.0	Charadrius_nivosus-ML71563311.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_nivosus-ML71563311.wav	2	b
+3	Spectrogram 1	1	2.469819515	2.538913578	1334.9	3831.6	Charadrius_nivosus-ML71563311.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_nivosus-ML71563311.wav	3	a

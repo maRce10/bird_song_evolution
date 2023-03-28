@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	55.235054347	55.310314394	747.5	2686.2	Dromas_ardeola-ML2916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dromadidae\Dromadidae\Dromas_ardeola-ML2916.wav	1	a
+2	Spectrogram 1	1	55.341519779	55.563628697	654.0	2569.4	Dromas_ardeola-ML2916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dromadidae\Dromadidae\Dromas_ardeola-ML2916.wav	1	b
+3	Spectrogram 1	1	58.815623489	58.914746477	770.8	2546.0	Dromas_ardeola-ML2916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dromadidae\Dromadidae\Dromas_ardeola-ML2916.wav	2	a
+4	Spectrogram 1	1	58.920253310	59.103814399	700.7	2499.3	Dromas_ardeola-ML2916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dromadidae\Dromadidae\Dromas_ardeola-ML2916.wav	2	b
+5	Spectrogram 1	1	67.371320385	67.435566766	537.2	2686.2	Dromas_ardeola-ML2916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dromadidae\Dromadidae\Dromas_ardeola-ML2916.wav	3	a
+6	Spectrogram 1	1	67.464936540	67.685209848	560.6	2382.5	Dromas_ardeola-ML2916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dromadidae\Dromadidae\Dromas_ardeola-ML2916.wav	3	b

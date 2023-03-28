@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.290763236	6.577458705	554.0	1052.6	Otus_elegans-ML42183.wav	D:\Andean\Strigidae\Otus_elegans-ML42183.wav	1	a
+2	Spectrogram 1	1	9.237725971	9.537756114	581.7	1052.6	Otus_elegans-ML42183.wav	D:\Andean\Strigidae\Otus_elegans-ML42183.wav	2	a
+3	Spectrogram 1	1	12.151352024	12.411378148	526.3	1108.0	Otus_elegans-ML42183.wav	D:\Andean\Strigidae\Otus_elegans-ML42183.wav	3	a

@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	67.800299631	67.891388730	1018.9	4598.1	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	1	a
+2	Spectrogram 1	1	68.022183334	68.115608050	809.9	5303.5	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	1	a
+3	Spectrogram 1	1	68.237060182	68.353841078	809.9	5643.1	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	1	a
+4	Spectrogram 1	1	68.461279503	68.580396017	966.6	5512.5	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	1	a
+5	Spectrogram 1	1	68.690170059	68.816293427	888.3	5434.1	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	1	a
+6	Spectrogram 1	1	68.935409941	69.059197691	914.4	5303.5	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	1	a
+7	Spectrogram 1	1	69.157293644	69.285752629	888.3	5355.7	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	1	a
+8	Spectrogram 1	1	69.404869143	69.526321275	940.5	5434.1	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	1	a
+9	Spectrogram 1	1	69.650109025	69.769225539	966.6	5538.6	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	1	a
+10	Spectrogram 1	1	69.897684525	70.009794185	1071.1	5434.1	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	1	a
+11	Spectrogram 1	1	71.280357184	71.392466845	757.6	4911.6	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+12	Spectrogram 1	1	71.525597066	71.628364255	783.8	5381.9	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+13	Spectrogram 1	1	71.747480769	71.859590429	627.0	5225.1	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+14	Spectrogram 1	1	71.985713797	72.093152221	653.1	5199.0	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+15	Spectrogram 1	1	72.219275589	72.357077046	679.3	5434.1	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+16	Spectrogram 1	1	72.469186707	72.588303221	600.9	5381.9	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+17	Spectrogram 1	1	72.714426588	72.828871867	783.8	5538.6	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+18	Spectrogram 1	1	72.977042132	73.082144938	731.5	5799.9	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+19	Spectrogram 1	1	73.215275160	73.341398528	783.8	5512.5	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+20	Spectrogram 1	1	73.467521895	73.584302791	757.6	5643.1	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+21	Spectrogram 1	1	73.701083688	73.845891999	862.1	5643.1	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+22	Spectrogram 1	1	73.969679749	74.095803116	914.4	5799.9	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+23	Spectrogram 1	1	74.226597720	74.343378616	809.9	5669.3	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+24	Spectrogram 1	1	74.469501984	74.600296587	627.0	5773.8	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a
+25	Spectrogram 1	1	74.724084337	74.854878941	862.1	5773.8	Gallinago_megala-ML77672.wav	D:\Andean\Scolopacidae\Gallinago_megala-ML77672.wav	2	a

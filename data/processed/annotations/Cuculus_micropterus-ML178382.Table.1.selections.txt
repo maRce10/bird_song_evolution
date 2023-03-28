@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.013641388	12.128542102	667.800	1428.700	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	1	a
+2	Spectrogram 1	1	12.201017937	12.326524870	830.800	1358.800	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	1	b
+3	Spectrogram 1	1	12.411374628	12.536881562	846.400	1428.700	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	1	b
+4	Spectrogram 1	1	12.604054287	12.733096627	846.400	1265.700	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	1	c
+5	Spectrogram 1	1	15.740240504	15.856908921	750.600	1432.900	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	2	a
+6	Spectrogram 1	1	15.948829492	16.077871832	946.800	1364.700	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	2	b
+7	Spectrogram 1	1	16.162721590	16.298834744	818.800	1484.100	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	2	b
+8	Spectrogram 1	1	16.364239766	16.489746699	844.400	1262.300	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	2	c
+9	Spectrogram 1	1	18.542046767	18.644573558	810.300	1441.500	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	3	a
+10	Spectrogram 1	1	18.755938865	18.869071876	946.800	1441.500	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	3	b
+11	Spectrogram 1	1	18.969830963	19.104176413	801.800	1518.200	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	3	c
+12	Spectrogram 1	1	19.176652248	19.304441805	844.400	1253.800	Cuculus_micropterus-ML178382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_micropterus-ML178382.wav	3	d

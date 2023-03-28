@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.187896612	1.523760237	1645.1	4392.4	Carpodacus_sipahi-ML178674831.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_sipahi-ML178674831.wav	1	a
+2	Spectrogram 1	1	18.329689201	18.722119332	1471.5	4260.7	Carpodacus_sipahi-ML178674831.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_sipahi-ML178674831.wav	2	a
+3	Spectrogram 1	1	30.062839712	30.398703338	1559.3	4282.6	Carpodacus_sipahi-ML178674831.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_sipahi-ML178674831.wav	3	a

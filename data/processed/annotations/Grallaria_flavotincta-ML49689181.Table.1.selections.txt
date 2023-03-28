@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.536968680	13.672772210	1071.5	2312.1	Grallaria_flavotincta-ML49689181.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_flavotincta-ML49689181.wav	1	a
+2	Spectrogram 1	1	13.860310417	14.215986327	563.9	2424.9	Grallaria_flavotincta-ML49689181.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_flavotincta-ML49689181.wav	1	b
+3	Spectrogram 1	1	14.409991369	14.739799941	507.5	2650.5	Grallaria_flavotincta-ML49689181.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_flavotincta-ML49689181.wav	1	b
+4	Spectrogram 1	1	35.600858767	35.749595966	1015.1	2312.1	Grallaria_flavotincta-ML49689181.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_flavotincta-ML49689181.wav	2	a
+5	Spectrogram 1	1	35.911266834	36.305743753	733.1	2143.0	Grallaria_flavotincta-ML49689181.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_flavotincta-ML49689181.wav	2	b
+6	Spectrogram 1	1	36.460947787	36.816623697	451.2	2650.5	Grallaria_flavotincta-ML49689181.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_flavotincta-ML49689181.wav	2	b
+7	Spectrogram 1	1	57.574744915	57.755816288	1015.1	2199.4	Grallaria_flavotincta-ML49689181.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_flavotincta-ML49689181.wav	3	a
+8	Spectrogram 1	1	57.898086652	58.266696232	1015.1	2199.4	Grallaria_flavotincta-ML49689181.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_flavotincta-ML49689181.wav	3	b
+9	Spectrogram 1	1	58.460701274	58.790509845	845.9	2594.1	Grallaria_flavotincta-ML49689181.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_flavotincta-ML49689181.wav	3	b

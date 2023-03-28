@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.541173493	1.895446396	373.7	747.5	Zentrygon_lawrencii-ML50230961.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_lawrencii-ML50230961.wav	1	a
+2	Spectrogram 1	1	1.932158614	2.297445182	373.7	794.2	Zentrygon_lawrencii-ML50230961.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_lawrencii-ML50230961.wav	1	b
+3	Spectrogram 1	1	3.863933590	4.231055768	350.4	770.8	Zentrygon_lawrencii-ML50230961.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_lawrencii-ML50230961.wav	2	a
+4	Spectrogram 1	1	4.258589932	4.638561387	397.1	864.2	Zentrygon_lawrencii-ML50230961.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_lawrencii-ML50230961.wav	2	b
+5	Spectrogram 1	1	8.657173341	9.051829683	327.0	770.8	Zentrygon_lawrencii-ML50230961.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_lawrencii-ML50230961.wav	3	a
+6	Spectrogram 1	1	9.055500905	9.466677746	350.4	817.5	Zentrygon_lawrencii-ML50230961.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_lawrencii-ML50230961.wav	3	b

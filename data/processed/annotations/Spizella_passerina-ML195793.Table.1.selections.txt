@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.237411912	10.241016560	2908.6	7867.1	Spizella_passerina-ML195793.wav	D:\Andean\Passerellidae\Spizella_passerina-ML195793.wav	1	a
+2	Spectrogram 1	1	17.477283028	20.350093072	2576.2	7894.8	Spizella_passerina-ML195793.wav	D:\Andean\Passerellidae\Spizella_passerina-ML195793.wav	2	a
+3	Spectrogram 1	1	25.049973463	27.936797215	2548.5	7617.8	Spizella_passerina-ML195793.wav	D:\Andean\Passerellidae\Spizella_passerina-ML195793.wav	3	a

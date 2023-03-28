@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.693664891	16.743210829	5225.1	6818.8	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	1	a
+2	Spectrogram 1	1	16.921576206	16.974425207	5616.0	8054.5	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	1	b
+3	Spectrogram 1	1	17.033880333	17.260140117	6059.3	11047.2	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	1	c
+4	Spectrogram 1	1	17.337762087	17.390611087	5652.9	8091.4	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	1	b
+5	Spectrogram 1	1	17.463278463	17.522733589	6613.5	10049.6	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	1	d
+6	Spectrogram 1	1	17.608613215	17.664765278	6465.8	9089.0	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	1	e
+7	Spectrogram 1	1	17.790281655	17.833221468	6909.1	10271.3	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	1	d
+8	Spectrogram 1	1	21.585138464	21.631381339	6391.9	10049.6	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	2	d
+9	Spectrogram 1	1	21.727170153	21.783322216	6613.5	10197.4	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	2	d
+10	Spectrogram 1	1	21.912141655	21.971596781	6428.8	10049.6	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	2	d
+11	Spectrogram 1	1	22.090507033	22.149962158	6539.6	10419.1	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	2	d
+12	Spectrogram 1	1	27.018832085	27.108014774	6909.1	8904.3	Stilpnia_phillipsi-ML140551.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_phillipsi-ML140551.wav	3	b

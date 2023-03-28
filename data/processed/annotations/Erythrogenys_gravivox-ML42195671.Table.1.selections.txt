@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.547789105	4.706611123	1071.1	1699.6	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	1	a
+2	Spectrogram 1	1	4.755659100	4.850765258	1043.8	1440.9	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	1	b
+3	Spectrogram 1	1	4.892053540	4.987708484	1043.8	1477.9	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	1	c
+4	Spectrogram 1	1	9.695491005	9.863655495	1062.2	1699.6	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	2	a
+5	Spectrogram 1	1	9.891329179	9.941611064	1080.7	1367.0	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	2	d
+6	Spectrogram 1	1	9.954421045	10.003269544	1154.6	1440.9	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	2	e
+7	Spectrogram 1	1	10.066477832	10.123939911	1173.1	1431.7	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	2	f
+8	Spectrogram 1	1	14.413439207	14.561750945	1062.2	1699.6	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	3	a
+9	Spectrogram 1	1	14.629796777	14.674491786	1080.7	1367.0	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	3	c
+10	Spectrogram 1	1	14.680157045	14.717507397	1154.6	1450.2	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	3	c
+11	Spectrogram 1	1	14.766718440	14.844340410	1043.8	1477.9	Erythrogenys_gravivox-ML42195671.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_gravivox-ML42195671.wav	3	c

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.771170435	9.813211558	2077.6	5678.7	Knipolegus_cyanirostris-ML30160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_cyanirostris-ML30160.wav	1	a
+2	Spectrogram 1	1	19.854518069	19.873203013	1828.3	6121.9	Knipolegus_cyanirostris-ML30160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_cyanirostris-ML30160.wav	2	b
+3	Spectrogram 1	1	26.796527029	26.839237212	1856.0	5817.2	Knipolegus_cyanirostris-ML30160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_cyanirostris-ML30160.wav	3	c

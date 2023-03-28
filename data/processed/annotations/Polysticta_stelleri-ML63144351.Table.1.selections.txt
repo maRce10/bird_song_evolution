@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.464348827	1.705474897	148.3	1928.1	Polysticta_stelleri-ML63144351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Polysticta_stelleri-ML63144351.wav	1	a
+2	Spectrogram 1	1	9.998468364	10.266189221	98.9	2027.0	Polysticta_stelleri-ML63144351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Polysticta_stelleri-ML63144351.wav	2	a
+3	Spectrogram 1	1	27.592321316	27.844085301	98.9	2002.3	Polysticta_stelleri-ML63144351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Polysticta_stelleri-ML63144351.wav	3	a

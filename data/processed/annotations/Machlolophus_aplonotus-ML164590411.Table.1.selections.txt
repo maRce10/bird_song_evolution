@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.946991294	23.049758482	4870.9	6127.9	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	1	a
+2	Spectrogram 1	1	23.110484548	23.208580501	4451.9	6023.2	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	1	a
+3	Spectrogram 1	1	23.273977803	23.395429935	4425.7	6075.5	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	1	a
+4	Spectrogram 1	1	23.491190269	23.621984873	4661.4	5866.0	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	1	b
+5	Spectrogram 1	1	23.694389029	23.811169925	3011.6	4478.1	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	1	b
+6	Spectrogram 1	1	23.855546665	23.939628910	4844.7	6023.2	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	1	a
+7	Spectrogram 1	1	24.028382391	24.177861938	2383.1	3430.6	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	1	c
+8	Spectrogram 1	1	24.268951037	24.390403169	2356.9	3325.8	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	1	c
+9	Spectrogram 1	1	26.536945787	26.614021178	5263.7	6232.7	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	2	a
+10	Spectrogram 1	1	26.728466456	26.807877466	5054.2	6442.2	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	2	a
+11	Spectrogram 1	1	26.915315890	27.029761168	3273.5	6154.1	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	2	d
+12	Spectrogram 1	1	27.123185885	27.186247569	2775.9	5735.1	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	2	e
+13	Spectrogram 1	1	31.917386141	32.015482093	5394.7	6206.5	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	3	a
+14	Spectrogram 1	1	32.094893103	32.211673999	5237.5	6023.2	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	3	a
+15	Spectrogram 1	1	32.272400065	32.414872758	5316.1	5944.6	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	3	a
+16	Spectrogram 1	1	32.508297475	32.629749607	4451.9	5866.0	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	3	b
+17	Spectrogram 1	1	32.702153762	32.830612748	3037.8	4582.8	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	3	b
+18	Spectrogram 1	1	32.881996342	32.952064880	4870.9	6206.5	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	3	a
+19	Spectrogram 1	1	33.092201955	33.215989705	2435.5	3771.0	Machlolophus_aplonotus-ML164590411.wav	E:\Andean\Paridae\Machlolophus_aplonotus-ML164590411.wav	3	c

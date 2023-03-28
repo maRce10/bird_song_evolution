@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.760835160	12.907651106	2465.4	4653.8	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	1	a
+2	Spectrogram 1	1	13.383055121	13.508897360	2354.6	4764.6	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	1	a
+3	Spectrogram 1	1	13.984301375	14.138108556	2410.0	4764.6	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	1	a
+4	Spectrogram 1	1	14.571565158	14.788293459	1357.3	3905.8	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	1	b
+5	Spectrogram 1	1	15.319627358	15.452460833	2354.6	4820.0	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	1	a
+6	Spectrogram 1	1	15.948838554	16.081672029	2465.4	4736.9	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	1	a
+7	Spectrogram 1	1	16.550084808	16.682918283	2493.1	4681.5	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	1	a
+8	Spectrogram 1	1	17.193278476	17.368059364	2493.1	4709.2	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	1	a
+9	Spectrogram 1	1	17.857445850	17.983288089	2410.0	4709.2	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	1	a
+10	Spectrogram 1	1	18.549578165	18.689402876	2326.9	4653.8	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	1	a
+11	Spectrogram 1	1	22.162266049	22.316073230	2382.3	4709.2	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	2	a
+12	Spectrogram 1	1	22.777494774	22.938293191	2465.4	4653.8	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	2	a
+13	Spectrogram 1	1	23.406705970	23.553521916	2465.4	4653.8	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	2	a
+14	Spectrogram 1	1	24.154768170	24.336540293	2382.3	4681.5	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	2	a
+15	Spectrogram 1	1	24.763005660	24.909821606	2437.7	4653.8	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	2	a
+16	Spectrogram 1	1	25.434164269	25.587971450	2437.7	4681.5	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	2	a
+17	Spectrogram 1	1	26.028419288	26.175235234	2465.4	4598.4	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	2	a
+18	Spectrogram 1	1	28.022015965	28.190096666	2493.1	4681.5	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	3	a
+19	Spectrogram 1	1	28.595467770	28.753661371	2520.8	4792.3	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	3	a
+20	Spectrogram 1	1	29.248016375	29.406209976	2548.5	4653.8	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	3	a
+21	Spectrogram 1	1	29.811581080	29.999435981	2493.1	4764.6	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	3	a
+22	Spectrogram 1	1	30.404807085	30.592661986	2493.1	4653.8	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	3	a
+23	Spectrogram 1	1	31.067242790	31.225436391	2354.6	4653.8	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	3	a
+24	Spectrogram 1	1	31.729678496	31.897759197	2465.4	4736.9	Gracupica_contra-ML184614.wav	D:\Andean\Sturnidae\Gracupica_contra-ML184614.wav	3	a

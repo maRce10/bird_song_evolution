@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.609596278	0.663315490	809.9	4519.7	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	1	a
+2	Spectrogram 1	1	0.740390881	1.041685593	914.4	3030.6	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	1	b
+3	Spectrogram 1	1	1.095404805	1.163137725	1332.4	2690.9	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	1	c
+4	Spectrogram 1	1	1.156130871	1.207514466	2455.8	3553.1	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	1	d
+5	Spectrogram 1	1	5.937401764	5.986449741	705.4	3971.1	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	2	a
+7	Spectrogram 1	1	6.074035413	6.384672596	836.0	3004.4	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	2	b
+8	Spectrogram 1	1	6.438391809	6.508460346	1619.8	2690.9	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	2	c
+9	Spectrogram 1	1	6.515467200	6.548165851	2063.9	3135.1	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	2	d
+10	Spectrogram 1	1	8.510330066	8.561713660	757.6	3997.2	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	3	a
+11	Spectrogram 1	1	8.645795905	8.926070056	862.1	2926.1	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	3	b
+12	Spectrogram 1	1	8.982124886	9.061535895	1227.9	2664.8	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	3	c
+13	Spectrogram 1	1	9.070878367	9.096570164	1933.3	2926.1	Onychognathus_tenuirostris-ML33720451.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_tenuirostris-ML33720451.wav	3	d

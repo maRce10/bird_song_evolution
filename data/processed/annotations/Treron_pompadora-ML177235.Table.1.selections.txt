@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	37.680289326	39.347024018	858.9	2015.0	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	1	a
+2	Spectrogram 1	1	39.376393792	40.977046492	858.9	1816.8	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	1	b
+3	Spectrogram 1	1	41.006416267	42.166522352	858.9	1750.8	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	1	c
+4	Spectrogram 1	1	42.225261900	42.783287612	726.7	1717.7	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	1	d
+5	Spectrogram 1	1	42.842027161	43.378025542	693.7	1717.7	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	1	e
+6	Spectrogram 1	1	43.427935347	45.182779362	693.7	1783.8	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	1	f
+7	Spectrogram 1	1	64.944866300	66.618943436	792.8	1882.9	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	2	a
+8	Spectrogram 1	1	66.685025428	68.248965910	858.9	1618.6	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	2	b
+9	Spectrogram 1	1	68.278335685	69.460469101	825.8	1684.7	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	2	c
+10	Spectrogram 1	1	69.504523762	70.084576805	825.8	1651.7	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	2	d
+11	Spectrogram 1	1	70.113311809	70.686022408	858.9	1783.8	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	2	e
+12	Spectrogram 1	1	70.723177721	72.470679292	726.7	1651.7	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	2	f
+13	Spectrogram 1	1	147.191203388	148.865280524	693.7	2147.2	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	3	a
+14	Spectrogram 1	1	148.894650298	150.451248336	858.9	1783.8	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	3	b
+15	Spectrogram 1	1	150.507407570	151.674856099	858.9	1915.9	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	3	c
+16	Spectrogram 1	1	151.704225873	152.320991134	660.7	1750.8	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	3	d
+17	Spectrogram 1	1	152.343018464	152.908386620	792.8	1750.8	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	3	e
+18	Spectrogram 1	1	152.945098838	154.773367289	726.7	1882.9	Treron_pompadora-ML177235.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_pompadora-ML177235.wav	3	f

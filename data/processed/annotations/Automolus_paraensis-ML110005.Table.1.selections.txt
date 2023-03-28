@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	111.704431651	111.909424268	1054.2	3733.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	1	a
+2	Spectrogram 1	1	111.959422468	112.069418506	1032.2	3711.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	1	b
+3	Spectrogram 1	1	112.116916796	112.216913195	1050.0	3689.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	1	c
+4	Spectrogram 1	1	112.270083639	112.375079858	1020.8	3689.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	1	c
+5	Spectrogram 1	1	112.412578507	112.510074996	1050.0	3689.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	1	c
+6	Spectrogram 1	1	112.552573465	112.637570404	1020.8	3645.7	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	1	d
+7	Spectrogram 1	1	112.685068694	112.772565543	1050.0	3667.7	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	1	d
+8	Spectrogram 1	1	112.812564102	112.900060951	1020.8	3645.7	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	1	d
+9	Spectrogram 1	1	114.732702088	114.935194796	1032.2	3645.8	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	2	a
+10	Spectrogram 1	1	114.982693085	115.100188853	1020.8	3711.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	2	b
+11	Spectrogram 1	1	115.152686963	115.247683542	1050.0	3711.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	2	c
+12	Spectrogram 1	1	115.297681741	115.392678320	1020.8	3689.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	2	c
+13	Spectrogram 1	1	115.437676699	115.532673278	1020.8	3667.7	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	2	c
+14	Spectrogram 1	1	115.572671838	115.667668416	1020.8	3626.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	2	c
+15	Spectrogram 1	1	115.707666976	115.795163825	1050.0	3626.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	2	c
+16	Spectrogram 1	1	115.840162204	115.922659233	1050.0	3595.8	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	2	d
+17	Spectrogram 1	1	115.962657793	116.045154822	1050.0	3597.6	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	2	d
+18	Spectrogram 1	1	118.480787791	118.695780049	1079.2	3675.0	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	3	a
+19	Spectrogram 1	1	118.733278698	118.840774827	1020.8	3645.8	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	3	b
+20	Spectrogram 1	1	118.893272936	119.003268975	1020.8	3645.8	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	3	b
+21	Spectrogram 1	1	119.048267354	119.150763663	1050.0	3645.8	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	3	c
+22	Spectrogram 1	1	119.193262132	119.290758621	1050.0	3675.0	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	3	c
+23	Spectrogram 1	1	119.333257091	119.433253489	1050.0	3645.8	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	3	c
+24	Spectrogram 1	1	119.470752139	119.564498763	1020.8	3645.8	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	3	c
+25	Spectrogram 1	1	119.605747277	119.691994171	1050.0	3645.8	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	3	d
+26	Spectrogram 1	1	119.738242506	119.820739535	1050.0	3645.8	Automolus_paraensis-ML110005.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_paraensis-ML110005.wav	3	d

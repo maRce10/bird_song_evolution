@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.521361505	2.804514782	3148.503	3475.516	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	1	a
+2	Spectrogram 1	1	3.217527233	3.683772400	3265.293	3779.171	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	1	b
+3	Spectrogram 1	1	3.956709864	4.588787559	3125.145	4269.690	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	1	c
+4	Spectrogram 1	1	4.836096743	5.625409427	3615.664	5087.221	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	1	d
+5	Spectrogram 1	1	5.825646553	6.514000639	4456.554	5787.963	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	1	e
+6	Spectrogram 1	1	30.071391093	30.384113540	3171.861	3639.022	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	2	a
+7	Spectrogram 1	1	30.679858114	31.175261835	3218.577	3919.319	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	2	b
+8	Spectrogram 1	1	31.428160084	32.125692224	3241.935	4526.628	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	2	c
+9	Spectrogram 1	1	32.306943001	33.156830846	3802.529	5250.728	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	2	d
+10	Spectrogram 1	1	33.331114385	34.059851911	4620.060	5928.111	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	2	e
+11	Spectrogram 1	1	70.228728188	70.499430980	3101.787	3475.516	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	3	a
+12	Spectrogram 1	1	70.835160203	71.327291493	3171.861	3755.813	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	3	b
+13	Spectrogram 1	1	71.612392106	72.293403748	3241.935	4199.615	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	3	c
+14	Spectrogram 1	1	72.428527551	73.247210010	3662.380	5087.221	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	3	d
+15	Spectrogram 1	1	73.434941014	74.161842928	4456.554	6021.543	Pipile_jacutinga-ML225732.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Pipile_jacutinga-ML225732.wav	3	e

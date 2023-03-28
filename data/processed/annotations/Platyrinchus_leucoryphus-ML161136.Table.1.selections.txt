@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.270524226	10.443359952	1201.8	3448.6	Platyrinchus_leucoryphus-ML161136.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_leucoryphus-ML161136.wav	1	a
+2	Spectrogram 1	1	12.755621689	12.949477976	1018.9	3422.5	Platyrinchus_leucoryphus-ML161136.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_leucoryphus-ML161136.wav	2	a
+3	Spectrogram 1	1	15.556027521	15.742876954	1149.5	3474.7	Platyrinchus_leucoryphus-ML161136.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_leucoryphus-ML161136.wav	3	a

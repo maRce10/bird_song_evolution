@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	96.837057027	96.881111688	770.8	4508.1	Rissa_tridactyla-ML202489.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rissa_tridactyla-ML202489.wav	1	a
+2	Spectrogram 1	1	96.923330739	96.989412731	677.4	3877.4	Rissa_tridactyla-ML202489.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rissa_tridactyla-ML202489.wav	1	b
+3	Spectrogram 1	1	97.051823502	97.481356451	607.3	3970.9	Rissa_tridactyla-ML202489.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rissa_tridactyla-ML202489.wav	1	c
+4	Spectrogram 1	1	97.626369712	97.659410708	584.0	4064.3	Rissa_tridactyla-ML202489.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rissa_tridactyla-ML202489.wav	2	a
+5	Spectrogram 1	1	97.716314645	97.780561027	513.9	4064.3	Rissa_tridactyla-ML202489.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rissa_tridactyla-ML202489.wav	2	b
+6	Spectrogram 1	1	97.852149852	98.279847190	607.3	3924.2	Rissa_tridactyla-ML202489.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rissa_tridactyla-ML202489.wav	2	c
+7	Spectrogram 1	1	98.424069664	98.458946271	747.5	3713.9	Rissa_tridactyla-ML202489.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rissa_tridactyla-ML202489.wav	3	a
+8	Spectrogram 1	1	98.515850209	98.583767812	537.2	3994.2	Rissa_tridactyla-ML202489.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rissa_tridactyla-ML202489.wav	3	a
+9	Spectrogram 1	1	98.666370302	99.038999314	654.0	3900.8	Rissa_tridactyla-ML202489.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rissa_tridactyla-ML202489.wav	3	c

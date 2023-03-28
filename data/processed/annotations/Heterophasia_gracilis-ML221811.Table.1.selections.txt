@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	43.088018577	43.402669763	3448.1	4041.0	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	1	a
+2	Spectrogram 1	1	43.483984115	43.763281235	3074.7	3843.4	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	1	b
+3	Spectrogram 1	1	43.819847740	44.017830509	3162.5	3492.0	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	1	c
+4	Spectrogram 1	1	44.039042948	44.374906573	2877.0	3470.0	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	1	d
+5	Spectrogram 1	1	44.396119013	44.774407517	2262.1	3250.4	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	1	e
+6	Spectrogram 1	1	44.827438616	45.216333340	2350.0	2679.4	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	1	f
+7	Spectrogram 1	1	51.743877614	52.086812053	3448.1	4106.9	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	2	a
+8	Spectrogram 1	1	52.150449371	52.419140272	3096.7	3843.4	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	2	b
+9	Spectrogram 1	1	52.489848403	52.645406293	3118.6	3513.9	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	2	c
+10	Spectrogram 1	1	52.705508205	53.013088577	2877.0	3426.1	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	2	d
+11	Spectrogram 1	1	53.069655083	53.430266554	2306.0	3206.5	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	2	e
+12	Spectrogram 1	1	53.490368466	53.861586157	2328.0	2701.3	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	2	f
+13	Spectrogram 1	1	59.641114585	59.980513617	3470.0	4216.7	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	3	a
+14	Spectrogram 1	1	60.068898781	60.330518868	3140.6	3865.3	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	3	b
+15	Spectrogram 1	1	60.404762407	60.563855703	3118.6	3557.9	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	3	c
+16	Spectrogram 1	1	60.620422208	60.935073394	2877.0	3426.1	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	3	d
+17	Spectrogram 1	1	60.995175306	61.338109744	2350.0	3206.5	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	3	e
+18	Spectrogram 1	1	61.437101129	61.776500161	2371.9	2679.4	Heterophasia_gracilis-ML221811.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_gracilis-ML221811.wav	3	f

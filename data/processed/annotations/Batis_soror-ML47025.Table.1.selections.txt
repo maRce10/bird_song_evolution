@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.871352822	3.884652533	2271.5	2825.5	Batis_soror-ML47025.wav	D:\Andean\Platysteiridae\Batis_soror-ML47025.wav	1	a
+2	Spectrogram 1	1	3.895162814	3.919686802	2354.6	2797.8	Batis_soror-ML47025.wav	D:\Andean\Platysteiridae\Batis_soror-ML47025.wav	1	a
+3	Spectrogram 1	1	4.286379235	4.303896369	2271.5	2770.1	Batis_soror-ML47025.wav	D:\Andean\Platysteiridae\Batis_soror-ML47025.wav	2	a
+4	Spectrogram 1	1	4.309735414	4.336595020	2410.0	2825.5	Batis_soror-ML47025.wav	D:\Andean\Platysteiridae\Batis_soror-ML47025.wav	2	a
+5	Spectrogram 1	1	4.718468550	4.735985685	2382.3	2825.5	Batis_soror-ML47025.wav	D:\Andean\Platysteiridae\Batis_soror-ML47025.wav	3	a
+6	Spectrogram 1	1	4.744160348	4.767516527	2354.6	2853.2	Batis_soror-ML47025.wav	D:\Andean\Platysteiridae\Batis_soror-ML47025.wav	3	a

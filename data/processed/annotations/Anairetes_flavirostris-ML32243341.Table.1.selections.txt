@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	28.750970343	28.775743312	2160.7	6232.7	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	1	a
+2	Spectrogram 1	1	28.840153032	28.864926001	1412.8	4736.9	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	1	b
+3	Spectrogram 1	1	28.893002032	29.196883786	2382.3	6205.0	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	1	c
+4	Spectrogram 1	1	29.236520537	29.350476194	3213.3	6315.8	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	1	d
+5	Spectrogram 1	1	29.368643038	29.398370601	1634.4	6315.8	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	1	e
+6	Spectrogram 1	1	29.404976726	29.431401227	3241.0	6011.1	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	1	f
+7	Spectrogram 1	1	29.484250227	29.606463541	3102.5	6897.6	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	1	d
+8	Spectrogram 1	1	29.619675791	29.651054886	1717.5	6426.6	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	1	e
+9	Spectrogram 1	1	29.657661011	29.684085511	3241.0	6094.2	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	1	f
+10	Spectrogram 1	1	33.509442985	33.539170547	1994.5	6786.7	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	2	a
+11	Spectrogram 1	1	33.598625673	33.628353236	1551.3	5097.0	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	2	b
+12	Spectrogram 1	1	33.658080799	33.966917147	2382.3	6315.8	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	2	c
+13	Spectrogram 1	1	33.999947772	34.122161086	3074.8	7174.6	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	2	d
+14	Spectrogram 1	1	34.133721805	34.166752430	1606.7	6786.7	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	2	e
+15	Spectrogram 1	1	34.175010087	34.198131524	3130.2	6537.4	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	2	f
+16	Spectrogram 1	1	34.252632056	34.371542308	3185.6	7202.3	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	2	d
+17	Spectrogram 1	1	34.384754558	34.419436715	1689.8	6703.6	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	2	e
+18	Spectrogram 1	1	34.424391309	34.450815809	2991.7	6426.6	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	2	f
+19	Spectrogram 1	1	37.791883137	37.823262231	2299.2	6232.7	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	3	a
+20	Spectrogram 1	1	37.879414295	37.910793389	1579.0	4930.8	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	3	b
+21	Spectrogram 1	1	37.940520952	38.260918018	2299.2	6398.9	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	3	c
+22	Spectrogram 1	1	38.295600175	38.416161958	2659.3	7174.6	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	3	d
+23	Spectrogram 1	1	38.429374208	38.464056365	1662.1	6426.6	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	3	e
+24	Spectrogram 1	1	38.467114724	38.493783927	3047.1	6149.6	Anairetes_flavirostris-ML32243341.wav	D:\Andean\Tyrannidae\Anairetes_flavirostris-ML32243341.wav	3	f

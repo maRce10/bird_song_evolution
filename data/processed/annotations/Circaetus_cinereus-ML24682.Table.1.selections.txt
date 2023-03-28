@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.241260942	7.063057170	321.4	1507.9	Circaetus_cinereus-ML24682.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circaetus_cinereus-ML24682.wav	1	a
+2	Spectrogram 1	1	24.836276677	25.957369062	296.6	1631.5	Circaetus_cinereus-ML24682.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circaetus_cinereus-ML24682.wav	2	a
+3	Spectrogram 1	1	36.459032001	37.412721451	247.2	1557.3	Circaetus_cinereus-ML24682.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circaetus_cinereus-ML24682.wav	3	a

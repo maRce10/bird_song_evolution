@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	65.625572920	70.679258608	1080.3	1772.9	Nyctibius_leucopterus-ML108761.wav	E:\Andean\Nyctibiidae\Nyctibius_leucopterus-ML108761.wav	1	a
+2	Spectrogram 1	1	90.158850719	95.324840534	1108.0	1800.6	Nyctibius_leucopterus-ML108761.wav	E:\Andean\Nyctibiidae\Nyctibius_leucopterus-ML108761.wav	2	a
+3	Spectrogram 1	1	109.771918328	114.970938768	997.2	1800.6	Nyctibius_leucopterus-ML108761.wav	E:\Andean\Nyctibiidae\Nyctibius_leucopterus-ML108761.wav	3	a

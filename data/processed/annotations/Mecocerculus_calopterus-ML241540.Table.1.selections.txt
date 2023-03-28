@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.014795123	2.084159437	1145.4	1791.9	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	1	a
+2	Spectrogram 1	1	2.333540658	2.417768753	1459.4	2918.8	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	1	b
+3	Spectrogram 1	1	2.549891255	2.634119350	1496.4	3029.7	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	1	c
+4	Spectrogram 1	1	2.726605101	2.810833196	1533.3	3048.1	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	1	d
+5	Spectrogram 1	1	2.862030665	2.934698041	1348.6	2734.1	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	1	e
+6	Spectrogram 1	1	2.984243979	3.060214418	1330.1	1995.1	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	1	f
+7	Spectrogram 1	1	14.343665506	14.426242070	1219.3	1718.0	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	2	a
+8	Spectrogram 1	1	14.639289604	14.728472292	1256.2	2881.9	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	2	b
+9	Spectrogram 1	1	14.853988669	14.943171358	1459.4	3122.0	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	2	c
+10	Spectrogram 1	1	15.035657109	15.126491329	1404.0	3159.0	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	2	d
+11	Spectrogram 1	1	15.184294923	15.248704643	1274.7	2844.9	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	2	e
+12	Spectrogram 1	1	15.291644456	15.354402644	1367.0	2309.2	Mecocerculus_calopterus-ML241540.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_calopterus-ML241540.wav	2	f

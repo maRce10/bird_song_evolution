@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.859606879	8.470666960	339.7	679.4	Starnoenas_cyanocephala-ML140385.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Starnoenas_cyanocephala-ML140385.wav	1	a
+2	Spectrogram 1	1	10.156640683	10.769997983	308.8	679.4	Starnoenas_cyanocephala-ML140385.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Starnoenas_cyanocephala-ML140385.wav	2	a
+3	Spectrogram 1	1	12.694032913	13.394684509	339.7	648.5	Starnoenas_cyanocephala-ML140385.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Starnoenas_cyanocephala-ML140385.wav	3	a

@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.154152819	13.861008203	249.3	747.9	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	1	a
+2	Spectrogram 1	1	13.960100080	14.070056434	249.3	1052.6	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	1	b
+3	Spectrogram 1	1	14.144796208	15.527482018	220.5	716.6	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	1	c
+4	Spectrogram 1	1	15.618237475	15.776784477	166.2	803.3	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	1	b
+5	Spectrogram 1	1	15.824074510	23.213969615	166.2	747.9	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	1	d
+6	Spectrogram 1	1	23.796285988	24.123272497	138.5	692.5	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	1	e
+7	Spectrogram 1	1	24.193774561	24.315226693	221.6	997.2	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	1	b
+8	Spectrogram 1	1	24.371281523	25.398953409	249.3	747.9	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	1	a
+9	Spectrogram 1	1	27.239420331	27.360872463	193.9	831.0	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	2	b
+10	Spectrogram 1	1	27.529036953	27.809311104	138.5	969.5	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	2	e
+11	Spectrogram 1	1	27.940105708	28.052215368	110.8	969.5	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	2	b
+12	Spectrogram 1	1	28.089585255	29.360161404	221.6	747.9	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	2	c
+13	Spectrogram 1	1	29.864654875	30.724162270	110.8	720.2	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	2	c
+14	Spectrogram 1	1	30.780217100	30.845614402	221.6	997.2	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	2	b
+15	Spectrogram 1	1	30.911011704	31.611697081	277.0	969.5	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	2	c
+16	Spectrogram 1	1	31.658409439	31.770519099	166.2	775.6	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	2	b
+17	Spectrogram 1	1	31.820741625	34.371236396	137.8	937.1	Procellaria_cinerea-ML102179.wav	D:\Andean\Procellariidae\Procellaria_cinerea-ML102179.wav	2	d

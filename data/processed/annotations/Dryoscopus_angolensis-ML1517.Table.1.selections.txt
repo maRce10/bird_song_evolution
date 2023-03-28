@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.490170455	4.620498828	1191.3	5232.2	Dryoscopus_angolensis-ML1517.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Dryoscopus_angolensis-ML1517.wav	1	a
+2	Spectrogram 1	1	5.182195762	5.316195357	1238.0	5255.6	Dryoscopus_angolensis-ML1517.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Dryoscopus_angolensis-ML1517.wav	2	a
+3	Spectrogram 1	1	5.932635166	6.061127929	1144.5	5419.1	Dryoscopus_angolensis-ML1517.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Dryoscopus_angolensis-ML1517.wav	3	a

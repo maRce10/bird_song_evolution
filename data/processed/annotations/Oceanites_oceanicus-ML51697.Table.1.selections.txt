@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.658215779	9.843187281	443.2	4764.6	Oceanites_oceanicus-ML51697.wav	E:\Andean\Oceanitidae\Oceanites_oceanicus-ML51697.wav	1	a
+2	Spectrogram 1	1	9.988522033	10.186705786	443.2	4653.8	Oceanites_oceanicus-ML51697.wav	E:\Andean\Oceanitidae\Oceanites_oceanicus-ML51697.wav	2	a
+3	Spectrogram 1	1	10.404707914	10.596285541	443.2	4626.1	Oceanites_oceanicus-ML51697.wav	E:\Andean\Oceanitidae\Oceanites_oceanicus-ML51697.wav	3	a

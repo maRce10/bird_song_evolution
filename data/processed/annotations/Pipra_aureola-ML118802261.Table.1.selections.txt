@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.859823433	2.530346761	1274.200	5429.400	Pipra_aureola-ML118802261.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Pipra_aureola-ML118802261.wav	1	a
+2	Spectrogram 1	1	56.484393464	57.113991642	1385.100	5484.800	Pipra_aureola-ML118802261.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Pipra_aureola-ML118802261.wav	2	a
+3	Spectrogram 1	1	27.596912844	28.286440137	1201.777	5486.374	Pipra_aureola-ML118802261.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Pipra_aureola-ML118802261.wav	3	a

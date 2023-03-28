@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.124832503	7.394326345	296.6	3213.6	Cygnus_columbianus-ML130982.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cygnus_columbianus-ML130982.wav	1	a
+2	Spectrogram 1	1	9.817085167	10.086579010	346.1	3114.7	Cygnus_columbianus-ML130982.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cygnus_columbianus-ML130982.wav	2	a
+3	Spectrogram 1	1	11.910485902	12.169341830	370.8	3213.6	Cygnus_columbianus-ML130982.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cygnus_columbianus-ML130982.wav	3	a

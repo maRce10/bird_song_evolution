@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.060910685	0.087982101	679.3	2168.4	Crex_egregia-ML81483851.wav	D:\Andean\Rallidae\Crex_egregia-ML81483851.wav	1	a
+2	Spectrogram 1	1	0.099487452	0.129942795	522.5	2090.0	Crex_egregia-ML81483851.wav	D:\Andean\Rallidae\Crex_egregia-ML81483851.wav	1	a
+3	Spectrogram 1	1	0.212510612	0.240935599	600.9	2220.7	Crex_egregia-ML81483851.wav	D:\Andean\Rallidae\Crex_egregia-ML81483851.wav	2	a
+4	Spectrogram 1	1	0.248380238	0.280189151	548.6	2299.1	Crex_egregia-ML81483851.wav	D:\Andean\Rallidae\Crex_egregia-ML81483851.wav	2	a
+5	Spectrogram 1	1	0.355989115	0.380353389	574.8	2194.5	Crex_egregia-ML81483851.wav	D:\Andean\Rallidae\Crex_egregia-ML81483851.wav	3	a
+6	Spectrogram 1	1	0.391858740	0.423667654	496.4	2194.5	Crex_egregia-ML81483851.wav	D:\Andean\Rallidae\Crex_egregia-ML81483851.wav	3	a

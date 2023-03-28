@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	87.714526869	87.931739335	664.8	1509.7	Oriolus_brachyrynchus-ML51548.wav	E:\Andean\Oriolidae\Oriolus_brachyrynchus-ML51548.wav	1	a
+2	Spectrogram 1	1	87.952759897	88.139609331	1426.6	1745.2	Oriolus_brachyrynchus-ML51548.wav	E:\Andean\Oriolidae\Oriolus_brachyrynchus-ML51548.wav	1	b
+3	Spectrogram 1	1	93.685810854	93.900687703	678.7	1495.9	Oriolus_brachyrynchus-ML51548.wav	E:\Andean\Oriolidae\Oriolus_brachyrynchus-ML51548.wav	2	a
+4	Spectrogram 1	1	93.910030174	94.108557698	1440.5	1828.3	Oriolus_brachyrynchus-ML51548.wav	E:\Andean\Oriolidae\Oriolus_brachyrynchus-ML51548.wav	2	b
+5	Spectrogram 1	1	98.860317255	99.070522868	651.0	1495.9	Oriolus_brachyrynchus-ML51548.wav	E:\Andean\Oriolidae\Oriolus_brachyrynchus-ML51548.wav	3	a
+6	Spectrogram 1	1	99.096214665	99.283064099	1385.1	1759.0	Oriolus_brachyrynchus-ML51548.wav	E:\Andean\Oriolidae\Oriolus_brachyrynchus-ML51548.wav	3	b

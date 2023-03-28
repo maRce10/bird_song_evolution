@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.953753453	7.199725313	1004.396	2142.300	Procnias_tricarunculatus-ML32722.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Procnias_tricarunculatus-ML32722.wav	1	a
+2	Spectrogram 1	1	28.904495716	29.150008673	1027.754	2142.300	Procnias_tricarunculatus-ML32722.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Procnias_tricarunculatus-ML32722.wav	2	a
+3	Spectrogram 1	1	39.992821004	40.337915852	1074.470	2211.100	Procnias_tricarunculatus-ML32722.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Procnias_tricarunculatus-ML32722.wav	3	a

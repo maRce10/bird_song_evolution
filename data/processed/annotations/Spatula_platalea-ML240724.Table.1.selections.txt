@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.576220387	0.829757358	445.0	3881.0	Spatula_platalea-ML240724.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_platalea-ML240724.wav	1	a
+2	Spectrogram 1	1	1.173716604	1.437891489	420.2	3411.3	Spatula_platalea-ML240724.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_platalea-ML240724.wav	2	a
+3	Spectrogram 1	1	1.813764481	2.090350266	321.4	3090.0	Spatula_platalea-ML240724.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_platalea-ML240724.wav	3	a

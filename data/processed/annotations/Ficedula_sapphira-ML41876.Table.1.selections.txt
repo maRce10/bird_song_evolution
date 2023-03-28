@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	34.688476421	34.718203984	3185.6	6869.8	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	1	a
+2	Spectrogram 1	1	34.738022359	34.777659109	3157.9	6869.8	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	1	a
+3	Spectrogram 1	1	34.810689735	34.840417298	3157.9	6897.6	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	1	a
+4	Spectrogram 1	1	34.883357111	34.913084674	3047.1	6869.8	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	1	a
+5	Spectrogram 1	1	34.965933674	35.002267362	3130.2	6814.4	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	1	a
+6	Spectrogram 1	1	35.989883062	36.029519813	3684.2	7063.8	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	2	a
+7	Spectrogram 1	1	36.055944313	36.095581063	3407.2	6786.7	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	2	a
+8	Spectrogram 1	1	36.131914751	36.161642314	3407.2	6648.2	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	2	a
+9	Spectrogram 1	1	36.197976002	36.234309690	3490.3	6648.2	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	2	a
+10	Spectrogram 1	1	36.283855628	36.320189316	3656.5	6509.7	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	2	a
+11	Spectrogram 1	1	37.357350954	37.393684642	3324.1	6786.7	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	3	a
+12	Spectrogram 1	1	37.426715268	37.463048956	3130.2	6454.3	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	3	a
+13	Spectrogram 1	1	37.486170393	37.519201019	3241.0	6426.6	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	3	a
+14	Spectrogram 1	1	37.565443894	37.595171457	3268.7	6426.6	Ficedula_sapphira-ML41876.wav	E:\Andean\Muscicapidae\Ficedula_sapphira-ML41876.wav	3	a

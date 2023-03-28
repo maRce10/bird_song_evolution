@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.155476556	1.195113306	5290.9	6177.3	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	1	a
+2	Spectrogram 1	1	1.211628619	1.259523026	4626.1	5761.8	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	1	a
+3	Spectrogram 1	1	1.300811308	1.335493464	4016.6	5152.4	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	1	a
+4	Spectrogram 1	1	1.373478684	1.427979216	3850.4	5097.0	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	1	b
+5	Spectrogram 1	1	1.469267497	1.533677217	3628.8	5041.6	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	1	b
+6	Spectrogram 1	1	1.568359374	1.622859905	3434.9	4930.8	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	1	b
+7	Spectrogram 1	1	1.697178813	1.750027813	3573.4	4875.4	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	1	b
+8	Spectrogram 1	1	2.842743136	2.888986011	5013.9	5983.4	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	2	a
+9	Spectrogram 1	1	2.915410512	2.950092669	4459.9	5346.3	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	2	a
+10	Spectrogram 1	1	2.989729419	3.035972295	3933.5	5069.3	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	2	b
+11	Spectrogram 1	1	3.070654451	3.125154983	3628.8	4903.1	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	2	b
+12	Spectrogram 1	1	3.164791734	3.219292266	3656.5	4958.5	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	2	b
+13	Spectrogram 1	1	3.262232079	3.310126486	3628.8	4764.6	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	2	b
+14	Spectrogram 1	1	3.367930080	3.422430612	3601.1	4958.5	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	2	b
+15	Spectrogram 1	1	3.498401050	3.549598520	3573.4	4903.1	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	2	b
+16	Spectrogram 1	1	6.102575024	6.150469431	5318.6	6371.2	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	3	a
+17	Spectrogram 1	1	6.168636275	6.204969963	4515.3	5374.0	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	3	a
+18	Spectrogram 1	1	6.246258244	6.284243464	4016.6	5069.3	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	3	b
+19	Spectrogram 1	1	6.325531745	6.373426152	3850.4	4986.2	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	3	b
+20	Spectrogram 1	1	6.413062903	6.462608841	3628.8	4986.2	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	3	b
+21	Spectrogram 1	1	6.513806310	6.566655311	3684.2	5069.3	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	3	b
+22	Spectrogram 1	1	6.611246655	6.665747187	3684.2	5013.9	Cinnyris_habessinicus-ML276541.wav	E:\Andean\Nectariniidae\Cinnyris_habessinicus-ML276541.wav	3	b

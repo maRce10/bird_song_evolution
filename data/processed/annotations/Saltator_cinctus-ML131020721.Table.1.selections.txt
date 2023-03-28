@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.924382735	3.133961613	1316.4	3389.8	Saltator_cinctus-ML131020721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_cinctus-ML131020721.wav	1	a
+2	Spectrogram 1	1	3.326940185	3.548969294	1415.1	3389.8	Saltator_cinctus-ML131020721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_cinctus-ML131020721.wav	1	a
+3	Spectrogram 1	1	3.656862109	4.167321556	1415.1	3587.2	Saltator_cinctus-ML131020721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_cinctus-ML131020721.wav	1	b
+4	Spectrogram 1	1	10.655833900	10.869562856	1448.1	3324.0	Saltator_cinctus-ML131020721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_cinctus-ML131020721.wav	2	a
+5	Spectrogram 1	1	11.068766542	11.303245882	1415.1	3389.8	Saltator_cinctus-ML131020721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_cinctus-ML131020721.wav	2	a
+6	Spectrogram 1	1	11.419448032	11.936132594	1481.0	3554.3	Saltator_cinctus-ML131020721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_cinctus-ML131020721.wav	2	b
+7	Spectrogram 1	1	15.757566401	15.969220318	1448.1	3356.9	Saltator_cinctus-ML131020721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_cinctus-ML131020721.wav	3	a
+8	Spectrogram 1	1	16.143523544	16.367627691	1415.1	3356.9	Saltator_cinctus-ML131020721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_cinctus-ML131020721.wav	3	a
+9	Spectrogram 1	1	16.490054957	17.002589442	1415.1	3521.4	Saltator_cinctus-ML131020721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_cinctus-ML131020721.wav	3	b

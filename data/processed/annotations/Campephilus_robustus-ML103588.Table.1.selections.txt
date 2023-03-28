@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	104.234172226	104.266870876	628.5	2697.3	Campephilus_robustus-ML103588.wav	D:\Andean\Picidae\Campephilus_robustus-ML103588.wav	1	a
+2	Spectrogram 1	1	104.301905145	104.402336716	366.6	2173.6	Campephilus_robustus-ML103588.wav	D:\Andean\Picidae\Campephilus_robustus-ML103588.wav	1	b
+3	Spectrogram 1	1	105.834070321	105.869104590	576.1	2697.3	Campephilus_robustus-ML103588.wav	D:\Andean\Picidae\Campephilus_robustus-ML103588.wav	2	a
+4	Spectrogram 1	1	105.899467623	105.981214250	602.3	2514.0	Campephilus_robustus-ML103588.wav	D:\Andean\Picidae\Campephilus_robustus-ML103588.wav	2	b
+5	Spectrogram 1	1	107.783223854	107.819557542	576.1	2592.6	Campephilus_robustus-ML103588.wav	D:\Andean\Picidae\Campephilus_robustus-ML103588.wav	3	a
+6	Spectrogram 1	1	107.842678980	107.921952481	707.1	2540.2	Campephilus_robustus-ML103588.wav	D:\Andean\Picidae\Campephilus_robustus-ML103588.wav	3	b

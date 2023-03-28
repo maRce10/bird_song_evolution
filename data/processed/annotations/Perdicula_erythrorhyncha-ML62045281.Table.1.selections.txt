@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.786128885	1.136253514	2936.3	3822.7	Perdicula_erythrorhyncha-ML62045281.wav	D:\Andean\Phasianidae\Perdicula_erythrorhyncha-ML62045281.wav	1	a
+2	Spectrogram 1	1	1.757229272	2.080929401	3019.4	3878.1	Perdicula_erythrorhyncha-ML62045281.wav	D:\Andean\Phasianidae\Perdicula_erythrorhyncha-ML62045281.wav	2	a
+3	Spectrogram 1	1	2.946331787	3.256819666	2964.0	3767.3	Perdicula_erythrorhyncha-ML62045281.wav	D:\Andean\Phasianidae\Perdicula_erythrorhyncha-ML62045281.wav	3	a

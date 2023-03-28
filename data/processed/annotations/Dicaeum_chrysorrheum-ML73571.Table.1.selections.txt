@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.406829057	29.496773990	6610.3	7684.8	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	1	a
+2	Spectrogram 1	1	29.625266753	29.706033632	5676.0	6843.9	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	1	b
+3	Spectrogram 1	1	29.786800512	29.885923500	6587.0	7591.4	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	1	a
+4	Spectrogram 1	1	30.018087484	30.071320200	5769.4	6797.2	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	1	b
+5	Spectrogram 1	1	30.197977352	30.320963282	6563.6	7568.0	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	1	a
+6	Spectrogram 1	1	30.442113601	30.499017539	5652.6	6680.4	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	1	b
+7	Spectrogram 1	1	30.616496636	30.721126457	6610.3	7544.7	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	1	a
+8	Spectrogram 1	1	36.493939387	36.613254095	6680.4	7638.1	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	2	a
+9	Spectrogram 1	1	36.721555138	36.783965908	5722.7	6867.3	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	2	b
+10	Spectrogram 1	1	36.877582064	37.004239216	6633.7	7544.7	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	2	a
+11	Spectrogram 1	1	37.112540258	37.185964694	5652.6	6773.8	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	2	b
+12	Spectrogram 1	1	37.274074017	37.383292865	6587.0	7638.1	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	2	a
+13	Spectrogram 1	1	37.516374655	37.571442982	5605.9	6797.2	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	2	b
+14	Spectrogram 1	1	37.676072803	37.780702624	6563.6	7474.6	Dicaeum_chrysorrheum-ML73571.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_chrysorrheum-ML73571.wav	2	a

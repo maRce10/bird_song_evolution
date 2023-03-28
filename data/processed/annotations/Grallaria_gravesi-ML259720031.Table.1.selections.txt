@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.173245278	1.345557759	1804.6	4567.9	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	1	a
+2	Spectrogram 1	1	1.393703894	1.581220418	1522.6	4342.3	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	1	a
+3	Spectrogram 1	1	1.639502580	1.834621126	1409.8	4229.5	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	1	a
+4	Spectrogram 1	1	1.895437295	2.093089848	1579.0	4229.5	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	1	a
+5	Spectrogram 1	1	2.164042046	2.371830626	1579.0	4285.9	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	1	a
+6	Spectrogram 1	1	2.437714810	2.655639419	1466.2	4060.4	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	1	a
+7	Spectrogram 1	1	2.721523603	2.949584240	1353.5	4229.5	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	1	a
+8	Spectrogram 1	1	3.020536439	3.240995055	1297.1	3834.8	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	1	a
+9	Spectrogram 1	1	3.299932465	3.507721045	1297.1	4004.0	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	1	a
+10	Spectrogram 1	1	3.588809272	3.710441612	2143.0	4455.1	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	1	b
+11	Spectrogram 1	1	12.760723297	12.945705814	1466.2	4680.7	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	2	a
+12	Spectrogram 1	1	12.988783934	13.188970493	1466.2	4285.9	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	2	a
+13	Spectrogram 1	1	13.237116628	13.427167159	1240.7	4004.0	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	2	a
+14	Spectrogram 1	1	13.482915314	13.695771909	1409.8	4116.8	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	2	a
+15	Spectrogram 1	1	13.759122086	13.971978681	1297.1	4173.1	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	2	a
+16	Spectrogram 1	1	14.032794851	14.250719459	1353.5	3947.6	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	2	a
+17	Spectrogram 1	1	14.319137651	14.534528252	1353.5	3834.8	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	2	a
+18	Spectrogram 1	1	14.592810415	14.805667010	1297.1	4004.0	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	2	a
+19	Spectrogram 1	1	14.874085201	15.031193640	1466.2	4511.5	Grallaria_gravesi-ML259720031.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_gravesi-ML259720031.wav	2	b

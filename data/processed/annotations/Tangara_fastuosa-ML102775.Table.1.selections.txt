@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	60.304929423	60.387359635	2142.3	7785.4	Tangara_fastuosa-ML102775.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_fastuosa-ML102775.wav	1	a
+2	Spectrogram 1	1	62.316446423	62.378269082	2194.5	7001.7	Tangara_fastuosa-ML102775.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_fastuosa-ML102775.wav	2	a
+3	Spectrogram 1	1	64.271445307	64.355163490	2090.0	10972.7	Tangara_fastuosa-ML102775.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_fastuosa-ML102775.wav	3	a
+4	Spectrogram 1	1	67.687462338	67.759588773	1985.5	8203.4	Tangara_fastuosa-ML102775.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_fastuosa-ML102775.wav	4	a
+5	Spectrogram 1	1	70.102968816	70.163503503	2246.8	7262.9	Tangara_fastuosa-ML102775.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_fastuosa-ML102775.wav	5	a

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+2	Spectrogram 1	1	35.986485971	36.001349753	4155.2	6232.7	Myiornis_atricapillus-ML192574.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiornis_atricapillus-ML192574.wav	1	a
+3	Spectrogram 1	1	36.003001284	36.039334972	4210.6	5734.1	Myiornis_atricapillus-ML192574.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiornis_atricapillus-ML192574.wav	1	b
+4	Spectrogram 1	1	36.036031909	36.047592628	6869.8	7700.9	Myiornis_atricapillus-ML192574.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiornis_atricapillus-ML192574.wav	1	c
+5	Spectrogram 1	1	37.054548145	37.067760395	4238.3	6094.2	Myiornis_atricapillus-ML192574.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiornis_atricapillus-ML192574.wav	2	a
+6	Spectrogram 1	1	37.074366521	37.107397146	4238.3	5872.6	Myiornis_atricapillus-ML192574.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiornis_atricapillus-ML192574.wav	2	b
+7	Spectrogram 1	1	37.103268318	37.114003271	7008.4	7645.5	Myiornis_atricapillus-ML192574.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiornis_atricapillus-ML192574.wav	2	c
+8	Spectrogram 1	1	37.886771432	37.896680619	4099.7	5983.4	Myiornis_atricapillus-ML192574.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiornis_atricapillus-ML192574.wav	3	a
+9	Spectrogram 1	1	37.904112510	37.937143136	4543.0	5872.6	Myiornis_atricapillus-ML192574.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiornis_atricapillus-ML192574.wav	3	b
+10	Spectrogram 1	1	37.928885479	37.942923495	7119.2	7784.0	Myiornis_atricapillus-ML192574.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiornis_atricapillus-ML192574.wav	3	c

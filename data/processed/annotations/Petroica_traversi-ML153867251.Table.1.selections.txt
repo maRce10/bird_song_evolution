@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.759902346	21.834642119	5678.7	6786.7	Petroica_traversi-ML153867251.wav	D:\Andean\Petroicidae\Petroica_traversi-ML153867251.wav	1	a
+2	Spectrogram 1	1	22.219264511	22.326702936	5623.3	6786.7	Petroica_traversi-ML153867251.wav	D:\Andean\Petroicidae\Petroica_traversi-ML153867251.wav	2	a
+3	Spectrogram 1	1	22.765799105	22.849881350	5761.8	6869.8	Petroica_traversi-ML153867251.wav	D:\Andean\Petroicidae\Petroica_traversi-ML153867251.wav	3	a

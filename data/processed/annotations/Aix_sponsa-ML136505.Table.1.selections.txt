@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	265.885957378	266.153125699	568.6	2496.7	Aix_sponsa-ML136505.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_sponsa-ML136505.wav	1	a
+2	Spectrogram 1	1	266.151434761	266.183562597	1384.3	2298.9	Aix_sponsa-ML136505.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_sponsa-ML136505.wav	1	b
+3	Spectrogram 1	1	266.188635413	266.225836065	1112.4	2051.7	Aix_sponsa-ML136505.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_sponsa-ML136505.wav	1	c
+4	Spectrogram 1	1	266.575860385	266.841337767	543.8	2472.0	Aix_sponsa-ML136505.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_sponsa-ML136505.wav	2	a
+5	Spectrogram 1	1	266.841337767	266.881920297	1433.7	2224.8	Aix_sponsa-ML136505.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_sponsa-ML136505.wav	2	b
+6	Spectrogram 1	1	266.892065930	266.920811888	1211.3	2076.5	Aix_sponsa-ML136505.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_sponsa-ML136505.wav	2	c
+7	Spectrogram 1	1	267.302968059	267.563372625	543.8	2447.3	Aix_sponsa-ML136505.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_sponsa-ML136505.wav	3	a
+8	Spectrogram 1	1	267.563372625	267.614100788	1483.2	2323.7	Aix_sponsa-ML136505.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_sponsa-ML136505.wav	3	b
+9	Spectrogram 1	1	267.620864542	267.647919562	1310.1	2027.0	Aix_sponsa-ML136505.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_sponsa-ML136505.wav	3	c

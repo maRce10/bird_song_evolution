@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	46.324096105	46.581734984	890.4	1937.9	Celeus_undatus-ML69414.wav	D:\Andean\Picidae\Celeus_undatus-ML69414.wav	1	a
+2	Spectrogram 1	1	46.720463610	47.077194365	707.1	2487.8	Celeus_undatus-ML69414.wav	D:\Andean\Picidae\Celeus_undatus-ML69414.wav	1	b
+3	Spectrogram 1	1	64.123813043	64.388058047	759.4	1990.3	Celeus_undatus-ML69414.wav	D:\Andean\Picidae\Celeus_undatus-ML69414.wav	2	a
+4	Spectrogram 1	1	64.500362173	64.876911303	602.3	2487.8	Celeus_undatus-ML69414.wav	D:\Andean\Picidae\Celeus_undatus-ML69414.wav	2	b
+5	Spectrogram 1	1	195.496951645	195.728166023	890.4	2173.6	Celeus_undatus-ML69414.wav	D:\Andean\Picidae\Celeus_undatus-ML69414.wav	3	a
+6	Spectrogram 1	1	195.873500775	196.183988654	523.8	2435.5	Celeus_undatus-ML69414.wav	D:\Andean\Picidae\Celeus_undatus-ML69414.wav	3	b

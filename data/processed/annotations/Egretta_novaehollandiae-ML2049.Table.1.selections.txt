@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.286844870	21.958806491	1038.2	3683.2	Egretta_novaehollandiae-ML2049.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_novaehollandiae-ML2049.wav	1	a
+2	Spectrogram 1	1	22.175369460	22.659394585	1038.2	3436.0	Egretta_novaehollandiae-ML2049.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_novaehollandiae-ML2049.wav	2	a
+3	Spectrogram 1	1	22.965312818	23.561036049	1013.5	3386.6	Egretta_novaehollandiae-ML2049.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_novaehollandiae-ML2049.wav	3	a

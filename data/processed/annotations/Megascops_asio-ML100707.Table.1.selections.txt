@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.263779776	6.405041763	418.0	1515.3	Megascops_asio-ML100707.wav	D:\Andean\Strigidae\Megascops_asio-ML100707.wav	1	a
+2	Spectrogram 1	1	7.996597901	9.137859888	313.5	1463.0	Megascops_asio-ML100707.wav	D:\Andean\Strigidae\Megascops_asio-ML100707.wav	2	a
+3	Spectrogram 1	1	10.744943094	11.761986089	313.5	1463.0	Megascops_asio-ML100707.wav	D:\Andean\Strigidae\Megascops_asio-ML100707.wav	3	a

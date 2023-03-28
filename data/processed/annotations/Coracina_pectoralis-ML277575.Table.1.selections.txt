@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.860901509	1.011421603	1378.1	6283.3	Coracina_pectoralis-ML277575.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_pectoralis-ML277575.wav	1	a
+2	Spectrogram 1	1	2.291824604	2.440509086	1295.7	6360.6	Coracina_pectoralis-ML277575.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_pectoralis-ML277575.wav	2	a
+3	Spectrogram 1	1	6.626949699	6.777469792	1719.7	6666.8	Coracina_pectoralis-ML277575.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_pectoralis-ML277575.wav	3	a

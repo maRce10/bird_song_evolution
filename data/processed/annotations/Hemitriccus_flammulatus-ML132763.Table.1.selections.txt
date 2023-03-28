@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	172.268503412	172.301534037	747.9	4044.3	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	1	a
+2	Spectrogram 1	1	172.316397819	172.358511866	914.1	4293.7	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	1	b
+3	Spectrogram 1	1	172.409709336	172.464209868	886.4	4016.6	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	1	c
+4	Spectrogram 1	1	172.546786431	172.596332369	747.9	3905.8	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	1	d
+5	Spectrogram 1	1	172.706159199	172.748273246	747.9	3601.1	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	1	e
+6	Spectrogram 1	1	177.735585825	177.764487622	1024.9	3822.7	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	2	f
+7	Spectrogram 1	1	177.773983927	177.810317615	997.2	3878.1	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	2	g
+8	Spectrogram 1	1	177.821878334	177.849954366	831.0	3822.7	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	2	h
+10	Spectrogram 1	1	180.277115109	180.311797266	831.0	4487.6	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	3	i
+11	Spectrogram 1	1	180.333267172	180.380335814	914.1	4792.3	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	3	j
+12	Spectrogram 1	1	180.438965174	180.491814174	858.7	4321.4	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	3	b
+13	Spectrogram 1	1	180.549617769	180.604118301	747.9	4072.0	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	3	k
+14	Spectrogram 1	1	180.678437208	180.727983146	720.2	3795.0	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	3	d
+15	Spectrogram 1	1	180.846067632	180.888181679	692.5	3628.8	Hemitriccus_flammulatus-ML132763.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_flammulatus-ML132763.wav	3	e

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.104962026	1.431167032	154.4	741.2	Ptilinopus_alligator-ML164363011.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_alligator-ML164363011.wav	1	A
+2	Spectrogram 1	1	2.200533139	2.588763040	92.6	741.2	Ptilinopus_alligator-ML164363011.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_alligator-ML164363011.wav	2	a
+3	Spectrogram 1	1	3.165269689	3.445530328	123.5	648.5	Ptilinopus_alligator-ML164363011.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_alligator-ML164363011.wav	3	a

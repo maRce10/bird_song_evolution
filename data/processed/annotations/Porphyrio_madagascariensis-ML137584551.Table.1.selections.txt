@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	28.551438480	28.855320234	332.4	1856.0	Porphyrio_madagascariensis-ML137584551.wav	D:\Andean\Rallidae\Porphyrio_madagascariensis-ML137584551.wav	1	a
+2	Spectrogram 1	1	31.127827262	31.385466141	415.5	1911.4	Porphyrio_madagascariensis-ML137584551.wav	D:\Andean\Rallidae\Porphyrio_madagascariensis-ML137584551.wav	2	a
+3	Spectrogram 1	1	32.904874910	33.136089288	387.8	2271.5	Porphyrio_madagascariensis-ML137584551.wav	D:\Andean\Rallidae\Porphyrio_madagascariensis-ML137584551.wav	3	a

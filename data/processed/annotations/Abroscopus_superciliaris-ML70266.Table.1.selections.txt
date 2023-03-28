@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	99.037067409	99.073401097	3370.2	3945.0	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	1	a
+2	Spectrogram 1	1	99.083310285	99.253418006	3866.6	4310.7	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	1	b
+3	Spectrogram 1	1	99.298009350	99.421874195	3762.1	4310.7	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	1	b
+4	Spectrogram 1	1	99.458729367	99.597457993	4363.0	4911.6	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	1	c
+5	Spectrogram 1	1	99.645352400	99.808853996	5068.4	5643.1	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	1	d
+6	Spectrogram 1	1	104.742974905	104.774353999	3370.2	4023.3	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	2	a
+7	Spectrogram 1	1	104.785914718	104.949416314	3788.2	4284.6	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	2	b
+8	Spectrogram 1	1	104.998962252	105.132736285	3814.3	4284.6	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	2	b
+9	Spectrogram 1	1	105.159160785	105.306147069	4363.0	5016.1	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	2	c
+10	Spectrogram 1	1	105.350738413	105.525800728	5120.6	5643.1	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	2	d
+11	Spectrogram 1	1	109.890216417	109.918292449	3370.2	3892.7	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	3	a
+12	Spectrogram 1	1	109.936459293	110.093354764	3840.5	4389.1	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	3	b
+13	Spectrogram 1	1	110.144552233	110.283280860	3788.2	4284.6	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	3	b
+14	Spectrogram 1	1	110.306402297	110.451737049	4415.2	4963.9	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	3	c
+15	Spectrogram 1	1	110.497979925	110.674693771	5042.2	5617.0	Abroscopus_superciliaris-ML70266.wav	D:\Andean\Scotocercidae\Abroscopus_superciliaris-ML70266.wav	3	d

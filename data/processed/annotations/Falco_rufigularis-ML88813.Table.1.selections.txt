@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.098986751	7.205452183	3078.4	4433.2	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	a
+2	Spectrogram 1	1	7.269698565	7.365150331	3218.6	4456.6	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	
+3	Spectrogram 1	1	7.416547436	7.502821148	3335.4	4479.9	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	b
+4	Spectrogram 1	1	7.548711421	7.636820743	3265.3	4526.6	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	b
+5	Spectrogram 1	1	7.679039794	7.768984728	3265.3	4550.0	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	b
+6	Spectrogram 1	1	7.813039389	7.913997989	3101.8	4526.6	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	b
+7	Spectrogram 1	1	7.963559483	8.049833195	3078.4	4433.2	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	b
+8	Spectrogram 1	1	8.099394689	8.187504012	3241.9	4503.3	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	b
+9	Spectrogram 1	1	8.235229895	8.325174829	3241.9	4433.2	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	b
+10	Spectrogram 1	1	8.378407545	8.453667591	3148.5	4503.3	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	b
+11	Spectrogram 1	1	8.516078362	8.576653521	3241.9	4293.0	Falco_rufigularis-ML88813.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rufigularis-ML88813.wav	1	c

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	105.861896081	105.951078770	470.9	969.5	Odontophorus_gujanensis-ML64112.wav	E:\Andean\Odontophoridae\Odontophorus_gujanensis-ML64112.wav	1	a
+2	Spectrogram 1	1	105.967594082	106.218626836	554.0	941.8	Odontophorus_gujanensis-ML64112.wav	E:\Andean\Odontophoridae\Odontophorus_gujanensis-ML64112.wav	1	b
+3	Spectrogram 1	1	106.274778899	106.466356526	415.5	858.7	Odontophorus_gujanensis-ML64112.wav	E:\Andean\Odontophoridae\Odontophorus_gujanensis-ML64112.wav	1	c
+4	Spectrogram 1	1	106.535720840	106.624903528	470.9	858.7	Odontophorus_gujanensis-ML64112.wav	E:\Andean\Odontophoridae\Odontophorus_gujanensis-ML64112.wav	2	a
+5	Spectrogram 1	1	106.641418841	106.922179157	609.4	997.2	Odontophorus_gujanensis-ML64112.wav	E:\Andean\Odontophoridae\Odontophorus_gujanensis-ML64112.wav	2	b
+6	Spectrogram 1	1	106.951906720	107.150090472	387.8	775.6	Odontophorus_gujanensis-ML64112.wav	E:\Andean\Odontophoridae\Odontophorus_gujanensis-ML64112.wav	2	c
+7	Spectrogram 1	1	107.216151723	107.302031349	470.9	941.8	Odontophorus_gujanensis-ML64112.wav	E:\Andean\Odontophoridae\Odontophorus_gujanensis-ML64112.wav	3	a
+8	Spectrogram 1	1	107.318546662	107.556367165	554.0	997.2	Odontophorus_gujanensis-ML64112.wav	E:\Andean\Odontophoridae\Odontophorus_gujanensis-ML64112.wav	3	b
+9	Spectrogram 1	1	107.599306978	107.820612168	332.4	803.3	Odontophorus_gujanensis-ML64112.wav	E:\Andean\Odontophoridae\Odontophorus_gujanensis-ML64112.wav	3	c

@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	39.174592696	40.292479731	156.800	3059.905	Rupicola_peruvianus-ML31892.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Rupicola_peruvianus-ML31892.wav	1	a
+2	Spectrogram 1	1	59.751876225	60.963379415	156.800	3059.905	Rupicola_peruvianus-ML31892.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Rupicola_peruvianus-ML31892.wav	2	a
+3	Spectrogram 1	1	83.981709474	84.503022968	443.803	1962.076	Rupicola_peruvianus-ML31892.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Rupicola_peruvianus-ML31892.wav	3	b
+4	Spectrogram 1	1	84.906857365	85.560334844	420.445	2569.386	Rupicola_peruvianus-ML31892.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Rupicola_peruvianus-ML31892.wav	3	c
+5	Spectrogram 1	1	85.641101723	86.771838034	280.297	3083.263	Rupicola_peruvianus-ML31892.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Rupicola_peruvianus-ML31892.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.512200626	1.785467923	207.8	858.7	Semnornis_ramphastinus-ML31405571.wav	D:\Andean\Semnornithidae\Semnornis_ramphastinus-ML31405571.wav	1	a
+2	Spectrogram 1	1	1.962974885	2.175516116	207.8	831.0	Semnornis_ramphastinus-ML31405571.wav	D:\Andean\Semnornithidae\Semnornis_ramphastinus-ML31405571.wav	2	a
+3	Spectrogram 1	1	2.236242182	2.453454648	193.9	775.6	Semnornis_ramphastinus-ML31405571.wav	D:\Andean\Semnornithidae\Semnornis_ramphastinus-ML31405571.wav	3	a

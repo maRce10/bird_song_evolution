@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	27.772803148	27.787984664	1662.1	4543.0	Fluvicola_pica-ML69690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Fluvicola_pica-ML69690.wav	1	a
+2	Spectrogram 1	1	27.789433617	28.036727973	1246.5	5180.1	Fluvicola_pica-ML69690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Fluvicola_pica-ML69690.wav	1	b
+3	Spectrogram 1	1	30.085863495	30.099877202	1662.1	4349.1	Fluvicola_pica-ML69690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Fluvicola_pica-ML69690.wav	2	a
+4	Spectrogram 1	1	30.101045011	30.350956129	1301.9	5235.5	Fluvicola_pica-ML69690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Fluvicola_pica-ML69690.wav	2	b
+5	Spectrogram 1	1	32.799876803	32.813890510	1634.4	4432.2	Fluvicola_pica-ML69690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Fluvicola_pica-ML69690.wav	3	a
+6	Spectrogram 1	1	32.817393937	33.060298201	1385.1	5124.7	Fluvicola_pica-ML69690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Fluvicola_pica-ML69690.wav	3	b

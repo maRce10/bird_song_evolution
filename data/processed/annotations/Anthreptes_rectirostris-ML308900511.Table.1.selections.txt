@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.528490007	0.852190136	2659.3	6094.2	Anthreptes_rectirostris-ML308900511.wav	E:\Andean\Nectariniidae\Anthreptes_rectirostris-ML308900511.wav	1	a
+2	Spectrogram 1	1	1.169284140	1.492984269	2659.3	5983.4	Anthreptes_rectirostris-ML308900511.wav	E:\Andean\Nectariniidae\Anthreptes_rectirostris-ML308900511.wav	2	a
+3	Spectrogram 1	1	1.651531271	1.968625275	2742.4	6094.2	Anthreptes_rectirostris-ML308900511.wav	E:\Andean\Nectariniidae\Anthreptes_rectirostris-ML308900511.wav	3	a

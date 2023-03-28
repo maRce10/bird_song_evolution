@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	41.108243659	41.280002911	1385.1	2908.6	Oriolus_chlorocephalus-ML23494.wav	E:\Andean\Oriolidae\Oriolus_chlorocephalus-ML23494.wav	1	a
+2	Spectrogram 1	1	45.706106717	45.864653719	1440.5	3268.7	Oriolus_chlorocephalus-ML23494.wav	E:\Andean\Oriolidae\Oriolus_chlorocephalus-ML23494.wav	2	a
+3	Spectrogram 1	1	47.635095241	47.813460618	1412.8	2825.5	Oriolus_chlorocephalus-ML23494.wav	E:\Andean\Oriolidae\Oriolus_chlorocephalus-ML23494.wav	3	a

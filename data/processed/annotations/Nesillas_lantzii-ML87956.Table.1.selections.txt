@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.181758408	5.213886244	2175.3	8553.0	Nesillas_lantzii-ML87956.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Acrocephalidae\Acrocephalidae\Nesillas_lantzii-ML87956.wav	1	a
+2	Spectrogram 1	1	5.296742242	5.325488201	1631.5	8553.0	Nesillas_lantzii-ML87956.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Acrocephalidae\Acrocephalidae\Nesillas_lantzii-ML87956.wav	2	a
+3	Spectrogram 1	1	5.398198567	5.425253586	1755.1	8627.2	Nesillas_lantzii-ML87956.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Acrocephalidae\Acrocephalidae\Nesillas_lantzii-ML87956.wav	3	a

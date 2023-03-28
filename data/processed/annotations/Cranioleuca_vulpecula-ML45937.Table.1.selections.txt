@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.615374388	14.751182403	958.7	5182.9	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	1	a
+2	Spectrogram 1	1	14.859012303	14.995125457	958.7	5182.9	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	1	a
+3	Spectrogram 1	1	15.081742918	15.170128083	1048.6	4883.4	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	1	b
+4	Spectrogram 1	1	15.219623775	15.274422577	958.7	4643.7	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	1	c
+5	Spectrogram 1	1	15.308008939	15.345130708	808.9	3834.8	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	1	d
+6	Spectrogram 1	1	15.373413961	15.401697214	778.9	3325.5	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	1	e
+7	Spectrogram 1	1	15.426445060	15.452960609	868.8	3325.5	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	1	e
+8	Spectrogram 1	1	15.479476158	15.505991708	659.1	3325.5	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	1	e
+9	Spectrogram 1	1	18.781720741	18.924904708	1198.4	5212.9	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	2	a
+10	Spectrogram 1	1	19.041573125	19.174150872	1018.6	5242.9	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	2	a
+11	Spectrogram 1	1	19.260768333	19.347385794	988.7	4943.3	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	2	b
+12	Spectrogram 1	1	19.395113783	19.442841772	1048.6	4493.9	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	2	c
+13	Spectrogram 1	1	19.478195838	19.508246794	778.9	4044.5	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	2	d
+14	Spectrogram 1	1	19.536530047	19.561277893	749.0	3685.0	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	2	e
+15	Spectrogram 1	1	19.587793442	19.616076695	719.0	3655.0	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	2	e
+16	Spectrogram 1	1	19.639056838	19.665572387	778.9	3655.0	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	2	e
+17	Spectrogram 1	1	21.936278646	22.068856393	1018.6	5212.9	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	3	a
+18	Spectrogram 1	1	22.178453997	22.303960930	1018.6	5182.9	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	3	a
+19	Spectrogram 1	1	22.388810688	22.486034369	1018.6	4973.2	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	3	b
+20	Spectrogram 1	1	22.540833171	22.604470490	988.7	4553.8	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	3	c
+21	Spectrogram 1	1	22.641592259	22.673410918	928.7	4314.1	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	3	d
+22	Spectrogram 1	1	22.701694171	22.729977424	778.9	3714.9	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	3	e
+23	Spectrogram 1	1	22.758260676	22.786543929	749.0	3685.0	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	3	e
+24	Spectrogram 1	1	22.807756368	22.834271918	659.1	3685.0	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	3	e
+25	Spectrogram 1	1	22.862555170	22.892606126	689.1	3655.0	Cranioleuca_vulpecula-ML45937.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_vulpecula-ML45937.wav	3	e

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.036850727	15.213501717	1588.7	9864.9	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	1	a
+2	Spectrogram 1	1	15.217589049	15.228683234	1662.6	9717.1	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	2	b
+3	Spectrogram 1	1	16.070709303	16.240412124	1588.7	9975.7	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	1	a
+4	Spectrogram 1	1	16.244499456	16.257929259	1404.0	10049.6	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	2	b
+5	Spectrogram 1	1	16.366333400	16.490198246	1921.3	10086.6	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	1	c
+6	Spectrogram 1	1	16.533138059	16.617366153	3546.9	8313.1	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	1	d
+7	Spectrogram 1	1	16.638836060	16.764352437	1810.4	9532.4	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	1	e
+8	Spectrogram 1	1	20.382193592	20.553205901	1330.1	10086.6	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	2	a
+9	Spectrogram 1	1	20.556709328	20.570139131	1404.0	9975.7	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	2	b
+10	Spectrogram 1	1	21.325712491	21.493876981	2069.0	10123.5	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	2	a
+11	Spectrogram 1	1	21.497964312	21.508474593	2290.7	9864.9	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	2	b
+12	Spectrogram 1	1	21.586134292	21.709338137	1958.2	8608.7	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	2	c
+13	Spectrogram 1	1	21.746708024	21.823783415	3546.9	8424.0	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	2	d
+14	Spectrogram 1	1	21.857065971	21.981437625	1699.6	8424.0	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	2	e
+15	Spectrogram 1	1	23.776103932	23.948939659	1995.1	8424.0	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	3	a
+16	Spectrogram 1	1	23.950107468	23.961201653	2290.7	9569.3	Sporophila_peruviana-ML81164.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_peruviana-ML81164.wav	3	b

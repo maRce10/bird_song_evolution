@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.927587041	1.103805686	747.5	5302.3	Lanius_collurio-ML59178211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_collurio-ML59178211.wav	1	a
+2	Spectrogram 1	1	2.076679460	2.298788379	607.3	5208.8	Lanius_collurio-ML59178211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_collurio-ML59178211.wav	2	a
+3	Spectrogram 1	1	5.318192748	5.516438724	724.1	5045.3	Lanius_collurio-ML59178211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_collurio-ML59178211.wav	3	

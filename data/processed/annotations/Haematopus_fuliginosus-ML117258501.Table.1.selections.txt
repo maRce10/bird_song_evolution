@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.875972861	2.067705558	1691.8	7782.4	Haematopus_fuliginosus-ML117258501.wav	C:\Users\Carlos PC\Desktop\Marcelo\Haematopodidae\Haematopus_fuliginosus-ML117258501.wav	1	a
+2	Spectrogram 1	1	5.445124301	5.734603079	1522.6	5808.6	Haematopus_fuliginosus-ML117258501.wav	C:\Users\Carlos PC\Desktop\Marcelo\Haematopodidae\Haematopus_fuliginosus-ML117258501.wav	2	b
+3	Spectrogram 1	1	8.595008952	8.865690407	1297.1	6259.7	Haematopus_fuliginosus-ML117258501.wav	C:\Users\Carlos PC\Desktop\Marcelo\Haematopodidae\Haematopus_fuliginosus-ML117258501.wav	1	b

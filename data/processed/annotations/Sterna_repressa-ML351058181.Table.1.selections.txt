@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.926503336	2.805760955	794.174	4811.758	Sterna_repressa-ML351058181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_repressa-ML351058181.wav	1	a
+2	Spectrogram 1	1	3.428008740	4.356827852	490.519	3947.511	Sterna_repressa-ML351058181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_repressa-ML351058181.wav	2	a
+3	Spectrogram 1	1	41.235359859	42.228425353	537.235	4835.117	Sterna_repressa-ML351058181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_repressa-ML351058181.wav	3	

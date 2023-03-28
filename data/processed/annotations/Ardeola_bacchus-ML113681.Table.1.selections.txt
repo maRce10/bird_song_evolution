@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.351181892	9.530253459	321.4	1433.7	Ardeola_bacchus-ML113681.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardeola_bacchus-ML113681.wav	1	a
+2	Spectrogram 1	1	14.070207026	14.249278593	543.8	1433.7	Ardeola_bacchus-ML113681.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardeola_bacchus-ML113681.wav	2	a
+3	Spectrogram 1	1	31.060137418	31.283533630	568.6	1458.5	Ardeola_bacchus-ML113681.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardeola_bacchus-ML113681.wav	3	a

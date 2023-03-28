@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	271.248766392	271.355739179	277.0	4958.5	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+2	Spectrogram 1	1	271.804955685	271.943684312	332.4	4986.2	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+3	Spectrogram 1	1	272.307021191	272.445749818	332.4	5207.8	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+4	Spectrogram 1	1	272.795874447	272.934603074	360.1	5097.0	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+5	Spectrogram 1	1	273.344182829	273.456486956	332.4	4986.2	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+6	Spectrogram 1	1	273.819823835	273.958552462	415.5	4986.2	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+7	Spectrogram 1	1	274.348313842	274.473830218	443.2	5041.6	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+8	Spectrogram 1	1	274.850379348	274.995714100	415.5	5097.0	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+9	Spectrogram 1	1	275.477961231	275.610083733	470.9	5069.3	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+10	Spectrogram 1	1	276.164998240	276.270696241	498.6	5041.6	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+11	Spectrogram 1	1	276.700094371	276.845429123	443.2	5069.3	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+12	Spectrogram 1	1	277.301251754	277.433374256	470.9	5041.6	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	1	a
+13	Spectrogram 1	1	278.859856267	278.985372644	332.4	5706.4	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	2	a
+14	Spectrogram 1	1	280.273567035	280.405689537	332.4	5761.8	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	2	a
+15	Spectrogram 1	1	289.926134011	290.025225888	249.3	5041.6	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	3	a
+16	Spectrogram 1	1	290.395168892	290.507473019	332.4	4487.6	Sula_leucogaster-ML185597.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_leucogaster-ML185597.wav	3	a

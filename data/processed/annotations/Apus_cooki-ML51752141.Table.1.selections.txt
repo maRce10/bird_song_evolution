@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.234034127	0.292542658	4967.8	6179.1	Apus_cooki-ML51752141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_cooki-ML51752141.wav	1	a
+2	Spectrogram 1	1	0.494663040	0.613453089	4597.0	7069.0	Apus_cooki-ML51752141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_cooki-ML51752141.wav	1	b
+3	Spectrogram 1	1	0.732243138	0.888265889	4844.2	8403.9	Apus_cooki-ML51752141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_cooki-ML51752141.wav	1	c
+4	Spectrogram 1	1	1.008828924	1.170170633	4992.5	8280.3	Apus_cooki-ML51752141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_cooki-ML51752141.wav	1	c
+5	Spectrogram 1	1	1.301371582	1.423707603	4325.1	8280.3	Apus_cooki-ML51752141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_cooki-ML51752141.wav	1	d
+6	Spectrogram 1	1	1.508810922	1.583276326	4597.0	7093.7	Apus_cooki-ML51752141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_cooki-ML51752141.wav	1	e
+7	Spectrogram 1	1	1.606325141	1.694974431	4695.9	7266.7	Apus_cooki-ML51752141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_cooki-ML51752141.wav	1	b
+8	Spectrogram 1	1	1.845678225	1.929008558	4597.0	7118.4	Apus_cooki-ML51752141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_cooki-ML51752141.wav	1	b

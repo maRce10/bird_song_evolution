@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.337346766	23.407415303	890.4	4373.3	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	1	a
+2	Spectrogram 1	1	23.489161931	23.561566086	785.6	4373.3	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	1	a
+3	Spectrogram 1	1	23.626963388	23.687689454	838.0	4373.3	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	1	a
+4	Spectrogram 1	1	23.753086756	23.816148440	838.0	4268.6	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	1	a
+5	Spectrogram 1	1	23.879210124	23.944607425	838.0	4268.6	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	1	a
+6	Spectrogram 1	1	24.014675963	24.073066411	916.6	4740.0	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	1	a
+7	Spectrogram 1	1	24.140799331	24.199189779	680.9	3954.3	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	1	a
+8	Spectrogram 1	1	34.051623174	34.105342386	864.2	4740.0	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	2	a
+9	Spectrogram 1	1	34.187089014	34.240808226	942.8	4478.1	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	2	a
+10	Spectrogram 1	1	34.317883617	34.378609683	864.2	4582.8	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	2	a
+11	Spectrogram 1	1	34.441671367	34.504733051	864.2	4216.2	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	2	a
+12	Spectrogram 1	1	34.565459117	34.630856419	890.4	4085.3	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	2	a
+13	Spectrogram 1	1	34.700924956	34.752308551	838.0	4216.2	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	2	a
+14	Spectrogram 1	1	34.827048324	34.887774390	785.6	4347.1	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	2	a
+15	Spectrogram 1	1	34.950836074	35.009226522	811.8	4347.1	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	2	a
+16	Spectrogram 1	1	172.009483735	172.072545419	838.0	3771.0	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	3	a
+17	Spectrogram 1	1	172.142613956	172.208011258	916.6	4111.5	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	3	a
+18	Spectrogram 1	1	172.275744178	172.345812715	890.4	3954.3	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	3	a
+19	Spectrogram 1	1	172.406538781	172.469600465	916.6	4111.5	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	3	a
+20	Spectrogram 1	1	172.539669003	172.598059451	864.2	3980.5	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	3	a
+21	Spectrogram 1	1	172.656449899	172.726518437	890.4	3954.3	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	3	a
+22	Spectrogram 1	1	172.787244503	172.845634951	864.2	3875.8	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	3	a
+23	Spectrogram 1	1	172.922710342	172.976429554	864.2	3980.5	Melanerpes_striatus-ML181970501.wav	D:\Andean\Picidae\Melanerpes_striatus-ML181970501.wav	3	a

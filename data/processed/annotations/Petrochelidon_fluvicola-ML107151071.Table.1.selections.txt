@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.718717258	2.737196443	1917.4	7387.6	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	1	a
+2	Spectrogram 1	1	2.741676246	2.755115653	2143.0	8515.5	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	1	a
+3	Spectrogram 1	1	2.755675628	2.773594838	2255.8	8628.3	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	1	a
+4	Spectrogram 1	1	2.775834739	2.790954072	1748.2	8628.3	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	1	b
+5	Spectrogram 1	1	2.792633998	2.810553207	2199.4	7613.2	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	1	a
+6	Spectrogram 1	1	2.812793109	2.827352466	2086.6	7444.0	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	1	b
+7	Spectrogram 1	1	2.830152343	2.848631528	1917.4	7331.2	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	1	a
+8	Spectrogram 1	1	10.067427252	10.089266289	1804.6	9474.2	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	2	a
+9	Spectrogram 1	1	10.092066166	10.104945597	2537.7	7162.0	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	2	b
+10	Spectrogram 1	1	10.108305449	10.122864807	2086.6	8064.3	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	2	a
+11	Spectrogram 1	1	10.128464560	10.140784016	2255.8	6372.5	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	2	b
+12	Spectrogram 1	1	10.144703844	10.159823177	1804.6	7162.0	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	2	a
+13	Spectrogram 1	1	10.165422930	10.179982287	2481.3	6146.9	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	2	b
+14	Spectrogram 1	1	10.182222189	10.197901497	1635.4	7274.8	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	2	a
+15	Spectrogram 1	1	13.477027454	13.496066614	2030.2	8346.3	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	3	a
+16	Spectrogram 1	1	13.501666367	13.513425849	2424.9	6428.9	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	3	b
+17	Spectrogram 1	1	13.515665750	13.530785083	2143.0	8289.9	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	3	a
+18	Spectrogram 1	1	13.535264885	13.547584342	2594.1	7162.0	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	3	b
+19	Spectrogram 1	1	13.550944194	13.570543329	2312.1	7838.7	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	3	a
+20	Spectrogram 1	1	13.571663280	13.587342588	2424.9	6654.5	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	3	b
+21	Spectrogram 1	1	13.589022514	13.604141847	1973.8	6823.7	Petrochelidon_fluvicola-ML107151071.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Petrochelidon_fluvicola-ML107151071.wav	3	a

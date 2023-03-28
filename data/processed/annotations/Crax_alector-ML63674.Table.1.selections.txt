@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.684557557	7.035802045	46.716	350.371	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	1	a
+2	Spectrogram 1	1	7.156834929	7.324773005	70.074	365.800	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	1	b
+3	Spectrogram 1	1	8.354480710	9.233603629	23.358	350.371	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	1	c
+4	Spectrogram 1	1	9.347564008	9.801407737	46.716	303.655	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	1	d
+5	Spectrogram 1	1	9.994696157	10.254722098	23.358	365.800	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	1	e
+6	Spectrogram 1	1	10.576619380	11.057845515	46.716	350.371	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	1	d
+7	Spectrogram 1	1	11.226581993	11.626357650	52.300	391.900	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	1	f
+8	Spectrogram 1	1	18.419520502	19.824120713	46.716	303.655	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	2	a
+9	Spectrogram 1	1	19.921371921	20.193773540	46.716	373.729	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	2	b
+10	Spectrogram 1	1	21.162431990	22.029344870	70.074	303.655	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	2	c
+11	Spectrogram 1	1	22.129242105	22.606896136	33.033	280.297	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	2	d
+12	Spectrogram 1	1	22.809379910	23.084550167	52.300	330.333	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	2	e
+13	Spectrogram 1	1	23.385679883	23.881201020	66.067	322.074	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	2	d
+14	Spectrogram 1	1	24.050242013	24.429250103	41.292	297.299	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	2	f
+15	Spectrogram 1	1	32.684623906	34.035868394	57.808	297.299	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	3	a
+16	Spectrogram 1	1	34.162038813	34.381819543	49.550	313.816	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	3	b
+17	Spectrogram 1	1	35.366755881	36.231971918	49.550	305.558	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	3	c
+18	Spectrogram 1	1	36.323209057	36.815680693	57.808	297.299	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	3	d
+19	Spectrogram 1	1	37.005563773	37.270350247	24.775	338.591	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	3	e
+20	Spectrogram 1	1	37.560493167	38.122155032	26.100	287.400	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	3	d
+21	Spectrogram 1	1	38.256809659	38.630625858	33.033	330.333	Crax_alector-ML63674.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alector-ML63674.wav	3	f

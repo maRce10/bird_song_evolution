@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.690764040	7.890990076	3605.3	7158.4	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	a
+2	Spectrogram 1	1	8.015454910	8.142625501	2508.1	7367.4	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	b
+3	Spectrogram 1	1	8.164271559	8.245882670	2769.3	7785.4	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	c
+4	Spectrogram 1	1	8.277913363	8.350968809	2612.6	7524.2	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	c
+5	Spectrogram 1	1	8.385550599	8.462080971	2717.1	7628.7	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	c
+6	Spectrogram 1	1	8.494606380	8.571136752	2926.1	7576.4	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	c
+7	Spectrogram 1	1	8.607488678	8.703151643	2873.8	7733.2	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	d
+8	Spectrogram 1	1	8.731850533	8.825600239	3135.1	7576.4	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	d
+9	Spectrogram 1	1	8.854299128	8.955701871	2403.6	7733.2	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	e
+10	Spectrogram 1	1	8.999706835	9.110675874	2821.6	7471.9	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	f
+11	Spectrogram 1	1	9.145114542	9.256083581	3135.1	7315.2	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	f
+12	Spectrogram 1	1	9.275216174	9.357486324	2299.1	7315.2	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	g
+13	Spectrogram 1	1	9.384271954	9.466542104	2560.3	6008.9	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	h
+14	Spectrogram 1	1	9.493327735	9.564118329	3187.3	6897.2	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	i
+15	Spectrogram 1	1	9.588990463	9.627255649	4545.9	5172.9	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	j
+16	Spectrogram 1	1	9.639691834	9.692306465	3657.6	6113.4	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	k
+17	Spectrogram 1	1	9.721961984	9.797535727	3239.6	6270.1	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	l
+18	Spectrogram 1	1	9.807102023	9.842497320	3239.6	5225.1	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	m
+19	Spectrogram 1	1	9.869282950	9.963032656	3709.8	6270.1	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	n
+20	Spectrogram 1	1	9.968772434	10.035736510	3553.1	5695.4	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	1	o
+24	Spectrogram 1	1	15.082844053	15.292345947	4127.8	6897.2	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	2	a
+25	Spectrogram 1	1	16.323489353	16.489942912	3239.6	6792.7	Yuhina_occipitalis-ML155315881.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Yuhina_occipitalis-ML155315881.wav	3	a

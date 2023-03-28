@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	261.750174435	262.025344692	132.1	2378.4	Diomedea_exulans-ML42306.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Diomedea_exulans-ML42306.wav	1	a
+2	Spectrogram 1	1	262.144758200	262.409544674	66.1	2444.5	Diomedea_exulans-ML42306.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Diomedea_exulans-ML42306.wav	1	a
+3	Spectrogram 1	1	262.565301423	262.840471680	132.1	2246.3	Diomedea_exulans-ML42306.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Diomedea_exulans-ML42306.wav	1	a

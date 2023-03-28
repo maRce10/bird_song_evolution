@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.981214663	1.009963627	6610.6	10036.7	Cryptospiza_salvadorii-ML299925711.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Cryptospiza_salvadorii-ML299925711.wav	1	a
+2	Spectrogram 1	1	1.032462817	1.056211962	6522.8	9553.5	Cryptospiza_salvadorii-ML299925711.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Cryptospiza_salvadorii-ML299925711.wav	1	b
+3	Spectrogram 1	1	1.097460476	1.114959846	6456.9	9487.6	Cryptospiza_salvadorii-ML299925711.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Cryptospiza_salvadorii-ML299925711.wav	1	b
+4	Spectrogram 1	1	5.663461861	5.687211006	6742.4	9663.3	Cryptospiza_salvadorii-ML299925711.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Cryptospiza_salvadorii-ML299925711.wav	2	a
+5	Spectrogram 1	1	5.725959610	5.749708755	6742.4	9421.8	Cryptospiza_salvadorii-ML299925711.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Cryptospiza_salvadorii-ML299925711.wav	2	b
+6	Spectrogram 1	1	5.779707675	5.807206684	6588.6	9202.1	Cryptospiza_salvadorii-ML299925711.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Cryptospiza_salvadorii-ML299925711.wav	2	c
+7	Spectrogram 1	1	6.726164541	6.751163641	6656.6	10163.2	Cryptospiza_salvadorii-ML299925711.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Cryptospiza_salvadorii-ML299925711.wav	3	a
+8	Spectrogram 1	1	6.781162561	6.808661570	6686.3	9331.1	Cryptospiza_salvadorii-ML299925711.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Cryptospiza_salvadorii-ML299925711.wav	3	b
+9	Spectrogram 1	1	6.844910265	6.869909365	6418.9	8915.1	Cryptospiza_salvadorii-ML299925711.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Cryptospiza_salvadorii-ML299925711.wav	3	c

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	270.169605338	270.281714998	1335.6	2304.5	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	1	a
+2	Spectrogram 1	1	270.291057470	270.379810951	1099.9	2016.4	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	1	a
+3	Spectrogram 1	1	270.412509602	270.501263083	890.4	1859.3	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	1	a
+4	Spectrogram 1	1	270.543304205	270.632057686	890.4	1937.9	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	1	a
+5	Spectrogram 1	1	272.290346411	272.383771128	1257.0	1964.1	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	2	a
+6	Spectrogram 1	1	272.393113599	272.491209552	968.9	1937.9	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	2	a
+7	Spectrogram 1	1	272.514565731	272.603319212	995.1	1911.7	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	2	a
+8	Spectrogram 1	1	272.659374042	272.748127523	968.9	1964.1	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	2	a
+9	Spectrogram 1	1	275.275266115	275.368690832	1361.8	2173.6	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	3	a
+10	Spectrogram 1	1	275.392047011	275.471458020	1204.6	2016.4	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	3	a
+11	Spectrogram 1	1	275.504156671	275.583567681	1126.1	2016.4	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	3	a
+12	Spectrogram 1	1	275.625608803	275.714362284	1178.4	1964.1	Mulleripicus_pulverulentus-ML71356.wav	D:\Andean\Picidae\Mulleripicus_pulverulentus-ML71356.wav	3	a

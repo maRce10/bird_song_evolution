@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	153.695428269	153.985044892	6066.5	8088.7	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	1	a
+2	Spectrogram 1	1	154.041099722	154.349401288	3933.5	4543.0	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	1	b
+3	Spectrogram 1	1	154.368086231	154.620332966	5983.4	7423.9	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	1	a
+4	Spectrogram 1	1	154.685730268	154.984689362	3628.8	4210.6	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	1	b
+5	Spectrogram 1	1	157.573709859	157.828045674	6177.3	9030.5	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	2	a
+6	Spectrogram 1	1	157.890803166	158.197987982	4127.4	4681.5	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	2	b
+7	Spectrogram 1	1	158.247533920	158.482051361	5761.8	8421.1	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	2	a
+8	Spectrogram 1	1	158.561324862	158.848691303	3684.2	4210.6	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	2	b
+9	Spectrogram 1	1	161.374799313	161.632438191	6094.2	8947.4	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	3	a
+10	Spectrogram 1	1	161.705105567	161.982562821	4127.4	4653.8	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	3	b
+11	Spectrogram 1	1	162.038714884	162.279838449	5817.2	8559.6	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	3	a
+12	Spectrogram 1	1	162.345899700	162.643175329	3684.2	4155.2	Poecile_carolinensis-ML100797.wav	D:\Andean\Paridae\Poecile_carolinensis-ML100797.wav	3	b

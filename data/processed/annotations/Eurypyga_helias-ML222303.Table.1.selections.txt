@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	76.087780436	77.364062212	1269.9	1818.3	Eurypyga_helias-ML222303.wav	E:\Escritorio\Cantos\Eurypygidae\Eurypygidae\Eurypyga_helias-ML222303.wav	1	a
+2	Spectrogram 1	1	81.542172879	82.818454655	1298.8	1789.4	Eurypyga_helias-ML222303.wav	E:\Escritorio\Cantos\Eurypygidae\Eurypygidae\Eurypyga_helias-ML222303.wav	2	a
+3	Spectrogram 1	1	87.175676290	88.455493472	1269.9	1818.3	Eurypyga_helias-ML222303.wav	E:\Escritorio\Cantos\Eurypygidae\Eurypygidae\Eurypyga_helias-ML222303.wav	3	a

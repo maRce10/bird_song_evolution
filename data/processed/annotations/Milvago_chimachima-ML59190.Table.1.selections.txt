@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.386507526	13.079447216	790.600	5929.800	Milvago_chimachima-ML59190.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Milvago_chimachima-ML59190.wav	1	a
+2	Spectrogram 1	1	18.191602422	18.859794266	571.000	5885.900	Milvago_chimachima-ML59190.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Milvago_chimachima-ML59190.wav	2	a
+3	Spectrogram 1	1	36.668099121	37.424676130	684.100	6157.200	Milvago_chimachima-ML59190.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Milvago_chimachima-ML59190.wav	3	b

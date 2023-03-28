@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.020974184	6.153096686	1937.9	2514.0	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	1	a
+2	Spectrogram 1	1	6.209248749	6.328159001	2226.0	2723.5	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	1	a
+3	Spectrogram 1	1	6.361189626	6.549464191	1571.3	2173.6	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	1	b
+4	Spectrogram 1	1	6.658465255	6.826921444	2645.0	4059.1	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	1	c
+5	Spectrogram 1	1	11.054884906	11.167189033	2199.8	2592.6	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	2	a
+6	Spectrogram 1	1	11.249765596	11.355463598	2409.3	2749.7	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	2	a
+7	Spectrogram 1	1	11.405009536	11.596587163	1676.0	2147.4	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	2	b
+8	Spectrogram 1	1	11.708891290	11.887256667	2566.4	4137.6	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	2	c
+9	Spectrogram 1	1	17.218233562	17.356962189	2042.6	2514.0	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	3	a
+10	Spectrogram 1	1	17.419720377	17.532024504	2226.0	2697.3	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	3	a
+11	Spectrogram 1	1	17.578267379	17.726905194	1623.6	2173.6	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	3	b
+12	Spectrogram 1	1	17.872239945	18.037393073	2697.3	4190.0	Cichladusa_ruficauda-ML1598.wav	E:\Andean\Muscicapidae\Cichladusa_ruficauda-ML1598.wav	3	c

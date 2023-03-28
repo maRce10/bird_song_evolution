@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.416776884	18.626769322	702.8	3847.3	Cyanopica_cyanus-ML91816.wav	E:\Escritorio\Cantos\Corvidae\Cyanopica_cyanus-ML91816.wav	1	a
+2	Spectrogram 1	1	21.787757965	22.022749502	680.8	3847.3	Cyanopica_cyanus-ML91816.wav	E:\Escritorio\Cantos\Corvidae\Cyanopica_cyanus-ML91816.wav	2	a
+3	Spectrogram 1	1	23.354241616	23.584233333	746.7	3990.8	Cyanopica_cyanus-ML91816.wav	E:\Escritorio\Cantos\Corvidae\Cyanopica_cyanus-ML91816.wav	3	a

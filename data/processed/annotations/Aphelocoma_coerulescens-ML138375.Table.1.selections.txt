@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	125.610360430	125.937099169	817.5	4811.8	Aphelocoma_coerulescens-ML138375.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_coerulescens-ML138375.wav	1	a
+2	Spectrogram 1	1	126.717233799	127.056821814	817.5	5278.9	Aphelocoma_coerulescens-ML138375.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_coerulescens-ML138375.wav	2	a
+3	Spectrogram 1	1	129.826930652	130.153669391	794.2	4998.6	Aphelocoma_coerulescens-ML138375.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_coerulescens-ML138375.wav	3	

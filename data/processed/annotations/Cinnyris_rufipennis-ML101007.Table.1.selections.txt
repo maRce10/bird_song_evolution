@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.619916187	7.760053262	2049.9	5651.0	Cinnyris_rufipennis-ML101007.wav	E:\Andean\Nectariniidae\Cinnyris_rufipennis-ML101007.wav	1	a
+2	Spectrogram 1	1	8.215498757	8.355635832	2105.3	5761.8	Cinnyris_rufipennis-ML101007.wav	E:\Andean\Nectariniidae\Cinnyris_rufipennis-ML101007.wav	2	a
+3	Spectrogram 1	1	8.783053912	8.944211548	2077.6	5817.2	Cinnyris_rufipennis-ML101007.wav	E:\Andean\Nectariniidae\Cinnyris_rufipennis-ML101007.wav	3	a

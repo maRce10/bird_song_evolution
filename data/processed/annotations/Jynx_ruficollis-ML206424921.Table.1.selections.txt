@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	133.407726232	133.566548250	838.0	3509.1	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	1	a
+2	Spectrogram 1	1	133.671651057	133.818794986	1152.3	3744.8	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	1	a
+3	Spectrogram 1	1	133.928569028	134.075712957	1178.4	3823.4	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	1	a
+4	Spectrogram 1	1	134.183151382	134.341973400	1099.9	4006.7	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	1	a
+5	Spectrogram 1	1	134.451747443	134.594220136	1021.3	3849.6	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	1	a
+6	Spectrogram 1	1	134.696987324	134.851138107	1073.7	3797.2	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	1	a
+7	Spectrogram 1	1	136.466458550	136.618273715	1047.5	3352.0	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	2	a
+8	Spectrogram 1	1	136.809794384	136.982630111	1047.5	3456.8	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	2	a
+9	Spectrogram 1	1	137.162472691	137.328301563	995.1	3535.3	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	2	a
+10	Spectrogram 1	1	137.503472907	137.683315487	968.9	3509.1	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	2	a
+11	Spectrogram 1	1	137.853815595	138.028986940	916.6	3483.0	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	2	a
+12	Spectrogram 1	1	139.247460448	139.389933141	1073.7	3325.8	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	3	a
+13	Spectrogram 1	1	139.497371566	139.656193584	1073.7	3561.5	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	3	a
+14	Spectrogram 1	1	139.758960773	139.910775938	968.9	3692.5	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	3	a
+15	Spectrogram 1	1	140.011207508	140.151344584	1126.1	3797.2	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	3	a
+16	Spectrogram 1	1	140.265789862	140.412933791	1204.6	3744.8	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	3	a
+17	Spectrogram 1	1	140.515700979	140.667516144	1073.7	3744.8	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	3	a
+18	Spectrogram 1	1	140.777290187	140.929105352	1073.7	3718.6	Jynx_ruficollis-ML206424921.wav	D:\Andean\Picidae\Jynx_ruficollis-ML206424921.wav	3	a

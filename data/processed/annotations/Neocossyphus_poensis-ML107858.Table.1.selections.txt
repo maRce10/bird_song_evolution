@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.176774190	22.246138503	5434.1	6322.4	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	1	a
+2	Spectrogram 1	1	22.289078316	22.315502816	4075.6	4493.6	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	1	b
+3	Spectrogram 1	1	22.302290566	22.348533442	3291.8	3788.2	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	1	c
+4	Spectrogram 1	1	22.358442629	22.444322255	2325.2	3135.1	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	1	d
+5	Spectrogram 1	1	22.470746756	22.540111069	2978.3	3762.1	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	1	e
+6	Spectrogram 1	1	22.561012829	22.663780017	2429.7	3448.6	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	1	f
+7	Spectrogram 1	1	22.668451253	22.817930800	2090.0	3187.3	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	1	g
+8	Spectrogram 1	1	23.586349096	23.665760106	5434.1	6191.8	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	2	h
+9	Spectrogram 1	1	23.696123139	23.731157407	4023.3	4545.9	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	2	b
+10	Spectrogram 1	1	23.705465610	23.754513587	3344.1	3709.8	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	2	c
+11	Spectrogram 1	1	23.775534148	23.875965719	2325.2	3082.8	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	2	d
+12	Spectrogram 1	1	23.887643808	23.962383582	2978.3	3605.3	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	2	i
+13	Spectrogram 1	1	23.988075379	24.055808299	2403.6	2978.3	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	2	j
+14	Spectrogram 1	1	24.062815152	24.219301553	2246.8	3527.0	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	2	k
+16	Spectrogram 1	1	25.246144828	25.306870894	5381.9	6453.0	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	3	a
+17	Spectrogram 1	1	25.353583252	25.390953139	3945.0	4363.0	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	3	l
+18	Spectrogram 1	1	25.367596960	25.400295611	3318.0	3866.6	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	3	m
+19	Spectrogram 1	1	25.432994261	25.526418978	2455.8	3082.8	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	3	d
+20	Spectrogram 1	1	25.535761450	25.575466955	2952.2	3892.7	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	3	n
+21	Spectrogram 1	1	25.610501224	25.708597176	2377.4	3187.3	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	3	o
+22	Spectrogram 1	1	25.715604030	25.858076723	2194.5	3500.8	Neocossyphus_poensis-ML107858.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_poensis-ML107858.wav	3	k

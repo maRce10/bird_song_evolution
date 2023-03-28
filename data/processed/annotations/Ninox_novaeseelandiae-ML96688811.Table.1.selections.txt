@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.239235694	12.424967763	664.8	1108.0	Ninox_novaeseelandiae-ML96688811.wav	D:\Andean\Strigidae\Ninox_novaeseelandiae-ML96688811.wav	1	a
+2	Spectrogram 1	1	12.536407004	12.759285486	664.8	1024.9	Ninox_novaeseelandiae-ML96688811.wav	D:\Andean\Strigidae\Ninox_novaeseelandiae-ML96688811.wav	1	a
+3	Spectrogram 1	1	15.619559341	15.805291409	692.5	1052.6	Ninox_novaeseelandiae-ML96688811.wav	D:\Andean\Strigidae\Ninox_novaeseelandiae-ML96688811.wav	2	a
+4	Spectrogram 1	1	15.916730650	16.114844857	664.8	1052.6	Ninox_novaeseelandiae-ML96688811.wav	D:\Andean\Strigidae\Ninox_novaeseelandiae-ML96688811.wav	2	a
+5	Spectrogram 1	1	18.343629678	18.541743885	720.2	1108.0	Ninox_novaeseelandiae-ML96688811.wav	D:\Andean\Strigidae\Ninox_novaeseelandiae-ML96688811.wav	3	a
+6	Spectrogram 1	1	18.653183126	18.851297332	692.5	1080.3	Ninox_novaeseelandiae-ML96688811.wav	D:\Andean\Strigidae\Ninox_novaeseelandiae-ML96688811.wav	3	a

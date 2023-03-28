@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.179962697	5.250759119	1121.186	1828.800	Procnias_nudicollis-ML189468.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Procnias_nudicollis-ML189468.wav	1	a
+2	Spectrogram 1	1	24.870367763	24.948246137	1027.754	1798.570	Procnias_nudicollis-ML189468.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Procnias_nudicollis-ML189468.wav	2	a
+3	Spectrogram 1	1	29.127718911	29.215981069	1097.828	1821.928	Procnias_nudicollis-ML189468.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Procnias_nudicollis-ML189468.wav	3	a

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.974664947	5.012641754	941.8	4182.9	Pteroglossus_viridis-ML69382.wav	D:\Andean\Ramphastidae\Pteroglossus_viridis-ML69382.wav	1	a
+2	Spectrogram 1	1	5.038367978	5.077569843	609.4	4072.0	Pteroglossus_viridis-ML69382.wav	D:\Andean\Ramphastidae\Pteroglossus_viridis-ML69382.wav	1	a
+3	Spectrogram 1	1	5.397310057	5.446312389	609.4	3601.1	Pteroglossus_viridis-ML69382.wav	D:\Andean\Ramphastidae\Pteroglossus_viridis-ML69382.wav	2	a
+4	Spectrogram 1	1	5.470813555	5.518590828	526.3	3462.6	Pteroglossus_viridis-ML69382.wav	D:\Andean\Ramphastidae\Pteroglossus_viridis-ML69382.wav	2	a
+5	Spectrogram 1	1	5.839556100	5.889783490	609.4	3518.0	Pteroglossus_viridis-ML69382.wav	D:\Andean\Ramphastidae\Pteroglossus_viridis-ML69382.wav	3	a
+6	Spectrogram 1	1	5.909384423	5.953486521	554.0	3434.9	Pteroglossus_viridis-ML69382.wav	D:\Andean\Ramphastidae\Pteroglossus_viridis-ML69382.wav	3	a

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	74.420759107	74.559487734	3396.3	6008.9	Sturnornis_albofrontatus-ML172058.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnornis_albofrontatus-ML172058.wav	1	a
+2	Spectrogram 1	1	75.206887992	75.339010493	2743.2	4859.4	Sturnornis_albofrontatus-ML172058.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnornis_albofrontatus-ML172058.wav	1	b
+3	Spectrogram 1	1	77.578486897	77.710609398	3422.5	6505.3	Sturnornis_albofrontatus-ML172058.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnornis_albofrontatus-ML172058.wav	2	a
+4	Spectrogram 1	1	78.272130030	78.391040282	3631.5	5590.9	Sturnornis_albofrontatus-ML172058.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnornis_albofrontatus-ML172058.wav	2	a
+5	Spectrogram 1	1	81.872468201	82.004590702	3108.9	5930.5	Sturnornis_albofrontatus-ML172058.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnornis_albofrontatus-ML172058.wav	3	a
+6	Spectrogram 1	1	82.394352082	82.513262334	3082.8	5904.4	Sturnornis_albofrontatus-ML172058.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnornis_albofrontatus-ML172058.wav	3	a

@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.932838393	20.269750772	707.1	2697.3	Melanerpes_superciliaris-ML133240.wav	D:\Andean\Picidae\Melanerpes_superciliaris-ML133240.wav	1	a
+2	Spectrogram 1	1	20.837877530	21.181396034	707.1	2645.0	Melanerpes_superciliaris-ML133240.wav	D:\Andean\Picidae\Melanerpes_superciliaris-ML133240.wav	1	a
+3	Spectrogram 1	1	21.828796292	22.178920921	680.9	2540.2	Melanerpes_superciliaris-ML133240.wav	D:\Andean\Picidae\Melanerpes_superciliaris-ML133240.wav	1	a
+4	Spectrogram 1	1	79.659968747	79.996881126	654.7	2618.8	Melanerpes_superciliaris-ML133240.wav	D:\Andean\Picidae\Melanerpes_superciliaris-ML133240.wav	2	a
+5	Spectrogram 1	1	80.598038508	80.948163138	733.3	2618.8	Melanerpes_superciliaris-ML133240.wav	D:\Andean\Picidae\Melanerpes_superciliaris-ML133240.wav	2	a
+6	Spectrogram 1	1	81.542714395	81.866414524	680.9	2566.4	Melanerpes_superciliaris-ML133240.wav	D:\Andean\Picidae\Melanerpes_superciliaris-ML133240.wav	2	a
+7	Spectrogram 1	1	146.922365997	147.265884501	602.3	2592.6	Melanerpes_superciliaris-ML133240.wav	D:\Andean\Picidae\Melanerpes_superciliaris-ML133240.wav	3	a
+8	Spectrogram 1	1	147.708494882	148.065225636	628.5	2592.6	Melanerpes_superciliaris-ML133240.wav	D:\Andean\Picidae\Melanerpes_superciliaris-ML133240.wav	3	a
+9	Spectrogram 1	1	148.686201394	149.016507648	785.6	2592.6	Melanerpes_superciliaris-ML133240.wav	D:\Andean\Picidae\Melanerpes_superciliaris-ML133240.wav	3	a
+10	Spectrogram 1	1	149.848879409	150.152761162	602.3	2592.6	Melanerpes_superciliaris-ML133240.wav	D:\Andean\Picidae\Melanerpes_superciliaris-ML133240.wav	3	a

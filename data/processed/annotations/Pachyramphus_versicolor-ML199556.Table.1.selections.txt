@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.331892376	4.647334849	1717.5	3434.9	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	a
+2	Spectrogram 1	1	4.743123663	4.987550291	2382.3	3822.7	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	b
+3	Spectrogram 1	1	5.043702354	5.200597825	2520.8	4016.6	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	c
+4	Spectrogram 1	1	5.261704482	5.402084640	2603.9	3988.9	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	c
+5	Spectrogram 1	1	5.441721390	5.565586235	2576.2	4072.0	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	c
+6	Spectrogram 1	1	5.596965330	5.686148018	2853.2	3961.2	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	d
+7	Spectrogram 1	1	5.725784769	5.810012863	2576.2	4016.6	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	e
+8	Spectrogram 1	1	5.841391958	5.909104740	2880.9	3933.5	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	d
+9	Spectrogram 1	1	5.943786896	6.003242022	2382.3	3988.9	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	e
+10	Spectrogram 1	1	6.039575710	6.107288492	2410.0	3961.2	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	e
+11	Spectrogram 1	1	6.137016055	6.191516587	2437.7	3850.4	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	f
+12	Spectrogram 1	1	6.226198744	6.274093151	2410.0	3656.5	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	g
+13	Spectrogram 1	1	6.343457464	6.353366652	1301.9	2077.6	Pachyramphus_versicolor-ML199556.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_versicolor-ML199556.wav	1	h

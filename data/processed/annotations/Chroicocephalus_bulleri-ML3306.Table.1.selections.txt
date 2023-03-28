@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	26.539800061	26.888566131	607.3	4484.7	Chroicocephalus_bulleri-ML3306.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_bulleri-ML3306.wav	1	a
+2	Spectrogram 1	1	27.132702380	27.479632839	794.2	4391.3	Chroicocephalus_bulleri-ML3306.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_bulleri-ML3306.wav	2	a
+3	Spectrogram 1	1	27.727440310	28.011959998	700.7	4227.8	Chroicocephalus_bulleri-ML3306.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_bulleri-ML3306.wav	3	a

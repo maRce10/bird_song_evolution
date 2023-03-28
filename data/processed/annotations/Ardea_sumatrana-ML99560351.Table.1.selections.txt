@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.250194035	7.282035770	49.4	692.2	Ardea_sumatrana-ML99560351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_sumatrana-ML99560351.wav	1	a
+2	Spectrogram 1	1	8.377319768	9.980098937	98.9	642.7	Ardea_sumatrana-ML99560351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_sumatrana-ML99560351.wav	2	a
+3	Spectrogram 1	1	11.764815927	13.569715479	98.9	741.6	Ardea_sumatrana-ML99560351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_sumatrana-ML99560351.wav	3	a

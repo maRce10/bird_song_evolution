@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.662521388	4.888787409	2811.2	5051.3	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	1	a
+2	Spectrogram 1	1	4.911767552	4.968334057	6500.8	7115.7	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	1	b
+3	Spectrogram 1	1	4.915302958	4.964798651	2921.0	3667.7	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	1	b
+4	Spectrogram 1	1	4.998385013	5.153942903	3667.7	4282.6	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	1	c
+5	Spectrogram 1	1	11.206350000	11.422009802	2767.2	5249.0	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	2	a
+6	Spectrogram 1	1	11.443222241	11.492717933	2942.9	3777.5	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	2	b
+7	Spectrogram 1	1	11.446757648	11.496253340	6478.8	7181.6	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	2	b
+8	Spectrogram 1	1	11.528071999	11.680094482	3667.7	4304.6	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	2	c
+9	Spectrogram 1	1	18.255369063	18.478099678	2811.2	5073.3	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	3	a
+10	Spectrogram 1	1	18.502847524	18.552343216	6215.3	7049.9	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	3	b
+11	Spectrogram 1	1	18.502847524	18.555878622	2964.9	3689.6	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	3	b
+12	Spectrogram 1	1	18.587697282	18.743255171	3601.8	4326.5	Epthianura_crocea-ML195175921.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_crocea-ML195175921.wav	3	c

@@ -1,0 +1,434 @@
+---
+title: Checking annotation status
+subtitle: Bird song evolution
+author: <a href="http://marceloarayasalas.weebly.com/">Marcelo Araya-Salas, PhD</a>
+date: "`r Sys.Date()`"
+toc: true
+toc-depth: 2
+toc-location: left
+number-sections: true
+highlight-style: pygments
+format:
+  html:
+    df-print: kable
+    code-fold: true
+    code-tools: true
+editor_options: 
+  chunk_output_type: console
+---
+
+
+<!-- this code add line numbers to code blocks -->
+<!-- only works when code folding is not used in yaml (code_folding: show) -->
+
+```{=html}
+<style>
+body
+  { counter-reset: source-line 0; }
+pre.numberSource code
+  { counter-reset: none; }
+</style>
+```
+
+```{r set root directory, echo = FALSE}
+
+# set working directory as project directory or one directory above,
+rootdir <- try(rprojroot::find_rstudio_root_file(), silent = TRUE)
+if (is(rootdir, "try-error")) rootdir <-  ".."
+knitr::opts_knit$set(root.dir = rootdir)
+
+```
+
+```{r add link to github repo, echo = FALSE, results='asis'}
+
+# print link to github repo if any
+if (file.exists("./.git/config")){
+  config <- readLines("./.git/config")
+  url <- grep("url",  config, value = TRUE)
+  url <- gsub("\\turl = |.git$", "", url)
+  cat("\nSource code, data and annotation protocol found at [", url, "](", url, ")", sep = "")
+  }
+
+```
+
+```{r setup style, echo = FALSE, message = FALSE, warning=FALSE}
+
+# options to customize chunk outputs
+knitr::opts_chunk$set(
+  class.source = "numberLines lineAnchors", # for code line numbers
+  tidy.opts = list(width.cutoff = 65), 
+  tidy = TRUE,
+  message = FALSE,
+  warning = FALSE
+ )
+
+```
+
+<!-- skyblue box -->
+<div class="alert alert-info">
+
+# Purpose {.unnumbered .unlisted}
+
+- Double-check annotations
+
+</div>
+
+&nbsp; 
+
+
+
+# Load packages {.unnumbered .unlisted}
+
+```{r load packages}
+
+# knitr is require for creating html/pdf/word reports
+# formatR is used for soft-wrapping code
+
+# install/ load packages
+sketchy::load_packages(packages = c("knitr", "formatR", "rprojroot", "viridis", "googlesheets4", "warbleR", "maRce10/Rraven", "googledrive", "maRce10/ohun"))
+
+source("~/Dropbox/R_package_testing/Rraven/R/imp_raven.R")
+
+source("~/Dropbox/R_package_testing/Rraven/R/internal_functions.R")
+```
+
+# Update annotations from google drive
+
+```{r update annotations, eval = FALSE}
+
+# read data
+ann_folder <- drive_find(pattern = "raven_selections", type = "folder")
+
+# list family folders
+fam_folders <- drive_ls(ann_folder)
+
+# list files
+anns_ls <-  lapply(1:nrow(fam_folders), function(x)
+    drive_ls(fam_folders$id[1])
+    )
+
+all_ans <- do.call(rbind, anns_ls)
+
+owd <- getwd()
+
+setwd("./data/processed/annotations")
+
+# copy locally new files found in google drive 
+new_files <- sapply(1:nrow(all_ans), function(x) {
+
+    if (!file.exists(all_ans$name[x])){
+    
+    drive_download(all_ans$id[x])
+     
+    out <- TRUE
+    
+    } else out <- FALSE
+    
+    return(out)
+})
+
+setwd(owd)  
+
+
+new_file_count <- sum(new_files)
+
+if (new_file_count > 0)
+    print(paste(new_file_count, "new annotations file(s) found"))
+
+```
+
+
+# Descriptive stats
+```{r descriptive stats, eval = TRUE}
+
+rec_data <- read_sheet('https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit#gid=148139271')
+
+anns <- imp_raven(path = "./data/processed/annotations",  all.data = TRUE, warbler.format = TRUE, name.from.file = TRUE, ext.case = "lower", pb = FALSE)
+
+ann_files <- unique(c(anns$selec.file, unlist(.Options$Rraven)))
+
+ann_files <- data.frame(file = ann_files)
+
+ann_files$species <- gsub("_", " ", sapply(strsplit(ann_files$file, "-"), "[", 1))
+
+
+# all(ann_files$species %in% rec_data$species)
+
+ann_files$family <- sapply(ann_files$species,  function(x) rec_data$family[rec_data$species == x][1])
+
+# get those in which the name doesnt match the expected
+weird_files <- ann_files[!grepl("Table.1.selections.txt", ann_files$file) | ann_files$file %in% unlist(.Options$Rraven), ]
+
+weird_files$problem <- "file name"
+weird_files$problem[weird_files$file %in% unlist(.Options$Rraven)] <- "Empty file"
+
+# keep only those with "good" names
+ann_files <- ann_files[!ann_files$file %in% weird_files$file, ]
+
+# counts per family
+fam_count <- aggregate(species ~ family, data = rec_data, length)
+names(fam_count)[2] <- "total"
+
+fam_count$annotated <- sapply(fam_count$family, function(x)
+    sum(ann_files$family == x))
+
+fam_count$prop.annotated  <- round(fam_count$annotated / fam_count$total, 2)
+
+fam_count$assinged.to <- sapply(fam_count$family, function(x)
+    paste(unique(rec_data$assigned_to[rec_data$family == x]), collapse = "/"))
+
+fam_count$assinged.to[fam_count$assinged.to == "NA"] <- "not assigned"
+
+weird_files$assinged.to <-  sapply(weird_files$family, function(x)
+    paste(unique(rec_data$assigned_to[rec_data$family == x]), collapse = "/"))
+
+```
+
+- `r nrow(ann_files)` species from `r length(unique(ann_files$family))` already annotated (`r  paste0(round(nrow(ann_files) / nrow(rec_data), 2) * 100, "%")` of all recordings)
+
+- `r sum(fam_count$prop.annotated >= 0.9)` families with 90% of the recordings annotated (`r round(sum(fam_count$prop.annotated >= 0.9) / nrow(fam_count), 2) * 100` of all families)
+
+- `r sum(fam_count$prop.annotated <= 0.05)` families with less than 5% of the recordings annotated (`r round(sum(fam_count$prop.annotated <= 0.05) / nrow(fam_count), 2) * 100` of all families)
+
+- `r nrow(weird_files)` weirdly named file(s):
+```{r}
+
+weird_files
+
+```
+
+
+# Species per family
+
+- `prop.annotated`: proportion of species already annotated (green > 0.9, yellow > 0.7, red  < 0.5)
+- Green rows highlight families in which all available species were already annotated
+
+```{r, eval = TRUE}
+
+prop_analzyed <- fam_count$prop.annotated
+fam_count$prop.annotated <-
+      ifelse(
+       fam_count$prop.annotated > 0.9,
+        kableExtra::cell_spec(
+          fam_count$prop.annotated,
+          "html",
+          color = "white",
+          background = "green",
+          bold = TRUE,
+          font_size = 12
+        ),
+        ifelse(
+       fam_count$prop.annotated > 0.5,
+        kableExtra::cell_spec(
+          fam_count$prop.annotated,
+          "html",
+          color = "black",
+          background = "yellow",
+          bold = TRUE,
+          font_size = 12
+        ),
+        kableExtra::cell_spec(
+          fam_count$prop.annotated,
+          "html",
+          color = "white",
+          background = "red",
+          bold = TRUE,
+          font_size = 12
+        )
+       )
+      )
+
+fam_count$assinged.to <-
+      ifelse(
+       fam_count$assinged.to == "not assigned",
+        kableExtra::cell_spec(
+          fam_count$assinged.to,
+          "html",
+          color = "white",
+          background = "red",
+          bold = TRUE,
+          font_size = 12
+        ),
+         kableExtra::cell_spec(fam_count$assinged.to, "html")
+       )
+
+
+fam_count$recordings <- 
+  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fbird%5Fsong%5Frecordings%2F", fam_count$family))
+
+fam_count$spectrograms <- ifelse(prop_analzyed > 0,
+  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo_araya_ucr_ac_cr%2FDocuments%2Fannotated_spectrograms%2F", fam_count$family)), "")
+
+
+fam_count_kbl <- kableExtra::kbl(
+      fam_count,
+      row.names = FALSE,
+      escape = FALSE,
+      format = "html",
+      digits =
+    )
+
+  fam_count_kbl <-
+    kableExtra::row_spec(
+      kable_input = fam_count_kbl,
+      row =  which(prop_analzyed == 1),
+      background = grDevices::adjustcolor("#6DCD59FF", alpha.f = 0.3)
+    )
+
+  fam_count_kbl <-
+    kableExtra::kable_styling(
+      fam_count_kbl,
+      bootstrap_options = c("striped", "hover", "condensed", "responsive"),
+      full_width = FALSE,
+      font_size = 12
+    )
+
+ fam_count_kbl
+
+```
+
+
+# Check annotations
+```{r, eval = TRUE}
+
+warbleR_options(wav.path = "/media/m/Seagate Portable Drive/bird_song_recordings/consolidated_files")
+
+# check_sound_files()
+
+anns <- anns[, c("sound.files", "selec", "start", "end", "bottom.freq", "top.freq", "selec.file", "element", "song")]
+
+anns <- anns[anns$selec.file %in% ann_files$file, ]
+
+anns$species <- gsub("_", " ", sapply(strsplit(anns$selec.file, "-"), "[", 1))
+
+anns$family <- sapply(anns$species,  function(x) rec_data$family[rec_data$species == x][1])
+
+anns$assinged.to <-  sapply(anns$family, function(x)
+    paste(unique(rec_data$assigned_to[rec_data$family == x]), collapse = "/"))
+
+# all(ann_files$species %in% rec_data$species)
+
+cs <- check_sels(anns, parallel = 20, pb= FALSE)
+
+# table(cs$check.res[cs$check.res != "OK"])
+
+# unique(cs$sound.files[cs$check.res == "sound file not found"])
+
+# exp_raven(cs, path = "./data/processed", sound.file.path =  "/media/m/Seagate Portable Drive/bird_song_recordings/consolidated_files",file.name = "combined_annotations_22-03-2023")
+
+ok_anns <- cs[cs$check.res == "OK", ]
+
+# feature_acoustic_data(.Options$warbleR$path)
+
+feature_bysong <- feature_reference(reference = ok_anns, by.sound.file = TRUE)
+
+```
+
+- Check the following annotations:
+
+```{r, eval = TRUE}
+
+problematic_sels <- cs[cs$check.res != "OK", ]
+
+# weird duration or frequency range
+long_anns <- ok_anns[ok_anns$end - ok_anns$start > 1, ] 
+long_anns$check.res <- "longer than 1 s"
+
+broad_anns <- ok_anns[ok_anns$top.freq - ok_anns$bottom.freq > 10, ] 
+broad_anns$check.res <- "frequency range wider than 10 kHz"
+
+problematic_sels <- rbind(problematic_sels, long_anns, broad_anns)
+
+problematic_sels <- problematic_sels[, c("sound.files","family", "assinged.to",  "selec", "check.res")]
+
+problematic_sels$spectrograms <- ""
+names(problematic_sels) <- c("sound.file", "family", "assinged.to", "selection_number", "problem", "spectrograms")
+
+problematic_sels <- problematic_sels[order(problematic_sels$family, problematic_sels$sound.file, problematic_sels$selection_number), ]
+
+sf <- gsub("\\.wav", "", problematic_sels$sound.file)
+sf <- gsub("_", "%5F", sf)
+sf <- gsub("-", "%2D", sf)
+
+problematic_sels$spectrograms <- 
+  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo_araya_ucr_ac_cr%2FDocuments%2Fannotated_spectrograms%2F", problematic_sels$family, "%2F", sf, "%2D%2Dp1%2Ejpeg&parent=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fannotated%5Fspectrograms%2F", problematic_sels$family))
+
+problematic_sels$recording <- 
+  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fbird%5Fsong%5Frecordings%2F", problematic_sels$family, "%2F", sf, "%2Ewav&parent=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fbird%5Fsong%5Frecordings%2F", problematic_sels$family))
+
+problematic_sels_kbl <- kableExtra::kbl(
+      problematic_sels,
+      row.names = FALSE,
+      escape = FALSE,
+      format = "html",
+      digits = 3
+)
+
+  problematic_sels_kbl <-
+    kableExtra::kable_styling(
+      problematic_sels_kbl,
+      bootstrap_options = c("striped", "hover", "condensed", "responsive"),
+      full_width = FALSE,
+      font_size = 12
+    )
+
+ problematic_sels_kbl
+
+```
+
+## Created annotated spectrograms
+```{r, eval = FALSE}
+
+# create folders for each family
+# for(i in unique(rec_data$family))
+#     dir.create(file.path("./data/processed/annotated_spectrograms", i))
+
+out <- warbleR:::pblapply_wrblr_int(sort(unique(ok_anns$sound.files)), pbar = TRUE, cl = 8, function(x)
+    {
+    sub_anns <- ok_anns[ok_anns$sound.files == x, ]
+    frq_range <- range(c(sub_anns$bottom.freq, sub_anns$top.freq))
+    
+    frq_range[1] <- frq_range[1] - 1
+    if (frq_range[1] < 0) frq_range[1] <- 0
+
+    frq_range[2] <- frq_range[2] + ((frq_range[2] - frq_range[1]) / 3)
+    if(frq_range[2] < 6) frq_range[2] <- 6
+    
+    if (frq_range[2] > 22.05) frq_range[2] <- 22.05
+    
+    
+    # print(ok_anns$family[1])
+    full_spectrograms(X = sub_anns, flim = frq_range, sxrow = 4, rows = 10, ovlp = 50, collevels = seq(-100, 0, 5), parallel = 1, overwrite = TRUE, dest.path = file.path("./data/processed/annotated_spectrograms", sub_anns$family[1]), song = "song", fast.spec = TRUE, horizontal = TRUE, pb = FALSE)
+    }
+    )
+
+
+```
+
+<!-- light green box -->
+
+<div class="alert alert-success">
+
+# Takeaways {.unnumbered .unlisted}
+
+- Doing good progress
+
+</div>
+
+&nbsp;
+
+<!-- '---' adds a gray vertical line -->
+
+---
+
+&nbsp; 
+ 
+ <!-- add packages used, system details and versions  -->
+ 
+# Session information {.unnumbered .unlisted}
+
+```{r session info, echo=F}
+
+sessionInfo()
+
+```

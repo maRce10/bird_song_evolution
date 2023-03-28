@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.848887191	5.008585339	233.6	2102.2	Corvus_ossifragus-ML255296821.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_ossifragus-ML255296821.wav	1	a
+2	Spectrogram 1	1	7.011593568	7.167620494	233.6	2172.3	Corvus_ossifragus-ML255296821.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_ossifragus-ML255296821.wav	2	a
+3	Spectrogram 1	1	9.205504580	9.359695896	233.6	2195.7	Corvus_ossifragus-ML255296821.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_ossifragus-ML255296821.wav	3	a

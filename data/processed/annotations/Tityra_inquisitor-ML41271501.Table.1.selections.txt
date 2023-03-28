@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.452665129	13.514298094	997.2	6205.0	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	1	a
+2	Spectrogram 1	1	13.532425436	13.771706356	720.2	6205.0	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	1	b
+3	Spectrogram 1	1	13.963856186	14.032740087	775.6	5872.6	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	1	c
+4	Spectrogram 1	1	14.149934756	14.211460996	720.2	1994.5	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	1	d
+5	Spectrogram 1	1	14.235815133	14.312722934	775.6	6703.6	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	1	e
+6	Spectrogram 1	1	14.471665722	14.570364066	997.2	6592.8	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	1	f
+7	Spectrogram 1	1	14.592154609	14.678034986	1108.0	6482.0	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	1	g
+8	Spectrogram 1	1	14.789551297	14.913885575	997.2	6426.6	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	1	h
+9	Spectrogram 1	1	18.733553764	18.784310323	720.2	8421.1	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	2	i
+10	Spectrogram 1	1	18.809688602	19.032654914	720.2	8476.5	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	2	j
+11	Spectrogram 1	1	19.203051933	19.257433960	775.6	8199.5	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	2	i
+12	Spectrogram 1	1	20.511441613	20.558572703	554.0	1883.7	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	3	k
+13	Spectrogram 1	1	20.580325514	20.658273087	831.0	6980.7	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	3	l
+14	Spectrogram 1	1	20.797853623	20.962812440	554.0	6315.8	Tityra_inquisitor-ML41271501.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Tityra_inquisitor-ML41271501.wav	3	m

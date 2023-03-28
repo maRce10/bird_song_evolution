@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.392666364	24.530547221	1717.200	2108.400	Clamator_coromandus-ML146104.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_coromandus-ML146104.wav	1	a
+2	Spectrogram 1	1	24.645447935	24.829289077	1732.600	2115.400	Clamator_coromandus-ML146104.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_coromandus-ML146104.wav	1	b
+3	Spectrogram 1	1	25.453288339	25.578795273	1717.200	2140.300	Clamator_coromandus-ML146104.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_coromandus-ML146104.wav	2	a
+4	Spectrogram 1	1	25.688947231	25.871020670	1704.800	2127.800	Clamator_coromandus-ML146104.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_coromandus-ML146104.wav	2	b
+5	Spectrogram 1	1	26.479994454	26.616107607	1717.200	2165.200	Clamator_coromandus-ML146104.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_coromandus-ML146104.wav	3	a
+6	Spectrogram 1	1	26.722169805	26.932526496	1717.200	2115.400	Clamator_coromandus-ML146104.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_coromandus-ML146104.wav	3	b

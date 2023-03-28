@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	40.306368278	40.607567392	253.8	1917.4	Myrmothera_berlepschi-ML88887.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_berlepschi-ML88887.wav	1	a
+2	Spectrogram 1	1	41.339050956	41.855392296	282.0	1748.2	Myrmothera_berlepschi-ML88887.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_berlepschi-ML88887.wav	1	a
+3	Spectrogram 1	1	42.404004969	42.941860531	253.8	1776.4	Myrmothera_berlepschi-ML88887.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_berlepschi-ML88887.wav	1	a
+4	Spectrogram 1	1	248.324410242	248.722423358	282.0	2002.0	Myrmothera_berlepschi-ML88887.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_berlepschi-ML88887.wav	2	a
+5	Spectrogram 1	1	249.410878477	249.873434260	197.4	1776.4	Myrmothera_berlepschi-ML88887.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_berlepschi-ML88887.wav	2	a
+6	Spectrogram 1	1	250.465075378	250.820060049	310.2	1804.6	Myrmothera_berlepschi-ML88887.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_berlepschi-ML88887.wav	2	a
+7	Spectrogram 1	1	463.080285215	463.446026997	253.8	1832.8	Myrmothera_berlepschi-ML88887.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_berlepschi-ML88887.wav	3	a
+8	Spectrogram 1	1	464.242053228	464.586280788	253.8	1720.0	Myrmothera_berlepschi-ML88887.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_berlepschi-ML88887.wav	3	a
+9	Spectrogram 1	1	465.307007241	465.629720578	310.2	1832.8	Myrmothera_berlepschi-ML88887.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_berlepschi-ML88887.wav	3	a

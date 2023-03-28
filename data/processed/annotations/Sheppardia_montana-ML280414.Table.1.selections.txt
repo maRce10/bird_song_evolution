@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.834156382	10.989400321	4373.3	4713.8	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	1	a
+2	Spectrogram 1	1	11.065370760	11.263554512	5054.2	5551.8	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	1	a
+3	Spectrogram 1	1	11.382464764	11.448526015	3875.8	4268.6	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	1	b
+4	Spectrogram 1	1	11.504678078	11.597163829	4635.2	5420.8	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	1	c
+5	Spectrogram 1	1	11.683043455	11.765620019	3849.6	4373.3	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	1	b
+6	Spectrogram 1	1	11.801953707	11.858105770	4870.9	5525.6	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	1	c
+7	Spectrogram 1	1	11.967106834	12.066198710	3902.0	4347.1	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	1	b
+8	Spectrogram 1	1	12.119047711	12.363474339	4190.0	4949.5	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	1	d
+9	Spectrogram 1	1	15.554984554	15.683803993	4347.1	4713.8	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	a
+10	Spectrogram 1	1	15.842350995	15.934836746	4556.7	5001.8	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	a
+11	Spectrogram 1	1	15.961261246	16.050443935	4661.4	5316.1	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	c
+12	Spectrogram 1	1	16.169354186	16.245324625	3797.2	4321.0	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	b
+13	Spectrogram 1	1	16.304779751	16.387356314	4949.5	5525.6	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	c
+14	Spectrogram 1	1	16.479842065	16.562418629	3954.3	4373.3	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	b
+15	Spectrogram 1	1	16.625176817	16.727571756	4844.7	5394.7	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	c
+16	Spectrogram 1	1	16.796936069	16.886118758	3823.4	4268.6	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	b
+17	Spectrogram 1	1	16.932361633	17.031453510	4792.3	5368.5	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	c
+18	Spectrogram 1	1	17.166879074	17.265970950	4006.7	4373.3	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	b
+19	Spectrogram 1	1	17.325426076	17.411305702	4792.3	5368.5	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	c
+20	Spectrogram 1	1	17.520306766	17.662338455	3980.5	4582.8	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	2	b
+21	Spectrogram 1	1	18.675670913	18.817702602	4163.8	4661.4	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	3	a
+22	Spectrogram 1	1	18.934910287	19.119881790	4897.1	5420.8	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	3	a
+23	Spectrogram 1	1	19.341186980	19.397339043	3823.4	4268.6	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	3	b
+24	Spectrogram 1	1	19.489824794	19.575704420	4949.5	5473.2	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	3	c
+25	Spectrogram 1	1	19.704523859	19.810221861	4032.9	4478.1	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	3	b
+26	Spectrogram 1	1	19.922525987	20.305681242	3666.3	5211.3	Sheppardia_montana-ML280414.wav	E:\Andean\Muscicapidae\Sheppardia_montana-ML280414.wav	3	e

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	157.423165430	157.659062840	2586.4	4572.0	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	1	a
+2	Spectrogram 1	1	157.729131377	157.789857443	5460.2	7889.9	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	1	b
+3	Spectrogram 1	1	157.784018399	157.802703342	8125.1	9300.7	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	1	c
+4	Spectrogram 1	1	157.815549241	157.830730757	6374.6	8046.7	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	1	d
+5	Spectrogram 1	1	161.011796364	161.036320352	2690.9	3971.1	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	2	e
+6	Spectrogram 1	1	161.036320352	161.132080687	2325.2	3396.3	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	2	f
+7	Spectrogram 1	1	161.129745069	161.162443720	3762.1	4519.7	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	2	g
+8	Spectrogram 1	1	161.167114955	161.199813606	2612.6	3997.2	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	2	h
+9	Spectrogram 1	1	161.335279446	161.574680283	4554.7	11060.0	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	2	i
+12	Spectrogram 1	1	165.119677257	165.397615789	1576.4	3770.9	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	3	j
+13	Spectrogram 1	1	165.453670620	165.463013091	3509.7	6801.5	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	3	k
+14	Spectrogram 1	1	165.467072153	165.474504044	4110.6	7637.5	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	3	l
+16	Spectrogram 1	1	165.478632872	165.486890529	4816.0	8316.8	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	3	m
+17	Spectrogram 1	1	165.491845122	165.530656107	5782.6	7924.9	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	3	n
+18	Spectrogram 1	1	165.539739529	165.727188328	6148.4	9753.7	Turdus_obscurus-ML78714.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_obscurus-ML78714.wav	3	o

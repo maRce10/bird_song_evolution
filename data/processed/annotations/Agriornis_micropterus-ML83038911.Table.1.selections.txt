@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.376488662	1.404969836	2926.1	5590.9	Agriornis_micropterus-ML83038911.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_micropterus-ML83038911.wav	1	a

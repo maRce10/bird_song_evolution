@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.971169701	7.479841332	156.7	617.0	Asio_otus-ML49057.wav	D:\Andean\Strigidae\Asio_otus-ML49057.wav	1	a
+2	Spectrogram 1	1	10.175140366	10.690418123	166.5	626.8	Asio_otus-ML49057.wav	D:\Andean\Strigidae\Asio_otus-ML49057.wav	2	a
+3	Spectrogram 1	1	13.398929407	13.894388788	146.9	626.8	Asio_otus-ML49057.wav	D:\Andean\Strigidae\Asio_otus-ML49057.wav	3	a

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.134195519	5.360750457	2142.3	4127.8	Camptostoma_obsoletum-ML69870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Camptostoma_obsoletum-ML69870.wav	1	a
+2	Spectrogram 1	1	5.419140905	5.521908094	1933.3	3814.3	Camptostoma_obsoletum-ML69870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Camptostoma_obsoletum-ML69870.wav	1	b
+3	Spectrogram 1	1	5.559277981	5.627010900	2011.7	3788.2	Camptostoma_obsoletum-ML69870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Camptostoma_obsoletum-ML69870.wav	1	c
+4	Spectrogram 1	1	5.651534889	5.722187080	1619.8	3788.2	Camptostoma_obsoletum-ML69870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Camptostoma_obsoletum-ML69870.wav	1	d
+5	Spectrogram 1	1	5.739704214	5.791087809	1828.8	3657.6	Camptostoma_obsoletum-ML69870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Camptostoma_obsoletum-ML69870.wav	1	e
+6	Spectrogram 1	1	6.458142392	6.796706303	2873.8	4336.8	Camptostoma_obsoletum-ML69870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Camptostoma_obsoletum-ML69870.wav	2	f
+7	Spectrogram 1	1	6.837994584	7.011405368	2717.1	4258.5	Camptostoma_obsoletum-ML69870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Camptostoma_obsoletum-ML69870.wav	2	g
+8	Spectrogram 1	1	8.695576272	9.025882526	2926.1	4336.8	Camptostoma_obsoletum-ML69870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Camptostoma_obsoletum-ML69870.wav	3	f
+9	Spectrogram 1	1	9.075428464	9.245536185	3056.7	4180.1	Camptostoma_obsoletum-ML69870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Camptostoma_obsoletum-ML69870.wav	3	h

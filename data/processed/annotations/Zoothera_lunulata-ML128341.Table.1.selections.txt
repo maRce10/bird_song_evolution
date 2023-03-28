@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	27.417849575	27.558229733	1865.8	2235.3	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	1	a
+2	Spectrogram 1	1	27.589608827	27.962854894	1884.3	2863.4	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	1	b
+3	Spectrogram 1	1	28.037173802	28.494647964	1884.3	3288.3	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	1	c
+4	Spectrogram 1	1	30.439682459	30.566850367	1865.8	2290.7	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	2	d
+5	Spectrogram 1	1	30.585017211	30.652729993	2438.5	2918.8	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	2	e
+6	Spectrogram 1	1	30.654381524	30.682457556	1976.7	2364.6	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	2	f
+7	Spectrogram 1	1	30.700624400	30.850913746	2161.4	2475.5	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	2	g
+8	Spectrogram 1	1	30.877338246	30.920278059	2641.7	3343.7	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	2	h
+9	Spectrogram 1	1	30.983036247	31.125067937	3269.8	3639.3	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	2	i
+10	Spectrogram 1	1	33.399223688	33.499655258	1884.3	2383.1	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	3	j
+11	Spectrogram 1	1	33.512501157	33.570891605	2124.5	2512.4	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	3	k
+12	Spectrogram 1	1	33.577898459	33.619939581	1939.7	2715.6	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	3	l
+13	Spectrogram 1	1	33.628114244	33.765915701	2604.8	3269.8	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	3	m
+14	Spectrogram 1	1	33.782265027	33.913059631	2253.8	2586.3	Zoothera_lunulata-ML128341.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_lunulata-ML128341.wav	3	n

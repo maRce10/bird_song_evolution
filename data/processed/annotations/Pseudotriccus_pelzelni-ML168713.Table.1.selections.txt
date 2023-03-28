@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.791245287	9.501403734	2090.0	7080.0	Pseudotriccus_pelzelni-ML168713.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudotriccus_pelzelni-ML168713.wav	1	a
+2	Spectrogram 1	1	38.515151544	39.245128366	1619.8	6871.0	Pseudotriccus_pelzelni-ML168713.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudotriccus_pelzelni-ML168713.wav	2	a
+3	Spectrogram 1	1	48.521132844	49.199912196	2116.2	6923.3	Pseudotriccus_pelzelni-ML168713.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudotriccus_pelzelni-ML168713.wav	3	a

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.786371683	1.857291116	420.2	3633.8	Coscoroba_coscoroba-ML42753221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Coscoroba_coscoroba-ML42753221.wav	1	a
+2	Spectrogram 1	1	2.114374058	2.197704391	296.6	3683.2	Coscoroba_coscoroba-ML42753221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Coscoroba_coscoroba-ML42753221.wav	1	b
+3	Spectrogram 1	1	9.464746935	9.526801438	568.6	3633.8	Coscoroba_coscoroba-ML42753221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Coscoroba_coscoroba-ML42753221.wav	2	c
+4	Spectrogram 1	1	9.819344096	9.916858316	296.6	2224.8	Coscoroba_coscoroba-ML42753221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Coscoroba_coscoroba-ML42753221.wav	2	d
+5	Spectrogram 1	1	18.407433462	18.478352894	568.6	3955.2	Coscoroba_coscoroba-ML42753221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Coscoroba_coscoroba-ML42753221.wav	2	a
+6	Spectrogram 1	1	18.738981808	18.815220197	321.4	3658.5	Coscoroba_coscoroba-ML42753221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Coscoroba_coscoroba-ML42753221.wav	2	b

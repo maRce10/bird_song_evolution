@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	61.800840848	61.908279272	3988.9	7756.3	Loriculus_vernalis-ML71479.wav	D:\Andean\Psittaculidae\Loriculus_vernalis-ML71479.wav	1	a
+2	Spectrogram 1	1	62.165197244	62.239937017	3019.4	6842.1	Loriculus_vernalis-ML71479.wav	D:\Andean\Psittaculidae\Loriculus_vernalis-ML71479.wav	1	b
+3	Spectrogram 1	1	62.948206398	63.046302350	4127.4	7479.3	Loriculus_vernalis-ML71479.wav	D:\Andean\Psittaculidae\Loriculus_vernalis-ML71479.wav	2	a
+4	Spectrogram 1	1	63.226144930	63.291542232	3296.4	6897.6	Loriculus_vernalis-ML71479.wav	D:\Andean\Psittaculidae\Loriculus_vernalis-ML71479.wav	2	b
+5	Spectrogram 1	1	70.434204370	70.525293469	4210.6	7756.3	Loriculus_vernalis-ML71479.wav	D:\Andean\Psittaculidae\Loriculus_vernalis-ML71479.wav	3	a

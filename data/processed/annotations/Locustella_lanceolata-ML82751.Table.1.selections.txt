@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	20.841314216	68.528147004	4765.0	14668.9	Locustella_lanceolata-ML82751.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Locustella_lanceolata-ML82751.wav	1	a

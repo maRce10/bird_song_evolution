@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	27.824167211	27.876148511	958.7	5188.2	Glareola_nordmanni-ML96786.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_nordmanni-ML96786.wav	1	a
+2	Spectrogram 1	1	27.878073745	27.912727945	958.7	5244.6	Glareola_nordmanni-ML96786.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_nordmanni-ML96786.wav	1	b
+3	Spectrogram 1	1	28.010914846	28.053269980	958.7	4962.7	Glareola_nordmanni-ML96786.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_nordmanni-ML96786.wav	1	c
+4	Spectrogram 1	1	32.214568854	32.268982555	1127.9	5244.6	Glareola_nordmanni-ML96786.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_nordmanni-ML96786.wav	2	a
+5	Spectrogram 1	1	32.277203554	32.299517693	806.0	5296.6	Glareola_nordmanni-ML96786.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_nordmanni-ML96786.wav	2	b
+6	Spectrogram 1	1	32.408739534	32.452193385	1093.9	5469.3	Glareola_nordmanni-ML96786.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_nordmanni-ML96786.wav	2	c
+7	Spectrogram 1	1	33.428254148	33.481103426	575.7	5296.6	Glareola_nordmanni-ML96786.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_nordmanni-ML96786.wav	3	a
+8	Spectrogram 1	1	33.486975568	33.513987421	575.7	5181.5	Glareola_nordmanni-ML96786.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_nordmanni-ML96786.wav	3	b
+9	Spectrogram 1	1	33.619685977	33.661965399	518.1	5008.7	Glareola_nordmanni-ML96786.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_nordmanni-ML96786.wav	3	c

@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.549918935	6.078408942	110.8	1800.6	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	1	a
+2	Spectrogram 1	1	6.111439567	6.438442759	55.4	1108.0	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	1	b
+3	Spectrogram 1	1	6.527625447	6.646535699	166.2	1218.8	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	1	c
+4	Spectrogram 1	1	6.696081637	6.881053139	277.0	1606.7	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	1	d
+5	Spectrogram 1	1	6.993357266	7.244390019	193.9	1579.0	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	1	d
+6	Spectrogram 1	1	7.280723707	7.581302398	138.5	1191.1	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	1	b
+7	Spectrogram 1	1	7.667182024	7.779486151	249.3	1301.9	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	1	c
+8	Spectrogram 1	1	7.838941276	8.859587602	55.4	1329.6	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	1	e
+9	Spectrogram 1	1	16.754529979	16.856924918	110.8	914.1	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	2	c
+10	Spectrogram 1	1	16.916380043	17.187231172	249.3	1163.4	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	2	b
+11	Spectrogram 1	1	17.266504673	17.527446614	138.5	1218.8	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	2	b
+12	Spectrogram 1	1	17.580295614	17.910601869	193.9	1108.0	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	2	b
+13	Spectrogram 1	1	17.976663119	18.088967246	193.9	1024.9	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	2	c
+14	Spectrogram 1	1	18.125300934	18.283847936	193.9	1274.2	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	2	d
+15	Spectrogram 1	1	18.419273500	18.693427691	138.5	1385.1	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	2	d
+16	Spectrogram 1	1	18.723155254	19.036946195	166.2	1246.5	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	2	b
+17	Spectrogram 1	1	19.099704383	19.198796260	110.8	1163.4	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	2	c
+18	Spectrogram 1	1	19.228523823	20.222745648	138.5	1246.5	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	2	e
+19	Spectrogram 1	1	30.377370382	30.621797011	138.5	1191.1	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	3	a
+20	Spectrogram 1	1	30.681252136	31.014861453	166.2	1108.0	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	3	b
+21	Spectrogram 1	1	31.094134954	31.206439080	83.1	1052.6	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	3	c
+22	Spectrogram 1	1	31.249378893	31.454168771	277.0	1329.6	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	3	d
+23	Spectrogram 1	1	31.553260647	31.830717901	193.9	1246.5	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	3	b
+24	Spectrogram 1	1	31.857142401	32.157721092	221.6	1246.5	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	3	b
+25	Spectrogram 1	1	32.253509906	32.359207907	166.2	1135.7	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	3	c
+26	Spectrogram 1	1	32.402147720	33.482249172	193.9	1246.5	Puffinus_puffinus-ML235543.wav	D:\Andean\Procellariidae\Puffinus_puffinus-ML235543.wav	3	e

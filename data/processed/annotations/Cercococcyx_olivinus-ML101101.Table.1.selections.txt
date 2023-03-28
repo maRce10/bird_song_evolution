@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	301.675479021	301.805474339	1207.900	2064.400	Cercococcyx_olivinus-ML101101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_olivinus-ML101101.wav	1	a
+2	Spectrogram 1	1	302.070464796	302.372952322	1361.700	2218.200	Cercococcyx_olivinus-ML101101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_olivinus-ML101101.wav	1	b
+3	Spectrogram 1	1	302.532948140	302.911963465	1287.100	2196.200	Cercococcyx_olivinus-ML101101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_olivinus-ML101101.wav	1	b
+4	Spectrogram 1	1	304.142233862	304.289728550	1098.100	2152.300	Cercococcyx_olivinus-ML101101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_olivinus-ML101101.wav	2	a
+5	Spectrogram 1	1	304.544719367	304.864707843	1378.125	2240.100	Cercococcyx_olivinus-ML101101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_olivinus-ML101101.wav	2	b
+6	Spectrogram 1	1	305.019702261	305.370582761	1339.700	2196.200	Cercococcyx_olivinus-ML101101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_olivinus-ML101101.wav	2	b
+7	Spectrogram 1	1	306.671984044	306.809479092	1165.600	2088.400	Cercococcyx_olivinus-ML101101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_olivinus-ML101101.wav	3	a
+8	Spectrogram 1	1	307.069469729	307.416957214	1331.409	2307.000	Cercococcyx_olivinus-ML101101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_olivinus-ML101101.wav	3	b
+9	Spectrogram 1	1	307.544452623	307.911939388	1262.800	2258.400	Cercococcyx_olivinus-ML101101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_olivinus-ML101101.wav	3	b

@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.912793694	19.093529436	394.8	4906.3	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	1	a
+2	Spectrogram 1	1	19.123037313	19.226314880	338.4	4680.7	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	1	a
+3	Spectrogram 1	1	19.277953664	19.370165777	451.2	4962.7	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	}	a
+4	Spectrogram 1	1	19.425493045	19.558278489	507.5	5470.2	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	1	a
+5	Spectrogram 1	1	19.602540303	19.768522108	394.8	5357.4	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	1	a
+6	Spectrogram 1	1	19.809095438	19.960323304	338.4	5244.6	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	1	a
+7	Spectrogram 1	1	20.004585118	20.133682077	507.5	4962.7	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	1	a
+8	Spectrogram 1	1	20.192697830	20.325483274	394.8	5244.6	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	1	a
+9	Spectrogram 1	1	20.388187511	20.535726892	338.4	5131.8	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	1	a
+10	Spectrogram 1	1	20.591054161	20.745970511	451.2	5357.4	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	1	a
+11	Spectrogram 1	1	20.878755955	21.122195935	394.8	5131.8	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	1	a
+12	Spectrogram 1	1	28.780354791	29.234038389	563.9	4455.1	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a
+13	Spectrogram 1	1	29.344692926	29.761491679	507.5	4680.7	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a
+14	Spectrogram 1	1	29.879523184	30.340583752	451.2	5131.8	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a
+15	Spectrogram 1	1	30.421730412	30.834840681	338.4	4737.1	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a
+16	Spectrogram 1	1	30.934429763	31.332786094	451.2	5075.4	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a
+17	Spectrogram 1	1	31.428686692	31.815977569	338.4	5131.8	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a
+18	Spectrogram 1	1	31.976468643	32.415398304	338.4	4624.3	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a
+19	Spectrogram 1	1	32.625641922	33.186291573	394.8	4906.3	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a
+20	Spectrogram 1	1	33.389158223	33.724810316	451.2	3778.4	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a
+21	Spectrogram 1	1	34.008823626	34.148986038	563.9	2932.5	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	c
+22	Spectrogram 1	1	34.185870884	34.429310864	394.8	3496.4	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a
+23	Spectrogram 1	1	34.680127812	35.133811411	451.2	3383.6	Actophilornis_africanus-ML83241.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Actophilornis_africanus-ML83241.wav	2	a

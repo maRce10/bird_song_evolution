@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	98.021537679	98.077592509	1358.5	4807.1	Contopus_hispaniolensis-ML162713411.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_hispaniolensis-ML162713411.wav	1	a
+2	Spectrogram 1	1	98.624127102	98.680181933	1332.4	4859.4	Contopus_hispaniolensis-ML162713411.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_hispaniolensis-ML162713411.wav	2	a
+3	Spectrogram 1	1	99.189346639	99.238394616	1358.5	4650.4	Contopus_hispaniolensis-ML162713411.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_hispaniolensis-ML162713411.wav	3	b

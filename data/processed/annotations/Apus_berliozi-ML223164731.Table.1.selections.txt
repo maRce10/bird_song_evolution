@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.596150194	2.401085750	3485.5	4820.3	Apus_berliozi-ML223164731.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_berliozi-ML223164731.wav	1	a
+2	Spectrogram 1	1	2.514395028	3.298054754	3263.0	4548.4	Apus_berliozi-ML223164731.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_berliozi-ML223164731.wav	2	a
+3	Spectrogram 1	1	3.360451081	4.000498957	3114.7	4746.2	Apus_berliozi-ML223164731.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_berliozi-ML223164731.wav	3	a

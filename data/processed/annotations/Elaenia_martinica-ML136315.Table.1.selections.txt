@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.793706150	19.062905747	2168.4	5460.2	Elaenia_martinica-ML136315.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_martinica-ML136315.wav	1	a
+2	Spectrogram 1	1	19.117406279	19.305680844	2037.8	4258.5	Elaenia_martinica-ML136315.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_martinica-ML136315.wav	1	b
+3	Spectrogram 1	1	22.496192026	22.753005139	2272.9	5408.0	Elaenia_martinica-ML136315.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_martinica-ML136315.wav	2	a
+4	Spectrogram 1	1	22.806679905	23.036242752	2063.9	4284.6	Elaenia_martinica-ML136315.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_martinica-ML136315.wav	2	b
+5	Spectrogram 1	1	30.143173905	30.414025033	2325.2	5512.5	Elaenia_martinica-ML136315.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_martinica-ML136315.wav	3	a
+6	Spectrogram 1	1	30.478434753	30.707997600	1933.3	4206.2	Elaenia_martinica-ML136315.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_martinica-ML136315.wav	3	b

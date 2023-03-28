@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	20.267873741	20.515603432	117.5	509.3	Ardenna_gravis-ML102180.wav	D:\Andean\Procellariidae\Ardenna_gravis-ML102180.wav	1	a
+2	Spectrogram 1	1	20.690665747	20.915273999	156.7	489.7	Ardenna_gravis-ML102180.wav	D:\Andean\Procellariidae\Ardenna_gravis-ML102180.wav	2	a
+3	Spectrogram 1	1	21.063911814	21.331459880	117.5	489.7	Ardenna_gravis-ML102180.wav	D:\Andean\Procellariidae\Ardenna_gravis-ML102180.wav	3	a

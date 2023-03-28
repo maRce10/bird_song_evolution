@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	93.717209945	93.775600393	2493.1	4570.7	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	1	a
+2	Spectrogram 1	1	94.226374652	94.291771954	2410.0	4764.6	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	1	a
+3	Spectrogram 1	1	94.513655657	94.567374869	2493.1	4875.4	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	1	a
+4	Spectrogram 1	1	94.838306548	94.889690142	2493.1	4875.4	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	1	a
+5	Spectrogram 1	1	95.342800019	95.394183613	2437.7	4875.4	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	1	a
+6	Spectrogram 1	1	95.620738552	95.674457764	2465.4	4875.4	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	1	a
+7	Spectrogram 1	1	101.541618301	101.590666277	2437.7	4459.9	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	2	a
+8	Spectrogram 1	1	101.831234923	101.877947281	2354.6	4764.6	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	2	a
+9	Spectrogram 1	1	102.155885814	102.216611880	2493.1	4681.5	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	2	a
+10	Spectrogram 1	1	102.662714903	102.714098497	2465.4	4709.2	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	2	a
+11	Spectrogram 1	1	102.949995907	102.996708266	2437.7	4820.0	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	2	a
+12	Spectrogram 1	1	103.269975563	103.319023539	2465.4	4820.0	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	2	a
+13	Spectrogram 1	1	103.774317765	103.839715067	2520.8	4820.0	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	2	a
+14	Spectrogram 1	1	104.061598770	104.117653600	2520.8	4986.2	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	2	a
+15	Spectrogram 1	1	111.525512389	111.576895983	2437.7	4432.2	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	3	a
+16	Spectrogram 1	1	111.810457775	111.864176987	2465.4	4432.2	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	3	a
+17	Spectrogram 1	1	112.137444284	112.184156643	2465.4	4515.3	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	3	a
+18	Spectrogram 1	1	112.651280227	112.695656968	2493.1	4543.0	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	3	a
+19	Spectrogram 1	1	112.929218760	112.978266736	2493.1	4847.7	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	3	a
+20	Spectrogram 1	1	113.251534033	113.302917627	2520.8	4958.5	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	3	a
+21	Spectrogram 1	1	113.754479429	113.812869877	2493.1	4875.4	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	3	a
+22	Spectrogram 1	1	114.034753580	114.088472792	2520.8	4847.7	Coturnix_delegorguei-ML55965.wav	D:\Andean\Phasianidae\Coturnix_delegorguei-ML55965.wav	3	a

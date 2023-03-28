@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	27.590442441	27.739080256	2022.2	8448.8	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	1	a
+2	Spectrogram 1	1	27.851384382	28.000022197	2105.3	8642.7	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	1	a
+3	Spectrogram 1	1	28.082598760	28.224630449	1994.5	8753.5	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	1	a
+4	Spectrogram 1	1	28.300600888	28.445935640	1800.6	8698.1	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	1	a
+5	Spectrogram 1	1	28.525209141	28.667240830	2077.6	8808.9	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	1	a
+6	Spectrogram 1	1	31.742768979	31.881497606	2991.7	8476.5	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	2	a
+7	Spectrogram 1	1	31.993801733	32.135833422	1994.5	8670.4	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	2	a
+8	Spectrogram 1	1	32.241531423	32.380260050	1966.8	8919.7	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	2	a
+9	Spectrogram 1	1	32.469442739	32.608171365	1994.5	9030.5	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	2	a
+10	Spectrogram 1	1	36.699643210	36.838371837	2964.0	8476.5	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	3	a
+11	Spectrogram 1	1	36.947372901	37.092707653	2188.4	8670.4	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	3	a
+12	Spectrogram 1	1	37.181890341	37.327225093	1994.5	8753.5	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	3	a
+13	Spectrogram 1	1	37.406498594	37.555136409	2022.2	8698.1	Peucaea_humeralis-ML28230421.wav	D:\Andean\Passerellidae\Peucaea_humeralis-ML28230421.wav	3	a

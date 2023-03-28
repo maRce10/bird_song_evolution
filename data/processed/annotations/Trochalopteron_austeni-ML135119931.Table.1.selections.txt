@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	116.204779459	116.287861513	1471.5	2328.0	Trochalopteron_austeni-ML135119931.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_austeni-ML135119931.wav	1	a
+2	Spectrogram 1	1	116.390388304	116.544178490	1887.7	2855.1	Trochalopteron_austeni-ML135119931.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_austeni-ML135119931.wav	1	b
+3	Spectrogram 1	1	116.616654325	116.947214841	746.7	3448.1	Trochalopteron_austeni-ML135119931.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_austeni-ML135119931.wav	1	c
+4	Spectrogram 1	1	127.698877199	127.774888441	1515.4	2525.6	Trochalopteron_austeni-ML135119931.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_austeni-ML135119931.wav	2	a
+5	Spectrogram 1	1	127.865041308	128.015296088	1887.7	2921.0	Trochalopteron_austeni-ML135119931.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_austeni-ML135119931.wav	2	b
+6	Spectrogram 1	1	128.091307330	128.409493922	834.6	3426.1	Trochalopteron_austeni-ML135119931.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_austeni-ML135119931.wav	2	c
+7	Spectrogram 1	1	133.106672703	133.187987054	1317.7	2481.7	Trochalopteron_austeni-ML135119931.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_austeni-ML135119931.wav	3	a
+8	Spectrogram 1	1	133.276372219	133.431930108	1669.1	2855.1	Trochalopteron_austeni-ML135119931.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_austeni-ML135119931.wav	3	b
+9	Spectrogram 1	1	133.504405943	133.820824832	724.8	3360.2	Trochalopteron_austeni-ML135119931.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_austeni-ML135119931.wav	3	c

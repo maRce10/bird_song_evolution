@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.516845329	31.716595801	1054.2	2268.3	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+2	Spectrogram 1	1	31.849173548	32.045212562	1098.1	2294.7	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+3	Spectrogram 1	1	32.206249613	32.404232381	988.3	2328.0	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+4	Spectrogram 1	1	32.518542249	32.702383391	1028.6	2328.0	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+5	Spectrogram 1	1	32.836728841	33.027640797	1002.3	2373.8	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+6	Spectrogram 1	1	33.147844621	33.345827389	922.4	2503.7	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+7	Spectrogram 1	1	33.471334323	33.669317091	900.4	2503.7	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+8	Spectrogram 1	1	33.803662592	33.998109954	975.9	2415.8	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+9	Spectrogram 1	1	34.151900140	34.342812096	966.3	2415.8	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+10	Spectrogram 1	1	34.562007304	34.758222369	1032.2	2547.6	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+11	Spectrogram 1	1	34.927921950	35.127672422	922.4	2393.9	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+12	Spectrogram 1	1	35.279694905	35.474142267	949.5	2459.8	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+13	Spectrogram 1	1	35.629700156	35.832986035	900.4	2503.7	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+14	Spectrogram 1	1	35.985008518	36.179455880	944.4	2591.5	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+15	Spectrogram 1	1	36.329710676	36.529461148	944.4	2503.7	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+16	Spectrogram 1	1	36.688654788	36.891940666	1032.2	2503.7	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+17	Spectrogram 1	1	37.054569369	37.249016731	975.9	2547.6	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+18	Spectrogram 1	1	37.413413154	37.616699033	949.5	2481.7	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+19	Spectrogram 1	1	37.807610988	38.009129163	900.4	2547.6	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+20	Spectrogram 1	1	38.168951342	38.371811191	844.0	2558.4	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+21	Spectrogram 1	1	38.540169033	38.746990318	870.4	2558.4	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+22	Spectrogram 1	1	38.899012801	39.105834086	896.8	2584.8	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+23	Spectrogram 1	1	39.306282158	39.509568036	923.1	2558.4	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+24	Spectrogram 1	1	39.693409178	39.901998167	949.5	2532.1	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+25	Spectrogram 1	1	40.084071606	40.290892891	844.0	2479.3	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a
+26	Spectrogram 1	1	40.492411089	40.706303187	896.8	2426.6	Manorina_melanotis-ML27029521.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanotis-ML27029521.wav	1	a

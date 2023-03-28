@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.071628465	5.375673431	2301.9	5007.4	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	a
+2	Spectrogram 1	1	6.167604505	6.471649471	2277.7	5073.3	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	a
+3	Spectrogram 1	1	7.298934612	7.390855183	2301.9	5292.9	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+4	Spectrogram 1	1	7.413250222	7.651133799	2277.7	4846.2	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	a
+5	Spectrogram 1	1	8.368607960	8.463604539	2301.9	5209.6	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+6	Spectrogram 1	1	8.491103548	8.738594635	2301.9	4773.5	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	a
+7	Spectrogram 1	1	9.439483183	9.544479402	2277.7	5209.6	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+8	Spectrogram 1	1	10.221955003	10.324451312	2277.7	5112.7	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+9	Spectrogram 1	1	10.979427724	11.081924032	2301.9	5209.6	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+10	Spectrogram 1	1	11.896312761	11.998809070	2277.7	5161.2	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+11	Spectrogram 1	1	12.608787102	12.713783321	2277.7	5258.1	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+12	Spectrogram 1	1	13.443757031	13.548753250	2277.7	5282.3	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+13	Spectrogram 1	1	14.367255447	14.469751756	2301.9	5258.1	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+14	Spectrogram 1	1	15.279722585	15.379718984	2301.9	5258.1	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+15	Spectrogram 1	1	16.081401997	16.183898306	2301.9	5258.1	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b
+16	Spectrogram 1	1	17.021368145	17.126364364	2253.5	5258.1	Merops_muelleri-ML51562.wav	E:\Escritorio\Cantos\Meropidae\Merops_muelleri-ML51562.wav	1	b

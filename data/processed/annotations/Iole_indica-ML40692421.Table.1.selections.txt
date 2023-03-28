@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.247954169	17.504872141	1551.3	2742.4	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	1	a
+2	Spectrogram 1	1	17.675372249	17.710406518	1717.5	2216.1	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	1	b
+3	Spectrogram 1	1	17.701064046	17.750112022	2326.9	2825.5	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	1	c
+4	Spectrogram 1	1	17.979002579	18.053742352	1024.9	1440.5	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	1	d
+5	Spectrogram 1	1	18.067756060	18.151838305	1689.8	2659.3	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	1	e
+6	Spectrogram 1	1	20.654220414	20.742973895	1274.2	1939.1	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	2	f
+7	Spectrogram 1	1	20.775672545	20.953179508	1191.1	2797.8	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	2	a
+8	Spectrogram 1	1	21.137693323	21.175063210	1551.3	2105.3	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	2	b
+9	Spectrogram 1	1	21.198419389	21.242796130	2299.2	2908.6	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	2	c
+10	Spectrogram 1	1	21.275494603	21.338556287	1329.6	1883.7	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	2	g
+11	Spectrogram 1	1	21.394611295	21.450666125	1191.1	2243.8	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	2	h
+12	Spectrogram 1	1	21.474022304	21.539419606	1606.7	2493.1	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	2	i
+13	Spectrogram 1	1	21.803344431	21.875748587	1800.6	2188.4	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	2	j
+14	Spectrogram 1	1	24.865046101	24.935114638	1218.8	2022.2	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	3	f
+15	Spectrogram 1	1	24.981826997	25.149991487	1191.1	2770.1	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	3	a
+16	Spectrogram 1	1	25.266772383	25.308813506	1689.8	2077.6	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	3	b
+17	Spectrogram 1	1	25.339176539	25.385888897	2576.2	2908.6	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	3	c
+18	Spectrogram 1	1	25.495662940	25.554053388	1218.8	1772.9	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	3	d
+19	Spectrogram 1	1	25.617115072	25.666163048	1634.4	2548.5	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	3	i
+20	Spectrogram 1	1	25.943599895	26.037024611	1800.6	2160.7	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	3	j
+21	Spectrogram 1	1	26.069723262	26.163147979	1745.2	2631.6	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	3	e
+22	Spectrogram 1	1	26.228545281	26.406052243	1385.1	2797.8	Iole_indica-ML40692421.wav	D:\Andean\Pycnonotidae\Iole_indica-ML40692421.wav	3	k

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.898370149	6.038384216	304.7	941.8	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	1	a
+2	Spectrogram 1	1	6.465093752	6.645111838	332.4	803.3	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	1	a
+3	Spectrogram 1	1	7.131827403	7.285176142	332.4	803.3	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	1	a
+4	Spectrogram 1	1	7.691883669	7.798561053	249.3	747.9	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	1	a
+5	Spectrogram 1	1	36.498971694	36.625651088	304.7	886.4	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	2	a
+6	Spectrogram 1	1	37.025691278	37.192374691	360.1	886.4	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	2	a
+7	Spectrogram 1	1	37.665755583	37.825771659	332.4	858.7	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	2	a
+8	Spectrogram 1	1	38.205809840	38.345823906	332.4	775.6	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	2	a
+9	Spectrogram 1	1	64.867188202	64.993867596	387.8	914.1	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	3	a
+10	Spectrogram 1	1	65.340569094	65.527254516	415.5	858.7	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	3	a
+11	Spectrogram 1	1	65.973966062	66.153984148	360.1	831.0	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	3	a
+12	Spectrogram 1	1	66.540689665	66.667369059	332.4	803.3	Strix_rufipes-ML146588.wav	D:\Andean\Strigidae\Strix_rufipes-ML146588.wav	3	a

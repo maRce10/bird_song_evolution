@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.248784771	9.856012687	1405.7	1866.8	Chlorophonia_callophrys-ML165367.wav	E:\Escritorio\Cantos\Fringillidae\Chlorophonia_callophrys-ML165367.wav	1	a
+2	Spectrogram 1	1	14.385666236	15.007704589	1405.7	1844.8	Chlorophonia_callophrys-ML165367.wav	E:\Escritorio\Cantos\Fringillidae\Chlorophonia_callophrys-ML165367.wav	2	a
+3	Spectrogram 1	1	17.609882727	18.207237018	1405.7	1866.8	Chlorophonia_callophrys-ML165367.wav	E:\Escritorio\Cantos\Fringillidae\Chlorophonia_callophrys-ML165367.wav	3	a

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.847953997	0.860340481	664.8	4709.2	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	1	a
+3	Spectrogram 1	1	0.868598137	0.894196872	901.0	4583.5	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	1	b
+4	Spectrogram 1	1	0.984205326	1.012281358	822.7	4936.1	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	1	b
+5	Spectrogram 1	1	1.177434485	1.207987814	1018.6	3604.1	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	1	c
+6	Spectrogram 1	1	1.275700059	1.306253388	1057.7	2820.6	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	1	c
+7	Spectrogram 1	1	1.354147795	1.385526889	861.9	2193.8	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	1	d
+8	Spectrogram 1	1	1.413602920	1.436724358	1096.9	2859.8	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	1	e
+9	Spectrogram 1	1	2.499321763	2.510056717	979.4	5327.8	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	2	a
+10	Spectrogram 1	1	2.517488607	2.547216170	861.9	4740.2	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	2	b
+11	Spectrogram 1	1	2.631444265	2.664474890	901.0	5092.8	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	2	b
+12	Spectrogram 1	1	2.832105314	2.859355580	901.0	2781.4	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	2	c
+13	Spectrogram 1	1	2.926242597	2.959273222	783.5	2781.4	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	2	c
+14	Spectrogram 1	1	2.998084207	3.035243661	901.0	2468.0	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	2	d
+15	Spectrogram 1	1	3.062493927	3.090569958	901.0	2585.6	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	2	e
+16	Spectrogram 1	1	4.184512132	4.196072851	1136.1	5249.5	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	3	a
+17	Spectrogram 1	1	4.204330507	4.234883836	901.0	4936.1	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	3	b
+18	Spectrogram 1	1	4.320763462	4.348013728	1175.3	5327.8	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	3	b
+19	Spectrogram 1	1	4.497477308	4.523076043	979.4	2781.4	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	3	c
+20	Spectrogram 1	1	4.590788825	4.618039091	1018.6	3173.2	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	3	c
+21	Spectrogram 1	1	4.658501607	4.686577639	822.7	2781.4	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	3	c
+22	Spectrogram 1	1	4.723737092	4.752638889	901.0	2546.4	Scytalopus_zimmeri-ML189505.wav	D:\Andean\Rhinocryptidae\Scytalopus_zimmeri-ML189505.wav	3	e

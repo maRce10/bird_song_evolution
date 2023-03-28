@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.806777865	15.515960338	2351.3	8673.7	Pseudopipra_pipra-ML166831.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Pseudopipra_pipra-ML166831.wav	1	a
+2	Spectrogram 1	1	67.309583735	68.037022391	2403.6	9196.2	Pseudopipra_pipra-ML166831.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Pseudopipra_pipra-ML166831.wav	2	a
+3	Spectrogram 1	1	142.193456063	142.939150901	2403.6	9300.7	Pseudopipra_pipra-ML166831.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Pseudopipra_pipra-ML166831.wav	3	a
+4	Spectrogram 1	1	178.201922632	178.887231636	2299.1	8882.7	Pseudopipra_pipra-ML166831.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Pseudopipra_pipra-ML166831.wav	4	a
+6	Spectrogram 1	1	218.373485415	219.136032114	2403.6	9144.0	Pseudopipra_pipra-ML166831.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Pseudopipra_pipra-ML166831.wav	5	a

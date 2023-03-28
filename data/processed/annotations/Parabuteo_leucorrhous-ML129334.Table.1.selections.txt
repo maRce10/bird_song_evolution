@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	139.257796731	139.763387415	815.8	5883.3	Parabuteo_leucorrhous-ML129334.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Parabuteo_leucorrhous-ML129334.wav	1	a
+2	Spectrogram 1	1	141.669410227	142.195292176	1038.2	5685.5	Parabuteo_leucorrhous-ML129334.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Parabuteo_leucorrhous-ML129334.wav	2	a
+3	Spectrogram 1	1	149.906491913	150.391791332	1137.1	5858.6	Parabuteo_leucorrhous-ML129334.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Parabuteo_leucorrhous-ML129334.wav	3	a

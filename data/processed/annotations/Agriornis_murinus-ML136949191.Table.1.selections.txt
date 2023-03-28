@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.078454289	3.415366668	3213.4	5251.2	Agriornis_murinus-ML136949191.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_murinus-ML136949191.wav	1	a
+2	Spectrogram 1	1	14.237104418	14.626865798	3030.6	5225.1	Agriornis_murinus-ML136949191.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_murinus-ML136949191.wav	2	b
+3	Spectrogram 1	1	24.753874197	25.051149826	3474.7	4937.7	Agriornis_murinus-ML136949191.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_murinus-ML136949191.wav	3	c

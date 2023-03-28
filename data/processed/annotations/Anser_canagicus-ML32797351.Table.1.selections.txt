@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.148279113	2.599104553	519.1	3337.2	Anser_canagicus-ML32797351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_canagicus-ML32797351.wav	1	a
+2	Spectrogram 1	1	3.231152217	4.940691285	346.1	3040.5	Anser_canagicus-ML32797351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_canagicus-ML32797351.wav	2	a
+3	Spectrogram 1	1	6.038505542	8.174161172	519.1	3114.7	Anser_canagicus-ML32797351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_canagicus-ML32797351.wav	3	a

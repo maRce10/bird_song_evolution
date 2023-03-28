@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.162222669	5.598046757	3176.700	3713.900	Bathmocercus_rufus-ML46572.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Bathmocercus_rufus-ML46572.wav	1	a
+2	Spectrogram 1	1	5.966548425	6.374026232	3246.800	3667.200	Bathmocercus_rufus-ML46572.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Bathmocercus_rufus-ML46572.wav	2	a
+3	Spectrogram 1	1	6.749275639	7.199272869	3200.100	3667.200	Bathmocercus_rufus-ML46572.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Bathmocercus_rufus-ML46572.wav	1	a

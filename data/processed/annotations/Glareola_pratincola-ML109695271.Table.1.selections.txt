@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.240840221	0.304091189	2113.6	5369.7	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	1	a
+2	Spectrogram 1	1	0.318687566	0.367342156	2285.0	5712.4	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	1	a
+3	Spectrogram 1	1	0.367342156	0.408698558	2113.6	5769.6	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	1	b
+4	Spectrogram 1	1	0.411131287	0.454920418	2170.7	5826.7	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	1	b
+5	Spectrogram 1	1	0.457353148	0.510873197	2113.6	5826.7	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	1	b
+6	Spectrogram 1	1	5.328126293	5.384079071	2227.8	6797.8	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	2	c
+7	Spectrogram 1	1	5.408406367	5.449762768	2456.3	6740.7	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	2	b
+9	Spectrogram 1	1	5.457060957	5.486253711	2570.6	7483.3	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	2	b
+10	Spectrogram 1	1	5.495984629	5.530042842	2456.3	7083.4	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	2	b
+11	Spectrogram 1	1	5.542206490	5.585995621	2342.1	7083.4	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	2	b
+14	Spectrogram 1	1	8.342275813	8.390930403	1999.4	5826.7	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	3	c
+15	Spectrogram 1	1	8.427421345	8.459046829	2570.6	6283.7	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	3	a
+16	Spectrogram 1	1	8.463912288	8.500403231	2285.0	6397.9	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	3	a
+17	Spectrogram 1	1	8.507701419	8.541759632	2227.8	6169.4	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	3	b
+18	Spectrogram 1	1	8.549057821	8.590414223	2399.2	6397.9	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	3	b
+19	Spectrogram 1	1	8.602577870	8.631770624	2056.5	6283.7	Glareola_pratincola-ML109695271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Glareola_pratincola-ML109695271.wav	3	b

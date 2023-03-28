@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.229792660	2.556492149	858.7	1329.6	Otus_icterorhynchus-ML534830.wav	D:\Andean\Strigidae\Otus_icterorhynchus-ML534830.wav	1	a
+2	Spectrogram 1	1	8.123718132	8.417080938	969.5	1329.6	Otus_icterorhynchus-ML534830.wav	D:\Andean\Strigidae\Otus_icterorhynchus-ML534830.wav	2	a
+3	Spectrogram 1	1	14.006549844	14.313247323	941.8	1329.6	Otus_icterorhynchus-ML534830.wav	D:\Andean\Strigidae\Otus_icterorhynchus-ML534830.wav	3	a

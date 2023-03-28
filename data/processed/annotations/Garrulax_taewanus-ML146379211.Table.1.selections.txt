@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.092450102	2.173764453	1405.6	2723.3	Garrulax_taewanus-ML146379211.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_taewanus-ML146379211.wav	1	a
+2	Spectrogram 1	1	2.219724739	2.428313727	1405.6	2986.9	Garrulax_taewanus-ML146379211.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_taewanus-ML146379211.wav	1	b
+3	Spectrogram 1	1	2.527305112	2.598013243	1427.5	2723.3	Garrulax_taewanus-ML146379211.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_taewanus-ML146379211.wav	1	a
+4	Spectrogram 1	1	2.661650562	2.912664429	1471.5	3426.1	Garrulax_taewanus-ML146379211.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_taewanus-ML146379211.wav	1	b
+5	Spectrogram 1	1	3.096505571	3.174284516	1405.6	2767.2	Garrulax_taewanus-ML146379211.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_taewanus-ML146379211.wav	1	a
+6	Spectrogram 1	1	3.209638582	3.450046230	1493.4	3338.2	Garrulax_taewanus-ML146379211.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_taewanus-ML146379211.wav	1	b
+7	Spectrogram 1	1	3.545502207	3.630351965	1317.7	2833.1	Garrulax_taewanus-ML146379211.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_taewanus-ML146379211.wav	1	a
+8	Spectrogram 1	1	3.655099811	3.909649085	1383.6	3579.8	Garrulax_taewanus-ML146379211.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_taewanus-ML146379211.wav	1	b
+9	Spectrogram 1	1	3.983892624	4.209789795	1317.7	3492.0	Garrulax_taewanus-ML146379211.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_taewanus-ML146379211.wav	1	c
+10	Spectrogram 1	1	4.284402183	4.584911743	1317.7	3404.1	Garrulax_taewanus-ML146379211.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_taewanus-ML146379211.wav	1	d

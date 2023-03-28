@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.561264161	6.586955958	1495.9	2354.6	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	1	a
+2	Spectrogram 1	1	6.951312354	7.002695949	1634.4	2049.9	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	1	b
+3	Spectrogram 1	1	7.161517967	7.203559090	1579.0	2022.2	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	1	b
+4	Spectrogram 1	1	7.348367401	7.397415377	1634.4	1994.5	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	1	b
+5	Spectrogram 1	1	7.532881217	7.633312787	1606.7	1994.5	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	1	b
+6	Spectrogram 1	1	7.729073122	7.859867726	1551.3	2022.2	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	1	b
+7	Spectrogram 1	1	11.809061321	11.837088736	1606.7	2326.9	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	2	a
+8	Spectrogram 1	1	12.129040976	12.164075245	1551.3	2354.6	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	2	a
+9	Spectrogram 1	1	12.329904117	12.397637037	1606.7	2022.2	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	2	b
+10	Spectrogram 1	1	12.514417933	12.584486471	1579.0	2077.6	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	2	b
+11	Spectrogram 1	1	12.701267367	12.827390735	1579.0	1994.5	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	2	b
+12	Spectrogram 1	1	12.916144216	13.046938819	1662.1	2022.2	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	2	b
+13	Spectrogram 1	1	16.027849122	16.062883391	1551.3	2493.1	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	3	a
+14	Spectrogram 1	1	16.308123273	16.352500013	1634.4	1994.5	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	3	b
+15	Spectrogram 1	1	16.504315178	16.558034390	1606.7	1966.8	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	3	b
+16	Spectrogram 1	1	16.695835848	16.779918093	1606.7	1994.5	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	3	b
+17	Spectrogram 1	1	16.894363371	17.020486739	1634.4	2022.2	Illadopsis_rufescens-ML140927.wav	D:\Andean\Pellorneidae\Illadopsis_rufescens-ML140927.wav	3	b

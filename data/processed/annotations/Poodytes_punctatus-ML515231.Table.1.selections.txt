@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.081174817	1.207831969	3176.7	4344.6	Poodytes_punctatus-ML515231.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_punctatus-ML515231.wav	1	a
+2	Spectrogram 1	1	1.204160747	1.268407128	2102.2	4928.5	Poodytes_punctatus-ML515231.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_punctatus-ML515231.wav	1	b
+3	Spectrogram 1	1	4.128839681	4.261003666	3130.0	4227.8	Poodytes_punctatus-ML515231.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_punctatus-ML515231.wav	2	a
+4	Spectrogram 1	1	4.259168055	4.325250047	2148.9	5185.5	Poodytes_punctatus-ML515231.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_punctatus-ML515231.wav	2	b
+5	Spectrogram 1	1	14.818594277	14.941580207	3176.7	4064.3	Poodytes_punctatus-ML515231.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_punctatus-ML515231.wav	3	a
+6	Spectrogram 1	1	14.939744596	15.005826588	2686.2	4881.8	Poodytes_punctatus-ML515231.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_punctatus-ML515231.wav	3	b

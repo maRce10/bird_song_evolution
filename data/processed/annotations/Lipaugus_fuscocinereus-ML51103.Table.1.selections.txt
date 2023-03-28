@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.548259956	8.924250621	1910.700	5582.574	Lipaugus_fuscocinereus-ML51103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_fuscocinereus-ML51103.wav	1	a
+2	Spectrogram 1	1	31.193082475	32.665242412	1822.900	5535.858	Lipaugus_fuscocinereus-ML51103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_fuscocinereus-ML51103.wav	2	a
+3	Spectrogram 1	1	61.824709427	63.205088820	2662.818	5605.932	Lipaugus_fuscocinereus-ML51103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_fuscocinereus-ML51103.wav	3	a

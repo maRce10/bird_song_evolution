@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.540553552	22.864253681	803.3	3185.6	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	1	a
+2	Spectrogram 1	1	23.128498685	23.452198814	858.7	3074.8	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	1	a
+3	Spectrogram 1	1	23.703231567	24.033537821	858.7	3102.5	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	1	a
+4	Spectrogram 1	1	24.277964449	24.595058453	886.4	3130.2	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	1	a
+5	Spectrogram 1	1	24.865909582	25.183003586	747.9	3102.5	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	1	a
+6	Spectrogram 1	1	26.590108228	26.874171607	858.7	2991.7	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	2	a
+7	Spectrogram 1	1	27.138416610	27.455510614	803.3	3019.4	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	2	a
+8	Spectrogram 1	1	27.752786243	28.083092497	803.3	3102.5	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	2	a
+9	Spectrogram 1	1	28.347337500	28.638007004	858.7	3102.5	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	2	a
+10	Spectrogram 1	1	28.922070383	29.252376637	831.0	3130.2	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	2	a
+11	Spectrogram 1	1	30.862055939	31.139513193	803.3	3102.5	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	3	a
+12	Spectrogram 1	1	31.423576571	31.714246075	831.0	3157.9	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	3	a
+13	Spectrogram 1	1	32.004915579	32.308797333	747.9	3130.2	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	3	a
+14	Spectrogram 1	1	32.665528087	32.982622091	803.3	3130.2	Sitta_canadensis-ML229281561.wav	D:\Andean\Sittidae\Sitta_canadensis-ML229281561.wav	3	a

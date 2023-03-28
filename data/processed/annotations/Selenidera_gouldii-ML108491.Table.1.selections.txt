@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.030775029	8.295020033	221.6	1191.1	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	1	a
+2	Spectrogram 1	1	9.279332670	9.517153173	221.6	1246.5	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	1	a
+3	Spectrogram 1	1	10.105098305	10.428798435	166.2	1329.6	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	1	a
+4	Spectrogram 1	1	11.043168067	11.360262071	249.3	1218.8	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	1	a
+5	Spectrogram 1	1	20.388333239	20.665790492	249.3	1274.2	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	2	a
+6	Spectrogram 1	1	21.220704999	21.498162253	277.0	1274.2	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	2	a
+7	Spectrogram 1	1	21.987015509	22.304109513	304.7	1301.9	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	2	a
+8	Spectrogram 1	1	22.733507643	23.090238398	277.0	1357.3	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	2	a
+9	Spectrogram 1	1	23.526242653	23.909397908	249.3	1301.9	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	2	a
+10	Spectrogram 1	1	24.285947038	24.669102293	277.0	1440.5	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	2	a
+11	Spectrogram 1	1	25.131531048	25.428806677	277.0	1468.2	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	2	a
+12	Spectrogram 1	1	25.831780307	26.195117187	304.7	1440.5	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	2	a
+13	Spectrogram 1	1	26.637727567	27.007670572	277.0	1329.6	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	2	a
+14	Spectrogram 1	1	46.513210344	46.876547224	193.9	1218.8	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	3	a
+15	Spectrogram 1	1	47.510735232	47.854253736	193.9	1301.9	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	3	a
+16	Spectrogram 1	1	48.495047869	48.805535748	221.6	1301.9	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	3	a
+17	Spectrogram 1	1	49.393480881	49.690756509	221.6	1301.9	Selenidera_gouldii-ML108491.wav	D:\Andean\Ramphastidae\Selenidera_gouldii-ML108491.wav	3	a

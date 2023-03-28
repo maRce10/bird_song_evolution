@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.161137783	33.949505430	1717.5	7340.8	Stachyris_oglei-ML204014941.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_oglei-ML204014941.wav	1	a
+2	Spectrogram 1	1	37.148136782	39.138198763	1495.9	7202.3	Stachyris_oglei-ML204014941.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_oglei-ML204014941.wav	2	b
+4	Spectrogram 1	1	55.559460275	56.488916158	1579.0	7396.2	Stachyris_oglei-ML204014941.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_oglei-ML204014941.wav	3	c

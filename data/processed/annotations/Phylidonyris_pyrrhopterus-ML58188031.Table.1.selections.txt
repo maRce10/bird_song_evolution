@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.149614285	7.232696340	2557.8	5755.0	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	1	a
+2	Spectrogram 1	1	7.306939878	7.398860449	2491.6	5181.7	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	1	b
+3	Spectrogram 1	1	7.506592973	7.609217141	3042.9	6306.3	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	1	c
+4	Spectrogram 1	1	7.679925273	7.787755174	1741.9	3969.0	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	1	d
+5	Spectrogram 1	1	9.795823836	9.893047517	1550.4	3832.9	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	2	e
+6	Spectrogram 1	1	17.322821922	17.409439383	1543.5	3770.5	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	3	e
+7	Spectrogram 1	1	17.533178614	17.625099185	1565.5	4211.5	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	3	f
+8	Spectrogram 1	1	17.803637217	17.883183865	2469.6	5203.8	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	3	a
+9	Spectrogram 1	1	17.962730513	18.052883381	2447.5	4696.6	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	3	b
+10	Spectrogram 1	1	18.173087205	18.268543183	2998.8	5049.4	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	3	c
+11	Spectrogram 1	1	18.365766864	18.475364468	1631.7	3505.9	Phylidonyris_pyrrhopterus-ML58188031.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_pyrrhopterus-ML58188031.wav	3	d

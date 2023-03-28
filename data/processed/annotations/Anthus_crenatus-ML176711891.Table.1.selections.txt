@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.717592522	3.329487042	1361.8	4111.5	Anthus_crenatus-ML176711891.wav	E:\Andean\Motacillidae\Anthus_crenatus-ML176711891.wav	1	a
+2	Spectrogram 1	1	11.024346905	12.656059801	1387.9	4268.6	Anthus_crenatus-ML176711891.wav	E:\Andean\Motacillidae\Anthus_crenatus-ML176711891.wav	2	a
+3	Spectrogram 1	1	18.519783534	20.164708679	1361.8	4268.6	Anthus_crenatus-ML176711891.wav	E:\Andean\Motacillidae\Anthus_crenatus-ML176711891.wav	3	a

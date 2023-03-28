@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	73.151635143	73.259073567	1593.7	3527.0	Contopus_cooperi-ML111061.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_cooperi-ML111061.wav	1	a
+2	Spectrogram 1	1	73.499642213	73.814950633	1802.7	4101.7	Contopus_cooperi-ML111061.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_cooperi-ML111061.wav	1	b
+3	Spectrogram 1	1	73.863998609	74.158286467	1828.8	4101.7	Contopus_cooperi-ML111061.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_cooperi-ML111061.wav	1	c
+4	Spectrogram 1	1	80.437996635	80.540763824	1619.8	3370.2	Contopus_cooperi-ML111061.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_cooperi-ML111061.wav	2	a
+5	Spectrogram 1	1	80.769654380	81.084962800	1750.4	4023.3	Contopus_cooperi-ML111061.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_cooperi-ML111061.wav	2	b
+6	Spectrogram 1	1	81.129339540	81.430634252	1881.0	4101.7	Contopus_cooperi-ML111061.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_cooperi-ML111061.wav	2	c
+7	Spectrogram 1	1	86.571858269	86.676961075	1698.2	3370.2	Contopus_cooperi-ML111061.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_cooperi-ML111061.wav	3	a
+8	Spectrogram 1	1	86.924536575	87.235173758	1776.5	4075.6	Contopus_cooperi-ML111061.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_cooperi-ML111061.wav	3	b
+9	Spectrogram 1	1	87.286557353	87.578509593	1828.8	4023.3	Contopus_cooperi-ML111061.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_cooperi-ML111061.wav	3	c

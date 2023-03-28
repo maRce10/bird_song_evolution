@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.123685908	21.380708596	2768.6	4746.2	Circus_aeruginosus-ML91777.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_aeruginosus-ML91777.wav	1	a
+2	Spectrogram 1	1	21.806825159	22.087520990	2793.3	5215.9	Circus_aeruginosus-ML91777.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_aeruginosus-ML91777.wav	2	a
+3	Spectrogram 1	1	24.207784381	24.507080538	2719.2	4993.4	Circus_aeruginosus-ML91777.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_aeruginosus-ML91777.wav	3	a

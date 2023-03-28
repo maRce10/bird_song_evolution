@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.362795812	15.930151270	346.1	1829.3	Ardea_alba-ML134193.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_alba-ML134193.wav	1	a
+2	Spectrogram 1	1	16.506555907	17.219296202	296.6	1903.4	Ardea_alba-ML134193.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_alba-ML134193.wav	2	a
+3	Spectrogram 1	1	18.350945414	19.219708459	247.2	1680.9	Ardea_alba-ML134193.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_alba-ML134193.wav	3	a

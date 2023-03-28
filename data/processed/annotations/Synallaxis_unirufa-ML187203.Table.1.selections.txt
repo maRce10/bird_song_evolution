@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	53.766966588	54.032122081	1076.5	5007.4	Synallaxis_unirufa-ML187203.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_unirufa-ML187203.wav	1	a
+2	Spectrogram 1	1	54.231748524	54.465085358	965.2	5578.4	Synallaxis_unirufa-ML187203.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_unirufa-ML187203.wav	1	b
+3	Spectrogram 1	1	59.785259510	60.078698256	1076.5	5007.4	Synallaxis_unirufa-ML187203.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_unirufa-ML187203.wav	2	a
+4	Spectrogram 1	1	60.248397772	60.481734607	1113.6	5841.9	Synallaxis_unirufa-ML187203.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_unirufa-ML187203.wav	2	b
+5	Spectrogram 1	1	65.002823075	65.278584789	1002.3	4721.9	Synallaxis_unirufa-ML187203.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_unirufa-ML187203.wav	3	a
+6	Spectrogram 1	1	65.462425931	65.716975205	1113.6	5820.0	Synallaxis_unirufa-ML187203.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_unirufa-ML187203.wav	3	b

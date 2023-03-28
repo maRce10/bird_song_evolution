@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	32.219572352	32.373622083	5526.6	8064.3	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	1	a
+2	Spectrogram 1	1	32.558481759	32.804961328	3552.8	6090.5	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	1	b
+3	Spectrogram 1	1	32.828661287	32.909241146	1409.8	8402.7	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	1	c
+4	Spectrogram 1	1	32.966121047	33.056180889	1409.8	8571.9	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	1	c
+5	Spectrogram 1	1	33.117800781	33.624979894	2481.3	9925.3	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	1	d
+7	Spectrogram 1	1	123.934560615	124.086240350	5639.4	7669.6	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	2	a
+8	Spectrogram 1	1	124.240290080	124.484399653	3609.2	6936.4	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	2	b
+9	Spectrogram 1	1	124.531799570	124.633709392	1466.2	8402.7	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	2	c
+10	Spectrogram 1	1	124.671629326	124.766429160	1409.8	8402.7	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	2	c
+11	Spectrogram 1	1	124.809089085	125.330488174	2424.9	10320.1	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	2	d
+12	Spectrogram 1	1	258.716418858	259.050588274	3778.4	7669.6	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	3	b
+13	Spectrogram 1	1	259.154868091	259.240187942	4906.3	8064.3	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	3	e
+14	Spectrogram 1	1	259.252037921	259.408457648	1804.6	4906.3	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	3	f
+15	Spectrogram 1	1	259.460597557	259.541177416	1184.3	8515.5	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	3	d
+16	Spectrogram 1	1	259.564877374	259.600427312	1297.1	8853.8	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	3	c
+17	Spectrogram 1	1	259.673897184	260.275876131	2594.1	9361.4	Leistes_bellicosus-ML13269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_bellicosus-ML13269.wav	3	d

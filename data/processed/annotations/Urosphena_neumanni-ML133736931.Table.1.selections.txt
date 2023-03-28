@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.088856797	4.373736164	3241.0	4044.3	Urosphena_neumanni-ML133736931.wav	D:\Andean\Scotocercidae\Urosphena_neumanni-ML133736931.wav	1	a
+2	Spectrogram 1	1	4.675373141	4.893222068	3407.2	4349.1	Urosphena_neumanni-ML133736931.wav	D:\Andean\Scotocercidae\Urosphena_neumanni-ML133736931.wav	1	b
+3	Spectrogram 1	1	4.993767727	5.161343826	2853.2	3739.6	Urosphena_neumanni-ML133736931.wav	D:\Andean\Scotocercidae\Urosphena_neumanni-ML133736931.wav	1	c
+4	Spectrogram 1	1	11.140525700	11.306417573	3074.8	3961.2	Urosphena_neumanni-ML133736931.wav	D:\Andean\Scotocercidae\Urosphena_neumanni-ML133736931.wav	2	a
+5	Spectrogram 1	1	11.697448418	11.892963841	3434.9	4321.4	Urosphena_neumanni-ML133736931.wav	D:\Andean\Scotocercidae\Urosphena_neumanni-ML133736931.wav	2	b
+6	Spectrogram 1	1	11.975909777	12.135876941	2825.5	3961.2	Urosphena_neumanni-ML133736931.wav	D:\Andean\Scotocercidae\Urosphena_neumanni-ML133736931.wav	2	c
+7	Spectrogram 1	1	18.640479694	18.865618666	3130.2	3988.9	Urosphena_neumanni-ML133736931.wav	D:\Andean\Scotocercidae\Urosphena_neumanni-ML133736931.wav	3	a
+8	Spectrogram 1	1	19.209251832	19.386993126	3518.0	4376.8	Urosphena_neumanni-ML133736931.wav	D:\Andean\Scotocercidae\Urosphena_neumanni-ML133736931.wav	3	b
+9	Spectrogram 1	1	19.469939062	19.635830936	2797.8	3961.2	Urosphena_neumanni-ML133736931.wav	D:\Andean\Scotocercidae\Urosphena_neumanni-ML133736931.wav	3	c

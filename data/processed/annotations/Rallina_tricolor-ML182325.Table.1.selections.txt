@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.779584626	24.908043611	415.5	2216.1	Rallina_tricolor-ML182325.wav	D:\Andean\Rallidae\Rallina_tricolor-ML182325.wav	1	a
+2	Spectrogram 1	1	25.106571135	25.223352031	387.8	2105.3	Rallina_tricolor-ML182325.wav	D:\Andean\Rallidae\Rallina_tricolor-ML182325.wav	2	a
+3	Spectrogram 1	1	25.407865847	25.548002922	470.9	2049.9	Rallina_tricolor-ML182325.wav	D:\Andean\Rallidae\Rallina_tricolor-ML182325.wav	3	a

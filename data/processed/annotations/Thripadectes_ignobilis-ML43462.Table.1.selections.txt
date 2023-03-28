@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.168640480	6.242884018	1098.1	4919.5	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	1	a
+2	Spectrogram 1	1	6.698951467	6.787336632	1076.1	5251.4	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	1	b
+3	Spectrogram 1	1	7.109058631	7.200979202	944.4	4941.5	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	1	a
+4	Spectrogram 1	1	7.430780630	7.533307421	957.4	5193.4	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	1	b
+5	Spectrogram 1	1	7.724219376	7.816139947	928.4	5135.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	1	b
+6	Spectrogram 1	1	8.007051903	8.102507880	1015.5	5135.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	1	b
+7	Spectrogram 1	1	8.293419836	8.381805000	1073.5	5106.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	1	b
+8	Spectrogram 1	1	8.572716956	8.675243747	1073.5	5164.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	1	b
+9	Spectrogram 1	1	14.825084659	14.899328198	928.4	4671.1	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	2	c
+10	Spectrogram 1	1	15.267010482	15.355395647	1073.5	4845.2	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	2	a
+11	Spectrogram 1	1	15.634692767	15.730148744	1102.5	5019.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	2	b
+12	Spectrogram 1	1	15.942273139	16.044799930	986.4	5048.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	2	b
+13	Spectrogram 1	1	16.232176479	16.331167863	1015.5	5077.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	2	b
+14	Spectrogram 1	1	16.515009006	16.614000390	1044.5	5077.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	2	b
+15	Spectrogram 1	1	16.822589378	16.907439136	1073.5	5106.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	2	b
+16	Spectrogram 1	1	17.169059223	17.215019509	1218.6	3713.7	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	2	d
+17	Spectrogram 1	1	40.154161181	40.207192280	1334.6	3945.8	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	3	e
+18	Spectrogram 1	1	40.624370256	40.709220014	1653.7	4584.1	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	3	c
+19	Spectrogram 1	1	41.006194167	41.091043925	1537.7	4845.2	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	3	a
+20	Spectrogram 1	1	41.320845353	41.419836737	1102.5	5164.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	3	b
+21	Spectrogram 1	1	41.635496539	41.738023330	928.4	5077.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	3	b
+22	Spectrogram 1	1	41.921864472	42.017320450	899.4	5135.3	Thripadectes_ignobilis-ML43462.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_ignobilis-ML43462.wav	3	b

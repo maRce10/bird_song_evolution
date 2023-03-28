@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	118.208789311	118.582605907	445.0	2051.7	Anorrhinus_austeni-ML183029.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Anorrhinus_austeni-ML183029.wav	1	a
+2	Spectrogram 1	1	130.358359625	130.634735877	395.5	1804.5	Anorrhinus_austeni-ML183029.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Anorrhinus_austeni-ML183029.wav	2	a
+3	Spectrogram 1	1	134.877730002	135.187767464	469.7	2027.0	Anorrhinus_austeni-ML183029.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Anorrhinus_austeni-ML183029.wav	3	a

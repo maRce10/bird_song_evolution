@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.464068563	7.668858440	1274.2	2410.0	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	1	a
+2	Spectrogram 1	1	8.078438195	8.276621948	1385.1	2493.1	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	1	a
+3	Spectrogram 1	1	8.362501574	8.560685327	1135.7	2326.9	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	1	b
+4	Spectrogram 1	1	8.626746577	8.818324205	1108.0	2188.4	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	1	b
+5	Spectrogram 1	1	8.884385456	9.069356958	1135.7	2216.1	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	1	b
+6	Spectrogram 1	1	9.122205959	9.326995836	1108.0	2271.5	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	1	b
+7	Spectrogram 1	1	9.366632587	9.564816339	1135.7	2216.1	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	1	b
+8	Spectrogram 1	1	9.604453090	9.802636842	1135.7	2216.1	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	1	b
+9	Spectrogram 1	1	9.862091968	9.941365469	1052.6	2077.6	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	1	c
+10	Spectrogram 1	1	14.359166261	14.570562263	1385.1	2354.6	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	2	a
+11	Spectrogram 1	1	14.973535893	15.171719646	1357.3	2437.7	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	2	a
+12	Spectrogram 1	1	15.257599272	15.468995274	1191.1	2299.2	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	2	b
+13	Spectrogram 1	1	15.508632025	15.720028028	1135.7	2216.1	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	2	b
+14	Spectrogram 1	1	15.772877028	15.971060781	1163.4	2105.3	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	2	b
+15	Spectrogram 1	1	16.017303656	16.228699659	1191.1	2216.1	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	2	b
+16	Spectrogram 1	1	16.288154785	16.459914037	1163.4	2216.1	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	2	b
+17	Spectrogram 1	1	16.512763038	16.724159040	1024.9	2105.3	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	2	b
+18	Spectrogram 1	1	20.569195848	20.787197976	1301.9	2354.6	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	3	a
+19	Spectrogram 1	1	21.170353231	21.394961484	1385.1	2548.5	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	3	a
+20	Spectrogram 1	1	21.474234985	21.679024862	1274.2	2326.9	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	3	b
+21	Spectrogram 1	1	21.725267738	21.923451490	1246.5	2216.1	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	3	b
+22	Spectrogram 1	1	21.982906616	22.181090369	1191.1	2216.1	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	3	b
+23	Spectrogram 1	1	22.233939369	22.412304746	1191.1	2299.2	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	3	b
+24	Spectrogram 1	1	22.465153747	22.650125249	1274.2	2299.2	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	3	b
+25	Spectrogram 1	1	22.702974250	22.914370253	1108.0	2243.8	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	3	b
+26	Spectrogram 1	1	22.947400878	23.152190756	1163.4	2326.9	Megastictus_margaritatus-ML31946321.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Megastictus_margaritatus-ML31946321.wav	3	b

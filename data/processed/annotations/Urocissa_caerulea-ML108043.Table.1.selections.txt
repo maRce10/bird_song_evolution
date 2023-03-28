@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.792404968	10.870183913	1251.8	3030.8	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	1	a
+2	Spectrogram 1	1	10.947962858	11.013367880	1273.8	3448.1	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	1	b
+3	Spectrogram 1	1	11.092914528	11.165390363	1317.7	3206.5	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	1	c
+4	Spectrogram 1	1	11.313877439	11.419939637	1229.9	3535.9	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	1	d
+5	Spectrogram 1	1	11.561355900	11.633831735	1383.6	3338.2	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	1	c
+6	Spectrogram 1	1	12.249666958	12.330981309	1251.8	3096.7	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	2	a
+7	Spectrogram 1	1	12.396386331	12.461791353	1076.1	3404.1	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	2	b
+8	Spectrogram 1	1	12.543105704	12.615581539	1295.8	3250.4	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	2	c
+9	Spectrogram 1	1	12.772907132	12.886040142	1251.8	3623.8	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	2	d
+10	Spectrogram 1	1	14.095406256	14.183791420	1239.3	3072.5	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	3	a
+11	Spectrogram 1	1	14.245661035	14.319904574	1291.0	3279.1	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	3	b
+12	Spectrogram 1	1	14.399451222	14.459553134	1420.1	3304.9	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	3	c
+13	Spectrogram 1	1	14.615111023	14.717637814	1394.3	3640.6	Urocissa_caerulea-ML108043.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_caerulea-ML108043.wav	3	d

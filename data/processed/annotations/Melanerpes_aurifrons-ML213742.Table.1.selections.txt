@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.328542137	5.578453254	811.8	3011.6	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	1	a
+2	Spectrogram 1	1	6.358549640	6.603789522	864.2	3037.8	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	1	a
+3	Spectrogram 1	1	7.626788145	7.862685555	811.8	3011.6	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	1	a
+4	Spectrogram 1	1	30.715239902	30.962815401	864.2	3090.1	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	2	a
+5	Spectrogram 1	1	31.619124037	31.864363919	838.0	2906.8	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	2	a
+6	Spectrogram 1	1	32.483302668	32.758905583	864.2	3194.9	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	2	a
+7	Spectrogram 1	1	33.429226411	33.662788204	864.2	3221.1	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	2	a
+8	Spectrogram 1	1	49.530317195	49.791906402	759.4	3116.3	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	3	a
+9	Spectrogram 1	1	50.579009642	50.821913905	811.8	3116.3	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	3	a
+10	Spectrogram 1	1	51.672077931	51.912646577	759.4	3037.8	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	3	a
+11	Spectrogram 1	1	53.052425597	53.302336715	890.4	3168.7	Melanerpes_aurifrons-ML213742.wav	D:\Andean\Picidae\Melanerpes_aurifrons-ML213742.wav	3	a

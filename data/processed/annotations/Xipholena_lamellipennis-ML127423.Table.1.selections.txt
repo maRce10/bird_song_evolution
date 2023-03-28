@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.493281097	5.553856256	522.500	1635.064	Xipholena_lamellipennis-ML127423.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Xipholena_lamellipennis-ML127423.wav	1	a
+2	Spectrogram 1	1	9.322837122	9.372398617	794.174	1658.422	Xipholena_lamellipennis-ML127423.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Xipholena_lamellipennis-ML127423.wav	2	a
+3	Spectrogram 1	1	12.901565140	12.952962246	783.800	1611.706	Xipholena_lamellipennis-ML127423.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Xipholena_lamellipennis-ML127423.wav	3	a

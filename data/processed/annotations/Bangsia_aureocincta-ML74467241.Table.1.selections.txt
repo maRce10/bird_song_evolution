@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.565399403	1.844513756	6451.000	10159.000	Bangsia_aureocincta-ML74467241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Bangsia_aureocincta-ML74467241.wav	1	a
+2	Spectrogram 1	1	10.393964519	10.633655941	7226.700	10193.100	Bangsia_aureocincta-ML74467241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Bangsia_aureocincta-ML74467241.wav	2	a
+3	Spectrogram 1	1	24.759301718	25.038416071	6732.300	10489.700	Bangsia_aureocincta-ML74467241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Bangsia_aureocincta-ML74467241.wav	3	a
+4	Spectrogram 1	1	35.208569881	35.473491979	6386.200	10415.500	Bangsia_aureocincta-ML74467241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Bangsia_aureocincta-ML74467241.wav	4	a
+5	Spectrogram 1	1	51.118980460	51.390210227	7177.200	10465.000	Bangsia_aureocincta-ML74467241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Bangsia_aureocincta-ML74467241.wav	5	a

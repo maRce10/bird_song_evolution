@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.223988201	2.560900580	1802.7	3762.1	Onychognathus_walleri-ML212692.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_walleri-ML212692.wav	1	a
+2	Spectrogram 1	1	2.851570084	3.201694713	2142.3	3553.1	Onychognathus_walleri-ML212692.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_walleri-ML212692.wav	1	a
+3	Spectrogram 1	1	5.553671133	5.789568543	1593.7	3866.6	Onychognathus_walleri-ML212692.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_walleri-ML212692.wav	2	b
+4	Spectrogram 1	1	7.452528503	7.732802654	1306.3	3344.1	Onychognathus_walleri-ML212692.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_walleri-ML212692.wav	3	b

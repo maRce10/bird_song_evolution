@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.902564024	2.384811155	2795.4	3187.3	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	1	a
+2	Spectrogram 1	1	2.378205030	2.682086784	1802.7	2194.5	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	1	b
+3	Spectrogram 1	1	4.776228435	4.934775437	5486.4	5799.9	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	1	c
+4	Spectrogram 1	1	4.908350937	5.747328822	1881.0	3683.7	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	1	d
+5	Spectrogram 1	1	15.459254889	15.934895895	2821.6	3161.2	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	2	a
+6	Spectrogram 1	1	15.934895895	16.172716398	1802.7	2168.4	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	2	b
+7	Spectrogram 1	1	18.511284678	18.676437805	5538.6	5878.3	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	2	c
+8	Spectrogram 1	1	18.656619430	19.449354440	2011.7	3657.6	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	2	d
+9	Spectrogram 1	1	33.814236592	34.289877598	2795.4	3135.1	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	3	a
+10	Spectrogram 1	1	34.276665348	34.547516477	1802.7	2168.4	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	3	b
+11	Spectrogram 1	1	36.621839753	36.780386755	5460.2	5826.0	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	3	c
+12	Spectrogram 1	1	36.767174504	37.612758515	1933.3	3657.6	Myadestes_coloratus-ML68679551.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_coloratus-ML68679551.wav	3	d

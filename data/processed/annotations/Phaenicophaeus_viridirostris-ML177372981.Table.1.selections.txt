@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.579816441	6.753051363	834.600	1778.900	Phaenicophaeus_viridirostris-ML177372981.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Phaenicophaeus_viridirostris-ML177372981.wav	1	a
+2	Spectrogram 1	1	10.786948060	10.969021499	724.800	1735.000	Phaenicophaeus_viridirostris-ML177372981.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Phaenicophaeus_viridirostris-ML177372981.wav	2	a
+3	Spectrogram 1	1	14.214961648	14.365216428	702.800	1691.100	Phaenicophaeus_viridirostris-ML177372981.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Phaenicophaeus_viridirostris-ML177372981.wav	3	a

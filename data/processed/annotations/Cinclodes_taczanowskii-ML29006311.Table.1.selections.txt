@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	88.395044848	88.450143877	2216.1	4543.0	Cinclodes_taczanowskii-ML29006311.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_taczanowskii-ML29006311.wav	1	a
+2	Spectrogram 1	1	88.780131993	88.830130192	2188.4	4570.7	Cinclodes_taczanowskii-ML29006311.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_taczanowskii-ML29006311.wav	2	a
+3	Spectrogram 1	1	89.140119028	89.187617317	2188.4	4570.7	Cinclodes_taczanowskii-ML29006311.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_taczanowskii-ML29006311.wav	3	a

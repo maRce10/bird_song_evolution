@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.226881479	8.266586983	1515.3	3657.6	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	1	a
+2	Spectrogram 1	1	8.780422926	8.817792813	1645.9	3579.2	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	1	a
+3	Spectrogram 1	1	9.182149209	9.305936959	2011.7	4493.6	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	1	b
+4	Spectrogram 1	1	9.448409652	9.518478189	2325.2	3108.9	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	1	c
+5	Spectrogram 1	1	9.597889199	10.043992222	1802.7	2847.7	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	1	d
+6	Spectrogram 1	1	10.111725142	10.198143005	1802.7	2403.6	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	1	e
+7	Spectrogram 1	1	10.265875924	11.027287367	1672.0	2560.3	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	1	f
+8	Spectrogram 1	1	14.869767626	14.902466277	1959.4	3762.1	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	2	a
+9	Spectrogram 1	1	15.406959748	15.439658399	1776.5	3736.0	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	2	a
+10	Spectrogram 1	1	15.752631201	15.874083333	1907.2	4572.0	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	2	b
+11	Spectrogram 1	1	15.997871082	16.072610856	2351.3	3108.9	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	2	c
+12	Spectrogram 1	1	16.154357483	16.567761855	1750.4	2899.9	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	2	d
+13	Spectrogram 1	1	25.658822347	25.703199087	1384.7	3892.7	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	3	a
+14	Spectrogram 1	1	26.927062878	26.969104001	1672.0	3736.0	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	3	a
+15	Spectrogram 1	1	27.234577645	27.379912397	1881.0	4598.1	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	3	b
+16	Spectrogram 1	1	27.505428774	27.578096150	2351.3	3056.7	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	3	c
+17	Spectrogram 1	1	27.657369651	28.070252468	1802.7	2899.9	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	3	d
+18	Spectrogram 1	1	28.175950470	28.278345408	1802.7	2455.8	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	3	e
+19	Spectrogram 1	1	28.331194409	29.100807981	1698.2	2638.7	Psittiparus_bakeri-ML113561.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_bakeri-ML113561.wav	3	f

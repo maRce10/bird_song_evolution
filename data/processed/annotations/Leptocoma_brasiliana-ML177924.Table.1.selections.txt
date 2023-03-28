@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.892515389	4.935455202	2493.1	5429.4	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	1	a
+2	Spectrogram 1	1	5.004819516	5.047759329	2687.0	5318.6	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	1	a
+3	Spectrogram 1	1	5.457339084	5.566340148	5457.1	7645.5	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	1	b
+4	Spectrogram 1	1	5.966010715	5.995738278	2687.0	5429.4	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	2	a
+5	Spectrogram 1	1	6.108042405	6.144376093	2770.1	5429.4	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	2	a
+6	Spectrogram 1	1	6.491197659	6.596895661	5401.7	7756.3	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	2	b
+7	Spectrogram 1	1	7.022990729	7.098961167	4792.3	7451.6	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	2	c
+8	Spectrogram 1	1	7.151810168	7.231083669	4598.4	7534.7	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	2	c
+9	Spectrogram 1	1	7.620845140	7.650572703	2603.9	5429.4	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	3	a
+10	Spectrogram 1	1	7.749664579	7.792604393	2631.6	5429.4	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	3	a
+11	Spectrogram 1	1	8.159244335	8.264942336	5512.5	7700.9	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	3	b
+12	Spectrogram 1	1	8.667915966	8.750492530	4930.8	7451.6	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	3	c
+13	Spectrogram 1	1	8.826462968	8.902433406	4958.5	7562.4	Leptocoma_brasiliana-ML177924.wav	E:\Andean\Nectariniidae\Leptocoma_brasiliana-ML177924.wav	3	c

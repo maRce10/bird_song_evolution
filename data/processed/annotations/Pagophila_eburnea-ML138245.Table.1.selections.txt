@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	55.957663823	56.413731272	1098.1	3338.2	Pagophila_eburnea-ML138245.wav	E:\Escritorio\Cantos\Laridae\Pagophila_eburnea-ML138245.wav	1	a
+2	Spectrogram 1	1	58.445866830	58.834761554	1186.0	3492.0	Pagophila_eburnea-ML138245.wav	E:\Escritorio\Cantos\Laridae\Pagophila_eburnea-ML138245.wav	2	a
+3	Spectrogram 1	1	72.294119957	72.771399845	1186.0	3535.9	Pagophila_eburnea-ML138245.wav	E:\Escritorio\Cantos\Laridae\Pagophila_eburnea-ML138245.wav	3	a

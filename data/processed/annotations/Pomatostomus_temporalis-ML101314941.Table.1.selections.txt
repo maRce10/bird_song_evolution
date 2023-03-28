@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.442676003	1.860751611	526.3	1772.9	Pomatostomus_temporalis-ML101314941.wav	D:\Andean\Pomatostomidae\Pomatostomus_temporalis-ML101314941.wav	1	a
+2	Spectrogram 1	1	2.229779242	2.664204176	415.5	1800.6	Pomatostomus_temporalis-ML101314941.wav	D:\Andean\Pomatostomidae\Pomatostomus_temporalis-ML101314941.wav	2	a
+3	Spectrogram 1	1	3.016882482	3.446636180	415.5	1800.6	Pomatostomus_temporalis-ML101314941.wav	D:\Andean\Pomatostomidae\Pomatostomus_temporalis-ML101314941.wav	3	a

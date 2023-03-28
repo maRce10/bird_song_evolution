@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.604763844	5.661456408	741.6	2842.8	Burhinus_superciliaris-ML168677.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_superciliaris-ML168677.wav	1	a
+2	Spectrogram 1	1	5.806731104	5.870510239	815.8	3065.2	Burhinus_superciliaris-ML168677.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_superciliaris-ML168677.wav	1	a
+3	Spectrogram 1	1	6.568537438	6.632316573	716.9	2892.2	Burhinus_superciliaris-ML168677.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_superciliaris-ML168677.wav	2	a
+4	Spectrogram 1	1	6.756331557	6.816567407	791.0	3114.7	Burhinus_superciliaris-ML168677.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_superciliaris-ML168677.wav	2	a
+5	Spectrogram 1	1	7.407243778	7.463936343	766.3	2916.9	Burhinus_superciliaris-ML168677.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_superciliaris-ML168677.wav	3	a
+6	Spectrogram 1	1	7.600352826	7.660588675	741.6	3114.7	Burhinus_superciliaris-ML168677.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_superciliaris-ML168677.wav	3	a

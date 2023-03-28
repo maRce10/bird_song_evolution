@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	28.675179043	28.852686005	803.3	2216.1	Odontophorus_speciosus-ML13864.wav	E:\Andean\Odontophoridae\Odontophorus_speciosus-ML13864.wav	1	a
+2	Spectrogram 1	1	28.862028477	28.918083307	858.7	1468.2	Odontophorus_speciosus-ML13864.wav	E:\Andean\Odontophoridae\Odontophorus_speciosus-ML13864.wav	1	b
+3	Spectrogram 1	1	29.189014986	29.361850712	886.4	1856.0	Odontophorus_speciosus-ML13864.wav	E:\Andean\Odontophoridae\Odontophorus_speciosus-ML13864.wav	2	a
+4	Spectrogram 1	1	29.378200038	29.434254868	747.9	1551.3	Odontophorus_speciosus-ML13864.wav	E:\Andean\Odontophoridae\Odontophorus_speciosus-ML13864.wav	2	b
+5	Spectrogram 1	1	29.709857783	29.885029127	803.3	1856.0	Odontophorus_speciosus-ML13864.wav	E:\Andean\Odontophoridae\Odontophorus_speciosus-ML13864.wav	3	a
+6	Spectrogram 1	1	29.901378452	29.952762046	775.6	1495.9	Odontophorus_speciosus-ML13864.wav	E:\Andean\Odontophoridae\Odontophorus_speciosus-ML13864.wav	3	b

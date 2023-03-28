@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.815083818	25.839831664	336.4	6832.4	Asthenes_berlepschi-ML75716111.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_berlepschi-ML75716111.wav	1	a
+2	Spectrogram 1	1	26.202280896	26.230564149	1207.9	6720.4	Asthenes_berlepschi-ML75716111.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_berlepschi-ML75716111.wav	2	a
+3	Spectrogram 1	1	27.142699047	27.167446893	1190.5	6852.2	Asthenes_berlepschi-ML75716111.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_berlepschi-ML75716111.wav	3	a

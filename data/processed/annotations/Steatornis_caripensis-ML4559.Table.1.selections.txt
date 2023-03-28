@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.650862907	19.293712303	783.5	11204.1	Steatornis_caripensis-ML4559.wav	D:\Andean\Steatornithidae\Steatornis_caripensis-ML4559.wav	1	a
+2	Spectrogram 1	1	19.376660612	19.687716771	626.8	11125.7	Steatornis_caripensis-ML4559.wav	D:\Andean\Steatornithidae\Steatornis_caripensis-ML4559.wav	1	b
+3	Spectrogram 1	1	19.884719005	20.361671782	470.1	11047.4	Steatornis_caripensis-ML4559.wav	D:\Andean\Steatornithidae\Steatornis_caripensis-ML4559.wav	1	b
+4	Spectrogram 1	1	21.595527880	21.948058193	626.8	11204.1	Steatornis_caripensis-ML4559.wav	D:\Andean\Steatornithidae\Steatornis_caripensis-ML4559.wav	2	b
+5	Spectrogram 1	1	21.989532348	22.238377275	548.5	10734.0	Steatornis_caripensis-ML4559.wav	D:\Andean\Steatornithidae\Steatornis_caripensis-ML4559.wav	2	c
+6	Spectrogram 1	1	22.777541284	23.140440137	626.8	9637.1	Steatornis_caripensis-ML4559.wav	D:\Andean\Steatornithidae\Steatornis_caripensis-ML4559.wav	3	d
+7	Spectrogram 1	1	23.192282830	23.503338989	548.5	9715.4	Steatornis_caripensis-ML4559.wav	D:\Andean\Steatornithidae\Steatornis_caripensis-ML4559.wav	3	d
+8	Spectrogram 1	1	23.586287298	23.866237841	783.5	9402.0	Steatornis_caripensis-ML4559.wav	D:\Andean\Steatornithidae\Steatornis_caripensis-ML4559.wav	3	d
+9	Spectrogram 1	1	23.969923227	24.239505232	940.2	9088.6	Steatornis_caripensis-ML4559.wav	D:\Andean\Steatornithidae\Steatornis_caripensis-ML4559.wav	3	d

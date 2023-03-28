@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.753759556	6.826163711	526.3	2105.3	Tragopan_caboti-ML189800.wav	D:\Andean\Phasianidae\Tragopan_caboti-ML189800.wav	1	a
+2	Spectrogram 1	1	6.959293933	7.076074829	332.4	2493.1	Tragopan_caboti-ML189800.wav	D:\Andean\Phasianidae\Tragopan_caboti-ML189800.wav	2	a
+3	Spectrogram 1	1	7.181177636	7.304965385	277.0	2548.5	Tragopan_caboti-ML189800.wav	D:\Andean\Phasianidae\Tragopan_caboti-ML189800.wav	3	a

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.411765796	14.454190675	1186.0	3777.5	Synallaxis_courseni-ML72274101.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_courseni-ML72274101.wav	1	a
+2	Spectrogram 1	1	14.676921290	14.802428223	900.4	4019.1	Synallaxis_courseni-ML72274101.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_courseni-ML72274101.wav	1	b
+3	Spectrogram 1	1	16.053460960	16.090582730	1317.7	3931.2	Synallaxis_courseni-ML72274101.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_courseni-ML72274101.wav	2	a
+4	Spectrogram 1	1	16.320384157	16.438820278	1229.9	3975.1	Synallaxis_courseni-ML72274101.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_courseni-ML72274101.wav	2	b
+5	Spectrogram 1	1	17.679487133	17.718376606	1449.5	4063.0	Synallaxis_courseni-ML72274101.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_courseni-ML72274101.wav	3	a
+6	Spectrogram 1	1	17.944642627	18.068381857	988.3	3974.8	Synallaxis_courseni-ML72274101.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_courseni-ML72274101.wav	3	b

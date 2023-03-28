@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	215.231996030	215.598635972	3324.1	4487.6	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	1	a
+2	Spectrogram 1	1	215.687818660	215.952063664	3407.2	5124.7	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	1	b
+3	Spectrogram 1	1	216.047783465	216.295358964	3462.6	5429.4	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	1	c
+4	Spectrogram 1	1	216.398126153	216.634023563	2936.3	5429.4	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	1	d
+5	Spectrogram 1	1	216.704092101	216.989037487	2493.1	3379.5	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	1	e
+6	Spectrogram 1	1	217.063777261	217.278654110	2382.3	3102.5	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	1	f
+7	Spectrogram 1	1	217.353393883	217.582284439	2437.7	3102.5	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	1	f
+8	Spectrogram 1	1	217.666366685	217.897592859	2382.3	3047.1	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	1	f
+9	Spectrogram 1	1	218.000360047	218.201223189	2465.4	3047.1	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	1	f
+11	Spectrogram 1	1	225.784727466	226.233166107	2659.3	3711.9	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	2	g
+12	Spectrogram 1	1	226.317248352	226.532125200	2631.6	4099.7	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	2	h
+13	Spectrogram 1	1	226.597522502	226.817070587	2631.6	3961.2	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	2	i
+14	Spectrogram 1	1	226.896344483	227.120952736	2493.1	3988.9	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	2	j
+15	Spectrogram 1	1	227.208483893	227.400061520	2631.6	3628.8	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	2	k
+16	Spectrogram 1	1	235.216171356	235.557171572	3656.5	4958.5	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	3	l
+17	Spectrogram 1	1	235.629575728	235.851459430	3711.9	4875.4	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	3	m
+18	Spectrogram 1	1	235.921527968	236.056993807	3711.9	5013.9	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	3	n
+19	Spectrogram 1	1	236.103706166	236.183117175	3518.0	4293.7	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	3	o
+20	Spectrogram 1	1	236.225158298	236.313911779	2936.3	3988.9	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	3	p
+21	Spectrogram 1	1	236.365295373	236.657247613	2548.5	3351.8	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	3	e
+22	Spectrogram 1	1	236.720309297	236.932850528	2576.2	3213.3	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	3	q
+23	Spectrogram 1	1	237.012261537	237.238816476	2520.8	3351.8	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	3	r
+24	Spectrogram 1	1	237.334576811	237.577481075	2520.8	3102.5	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	3	s
+25	Spectrogram 1	1	237.687255117	237.920816909	2465.4	3074.8	Pachyramphus_cinnamomeus-ML184774.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_cinnamomeus-ML184774.wav	3	t

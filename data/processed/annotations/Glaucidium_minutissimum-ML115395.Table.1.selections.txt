@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.454084496	8.787451321	1123.4	1567.5	Glaucidium_minutissimum-ML115395.wav	D:\Andean\Strigidae\Glaucidium_minutissimum-ML115395.wav	1	a
+2	Spectrogram 1	1	8.994138753	9.274166886	1045.0	1567.5	Glaucidium_minutissimum-ML115395.wav	D:\Andean\Strigidae\Glaucidium_minutissimum-ML115395.wav	1	a
+3	Spectrogram 1	1	16.474792119	16.781489598	1045.0	1567.5	Glaucidium_minutissimum-ML115395.wav	D:\Andean\Strigidae\Glaucidium_minutissimum-ML115395.wav	2	a
+4	Spectrogram 1	1	17.008179039	17.281539836	1018.9	1593.7	Glaucidium_minutissimum-ML115395.wav	D:\Andean\Strigidae\Glaucidium_minutissimum-ML115395.wav	2	a
+5	Spectrogram 1	1	22.908217458	23.221582274	1071.1	1567.5	Glaucidium_minutissimum-ML115395.wav	D:\Andean\Strigidae\Glaucidium_minutissimum-ML115395.wav	3	a
+6	Spectrogram 1	1	23.441604379	23.728299849	1071.1	1567.5	Glaucidium_minutissimum-ML115395.wav	D:\Andean\Strigidae\Glaucidium_minutissimum-ML115395.wav	3	a

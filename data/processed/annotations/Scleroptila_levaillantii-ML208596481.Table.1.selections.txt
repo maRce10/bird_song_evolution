@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.726907006	3.017691437	941.8	5013.9	Scleroptila_levaillantii-ML208596481.wav	D:\Andean\Phasianidae\Scleroptila_levaillantii-ML208596481.wav	1	a
+2	Spectrogram 1	1	3.265266937	3.619113052	1301.9	4626.1	Scleroptila_levaillantii-ML208596481.wav	D:\Andean\Phasianidae\Scleroptila_levaillantii-ML208596481.wav	2	a
+3	Spectrogram 1	1	3.916335597	4.311051571	914.1	4681.5	Scleroptila_levaillantii-ML208596481.wav	D:\Andean\Phasianidae\Scleroptila_levaillantii-ML208596481.wav	3	a

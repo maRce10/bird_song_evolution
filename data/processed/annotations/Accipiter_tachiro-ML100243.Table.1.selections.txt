@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.642151202	7.664133405	1211.3	4869.8	Accipiter_tachiro-ML100243.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_tachiro-ML100243.wav	1	a
+2	Spectrogram 1	1	8.639805059	8.665169140	1334.9	4943.9	Accipiter_tachiro-ML100243.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_tachiro-ML100243.wav	2	a
+3	Spectrogram 1	1	9.805063422	9.832118442	1285.4	5141.7	Accipiter_tachiro-ML100243.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_tachiro-ML100243.wav	3	a

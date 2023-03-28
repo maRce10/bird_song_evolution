@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.077480108	13.344173568	1175.7	1776.5	Glaucidium_sanchezi-ML216568.wav	D:\Andean\Strigidae\Glaucidium_sanchezi-ML216568.wav	1	a
+2	Spectrogram 1	1	13.684207730	13.984237873	1149.5	1672.0	Glaucidium_sanchezi-ML216568.wav	D:\Andean\Strigidae\Glaucidium_sanchezi-ML216568.wav	1	a
+3	Spectrogram 1	1	14.250931333	14.577630822	1149.5	1645.9	Glaucidium_sanchezi-ML216568.wav	D:\Andean\Strigidae\Glaucidium_sanchezi-ML216568.wav	1	a
+4	Spectrogram 1	1	17.471254866	17.764617672	1149.5	1698.2	Glaucidium_sanchezi-ML216568.wav	D:\Andean\Strigidae\Glaucidium_sanchezi-ML216568.wav	2	a
+5	Spectrogram 1	1	18.084649824	18.364677957	1175.7	1698.2	Glaucidium_sanchezi-ML216568.wav	D:\Andean\Strigidae\Glaucidium_sanchezi-ML216568.wav	2	a
+6	Spectrogram 1	1	18.658040764	18.971405579	1097.3	1593.7	Glaucidium_sanchezi-ML216568.wav	D:\Andean\Strigidae\Glaucidium_sanchezi-ML216568.wav	2	a
+7	Spectrogram 1	1	22.869680451	23.169710594	1201.8	1750.4	Glaucidium_sanchezi-ML216568.wav	D:\Andean\Strigidae\Glaucidium_sanchezi-ML216568.wav	3	a
+8	Spectrogram 1	1	23.476408073	23.783105552	1097.3	1672.0	Glaucidium_sanchezi-ML216568.wav	D:\Andean\Strigidae\Glaucidium_sanchezi-ML216568.wav	3	a
+9	Spectrogram 1	1	24.063133685	24.409835184	1149.5	1645.9	Glaucidium_sanchezi-ML216568.wav	D:\Andean\Strigidae\Glaucidium_sanchezi-ML216568.wav	3	a

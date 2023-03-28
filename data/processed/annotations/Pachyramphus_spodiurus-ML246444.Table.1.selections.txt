@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.645303816	0.920902321	1880.4	3525.8	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	a
+2	Spectrogram 1	1	0.954511895	1.129281679	2487.6	3800.0	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	b
+3	Spectrogram 1	1	1.156169338	1.297329548	2487.6	3839.2	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	c
+4	Spectrogram 1	1	1.345130541	1.478217663	2487.6	3839.2	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	c
+5	Spectrogram 1	1	1.506736332	1.635070343	2526.8	3956.7	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	d
+6	Spectrogram 1	1	1.654082789	1.763404353	2487.6	3995.9	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	d
+7	Spectrogram 1	1	1.787169911	1.860843139	2820.6	3839.2	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	e
+8	Spectrogram 1	1	1.889361808	1.944022590	2840.2	3839.2	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	f
+9	Spectrogram 1	1	1.974917815	2.029578597	2840.2	3760.8	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	g
+10	Spectrogram 1	1	2.060473822	2.098498714	2957.7	4015.5	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	h
+11	Spectrogram 1	1	2.124640828	2.165042275	3349.5	3995.9	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	i
+12	Spectrogram 1	1	2.198314056	2.229209281	1664.9	4054.6	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	1	j
+13	Spectrogram 1	1	5.363098585	5.658862835	1625.8	3584.5	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	k
+14	Spectrogram 1	1	5.685750494	5.873964107	2272.2	3721.6	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	l
+15	Spectrogram 1	1	5.900851766	6.035290061	2389.7	3800.0	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	m
+16	Spectrogram 1	1	6.075621549	6.223503674	2448.4	3917.5	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	n
+17	Spectrogram 1	1	6.263835162	6.378107713	2448.4	3937.1	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	n
+18	Spectrogram 1	1	6.404995372	6.512546008	2546.4	4074.2	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	o
+19	Spectrogram 1	1	6.556250457	6.610911240	2899.0	3995.9	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	p
+20	Spectrogram 1	1	6.648936132	6.713103137	2899.0	4054.6	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	q
+21	Spectrogram 1	1	6.743998362	6.793906033	2761.8	4074.2	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	r
+22	Spectrogram 1	1	6.822424702	6.867579261	3349.5	4015.5	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	s
+23	Spectrogram 1	1	6.898474486	6.938875934	3447.4	4172.2	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	t
+24	Spectrogram 1	1	6.974524270	7.003042939	3525.8	4054.6	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	u
+25	Spectrogram 1	1	7.060080277	7.098105169	3447.4	4015.5	Pachyramphus_spodiurus-ML246444.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_spodiurus-ML246444.wav	2	v

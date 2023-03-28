@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	133.932452929	134.104212182	1218.8	2326.9	Criniger_barbatus-ML86960.wav	D:\Andean\Pycnonotidae\Criniger_barbatus-ML86960.wav	1	a
+2	Spectrogram 1	1	134.414700061	134.857310441	1274.2	1689.8	Criniger_barbatus-ML86960.wav	D:\Andean\Pycnonotidae\Criniger_barbatus-ML86960.wav	1	b
+3	Spectrogram 1	1	134.923371692	135.537741325	1357.3	2216.1	Criniger_barbatus-ML86960.wav	D:\Andean\Pycnonotidae\Criniger_barbatus-ML86960.wav	1	c
+4	Spectrogram 1	1	139.884571629	140.056330882	1274.2	2465.4	Criniger_barbatus-ML86960.wav	D:\Andean\Pycnonotidae\Criniger_barbatus-ML86960.wav	2	a
+5	Spectrogram 1	1	140.333788135	140.829247516	1274.2	1745.2	Criniger_barbatus-ML86960.wav	D:\Andean\Pycnonotidae\Criniger_barbatus-ML86960.wav	2	b
+6	Spectrogram 1	1	141.014219019	141.509678400	1357.3	2216.1	Criniger_barbatus-ML86960.wav	D:\Andean\Pycnonotidae\Criniger_barbatus-ML86960.wav	2	c
+7	Spectrogram 1	1	145.890395369	146.088579121	1301.9	2437.7	Criniger_barbatus-ML86960.wav	D:\Andean\Pycnonotidae\Criniger_barbatus-ML86960.wav	3	a
+8	Spectrogram 1	1	146.392460875	146.861495756	1301.9	1772.9	Criniger_barbatus-ML86960.wav	D:\Andean\Pycnonotidae\Criniger_barbatus-ML86960.wav	3	b
+9	Spectrogram 1	1	147.046467258	147.535320514	1357.3	2216.1	Criniger_barbatus-ML86960.wav	D:\Andean\Pycnonotidae\Criniger_barbatus-ML86960.wav	3	c

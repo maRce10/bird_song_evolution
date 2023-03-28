@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.549249972	5.675779656	1052.6	5152.4	Todus_todus-ML164712.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_todus-ML164712.wav	1	a
+2	Spectrogram 1	1	6.186417307	6.303909156	997.2	5097.0	Todus_todus-ML164712.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_todus-ML164712.wav	2	a
+3	Spectrogram 1	1	6.981746745	7.103757512	775.6	4764.6	Todus_todus-ML164712.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_todus-ML164712.wav	3	b

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.259996607	19.291375702	1745.2	8254.9	Picumnus_temminckii-ML127319.wav	D:\Andean\Picidae\Picumnus_temminckii-ML127319.wav	1	a
+2	Spectrogram 1	1	19.319451733	19.349179296	1828.3	7839.4	Picumnus_temminckii-ML127319.wav	D:\Andean\Picidae\Picumnus_temminckii-ML127319.wav	1	a
+3	Spectrogram 1	1	23.113225176	23.146255802	1800.6	8088.7	Picumnus_temminckii-ML127319.wav	D:\Andean\Picidae\Picumnus_temminckii-ML127319.wav	2	a
+4	Spectrogram 1	1	23.162771114	23.189195615	1883.7	8005.6	Picumnus_temminckii-ML127319.wav	D:\Andean\Picidae\Picumnus_temminckii-ML127319.wav	2	a
+5	Spectrogram 1	1	32.021891951	32.046664920	1495.9	8338.0	Picumnus_temminckii-ML127319.wav	D:\Andean\Picidae\Picumnus_temminckii-ML127319.wav	3	a
+6	Spectrogram 1	1	32.071437889	32.096210858	1606.7	7950.2	Picumnus_temminckii-ML127319.wav	D:\Andean\Picidae\Picumnus_temminckii-ML127319.wav	3	a

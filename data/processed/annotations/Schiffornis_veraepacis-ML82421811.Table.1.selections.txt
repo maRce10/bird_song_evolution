@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.315533800	7.306452562	2326.9	3767.3	Schiffornis_veraepacis-ML82421811.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_veraepacis-ML82421811.wav	1	a
+2	Spectrogram 1	1	7.484817940	7.676395567	2770.1	3351.8	Schiffornis_veraepacis-ML82421811.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_veraepacis-ML82421811.wav	1	b
+3	Spectrogram 1	1	17.115675916	18.106594678	2410.0	3711.9	Schiffornis_veraepacis-ML82421811.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_veraepacis-ML82421811.wav	2	a
+4	Spectrogram 1	1	18.311384556	18.489749933	2936.3	3407.2	Schiffornis_veraepacis-ML82421811.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_veraepacis-ML82421811.wav	2	c
+5	Spectrogram 1	1	27.698923788	28.068866793	2437.7	2964.0	Schiffornis_veraepacis-ML82421811.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_veraepacis-ML82421811.wav	3	d
+6	Spectrogram 1	1	28.096400005	28.334220508	2853.2	3241.0	Schiffornis_veraepacis-ML82421811.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_veraepacis-ML82421811.wav	3	e
+7	Spectrogram 1	1	28.393675634	28.557720946	2687.0	3241.0	Schiffornis_veraepacis-ML82421811.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_veraepacis-ML82421811.wav	3	f
+8	Spectrogram 1	1	28.574070271	28.681508696	2631.6	3767.3	Schiffornis_veraepacis-ML82421811.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_veraepacis-ML82421811.wav	3	g
+9	Spectrogram 1	1	28.917406106	29.064550035	2908.6	3324.1	Schiffornis_veraepacis-ML82421811.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_veraepacis-ML82421811.wav	3	h

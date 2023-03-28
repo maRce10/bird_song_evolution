@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.401265099	5.936361231	2326.9	4321.4	Stelgidillas_gracilirostris-ML537183.wav	D:\Andean\Pycnonotidae\Stelgidillas_gracilirostris-ML537183.wav	1	a
+2	Spectrogram 1	1	15.051784315	15.547243696	2326.9	4238.3	Stelgidillas_gracilirostris-ML537183.wav	D:\Andean\Pycnonotidae\Stelgidillas_gracilirostris-ML537183.wav	2	a
+3	Spectrogram 1	1	17.707446598	18.176481479	2299.2	4238.3	Stelgidillas_gracilirostris-ML537183.wav	D:\Andean\Pycnonotidae\Stelgidillas_gracilirostris-ML537183.wav	3	a

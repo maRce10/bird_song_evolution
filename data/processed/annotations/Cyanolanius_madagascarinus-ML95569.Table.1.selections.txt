@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	52.871551279	53.115623352	822.7	6973.2	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	1	a
+2	Spectrogram 1	1	53.123798014	53.241746719	430.9	6659.8	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	1	b
+3	Spectrogram 1	1	53.249921382	53.357359807	587.6	6463.9	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	1	c
+4	Spectrogram 1	1	53.393561884	53.483483174	626.8	6503.1	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	1	d
+5	Spectrogram 1	1	53.524356488	53.611942160	626.8	6581.4	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	1	d
+6	Spectrogram 1	1	55.939941224	56.070735828	587.6	7208.2	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	2	e
+7	Spectrogram 1	1	56.084749535	56.212040712	587.6	7286.6	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	2	e
+8	Spectrogram 1	1	56.220215375	56.320646945	626.8	7443.3	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	2	f
+9	Spectrogram 1	1	56.356849023	56.445602504	587.6	7639.2	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	2	g
+10	Spectrogram 1	1	56.487643627	56.572893681	587.6	7795.9	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	2	g
+11	Spectrogram 1	1	56.613766995	56.712784724	470.1	8148.4	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	2	h
+12	Spectrogram 1	1	56.751568452	56.839154124	626.8	8148.4	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	2	g
+13	Spectrogram 1	1	60.256292767	60.509707311	747.8	7365.9	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	3	a
+14	Spectrogram 1	1	60.536566917	60.638166297	673.0	7440.6	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	3	b
+15	Spectrogram 1	1	60.668529330	60.763121856	448.7	7777.2	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	3	g
+16	Spectrogram 1	1	60.799323933	60.898587695	523.5	7889.3	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	3	g
+17	Spectrogram 1	1	60.934789773	61.031717917	785.2	8001.5	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	3	h
+18	Spectrogram 1	1	61.065584377	61.157841284	747.8	8038.9	Cyanolanius_madagascarinus-ML95569.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Cyanolanius_madagascarinus-ML95569.wav	3	h

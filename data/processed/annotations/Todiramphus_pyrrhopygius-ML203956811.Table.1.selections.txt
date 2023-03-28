@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.954125774	6.133365281	1433.7	2496.7	Todiramphus_pyrrhopygius-ML203956811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Todiramphus_pyrrhopygius-ML203956811.wav	1	a
+2	Spectrogram 1	1	11.656738117	11.837668562	1532.6	2496.7	Todiramphus_pyrrhopygius-ML203956811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Todiramphus_pyrrhopygius-ML203956811.wav	2	a
+3	Spectrogram 1	1	17.677247360	17.864941560	1458.5	2496.7	Todiramphus_pyrrhopygius-ML203956811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Todiramphus_pyrrhopygius-ML203956811.wav	3	a

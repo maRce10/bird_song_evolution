@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.118852508	4.396791041	415.5	1772.9	Nothocercus_bonapartei-ML871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothocercus_bonapartei-ML871.wav	1	a
+2	Spectrogram 1	1	5.375414950	5.658024719	387.8	1772.9	Nothocercus_bonapartei-ML871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothocercus_bonapartei-ML871.wav	2	a
+3	Spectrogram 1	1	6.631977392	6.919258396	387.8	1772.9	Nothocercus_bonapartei-ML871.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothocercus_bonapartei-ML871.wav	3	a

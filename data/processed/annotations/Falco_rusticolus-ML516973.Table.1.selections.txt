@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.087693367	10.299817761	483.200	2174.300	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	1	a
+2	Spectrogram 1	1	10.432395508	10.596791914	395.300	2020.500	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	1	b
+3	Spectrogram 1	1	10.713460332	10.888462957	307.500	2084.200	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	1	b
+4	Spectrogram 1	1	11.024576111	11.183669407	329.400	1954.600	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	1	c
+5	Spectrogram 1	1	11.952720245	12.191360189	785.300	2144.600	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	2	a
+6	Spectrogram 1	1	12.322170232	12.504243671	694.700	2114.400	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	2	b
+7	Spectrogram 1	1	12.615608979	12.802985528	724.900	2144.600	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	2	b
+8	Spectrogram 1	1	12.921388406	13.098158735	664.500	2114.400	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	2	c
+9	Spectrogram 1	1	13.273161361	13.492356569	815.500	2144.600	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	2	a
+10	Spectrogram 1	1	35.186465610	35.433944071	755.100	2054.000	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	3	d
+11	Spectrogram 1	1	35.543541675	35.729150520	634.300	2114.400	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	3	b
+12	Spectrogram 1	1	35.824606498	36.010215344	543.700	2114.400	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	3	b
+13	Spectrogram 1	1	36.109206728	36.303654090	604.100	2023.800	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	3	b
+14	Spectrogram 1	1	36.453908870	36.651891638	573.900	1933.200	Falco_rusticolus-ML516973.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rusticolus-ML516973.wav	3	c

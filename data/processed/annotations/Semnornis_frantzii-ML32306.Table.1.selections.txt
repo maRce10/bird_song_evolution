@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	60.951530464	61.030941473	332.4	1108.0	Semnornis_frantzii-ML32306.wav	D:\Andean\Semnornithidae\Semnornis_frantzii-ML32306.wav	1	a
+2	Spectrogram 1	1	61.112688101	61.213119671	332.4	997.2	Semnornis_frantzii-ML32306.wav	D:\Andean\Semnornithidae\Semnornis_frantzii-ML32306.wav	2	a
+3	Spectrogram 1	1	61.299537534	61.390626633	249.3	1052.6	Semnornis_frantzii-ML32306.wav	D:\Andean\Semnornithidae\Semnornis_frantzii-ML32306.wav	3	a

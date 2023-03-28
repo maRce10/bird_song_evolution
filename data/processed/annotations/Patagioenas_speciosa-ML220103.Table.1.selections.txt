@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.640556827	6.783734477	140.1	584.0	Patagioenas_speciosa-ML220103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_speciosa-ML220103.wav	1	a
+2	Spectrogram 1	1	6.978309232	7.117815660	186.9	607.3	Patagioenas_speciosa-ML220103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_speciosa-ML220103.wav	1	b
+3	Spectrogram 1	1	7.283020640	8.017264998	210.2	560.6	Patagioenas_speciosa-ML220103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_speciosa-ML220103.wav	1	c
+4	Spectrogram 1	1	8.712331661	8.857344922	140.1	607.3	Patagioenas_speciosa-ML220103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_speciosa-ML220103.wav	2	a
+5	Spectrogram 1	1	9.055590898	9.178576828	210.2	537.2	Patagioenas_speciosa-ML220103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_speciosa-ML220103.wav	2	b
+6	Spectrogram 1	1	9.327950905	10.040167932	186.9	607.3	Patagioenas_speciosa-ML220103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_speciosa-ML220103.wav	2	c
+7	Spectrogram 1	1	44.600617955	44.738288772	186.9	607.3	Patagioenas_speciosa-ML220103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_speciosa-ML220103.wav	3	
+8	Spectrogram 1	1	44.931027916	45.074205565	210.2	560.6	Patagioenas_speciosa-ML220103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_speciosa-ML220103.wav	3	b
+9	Spectrogram 1	1	45.245436782	46.018228969	140.1	607.3	Patagioenas_speciosa-ML220103.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_speciosa-ML220103.wav	3	c

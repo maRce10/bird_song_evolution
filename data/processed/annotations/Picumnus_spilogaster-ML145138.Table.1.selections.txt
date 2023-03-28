@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	60.623754258	60.665795381	5595.6	6703.6	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+2	Spectrogram 1	1	60.740535155	60.784911895	5263.2	6648.2	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+3	Spectrogram 1	1	60.861987287	60.920377735	5401.7	6620.5	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+4	Spectrogram 1	1	60.995117508	61.051172338	5374.0	6648.2	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+5	Spectrogram 1	1	61.114234022	61.170288852	5318.6	6759.0	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+6	Spectrogram 1	1	61.233350536	61.280062895	5180.1	6759.0	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+7	Spectrogram 1	1	61.343124578	61.392172555	5263.2	6648.2	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+8	Spectrogram 1	1	61.455234239	61.506617833	5235.5	6620.5	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+9	Spectrogram 1	1	61.560337045	61.607049404	5152.4	6565.1	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+10	Spectrogram 1	1	61.660768616	61.705145356	5180.1	6454.3	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+11	Spectrogram 1	1	61.761200186	61.798570073	5235.5	6537.4	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+12	Spectrogram 1	1	61.847618050	61.896666026	5180.1	6398.9	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+13	Spectrogram 1	1	61.941042766	61.983083889	5124.7	6426.6	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+14	Spectrogram 1	1	62.025125012	62.069501752	5041.6	6315.8	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+15	Spectrogram 1	1	62.106871639	62.148912761	5124.7	6094.2	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+16	Spectrogram 1	1	62.197960738	62.230659389	4986.2	5983.4	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a
+17	Spectrogram 1	1	62.275036129	62.307734780	5263.2	6094.2	Picumnus_spilogaster-ML145138.wav	D:\Andean\Picidae\Picumnus_spilogaster-ML145138.wav	1	a

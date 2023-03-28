@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.748808736	23.814206038	831.0	3213.3	Herpsilochmus_praedictus-ML169990.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Herpsilochmus_praedictus-ML169990.wav	1	a
+2	Spectrogram 1	1	23.874932104	23.935658170	831.0	3213.3	Herpsilochmus_praedictus-ML169990.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Herpsilochmus_praedictus-ML169990.wav	1	a
+3	Spectrogram 1	1	24.131850075	24.199582995	831.0	3213.3	Herpsilochmus_praedictus-ML169990.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Herpsilochmus_praedictus-ML169990.wav	1	a
+4	Spectrogram 1	1	24.262644679	24.328041981	886.4	3213.3	Herpsilochmus_praedictus-ML169990.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Herpsilochmus_praedictus-ML169990.wav	1	a
+5	Spectrogram 1	1	25.070768480	25.150179489	969.5	3213.3	Herpsilochmus_praedictus-ML169990.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Herpsilochmus_praedictus-ML169990.wav	2	a
+6	Spectrogram 1	1	25.206234319	25.276302857	914.1	3296.4	Herpsilochmus_praedictus-ML169990.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Herpsilochmus_praedictus-ML169990.wav	2	a
+7	Spectrogram 1	1	25.374398810	25.446802965	831.0	3213.3	Herpsilochmus_praedictus-ML169990.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Herpsilochmus_praedictus-ML169990.wav	2	a
+8	Spectrogram 1	1	26.399777632	26.462839316	969.5	3268.7	Herpsilochmus_praedictus-ML169990.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Herpsilochmus_praedictus-ML169990.wav	3	a
+9	Spectrogram 1	1	26.523565382	26.588962684	1024.9	3407.2	Herpsilochmus_praedictus-ML169990.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Herpsilochmus_praedictus-ML169990.wav	3	a
+10	Spectrogram 1	1	26.687058636	26.759462792	1052.6	3351.8	Herpsilochmus_praedictus-ML169990.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Herpsilochmus_praedictus-ML169990.wav	3	a

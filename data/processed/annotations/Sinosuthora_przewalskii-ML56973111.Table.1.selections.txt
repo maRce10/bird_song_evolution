@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.857565482	15.976475733	3474.7	7837.7	Sinosuthora_przewalskii-ML56973111.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_przewalskii-ML56973111.wav	1	a
+2	Spectrogram 1	1	16.557814741	16.650300492	3265.7	7733.2	Sinosuthora_przewalskii-ML56973111.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_przewalskii-ML56973111.wav	2	a
+3	Spectrogram 1	1	17.661037630	17.760129506	3344.1	7524.2	Sinosuthora_przewalskii-ML56973111.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_przewalskii-ML56973111.wav	3	a

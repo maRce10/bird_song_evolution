@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	58.765136534	59.038464959	1329.6	4820.0	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	1	a
+2	Spectrogram 1	1	59.131776476	59.295278072	3074.8	4598.4	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	1	b
+3	Spectrogram 1	1	59.332437525	59.469514621	2853.2	4321.4	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	1	c
+4	Spectrogram 1	1	59.509151371	59.624758560	2964.0	4127.4	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	1	d
+5	Spectrogram 1	1	59.655311889	59.737062686	2714.7	4099.7	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	1	e
+6	Spectrogram 1	1	59.750274937	59.803949703	2437.7	4349.1	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	1	f
+7	Spectrogram 1	1	59.807252765	59.837806094	1689.8	4182.9	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	1	g
+8	Spectrogram 1	1	64.404041208	64.679021165	1745.2	4820.0	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	2	a
+9	Spectrogram 1	1	64.763249259	64.924273558	2382.3	4515.3	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	2	b
+10	Spectrogram 1	1	64.963910309	65.095207045	3102.5	4321.4	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	2	c
+11	Spectrogram 1	1	65.134017570	65.247147462	3019.4	4099.7	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	2	d
+12	Spectrogram 1	1	65.272746197	65.345413573	2825.5	3961.2	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	2	e
+13	Spectrogram 1	1	65.357800057	65.420558246	1717.5	4266.0	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	2	f
+14	Spectrogram 1	1	65.426338605	65.448634277	1301.9	4044.3	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	2	g
+15	Spectrogram 1	1	65.667461565	65.889592521	1634.4	5013.9	Ornithion_semiflavum-ML66663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_semiflavum-ML66663.wav	3	a

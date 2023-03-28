@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.880397009	3.972317580	1317.7	6149.4	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	1	a
+2	Spectrogram 1	1	4.251614700	4.389495557	680.8	4721.0	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	1	b
+3	Spectrogram 1	1	4.431920436	4.576872106	614.9	4042.5	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	1	c
+4	Spectrogram 1	1	4.605155359	4.739500809	706.7	4042.5	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	1	c
+5	Spectrogram 1	1	4.788996501	4.930412764	706.7	3986.0	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	1	c
+6	Spectrogram 1	1	4.976373050	5.082435247	1130.8	3929.4	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	1	d
+7	Spectrogram 1	1	5.139001752	5.248599356	1243.8	3618.5	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	1	e
+8	Spectrogram 1	1	23.704543754	23.803535139	1272.1	5201.5	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	2	a
+9	Spectrogram 1	1	24.050937487	24.199424563	565.4	4636.2	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	2	b
+10	Spectrogram 1	1	24.234778629	24.369124079	650.2	4014.2	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	2	c
+11	Spectrogram 1	1	24.415084365	24.549429815	650.2	4070.8	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	2	c
+12	Spectrogram 1	1	24.598925507	24.712058518	1300.4	4070.8	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	2	d
+13	Spectrogram 1	1	24.746616950	24.870356181	1272.1	3703.3	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	2	e
+14	Spectrogram 1	1	31.729845217	31.864190667	735.0	4749.2	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	3	b
+15	Spectrogram 1	1	31.903080139	32.040960996	650.2	4099.0	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	3	c
+16	Spectrogram 1	1	32.076315062	32.210660512	650.2	4014.2	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	3	c
+17	Spectrogram 1	1	32.263691611	32.405107874	706.7	4014.2	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	3	c
+18	Spectrogram 1	1	32.447532753	32.578342797	650.2	3929.4	Purnella_albifrons-ML72652721.wav	E:\Escritorio\Cantos\Meliphagidae\Purnella_albifrons-ML72652721.wav	3	c

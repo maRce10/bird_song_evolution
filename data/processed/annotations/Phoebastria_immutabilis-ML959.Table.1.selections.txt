@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	48.208885771	49.260690814	350.4	6283.3	Phoebastria_immutabilis-ML959.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebastria_immutabilis-ML959.wav	1	a
+4	Spectrogram 1	1	77.137216126	78.180786347	373.7	6213.2	Phoebastria_immutabilis-ML959.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebastria_immutabilis-ML959.wav	2	a
+5	Spectrogram 1	1	111.609617513	112.762217458	280.3	6260.0	Phoebastria_immutabilis-ML959.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebastria_immutabilis-ML959.wav	3	a

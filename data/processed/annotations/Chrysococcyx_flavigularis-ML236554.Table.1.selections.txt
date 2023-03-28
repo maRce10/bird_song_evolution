@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.655697381	10.942065314	2642.8	3184.5	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	1	a
+2	Spectrogram 1	1	11.010708264	11.165702682	2722.9	3203.4	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	1	b
+3	Spectrogram 1	1	11.229450386	11.375695119	2749.6	3310.2	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	1	b
+4	Spectrogram 1	1	11.428193229	11.564296872	2776.3	3336.9	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	1	b
+5	Spectrogram 1	1	11.627199437	11.750944980	2749.6	3363.6	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	1	b
+6	Spectrogram 1	1	11.814692685	11.949687823	2749.6	3283.5	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	1	b
+7	Spectrogram 1	1	12.027185032	12.162180170	2621.8	3203.4	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	1	b
+8	Spectrogram 1	1	28.077144757	28.357134674	2496.0	3216.7	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	2	a
+9	Spectrogram 1	1	28.415882558	28.577126751	2669.5	3230.1	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	2	b
+10	Spectrogram 1	1	28.648463499	28.784708593	2642.8	3230.1	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	2	b
+11	Spectrogram 1	1	28.847206342	28.987201300	2616.1	3230.1	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	2	b
+12	Spectrogram 1	1	29.044699229	29.183444233	2642.8	3203.4	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	2	b
+13	Spectrogram 1	1	29.250316824	29.371562458	2669.5	3123.3	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	2	b
+14	Spectrogram 1	1	40.592256516	40.849747243	2482.6	3123.3	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	3	a
+15	Spectrogram 1	1	40.919744722	41.077239050	2642.8	3123.3	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	3	b
+16	Spectrogram 1	1	41.142236709	41.285981533	2642.8	3176.7	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	3	b
+17	Spectrogram 1	1	41.338479642	41.480974510	2616.1	3203.4	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	3	b
+18	Spectrogram 1	1	41.537222484	41.670967668	2642.8	3230.1	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	3	b
+19	Spectrogram 1	1	41.742215102	41.867210600	2642.8	3123.3	Chrysococcyx_flavigularis-ML236554.wav	E:\Escritorio\Cantos\Cuculidae\Chrysococcyx_flavigularis-ML236554.wav	3	b

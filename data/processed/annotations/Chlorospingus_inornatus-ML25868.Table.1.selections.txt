@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.022247665	6.057281934	5740.4	8851.3	Chlorospingus_inornatus-ML25868.wav	D:\Andean\Passerellidae\Chlorospingus_inornatus-ML25868.wav	1	a
+2	Spectrogram 1	1	6.589802820	6.624837089	5925.6	9555.0	Chlorospingus_inornatus-ML25868.wav	D:\Andean\Passerellidae\Chlorospingus_inornatus-ML25868.wav	2	a
+3	Spectrogram 1	1	6.739282367	6.771981018	5666.3	9258.7	Chlorospingus_inornatus-ML25868.wav	D:\Andean\Passerellidae\Chlorospingus_inornatus-ML25868.wav	3	a

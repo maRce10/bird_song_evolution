@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.804866511	7.059415785	1537.4	3206.5	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	1	a
+2	Spectrogram 1	1	7.246792334	7.671041124	1449.5	3338.2	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	1	b
+3	Spectrogram 1	1	7.801851168	8.229635364	1493.4	3338.2	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	1	b
+4	Spectrogram 1	1	8.353374594	8.823583670	1581.3	3228.4	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	1	b
+5	Spectrogram 1	1	8.950858307	9.442279822	1603.2	3162.5	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	1	b
+6	Spectrogram 1	1	22.006217772	22.320868957	1559.3	3448.1	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	2	a
+7	Spectrogram 1	1	22.487033067	22.875927791	1471.5	3316.3	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	2	b
+8	Spectrogram 1	1	22.989060801	23.430986624	1515.4	3316.3	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	2	b
+9	Spectrogram 1	1	23.544119635	24.014328710	1515.4	3228.4	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	2	b
+10	Spectrogram 1	1	24.162815787	24.682520554	1603.2	3250.4	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	2	b
+11	Spectrogram 1	1	33.010621267	33.388909771	1515.4	3294.3	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	3	a
+12	Spectrogram 1	1	33.565680100	34.018212143	1493.4	3294.3	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	3	b
+13	Spectrogram 1	1	34.117203527	34.562664757	1493.4	3360.2	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	3	b
+14	Spectrogram 1	1	34.682868580	35.156613062	1581.3	3228.4	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	3	b
+15	Spectrogram 1	1	35.298029326	35.824804907	1559.3	3228.4	Dendrocolaptes_sanctithomae-ML103280.wav	E:\Escritorio\Cantos\Furnariidae\Dendrocolaptes_sanctithomae-ML103280.wav	3	b

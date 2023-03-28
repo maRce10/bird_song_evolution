@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	37.769934709	37.824449571	911.0	3667.2	Eurocephalus_ruppelli-ML37884.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_ruppelli-ML37884.wav	1	a
+2	Spectrogram 1	1	38.047700912	38.110003611	794.2	3433.6	Eurocephalus_ruppelli-ML37884.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_ruppelli-ML37884.wav	1	a
+3	Spectrogram 1	1	38.268356306	38.341042789	864.2	3363.6	Eurocephalus_ruppelli-ML37884.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_ruppelli-ML37884.wav	1	a
+4	Spectrogram 1	1	40.248976005	40.329450325	840.9	3527.1	Eurocephalus_ruppelli-ML37884.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_ruppelli-ML37884.wav	2	a
+5	Spectrogram 1	1	40.425500321	40.524146262	794.2	3550.4	Eurocephalus_ruppelli-ML37884.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_ruppelli-ML37884.wav	2	a
+6	Spectrogram 1	1	40.661731390	40.757781386	911.0	3597.1	Eurocephalus_ruppelli-ML37884.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_ruppelli-ML37884.wav	2	a
+7	Spectrogram 1	1	47.797761144	47.883427356	794.2	3573.8	Eurocephalus_ruppelli-ML37884.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_ruppelli-ML37884.wav	3	a
+8	Spectrogram 1	1	48.008032755	48.104082751	817.5	3457.0	Eurocephalus_ruppelli-ML37884.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_ruppelli-ML37884.wav	3	a
+9	Spectrogram 1	1	48.184557071	48.278011121	794.2	3410.3	Eurocephalus_ruppelli-ML37884.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_ruppelli-ML37884.wav	3	a

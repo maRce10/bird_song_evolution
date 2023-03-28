@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.074085166	7.265662794	2049.9	2659.3	Criniger_calurus-ML23441.wav	D:\Andean\Pycnonotidae\Criniger_calurus-ML23441.wav	1	a
+2	Spectrogram 1	1	7.430815921	7.595969048	1772.9	3324.1	Criniger_calurus-ML23441.wav	D:\Andean\Pycnonotidae\Criniger_calurus-ML23441.wav	1	b
+3	Spectrogram 1	1	7.761122175	7.886638552	2326.9	3296.4	Criniger_calurus-ML23441.wav	D:\Andean\Pycnonotidae\Criniger_calurus-ML23441.wav	1	c
+4	Spectrogram 1	1	13.997304254	14.202094131	2077.6	2825.5	Criniger_calurus-ML23441.wav	D:\Andean\Pycnonotidae\Criniger_calurus-ML23441.wav	2	a
+5	Spectrogram 1	1	14.294579882	14.466339134	1939.1	3213.3	Criniger_calurus-ML23441.wav	D:\Andean\Pycnonotidae\Criniger_calurus-ML23441.wav	2	b
+6	Spectrogram 1	1	14.618280011	14.763614763	2326.9	3351.8	Criniger_calurus-ML23441.wav	D:\Andean\Pycnonotidae\Criniger_calurus-ML23441.wav	2	c
+7	Spectrogram 1	1	20.736303207	20.908062460	2049.9	2714.7	Criniger_calurus-ML23441.wav	D:\Andean\Pycnonotidae\Criniger_calurus-ML23441.wav	3	a
+8	Spectrogram 1	1	21.099640087	21.264793214	2049.9	3434.9	Criniger_calurus-ML23441.wav	D:\Andean\Pycnonotidae\Criniger_calurus-ML23441.wav	3	b
+9	Spectrogram 1	1	21.436552466	21.575281093	2354.6	3462.6	Criniger_calurus-ML23441.wav	D:\Andean\Pycnonotidae\Criniger_calurus-ML23441.wav	3	c

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	127.430124485	129.349850259	1098.100	4634.000	Lonchura_malacca-ML14406.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_malacca-ML14406.wav	1	a
+2	Spectrogram 1	1	129.757679637	131.436997763	1888.700	6478.800	Lonchura_malacca-ML14406.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_malacca-ML14406.wav	1	b
+3	Spectrogram 1	1	139.742709590	141.970015737	1076.100	4480.300	Lonchura_malacca-ML14406.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_malacca-ML14406.wav	2	a
+4	Spectrogram 1	1	142.318152032	144.718693102	1932.700	8104.000	Lonchura_malacca-ML14406.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_malacca-ML14406.wav	2	c
+5	Spectrogram 1	1	156.418632704	158.327752258	1090.400	4725.000	Lonchura_malacca-ML14406.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_malacca-ML14406.wav	3	a
+6	Spectrogram 1	1	158.691898903	161.000519401	1890.000	8408.100	Lonchura_malacca-ML14406.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_malacca-ML14406.wav	3	b

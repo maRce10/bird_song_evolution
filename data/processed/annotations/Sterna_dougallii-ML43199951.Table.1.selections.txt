@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.414734499	3.657035137	1121.2	3293.5	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	a
+2	Spectrogram 1	1	3.774514234	3.814897674	1144.5	3223.4	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	b
+3	Spectrogram 1	1	3.849774281	3.888322109	981.0	3293.5	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	b
+4	Spectrogram 1	1	3.932376771	4.009472428	934.3	3597.1	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	c
+5	Spectrogram 1	1	4.029664148	4.068211977	957.7	3386.9	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	d
+6	Spectrogram 1	1	4.088403697	4.172841798	1004.4	3246.8	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	e
+7	Spectrogram 1	1	4.189362296	4.259115510	1097.8	3457.0	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	f
+8	Spectrogram 1	1	4.292156506	4.338046778	1074.5	3597.1	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	d
+9	Spectrogram 1	1	4.365580942	4.405964382	1121.2	3643.9	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	d
+10	Spectrogram 1	1	4.437169767	4.472046374	1097.8	3643.9	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	d
+11	Spectrogram 1	1	4.506922981	4.565662529	981.0	4578.2	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	g
+12	Spectrogram 1	1	4.631744522	4.780429004	1097.8	4391.3	Sterna_dougallii-ML43199951.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_dougallii-ML43199951.wav	1	h

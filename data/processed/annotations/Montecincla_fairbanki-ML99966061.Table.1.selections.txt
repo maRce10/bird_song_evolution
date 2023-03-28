@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.610453376	1.652878255	746.7	2393.9	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	1	a
+2	Spectrogram 1	1	1.688232321	1.730657200	1229.9	2086.4	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	1	b
+3	Spectrogram 1	1	1.861467243	2.073591638	1229.9	2481.7	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	1	c
+4	Spectrogram 1	1	2.161976803	2.359959571	724.8	2415.8	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	1	d
+5	Spectrogram 1	1	2.487234208	2.533194494	790.6	2393.9	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	2	a
+6	Spectrogram 1	1	2.561477747	2.600367219	1383.6	2108.4	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	2	b
+7	Spectrogram 1	1	2.727641856	2.978655723	1054.2	2393.9	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	2	c
+8	Spectrogram 1	1	3.077647108	3.282700689	878.5	2306.0	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	2	d
+9	Spectrogram 1	1	3.438258579	3.473612645	1098.1	2371.9	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	3	a
+10	Spectrogram 1	1	3.516037524	3.561997809	1493.4	2393.9	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	3	b
+11	Spectrogram 1	1	3.706949479	3.950892533	1229.9	2371.9	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	3	c
+12	Spectrogram 1	1	4.053419324	4.269079126	790.6	2350.0	Montecincla_fairbanki-ML99966061.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_fairbanki-ML99966061.wav	3	d

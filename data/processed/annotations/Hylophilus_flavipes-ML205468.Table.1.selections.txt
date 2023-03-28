@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.965943065	3.197157443	2546.4	3976.3	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	1	a
+2	Spectrogram 1	1	3.347446789	3.605085667	2585.6	3800.0	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	1	b
+3	Spectrogram 1	1	3.795011763	4.044392985	2585.6	3662.9	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	1	c
+4	Spectrogram 1	1	4.222758362	4.468836522	2644.3	3604.1	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	1	c
+5	Spectrogram 1	1	4.614169069	4.855292635	2566.0	3604.1	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	1	c
+6	Spectrogram 1	1	5.013839637	5.253311671	2624.7	3897.9	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	1	b
+7	Spectrogram 1	1	202.570811077	202.808631580	2526.8	4113.4	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	a
+8	Spectrogram 1	1	202.992825376	203.253767317	2624.7	4172.2	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	d
+9	Spectrogram 1	1	203.442041882	203.689771572	2585.6	3584.5	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	c
+10	Spectrogram 1	1	203.831803262	204.082836015	2624.7	4211.3	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	d
+11	Spectrogram 1	1	204.221562574	204.464337671	2585.6	4309.3	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	d
+12	Spectrogram 1	1	204.609474579	204.853901207	2585.6	4622.7	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	d
+13	Spectrogram 1	1	204.981069115	205.232101868	2624.7	4466.0	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	d
+14	Spectrogram 1	1	205.369178963	205.613605591	2566.0	4544.3	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	d
+15	Spectrogram 1	1	205.744076562	205.990154721	2566.0	4505.1	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	d
+16	Spectrogram 1	1	206.127231817	206.378264570	2566.0	4701.0	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	d
+17	Spectrogram 1	1	206.524769178	206.770847337	2585.6	4054.6	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	2	b
+18	Spectrogram 1	1	232.247926340	232.490701437	2566.0	3447.4	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	3	c
+19	Spectrogram 1	1	232.659157627	232.900281192	2605.1	3564.9	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	3	c
+20	Spectrogram 1	1	233.085252695	233.326376260	2605.1	3604.1	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	3	c
+21	Spectrogram 1	1	233.484923262	233.722743765	2624.7	3643.3	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	3	c
+22	Spectrogram 1	1	233.909365881	234.143883321	2566.0	4152.6	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	3	d
+23	Spectrogram 1	1	234.310488986	234.551612552	2566.0	4152.6	Hylophilus_flavipes-ML205468.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Hylophilus_flavipes-ML205468.wav	3	d

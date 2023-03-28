@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.367464776	22.535845313	1273.800	4557.400	Cercococcyx_mechowi-ML94100.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_mechowi-ML94100.wav	1	a
+2	Spectrogram 1	1	22.671958467	22.792162290	1473.600	4639.200	Cercococcyx_mechowi-ML94100.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_mechowi-ML94100.wav	1	a
+3	Spectrogram 1	1	22.937113960	23.037873048	846.000	4748.400	Cercococcyx_mechowi-ML94100.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_mechowi-ML94100.wav	1	a
+4	Spectrogram 1	1	24.431373359	24.588698952	1255.300	4584.700	Cercococcyx_mechowi-ML94100.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_mechowi-ML94100.wav	2	a
+5	Spectrogram 1	1	24.726579809	24.850319039	1228.000	4748.400	Cercococcyx_mechowi-ML94100.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_mechowi-ML94100.wav	2	a
+6	Spectrogram 1	1	24.996633728	25.099565203	1319.600	4693.800	Cercococcyx_mechowi-ML94100.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_mechowi-ML94100.wav	2	a
+7	Spectrogram 1	1	26.458926632	26.607413709	1337.200	4639.200	Cercococcyx_mechowi-ML94100.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_mechowi-ML94100.wav	3	a
+8	Spectrogram 1	1	26.754133082	26.876104609	1255.300	4584.700	Cercococcyx_mechowi-ML94100.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_mechowi-ML94100.wav	3	a
+9	Spectrogram 1	1	27.019288576	27.127118476	1173.500	4693.800	Cercococcyx_mechowi-ML94100.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cercococcyx_mechowi-ML94100.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.891468357	1.937123703	4844.2	10208.4	Corythornis_cristatus-ML145849601.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Corythornis_cristatus-ML145849601.wav	1	a
+2	Spectrogram 1	1	2.322657736	2.370004021	4646.5	10035.4	Corythornis_cristatus-ML145849601.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Corythornis_cristatus-ML145849601.wav	2	a
+3	Spectrogram 1	1	2.911104418	2.955068826	4597.0	10035.4	Corythornis_cristatus-ML145849601.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Corythornis_cristatus-ML145849601.wav		a

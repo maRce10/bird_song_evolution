@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.597871457	1.719021776	1214.6	7778.2	Dasyornis_broadbenti-ML117149781.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dasyornithidae\Dasyornithidae\Dasyornis_broadbenti-ML117149781.wav	1	a
+2	Spectrogram 1	1	1.766747659	2.051267348	981.0	5022.0	Dasyornis_broadbenti-ML117149781.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dasyornithidae\Dasyornithidae\Dasyornis_broadbenti-ML117149781.wav	1	b
+3	Spectrogram 1	1	4.196359261	4.315673969	1354.8	7801.6	Dasyornis_broadbenti-ML117149781.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dasyornithidae\Dasyornithidae\Dasyornis_broadbenti-ML117149781.wav	2	a
+4	Spectrogram 1	1	4.365235463	4.649755152	1074.5	5115.4	Dasyornis_broadbenti-ML117149781.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dasyornithidae\Dasyornithidae\Dasyornis_broadbenti-ML117149781.wav	2	b
+5	Spectrogram 1	1	7.505891726	7.630713267	1354.8	7754.9	Dasyornis_broadbenti-ML117149781.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dasyornithidae\Dasyornithidae\Dasyornis_broadbenti-ML117149781.wav	3	a
+6	Spectrogram 1	1	7.671096707	7.948273952	1051.1	5045.3	Dasyornis_broadbenti-ML117149781.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dasyornithidae\Dasyornithidae\Dasyornis_broadbenti-ML117149781.wav	3	b

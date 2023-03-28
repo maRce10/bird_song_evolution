@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.200528023	1.251905659	2335.8	7217.6	Cisticola_ruficeps-ML31445381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_ruficeps-ML31445381.wav	1	a
+2	Spectrogram 1	1	4.882461269	4.939153834	2569.4	6914.0	Cisticola_ruficeps-ML31445381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_ruficeps-ML31445381.wav	2	a

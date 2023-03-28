@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.161270509	6.394721336	305.5	749.8	Claravis_pretiosa-ML117176.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Claravis_pretiosa-ML117176.wav	1	a
+2	Spectrogram 1	1	7.569485060	7.806995901	305.5	694.3	Claravis_pretiosa-ML117176.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Claravis_pretiosa-ML117176.wav	2	a
+3	Spectrogram 1	1	12.796404477	13.021735274	250.6	680.1	Claravis_pretiosa-ML117176.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Claravis_pretiosa-ML117176.wav	3	a

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	836.261693713	836.314542714	609.4	3130.2	Fulica_atra-ML136149.wav	D:\Andean\Rallidae\Fulica_atra-ML136149.wav	1	a
+2	Spectrogram 1	1	836.372346311	836.408679999	692.5	2742.4	Fulica_atra-ML136149.wav	D:\Andean\Rallidae\Fulica_atra-ML136149.wav	1	b
+3	Spectrogram 1	1	836.847987317	836.900836318	581.7	3102.5	Fulica_atra-ML136149.wav	D:\Andean\Rallidae\Fulica_atra-ML136149.wav	2	a
+4	Spectrogram 1	1	836.952033787	836.986715944	609.4	2576.2	Fulica_atra-ML136149.wav	D:\Andean\Rallidae\Fulica_atra-ML136149.wav	2	b
+5	Spectrogram 1	1	837.399598762	837.454099294	637.1	2991.7	Fulica_atra-ML136149.wav	D:\Andean\Rallidae\Fulica_atra-ML136149.wav	3	a
+6	Spectrogram 1	1	837.501993701	837.544933514	581.7	3019.4	Fulica_atra-ML136149.wav	D:\Andean\Rallidae\Fulica_atra-ML136149.wav	3	b

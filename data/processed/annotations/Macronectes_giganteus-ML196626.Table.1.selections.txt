@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.826255897	11.713132558	55.4	1994.5	Macronectes_giganteus-ML196626.wav	D:\Andean\Procellariidae\Macronectes_giganteus-ML196626.wav	1	a
+2	Spectrogram 1	1	11.739557059	14.811405222	0.0	1994.5	Macronectes_giganteus-ML196626.wav	D:\Andean\Procellariidae\Macronectes_giganteus-ML196626.wav	1	a
+3	Spectrogram 1	1	14.877466473	16.628089620	0.0	1994.5	Macronectes_giganteus-ML196626.wav	D:\Andean\Procellariidae\Macronectes_giganteus-ML196626.wav	1	a
+4	Spectrogram 1	1	91.397868471	94.212077756	27.7	1856.0	Macronectes_giganteus-ML196626.wav	D:\Andean\Procellariidae\Macronectes_giganteus-ML196626.wav	2	a
+5	Spectrogram 1	1	106.315439123	106.592896377	55.4	2188.4	Macronectes_giganteus-ML196626.wav	D:\Andean\Procellariidae\Macronectes_giganteus-ML196626.wav	3	b
+6	Spectrogram 1	1	106.652351502	109.103223908	110.8	1994.5	Macronectes_giganteus-ML196626.wav	D:\Andean\Procellariidae\Macronectes_giganteus-ML196626.wav	3	a
+7	Spectrogram 1	1	109.156072909	109.479773038	83.1	2105.3	Macronectes_giganteus-ML196626.wav	D:\Andean\Procellariidae\Macronectes_giganteus-ML196626.wav	3	b
+8	Spectrogram 1	1	109.526015913	111.210577810	55.4	1966.8	Macronectes_giganteus-ML196626.wav	D:\Andean\Procellariidae\Macronectes_giganteus-ML196626.wav	3	a

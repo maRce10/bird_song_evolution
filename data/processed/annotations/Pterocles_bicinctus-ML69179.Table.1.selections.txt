@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	66.222948319	66.353742922	332.4	1412.8	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	1	a
+2	Spectrogram 1	1	66.533585502	66.559277299	304.7	3213.3	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	1	b
+3	Spectrogram 1	1	66.570955389	66.617667747	1579.0	3462.6	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	1	c
+4	Spectrogram 1	1	66.680729431	66.830208978	443.2	3157.9	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	1	d
+5	Spectrogram 1	1	66.878088721	67.021729223	941.8	2354.6	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	1	e
+6	Spectrogram 1	1	67.102308041	67.165369725	941.8	2022.2	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	1	f
+7	Spectrogram 1	1	67.213249892	67.248284161	443.2	2825.5	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	1	g
+8	Spectrogram 1	1	68.635890528	68.717637155	387.8	1883.7	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	2	a
+9	Spectrogram 1	1	68.923171533	68.946527712	277.0	2520.8	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	2	b
+10	Spectrogram 1	1	68.960541419	69.002582542	1689.8	3157.9	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	2	c
+11	Spectrogram 1	1	69.107685348	69.226801862	1246.5	2880.9	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	2	d
+12	Spectrogram 1	1	69.296870400	69.425329386	1108.0	2437.7	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	2	e
+13	Spectrogram 1	1	69.500069159	69.570137697	1024.9	2160.7	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	2	f
+14	Spectrogram 1	1	69.621521291	69.682247357	1080.3	2631.6	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	2	g
+15	Spectrogram 1	1	73.456104759	73.530844533	526.3	1772.9	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	3	a
+16	Spectrogram 1	1	73.741050146	73.766741943	277.0	2659.3	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	3	b
+17	Spectrogram 1	1	73.778420033	73.825132391	1800.6	3185.6	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	3	c
+18	Spectrogram 1	1	73.930235198	74.049351712	1412.8	2880.9	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	3	d
+19	Spectrogram 1	1	74.110077778	74.243207999	1052.6	2465.4	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	3	e
+20	Spectrogram 1	1	74.312108728	74.382177266	803.3	2133.0	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	3	f
+21	Spectrogram 1	1	74.433560860	74.494286926	858.7	2659.3	Pterocles_bicinctus-ML69179.wav	D:\Andean\Pteroclidae\Pterocles_bicinctus-ML69179.wav	3	g

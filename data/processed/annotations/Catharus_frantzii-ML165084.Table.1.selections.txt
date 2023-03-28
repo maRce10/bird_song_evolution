@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	63.139015838	63.589883875	2638.7	4441.4	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	1	a
+2	Spectrogram 1	1	63.632823688	63.890462566	2168.4	3971.1	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	1	b
+3	Spectrogram 1	1	67.340679328	67.424907423	3709.8	4023.3	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	2	c
+4	Spectrogram 1	1	67.423255891	67.507483986	3291.8	5852.1	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	2	d
+5	Spectrogram 1	1	67.520696236	67.728789176	3736.0	4154.0	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	2	e
+6	Spectrogram 1	1	67.723834583	67.811365740	2743.2	3161.2	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	2	f
+7	Spectrogram 1	1	67.829532584	68.009549492	2821.6	5172.9	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	2	g
+8	Spectrogram 1	1	71.675705049	71.850767363	2429.7	2926.1	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	3	h
+9	Spectrogram 1	1	71.852418895	72.020875084	2246.8	3709.8	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	3	i
+10	Spectrogram 1	1	72.030784272	72.238877212	2455.8	2873.8	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	3	j
+11	Spectrogram 1	1	72.314847651	72.351181338	1175.7	2090.0	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	3	k
+12	Spectrogram 1	1	72.364393589	72.394121152	1645.9	2090.0	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	3	l
+13	Spectrogram 1	1	72.473394653	72.508076809	1071.1	2063.9	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	3	k
+14	Spectrogram 1	1	72.514682934	72.547713560	1724.3	2037.8	Catharus_frantzii-ML165084.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_frantzii-ML165084.wav	3	l

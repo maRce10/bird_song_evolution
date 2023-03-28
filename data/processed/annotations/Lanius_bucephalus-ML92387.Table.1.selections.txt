@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.776421350	17.903078501	864.2	4064.3	Lanius_bucephalus-ML92387.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_bucephalus-ML92387.wav	1	a
+2	Spectrogram 1	1	18.841075668	18.964061598	794.2	3994.2	Lanius_bucephalus-ML92387.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_bucephalus-ML92387.wav	2	a
+3	Spectrogram 1	1	19.672297757	19.793448076	724.1	4087.7	Lanius_bucephalus-ML92387.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_bucephalus-ML92387.wav	3	a

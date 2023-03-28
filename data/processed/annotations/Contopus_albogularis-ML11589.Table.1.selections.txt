@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.938177537	14.988393322	1410.8	4206.2	Contopus_albogularis-ML11589.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_albogularis-ML11589.wav	1	a
+2	Spectrogram 1	1	15.408804548	15.466027187	1489.2	4363.0	Contopus_albogularis-ML11589.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_albogularis-ML11589.wav	2	b
+3	Spectrogram 1	1	15.912130210	15.969352849	1436.9	4206.2	Contopus_albogularis-ML11589.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_albogularis-ML11589.wav	3	a

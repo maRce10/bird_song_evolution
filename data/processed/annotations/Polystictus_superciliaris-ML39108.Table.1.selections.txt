@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	417.102126107	417.192134561	783.8	6740.4	Polystictus_superciliaris-ML39108.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Polystictus_superciliaris-ML39108.wav	1	a
+2	Spectrogram 1	1	417.218778848	417.260236066	522.5	7106.2	Polystictus_superciliaris-ML39108.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Polystictus_superciliaris-ML39108.wav	1	b
+3	Spectrogram 1	1	417.264323397	417.278337105	731.5	7628.7	Polystictus_superciliaris-ML39108.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Polystictus_superciliaris-ML39108.wav	1	c
+4	Spectrogram 1	1	417.281840532	417.295270335	731.5	7680.9	Polystictus_superciliaris-ML39108.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Polystictus_superciliaris-ML39108.wav	1	c
+5	Spectrogram 1	1	418.645082200	418.739090822	418.0	7106.2	Polystictus_superciliaris-ML39108.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Polystictus_superciliaris-ML39108.wav	2	a
+6	Spectrogram 1	1	418.761279192	418.800400792	731.5	7628.7	Polystictus_superciliaris-ML39108.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Polystictus_superciliaris-ML39108.wav	2	b
+7	Spectrogram 1	1	418.804488124	418.816750118	679.3	7471.9	Polystictus_superciliaris-ML39108.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Polystictus_superciliaris-ML39108.wav	2	c
+8	Spectrogram 1	1	418.820837449	418.840690201	783.8	7628.7	Polystictus_superciliaris-ML39108.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Polystictus_superciliaris-ML39108.wav	2	c
+9	Spectrogram 1	1	419.950709006	419.962971000	679.3	9771.0	Polystictus_superciliaris-ML39108.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Polystictus_superciliaris-ML39108.wav	3	d
+10	Spectrogram 1	1	419.970561759	420.040630296	1567.5	6113.4	Polystictus_superciliaris-ML39108.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Polystictus_superciliaris-ML39108.wav		e

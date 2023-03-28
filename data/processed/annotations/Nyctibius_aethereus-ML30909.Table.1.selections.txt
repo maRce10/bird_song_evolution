@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.290730404	26.374134918	221.6	941.8	Nyctibius_aethereus-ML30909.wav	E:\Andean\Nyctibiidae\Nyctibius_aethereus-ML30909.wav	1	a
+2	Spectrogram 1	1	31.758127037	32.762258050	332.4	914.1	Nyctibius_aethereus-ML30909.wav	E:\Andean\Nyctibiidae\Nyctibius_aethereus-ML30909.wav	2	a
+3	Spectrogram 1	1	46.069588996	47.067217196	304.7	941.8	Nyctibius_aethereus-ML30909.wav	E:\Andean\Nyctibiidae\Nyctibius_aethereus-ML30909.wav	3	a

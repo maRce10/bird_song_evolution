@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.187127931	8.454675997	2133.0	5124.7	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	1	a
+2	Spectrogram 1	1	8.804800873	9.009590750	3296.4	4515.3	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	1	b
+3	Spectrogram 1	1	9.037666782	9.186304596	3019.4	4210.6	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	1	c
+4	Spectrogram 1	1	9.216032159	9.341548536	2936.3	4099.7	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	1	d
+5	Spectrogram 1	1	9.371276099	9.481928694	2853.2	4016.6	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	1	e
+6	Spectrogram 1	1	9.511656257	9.599187414	2742.4	3988.9	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	1	f
+7	Spectrogram 1	1	9.615702727	9.642127227	2742.4	4155.2	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	1	g
+8	Spectrogram 1	1	9.653687946	9.670203259	1856.0	4155.2	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	1	h
+9	Spectrogram 1	1	12.626057543	12.896908671	1745.2	5041.6	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	2	a
+10	Spectrogram 1	1	12.996000547	13.202441956	2936.3	4349.1	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	2	b
+11	Spectrogram 1	1	13.238775644	13.390716521	2991.7	4238.3	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	2	c
+12	Spectrogram 1	1	13.422095615	13.557521180	2880.9	4072.0	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	2	d
+13	Spectrogram 1	1	13.593854868	13.707810525	2742.4	3878.1	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	2	e
+14	Spectrogram 1	1	13.744144213	13.811856995	3074.8	4044.3	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	2	i
+15	Spectrogram 1	1	15.332845797	15.611954581	1772.9	5374.0	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	3	a
+16	Spectrogram 1	1	15.681318895	15.891063366	2964.0	4626.1	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	3	b
+17	Spectrogram 1	1	15.929048585	16.080989462	3019.4	4543.0	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	3	c
+18	Spectrogram 1	1	16.109065494	16.246142589	2770.1	4182.9	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	3	d
+19	Spectrogram 1	1	16.282476277	16.406341123	2714.7	4099.7	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	3	e
+20	Spectrogram 1	1	16.436068686	16.538463624	2742.4	3961.2	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	3	f
+21	Spectrogram 1	1	16.554978937	16.614434063	2687.0	4044.3	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	3	j
+22	Spectrogram 1	1	16.625994782	16.645813157	1606.7	3905.8	Ornithion_brunneicapillus-ML212208.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ornithion_brunneicapillus-ML212208.wav	3	h

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.504261080	19.263965465	997.2	1551.3	Tinamus_solitarius-ML18804.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_solitarius-ML18804.wav	1	a
+2	Spectrogram 1	1	35.766065923	36.320980430	1024.9	1579.0	Tinamus_solitarius-ML18804.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_solitarius-ML18804.wav	2	a
+3	Spectrogram 1	1	56.031488716	56.885276582	997.2	1551.3	Tinamus_solitarius-ML18804.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_solitarius-ML18804.wav	3	a

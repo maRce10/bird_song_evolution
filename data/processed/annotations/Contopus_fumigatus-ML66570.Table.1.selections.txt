@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.774591934	5.057201703	1698.2	2952.2	Contopus_fumigatus-ML66570.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_fumigatus-ML66570.wav	1	a
+2	Spectrogram 1	1	5.912037862	6.262380550	1724.3	3762.1	Contopus_fumigatus-ML66570.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_fumigatus-ML66570.wav	1	b
+3	Spectrogram 1	1	6.987901843	7.261169140	1698.2	2952.2	Contopus_fumigatus-ML66570.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_fumigatus-ML66570.wav	2	a
+4	Spectrogram 1	1	7.957183053	8.326210684	1802.7	3762.1	Contopus_fumigatus-ML66570.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_fumigatus-ML66570.wav	2	b
+5	Spectrogram 1	1	9.185718275	9.463656807	1750.4	2926.1	Contopus_fumigatus-ML66570.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_fumigatus-ML66570.wav	3	a
+6	Spectrogram 1	1	10.228141254	10.496737315	1802.7	2926.1	Contopus_fumigatus-ML66570.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_fumigatus-ML66570.wav	3	a
+7	Spectrogram 1	1	11.127354154	11.494046168	1776.5	3814.3	Contopus_fumigatus-ML66570.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_fumigatus-ML66570.wav	3	b

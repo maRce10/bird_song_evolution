@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.757255572	9.003510473	1828.0	5769.6	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	1	a
+2	Spectrogram 1	1	9.036589490	9.279168944	1656.6	5769.6	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	1	a
+3	Spectrogram 1	1	9.326949746	9.598932770	1485.2	5826.7	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	1	a
+4	Spectrogram 1	1	9.635687233	9.918696596	1313.9	5712.4	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	1	a
+5	Spectrogram 1	1	9.970152844	10.249486762	1542.4	5769.6	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	1	a
+6	Spectrogram 1	1	10.356074402	10.628057427	1028.2	5769.6	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	1	a
+7	Spectrogram 1	1	19.141771429	19.395377222	1371.0	6112.3	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	2	a
+8	Spectrogram 1	1	19.417429900	19.663684800	1542.4	6055.2	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	2	a
+9	Spectrogram 1	1	19.704114709	19.968746841	1599.5	6112.3	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	2	a
+10	Spectrogram 1	1	20.012852197	20.288510668	1371.0	5712.4	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	2	a
+11	Spectrogram 1	1	20.336291469	20.619300833	1485.2	5998.1	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	2	a
+12	Spectrogram 1	1	20.744265723	21.027275086	1313.9	5426.8	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	2	a
+13	Spectrogram 1	1	41.778973911	42.043606043	1542.4	5883.8	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	3	a
+14	Spectrogram 1	1	42.061983274	42.304562729	1599.5	5940.9	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	3	a
+15	Spectrogram 1	1	42.344992638	42.616975662	1371.0	5998.1	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	3	a
+16	Spectrogram 1	1	42.657405572	42.925713150	1542.4	5826.7	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	3	a
+17	Spectrogram 1	1	42.969818505	43.260178761	1313.9	5769.6	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	3	a
+18	Spectrogram 1	1	43.366766275	43.646100192	1085.4	4398.6	Grallaria_obscura-ML171865.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_obscura-ML171865.wav	3	b

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	57.311756087	57.734548093	2926.1	5016.1	Zosterops_luteus-ML175863341.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_luteus-ML175863341.wav	1	a
+2	Spectrogram 1	1	58.926953670	59.306805862	2664.8	5277.4	Zosterops_luteus-ML175863341.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_luteus-ML175863341.wav	2	a
+3	Spectrogram 1	1	60.327452188	60.737031943	2769.3	5120.6	Zosterops_luteus-ML175863341.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_luteus-ML175863341.wav	3	a

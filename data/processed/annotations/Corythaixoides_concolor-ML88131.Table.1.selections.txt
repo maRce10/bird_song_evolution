@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	35.612537107	36.378847617	304.7	1495.9	Corythaixoides_concolor-ML88131.wav	E:\Andean\Musophagidae\Corythaixoides_concolor-ML88131.wav	1	a
+2	Spectrogram 1	1	40.428402293	41.069196426	249.3	1662.1	Corythaixoides_concolor-ML88131.wav	E:\Andean\Musophagidae\Corythaixoides_concolor-ML88131.wav	2	a
+3	Spectrogram 1	1	46.939750800	47.587151058	249.3	1468.2	Corythaixoides_concolor-ML88131.wav	E:\Andean\Musophagidae\Corythaixoides_concolor-ML88131.wav	3	a

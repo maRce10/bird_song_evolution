@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.183969027	1.710789354	256.9	7264.4	Tchagra_jamesi-ML28224621.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Tchagra_jamesi-ML28224621.wav	1	a
+2	Spectrogram 1	1	2.551149661	3.022901661	700.7	7474.6	Tchagra_jamesi-ML28224621.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Tchagra_jamesi-ML28224621.wav	2	a
+3	Spectrogram 1	1	5.258451162	5.805463209	607.3	6727.1	Tchagra_jamesi-ML28224621.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Tchagra_jamesi-ML28224621.wav	3	a

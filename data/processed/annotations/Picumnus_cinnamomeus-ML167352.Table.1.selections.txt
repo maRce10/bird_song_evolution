@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	44.311112694	44.355489435	5447.0	6756.4	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	1	a
+2	Spectrogram 1	1	44.717510212	44.761886953	5473.2	6756.4	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	1	a
+3	Spectrogram 1	1	45.028147396	45.072524137	5525.6	6808.8	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	1	a
+4	Spectrogram 1	1	45.595702551	45.637743674	5237.5	6730.2	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	1	a
+5	Spectrogram 1	1	48.758449136	48.802825876	5499.4	6939.7	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	2	a
+6	Spectrogram 1	1	49.080764409	49.122805531	5473.2	6992.1	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	2	a
+7	Spectrogram 1	1	49.253600135	49.295641258	5342.3	6756.4	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	2	a
+8	Spectrogram 1	1	49.461470130	49.501175635	5368.5	6677.9	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	2	a
+9	Spectrogram 1	1	49.851518323	49.895895064	4844.7	6677.9	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	2	a
+10	Spectrogram 1	1	50.747987593	50.787693098	4713.8	6573.1	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	3	a
+11	Spectrogram 1	1	51.011912418	51.053953541	4740.0	6808.8	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	3	a
+12	Spectrogram 1	1	51.362255107	51.406631847	4425.7	6023.2	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	3	a
+13	Spectrogram 1	1	51.490714092	51.542097687	4609.0	6311.2	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	3	a
+14	Spectrogram 1	1	51.698584087	51.733618356	4818.5	6258.8	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	3	a
+15	Spectrogram 1	1	52.182056997	52.219426884	4609.0	6154.1	Picumnus_cinnamomeus-ML167352.wav	D:\Andean\Picidae\Picumnus_cinnamomeus-ML167352.wav	3	a

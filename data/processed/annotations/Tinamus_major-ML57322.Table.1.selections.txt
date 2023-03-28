@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	27.651509740	28.511017135	997.2	1468.2	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	1	a
+2	Spectrogram 1	1	29.108935323	29.959100247	997.2	1440.5	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	1	a
+3	Spectrogram 1	1	30.416881359	31.594032792	997.2	1468.2	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	1	b
+4	Spectrogram 1	1	32.285375697	33.313047582	997.2	1468.2	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	1	c
+5	Spectrogram 1	1	33.696088921	34.901267769	997.2	1468.2	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	1	b
+6	Spectrogram 1	1	39.294215541	40.200435294	1024.9	1412.8	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	2	a
+7	Spectrogram 1	1	40.709439826	41.648518406	1024.9	1440.5	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	2	a
+8	Spectrogram 1	1	42.068929632	43.227396636	1052.6	1495.9	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	2	b
+9	Spectrogram 1	1	44.049534659	45.067864073	1024.9	1495.9	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	2	c
+10	Spectrogram 1	1	45.469590355	46.693454146	1052.6	1495.9	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	2	d
+12	Spectrogram 1	1	53.224679032	54.074843955	1052.6	1357.3	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	3	a
+13	Spectrogram 1	1	54.598022370	55.429502350	1052.6	1385.1	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	3	a
+14	Spectrogram 1	1	55.962023236	56.896270405	1024.9	1412.8	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	3	e
+15	Spectrogram 1	1	57.269969272	58.531202950	858.7	1495.9	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	3	f
+16	Spectrogram 1	1	59.241230798	60.231532797	997.2	1468.2	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	3	c
+17	Spectrogram 1	1	60.585425026	61.922520173	1024.9	1468.2	Tinamus_major-ML57322.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_major-ML57322.wav	3	d

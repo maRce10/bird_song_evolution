@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.517344131	1.855096536	794.2	4087.7	Aphelocoma_woodhouseii-ML269565101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_woodhouseii-ML269565101.wav	1	a
+2	Spectrogram 1	1	4.105061122	4.451991581	911.0	4181.1	Aphelocoma_woodhouseii-ML269565101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_woodhouseii-ML269565101.wav	2	a
+3	Spectrogram 1	1	6.337563932	6.664302671	780.9	4157.3	Aphelocoma_woodhouseii-ML269565101.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_woodhouseii-ML269565101.wav	3	a

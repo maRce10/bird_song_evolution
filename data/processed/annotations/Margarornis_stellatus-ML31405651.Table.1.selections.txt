@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.069460491	1.110117667	5885.9	10592.8	Margarornis_stellatus-ML31405651.wav	E:\Escritorio\Cantos\Furnariidae\Margarornis_stellatus-ML31405651.wav	1	a
+2	Spectrogram 1	1	1.134865513	1.176406540	5973.7	10585.8	Margarornis_stellatus-ML31405651.wav	E:\Escritorio\Cantos\Furnariidae\Margarornis_stellatus-ML31405651.wav	1	a
+3	Spectrogram 1	1	2.889101236	2.926223005	5080.3	11676.0	Margarornis_stellatus-ML31405651.wav	E:\Escritorio\Cantos\Furnariidae\Margarornis_stellatus-ML31405651.wav	2	b
+4	Spectrogram 1	1	2.961577071	3.002234247	3010.1	9750.2	Margarornis_stellatus-ML31405651.wav	E:\Escritorio\Cantos\Furnariidae\Margarornis_stellatus-ML31405651.wav	2	c
+5	Spectrogram 1	1	19.023677277	19.066102156	5513.6	10255.7	Margarornis_stellatus-ML31405651.wav	E:\Escritorio\Cantos\Furnariidae\Margarornis_stellatus-ML31405651.wav	3	d
+6	Spectrogram 1	1	19.085546892	19.127971771	5537.6	9966.9	Margarornis_stellatus-ML31405651.wav	E:\Escritorio\Cantos\Furnariidae\Margarornis_stellatus-ML31405651.wav	3	e
+7	Spectrogram 1	1	19.158022727	19.202215310	5561.7	10279.8	Margarornis_stellatus-ML31405651.wav	E:\Escritorio\Cantos\Furnariidae\Margarornis_stellatus-ML31405651.wav	3	d

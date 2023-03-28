@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.644462313	22.714193809	2763.3	6654.5	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	1	a
+2	Spectrogram 1	1	22.720170794	22.779940648	1353.5	7218.4	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	1	b
+3	Spectrogram 1	1	22.813810232	23.032966362	845.9	4906.3	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	1	c
+4	Spectrogram 1	1	23.066835945	23.132582784	1748.2	6710.9	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	1	a
+5	Spectrogram 1	1	23.154498397	23.371662199	1297.1	7726.0	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	1	d
+6	Spectrogram 1	1	23.441393695	23.798020488	1466.2	4737.1	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	1	c
+7	Spectrogram 1	1	23.843844043	23.963383750	3101.7	6936.4	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	1	e
+8	Spectrogram 1	1	23.965376079	24.021161275	1297.1	6654.5	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	1	f
+9	Spectrogram 1	1	24.600907849	24.752324812	1691.8	4173.1	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	2	g
+10	Spectrogram 1	1	24.778225082	25.089028321	845.9	5695.8	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	2	c
+11	Spectrogram 1	1	25.126879970	25.274312275	1973.8	3891.2	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	2	h
+12	Spectrogram 1	1	25.318143018	25.457606010	1917.4	6034.1	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	2	i
+13	Spectrogram 1	1	25.475536290	25.688715435	845.9	6767.3	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	2	j
+14	Spectrogram 1	1	125.644158757	125.747759837	1691.8	3778.4	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	3	k
+15	Spectrogram 1	1	126.063543897	126.210976202	1071.5	4116.8	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	3	l
+16	Spectrogram 1	1	126.549672040	126.657257776	1240.7	4004.0	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	3	g
+17	Spectrogram 1	1	126.691124175	127.011889056	676.7	4906.3	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	3	c
+18	Spectrogram 1	1	127.087597538	127.231045186	1973.8	6485.3	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	3	h
+19	Spectrogram 1	1	127.258937785	127.402385434	1240.7	6710.9	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	3	i
+20	Spectrogram 1	1	127.404377762	127.615564578	1015.1	7105.6	Cecropis_daurica-ML86182.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_daurica-ML86182.wav	3	j

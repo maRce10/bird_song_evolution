@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.040024484	1.372024577	355.6	4125.5	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	1	a
+2	Spectrogram 1	1	1.496524612	1.726370829	426.8	4338.9	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	1	b
+3	Spectrogram 1	1	1.892370876	2.138178637	497.9	4267.7	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	1	b
+4	Spectrogram 1	1	2.304178683	2.546794135	426.8	4338.9	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	1	b
+5	Spectrogram 1	1	2.744717267	2.977755794	426.8	4267.7	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	1	b
+6	Spectrogram 1	1	3.175678926	3.421486687	355.6	4196.6	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	1	b
+7	Spectrogram 1	1	3.603448276	3.842871419	355.6	4125.5	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	1	b
+8	Spectrogram 1	1	11.502259224	11.831067008	284.5	4979.0	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	2	a
+9	Spectrogram 1	1	11.968336277	12.207759420	284.5	4338.9	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	2	b
+10	Spectrogram 1	1	12.376951775	12.629144153	355.6	4410.0	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	2	b
+11	Spectrogram 1	1	12.811105743	13.053721195	355.6	4267.7	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	2	b
+12	Spectrogram 1	1	19.844504024	20.186081043	497.9	5263.5	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	3	a
+13	Spectrogram 1	1	20.320158003	20.565965764	426.8	4979.0	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	3	b
+14	Spectrogram 1	1	20.757504279	21.006504348	355.6	4979.0	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	3	b
+15	Spectrogram 1	1	21.185273629	21.440658316	640.2	4979.0	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	3	b
+16	Spectrogram 1	1	21.644966065	21.906735369	426.8	4694.5	Cyanocorax_beecheii-ML31998721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_beecheii-ML31998721.wav	3	b

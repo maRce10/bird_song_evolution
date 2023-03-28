@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	81.796940832	81.981912334	526.3	2022.2	Sitta_leucopsis-ML171038901.wav	D:\Andean\Sittidae\Sitta_leucopsis-ML171038901.wav	1	a
+2	Spectrogram 1	1	82.054579710	82.219732837	581.7	2133.0	Sitta_leucopsis-ML171038901.wav	D:\Andean\Sittidae\Sitta_leucopsis-ML171038901.wav	1	a
+3	Spectrogram 1	1	82.265975713	82.497190091	1052.6	2022.2	Sitta_leucopsis-ML171038901.wav	D:\Andean\Sittidae\Sitta_leucopsis-ML171038901.wav	1	b
+4	Spectrogram 1	1	82.774647344	82.995952535	360.1	2049.9	Sitta_leucopsis-ML171038901.wav	D:\Andean\Sittidae\Sitta_leucopsis-ML171038901.wav	2	a
+5	Spectrogram 1	1	83.058710723	83.270106725	387.8	2049.9	Sitta_leucopsis-ML171038901.wav	D:\Andean\Sittidae\Sitta_leucopsis-ML171038901.wav	2	a
+6	Spectrogram 1	1	83.319652664	83.554170104	1052.6	2105.3	Sitta_leucopsis-ML171038901.wav	D:\Andean\Sittidae\Sitta_leucopsis-ML171038901.wav	2	b
+7	Spectrogram 1	1	83.821718170	84.023204985	470.9	2049.9	Sitta_leucopsis-ML171038901.wav	D:\Andean\Sittidae\Sitta_leucopsis-ML171038901.wav	3	a
+8	Spectrogram 1	1	84.112387674	84.333692864	831.0	2133.0	Sitta_leucopsis-ML171038901.wav	D:\Andean\Sittidae\Sitta_leucopsis-ML171038901.wav	3	a
+9	Spectrogram 1	1	84.482330678	84.703635869	1108.0	2105.3	Sitta_leucopsis-ML171038901.wav	D:\Andean\Sittidae\Sitta_leucopsis-ML171038901.wav	3	b

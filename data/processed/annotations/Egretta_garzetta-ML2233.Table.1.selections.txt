@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.010497272	25.567214815	524.4	6502.4	Egretta_garzetta-ML2233.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_garzetta-ML2233.wav	1	a
+2	Spectrogram 1	1	28.871489816	29.371471814	699.2	7061.7	Egretta_garzetta-ML2233.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_garzetta-ML2233.wav	2	a
+3	Spectrogram 1	1	30.495544815	31.030986529	594.3	7760.9	Egretta_garzetta-ML2233.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_garzetta-ML2233.wav	3	a

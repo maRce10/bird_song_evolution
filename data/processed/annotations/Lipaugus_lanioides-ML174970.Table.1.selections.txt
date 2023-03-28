@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.374048785	16.436620657	1625.200	5402.700	Lipaugus_lanioides-ML174970.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_lanioides-ML174970.wav	1	a
+2	Spectrogram 1	1	16.653892025	17.971015753	1581.300	5841.900	Lipaugus_lanioides-ML174970.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_lanioides-ML174970.wav	1	b
+3	Spectrogram 1	1	47.179428085	48.175479032	1524.400	5825.600	Lipaugus_lanioides-ML174970.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_lanioides-ML174970.wav	2	a
+4	Spectrogram 1	1	48.331970631	49.604053777	1606.100	5880.000	Lipaugus_lanioides-ML174970.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_lanioides-ML174970.wav	2	b
+5	Spectrogram 1	1	77.557580182	78.569775994	1497.200	5798.300	Lipaugus_lanioides-ML174970.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_lanioides-ML174970.wav	3	a
+6	Spectrogram 1	1	78.728169232	79.978000671	1524.400	5907.200	Lipaugus_lanioides-ML174970.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_lanioides-ML174970.wav	3	b

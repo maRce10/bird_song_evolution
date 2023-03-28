@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.421183923	4.458610681	471.4	1623.6	Phoeniculus_damarensis-ML61195.wav	D:\Andean\Phoeniculidae\Phoeniculus_damarensis-ML61195.wav	1	a
+2	Spectrogram 1	1	4.484646687	4.525327946	366.6	1597.4	Phoeniculus_damarensis-ML61195.wav	D:\Andean\Phoeniculidae\Phoeniculus_damarensis-ML61195.wav	2	a
+3	Spectrogram 1	1	4.554618452	4.596926962	314.3	1571.3	Phoeniculus_damarensis-ML61195.wav	D:\Andean\Phoeniculidae\Phoeniculus_damarensis-ML61195.wav	3	a

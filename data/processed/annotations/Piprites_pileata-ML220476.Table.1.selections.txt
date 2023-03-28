@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	138.733068812	138.914737251	1254.0	3448.6	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	1	a
+2	Spectrogram 1	1	139.094754460	139.223573899	1201.8	2926.1	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	1	b
+3	Spectrogram 1	1	139.289635150	139.443227558	1149.5	3213.4	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	1	c
+4	Spectrogram 1	1	139.491121965	139.623244467	1306.3	3239.6	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	1	d
+5	Spectrogram 1	1	139.666184280	139.790049125	1358.5	3135.1	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	1	e
+6	Spectrogram 1	1	139.843237625	139.981039083	1280.2	2926.1	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	1	f
+7	Spectrogram 1	1	140.029411414	140.145024501	914.4	2847.7	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	1	g
+8	Spectrogram 1	1	140.219764275	140.371579440	992.8	2638.7	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	1	h
+9	Spectrogram 1	1	147.251584318	147.443161945	1175.7	3265.7	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	2	a
+10	Spectrogram 1	1	147.602448333	147.725068274	1227.9	2978.3	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	2	b
+11	Spectrogram 1	1	147.789297767	147.944616358	1201.8	3918.8	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	2	i
+12	Spectrogram 1	1	147.992496526	148.122123320	1227.9	3161.2	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	2	d
+13	Spectrogram 1	1	148.173506409	148.294958541	1384.7	3161.2	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	2	e
+14	Spectrogram 1	1	148.346342136	148.481807975	1071.1	2952.2	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	2	f
+15	Spectrogram 1	1	148.521513480	148.640629994	966.6	2926.1	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	2	g
+16	Spectrogram 1	1	148.716537576	148.874191786	992.8	2743.2	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	2	h
+17	Spectrogram 1	1	160.071640998	160.251483578	1175.7	3318.0	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	3	a
+18	Spectrogram 1	1	160.439500821	160.564456380	1097.3	2899.9	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	3	b
+19	Spectrogram 1	1	160.628685345	160.774661466	1358.5	3762.1	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	3	j
+20	Spectrogram 1	1	160.827212869	160.952168428	1489.2	3239.6	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	3	d
+21	Spectrogram 1	1	161.000048595	161.121500727	1436.9	3500.8	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	3	e
+22	Spectrogram 1	1	161.171716512	161.314189206	1201.8	2952.2	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	3	f
+23	Spectrogram 1	1	161.355062519	161.471843415	914.4	2952.2	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	3	g
+24	Spectrogram 1	1	161.541911953	161.703069590	888.3	2821.6	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	3	h
+25	Spectrogram 1	1	161.761460038	161.873569698	888.3	2899.9	Piprites_pileata-ML220476.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_pileata-ML220476.wav	3	g

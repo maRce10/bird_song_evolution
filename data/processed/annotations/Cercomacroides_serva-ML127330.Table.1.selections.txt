@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	53.587960577	53.753113704	1357.3	2133.0	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	1	a
+2	Spectrogram 1	1	54.073510771	54.228754710	1440.5	2382.3	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	1	a
+3	Spectrogram 1	1	54.466575213	54.618516090	1135.7	2659.3	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	1	b
+4	Spectrogram 1	1	54.834846549	54.861706155	1135.7	2714.7	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	1	c
+5	Spectrogram 1	1	54.873384245	54.976151433	1080.3	2631.6	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	1	d
+6	Spectrogram 1	1	55.137961223	55.161317402	914.1	2631.6	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	1	c
+7	Spectrogram 1	1	55.171827683	55.267588017	1024.9	2991.7	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	1	e
+8	Spectrogram 1	1	58.952044192	59.107288132	1385.1	2105.3	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	2	a
+9	Spectrogram 1	1	59.444200511	59.589535263	1579.0	2437.7	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	2	a
+10	Spectrogram 1	1	59.857083329	60.009024206	1024.9	2548.5	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	2	b
+11	Spectrogram 1	1	60.227026333	60.263543703	1080.3	2687.0	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	2	c
+12	Spectrogram 1	1	60.271718366	60.376821172	1191.1	2742.4	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	2	d
+13	Spectrogram 1	1	60.550726463	60.587394568	1080.3	2687.0	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	2	c
+14	Spectrogram 1	1	60.594401422	60.699504228	1135.7	2797.8	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	2	d
+15	Spectrogram 1	1	60.831486779	60.857158438	1080.3	2520.8	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	2	c
+16	Spectrogram 1	1	60.874675573	60.963429054	1385.1	3019.4	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	2	f
+17	Spectrogram 1	1	65.641781586	65.773743998	1440.5	2105.3	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	3	a
+18	Spectrogram 1	1	66.114744215	66.265391571	1440.5	2437.7	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	3	a
+19	Spectrogram 1	1	66.538658868	66.677628134	1218.8	2576.2	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	3	b
+20	Spectrogram 1	1	66.908700587	66.936144098	1246.5	2659.3	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	3	c
+21	Spectrogram 1	1	66.943734856	67.049421567	1246.5	2493.1	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	3	d
+22	Spectrogram 1	1	67.227512434	67.247365186	1024.9	2659.3	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	3	c
+23	Spectrogram 1	1	67.260211084	67.345461139	1191.1	3185.6	Cercomacroides_serva-ML127330.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_serva-ML127330.wav	3	e

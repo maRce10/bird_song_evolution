@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	32.251386411	32.608117165	1489.2	4676.5	Contopus_pallidus-ML164827.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pallidus-ML164827.wav	1	a
+2	Spectrogram 1	1	36.470648696	36.810864137	1541.4	4650.4	Contopus_pallidus-ML164827.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pallidus-ML164827.wav	2	a
+3	Spectrogram 1	1	43.342324145	43.702357962	1515.3	4572.0	Contopus_pallidus-ML164827.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pallidus-ML164827.wav	3	a

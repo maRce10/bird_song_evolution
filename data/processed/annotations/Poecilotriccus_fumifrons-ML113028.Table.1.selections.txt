@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	77.882203692	77.901472540	1045.0	3527.0	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	1	a
+2	Spectrogram 1	1	78.637192613	78.666971742	940.5	3553.1	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	1	b
+3	Spectrogram 1	1	78.690327921	78.717771432	888.3	3318.0	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	1	c
+4	Spectrogram 1	1	78.742295420	78.770906739	809.9	3213.4	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	1	c
+5	Spectrogram 1	1	78.794846823	78.822290334	888.3	2220.7	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	1	d
+6	Spectrogram 1	1	78.840975277	78.869586596	914.4	1985.5	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	1	e
+7	Spectrogram 1	1	78.888271540	78.915715050	862.1	1881.0	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	1	e
+8	Spectrogram 1	1	81.185112376	81.207408049	1018.9	3605.3	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	2	a
+9	Spectrogram 1	1	86.646224960	86.665217569	1097.3	3762.1	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	3	a
+10	Spectrogram 1	1	87.063236605	87.086358043	992.8	3500.8	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	3	a
+11	Spectrogram 1	1	87.414185134	87.443086931	1149.5	3527.0	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	3	b
+12	Spectrogram 1	1	87.464556837	87.495935931	914.4	3239.6	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	3	c
+13	Spectrogram 1	1	87.517405838	87.547959166	940.5	2429.7	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	3	d
+14	Spectrogram 1	1	87.569429073	87.596679339	914.4	2011.7	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	3	e
+15	Spectrogram 1	1	87.614846183	87.646225277	940.5	1854.9	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	3	e
+16	Spectrogram 1	1	87.662740590	87.687513559	940.5	1593.7	Poecilotriccus_fumifrons-ML113028.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_fumifrons-ML113028.wav	3	f

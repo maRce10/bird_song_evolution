@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.756296546	6.031899461	2351.3	3187.3	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	1	a
+2	Spectrogram 1	1	6.108974852	6.403262710	2403.6	3239.6	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	1	b
+3	Spectrogram 1	1	6.531721696	7.052564493	2063.9	3396.3	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	1	c
+4	Spectrogram 1	1	9.073199469	9.136261152	1463.0	2926.1	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	2	d
+5	Spectrogram 1	1	9.573021704	9.862638326	2351.3	3161.2	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	2	a
+6	Spectrogram 1	1	9.946720571	10.238672812	2403.6	3213.4	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	2	b
+7	Spectrogram 1	1	10.374138651	10.925344481	2090.0	3500.8	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	2	e
+8	Spectrogram 1	1	15.643791088	15.713859625	1463.0	2899.9	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	3	d
+9	Spectrogram 1	1	16.029168045	16.307106578	2325.2	3318.0	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	3	a
+10	Spectrogram 1	1	16.384181969	16.692483535	2377.4	3239.6	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	3	b
+11	Spectrogram 1	1	16.820942520	17.358134642	2090.0	3553.1	Contopus_pertinax-ML32609901.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_pertinax-ML32609901.wav	3	e

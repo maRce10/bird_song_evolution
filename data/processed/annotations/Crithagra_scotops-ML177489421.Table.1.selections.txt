@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.053242218	9.130137312	6566.7	10322.2	Crithagra_scotops-ML177489421.wav	E:\Escritorio\Cantos\Fringillidae\Crithagra_scotops-ML177489421.wav	1	a
+2	Spectrogram 1	1	11.293058276	11.364650259	5929.8	10497.9	Crithagra_scotops-ML177489421.wav	E:\Escritorio\Cantos\Fringillidae\Crithagra_scotops-ML177489421.wav	2	a
+3	Spectrogram 1	1	13.527861991	13.588847755	6974.4	10872.7	Crithagra_scotops-ML177489421.wav	E:\Escritorio\Cantos\Fringillidae\Crithagra_scotops-ML177489421.wav	3	a

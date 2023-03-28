@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.222378753	5.271874445	373.0	662.1	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	1	a
+2	Spectrogram 1	1	5.470741066	5.531743153	354.4	913.9	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	1	b
+3	Spectrogram 1	1	5.772984465	5.835482215	391.7	913.9	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	1	b
+4	Spectrogram 1	1	6.054635008	6.122766660	335.7	895.2	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	1	b
+5	Spectrogram 1	1	6.322125374	6.390872898	373.0	969.8	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	1	b
+6	Spectrogram 1	1	6.579616101	6.648363625	373.0	895.2	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	1	b
+7	Spectrogram 1	1	6.837106828	6.899604577	373.0	820.6	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	1	c
+8	Spectrogram 1	1	9.902077178	9.958325152	342.9	738.5	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	2	a
+9	Spectrogram 1	1	10.180817139	10.252064573	369.3	870.4	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	2	b
+10	Spectrogram 1	1	10.478306426	10.552053770	435.2	936.3	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	2	b
+11	Spectrogram 1	1	10.763298174	10.835795563	422.0	923.1	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	2	b
+12	Spectrogram 1	1	11.024538766	11.095786200	408.8	936.3	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	2	b
+13	Spectrogram 1	1	11.274529763	11.350777017	395.6	936.3	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	2	b
+14	Spectrogram 1	1	11.523270805	11.594518239	408.8	923.1	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	2	b
+15	Spectrogram 1	1	11.780761531	11.843259281	342.9	817.6	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	2	c
+16	Spectrogram 1	1	14.966855407	15.033894061	391.7	736.7	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	3	a
+17	Spectrogram 1	1	15.249347221	15.323094565	373.0	913.9	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	3	b
+18	Spectrogram 1	1	15.549336417	15.620583852	401.0	941.8	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	3	b
+19	Spectrogram 1	1	15.825576469	15.901823723	345.0	923.2	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	3	b
+20	Spectrogram 1	1	16.098066656	16.171814000	335.7	913.9	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	3	b
+21	Spectrogram 1	1	16.350559343	16.421806777	335.7	969.8	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	3	b
+22	Spectrogram 1	1	16.589300745	16.656798314	335.7	979.1	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	3	b
+23	Spectrogram 1	1	16.824292282	16.883040167	345.0	941.8	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	3	b
+24	Spectrogram 1	1	17.046784270	17.113031884	363.7	783.3	Coua_gigas-ML85849.wav	E:\Escritorio\Cantos\Cuculidae\Coua_gigas-ML85849.wav	3	c

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.042366930	5.093564400	4182.9	6537.4	Psephotus_dissimilis-ML203985731.wav	D:\Andean\Psittaculidae\Psephotus_dissimilis-ML203985731.wav	1	a
+2	Spectrogram 1	1	5.347922207	5.390862020	4016.6	6620.5	Psephotus_dissimilis-ML203985731.wav	D:\Andean\Psittaculidae\Psephotus_dissimilis-ML203985731.wav	2	a
+3	Spectrogram 1	1	5.547636996	5.593879872	4044.3	6509.7	Psephotus_dissimilis-ML203985731.wav	D:\Andean\Psittaculidae\Psephotus_dissimilis-ML203985731.wav	3	a

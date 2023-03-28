@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.146825845	7.181824585	1603.2	2481.7	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	1	a
+2	Spectrogram 1	1	7.246822244	7.284320893	1603.2	2437.8	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	1	a
+3	Spectrogram 1	1	7.381817382	7.426815762	1635.4	2481.7	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	1	a
+4	Spectrogram 1	1	7.519312430	7.561810900	1625.2	2481.7	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	1	a
+5	Spectrogram 1	1	7.646807839	7.694306128	1663.6	2509.5	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	1	a
+6	Spectrogram 1	1	7.792216741	7.836409324	1635.4	2424.9	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	1	a
+7	Spectrogram 1	1	7.935400708	7.984896400	1635.4	2481.3	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	1	a
+8	Spectrogram 1	1	8.230606231	8.260657186	1607.2	2509.5	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	2	a
+9	Spectrogram 1	1	8.331365318	8.372022494	1635.4	2537.7	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	2	a
+10	Spectrogram 1	1	8.465710768	8.508135647	1691.8	2594.1	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	2	a
+11	Spectrogram 1	1	8.603591625	8.649551911	1663.6	2594.1	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	2	a
+12	Spectrogram 1	1	8.741472482	8.789200471	1691.8	2650.5	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	2	a
+13	Spectrogram 1	1	8.879353338	8.921778217	1663.6	2622.3	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	2	a
+14	Spectrogram 1	1	9.190468227	9.225822293	1579.0	2594.1	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	3	a
+15	Spectrogram 1	1	9.292995018	9.335419897	1635.4	2565.9	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	3	a
+16	Spectrogram 1	1	9.425572765	9.469765347	1691.8	2537.7	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	3	a
+17	Spectrogram 1	1	9.563453621	9.605878500	1691.8	2565.9	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	3	a
+18	Spectrogram 1	1	9.697799071	9.749062467	1635.4	2622.3	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	3	a
+19	Spectrogram 1	1	9.839215335	9.885175620	1663.6	2622.3	Pogoniulus_leucomystax-ML107917.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_leucomystax-ML107917.wav	3	a

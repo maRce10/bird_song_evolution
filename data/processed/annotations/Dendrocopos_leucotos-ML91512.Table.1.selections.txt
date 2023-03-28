@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	42.714483672	42.764029610	759.4	4085.3	Dendrocopos_leucotos-ML91512.wav	D:\Andean\Picidae\Dendrocopos_leucotos-ML91512.wav	1	a
+2	Spectrogram 1	1	42.797060235	42.846606173	733.3	3954.3	Dendrocopos_leucotos-ML91512.wav	D:\Andean\Picidae\Dendrocopos_leucotos-ML91512.wav	1	a
+3	Spectrogram 1	1	43.464278869	43.523733994	707.1	4242.4	Dendrocopos_leucotos-ML91512.wav	D:\Andean\Picidae\Dendrocopos_leucotos-ML91512.wav	2	a
+4	Spectrogram 1	1	43.553461557	43.609613620	733.3	3954.3	Dendrocopos_leucotos-ML91512.wav	D:\Andean\Picidae\Dendrocopos_leucotos-ML91512.wav	2	a
+5	Spectrogram 1	1	44.263620004	44.319772067	707.1	4268.6	Dendrocopos_leucotos-ML91512.wav	D:\Andean\Picidae\Dendrocopos_leucotos-ML91512.wav	3	a
+6	Spectrogram 1	1	44.356105755	44.408954755	680.9	3902.0	Dendrocopos_leucotos-ML91512.wav	D:\Andean\Picidae\Dendrocopos_leucotos-ML91512.wav	3	a

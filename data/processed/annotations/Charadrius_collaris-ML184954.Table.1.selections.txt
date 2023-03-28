@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.920039751	8.976732316	1507.9	3337.2	Charadrius_collaris-ML184954.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_collaris-ML184954.wav	1	a
+2	Spectrogram 1	1	8.989133814	9.045826378	1062.9	2125.9	Charadrius_collaris-ML184954.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_collaris-ML184954.wav	1	b
+5	Spectrogram 1	1	9.456847470	9.518854962	1433.7	3609.1	Charadrius_collaris-ML184954.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_collaris-ML184954.wav	2	a
+3	Spectrogram 1	1	9.942277552	10.002513402	1186.5	2669.7	Charadrius_collaris-ML184954.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_collaris-ML184954.wav	3	c
+4	Spectrogram 1	1	10.098182104	10.153103026	1236.0	2694.5	Charadrius_collaris-ML184954.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_collaris-ML184954.wav	2	a

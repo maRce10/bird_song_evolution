@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	51.158877617	51.390103792	1436.9	4284.6	Poeoptera_kenricki-ML26091.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_kenricki-ML26091.wav	1	a
+2	Spectrogram 1	1	51.411124353	51.581624461	1750.4	3474.7	Poeoptera_kenricki-ML26091.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_kenricki-ML26091.wav	1	b
+3	Spectrogram 1	1	52.541262794	52.716325109	1907.2	3579.2	Poeoptera_kenricki-ML26091.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_kenricki-ML26091.wav	2	c
+4	Spectrogram 1	1	53.266772792	53.533033235	1985.5	3553.1	Poeoptera_kenricki-ML26091.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_kenricki-ML26091.wav	3	d
+5	Spectrogram 1	1	53.729225140	53.958115697	1436.9	4075.6	Poeoptera_kenricki-ML26091.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_kenricki-ML26091.wav	3	a

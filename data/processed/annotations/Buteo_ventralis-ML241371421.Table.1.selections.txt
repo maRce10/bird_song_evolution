@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.857662092	10.477581406	741.6	3683.2	Buteo_ventralis-ML241371421.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_ventralis-ML241371421.wav	1	a
+2	Spectrogram 1	1	16.168339735	17.538000116	840.5	3683.2	Buteo_ventralis-ML241371421.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_ventralis-ML241371421.wav	2	a
+3	Spectrogram 1	1	21.865883227	23.358982136	840.5	3905.7	Buteo_ventralis-ML241371421.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_ventralis-ML241371421.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.552439395	1.803472148	138.5	1163.4	Urile_urile-ML35206991.wav	D:\Andean\Phalacrocoracidae\Urile_urile-ML35206991.wav	1	a
+2	Spectrogram 1	1	2.741541910	3.012393038	166.2	1191.1	Urile_urile-ML35206991.wav	D:\Andean\Phalacrocoracidae\Urile_urile-ML35206991.wav	2	a
+3	Spectrogram 1	1	3.990099550	4.254344554	55.4	1246.5	Urile_urile-ML35206991.wav	D:\Andean\Phalacrocoracidae\Urile_urile-ML35206991.wav	3	a

@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.182431751	0.240687268	1861.0	11166.0	Hirundo_albigularis-ML278521.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_albigularis-ML278521.wav	1	a
+2	Spectrogram 1	1	0.266748947	0.341867903	1691.8	11617.1	Hirundo_albigularis-ML278521.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_albigularis-ML278521.wav	1	a
+3	Spectrogram 1	1	0.420052939	0.479841496	2086.6	13534.5	Hirundo_albigularis-ML278521.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_albigularis-ML278521.wav	1	a
+4	Spectrogram 1	1	0.504370135	0.576423011	1804.6	13590.9	Hirundo_albigularis-ML278521.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_albigularis-ML278521.wav	1	a
+5	Spectrogram 1	1	0.726660924	0.772652121	3045.3	13252.6	Hirundo_albigularis-ML278521.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_albigularis-ML278521.wav	1	b
+6	Spectrogram 1	1	0.787982521	0.856969317	2030.2	13027.0	Hirundo_albigularis-ML278521.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_albigularis-ML278521.wav	1	c
+7	Spectrogram 1	1	0.879964916	0.978079471	2368.5	13309.0	Hirundo_albigularis-ML278521.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_albigularis-ML278521.wav	1	d
+8	Spectrogram 1	1	0.991876831	1.021004589	3270.8	12519.4	Hirundo_albigularis-ML278521.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_albigularis-ML278521.wav	1	c
+9	Spectrogram 1	1	1.031735869	1.074660986	2255.8	12970.6	Hirundo_albigularis-ML278521.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_albigularis-ML278521.wav	1	b
+10	Spectrogram 1	1	1.094590505	1.131383464	1522.6	12745.0	Hirundo_albigularis-ML278521.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_albigularis-ML278521.wav	1	e

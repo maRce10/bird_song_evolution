@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	98.995324526	99.147139691	664.8	1468.2	Poliolimnas_cinereus-ML5678.wav	D:\Andean\Rallidae\Poliolimnas_cinereus-ML5678.wav	1	a
+2	Spectrogram 1	1	99.219543846	99.348002832	720.2	1523.6	Poliolimnas_cinereus-ML5678.wav	D:\Andean\Rallidae\Poliolimnas_cinereus-ML5678.wav	2	a
+3	Spectrogram 1	1	99.443763167	99.562879681	747.9	1551.3	Poliolimnas_cinereus-ML5678.wav	D:\Andean\Rallidae\Poliolimnas_cinereus-ML5678.wav	3	a

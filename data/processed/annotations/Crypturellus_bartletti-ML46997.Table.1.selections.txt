@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.532503739	7.294629176	1523.6	1883.7	Crypturellus_bartletti-ML46997.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_bartletti-ML46997.wav	1	a
+2	Spectrogram 1	1	11.613339981	12.411757105	1523.6	1883.7	Crypturellus_bartletti-ML46997.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_bartletti-ML46997.wav	2	a
+3	Spectrogram 1	1	16.512717786	17.347426597	1523.6	1883.7	Crypturellus_bartletti-ML46997.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_bartletti-ML46997.wav	3	a

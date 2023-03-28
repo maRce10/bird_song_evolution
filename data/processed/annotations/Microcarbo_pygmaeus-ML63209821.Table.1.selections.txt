@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.631712896	1.704380271	498.6	3296.4	Microcarbo_pygmaeus-ML63209821.wav	D:\Andean\Phalacrocoracidae\Microcarbo_pygmaeus-ML63209821.wav	1	a
+2	Spectrogram 1	1	1.981837525	2.067717151	304.7	3351.8	Microcarbo_pygmaeus-ML63209821.wav	D:\Andean\Phalacrocoracidae\Microcarbo_pygmaeus-ML63209821.wav	2	a
+3	Spectrogram 1	1	2.510327532	2.642450033	415.5	3268.7	Microcarbo_pygmaeus-ML63209821.wav	D:\Andean\Phalacrocoracidae\Microcarbo_pygmaeus-ML63209821.wav	3	a

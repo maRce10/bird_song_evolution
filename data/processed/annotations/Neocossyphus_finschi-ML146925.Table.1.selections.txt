@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	42.438517472	43.237858607	1201.8	1567.5	Neocossyphus_finschi-ML146925.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_finschi-ML146925.wav	1	a
+2	Spectrogram 1	1	44.532659123	45.213090007	1201.8	1593.7	Neocossyphus_finschi-ML146925.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_finschi-ML146925.wav	1	a
+3	Spectrogram 1	1	45.510365636	46.164372019	1201.8	1672.0	Neocossyphus_finschi-ML146925.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_finschi-ML146925.wav	1	b
+4	Spectrogram 1	1	46.342737396	47.049592780	1463.0	1854.9	Neocossyphus_finschi-ML146925.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_finschi-ML146925.wav	1	c
+5	Spectrogram 1	1	64.916054745	65.722002005	1227.9	1515.3	Neocossyphus_finschi-ML146925.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_finschi-ML146925.wav	2	d
+6	Spectrogram 1	1	67.413170027	68.100207035	1227.9	1593.7	Neocossyphus_finschi-ML146925.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_finschi-ML146925.wav	2	b
+7	Spectrogram 1	1	68.353579017	69.117550298	1201.8	1645.9	Neocossyphus_finschi-ML146925.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_finschi-ML146925.wav	2	b
+8	Spectrogram 1	1	69.196823799	69.764950556	1410.8	1776.5	Neocossyphus_finschi-ML146925.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_finschi-ML146925.wav	2	c
+9	Spectrogram 1	1	82.943325822	83.709636331	1227.9	1541.4	Neocossyphus_finschi-ML146925.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_finschi-ML146925.wav	3	a

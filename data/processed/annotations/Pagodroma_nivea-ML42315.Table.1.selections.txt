@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	51.263821770	51.336489146	55.4	3379.5	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	1	a
+2	Spectrogram 1	1	51.442187147	51.495036148	110.8	3434.9	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	1	a
+3	Spectrogram 1	1	51.577612712	51.633764775	27.7	3296.4	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	1	a
+4	Spectrogram 1	1	51.755978089	51.815433215	110.8	3351.8	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	1	a
+5	Spectrogram 1	1	51.921131216	51.983889404	83.1	3351.8	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	1	a
+6	Spectrogram 1	1	53.522679026	53.575528027	55.4	3324.1	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	2	a
+7	Spectrogram 1	1	53.671316840	53.727468904	83.1	3379.5	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	2	a
+8	Spectrogram 1	1	53.839773030	53.892622031	83.1	3268.7	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	2	a
+9	Spectrogram 1	1	55.223756235	55.266696048	0.0	3462.6	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	3	a
+10	Spectrogram 1	1	55.362484943	55.421940068	138.5	3434.9	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	3	a
+11	Spectrogram 1	1	55.534244195	55.590396258	110.8	3351.8	Pagodroma_nivea-ML42315.wav	D:\Andean\Procellariidae\Pagodroma_nivea-ML42315.wav	3	a

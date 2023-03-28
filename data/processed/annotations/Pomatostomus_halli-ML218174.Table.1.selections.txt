@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	74.673308492	74.856628463	277.0	2299.2	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	1	a
+2	Spectrogram 1	1	75.127479592	75.264556687	304.7	2299.2	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	1	a
+3	Spectrogram 1	1	75.469346565	75.624590504	387.8	2326.9	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	1	a
+4	Spectrogram 1	1	75.766622193	75.862411007	332.4	2188.4	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	1	b
+5	Spectrogram 1	1	81.099794486	81.202189424	221.6	1856.0	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	2	b
+6	Spectrogram 1	1	81.230265456	81.342569582	221.6	1800.6	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	2	b
+7	Spectrogram 1	1	81.511025772	81.623329899	221.6	1828.3	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	2	b
+8	Spectrogram 1	1	81.856195808	82.085758654	415.5	2188.4	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	2	a
+9	Spectrogram 1	1	82.250911781	82.368170502	470.9	2216.1	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	2	b
+10	Spectrogram 1	1	84.690246490	84.771171523	360.1	1357.3	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	3	b
+11	Spectrogram 1	1	84.937976181	85.020552745	332.4	1579.0	Pomatostomus_halli-ML218174.wav	D:\Andean\Pomatostomidae\Pomatostomus_halli-ML218174.wav	3	b

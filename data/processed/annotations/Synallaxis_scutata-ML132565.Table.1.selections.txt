@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	65.124763489	65.389918983	1229.9	5271.3	Synallaxis_scutata-ML132565.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_scutata-ML132565.wav	1	a
+2	Spectrogram 1	1	66.443470145	66.641452913	1295.8	5099.1	Synallaxis_scutata-ML132565.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_scutata-ML132565.wav	1	b
+3	Spectrogram 1	1	66.715696452	66.786404583	3601.8	5117.2	Synallaxis_scutata-ML132565.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_scutata-ML132565.wav	1	c
+4	Spectrogram 1	1	72.328458465	72.597149366	1229.9	5117.2	Synallaxis_scutata-ML132565.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_scutata-ML132565.wav	2	a
+5	Spectrogram 1	1	73.625952681	73.831006263	1998.6	4809.7	Synallaxis_scutata-ML132565.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_scutata-ML132565.wav	2	b
+6	Spectrogram 1	1	73.884037362	73.968887120	3623.8	4985.4	Synallaxis_scutata-ML132565.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_scutata-ML132565.wav	2	c
+7	Spectrogram 1	1	75.467777295	75.743539008	1142.0	5095.2	Synallaxis_scutata-ML132565.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_scutata-ML132565.wav	3	a
+8	Spectrogram 1	1	76.804160983	77.005679158	1405.6	4809.7	Synallaxis_scutata-ML132565.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_scutata-ML132565.wav	3	b
+9	Spectrogram 1	1	77.062245663	77.150630828	3711.6	4985.4	Synallaxis_scutata-ML132565.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_scutata-ML132565.wav	3	c

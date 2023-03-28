@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	48.862499047	48.922496886	636.9	4634.0	Syndactyla_dimidiata-ML143922.wav	E:\Escritorio\Cantos\Furnariidae\Syndactyla_dimidiata-ML143922.wav	1	a
+2	Spectrogram 1	1	50.612436025	50.667434044	527.1	4743.8	Syndactyla_dimidiata-ML143922.wav	E:\Escritorio\Cantos\Furnariidae\Syndactyla_dimidiata-ML143922.wav	2	a
+3	Spectrogram 1	1	52.497368206	52.547366405	658.9	4743.8	Syndactyla_dimidiata-ML143922.wav	E:\Escritorio\Cantos\Furnariidae\Syndactyla_dimidiata-ML143922.wav	3	a

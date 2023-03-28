@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	46.292912282	46.398367067	1194.8	3702.1	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	1	a
+2	Spectrogram 1	1	46.558565601	46.647748289	1116.5	4740.2	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	1	b
+3	Spectrogram 1	1	46.832719792	46.865750417	1155.7	4191.7	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	1	c
+4	Spectrogram 1	1	46.883917261	46.931811668	1253.6	4152.6	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	1	d
+5	Spectrogram 1	1	47.111828576	47.205965859	1096.9	4622.7	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	1	e
+6	Spectrogram 1	1	47.374422048	47.466907800	1155.7	5092.8	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	1	f
+7	Spectrogram 1	1	47.675000740	47.774092616	1116.5	5092.8	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	1	g
+8	Spectrogram 1	1	53.933643740	54.045947867	1253.6	5367.0	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	2	h
+9	Spectrogram 1	1	54.207797931	54.298632151	1194.8	4994.8	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	2	i
+10	Spectrogram 1	1	54.467088048	54.548838845	1155.7	4916.5	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	2	j
+11	Spectrogram 1	1	54.701605488	54.775924395	1175.3	4936.1	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	2	j
+12	Spectrogram 1	1	54.931168335	55.010441836	1136.1	5092.8	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	2	f
+13	Spectrogram 1	1	55.173943431	55.258171526	1155.7	4896.9	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	2	k
+14	Spectrogram 1	1	55.533977248	55.642978312	1136.1	4328.9	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	2	l
+15	Spectrogram 1	1	78.450073367	78.570635150	1155.7	3702.1	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	3	a
+16	Spectrogram 1	1	78.719272964	78.803501059	1194.8	4975.2	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	3	m
+17	Spectrogram 1	1	78.971957249	79.055359578	1175.3	4916.5	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	3	i
+18	Spectrogram 1	1	79.227944596	79.315475753	1214.4	4740.2	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	3	n
+19	Spectrogram 1	1	79.488886536	79.580959405	1234.0	4779.4	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	3	o
+20	Spectrogram 1	1	79.761389196	79.852223416	1253.6	4779.4	Hemitriccus_granadensis-ML68131481.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_granadensis-ML68131481.wav	3	o

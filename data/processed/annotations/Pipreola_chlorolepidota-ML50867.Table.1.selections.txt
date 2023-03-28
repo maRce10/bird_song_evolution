@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.937502325	5.016592628	6039.600	9663.300	Pipreola_chlorolepidota-ML50867.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_chlorolepidota-ML50867.wav	1	a
+2	Spectrogram 1	1	13.372351108	13.439133028	5017.147	8806.800	Pipreola_chlorolepidota-ML50867.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_chlorolepidota-ML50867.wav	2	a
+3	Spectrogram 1	1	20.015760645	20.103367282	5841.900	9421.800	Pipreola_chlorolepidota-ML50867.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_chlorolepidota-ML50867.wav	3	a

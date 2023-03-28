@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.394435156	29.777590411	3462.6	4044.3	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	1	a
+2	Spectrogram 1	1	30.121108915	30.458021295	3767.3	4210.6	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	1	a
+3	Spectrogram 1	1	30.656205047	31.290393055	2133.0	2825.5	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	1	b
+4	Spectrogram 1	1	31.594274809	32.406828194	5706.4	7008.4	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	1	c
+5	Spectrogram 1	1	32.803195699	33.067440703	1662.1	2049.9	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	1	a
+6	Spectrogram 1	1	33.272230580	34.078177840	4099.7	4570.7	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	1	a
+7	Spectrogram 1	1	34.249937092	34.903943476	5567.9	6869.8	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	1	d
+8	Spectrogram 1	1	36.169963709	36.572937339	1412.8	1856.0	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	2	a
+9	Spectrogram 1	1	36.804151025	37.041971528	1662.1	2133.0	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	2	a
+10	Spectrogram 1	1	37.273185906	37.497794159	1745.2	2105.3	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	2	a
+11	Spectrogram 1	1	37.550643159	37.973435165	2022.2	3102.5	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	2	e
+12	Spectrogram 1	1	38.356590419	38.944535552	6011.1	6869.8	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	2	d
+13	Spectrogram 1	1	39.109688679	39.354115307	5235.5	5734.1	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	2	a
+14	Spectrogram 1	1	39.545692934	39.856180813	3711.9	4099.7	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	2	a
+15	Spectrogram 1	1	39.961878815	40.463944321	2631.6	4792.3	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	2	f
+16	Spectrogram 1	1	42.181239112	42.372816739	5041.6	5457.1	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	3	a
+17	Spectrogram 1	1	42.663486243	43.218400750	3878.1	4986.2	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	3	c
+18	Spectrogram 1	1	43.786527507	44.566050267	2880.9	3850.4	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	3	d
+19	Spectrogram 1	1	44.856719770	45.239875025	3074.8	3434.9	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	3	a
+20	Spectrogram 1	1	45.555440262	45.793260765	1135.7	1440.5	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	3	a
+21	Spectrogram 1	1	46.037687393	46.169809895	5318.6	5983.4	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	3	g
+22	Spectrogram 1	1	46.229265020	46.638844776	5734.1	6232.7	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	3	a
+23	Spectrogram 1	1	46.830422403	46.870059153	4432.2	4875.4	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	3	h
+24	Spectrogram 1	1	46.883271230	47.418367535	4432.2	5540.2	Myophonus_insularis-ML146758041.wav	E:\Andean\Muscicapidae\Myophonus_insularis-ML146758041.wav	3	c

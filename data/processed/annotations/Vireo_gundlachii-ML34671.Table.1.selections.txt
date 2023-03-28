@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	40.474543949	40.514180699	3241.0	5817.2	Vireo_gundlachii-ML34671.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gundlachii-ML34671.wav	1	a
+2	Spectrogram 1	1	40.517483762	40.654560857	2354.6	4459.9	Vireo_gundlachii-ML34671.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gundlachii-ML34671.wav	1	b
+3	Spectrogram 1	1	40.687591483	40.984867112	1994.5	5651.0	Vireo_gundlachii-ML34671.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gundlachii-ML34671.wav	1	c
+4	Spectrogram 1	1	44.241086383	44.285677727	3213.3	5651.0	Vireo_gundlachii-ML34671.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gundlachii-ML34671.wav	2	a
+5	Spectrogram 1	1	44.284026196	44.431012479	2299.2	4543.0	Vireo_gundlachii-ML34671.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gundlachii-ML34671.wav	2	b
+6	Spectrogram 1	1	44.457436979	44.771227921	1856.0	6094.2	Vireo_gundlachii-ML34671.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gundlachii-ML34671.wav	2	c
+7	Spectrogram 1	1	47.572449601	47.618692476	3185.6	5955.7	Vireo_gundlachii-ML34671.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gundlachii-ML34671.wav	3	a
+8	Spectrogram 1	1	47.621995539	47.755769572	2493.1	4736.9	Vireo_gundlachii-ML34671.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gundlachii-ML34671.wav	3	b
+9	Spectrogram 1	1	47.790451729	48.099288076	2022.2	6011.1	Vireo_gundlachii-ML34671.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gundlachii-ML34671.wav	3	c

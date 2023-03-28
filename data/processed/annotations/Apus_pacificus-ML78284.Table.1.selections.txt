@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	51.181161463	51.783519959	3683.2	5809.1	Apus_pacificus-ML78284.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_pacificus-ML78284.wav	1	a
+2	Spectrogram 1	1	53.014163171	53.421640977	3856.3	5883.3	Apus_pacificus-ML78284.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_pacificus-ML78284.wav	2	b
+3	Spectrogram 1	1	53.479206104	53.668771866	3757.4	5290.0	Apus_pacificus-ML78284.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_pacificus-ML78284.wav	2	c
+4	Spectrogram 1	1	55.251383833	55.828939333	3732.7	5809.1	Apus_pacificus-ML78284.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_pacificus-ML78284.wav	3	a

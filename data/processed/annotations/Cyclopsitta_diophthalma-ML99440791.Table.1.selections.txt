@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.627925692	1.686316140	1357.3	5567.9	Cyclopsitta_diophthalma-ML99440791.wav	D:\Andean\Psittaculidae\Cyclopsitta_diophthalma-ML99440791.wav	1	a
+2	Spectrogram 1	1	2.034323210	2.095049276	1246.5	5429.4	Cyclopsitta_diophthalma-ML99440791.wav	D:\Andean\Psittaculidae\Cyclopsitta_diophthalma-ML99440791.wav	2	a
+3	Spectrogram 1	1	2.351967247	2.405686459	1108.0	4653.8	Cyclopsitta_diophthalma-ML99440791.wav	D:\Andean\Psittaculidae\Cyclopsitta_diophthalma-ML99440791.wav	3	a

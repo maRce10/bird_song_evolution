@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.165153127	0.244426628	4072.0	4349.1	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	1	a
+2	Spectrogram 1	1	0.317094004	0.482247131	3379.5	3767.3	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	1	b
+3	Spectrogram 1	1	0.561520632	0.739886009	4155.2	4681.5	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	1	b
+4	Spectrogram 1	1	0.832371760	1.030555513	3130.2	3545.7	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	1	b
+5	Spectrogram 1	1	1.129647389	1.354255642	4155.2	4764.6	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	1	b
+6	Spectrogram 1	1	1.426923018	1.611894520	3102.5	3518.0	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	1	b
+7	Spectrogram 1	1	1.763835397	1.968625275	4099.7	4764.6	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	1	b
+8	Spectrogram 1	1	2.054504901	2.279113154	2964.0	3490.3	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	1	b
+10	Spectrogram 1	1	7.957442237	8.013497067	3988.9	4432.2	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	2	a
+11	Spectrogram 1	1	8.111593020	8.291435600	3351.8	3711.9	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	2	b
+12	Spectrogram 1	1	8.377853463	8.569374133	4155.2	4598.4	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	2	b
+13	Spectrogram 1	1	8.662798849	8.880011316	3130.2	3628.8	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	2	b
+14	Spectrogram 1	1	8.973436033	9.169627938	4127.4	4681.5	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	2	b
+15	Spectrogram 1	1	9.272395127	9.494278830	3074.8	3518.0	Poecile_weigoldicus-ML59048551.wav	D:\Andean\Paridae\Poecile_weigoldicus-ML59048551.wav	2	b

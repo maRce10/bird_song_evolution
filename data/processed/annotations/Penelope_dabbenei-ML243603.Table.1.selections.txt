@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.778299019	1.141749976	140.148	2289.089	Penelope_dabbenei-ML243603.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_dabbenei-ML243603.wav	1	a
+2	Spectrogram 1	1	1.681419579	2.041199315	210.222	2265.731	Penelope_dabbenei-ML243603.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_dabbenei-ML243603.wav	2	a
+3	Spectrogram 1	1	4.192535283	4.563328683	186.864	2312.447	Penelope_dabbenei-ML243603.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_dabbenei-ML243603.wav	3	a

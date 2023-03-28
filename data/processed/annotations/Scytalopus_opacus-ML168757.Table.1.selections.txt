@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.882712462	9.022849537	1994.5	4875.4	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	1	a
+2	Spectrogram 1	1	9.125616726	9.289109980	1883.7	5290.9	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	1	b
+3	Spectrogram 1	1	9.345164810	9.466616942	1772.9	4986.2	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	1	b
+4	Spectrogram 1	1	9.513329301	9.630110197	1662.1	4543.0	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	1	b
+5	Spectrogram 1	1	9.672151319	9.788932215	1551.3	4321.4	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	1	b
+6	Spectrogram 1	1	10.788576686	10.975426120	2077.6	4903.1	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	2	c
+7	Spectrogram 1	1	11.073522072	11.223001619	2022.2	4764.6	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	2	c
+8	Spectrogram 1	1	11.344453751	11.493933298	1856.0	4598.4	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	2	c
+9	Spectrogram 1	1	11.615385430	11.769536213	1800.6	4570.7	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	2	c
+10	Spectrogram 1	1	11.862960930	11.989084298	1828.3	4404.5	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	2	c
+11	Spectrogram 1	1	12.862605400	13.026098655	1883.7	4404.5	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	3	c
+12	Spectrogram 1	1	13.142879551	13.269002919	1717.5	4432.2	Scytalopus_opacus-ML168757.wav	D:\Andean\Rhinocryptidae\Scytalopus_opacus-ML168757.wav	3	c

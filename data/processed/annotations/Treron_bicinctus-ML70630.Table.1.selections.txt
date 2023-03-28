@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.385353784	12.539545099	864.2	1728.5	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	a
+2	Spectrogram 1	1	12.609298313	12.713928134	700.7	2359.2	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	b
+3	Spectrogram 1	1	12.743297908	13.657432046	607.3	2429.2	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	c
+4	Spectrogram 1	1	13.801290362	14.309754579	513.9	2429.2	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	d
+5	Spectrogram 1	1	14.437084078	14.497659238	700.7	1892.0	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	e
+6	Spectrogram 1	1	14.569389192	14.618809557	770.8	4157.7	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	f
+7	Spectrogram 1	1	14.695905214	15.253930926	630.7	2335.8	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	d
+8	Spectrogram 1	1	15.366044320	15.441304367	607.3	1845.3	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	e
+9	Spectrogram 1	1	15.529413690	15.573468351	770.8	3947.5	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	f
+10	Spectrogram 1	1	15.761500990	15.838596648	584.0	1331.4	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	g
+11	Spectrogram 1	1	16.101089006	16.172677831	537.2	1214.6	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	g
+12	Spectrogram 1	1	16.462704352	16.534293177	513.9	1191.3	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	g
+13	Spectrogram 1	1	16.877572565	16.934476502	490.5	1051.1	Treron_bicinctus-ML70630.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_bicinctus-ML70630.wav	1	g

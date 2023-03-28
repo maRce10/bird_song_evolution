@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.847045715	6.883379403	5069.3	6703.6	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	1	a
+2	Spectrogram 1	1	6.936228404	7.022108030	5290.9	6703.6	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	1	b
+3	Spectrogram 1	1	7.033668749	7.094775406	5484.8	7507.0	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	1	c
+4	Spectrogram 1	1	7.127806031	7.205428001	5567.9	7562.4	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	1	d
+5	Spectrogram 1	1	7.225246376	7.304519877	5678.7	7977.9	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	1	e
+6	Spectrogram 1	1	7.325989784	7.413520941	5734.1	8171.8	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	1	f
+7	Spectrogram 1	1	7.430036254	7.520870474	5955.7	8476.5	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	1	g
+8	Spectrogram 1	1	14.591951921	14.662967766	5180.1	6648.2	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	2	a
+9	Spectrogram 1	1	14.691043798	14.758756580	5180.1	6703.6	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	2	b
+10	Spectrogram 1	1	14.785181080	14.864454581	5567.9	7257.7	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	2	c
+11	Spectrogram 1	1	14.884272956	14.965197989	5595.6	7894.8	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	2	d
+12	Spectrogram 1	1	14.986667895	15.074199052	5734.1	7977.9	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	2	e
+13	Spectrogram 1	1	15.098972022	15.193109304	5844.9	8448.8	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	2	f
+14	Spectrogram 1	1	15.229442992	15.336792525	5734.1	7922.5	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	2	h
+15	Spectrogram 1	1	21.320692511	21.408223668	4930.8	6205.0	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	3	a
+16	Spectrogram 1	1	21.418132856	21.494103294	5207.8	6620.5	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	3	b
+17	Spectrogram 1	1	21.500709419	21.576679858	5540.2	7230.0	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	3	c
+18	Spectrogram 1	1	21.596498233	21.670817140	5567.9	7562.4	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	3	d
+19	Spectrogram 1	1	21.692287047	21.788075861	5678.7	8033.3	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	3	e
+20	Spectrogram 1	1	21.796333517	21.895425393	5789.5	8587.3	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	3	f
+21	Spectrogram 1	1	21.903683050	22.009381051	6094.2	8947.4	Erpornis_zantholeuca-ML93451171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Erpornis_zantholeuca-ML93451171.wav	3	g

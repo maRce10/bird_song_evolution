@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.396165097	17.634398125	5512.5	6296.3	Mecocerculus_poecilocercus-ML28870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_poecilocercus-ML28870.wav	1	a
+2	Spectrogram 1	1	19.377234440	19.704220949	4676.5	6766.5	Mecocerculus_poecilocercus-ML28870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_poecilocercus-ML28870.wav	2	b
+3	Spectrogram 1	1	19.835015552	20.143317118	3997.2	6792.7	Mecocerculus_poecilocercus-ML28870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_poecilocercus-ML28870.wav	2	c
+4	Spectrogram 1	1	20.288125429	20.584748905	3579.2	6374.6	Mecocerculus_poecilocercus-ML28870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_poecilocercus-ML28870.wav	2	d
+5	Spectrogram 1	1	23.261082988	23.456107084	5721.5	6426.9	Mecocerculus_poecilocercus-ML28870.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_poecilocercus-ML28870.wav	3	a

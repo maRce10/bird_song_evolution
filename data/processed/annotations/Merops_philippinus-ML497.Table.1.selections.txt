@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.886401847	7.045495144	1229.9	3312.7	Merops_philippinus-ML497.wav	E:\Escritorio\Cantos\Meropidae\Merops_philippinus-ML497.wav	1	a
+2	Spectrogram 1	1	16.184453899	16.340011789	1383.6	3294.3	Merops_philippinus-ML497.wav	E:\Escritorio\Cantos\Meropidae\Merops_philippinus-ML497.wav	2	a
+3	Spectrogram 1	1	31.541027229	31.661231053	1138.7	3312.7	Merops_philippinus-ML497.wav	E:\Escritorio\Cantos\Meropidae\Merops_philippinus-ML497.wav	3	a
+4	Spectrogram 1	1	31.994680619	32.132561476	1138.7	3312.7	Merops_philippinus-ML497.wav	E:\Escritorio\Cantos\Meropidae\Merops_philippinus-ML497.wav	3	a
+5	Spectrogram 1	1	32.252765300	32.372969124	1061.1	3312.7	Merops_philippinus-ML497.wav	E:\Escritorio\Cantos\Meropidae\Merops_philippinus-ML497.wav	3	a
+6	Spectrogram 1	1	32.496708354	32.627518398	1035.2	3338.6	Merops_philippinus-ML497.wav	E:\Escritorio\Cantos\Meropidae\Merops_philippinus-ML497.wav	3	a

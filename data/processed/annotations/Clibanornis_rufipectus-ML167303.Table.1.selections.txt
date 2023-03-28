@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	75.242602673	75.309775398	549.1	2525.6	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	1	a
+2	Spectrogram 1	1	75.346897167	75.398160563	527.1	2701.3	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	1	b
+3	Spectrogram 1	1	75.442353145	75.490914828	571.0	2723.3	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	1	b
+4	Spectrogram 1	1	75.536041420	75.584603103	461.2	2723.3	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	1	b
+5	Spectrogram 1	1	75.633265101	75.677457683	461.2	2679.4	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	1	b
+6	Spectrogram 1	1	75.948749981	76.022993519	642.5	2492.8	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	1	a
+7	Spectrogram 1	1	76.070721508	76.120217200	565.4	2672.7	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	1	b
+8	Spectrogram 1	1	76.162642079	76.212137771	616.8	2647.0	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	1	b
+9	Spectrogram 1	1	76.265168870	76.312896859	565.4	2698.4	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	1	b
+10	Spectrogram 1	1	78.261296191	78.324933510	591.1	2569.9	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	2	a
+11	Spectrogram 1	1	78.360287576	78.411550971	591.1	2775.5	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	2	b
+12	Spectrogram 1	1	78.453975850	78.501703839	591.1	2801.2	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	2	b
+13	Spectrogram 1	1	78.545896421	78.595392113	591.1	2749.8	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	2	b
+14	Spectrogram 1	1	78.650190915	78.690848091	565.4	2672.7	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	2	b
+15	Spectrogram 1	1	78.963074398	79.039085639	591.1	2569.9	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	2	a
+16	Spectrogram 1	1	79.086813628	79.139844727	591.1	2647.0	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	2	b
+17	Spectrogram 1	1	79.182269606	79.229997595	616.8	2672.7	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	2	b
+18	Spectrogram 1	1	79.283028694	79.327221276	565.4	2672.7	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	2	b
+19	Spectrogram 1	1	82.226051609	82.298527444	591.1	2518.5	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	3	a
+20	Spectrogram 1	1	82.326810697	82.383377202	514.0	2749.8	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	3	b
+21	Spectrogram 1	1	82.420498971	82.475297773	488.3	2749.8	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	3	b
+22	Spectrogram 1	1	82.519490356	82.567218344	488.3	2672.7	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	3	b
+23	Spectrogram 1	1	82.618481740	82.660906619	488.3	2672.7	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	3	b
+24	Spectrogram 1	1	82.940203739	83.017982684	591.1	2569.9	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	3	a
+25	Spectrogram 1	1	83.071013782	83.125812584	514.0	2621.3	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	3	b
+26	Spectrogram 1	1	83.177075980	83.224803969	565.4	2647.0	Clibanornis_rufipectus-ML167303.wav	E:\Escritorio\Cantos\Furnariidae\Clibanornis_rufipectus-ML167303.wav	3	b

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.965371942	2.091495310	2216.1	4321.4	Emarginata_schlegelii-ML215024121.wav	E:\Andean\Muscicapidae\Emarginata_schlegelii-ML215024121.wav	1	a
+2	Spectrogram 1	1	2.416146201	2.535262715	2105.3	4266.0	Emarginata_schlegelii-ML215024121.wav	E:\Andean\Muscicapidae\Emarginata_schlegelii-ML215024121.wav	1	a
+3	Spectrogram 1	1	2.624016196	2.757146418	2160.7	4266.0	Emarginata_schlegelii-ML215024121.wav	E:\Andean\Muscicapidae\Emarginata_schlegelii-ML215024121.wav	1	a
+4	Spectrogram 1	1	5.264728502	5.386180634	2133.0	4321.4	Emarginata_schlegelii-ML215024121.wav	E:\Andean\Muscicapidae\Emarginata_schlegelii-ML215024121.wav	2	a
+5	Spectrogram 1	1	5.738858940	5.862646690	2271.5	4376.8	Emarginata_schlegelii-ML215024121.wav	E:\Andean\Muscicapidae\Emarginata_schlegelii-ML215024121.wav	2	a
+6	Spectrogram 1	1	5.963078261	6.086866010	2105.3	4293.7	Emarginata_schlegelii-ML215024121.wav	E:\Andean\Muscicapidae\Emarginata_schlegelii-ML215024121.wav	2	a
+7	Spectrogram 1	1	12.576686832	12.691132110	2243.8	4210.6	Emarginata_schlegelii-ML215024121.wav	E:\Andean\Muscicapidae\Emarginata_schlegelii-ML215024121.wav	3	a
+8	Spectrogram 1	1	12.962063789	13.081180303	1911.4	4321.4	Emarginata_schlegelii-ML215024121.wav	E:\Andean\Muscicapidae\Emarginata_schlegelii-ML215024121.wav	3	a
+9	Spectrogram 1	1	13.172269402	13.293721534	2299.2	4349.1	Emarginata_schlegelii-ML215024121.wav	E:\Andean\Muscicapidae\Emarginata_schlegelii-ML215024121.wav	3	a

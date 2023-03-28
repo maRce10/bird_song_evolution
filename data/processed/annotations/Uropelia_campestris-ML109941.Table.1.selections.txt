@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.054422673	8.313243810	677.4	1284.7	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	1	a
+2	Spectrogram 1	1	8.761132868	9.034638891	607.3	1284.7	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	1	a
+3	Spectrogram 1	1	9.495377448	9.763376639	607.3	1308.1	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	1	a
+4	Spectrogram 1	1	11.820842542	12.081499289	584.0	1284.7	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	2	a
+5	Spectrogram 1	1	12.538566402	12.801058760	677.4	1284.7	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	2	a
+6	Spectrogram 1	1	13.199386529	13.471056942	654.0	1284.7	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	2	a
+7	Spectrogram 1	1	13.944644809	14.207137167	677.4	1284.7	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	2	a
+8	Spectrogram 1	1	14.667875776	14.917518857	700.7	1331.4	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	2	a
+9	Spectrogram 1	1	17.421930257	17.673408950	654.0	1261.3	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	3	a
+10	Spectrogram 1	1	18.110284342	18.389297198	747.5	1284.7	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	3	a
+11	Spectrogram 1	1	18.881240918	19.162089385	654.0	1284.7	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	3	a
+12	Spectrogram 1	1	19.575101950	19.846772362	654.0	1308.1	Uropelia_campestris-ML109941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Uropelia_campestris-ML109941.wav	3	a

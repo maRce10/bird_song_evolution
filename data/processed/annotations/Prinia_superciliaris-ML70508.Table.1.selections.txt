@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.007547273	22.198884678	1191.3	3994.2	Prinia_superciliaris-ML70508.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_superciliaris-ML70508.wav	1	a
+2	Spectrogram 1	1	24.488496644	24.679834048	1308.1	4017.6	Prinia_superciliaris-ML70508.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_superciliaris-ML70508.wav	2	a
+3	Spectrogram 1	1	28.129036896	28.315059373	1261.3	3947.5	Prinia_superciliaris-ML70508.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_superciliaris-ML70508.wav	3	a

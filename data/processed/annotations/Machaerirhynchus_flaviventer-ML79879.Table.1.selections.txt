@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	85.861047446	85.933619102	2867.1	4315.4	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	1	a
+2	Spectrogram 1	1	86.039681300	86.149278904	2748.9	4285.9	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	1	b
+3	Spectrogram 1	1	86.198774596	86.322513827	2689.7	4285.9	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	1	c
+4	Spectrogram 1	1	86.354332486	86.474536310	2719.3	4315.4	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	1	c
+5	Spectrogram 1	1	86.513425782	86.944745385	2689.7	4551.9	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	1	d
+6	Spectrogram 1	1	86.997776484	87.036665956	3872.1	6650.5	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	1	e
+7	Spectrogram 1	1	147.242579692	147.330964857	2767.2	3909.3	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	2	a
+8	Spectrogram 1	1	147.419350021	147.521876812	2723.3	3909.3	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	2	b
+9	Spectrogram 1	1	147.581978724	147.709253361	2679.4	3821.4	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	2	c
+10	Spectrogram 1	1	147.762284460	148.349161952	2723.3	3711.6	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	2	d
+11	Spectrogram 1	1	148.419870084	148.479971996	3517.4	6215.3	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	2	e
+12	Spectrogram 1	1	150.084637662	150.148274981	2789.2	3887.3	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	3	a
+13	Spectrogram 1	1	150.261407992	150.367470189	2679.4	3821.4	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	3	b
+14	Spectrogram 1	1	150.441713727	150.565452958	2745.3	3865.3	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	3	c
+15	Spectrogram 1	1	150.618484056	151.180613703	2767.2	3799.5	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	3	d
+16	Spectrogram 1	1	151.237180208	151.293746714	3458.2	6127.4	Machaerirhynchus_flaviventer-ML79879.wav	E:\Escritorio\Cantos\Machaerirhynchidae\Machaerirhynchus_flaviventer-ML79879.wav	3	e

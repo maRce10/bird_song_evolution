@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	75.259815242	75.332482618	1385.1	6232.7	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	1	a
+2	Spectrogram 1	1	75.418362244	75.662788872	1246.5	4293.7	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	1	b
+3	Spectrogram 1	1	75.781699124	75.827941999	1274.2	5983.4	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	1	a
+4	Spectrogram 1	1	75.900609375	76.092187002	1080.3	4266.0	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	1	b
+5	Spectrogram 1	1	77.677657022	77.743718273	1385.1	5983.4	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	2	a
+6	Spectrogram 1	1	77.829597899	78.074024527	1135.7	4266.0	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	2	b
+7	Spectrogram 1	1	78.179722529	78.245783780	1163.4	5900.3	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	2	a
+8	Spectrogram 1	1	78.325057281	78.569483909	1108.0	4238.3	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	2	b
+9	Spectrogram 1	1	80.227621304	80.280470305	1274.2	5900.3	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	3	a
+10	Spectrogram 1	1	80.346531556	80.637201060	1108.0	4321.4	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	3	b
+11	Spectrogram 1	1	80.742899061	80.808960312	1163.4	5844.9	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	3	a
+12	Spectrogram 1	1	80.914658313	81.192115567	1024.9	4127.4	Poecile_cinctus-ML137886.wav	D:\Andean\Paridae\Poecile_cinctus-ML137886.wav	3	b

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.302230223	0.373246067	526.3	2105.3	Tragopan_temminckii-ML237230081.wav	D:\Andean\Phasianidae\Tragopan_temminckii-ML237230081.wav	1	a
+2	Spectrogram 1	1	0.663915571	0.731628353	498.6	2077.6	Tragopan_temminckii-ML237230081.wav	D:\Andean\Phasianidae\Tragopan_temminckii-ML237230081.wav	2	a
+3	Spectrogram 1	1	1.027252450	1.091662170	498.6	2022.2	Tragopan_temminckii-ML237230081.wav	D:\Andean\Phasianidae\Tragopan_temminckii-ML237230081.wav	3	a

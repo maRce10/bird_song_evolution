@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	52.952641066	53.626465824	1904.0	3838.8	Myiozetetes_cayanensis-ML66524.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiozetetes_cayanensis-ML66524.wav	1	a
+2	Spectrogram 1	1	53.798226344	54.138440518	2579.7	5251.5	Myiozetetes_cayanensis-ML66524.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiozetetes_cayanensis-ML66524.wav	1	b
+3	Spectrogram 1	1	56.472850948	56.969961860	3255.3	4668.0	Myiozetetes_cayanensis-ML66524.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiozetetes_cayanensis-ML66524.wav	2	c
+4	Spectrogram 1	1	57.101259401	57.434868718	2426.1	5190.0	Myiozetetes_cayanensis-ML66524.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiozetetes_cayanensis-ML66524.wav	2	b
+5	Spectrogram 1	1	61.621297309	62.282735583	1965.5	3593.1	Myiozetetes_cayanensis-ML66524.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiozetetes_cayanensis-ML66524.wav	3	a
+6	Spectrogram 1	1	62.404949438	62.727823802	2395.4	5190.0	Myiozetetes_cayanensis-ML66524.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiozetetes_cayanensis-ML66524.wav	3	b

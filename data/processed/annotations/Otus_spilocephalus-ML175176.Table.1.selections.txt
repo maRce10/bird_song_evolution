@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.221641542	7.508337012	1523.6	1800.6	Otus_spilocephalus-ML175176.wav	D:\Andean\Strigidae\Otus_spilocephalus-ML175176.wav	1	a
+2	Spectrogram 1	1	7.948381222	8.175070663	1440.5	1772.9	Otus_spilocephalus-ML175176.wav	D:\Andean\Strigidae\Otus_spilocephalus-ML175176.wav	1	a
+3	Spectrogram 1	1	11.955450462	12.188807239	1468.2	1800.6	Otus_spilocephalus-ML175176.wav	D:\Andean\Strigidae\Otus_spilocephalus-ML175176.wav	2	a
+4	Spectrogram 1	1	12.688857477	12.935548928	1468.2	1828.3	Otus_spilocephalus-ML175176.wav	D:\Andean\Strigidae\Otus_spilocephalus-ML175176.wav	2	a
+5	Spectrogram 1	1	16.722595691	16.929283123	1440.5	1800.6	Otus_spilocephalus-ML175176.wav	D:\Andean\Strigidae\Otus_spilocephalus-ML175176.wav	3	a
+6	Spectrogram 1	1	17.429333361	17.662690138	1495.9	1772.9	Otus_spilocephalus-ML175176.wav	D:\Andean\Strigidae\Otus_spilocephalus-ML175176.wav	3	a

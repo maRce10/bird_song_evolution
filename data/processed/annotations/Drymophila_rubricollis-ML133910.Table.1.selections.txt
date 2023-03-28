@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	118.461022000	118.583235314	4072.0	5097.0	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	1	a
+2	Spectrogram 1	1	118.711957438	118.786697212	3490.3	5318.6	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	1	b
+3	Spectrogram 1	1	118.887117068	118.966390569	3684.2	5429.4	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	1	c
+4	Spectrogram 1	1	119.045664070	119.138149821	3878.1	5374.0	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	1	c
+5	Spectrogram 1	1	119.214115291	119.295861919	3684.2	5318.6	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	1	c
+6	Spectrogram 1	1	119.396293489	119.492053824	3462.6	5318.6	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	1	d
+7	Spectrogram 1	1	119.604163484	119.739629324	2714.7	5401.7	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	1	e
+8	Spectrogram 1	1	128.531769398	128.625194115	4238.3	5013.9	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	2	a
+9	Spectrogram 1	1	128.785183943	128.856420290	4016.6	5457.1	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	2	b
+10	Spectrogram 1	1	128.963858714	129.022249162	3988.9	5429.4	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	2	c
+11	Spectrogram 1	1	129.136694440	129.209098596	3878.1	5429.4	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	2	c
+12	Spectrogram 1	1	129.332886346	129.404122692	3739.6	5429.4	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	2	c
+13	Spectrogram 1	1	129.553600076	129.662206309	3213.3	5207.8	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	2	d
+14	Spectrogram 1	1	129.889929056	130.056925738	1662.1	4903.1	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	2	e
+17	Spectrogram 1	1	138.277083193	138.386857236	3933.5	5097.0	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	3	a
+18	Spectrogram 1	1	138.526994311	138.599398467	3711.9	5318.6	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	3	b
+19	Spectrogram 1	1	138.685816330	138.762891721	3739.6	5540.2	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	3	c
+20	Spectrogram 1	1	138.853980820	138.926384976	3933.5	5595.6	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	3	c
+21	Spectrogram 1	1	139.012802839	139.092213848	3767.3	5512.5	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	3	c
+22	Spectrogram 1	1	139.199652273	139.302419461	3241.0	5457.1	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	3	d
+23	Spectrogram 1	1	139.414529121	139.547659343	2603.9	5374.0	Drymophila_rubricollis-ML133910.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_rubricollis-ML133910.wav	3	e

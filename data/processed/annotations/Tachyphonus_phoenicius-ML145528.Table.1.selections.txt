@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.161126634	21.298928092	2508.1	4911.6	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	1	a
+2	Spectrogram 1	1	21.659781047	21.729849585	2351.3	5329.6	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	1	b
+3	Spectrogram 1	1	21.741527675	21.792911269	2090.0	5199.0	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	1	c
+4	Spectrogram 1	1	22.140659376	22.287803305	2142.3	4441.4	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	1	d
+6	Spectrogram 1	1	22.758850933	22.866289357	2351.3	4676.5	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	1	e
+7	Spectrogram 1	1	23.291371819	23.510919904	2194.5	5120.6	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	1	f
+8	Spectrogram 1	1	23.879367440	23.964617494	2351.3	5329.6	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	1	b
+9	Spectrogram 1	1	23.976295584	24.028846987	2037.8	5146.7	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	1	c
+10	Spectrogram 1	1	24.380941389	24.528085318	2194.5	4911.6	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	1	
+12	Spectrogram 1	1	24.864414298	25.011558228	2481.9	4833.2	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	2	a
+13	Spectrogram 1	1	25.464835372	25.544246381	2168.4	5434.1	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	2	b
+14	Spectrogram 1	1	25.555924471	25.609643683	1750.4	4363.0	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	2	c
+15	Spectrogram 1	1	25.948308282	26.096620020	2194.5	4990.0	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	2	d
+16	Spectrogram 1	1	26.424787199	26.556749611	2481.9	4676.5	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	3	a
+17	Spectrogram 1	1	27.069417745	27.140654092	2508.1	5434.1	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	3	b
+18	Spectrogram 1	1	27.152332182	27.202547967	2063.9	5172.9	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	3	c
+19	Spectrogram 1	1	27.511770972	27.647236812	2168.4	5042.2	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	3	d
+20	Spectrogram 1	1	28.062976802	28.178589889	2299.1	4467.5	Tachyphonus_phoenicius-ML145528.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_phoenicius-ML145528.wav	3	e

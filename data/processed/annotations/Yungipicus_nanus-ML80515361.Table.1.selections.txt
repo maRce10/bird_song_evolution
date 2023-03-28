@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.284349089	2.354417627	2077.6	5429.4	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	1	a
+2	Spectrogram 1	1	2.401129985	2.447842343	2160.7	5595.6	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	1	a
+3	Spectrogram 1	1	2.506232791	2.571630093	2160.7	5678.7	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	1	a
+4	Spectrogram 1	1	2.625349305	2.679068518	2133.0	5623.3	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	1	a
+5	Spectrogram 1	1	2.765486381	2.823876829	2105.3	5512.5	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	1	a
+6	Spectrogram 1	1	5.268355434	5.326745882	2133.0	5512.5	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+7	Spectrogram 1	1	5.378129477	5.434184307	2188.4	5706.4	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+8	Spectrogram 1	1	5.483232283	5.550965203	2188.4	5761.8	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+9	Spectrogram 1	1	5.593006325	5.665410481	2133.0	5706.4	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+10	Spectrogram 1	1	5.709787222	5.784526995	2133.0	5678.7	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+11	Spectrogram 1	1	5.828903736	5.898972273	2133.0	5706.4	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+12	Spectrogram 1	1	5.945684632	6.013417551	2077.6	5623.3	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+13	Spectrogram 1	1	6.069472382	6.139540919	2022.2	5567.9	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+14	Spectrogram 1	1	6.207273839	6.277342377	2077.6	5484.8	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+15	Spectrogram 1	1	6.319383499	6.391787655	2049.9	5484.8	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+16	Spectrogram 1	1	6.450178103	6.522582258	2022.2	5484.8	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+17	Spectrogram 1	1	6.569294617	6.632356301	2077.6	5374.0	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+18	Spectrogram 1	1	6.688411131	6.774828994	2049.9	5457.1	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+19	Spectrogram 1	1	6.826212588	6.900952362	1966.8	5374.0	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+20	Spectrogram 1	1	6.966349664	7.034082583	1994.5	5346.3	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+21	Spectrogram 1	1	7.073788088	7.136849772	1856.0	5235.5	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	2	a
+22	Spectrogram 1	1	9.226108196	9.286834262	2299.2	5540.2	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	3	a
+23	Spectrogram 1	1	9.335882238	9.391937068	2188.4	5374.0	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	3	a
+24	Spectrogram 1	1	9.450327517	9.511053583	2299.2	5512.5	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	3	a
+25	Spectrogram 1	1	9.604478299	9.665204365	2160.7	5484.8	Yungipicus_nanus-ML80515361.wav	D:\Andean\Picidae\Yungipicus_nanus-ML80515361.wav	3	a

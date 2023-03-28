@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	46.989890079	47.213503937	3496.4	8346.3	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	1	a
+2	Spectrogram 1	1	47.328505349	47.590453010	3270.8	8459.1	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	1	a
+3	Spectrogram 1	1	47.622397847	48.082403496	1973.8	8459.1	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	1	b
+4	Spectrogram 1	1	48.146293169	48.210182843	1522.6	3834.8	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	1	c
+5	Spectrogram 1	1	48.222960778	48.491297406	1184.3	6992.8	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	1	d
+6	Spectrogram 1	1	74.755922097	74.998702856	3270.8	7669.6	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	a
+7	Spectrogram 1	1	75.183982909	75.477875407	3214.5	7782.4	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	a
+8	Spectrogram 1	1	75.554543015	76.072049370	1917.4	8346.3	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	b
+10	Spectrogram 1	1	48.567965014	49.142972076	1015.1	5808.6	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	1	e
+11	Spectrogram 1	1	76.148716979	76.238162521	1748.2	3778.4	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	c
+12	Spectrogram 1	1	76.244551489	76.480943281	2199.4	7105.6	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	d
+13	Spectrogram 1	1	76.602333660	77.177340722	1917.4	6259.7	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	e
+14	Spectrogram 1	1	77.202896591	77.439288383	3158.1	8233.5	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	a
+15	Spectrogram 1	1	77.471233220	77.912071967	2199.4	8741.0	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	b
+16	Spectrogram 1	1	78.014295444	78.116518922	1804.6	3722.0	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	c
+17	Spectrogram 1	1	78.122907889	78.346521746	1973.8	6936.4	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	d
+18	Spectrogram 1	1	78.416800387	79.023752285	1409.8	6767.3	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	2	e
+19	Spectrogram 1	1	106.791769581	107.008994471	3609.2	7838.7	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	3	a
+20	Spectrogram 1	1	107.232608328	107.532889794	3496.4	7838.7	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	3	a
+21	Spectrogram 1	1	107.609557402	108.146230659	2030.2	8346.3	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	3	b
+22	Spectrogram 1	1	108.222898267	108.325121745	1917.4	3665.6	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	3	c
+23	Spectrogram 1	1	108.337899679	108.606236308	1579.0	6823.7	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	3	d
+24	Spectrogram 1	1	108.695681851	109.398468259	1691.8	5977.7	Leistes_loyca-ML220335.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_loyca-ML220335.wav	3	e

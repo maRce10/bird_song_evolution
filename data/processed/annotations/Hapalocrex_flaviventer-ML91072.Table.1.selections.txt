@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	209.937016431	210.058468563	2576.2	3739.6	Hapalocrex_flaviventer-ML91072.wav	D:\Andean\Rallidae\Hapalocrex_flaviventer-ML91072.wav	1	a
+2	Spectrogram 1	1	210.619016864	210.733462142	2631.6	3795.0	Hapalocrex_flaviventer-ML91072.wav	D:\Andean\Rallidae\Hapalocrex_flaviventer-ML91072.wav	2	a
+3	Spectrogram 1	1	211.287003590	211.410791340	2603.9	3684.2	Hapalocrex_flaviventer-ML91072.wav	D:\Andean\Rallidae\Hapalocrex_flaviventer-ML91072.wav	3	a

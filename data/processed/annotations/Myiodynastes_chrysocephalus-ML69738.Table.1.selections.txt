@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	30.592366274	30.737174585	2576.2	5263.2	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	1	a
+2	Spectrogram 1	1	30.780383517	30.863297953	1246.5	3878.1	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	1	b
+3	Spectrogram 1	1	30.881982897	30.903003458	1135.7	4487.6	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	1	c
+4	Spectrogram 1	1	30.927527446	30.966065142	941.8	4404.5	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	1	d
+5	Spectrogram 1	1	32.441253304	32.583725997	2714.7	5180.1	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	2	a
+6	Spectrogram 1	1	32.633941782	32.711017174	1246.5	3988.9	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	2	b
+7	Spectrogram 1	1	32.730869926	32.753058296	1218.8	4515.3	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	2	c
+8	Spectrogram 1	1	32.779917903	32.818455598	1274.2	4570.7	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	2	d
+9	Spectrogram 1	1	34.487585959	34.632394270	2520.8	5290.9	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	3	a
+10	Spectrogram 1	1	34.677938819	34.764356683	1385.1	3933.5	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	3	b
+11	Spectrogram 1	1	34.780706008	34.804062187	1108.0	4653.8	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	3	c
+12	Spectrogram 1	1	34.823914940	34.870627298	1135.7	4487.6	Myiodynastes_chrysocephalus-ML69738.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_chrysocephalus-ML69738.wav	3	d

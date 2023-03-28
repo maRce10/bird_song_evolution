@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.789193863	31.931666556	2382.3	6011.1	Leptopogon_rufipectus-ML21663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Leptopogon_rufipectus-ML21663.wav	1	a
+2	Spectrogram 1	1	32.744461418	32.903283437	1828.3	6038.8	Leptopogon_rufipectus-ML21663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Leptopogon_rufipectus-ML21663.wav	2	b
+3	Spectrogram 1	1	33.643674318	33.802496336	1911.4	5955.7	Leptopogon_rufipectus-ML21663.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Leptopogon_rufipectus-ML21663.wav	3	b

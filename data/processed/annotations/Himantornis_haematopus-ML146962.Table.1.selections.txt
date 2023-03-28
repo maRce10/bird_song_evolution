@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.123181720	9.326380479	277.0	720.2	Himantornis_haematopus-ML146962.wav	D:\Andean\Rallidae\Himantornis_haematopus-ML146962.wav	1	a
+2	Spectrogram 1	1	9.572194874	9.731016892	304.7	720.2	Himantornis_haematopus-ML146962.wav	D:\Andean\Rallidae\Himantornis_haematopus-ML146962.wav	2	a
+3	Spectrogram 1	1	10.132743175	10.256530925	221.6	720.2	Himantornis_haematopus-ML146962.wav	D:\Andean\Rallidae\Himantornis_haematopus-ML146962.wav	3	a

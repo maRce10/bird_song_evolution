@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.856300565	18.958796874	395.3	2481.7	Montecincla_cachinnans-ML166129.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_cachinnans-ML166129.wav	1	a
+2	Spectrogram 1	1	19.721269414	19.808766263	417.3	2547.6	Montecincla_cachinnans-ML166129.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_cachinnans-ML166129.wav	2	a
+3	Spectrogram 1	1	20.156253749	20.266249787	483.2	2503.7	Montecincla_cachinnans-ML166129.wav	E:\Escritorio\Cantos\Leiothrichidae\Montecincla_cachinnans-ML166129.wav	3	a

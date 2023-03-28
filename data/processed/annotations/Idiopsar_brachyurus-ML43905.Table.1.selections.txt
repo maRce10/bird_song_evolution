@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.321008253	17.397100497	5827.200	6421.500	Idiopsar_brachyurus-ML43905.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Idiopsar_brachyurus-ML43905.wav	1	a
+2	Spectrogram 1	1	18.063330361	18.141113543	5582.500	6281.600	Idiopsar_brachyurus-ML43905.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Idiopsar_brachyurus-ML43905.wav	2	a
+3	Spectrogram 1	1	19.473573298	19.556429296	5792.200	6561.300	Idiopsar_brachyurus-ML43905.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Idiopsar_brachyurus-ML43905.wav	3	a
+4	Spectrogram 1	1	29.164619130	29.245784190	5792.200	6561.300	Idiopsar_brachyurus-ML43905.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Idiopsar_brachyurus-ML43905.wav	4	a
+5	Spectrogram 1	1	34.923426382	34.994445809	5792.200	6421.500	Idiopsar_brachyurus-ML43905.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Idiopsar_brachyurus-ML43905.wav	5	a

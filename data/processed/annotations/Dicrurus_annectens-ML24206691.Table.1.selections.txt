@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.635666726	3.669416358	2457.803	2914.252	Dicrurus_annectens-ML24206691.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicruridae\Dicruridae\Dicrurus_annectens-ML24206691.wav	1	a
+2	Spectrogram 1	1	3.718634572	3.946444591	1773.129	2176.911	Dicrurus_annectens-ML24206691.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicruridae\Dicruridae\Dicrurus_annectens-ML24206691.wav	1	b
+3	Spectrogram 1	1	4.072644970	4.316588024	2525.600	2899.000	Dicrurus_annectens-ML24206691.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicruridae\Dicruridae\Dicrurus_annectens-ML24206691.wav	1	c
+4	Spectrogram 1	1	4.369619123	4.610170183	2492.600	2877.000	Dicrurus_annectens-ML24206691.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicruridae\Dicruridae\Dicrurus_annectens-ML24206691.wav	1	c
+5	Spectrogram 1	1	4.636542319	4.772798886	1917.400	2420.700	Dicrurus_annectens-ML24206691.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicruridae\Dicruridae\Dicrurus_annectens-ML24206691.wav	2	b

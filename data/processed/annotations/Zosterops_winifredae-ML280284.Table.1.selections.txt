@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.708467652	7.829919784	1645.9	2325.2	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	1	a
+2	Spectrogram 1	1	8.065817194	8.441851679	2037.8	4023.3	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	1	b
+3	Spectrogram 1	1	8.514255700	8.796865468	2011.7	3631.5	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	1	c
+4	Spectrogram 1	1	8.913646365	9.037434114	2011.7	4101.7	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	1	d
+5	Spectrogram 1	1	9.193920515	9.296687704	1541.4	2455.8	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	1	e
+6	Spectrogram 1	1	9.394783656	9.469523430	1959.4	2899.9	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	1	f
+7	Spectrogram 1	1	9.548934439	9.623674213	1933.3	2899.9	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	1	f
+8	Spectrogram 1	1	9.703085118	10.076783985	2090.0	3579.2	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	1	g
+9	Spectrogram 1	1	10.137510051	10.354722518	2063.9	3030.6	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	1	h
+10	Spectrogram 1	1	10.527558244	10.674702173	1567.5	2246.8	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	2	a
+11	Spectrogram 1	1	10.838745715	10.953190993	1698.2	3866.6	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	2	i
+12	Spectrogram 1	1	11.172738626	11.217115366	1933.3	2612.6	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	2	j
+13	Spectrogram 1	1	11.558115583	11.765985578	2116.2	3344.1	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	2	k
+14	Spectrogram 1	1	11.861745913	12.200410511	1724.3	3971.1	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	2	l
+15	Spectrogram 1	1	12.202745862	12.443314775	1645.9	4467.5	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	2	m
+16	Spectrogram 1	1	12.468849595	12.772479924	1619.8	4676.5	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	2	n
+17	Spectrogram 1	1	12.931301943	13.204569240	1985.5	4075.6	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	2	o
+18	Spectrogram 1	1	13.288651485	13.337699462	1959.4	2586.4	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	2	j
+19	Spectrogram 1	1	13.480172155	13.627316084	1619.8	2429.7	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	3	a
+20	Spectrogram 1	1	13.723892230	13.838337508	1738.1	4228.4	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	3	i
+22	Spectrogram 1	1	13.936433461	14.151310310	2101.2	3709.6	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	3	h
+23	Spectrogram 1	1	14.338814694	14.399540759	1841.8	2905.4	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	3	p
+24	Spectrogram 1	1	14.558059591	14.866361157	2282.8	3528.0	Zosterops_winifredae-ML280284.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_winifredae-ML280284.wav	3	q

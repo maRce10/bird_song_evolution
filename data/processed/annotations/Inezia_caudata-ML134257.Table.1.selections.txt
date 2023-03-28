@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.046502917	14.074578948	2036.0	2867.1	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	1	a
+2	Spectrogram 1	1	14.170367762	14.198443794	2216.1	3227.2	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	1	b
+3	Spectrogram 1	1	14.261201982	14.358642327	2313.0	3822.7	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	1	c
+4	Spectrogram 1	1	14.525446985	14.626190393	2617.7	3739.6	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	1	d
+5	Spectrogram 1	1	14.657569487	14.725282269	2673.1	3504.2	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	1	e
+6	Spectrogram 1	1	14.750055238	14.819419552	2659.3	3393.4	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	1	f
+7	Spectrogram 1	1	14.844192521	14.878874677	2437.7	3324.1	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	1	g
+8	Spectrogram 1	1	14.893738459	14.930072147	2423.8	3310.3	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	1	g
+9	Spectrogram 1	1	14.974663491	15.010997179	2091.4	3047.1	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	1	h
+10	Spectrogram 1	1	37.179355334	37.275144147	2340.7	3767.3	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	2	c
+11	Spectrogram 1	1	37.460115650	37.559207526	2645.4	3711.9	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	2	d
+12	Spectrogram 1	1	37.595541214	37.669860121	2659.3	3531.9	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	2	e
+13	Spectrogram 1	1	37.706193809	37.762345872	2590.0	3434.9	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	2	f
+14	Spectrogram 1	1	37.788770373	37.826755592	2714.7	3324.1	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	2	i
+15	Spectrogram 1	1	37.846573967	37.882907655	2548.5	3351.8	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	2	j
+16	Spectrogram 1	1	37.904377562	37.937408187	2673.1	3185.6	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	2	k
+18	Spectrogram 1	1	43.469333490	43.566773835	2008.3	3767.3	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	3	l
+19	Spectrogram 1	1	43.731926962	43.829367307	2853.2	3711.9	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	3	m
+20	Spectrogram 1	1	43.870655589	43.941671434	2839.4	3545.7	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	3	n
+21	Spectrogram 1	1	43.968095934	44.030854122	2534.6	3407.2	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	3	o
+22	Spectrogram 1	1	44.067187810	44.095263842	2465.4	3324.1	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	3	g
+23	Spectrogram 1	1	44.115082217	44.149764374	2770.1	3241.0	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	3	p
+24	Spectrogram 1	1	44.194355718	44.220780218	2465.4	3033.3	Inezia_caudata-ML134257.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Inezia_caudata-ML134257.wav	3	q

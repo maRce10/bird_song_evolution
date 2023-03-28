@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	87.118253340	87.180751089	560.000	1098.100	Centropus_grillii-ML3084.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_grillii-ML3084.wav	1	a
+2	Spectrogram 1	1	87.245748748	87.311996362	516.100	1087.100	Centropus_grillii-ML3084.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_grillii-ML3084.wav	1	a
+3	Spectrogram 1	1	88.206746174	88.274243743	472.200	1120.100	Centropus_grillii-ML3084.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_grillii-ML3084.wav	2	a
+4	Spectrogram 1	1	88.336741493	88.401739152	494.100	1131.100	Centropus_grillii-ML3084.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_grillii-ML3084.wav	2	a
+5	Spectrogram 1	1	89.417727384	89.485224953	483.200	1131.100	Centropus_grillii-ML3084.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_grillii-ML3084.wav	3	a
+6	Spectrogram 1	1	89.545222792	89.606470587	516.100	1131.100	Centropus_grillii-ML3084.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_grillii-ML3084.wav	3	a

@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.661215941	10.925460945	2022.2	2493.1	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	1	a
+2	Spectrogram 1	1	11.354859075	11.711589830	1994.5	2548.5	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	1	b
+3	Spectrogram 1	1	12.068320584	12.444869714	2105.3	2659.3	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	1	c
+4	Spectrogram 1	1	12.821418843	13.145118973	2188.4	2880.9	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	1	d
+5	Spectrogram 1	1	13.541486478	13.904823357	2243.8	2880.9	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	1	e
+6	Spectrogram 1	1	14.248341861	14.638103241	2243.8	2936.3	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	1	f
+7	Spectrogram 1	1	14.994833996	15.364777000	2216.1	3019.4	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	1	g
+8	Spectrogram 1	1	15.708295505	16.078238509	2326.9	3047.1	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	1	g
+10	Spectrogram 1	1	43.572963695	43.850420948	2105.3	2437.7	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	2	h
+11	Spectrogram 1	1	44.299637454	44.610125333	2077.6	2576.2	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	2	i
+12	Spectrogram 1	1	45.013098963	45.336799092	2133.0	2631.6	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	2	j
+13	Spectrogram 1	1	45.726560472	46.063472851	2216.1	2770.1	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	2	k
+14	Spectrogram 1	1	46.459840356	46.790146610	2243.8	2908.6	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	2	l
+15	Spectrogram 1	1	47.153483490	47.516820370	2271.5	2908.6	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	2	f
+16	Spectrogram 1	1	47.880157249	48.243494129	2271.5	2991.7	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	2	g
+17	Spectrogram 1	1	48.593618758	48.976774013	2271.5	2991.7	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	2	g
+19	Spectrogram 1	1	76.809703936	77.093767314	2077.6	2465.4	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	3	m
+20	Spectrogram 1	1	77.509953195	77.853471699	2077.6	2548.5	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	3	i
+21	Spectrogram 1	1	78.236626954	78.593357708	2160.7	2770.1	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	3	k
+22	Spectrogram 1	1	78.943482338	79.313425342	2188.4	2797.8	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	3	n
+23	Spectrogram 1	1	79.676762222	80.046705227	2216.1	2908.6	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	3	o
+24	Spectrogram 1	1	80.377011481	80.773378986	2271.5	2936.3	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	3	f
+25	Spectrogram 1	1	81.116897490	81.493446620	2216.1	2964.0	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	3	p
+26	Spectrogram 1	1	81.836965124	82.200302004	2326.9	3019.4	Nothoprocta_cinerascens-ML43863.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_cinerascens-ML43863.wav	3	g

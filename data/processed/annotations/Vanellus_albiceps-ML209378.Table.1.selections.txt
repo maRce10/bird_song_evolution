@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.313580747	0.379131524	1611.7	3737.3	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav	1	a
+2	Spectrogram 1	1	0.497831581	0.558067430	1541.6	3784.0	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav	1	a
+3	Spectrogram 1	1	0.646649562	0.706885412	1448.2	3527.1	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav	1	b
+4	Spectrogram 1	1	0.749404835	0.806097399	1471.6	3293.5	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav	1	b
+5	Spectrogram 1	1	1.374794685	1.442117106	1494.9	3597.1	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav	2	a
+6	Spectrogram 1	1	1.523612667	1.587391802	1424.8	3643.9	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav	2	a
+7	Spectrogram 1	1	1.621053012	1.668887363	1238.0	3363.6	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav		b
+8	Spectrogram 1	1	2.714402543	2.779953320	1471.6	3667.2	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav	3	a
+9	Spectrogram 1	1	2.810071245	2.857905596	1331.4	3293.5	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav	3	b
+10	Spectrogram 1	1	2.974834010	3.029754932	1494.9	3573.8	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav	3	a
+11	Spectrogram 1	1	3.084675854	3.127195277	1354.8	2943.1	Vanellus_albiceps-ML209378.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_albiceps-ML209378.wav	3	b

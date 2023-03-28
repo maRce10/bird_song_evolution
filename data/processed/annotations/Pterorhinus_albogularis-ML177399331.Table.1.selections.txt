@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.229919692	3.009891602	1229.9	3513.9	Pterorhinus_albogularis-ML177399331.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_albogularis-ML177399331.wav	1	a
+2	Spectrogram 1	1	5.199812735	5.969785005	1229.9	3579.8	Pterorhinus_albogularis-ML177399331.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_albogularis-ML177399331.wav	2	a
+3	Spectrogram 1	1	7.589726665	8.419696774	1207.9	3513.9	Pterorhinus_albogularis-ML177399331.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_albogularis-ML177399331.wav	3	a

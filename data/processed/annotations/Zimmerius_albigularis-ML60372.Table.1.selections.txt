@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.077170558	21.315403586	2299.1	4415.2	Zimmerius_albigularis-ML60372.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_albigularis-ML60372.wav	1	a
+2	Spectrogram 1	1	21.355109091	21.455540662	2664.8	3788.2	Zimmerius_albigularis-ML60372.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_albigularis-ML60372.wav	1	b
+3	Spectrogram 1	1	21.485903695	21.573489367	2769.3	4023.3	Zimmerius_albigularis-ML60372.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_albigularis-ML60372.wav	1	c
+4	Spectrogram 1	1	21.586335265	21.669249701	3108.9	4598.1	Zimmerius_albigularis-ML60372.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_albigularis-ML60372.wav	1	d
+5	Spectrogram 1	1	24.124080150	24.218672675	2978.3	3683.7	Zimmerius_albigularis-ML60372.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_albigularis-ML60372.wav	2	e
+6	Spectrogram 1	1	24.246700090	24.319104246	2952.2	3553.1	Zimmerius_albigularis-ML60372.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_albigularis-ML60372.wav	2	f
+7	Spectrogram 1	1	25.905311621	26.135369987	2403.6	4363.0	Zimmerius_albigularis-ML60372.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_albigularis-ML60372.wav	3	a
+8	Spectrogram 1	1	26.180914536	26.277842680	2664.8	3840.5	Zimmerius_albigularis-ML60372.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_albigularis-ML60372.wav	3	b
+9	Spectrogram 1	1	26.315212567	26.407469475	2821.6	4049.5	Zimmerius_albigularis-ML60372.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_albigularis-ML60372.wav	3	c
+10	Spectrogram 1	1	26.431993463	26.493887338	3082.8	4336.8	Zimmerius_albigularis-ML60372.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_albigularis-ML60372.wav	3	g

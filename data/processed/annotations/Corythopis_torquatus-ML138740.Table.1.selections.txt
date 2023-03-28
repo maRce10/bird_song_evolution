@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	97.025463663	97.045282863	1358.5	2116.2	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	1	a
+2	Spectrogram 1	1	97.598545014	97.623317983	1306.3	2272.9	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	1	b
+3	Spectrogram 1	1	97.768652735	97.798380298	1593.7	2325.2	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	1	c
+4	Spectrogram 1	1	97.818198673	97.851229299	1933.3	2717.1	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	1	d
+5	Spectrogram 1	1	97.871048499	98.065929189	2690.9	3709.8	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	1	e
+6	Spectrogram 1	1	98.345037973	98.710026384	2116.2	3370.2	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	1	f
+7	Spectrogram 1	1	100.749180961	100.798878233	1332.4	2351.3	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	2	b
+8	Spectrogram 1	1	101.784691068	101.811115568	1776.5	2194.5	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	2	g
+9	Spectrogram 1	1	102.238862167	102.265286668	1463.0	2299.1	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	2	a
+10	Spectrogram 1	1	102.331347919	102.357772419	1436.9	2299.1	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	2	a
+11	Spectrogram 1	1	102.379242325	102.415125884	1881.0	2847.7	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	2	h
+12	Spectrogram 1	1	102.428788264	102.613759766	2638.7	3762.1	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	2	e
+13	Spectrogram 1	1	102.889566110	103.274372896	2011.7	3344.1	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	2	f
+14	Spectrogram 1	1	105.098745248	105.126821280	1332.4	2090.0	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	3	a
+15	Spectrogram 1	1	105.884874133	105.904692508	1463.0	2194.5	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	3	i
+16	Spectrogram 1	1	106.497592235	106.525668266	1515.3	2246.8	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	3	c
+17	Spectrogram 1	1	106.580169935	106.608245966	1306.3	2325.2	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	3	b
+18	Spectrogram 1	1	106.633018935	106.659443436	2090.0	2847.7	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	3	j
+19	Spectrogram 1	1	106.672655686	106.869187907	2769.3	3762.1	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	3	e
+20	Spectrogram 1	1	107.144993629	107.518239697	2090.0	3396.3	Corythopis_torquatus-ML138740.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Corythopis_torquatus-ML138740.wav	3	f

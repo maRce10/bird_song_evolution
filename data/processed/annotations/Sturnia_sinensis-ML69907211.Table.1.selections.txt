@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.285848536	0.356789048	2743.2	5329.6	Sturnia_sinensis-ML69907211.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_sinensis-ML69907211.wav	1	a
+2	Spectrogram 1	1	1.608680445	1.708831757	2769.3	5094.5	Sturnia_sinensis-ML69907211.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_sinensis-ML69907211.wav	2	b
+3	Spectrogram 1	1	3.396841539	3.482387451	2873.8	5329.6	Sturnia_sinensis-ML69907211.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_sinensis-ML69907211.wav	3	b
+4	Spectrogram 1	1	3.626312081	3.713944478	3030.6	5225.1	Sturnia_sinensis-ML69907211.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_sinensis-ML69907211.wav	3	a

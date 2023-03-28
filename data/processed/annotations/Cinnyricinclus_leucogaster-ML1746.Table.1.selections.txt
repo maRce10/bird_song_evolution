@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.146484977	8.852599764	1440.5	5097.0	Cinnyricinclus_leucogaster-ML1746.wav	D:\Andean\Sturnidae\Cinnyricinclus_leucogaster-ML1746.wav	1	a
+2	Spectrogram 1	1	8.865058501	9.094933578	1911.4	3933.5	Cinnyricinclus_leucogaster-ML1746.wav	D:\Andean\Sturnidae\Cinnyricinclus_leucogaster-ML1746.wav	1	b
+3	Spectrogram 1	1	9.253127179	9.351998180	1218.8	3822.7	Cinnyricinclus_leucogaster-ML1746.wav	D:\Andean\Sturnidae\Cinnyricinclus_leucogaster-ML1746.wav	1	c
+4	Spectrogram 1	1	31.925525085	32.751097941	1551.3	5152.4	Cinnyricinclus_leucogaster-ML1746.wav	D:\Andean\Sturnidae\Cinnyricinclus_leucogaster-ML1746.wav	2	a
+5	Spectrogram 1	1	41.605557445	42.396525452	1080.3	4321.4	Cinnyricinclus_leucogaster-ML1746.wav	D:\Andean\Sturnidae\Cinnyricinclus_leucogaster-ML1746.wav	3	a

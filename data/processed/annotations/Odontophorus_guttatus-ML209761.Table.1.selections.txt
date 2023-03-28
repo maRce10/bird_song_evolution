@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	34.343729144	34.458174422	1155.7	1469.1	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	1	a
+2	Spectrogram 1	1	34.474523747	34.549263521	1175.3	1978.3	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	1	b
+3	Spectrogram 1	1	34.650422293	34.823258019	1135.7	1828.3	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	1	c
+4	Spectrogram 1	1	34.947331185	35.064112081	1096.9	1449.5	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	1	a
+5	Spectrogram 1	1	35.087468260	35.171550505	1096.9	1997.9	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	1	b
+6	Spectrogram 1	1	35.273697386	35.402156372	999.0	1567.0	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	1	d
+7	Spectrogram 1	1	35.497916706	35.636829149	1018.6	1469.1	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	2	a
+8	Spectrogram 1	1	35.674199036	35.765288135	1038.1	1900.0	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	2	b
+9	Spectrogram 1	1	35.838916923	36.018759503	1116.5	1880.4	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	2	c
+10	Spectrogram 1	1	36.151889724	36.263999385	1116.5	1449.5	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	2	a
+11	Spectrogram 1	1	36.292026800	36.390122752	1057.7	1978.3	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	2	b
+12	Spectrogram 1	1	36.541937917	36.633027016	940.2	1567.0	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	2	d
+13	Spectrogram 1	1	36.817540894	36.934321790	1155.7	1449.5	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	3	a
+14	Spectrogram 1	1	36.948335498	37.055773922	1194.8	1900.0	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	3	b
+15	Spectrogram 1	1	37.102486281	37.294006950	1175.3	1821.6	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	3	c
+16	Spectrogram 1	1	37.459835823	37.578952337	1116.5	1488.7	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	3	a
+17	Spectrogram 1	1	37.606979752	37.702740087	1155.7	1900.0	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	3	b
+18	Spectrogram 1	1	37.852219634	37.936301879	920.6	1488.7	Odontophorus_guttatus-ML209761.wav	E:\Andean\Odontophoridae\Odontophorus_guttatus-ML209761.wav	3	d

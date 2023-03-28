@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.107541653	12.219845779	1883.7	3324.1	Pteroglossus_pluricinctus-ML47416.wav	D:\Andean\Ramphastidae\Pteroglossus_pluricinctus-ML47416.wav	1	a
+2	Spectrogram 1	1	13.904407676	14.020014865	1911.4	3213.3	Pteroglossus_pluricinctus-ML47416.wav	D:\Andean\Ramphastidae\Pteroglossus_pluricinctus-ML47416.wav	2	a
+3	Spectrogram 1	1	16.535856550	16.694678569	1966.8	3185.6	Pteroglossus_pluricinctus-ML47416.wav	D:\Andean\Ramphastidae\Pteroglossus_pluricinctus-ML47416.wav	3	a

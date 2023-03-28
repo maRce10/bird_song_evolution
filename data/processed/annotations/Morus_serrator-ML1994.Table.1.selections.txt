@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.607502238	12.666957364	747.9	2049.9	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	1	a
+2	Spectrogram 1	1	12.696684927	12.749533927	803.3	2243.8	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	1	a
+3	Spectrogram 1	1	12.775958428	12.822201303	858.7	2326.9	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	1	a
+4	Spectrogram 1	1	12.851928866	12.889914085	858.7	2326.9	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	1	a
+5	Spectrogram 1	1	12.908080929	12.954323805	858.7	2326.9	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	1	a
+6	Spectrogram 1	1	13.064976400	13.109567744	914.1	1440.5	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	2	b
+7	Spectrogram 1	1	13.132689182	13.177280526	941.8	2548.5	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	2	a
+8	Spectrogram 1	1	13.220220339	13.266463215	941.8	2493.1	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	2	a
+9	Spectrogram 1	1	13.289584653	13.330872935	941.8	2271.5	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	2	a
+10	Spectrogram 1	1	13.360600497	13.413449498	858.7	2216.1	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	2	c
+11	Spectrogram 1	1	13.428313280	13.481162280	747.9	2105.3	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	2	c
+12	Spectrogram 1	1	13.492722999	13.590163344	692.5	2299.2	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	2	d
+13	Spectrogram 1	1	13.700815939	13.733846565	1163.4	1662.1	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	3	e
+14	Spectrogram 1	1	13.766877190	13.821377722	692.5	2243.8	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	3	a
+15	Spectrogram 1	1	13.847802222	13.894045098	1080.3	2133.0	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	3	e
+16	Spectrogram 1	1	13.920469598	13.976621662	858.7	2216.1	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	3	c
+17	Spectrogram 1	1	13.994788505	14.047637506	775.6	2326.9	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	3	a
+18	Spectrogram 1	1	14.062501288	14.120304882	775.6	2243.8	Morus_serrator-ML1994.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Morus_serrator-ML1994.wav	3	a

@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	43.910961991	44.252531616	2076.5	3757.4	Geospiza_fortis-ML82576.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_fortis-ML82576.wav	1	a
+2	Spectrogram 1	1	44.382733900	44.741212913	1928.1	3708.0	Geospiza_fortis-ML82576.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_fortis-ML82576.wav	1	a
+3	Spectrogram 1	1	52.541113025	52.889446405	1952.9	3930.4	Geospiza_fortis-ML82576.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_fortis-ML82576.wav	2	a
+4	Spectrogram 1	1	53.019648688	53.430546803	1878.7	3979.9	Geospiza_fortis-ML82576.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_fortis-ML82576.wav	2	a
+5	Spectrogram 1	1	77.678295011	78.040155902	1878.7	4029.3	Geospiza_fortis-ML82576.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_fortis-ML82576.wav	3	a
+6	Spectrogram 1	1	78.178812879	78.566037851	1878.7	3905.7	Geospiza_fortis-ML82576.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_fortis-ML82576.wav	3	a
+7	Spectrogram 1	1	137.897567706	138.252664842	1755.1	4029.3	Geospiza_fortis-ML82576.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_fortis-ML82576.wav	4	a
+8	Spectrogram 1	1	138.372721493	138.744728016	1755.1	4128.2	Geospiza_fortis-ML82576.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_fortis-ML82576.wav	4	a
+9	Spectrogram 1	1	164.989555493	165.331125119	1903.4	4177.6	Geospiza_fortis-ML82576.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_fortis-ML82576.wav	5	a
+10	Spectrogram 1	1	165.456254585	165.851934251	1755.1	4103.5	Geospiza_fortis-ML82576.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_fortis-ML82576.wav	5	a

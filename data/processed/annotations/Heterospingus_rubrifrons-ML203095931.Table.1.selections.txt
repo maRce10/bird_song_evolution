@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.135999175	21.255566600	4301.200	11371.100	Heterospingus_rubrifrons-ML203095931.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Heterospingus_rubrifrons-ML203095931.wav	1	a
+2	Spectrogram 1	1	30.931367130	31.055717252	4548.400	11618.300	Heterospingus_rubrifrons-ML203095931.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Heterospingus_rubrifrons-ML203095931.wav	2	a
+3	Spectrogram 1	1	42.555233966	42.708280271	4597.900	10777.800	Heterospingus_rubrifrons-ML203095931.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Heterospingus_rubrifrons-ML203095931.wav	3	a
+4	Spectrogram 1	1	47.495262553	47.667033625	4202.400	11321.600	Heterospingus_rubrifrons-ML203095931.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Heterospingus_rubrifrons-ML203095931.wav	4	a
+5	Spectrogram 1	1	66.923222869	67.095399961	4350.700	10876.700	Heterospingus_rubrifrons-ML203095931.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Heterospingus_rubrifrons-ML203095931.wav	5	a

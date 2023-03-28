@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+15	Spectrogram 1	1	309.406573819	309.543254217	235.5	540.2	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	1	a
+16	Spectrogram 1	1	309.863286370	310.006634105	263.2	554.0	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	1	b
+17	Spectrogram 1	1	310.326594857	310.483277264	235.5	554.0	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	1	b
+18	Spectrogram 1	1	310.773306402	310.913320469	263.2	554.0	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	1	b
+19	Spectrogram 1	1	311.206683275	311.330029001	249.3	498.6	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	1	a
+20	Spectrogram 1	1	319.902259923	320.032272985	235.5	567.9	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	2	a
+21	Spectrogram 1	1	320.375640815	320.512321214	249.3	554.0	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	2	b
+22	Spectrogram 1	1	320.852355376	321.005704115	221.6	567.9	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	2	b
+23	Spectrogram 1	1	321.309067926	321.465750334	207.8	554.0	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	2	b
+24	Spectrogram 1	1	321.742444799	321.902460875	235.5	567.9	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	2	b
+25	Spectrogram 1	1	322.172488004	322.299167397	249.3	554.0	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	2	a
+26	Spectrogram 1	1	331.097204479	331.227217541	249.3	567.9	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	3	a
+27	Spectrogram 1	1	331.570585371	331.703932101	235.5	540.2	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	3	b
+28	Spectrogram 1	1	332.030631590	332.167311988	249.3	567.9	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	3	b
+29	Spectrogram 1	1	332.487344140	332.637359212	263.2	554.0	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	3	b
+30	Spectrogram 1	1	332.937389354	333.067402416	277.0	540.2	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	3	b
+31	Spectrogram 1	1	333.360765223	333.480777280	290.9	540.2	Otus_madagascariensis-ML100186.wav	D:\Andean\Strigidae\Otus_madagascariensis-ML100186.wav	3	a

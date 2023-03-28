@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.254984268	1.314439393	1385.1	2382.3	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	1	a
+2	Spectrogram 1	1	2.539875596	2.612542972	1385.1	2354.6	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	1	a
+3	Spectrogram 1	1	3.180849374	3.263425937	1523.6	1994.5	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	1	b
+4	Spectrogram 1	1	3.785309819	3.930644571	1606.7	1994.5	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	1	b
+5	Spectrogram 1	1	4.303890638	4.515286641	1606.7	1966.8	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	1	c
+6	Spectrogram 1	1	4.673833643	5.106534836	1440.5	1883.7	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	1	d
+7	Spectrogram 1	1	5.172596086	5.578872779	1301.9	1800.6	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	1	d
+8	Spectrogram 1	1	5.618509529	6.146999536	1274.2	1856.0	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	1	d
+9	Spectrogram 1	1	11.211922539	11.277983790	1357.3	2216.1	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	2	a
+10	Spectrogram 1	1	13.142562595	13.218533033	1274.2	2271.5	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	2	a
+11	Spectrogram 1	1	14.031086418	14.133481357	1468.2	1939.1	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	2	b
+12	Spectrogram 1	1	14.506727424	14.645456051	1689.8	1994.5	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	2	b
+13	Spectrogram 1	1	14.964201586	15.162385339	1579.0	1966.8	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	2	c
+14	Spectrogram 1	1	15.314326216	15.770148847	1468.2	1883.7	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	2	d
+15	Spectrogram 1	1	15.822997847	16.206153102	1357.3	1883.7	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	2	d
+16	Spectrogram 1	1	16.265608228	16.820522735	1329.6	1883.7	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	2	d
+17	Spectrogram 1	1	24.643221979	24.735707730	1551.3	2354.6	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	3	a
+18	Spectrogram 1	1	26.611847254	26.684514630	1412.8	2160.7	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	3	a
+19	Spectrogram 1	1	27.364945514	27.450825140	1551.3	1939.1	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	3	b
+20	Spectrogram 1	1	27.847192645	27.999133522	1717.5	2049.9	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	3	b
+21	Spectrogram 1	1	28.296409150	28.494592903	1551.3	1966.8	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	3	c
+22	Spectrogram 1	1	28.633321530	29.075931910	1523.6	1966.8	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	3	d
+23	Spectrogram 1	1	29.135387036	29.511936166	1440.5	1828.3	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	3	d
+24	Spectrogram 1	1	29.558179041	30.106487423	1301.9	1800.6	Bleda_syndactylus-ML279842.wav	D:\Andean\Pycnonotidae\Bleda_syndactylus-ML279842.wav	3	d

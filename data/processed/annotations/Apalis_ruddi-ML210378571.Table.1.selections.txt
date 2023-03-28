@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.896930500	1.907560355	1097.8	3363.6	Apalis_ruddi-ML210378571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_ruddi-ML210378571.wav	1	a
+2	Spectrogram 1	1	1.912875283	1.935906638	934.3	3316.8	Apalis_ruddi-ML210378571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_ruddi-ML210378571.wav	1	b
+3	Spectrogram 1	1	1.941221565	1.966024562	864.2	2312.4	Apalis_ruddi-ML210378571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_ruddi-ML210378571.wav	1	c
+4	Spectrogram 1	1	2.067008193	2.079409691	957.7	3433.6	Apalis_ruddi-ML210378571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_ruddi-ML210378571.wav	2	a
+5	Spectrogram 1	1	2.082952976	2.105984331	794.2	3270.1	Apalis_ruddi-ML210378571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_ruddi-ML210378571.wav	2	b
+6	Spectrogram 1	1	2.109527616	2.136102255	770.8	2172.3	Apalis_ruddi-ML210378571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_ruddi-ML210378571.wav	2	c
+7	Spectrogram 1	1	2.226456030	2.242400814	957.7	3457.0	Apalis_ruddi-ML210378571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_ruddi-ML210378571.wav	3	a
+8	Spectrogram 1	1	2.245944099	2.270747096	957.7	3386.9	Apalis_ruddi-ML210378571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_ruddi-ML210378571.wav	3	b
+9	Spectrogram 1	1	2.274290381	2.300865021	817.5	2195.7	Apalis_ruddi-ML210378571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_ruddi-ML210378571.wav	3	c

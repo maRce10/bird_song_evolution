@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	123.389365372	123.481285943	6764.3	7423.2	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	1	a
+2	Spectrogram 1	1	123.696945744	123.792401722	6984.0	8016.2	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	1	b
+3	Spectrogram 1	1	124.032809370	124.145942380	7137.7	8345.6	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	1	c
+4	Spectrogram 1	1	124.329783523	124.442916533	7203.6	8653.1	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	1	d
+5	Spectrogram 1	1	124.630293082	124.761103126	7181.6	8630.7	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	1	e
+6	Spectrogram 1	1	124.906054795	125.019187806	7137.7	8602.8	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	1	e
+7	Spectrogram 1	1	125.167674883	125.291414113	7203.6	8916.6	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	1	f
+8	Spectrogram 1	1	125.411617937	125.528286354	7181.6	9004.5	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	1	f
+9	Spectrogram 1	1	135.373340656	135.458190414	5666.2	6500.8	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	2	a
+10	Spectrogram 1	1	135.723345908	135.825872698	6039.6	7049.9	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	2	b
+11	Spectrogram 1	1	136.041532500	136.161736324	6412.9	7203.6	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	2	c
+12	Spectrogram 1	1	136.366789906	136.497599949	6544.7	7774.6	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	2	d
+13	Spectrogram 1	1	136.692047311	136.819321948	6588.6	7796.6	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	2	d
+14	Spectrogram 1	1	137.017304717	137.148114760	6544.7	7840.5	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	2	e
+15	Spectrogram 1	1	137.314278870	137.452159726	6544.7	7906.4	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	2	e
+16	Spectrogram 1	1	137.742063066	137.856639510	6369.0	7536.1	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	2	c
+17	Spectrogram 1	1	156.747233803	156.835618968	5754.1	6720.4	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	3	a
+18	Spectrogram 1	1	157.132593121	157.224513692	5863.9	6873.2	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	3	b
+19	Spectrogram 1	1	157.510881625	157.613408416	5885.9	6943.0	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	3	b
+20	Spectrogram 1	1	157.825532811	157.931595008	5973.7	6908.1	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	3	c
+21	Spectrogram 1	1	158.154325623	158.256852414	6152.8	7326.7	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	3	d
+22	Spectrogram 1	1	158.532614127	158.635140918	6208.5	7605.9	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	3	e
+23	Spectrogram 1	1	158.829588280	158.935650478	6175.4	7605.9	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	3	e
+24	Spectrogram 1	1	159.296261949	159.377576301	6236.4	7152.3	Cranioleuca_gutturata-ML34160.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_gutturata-ML34160.wav	3	c

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.836310477	15.899947796	614.9	3410.6	Synallaxis_infuscata-ML127968.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_infuscata-ML127968.wav	1	a
+2	Spectrogram 1	1	16.140355443	16.207528168	571.0	3384.2	Synallaxis_infuscata-ML127968.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_infuscata-ML127968.wav	1	a
+3	Spectrogram 1	1	18.114968414	18.174335251	571.0	3278.4	Synallaxis_infuscata-ML127968.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_infuscata-ML127968.wav	2	a
+4	Spectrogram 1	1	18.379388833	18.432419932	527.1	3410.6	Synallaxis_infuscata-ML127968.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_infuscata-ML127968.wav	2	a
+5	Spectrogram 1	1	20.299114607	20.341539486	614.9	3331.3	Synallaxis_infuscata-ML127968.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_infuscata-ML127968.wav	3	a
+6	Spectrogram 1	1	20.567805508	20.617301200	614.9	3331.3	Synallaxis_infuscata-ML127968.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_infuscata-ML127968.wav	3	a

@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.272946626	13.568196309	2844.900	8941.200	Tangara_chrysotis-ML74736091.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_chrysotis-ML74736091.wav	1	a
+2	Spectrogram 1	1	14.294964761	14.578858687	3140.500	8719.500	Tangara_chrysotis-ML74736091.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_chrysotis-ML74736091.wav	2	a
+3	Spectrogram 1	1	15.273531134	15.547691554	2475.500	8904.300	Tangara_chrysotis-ML74736091.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_chrysotis-ML74736091.wav	3	a
+4	Spectrogram 1	1	16.203080961	16.546998175	2512.400	8830.400	Tangara_chrysotis-ML74736091.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_chrysotis-ML74736091.wav	4	a
+5	Spectrogram 1	1	17.212913301	17.503296232	2623.200	9310.700	Tangara_chrysotis-ML74736091.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_chrysotis-ML74736091.wav	5	a

@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.847942603	24.034792036	1776.5	2612.6	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	1	a
+2	Spectrogram 1	1	24.284703154	24.469216970	1541.4	2743.2	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	1	b
+3	Spectrogram 1	1	24.677086965	24.866272017	1828.8	2847.7	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	1	c
+4	Spectrogram 1	1	25.013415946	25.359087398	1776.5	2690.9	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	1	d
+6	Spectrogram 1	1	27.239259573	27.416766536	1593.7	2194.5	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	2	e
+7	Spectrogram 1	1	27.708718776	27.890896974	1776.5	2508.1	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	2	f
+8	Spectrogram 1	1	28.112780676	28.311308200	1645.9	2690.9	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	2	g
+9	Spectrogram 1	1	28.505164487	28.699020775	1854.9	2821.6	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	2	c
+10	Spectrogram 1	1	28.855507175	29.191836156	1698.2	2612.6	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	2	d
+13	Spectrogram 1	1	30.582095254	30.758809100	1776.5	2534.2	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	3	a
+14	Spectrogram 1	1	31.011493384	31.198116418	1854.9	2638.7	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	3	h
+15	Spectrogram 1	1	31.399603233	31.591180860	1828.8	2821.6	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	3	c
+16	Spectrogram 1	1	31.766243175	32.114716273	1724.3	2612.6	Attila_citriniventris-ML62544.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Attila_citriniventris-ML62544.wav	3	d

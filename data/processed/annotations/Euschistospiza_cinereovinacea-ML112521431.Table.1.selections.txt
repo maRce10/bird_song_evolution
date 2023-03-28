@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.450890743	3.568386512	2152.3	10893.2	Euschistospiza_cinereovinacea-ML112521431.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Euschistospiza_cinereovinacea-ML112521431.wav	1	a
+2	Spectrogram 1	1	4.975835824	5.095831502	2108.4	10871.3	Euschistospiza_cinereovinacea-ML112521431.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Euschistospiza_cinereovinacea-ML112521431.wav	2	a
+3	Spectrogram 1	1	5.775537818	5.890533677	2130.3	10893.2	Euschistospiza_cinereovinacea-ML112521431.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Euschistospiza_cinereovinacea-ML112521431.wav	3	a

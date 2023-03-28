@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.422190506	0.502957385	1074.5	2639.5	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+2	Spectrogram 1	1	0.736079969	0.816846848	981.0	2709.5	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+3	Spectrogram 1	1	1.106873369	1.180297805	1097.8	2779.6	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+4	Spectrogram 1	1	1.420762832	1.496022879	911.0	2639.5	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+5	Spectrogram 1	1	1.719967408	1.795227455	1004.4	2662.8	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+6	Spectrogram 1	1	2.032021260	2.114623750	911.0	2662.8	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+7	Spectrogram 1	1	2.341035934	2.427309646	981.0	2732.9	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+8	Spectrogram 1	1	2.654925397	2.741199109	1004.4	2732.9	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+9	Spectrogram 1	1	2.972486082	3.062431016	1004.4	2709.5	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+10	Spectrogram 1	1	3.368978035	3.446073692	1027.8	2686.2	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+11	Spectrogram 1	1	3.744118942	3.826721432	1027.8	2943.1	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+12	Spectrogram 1	1	4.199350444	4.281952934	1004.4	2779.6	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+13	Spectrogram 1	1	4.606927850	4.683951720	1004.4	2756.2	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+14	Spectrogram 1	1	4.931830978	5.016269080	1004.4	2732.9	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+15	Spectrogram 1	1	5.240213609	5.324651710	957.7	2709.5	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+16	Spectrogram 1	1	5.550431850	5.636705562	981.0	2709.5	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+17	Spectrogram 1	1	5.987579327	6.079359871	1097.8	2639.5	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+18	Spectrogram 1	1	6.378564447	6.457495716	1051.1	2616.1	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+19	Spectrogram 1	1	6.696125132	6.780563233	1027.8	2803.0	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+20	Spectrogram 1	1	7.059109741	7.143547842	981.0	2756.2	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a
+21	Spectrogram 1	1	7.462944138	7.540039796	911.0	2756.2	Falco_jugger-ML203914651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_jugger-ML203914651.wav	1	a

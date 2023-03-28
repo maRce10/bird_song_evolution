@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.630137831	16.659333055	1976.7	3639.3	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	a
+2	Spectrogram 1	1	16.662836481	16.723562547	1681.1	3232.9	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	b
+3	Spectrogram 1	1	16.727065974	16.750422154	2124.5	3066.6	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	c
+4	Spectrogram 1	1	16.756261198	16.821658500	1976.7	3232.9	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	d
+5	Spectrogram 1	1	16.826329736	16.847350297	2327.7	3048.1	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	e
+6	Spectrogram 1	1	16.849685915	16.922090071	2142.9	3122.0	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	f
+7	Spectrogram 1	1	17.052884674	17.083247707	1976.7	3657.8	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	a
+8	Spectrogram 1	1	17.090254561	17.145141582	1681.1	3103.6	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	g
+9	Spectrogram 1	1	17.149812818	17.174336806	1810.4	2881.9	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	h
+10	Spectrogram 1	1	17.181343660	17.243237535	1865.8	2808.0	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	i
+11	Spectrogram 1	1	17.244405344	17.267761523	2364.6	2752.6	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	j
+12	Spectrogram 1	1	17.279439613	17.344836915	2087.5	2752.6	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	1	k
+14	Spectrogram 1	1	19.914111510	19.943306734	1958.2	3676.2	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	a
+15	Spectrogram 1	1	19.951481397	20.004032800	1791.9	3546.9	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	l
+16	Spectrogram 1	1	20.010455749	20.027972884	1921.3	3103.6	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	m
+17	Spectrogram 1	1	20.036147546	20.099209230	1902.8	3232.9	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	d
+18	Spectrogram 1	1	20.106216084	20.128404454	1865.8	3029.7	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	n
+19	Spectrogram 1	1	20.133075690	20.201976419	2142.9	3380.7	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	o
+20	Spectrogram 1	1	20.324596360	20.354959393	1791.9	3694.7	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	p
+21	Spectrogram 1	1	20.361966247	20.416853268	1736.5	3251.4	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	q
+22	Spectrogram 1	1	20.427363548	20.448384110	1755.0	2900.4	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	h
+23	Spectrogram 1	1	20.455390963	20.517284838	1773.5	2789.5	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	r
+24	Spectrogram 1	1	20.519620456	20.546480062	2032.1	2715.6	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	s
+25	Spectrogram 1	1	20.553486916	20.618884218	2106.0	2752.6	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	2	k
+34	Spectrogram 1	1	23.079231703	23.287685602	1681.1	4267.4	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	3	t
+35	Spectrogram 1	1	23.340820910	23.538180625	1681.1	4507.6	Turdus_unicolor-ML197637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_unicolor-ML197637.wav	3	u

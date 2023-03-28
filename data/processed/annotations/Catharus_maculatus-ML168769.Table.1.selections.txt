@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	37.712027901	38.076384297	2090.0	2455.8	Catharus_maculatus-ML168769.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_maculatus-ML168769.wav	1	a
+2	Spectrogram 1	1	38.088062386	38.433733839	2534.2	3030.6	Catharus_maculatus-ML168769.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_maculatus-ML168769.wav	1	b
+3	Spectrogram 1	1	40.135276349	40.369793789	3448.6	3788.2	Catharus_maculatus-ML168769.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_maculatus-ML168769.wav	2	c
+4	Spectrogram 1	1	40.359884602	40.434203509	4127.8	4598.1	Catharus_maculatus-ML168769.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_maculatus-ML168769.wav	2	d
+5	Spectrogram 1	1	40.525037729	40.662114824	2534.2	3318.0	Catharus_maculatus-ML168769.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_maculatus-ML168769.wav	2	e
+6	Spectrogram 1	1	40.667069418	40.944526671	2377.4	2873.8	Catharus_maculatus-ML168769.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_maculatus-ML168769.wav	2	f
+7	Spectrogram 1	1	42.908173338	43.041947371	1907.2	2299.1	Catharus_maculatus-ML168769.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_maculatus-ML168769.wav	3	g
+8	Spectrogram 1	1	43.017174402	43.060114215	3344.1	3709.8	Catharus_maculatus-ML168769.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_maculatus-ML168769.wav	3	h
+9	Spectrogram 1	1	43.053508090	43.357389844	2743.2	3213.4	Catharus_maculatus-ML168769.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Catharus_maculatus-ML168769.wav	3	i

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.087600616	26.407553080	1145.9	1548.5	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	1	
+2	Spectrogram 1	1	26.847537234	28.627473132	1300.7	1889.1	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	1	
+3	Spectrogram 1	1	29.187452965	30.667399666	1207.8	1827.2	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	1	
+4	Spectrogram 1	1	31.287377338	32.647328361	1300.7	1827.2	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	1	
+5	Spectrogram 1	1	52.059674211	53.859609388	1273.8	1822.9	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	2	
+6	Spectrogram 1	1	54.319592822	55.839538083	1339.7	1976.6	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	2	
+7	Spectrogram 1	1	56.319520797	57.799467499	1317.7	1910.7	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	2	
+8	Spectrogram 1	1	58.339448052	59.779396194	1273.8	1888.7	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	2	
+9	Spectrogram 1	1	73.963914787	75.883845643	1229.9	1691.1	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	3	
+10	Spectrogram 1	1	76.443825476	78.243760654	1339.7	1888.7	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	3	
+11	Spectrogram 1	1	78.763741927	80.223689349	1251.8	1910.7	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	3	
+12	Spectrogram 1	1	80.823667741	82.183618764	1207.8	1866.8	Nasica_longirostris-ML47141311.wav	E:\Escritorio\Cantos\Furnariidae\Nasica_longirostris-ML47141311.wav	3	

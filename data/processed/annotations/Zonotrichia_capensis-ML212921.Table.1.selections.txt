@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1030.305468048	1030.444196675	2964.0	4432.2	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	1	a
+2	Spectrogram 1	1	1030.516864051	1030.781109054	3878.1	4875.4	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	1	b
+3	Spectrogram 1	1	1030.850473367	1031.207204122	3324.1	6869.8	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	1	c
+4	Spectrogram 1	1	1031.263356185	1031.382266437	2326.9	6759.0	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	1	d
+5	Spectrogram 1	1	1031.408690937	1031.517692001	2326.9	6980.7	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	1	d
+6	Spectrogram 1	1	1031.547419564	1031.659723690	2271.5	6980.7	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	1	d
+7	Spectrogram 1	1	1037.362661780	1037.494784282	3019.4	4321.4	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	2	a
+8	Spectrogram 1	1	1037.597179221	1037.838302786	3795.0	4875.4	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	2	b
+9	Spectrogram 1	1	1037.891151787	1038.287519292	3102.5	7091.5	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	2	c
+10	Spectrogram 1	1	1043.919148386	1044.047967825	3047.1	4293.7	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	3	a
+11	Spectrogram 1	1	1044.140453577	1044.391486330	3795.0	4875.4	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	3	b
+12	Spectrogram 1	1	1044.460850643	1044.827490585	3130.2	7008.4	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	3	c
+13	Spectrogram 1	1	1044.877036523	1045.002552900	2354.6	6980.7	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	3	d
+14	Spectrogram 1	1	1045.028977400	1045.144584589	2326.9	6786.7	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	3	d
+15	Spectrogram 1	1	1045.171009090	1045.286616279	2326.9	6786.7	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	3	d
+16	Spectrogram 1	1	1045.309737716	1045.418738780	2299.2	6731.3	Zonotrichia_capensis-ML212921.wav	D:\Andean\Passerellidae\Zonotrichia_capensis-ML212921.wav	3	d

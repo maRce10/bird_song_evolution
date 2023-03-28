@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.294800516	1.552439395	221.6	637.1	Rollandia_rolland-ML204018361.wav	D:\Andean\Podicipedidae\Rollandia_rolland-ML204018361.wav	1	a
+2	Spectrogram 1	1	6.973680572	7.218107200	249.3	664.8	Rollandia_rolland-ML204018361.wav	D:\Andean\Podicipedidae\Rollandia_rolland-ML204018361.wav	2	a
+3	Spectrogram 1	1	9.061216098	9.312248852	277.0	637.1	Rollandia_rolland-ML204018361.wav	D:\Andean\Podicipedidae\Rollandia_rolland-ML204018361.wav	3	a

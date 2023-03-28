@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.395216869	6.584415149	443.2	1606.7	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	1	a
+2	Spectrogram 1	1	6.749568276	6.934539778	526.3	1703.6	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	1	b
+3	Spectrogram 1	1	7.086480655	7.258239907	526.3	1717.5	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	1	b
+4	Spectrogram 1	1	7.390362409	7.581940036	498.6	1717.5	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	1	b
+5	Spectrogram 1	1	7.700850288	7.912246290	526.3	1772.9	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	1	b
+6	Spectrogram 1	1	8.031156542	8.202915794	512.5	1772.9	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	1	b
+7	Spectrogram 1	1	8.341644421	8.658738425	567.9	1662.1	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	1	c
+8	Spectrogram 1	1	17.556013764	17.744288329	415.5	1579.0	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	2	a
+9	Spectrogram 1	1	17.890961715	18.115569968	595.6	1745.2	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	2	b
+10	Spectrogram 1	1	18.234480220	18.419451722	554.0	1759.0	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	2	b
+11	Spectrogram 1	1	18.554428542	18.732793920	540.2	1759.0	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	2	b
+12	Spectrogram 1	1	18.878128671	19.049887924	526.3	1759.0	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	2	b
+13	Spectrogram 1	1	19.175404300	19.360375802	567.9	1772.9	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	2	b
+14	Spectrogram 1	1	19.485892179	19.750137182	498.6	1662.1	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	2	d
+15	Spectrogram 1	1	29.026288472	29.204653850	387.8	1579.0	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	3	a
+16	Spectrogram 1	1	29.364649880	29.562833632	554.0	1759.0	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	3	b
+17	Spectrogram 1	1	29.681743884	29.886533761	567.9	1745.2	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	3	b
+18	Spectrogram 1	1	30.012050138	30.210233890	567.9	1759.0	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	3	b
+19	Spectrogram 1	1	30.342356392	30.520721769	554.0	1759.0	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	3	b
+20	Spectrogram 1	1	30.659450396	30.824603523	567.9	1759.0	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	3	b
+21	Spectrogram 1	1	30.983150525	31.254001653	540.2	1648.2	Thamnophilus_aroyae-ML13846.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_aroyae-ML13846.wav	3	c

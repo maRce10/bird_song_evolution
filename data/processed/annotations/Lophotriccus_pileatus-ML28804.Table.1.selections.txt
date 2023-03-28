@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.147274393	11.289391557	1985.5	7576.4	Lophotriccus_pileatus-ML28804.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lophotriccus_pileatus-ML28804.wav	1	a
+2	Spectrogram 1	1	17.403211156	18.498615961	1959.4	7367.4	Lophotriccus_pileatus-ML28804.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lophotriccus_pileatus-ML28804.wav	2	a
+3	Spectrogram 1	1	32.707519070	32.831306820	1776.5	4467.5	Lophotriccus_pileatus-ML28804.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lophotriccus_pileatus-ML28804.wav	3	b

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.511100910	12.639593672	116.8	607.3	Patagioenas_fasciata-ML107666.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_fasciata-ML107666.wav	1	a
+2	Spectrogram 1	1	12.727702995	13.461947353	140.1	654.0	Patagioenas_fasciata-ML107666.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_fasciata-ML107666.wav	1	b
+3	Spectrogram 1	1	14.112291220	14.209578597	140.1	560.6	Patagioenas_fasciata-ML107666.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_fasciata-ML107666.wav	2	a
+4	Spectrogram 1	1	14.317879640	15.022754223	163.5	700.7	Patagioenas_fasciata-ML107666.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_fasciata-ML107666.wav	2	b
+5	Spectrogram 1	1	15.689959910	15.792754121	116.8	537.2	Patagioenas_fasciata-ML107666.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_fasciata-ML107666.wav	3	a
+6	Spectrogram 1	1	15.888205887	16.558203863	163.5	677.4	Patagioenas_fasciata-ML107666.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_fasciata-ML107666.wav	3	b

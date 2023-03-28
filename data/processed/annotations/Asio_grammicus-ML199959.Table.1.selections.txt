@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.185868893	10.242848907	209.0	809.9	Asio_grammicus-ML199959.wav	D:\Andean\Strigidae\Asio_grammicus-ML199959.wav	1	a
+2	Spectrogram 1	1	46.504123247	47.554497135	235.1	888.3	Asio_grammicus-ML199959.wav	D:\Andean\Strigidae\Asio_grammicus-ML199959.wav	2	a
+3	Spectrogram 1	1	69.226041619	70.256597132	209.0	862.1	Asio_grammicus-ML199959.wav	D:\Andean\Strigidae\Asio_grammicus-ML199959.wav	3	a

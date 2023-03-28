@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	99.848463533	99.940949284	1257.0	3875.8	Dryobates_mixtus-ML212859.wav	D:\Andean\Picidae\Dryobates_mixtus-ML212859.wav	1	a
+2	Spectrogram 1	1	105.944760076	106.024033577	1257.0	3875.8	Dryobates_mixtus-ML212859.wav	D:\Andean\Picidae\Dryobates_mixtus-ML212859.wav	2	a
+3	Spectrogram 1	1	112.476363964	112.555637465	1073.7	3771.0	Dryobates_mixtus-ML212859.wav	D:\Andean\Picidae\Dryobates_mixtus-ML212859.wav	3	a

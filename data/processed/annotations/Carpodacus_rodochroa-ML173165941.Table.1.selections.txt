@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.301766834	3.667053402	1728.5	5652.6	Carpodacus_rodochroa-ML173165941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_rodochroa-ML173165941.wav	1	a
+2	Spectrogram 1	1	4.851016967	5.105544397	1554.8	5135.6	Carpodacus_rodochroa-ML173165941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_rodochroa-ML173165941.wav	1	b
+3	Spectrogram 1	1	6.325716364	6.674482434	1541.6	5582.6	Carpodacus_rodochroa-ML173165941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_rodochroa-ML173165941.wav	2	a
+4	Spectrogram 1	1	7.930798871	8.223505416	1649.0	4994.2	Carpodacus_rodochroa-ML173165941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_rodochroa-ML173165941.wav	2	b
+5	Spectrogram 1	1	9.771927847	10.137214415	1635.1	5605.9	Carpodacus_rodochroa-ML173165941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_rodochroa-ML173165941.wav	3	a
+6	Spectrogram 1	1	11.582797905	11.811872592	1649.0	4947.1	Carpodacus_rodochroa-ML173165941.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_rodochroa-ML173165941.wav	2	b

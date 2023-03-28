@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.227990002	5.302729776	2714.7	4764.6	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	1	a
+2	Spectrogram 1	1	5.737154709	5.800216393	2659.3	4681.5	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	1	a
+3	Spectrogram 1	1	6.283689303	6.349086605	2714.7	4709.2	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	1	a
+4	Spectrogram 1	1	6.704100529	6.769497831	2687.0	4681.5	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	1	a
+5	Spectrogram 1	1	7.119840519	7.243628269	3379.5	7756.3	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	1	b
+6	Spectrogram 1	1	7.612655900	7.741114886	3324.1	7645.5	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	1	b
+7	Spectrogram 1	1	10.459243951	10.519970017	2687.0	4792.3	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	2	a
+8	Spectrogram 1	1	11.365463705	11.412176063	2964.0	4764.6	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	2	a
+9	Spectrogram 1	1	11.865285940	11.921340770	2797.8	4736.9	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	2	a
+10	Spectrogram 1	1	12.297375256	12.362772558	2797.8	4709.2	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	2	a
+11	Spectrogram 1	1	12.743478279	12.811211199	2714.7	4764.6	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	2	a
+12	Spectrogram 1	1	13.178051296	13.294832192	3518.0	7562.4	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	2	b
+13	Spectrogram 1	1	13.596126904	13.647510498	2936.3	4653.8	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	2	a
+14	Spectrogram 1	1	14.000188804	14.119305318	3434.9	7423.9	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	2	b
+15	Spectrogram 1	1	17.046057084	17.109118768	2825.5	4653.8	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	3	a
+16	Spectrogram 1	1	17.823031053	17.879183116	3102.5	4736.9	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	3	a
+17	Spectrogram 1	1	18.364733310	18.417582311	2936.3	4570.7	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	3	a
+18	Spectrogram 1	1	18.850283504	18.903132504	2964.0	4681.5	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	3	a
+19	Spectrogram 1	1	19.263166321	19.325924510	2603.9	4764.6	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	3	a
+20	Spectrogram 1	1	19.676049139	19.785050203	3739.6	7756.3	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	3	b
+21	Spectrogram 1	1	20.085628894	20.158296270	2659.3	4653.8	Cinnyris_cupreus-ML87068.wav	E:\Andean\Nectariniidae\Cinnyris_cupreus-ML87068.wav	3	a

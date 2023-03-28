@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	118.468816336	118.523316868	941.8	3656.5	Scytalopus_simonsi-ML171137.wav	D:\Andean\Rhinocryptidae\Scytalopus_simonsi-ML171137.wav	1	a
+2	Spectrogram 1	1	118.921335904	118.975836436	747.9	3656.5	Scytalopus_simonsi-ML171137.wav	D:\Andean\Rhinocryptidae\Scytalopus_simonsi-ML171137.wav	2	a
+3	Spectrogram 1	1	119.372203941	119.423401410	886.4	3684.2	Scytalopus_simonsi-ML171137.wav	D:\Andean\Rhinocryptidae\Scytalopus_simonsi-ML171137.wav	3	a

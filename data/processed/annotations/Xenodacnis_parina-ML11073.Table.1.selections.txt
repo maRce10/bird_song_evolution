@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.302957298	8.422054587	498.6	5567.9	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	1	a
+2	Spectrogram 1	1	8.554384907	8.637563966	1800.6	8061.0	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	1	b
+3	Spectrogram 1	1	8.671591763	8.790689051	470.9	5457.1	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	1	a
+4	Spectrogram 1	1	8.932471538	8.992965398	637.1	8892.0	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	1	c
+5	Spectrogram 1	1	9.117733986	9.178227847	526.3	8781.2	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	1	c
+6	Spectrogram 1	1	9.276530371	9.337024232	554.0	8698.1	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	1	c
+7	Spectrogram 1	1	9.416422424	9.484478018	498.6	8698.1	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	1	c
+8	Spectrogram 1	1	9.582780542	9.645164836	526.3	8642.7	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	1	c
+9	Spectrogram 1	1	14.730949059	14.856602441	581.7	5484.8	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	2	a
+10	Spectrogram 1	1	15.014337537	15.071817275	4653.8	9473.7	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	2	d
+11	Spectrogram 1	1	15.127960275	15.288368847	443.2	9252.1	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	2	e
+12	Spectrogram 1	1	15.375256824	15.518287801	692.5	9030.5	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	2	e
+13	Spectrogram 1	1	22.041469693	22.163112860	581.7	5263.2	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	3	a
+14	Spectrogram 1	1	22.307480575	22.387684861	3711.9	8559.6	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	3	b
+15	Spectrogram 1	1	22.434470695	22.554777124	415.5	5457.1	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	3	a
+16	Spectrogram 1	1	22.704491791	22.765981744	637.1	9307.5	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	3	c
+17	Spectrogram 1	1	22.891635125	22.959808768	692.5	9141.3	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	3	c
+18	Spectrogram 1	1	23.048033483	23.118880602	443.2	9307.5	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	3	c
+19	Spectrogram 1	1	23.191064460	23.257901365	526.3	9196.7	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	3	c
+20	Spectrogram 1	1	23.344789341	23.408952770	360.1	9196.7	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	3	c
+21	Spectrogram 1	1	23.497177485	23.562677652	554.0	9196.7	Xenodacnis_parina-ML11073.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Xenodacnis_parina-ML11073.wav	3	c

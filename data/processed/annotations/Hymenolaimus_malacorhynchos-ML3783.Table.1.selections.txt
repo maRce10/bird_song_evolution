@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.113360782	11.946664111	2397.8	4499.0	Hymenolaimus_malacorhynchos-ML3783.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Hymenolaimus_malacorhynchos-ML3783.wav	1	a
+2	Spectrogram 1	1	18.413064321	19.035382339	2521.4	5265.3	Hymenolaimus_malacorhynchos-ML3783.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Hymenolaimus_malacorhynchos-ML3783.wav	2	a
+3	Spectrogram 1	1	21.049884388	21.617239846	2521.4	6006.9	Hymenolaimus_malacorhynchos-ML3783.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Hymenolaimus_malacorhynchos-ML3783.wav	3	b

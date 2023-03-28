@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.802944135	13.905339074	1135.7	3296.4	Scytalopus_chocoensis-ML192555.wav	D:\Andean\Rhinocryptidae\Scytalopus_chocoensis-ML192555.wav	1	a
+2	Spectrogram 1	1	14.129947326	14.232342265	1080.3	3296.4	Scytalopus_chocoensis-ML192555.wav	D:\Andean\Rhinocryptidae\Scytalopus_chocoensis-ML192555.wav	2	a
+3	Spectrogram 1	1	14.456950518	14.556042394	1052.6	3324.1	Scytalopus_chocoensis-ML192555.wav	D:\Andean\Rhinocryptidae\Scytalopus_chocoensis-ML192555.wav	3	a

@@ -3,27 +3,27 @@
 <font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo
 Araya-Salas, PhD</a></font><br>
 
-*Updated on 2022-08-04 14:05:40*
+*Updated on 2023-03-27 21:05:53*
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ## Table of contents
 
--   [Data links](#data-links)
--   [Analysis workflow](#analysis-workflow)
-    -   [Getting a file to annotate](#getting-a-file-to-annotate)
-    -   [Annotating bird songs](#annotating-bird-songs)
-    -   [Examples](#examples)
-    -   [Additional annotation tips](#additional-annotation-tips)
--   [Status](#status)
--   [To-do list](#to-do-list)
--   [Contact](#contact)
+- [Data links](#data-links)
+- [Analysis workflow](#analysis-workflow)
+  - [Getting a file to annotate](#getting-a-file-to-annotate)
+  - [Annotating bird songs](#annotating-bird-songs)
+  - [Examples](#examples)
+  - [Additional annotation tips](#additional-annotation-tips)
+- [Status](#status)
+- [To-do list](#to-do-list)
+- [Contact](#contact)
 
 ## Purpose
 
--   *This protocol explains the steps required to conduct an objective
-    assessment of the vocal behavior of several bird species using
-    recordings from the Macaulay Library*
+- *This protocol explains the steps required to conduct an objective
+  assessment of the vocal behavior of several bird species using
+  recordings from the Macaulay Library*
 
  
 
@@ -31,16 +31,21 @@ Araya-Salas, PhD</a></font><br>
 
 ## Data links
 
--   [Spreadsheet with the recording info and
-    metadata](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing)
--   [Recordings by
-    family](https://6f33fa7f78ea46e2aaca-my.sharepoint.com:443/:f:/g/personal/marcelo_araya_ucr_ac_cr/EoaMWjKcnuZEuStxMx6Ck2YBkNaSElvK5DdRA9MeUOsTYQ?e=HLMSEf)
--   [Raven window preset
-    file](https://github.com/maRce10/bird_song_evolution/raw/master/bird_songs)
--   [Online folder for uploading selection
-    files](https://drive.google.com/drive/folders/1SqeJQFmWXP3u0zdeEMr1r-1wDY6Az73c?usp=sharing)
+- [Spreadsheet with the recording info and
+  metadata](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing)
 
-------------------------------------------------------------------------
+- [Recordings by
+  family](https://6f33fa7f78ea46e2aaca-my.sharepoint.com:443/:f:/g/personal/marcelo_araya_ucr_ac_cr/EoaMWjKcnuZEuStxMx6Ck2YBkNaSElvK5DdRA9MeUOsTYQ?e=HLMSEf)
+
+- [Raven window preset
+  file](https://github.com/maRce10/bird_song_evolution/raw/master/bird_songs)
+
+- [Online folder for uploading selection
+  files](https://drive.google.com/drive/folders/1SqeJQFmWXP3u0zdeEMr1r-1wDY6Az73c?usp=sharing)
+
+- [Current status log](https://rpubs.com/marcelo-araya-salas/1013041)
+
+- ## [Annotated spectrograms](https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo_araya_ucr_ac_cr%2FDocuments%2Fannotated_spectrograms)
 
 ## Analysis workflow
 
@@ -245,15 +250,15 @@ pattern): <img src="./scripts/p_aethopygus.png" width="100%" />  
 
 ## To-do list
 
--   Develop algorithms to:
-    -   Tell which sound should belong to the same element based on the
-        average distance between elements within a song
-    -   Define decision rules to tell which elements belong to the same
-        category based on the similarities found in song with good
-        inter-observer agreement in element clasification (maybe using
-        cross-correlation)
--   Add examples of trill and gradually changing sounds that should be
-    annotated as a single element
+- Develop algorithms to:
+  - Tell which sound should belong to the same element based on the
+    average distance between elements within a song
+  - Define decision rules to tell which elements belong to the same
+    category based on the similarities found in song with good
+    inter-observer agreement in element clasification (maybe using
+    cross-correlation)
+- Add examples of trill and gradually changing sounds that should be
+  annotated as a single element
 
 ## Status
 

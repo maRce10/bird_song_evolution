@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.236715868	2.980138280	420.4	981.0	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	a
+2	Spectrogram 1	1	3.719518012	3.875544938	350.4	864.2	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	b
+3	Spectrogram 1	1	4.312420330	4.778665498	303.7	840.9	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	c
+4	Spectrogram 1	1	5.477289796	5.675535773	327.0	864.2	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	b
+5	Spectrogram 1	1	6.105068722	6.576820722	256.9	817.5	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	c
+6	Spectrogram 1	1	7.330864723	7.532781922	303.7	794.2	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	b
+7	Spectrogram 1	1	7.967650369	8.430224314	256.9	770.8	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	c
+8	Spectrogram 1	1	9.225454391	9.432878422	373.7	817.5	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	b
+9	Spectrogram 1	1	9.895682707	10.352749820	303.7	794.2	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	c
+10	Spectrogram 1	1	11.169505312	11.347559569	256.9	794.2	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	b
+11	Spectrogram 1	1	11.878051117	12.357145561	303.7	794.2	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	c
+12	Spectrogram 1	1	13.151623122	13.349869099	233.6	770.8	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	b
+13	Spectrogram 1	1	13.960706304	14.314979207	303.7	747.5	Patagioenas_inornata-ML136099991.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_inornata-ML136099991.wav	1	c

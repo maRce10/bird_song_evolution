@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.311924174	5.463739339	1246.5	5207.8	Todus_mexicanus-ML53830.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_mexicanus-ML53830.wav	1	a
+2	Spectrogram 1	1	6.250842578	6.416671451	1218.8	5263.2	Todus_mexicanus-ML53830.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_mexicanus-ML53830.wav	2	a
+3	Spectrogram 1	1	7.079986940	7.250487049	1274.2	5180.1	Todus_mexicanus-ML53830.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_mexicanus-ML53830.wav	3	a

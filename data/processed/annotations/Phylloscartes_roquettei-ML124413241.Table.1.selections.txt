@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.237918104	5.252781886	2063.9	8908.8	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	1	a
+2	Spectrogram 1	1	5.279206386	5.299850527	3605.3	8098.9	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	1	b
+3	Spectrogram 1	1	5.322146199	5.345267637	2194.5	8752.1	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	1	c
+4	Spectrogram 1	1	5.365911778	5.384078622	2325.2	7968.3	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	1	d
+5	Spectrogram 1	1	5.422889607	5.434450326	2455.8	7132.3	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	1	e
+6	Spectrogram 1	1	5.479033274	5.492245524	2508.1	7811.6	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	1	f
+7	Spectrogram 1	1	5.520321555	5.535185337	2090.0	7184.5	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	1	g
+8	Spectrogram 1	1	5.559132540	5.576473619	2429.7	7419.7	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	1	h
+9	Spectrogram 1	1	8.051671106	8.065709122	1959.4	9091.7	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	2	a
+10	Spectrogram 1	1	8.088004794	8.110300466	3553.1	8334.1	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	2	b
+11	Spectrogram 1	1	8.131770373	8.150762983	2403.6	7889.9	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	2	d
+12	Spectrogram 1	1	8.178839014	8.196180093	2377.4	8281.8	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	2	i
+13	Spectrogram 1	1	8.232513780	8.248203328	2246.8	8673.7	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	2	c
+14	Spectrogram 1	1	8.290317375	8.305181156	2272.9	8699.8	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	2	c
+15	Spectrogram 1	1	8.365049165	8.382803126	2272.9	8621.4	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	2	c
+16	Spectrogram 1	1	8.407163212	8.428220236	2481.9	8908.8	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	2	j
+17	Spectrogram 1	1	10.583410583	10.613963912	2586.4	8281.8	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	3	k
+18	Spectrogram 1	1	10.642865709	10.696540475	3265.7	4963.9	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	3	l
+19	Spectrogram 1	1	10.796458117	10.841875227	2508.1	6609.8	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	3	m
+20	Spectrogram 1	1	10.868299727	10.888118103	3187.3	7759.3	Phylloscartes_roquettei-ML124413241.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_roquettei-ML124413241.wav	3	n

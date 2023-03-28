@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	266.740696500	266.874470533	1958.2	3842.5	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	1	a
+2	Spectrogram 1	1	266.882728189	267.080911941	1884.3	3657.8	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	1	b
+3	Spectrogram 1	1	267.090821129	267.227898225	1958.2	3436.1	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	1	c
+4	Spectrogram 1	1	267.571416729	267.989254140	1551.8	5209.6	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	1	d
+5	Spectrogram 1	1	268.046229922	268.175049361	3325.2	4433.7	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	1	e
+6	Spectrogram 1	1	268.289005019	268.414521396	3177.5	4322.8	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	1	f
+7	Spectrogram 1	1	272.117420992	272.259452681	1995.1	3657.8	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	2	g
+8	Spectrogram 1	1	272.269361869	272.465894090	1884.3	3842.5	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	2	h
+9	Spectrogram 1	1	272.474151746	272.607925779	1847.4	3546.9	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	2	i
+10	Spectrogram 1	1	272.974953525	273.174788809	1921.3	6281.0	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	2	j
+11	Spectrogram 1	1	273.250557452	273.284423912	2364.6	5800.7	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	2	k
+12	Spectrogram 1	1	273.294934192	273.367338348	1477.9	7093.9	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	2	l
+13	Spectrogram 1	1	273.384855482	273.488790480	2106.0	6613.5	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	2	m
+14	Spectrogram 1	1	273.509811041	273.592725477	2253.8	6428.8	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	2	n
+15	Spectrogram 1	1	273.606739185	273.799427663	2475.5	6354.9	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	2	o
+16	Spectrogram 1	1	273.906775383	273.941809652	2512.4	7130.8	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	2	p
+18	Spectrogram 1	1	277.104500074	277.177167449	1902.8	2992.7	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	3	q
+19	Spectrogram 1	1	277.179434819	277.217388610	1865.8	2881.9	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	3	s
+20	Spectrogram 1	1	277.220308133	277.268188300	1921.3	2881.9	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	3	t
+21	Spectrogram 1	1	277.268772205	277.293296193	2493.9	3140.5	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	3	u
+22	Spectrogram 1	1	277.295631811	277.454453830	1865.8	2327.7	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	3	v
+23	Spectrogram 1	1	277.922057939	278.316777368	1570.3	5172.6	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	3	d
+24	Spectrogram 1	1	278.374891090	278.513860356	2789.5	4858.6	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	3	w
+25	Spectrogram 1	1	278.604949455	278.726401587	3103.6	4452.1	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	3	x
+26	Spectrogram 1	1	278.867706472	278.984487368	3288.3	4359.8	Turdus_ruficollis-ML78747.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_ruficollis-ML78747.wav	3	y

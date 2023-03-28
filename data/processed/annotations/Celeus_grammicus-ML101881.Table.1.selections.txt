@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.624707441	5.915376945	628.5	1414.1	Celeus_grammicus-ML101881.wav	D:\Andean\Picidae\Celeus_grammicus-ML101881.wav	1	a
+2	Spectrogram 1	1	6.067317822	6.430654701	471.4	2645.0	Celeus_grammicus-ML101881.wav	D:\Andean\Picidae\Celeus_grammicus-ML101881.wav	1	b
+3	Spectrogram 1	1	14.639886030	14.943767784	785.6	1545.1	Celeus_grammicus-ML101881.wav	D:\Andean\Picidae\Celeus_grammicus-ML101881.wav	2	a
+4	Spectrogram 1	1	15.082496410	15.478863915	523.8	2723.5	Celeus_grammicus-ML101881.wav	D:\Andean\Picidae\Celeus_grammicus-ML101881.wav	2	b
+5	Spectrogram 1	1	21.272555700	21.536800703	707.1	1623.6	Celeus_grammicus-ML101881.wav	D:\Andean\Picidae\Celeus_grammicus-ML101881.wav	3	a
+6	Spectrogram 1	1	21.675529330	22.078502960	576.1	1937.9	Celeus_grammicus-ML101881.wav	D:\Andean\Picidae\Celeus_grammicus-ML101881.wav	3	b

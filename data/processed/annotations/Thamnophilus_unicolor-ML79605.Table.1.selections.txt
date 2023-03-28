@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.388806467	22.669566783	554.0	2299.2	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	1	a
+2	Spectrogram 1	1	23.067477382	23.273011759	554.0	2326.9	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	1	a
+3	Spectrogram 1	1	23.642039391	23.838231296	609.4	2326.9	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	1	a
+4	Spectrogram 1	1	24.141861626	24.347396003	692.5	2354.6	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	1	b
+5	Spectrogram 1	1	24.651026333	24.823862059	747.9	2326.9	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	1	b
+6	Spectrogram 1	1	33.789538640	34.013757960	581.7	2326.9	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	2	a
+7	Spectrogram 1	1	34.466867837	34.677073450	609.4	2354.6	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	2	a
+8	Spectrogram 1	1	35.027416138	35.228279280	720.2	2326.9	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	2	b
+9	Spectrogram 1	1	35.541252081	35.737443987	747.9	2326.9	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	2	b
+10	Spectrogram 1	1	36.013046901	36.195225099	747.9	2382.3	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	2	b
+11	Spectrogram 1	1	45.499289205	45.751535940	581.7	2299.2	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	3	a
+12	Spectrogram 1	1	46.181289638	46.382152779	692.5	2299.2	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	3	b
+13	Spectrogram 1	1	46.746509175	46.952043552	692.5	2326.9	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	3	b
+14	Spectrogram 1	1	47.283701297	47.470550731	692.5	2299.2	Thamnophilus_unicolor-ML79605.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_unicolor-ML79605.wav	3	b

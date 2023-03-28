@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.946245409	19.162596005	747.9	3047.1	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	1	a
+2	Spectrogram 1	1	19.337658320	19.527584416	858.7	2216.1	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	1	b
+3	Spectrogram 1	1	19.671267637	19.781920232	941.8	2271.5	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	1	c
+4	Spectrogram 1	1	19.838072295	19.907436608	1191.1	1966.8	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	1	d
+5	Spectrogram 1	1	20.052771360	20.166727018	914.1	2160.7	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	1	c
+6	Spectrogram 1	1	27.054838228	27.256325043	941.8	2936.3	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	2	a
+7	Spectrogram 1	1	27.423129701	27.627919579	831.0	2243.8	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	2	b
+8	Spectrogram 1	1	27.768299737	27.885558457	831.0	2188.4	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	2	c
+9	Spectrogram 1	1	27.933452864	28.039150865	858.7	1772.9	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	2	d
+10	Spectrogram 1	1	28.158061117	28.275319837	914.1	2216.1	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	2	c
+11	Spectrogram 1	1	33.799994840	34.003133186	747.9	2991.7	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	3	a
+12	Spectrogram 1	1	34.179847032	34.373076191	831.0	2188.4	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	3	b
+13	Spectrogram 1	1	34.510153286	34.630715069	775.6	2188.4	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	3	c
+14	Spectrogram 1	1	34.695124789	34.790913602	803.3	1772.9	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	3	d
+15	Spectrogram 1	1	34.901566198	35.025431043	941.8	2243.8	Melanodryas_cucullata-ML234613.wav	D:\Andean\Petroicidae\Melanodryas_cucullata-ML234613.wav	3	c

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.989767962	10.274881405	494.4	2818.0	Aquila_rapax-ML88101.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_rapax-ML88101.wav	1	a
+2	Spectrogram 1	1	13.062149163	14.266097547	296.0	2861.1	Aquila_rapax-ML88101.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_rapax-ML88101.wav	2	a
+3	Spectrogram 1	1	16.461933811	17.692937215	591.9	2713.1	Aquila_rapax-ML88101.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_rapax-ML88101.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.344767940	2.410165242	1274.2	4321.4	Ploceus_taeniopterus-ML315416111.wav	D:\Andean\Ploceidae\Ploceus_taeniopterus-ML315416111.wav	1	a
+2	Spectrogram 1	1	4.988198175	5.030239298	941.8	4099.7	Ploceus_taeniopterus-ML315416111.wav	D:\Andean\Ploceidae\Ploceus_taeniopterus-ML315416111.wav	2	a
+3	Spectrogram 1	1	5.871061750	5.903760401	941.8	4044.3	Ploceus_taeniopterus-ML315416111.wav	D:\Andean\Ploceidae\Ploceus_taeniopterus-ML315416111.wav	3	a

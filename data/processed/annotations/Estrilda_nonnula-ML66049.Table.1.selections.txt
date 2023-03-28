@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.313173822	5.553581470	5578.4	7840.5	Estrilda_nonnula-ML66049.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Estrilda_nonnula-ML66049.wav	1	a
+2	Spectrogram 1	1	6.366724984	6.607132631	5336.8	7906.4	Estrilda_nonnula-ML66049.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Estrilda_nonnula-ML66049.wav	2	a
+3	Spectrogram 1	1	8.632920603	8.891005283	5380.7	7796.6	Estrilda_nonnula-ML66049.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Estrilda_nonnula-ML66049.wav	3	a

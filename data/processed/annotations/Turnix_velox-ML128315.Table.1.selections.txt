@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.980036479	25.482101985	308.5	509.3	Turnix_velox-ML128315.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_velox-ML128315.wav	1	a
+2	Spectrogram 1	1	27.800851889	28.276492895	318.3	489.7	Turnix_velox-ML128315.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_velox-ML128315.wav	2	a
+3	Spectrogram 1	1	30.337603921	30.601848925	318.3	509.3	Turnix_velox-ML128315.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_velox-ML128315.wav	3	b
+4	Spectrogram 1	1	31.493675811	31.956104567	308.5	509.3	Turnix_velox-ML128315.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_velox-ML128315.wav	3	a

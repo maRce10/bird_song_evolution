@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.367613077	13.404772531	747.9	4266.0	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	1	a
+2	Spectrogram 1	1	13.411378656	13.445235047	1357.3	3961.2	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	1	b
+3	Spectrogram 1	1	13.457621531	13.476614141	941.8	3545.7	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	1	c
+4	Spectrogram 1	1	13.493129454	13.507167469	720.2	3656.5	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	1	d
+5	Spectrogram 1	1	13.520379720	13.539372329	914.1	3905.8	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	1	e
+6	Spectrogram 1	1	13.548455751	13.564145298	720.2	4099.7	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	1	f
+7	Spectrogram 1	1	13.711957722	13.824261849	692.5	4266.0	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	2	g
+8	Spectrogram 1	1	13.829216442	13.891974631	775.6	4016.6	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	2	h
+9	Spectrogram 1	1	13.896929225	13.925831022	1024.9	3878.1	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	2	i
+10	Spectrogram 1	1	13.938217506	13.960513178	1052.6	4404.5	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	2	j
+11	Spectrogram 1	1	13.972899663	13.991066507	858.7	4903.1	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	2	k
+12	Spectrogram 1	1	14.000975695	14.022445601	775.6	4709.2	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	2	l
+13	Spectrogram 1	1	14.028225961	14.047218570	1246.5	4598.4	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	2	m
+14	Spectrogram 1	1	14.208243088	14.316418386	720.2	4376.8	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	3	g
+15	Spectrogram 1	1	14.323024511	14.371744684	609.4	4072.0	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	3	a
+16	Spectrogram 1	1	14.375873512	14.400646481	1357.3	3878.1	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	3	b
+17	Spectrogram 1	1	14.417161794	14.439457466	720.2	3407.2	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	3	c
+18	Spectrogram 1	1	14.451843950	14.469185029	803.3	3767.3	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	3	d
+19	Spectrogram 1	1	14.479094216	14.497261060	886.4	3739.6	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	3	d
+20	Spectrogram 1	1	14.508821779	14.526988623	720.2	3490.3	Phelpsia_inornata-ML69745.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phelpsia_inornata-ML69745.wav	3	n

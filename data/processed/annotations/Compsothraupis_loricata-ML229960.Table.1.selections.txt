@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.776784109	14.912059209	395.5	3510.2	Compsothraupis_loricata-ML229960.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Compsothraupis_loricata-ML229960.wav	1	a
+2	Spectrogram 1	1	16.170117632	16.315538364	395.5	3708.0	Compsothraupis_loricata-ML229960.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Compsothraupis_loricata-ML229960.wav	2	a
+3	Spectrogram 1	1	17.569722105	17.718524714	395.5	3757.4	Compsothraupis_loricata-ML229960.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Compsothraupis_loricata-ML229960.wav	3	a
+4	Spectrogram 1	1	19.718375735	19.863796466	395.5	3609.1	Compsothraupis_loricata-ML229960.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Compsothraupis_loricata-ML229960.wav	4	a
+5	Spectrogram 1	1	20.770139632	20.922324118	346.1	3559.6	Compsothraupis_loricata-ML229960.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Compsothraupis_loricata-ML229960.wav	5	a

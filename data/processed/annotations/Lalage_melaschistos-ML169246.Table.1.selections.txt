@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.517830794	9.834536184	3550.4	4111.0	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	1	a
+2	Spectrogram 1	1	9.953949692	10.016252392	2195.7	3503.7	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	1	b
+3	Spectrogram 1	1	10.125282116	10.395260482	3223.4	3830.7	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	1	c
+4	Spectrogram 1	1	10.587360472	10.644471281	2242.4	3223.4	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	1	b
+5	Spectrogram 1	1	10.779460463	11.111741529	2896.4	3690.6	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	1	d
+6	Spectrogram 1	1	11.480365835	11.848990142	2055.5	3830.7	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	1	e
+7	Spectrogram 1	1	21.464866105	21.682925554	3550.4	4064.3	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	2	a
+8	Spectrogram 1	1	21.812722845	21.859449870	2148.9	3457.0	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	2	b
+9	Spectrogram 1	1	21.973671486	22.233266068	3083.3	3784.0	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	2	c
+10	Spectrogram 1	1	22.420174167	22.472093084	2195.7	3270.1	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	2	b
+11	Spectrogram 1	1	22.617466050	22.928979549	2849.7	3643.9	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	2	d
+12	Spectrogram 1	1	23.282028180	23.624693029	1915.4	3597.1	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	2	e
+13	Spectrogram 1	1	34.411039566	34.665442257	3410.3	4111.0	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	3	a
+14	Spectrogram 1	1	34.816007114	34.857542247	2289.1	3316.8	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	3	b
+15	Spectrogram 1	1	34.976955755	35.252126012	3083.3	3784.0	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	3	c
+16	Spectrogram 1	1	35.636325994	35.958223276	2896.4	3737.3	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	3	d
+17	Spectrogram 1	1	36.280120558	36.617593515	1962.1	3737.3	Lalage_melaschistos-ML169246.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_melaschistos-ML169246.wav	3	e

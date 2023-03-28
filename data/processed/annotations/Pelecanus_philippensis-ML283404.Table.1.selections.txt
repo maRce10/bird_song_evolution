@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.415384461	3.003604647	180.1	2105.3	Pelecanus_philippensis-ML283404.wav	D:\Andean\Pelecanidae\Pelecanus_philippensis-ML283404.wav	1	a
+2	Spectrogram 1	1	5.079737437	6.182149096	138.5	983.4	Pelecanus_philippensis-ML283404.wav	D:\Andean\Pelecanidae\Pelecanus_philippensis-ML283404.wav	2	a
+3	Spectrogram 1	1	18.635623499	20.013638073	166.2	2146.8	Pelecanus_philippensis-ML283404.wav	D:\Andean\Pelecanidae\Pelecanus_philippensis-ML283404.wav	3	a

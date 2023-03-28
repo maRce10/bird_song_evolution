@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.059137931	7.647783126	1570.4	4085.0	Trochalopteron_subunicolor-ML69087.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_subunicolor-ML69087.wav	1	a
+2	Spectrogram 1	1	7.868746038	8.390218509	1506.3	3953.2	Trochalopteron_subunicolor-ML69087.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_subunicolor-ML69087.wav	1	b
+3	Spectrogram 1	1	12.974703982	13.549207552	1923.0	4019.1	Trochalopteron_subunicolor-ML69087.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_subunicolor-ML69087.wav	2	a
+4	Spectrogram 1	1	13.759564243	14.293410637	1570.4	3953.2	Trochalopteron_subunicolor-ML69087.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_subunicolor-ML69087.wav	2	b
+5	Spectrogram 1	1	24.442917268	25.033330168	1666.6	4038.2	Trochalopteron_subunicolor-ML69087.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_subunicolor-ML69087.wav	3	a
+6	Spectrogram 1	1	25.369193793	25.917181813	1570.4	4038.2	Trochalopteron_subunicolor-ML69087.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_subunicolor-ML69087.wav	3	b

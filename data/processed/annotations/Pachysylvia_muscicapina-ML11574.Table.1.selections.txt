@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	38.801084347	38.868797129	2299.2	5097.0	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	1	a
+2	Spectrogram 1	1	38.911736942	39.019086475	1856.0	4764.6	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	1	b
+3	Spectrogram 1	1	39.043859444	39.197451852	2077.6	4792.3	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	1	c
+4	Spectrogram 1	1	39.223876352	39.347741198	1883.7	5457.1	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	1	d
+5	Spectrogram 1	1	42.178720187	42.243129907	2216.1	4958.5	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	2	a
+6	Spectrogram 1	1	42.286069720	42.390116190	1689.8	4792.3	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	2	b
+7	Spectrogram 1	1	42.413237628	42.566830036	2271.5	4792.3	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	2	c
+8	Spectrogram 1	1	42.604815255	42.728680100	1911.4	5429.4	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	2	d
+9	Spectrogram 1	1	45.781001583	45.843759771	2354.6	4764.6	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	3	e
+10	Spectrogram 1	1	45.890002647	45.995700648	1939.1	4792.3	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	3	b
+11	Spectrogram 1	1	46.022125148	46.175717557	2326.9	4820.0	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	3	c
+12	Spectrogram 1	1	46.200490526	46.329309965	1800.6	5401.7	Pachysylvia_muscicapina-ML11574.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_muscicapina-ML11574.wav	3	d

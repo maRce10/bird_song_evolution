@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	223.287086776	223.413907182	2422.5	4845.1	Lanio_leucothorax-ML219906.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Lanio_leucothorax-ML219906.wav	1	a
+2	Spectrogram 1	1	223.738567420	223.855242193	2397.8	4424.8	Lanio_leucothorax-ML219906.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Lanio_leucothorax-ML219906.wav	2	a
+3	Spectrogram 1	1	224.313486592	224.438616059	2422.5	4770.9	Lanio_leucothorax-ML219906.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Lanio_leucothorax-ML219906.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	115.349375507	118.488445994	2437.7	4764.6	Terenura_sicki-ML103058.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Terenura_sicki-ML103058.wav	1	a
+2	Spectrogram 1	1	124.149983836	127.625383304	2437.7	4764.6	Terenura_sicki-ML103058.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Terenura_sicki-ML103058.wav	2	a
+3	Spectrogram 1	1	133.567195297	136.164402426	2465.4	4764.6	Terenura_sicki-ML103058.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Terenura_sicki-ML103058.wav	3	a

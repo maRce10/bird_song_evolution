@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.732538574	4.994634079	1829.3	2645.0	Ictinaetus_malaiensis-ML24581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Ictinaetus_malaiensis-ML24581.wav	1	a
+2	Spectrogram 1	1	5.780920594	6.043016099	1854.0	2694.5	Ictinaetus_malaiensis-ML24581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Ictinaetus_malaiensis-ML24581.wav	2	a
+3	Spectrogram 1	1	6.879547772	7.167007358	1779.8	2719.2	Ictinaetus_malaiensis-ML24581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Ictinaetus_malaiensis-ML24581.wav	3	a

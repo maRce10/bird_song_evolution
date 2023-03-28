@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.203761554	25.284926613	6327.400	8107.200	Conirostrum_speciosum-ML135237.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Conirostrum_speciosum-ML135237.wav	1	a
+2	Spectrogram 1	1	26.253117413	26.346119044	6574.600	8552.200	Conirostrum_speciosum-ML135237.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Conirostrum_speciosum-ML135237.wav	2	a
+3	Spectrogram 1	1	27.352227595	27.443538287	6599.300	8453.300	Conirostrum_speciosum-ML135237.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Conirostrum_speciosum-ML135237.wav	3	a
+4	Spectrogram 1	1	28.471734242	28.559663057	6451.000	8156.700	Conirostrum_speciosum-ML135237.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Conirostrum_speciosum-ML135237.wav	4	a
+5	Spectrogram 1	1	28.847122643	28.950269906	6599.300	8552.200	Conirostrum_speciosum-ML135237.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Conirostrum_speciosum-ML135237.wav	5	a

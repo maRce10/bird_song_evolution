@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.889351774	3.355911542	3074.8	5346.3	Drymodes_superciliaris-ML129504451.wav	D:\Andean\Petroicidae\Drymodes_superciliaris-ML129504451.wav	1	a
+2	Spectrogram 1	1	6.625943458	7.973592975	1856.0	3185.6	Drymodes_superciliaris-ML129504451.wav	D:\Andean\Petroicidae\Drymodes_superciliaris-ML129504451.wav	1	b
+3	Spectrogram 1	1	11.086399779	12.546353422	3213.3	5401.7	Drymodes_superciliaris-ML129504451.wav	D:\Andean\Petroicidae\Drymodes_superciliaris-ML129504451.wav	2	a
+4	Spectrogram 1	1	15.248258581	16.476997846	1966.8	3130.2	Drymodes_superciliaris-ML129504451.wav	D:\Andean\Petroicidae\Drymodes_superciliaris-ML129504451.wav	2	b

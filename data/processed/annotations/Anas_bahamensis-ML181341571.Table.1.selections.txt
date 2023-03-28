@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.697912190	12.958316756	1211.3	6427.1	Anas_bahamensis-ML181341571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_bahamensis-ML181341571.wav	1	a
+2	Spectrogram 1	1	15.415747378	15.862155206	1285.4	6377.7	Anas_bahamensis-ML181341571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_bahamensis-ML181341571.wav	2	a
+3	Spectrogram 1	1	18.279182540	18.693462531	1013.5	6204.7	Anas_bahamensis-ML181341571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_bahamensis-ML181341571.wav	3	a

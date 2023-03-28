@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.279633539	6.101675722	123.6	2298.9	Bycanistes_brevis-ML33720281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Bycanistes_brevis-ML33720281.wav	1	a
+2	Spectrogram 1	1	6.413484826	7.090252313	123.6	2298.9	Bycanistes_brevis-ML33720281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Bycanistes_brevis-ML33720281.wav	2	a
+3	Spectrogram 1	1	7.334331712	7.911887211	197.8	2224.8	Bycanistes_brevis-ML33720281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Bycanistes_brevis-ML33720281.wav	3	a

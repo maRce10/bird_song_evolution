@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.901533163	12.947776039	1329.6	6315.8	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	1	a
+2	Spectrogram 1	1	13.717389611	13.760329424	3601.1	4459.9	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	1	b
+3	Spectrogram 1	1	13.971725426	14.060908115	4986.2	5651.0	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	1	c
+4	Spectrogram 1	1	14.470487870	14.605913434	4543.0	5207.8	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	1	d
+5	Spectrogram 1	1	18.495410993	18.544956931	3878.1	4349.1	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	2	b
+6	Spectrogram 1	1	18.723322309	18.799292747	4847.7	5540.2	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	2	c
+7	Spectrogram 1	1	19.136205126	19.235297003	4349.1	5097.0	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	2	d
+8	Spectrogram 1	1	19.397147067	19.456602193	4709.2	5457.1	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	2	c
+9	Spectrogram 1	1	19.516057319	19.572209382	4099.7	4736.9	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	2	e
+10	Spectrogram 1	1	19.654785945	19.813332947	3988.9	4653.8	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	2	f
+11	Spectrogram 1	1	30.835724114	30.888573115	3822.7	4376.8	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	3	b
+12	Spectrogram 1	1	31.073544617	31.146211993	4930.8	5678.7	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	3	c
+13	Spectrogram 1	1	31.403850871	31.535973373	4376.8	4930.8	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	3	d
+14	Spectrogram 1	1	31.744066313	31.796915314	4792.3	5457.1	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	3	c
+15	Spectrogram 1	1	31.879491877	31.932340878	4210.6	4847.7	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	3	e
+16	Spectrogram 1	1	32.031432754	32.153646068	3988.9	4653.8	Rhipidura_albicollis-ML165083541.wav	D:\Andean\Rhipiduridae\Rhipidura_albicollis-ML165083541.wav	3	f

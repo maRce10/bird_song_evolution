@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	166.056361017	171.347936981	3757.4	5042.8	Malacoptila_fusca-ML54939.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_fusca-ML54939.wav	1	a
+2	Spectrogram 1	1	185.409858851	190.606226535	3905.7	5290.0	Malacoptila_fusca-ML54939.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_fusca-ML54939.wav	2	a
+3	Spectrogram 1	1	201.892008426	207.509296925	3806.8	5067.5	Malacoptila_fusca-ML54939.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_fusca-ML54939.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	43.632579122	44.165966042	52.3	418.0	Ketupa_blakistoni-ML175016.wav	D:\Andean\Strigidae\Ketupa_blakistoni-ML175016.wav	1	a
+2	Spectrogram 1	1	59.542971075	60.043021313	64.7	406.4	Ketupa_blakistoni-ML175016.wav	D:\Andean\Strigidae\Ketupa_blakistoni-ML175016.wav	2	a
+3	Spectrogram 1	1	111.372136150	111.868852720	92.4	378.7	Ketupa_blakistoni-ML175016.wav	D:\Andean\Strigidae\Ketupa_blakistoni-ML175016.wav	3	a

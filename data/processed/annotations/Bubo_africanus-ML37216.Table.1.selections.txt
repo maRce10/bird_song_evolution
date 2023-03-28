@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	211.347209013	211.684121392	207.8	664.8	Bubo_africanus-ML37216.wav	D:\Andean\Strigidae\Bubo_africanus-ML37216.wav	1	a
+2	Spectrogram 1	1	212.424007401	212.714676905	180.1	415.5	Bubo_africanus-ML37216.wav	D:\Andean\Strigidae\Bubo_africanus-ML37216.wav	1	b
+3	Spectrogram 1	1	222.089855484	222.387131112	193.9	637.1	Bubo_africanus-ML37216.wav	D:\Andean\Strigidae\Bubo_africanus-ML37216.wav	2	a
+4	Spectrogram 1	1	223.179866122	223.477141751	166.2	415.5	Bubo_africanus-ML37216.wav	D:\Andean\Strigidae\Bubo_africanus-ML37216.wav	2	b
+5	Spectrogram 1	1	225.868559031	226.324381662	193.9	623.3	Bubo_africanus-ML37216.wav	D:\Andean\Strigidae\Bubo_africanus-ML37216.wav	3	a
+6	Spectrogram 1	1	226.918932919	227.368149425	166.2	484.8	Bubo_africanus-ML37216.wav	D:\Andean\Strigidae\Bubo_africanus-ML37216.wav	3	b

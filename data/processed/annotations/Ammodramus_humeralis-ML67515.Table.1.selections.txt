@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	185.222079222	185.273462816	3928.1	7149.2	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	1	a
+2	Spectrogram 1	1	185.460312250	185.857367296	4111.5	7358.7	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	1	b
+3	Spectrogram 1	1	185.906415273	186.062901673	3928.1	4661.4	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	1	c
+4	Spectrogram 1	1	186.081586617	186.097935942	6782.6	8772.9	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	1	d
+5	Spectrogram 1	1	186.135305829	186.287120994	5656.5	7934.9	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	1	e
+6	Spectrogram 1	1	186.324490881	186.459956720	5682.7	8013.4	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	1	e
+7	Spectrogram 1	1	186.480977282	186.882703564	3430.6	4923.3	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	1	f
+8	Spectrogram 1	1	186.899052890	186.931751540	2540.2	3954.3	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	1	d
+9	Spectrogram 1	1	186.978463899	187.377854563	6442.2	8380.0	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	1	g
+10	Spectrogram 1	1	195.878083357	195.941145041	3744.8	7489.7	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	2	a
+11	Spectrogram 1	1	196.135001329	196.597453677	4242.4	7018.3	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	2	b
+12	Spectrogram 1	1	196.627816710	196.781967493	3875.8	4661.4	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	2	c
+13	Spectrogram 1	1	196.798316818	196.819337380	6887.4	8746.7	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	2	d
+14	Spectrogram 1	1	196.861378502	197.013193667	5630.3	7830.1	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	2	e
+15	Spectrogram 1	1	197.057570408	197.197707483	5708.9	7699.2	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	2	e
+16	Spectrogram 1	1	197.209385573	197.583084440	3404.4	5001.8	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	2	f
+17	Spectrogram 1	1	197.606440619	197.641474888	2697.3	4059.1	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	2	d
+18	Spectrogram 1	1	197.688187247	198.071228586	6808.8	8249.1	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	2	g
+19	Spectrogram 1	1	206.544040016	206.593087993	4111.5	6992.1	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	3	a
+20	Spectrogram 1	1	206.807964842	207.029848544	6389.8	7856.3	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	3	h
+21	Spectrogram 1	1	207.097581464	207.258739100	288.1	4137.6	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	3	i
+22	Spectrogram 1	1	207.284430898	207.303115841	6075.5	8013.4	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	3	d
+23	Spectrogram 1	1	207.359170671	207.517992690	4949.5	6677.9	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	3	e
+24	Spectrogram 1	1	207.574047520	207.718855831	5106.6	6677.9	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	3	e
+25	Spectrogram 1	1	207.744547628	208.246705481	3247.3	4713.8	Ammodramus_humeralis-ML67515.wav	D:\Andean\Passerellidae\Ammodramus_humeralis-ML67515.wav	3	f

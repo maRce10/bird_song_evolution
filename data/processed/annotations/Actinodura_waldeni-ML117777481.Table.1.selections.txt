@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.326412125	4.508905552	1822.9	2635.5	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	1	a
+2	Spectrogram 1	1	4.538904472	4.763896369	1866.8	3052.7	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	1	b
+3	Spectrogram 1	1	4.798895109	4.916390877	2174.3	3096.7	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	1	c
+4	Spectrogram 1	1	4.943889887	5.061385655	2613.5	3448.1	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	1	d
+5	Spectrogram 1	1	8.191298679	8.381291837	1757.0	2789.2	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	2	a
+6	Spectrogram 1	1	8.411290756	8.626283014	1932.7	3140.6	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	2	b
+7	Spectrogram 1	1	8.658781843	8.786277252	2130.3	3118.6	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	2	c
+8	Spectrogram 1	1	8.811276351	8.933771940	2525.6	3096.7	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	2	d
+9	Spectrogram 1	1	11.019236007	11.194229705	1757.0	2481.7	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	3	a
+10	Spectrogram 1	1	11.241727994	11.446720612	1888.7	3008.8	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	3	b
+11	Spectrogram 1	1	11.479219441	11.601715030	2108.4	2964.9	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	3	c
+12	Spectrogram 1	1	11.631713949	11.771708907	2635.5	3096.7	Actinodura_waldeni-ML117777481.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_waldeni-ML117777481.wav	3	d

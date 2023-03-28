@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.326398741	10.412278367	3483.0	4661.4	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	1	a
+2	Spectrogram 1	1	10.537794744	10.663311121	3299.6	4975.7	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	1	a
+3	Spectrogram 1	1	10.788827497	10.917646936	3273.5	5106.6	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	1	a
+4	Spectrogram 1	1	11.043163313	11.181891940	3168.7	5342.3	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	1	a
+5	Spectrogram 1	1	11.277680753	11.439530818	3064.0	5682.7	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	1	a
+6	Spectrogram 1	1	11.528713506	11.726897259	3064.0	5970.8	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	1	a
+7	Spectrogram 1	1	11.786352385	11.987839200	2880.6	5997.0	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	1	a
+8	Spectrogram 1	1	12.050597388	12.242175015	2828.3	6258.8	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	1	a
+9	Spectrogram 1	1	12.308236266	12.489904706	2933.0	6180.3	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	1	a
+10	Spectrogram 1	1	23.578500729	23.654471168	3483.0	4582.8	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	2	a
+11	Spectrogram 1	1	23.803108982	23.931928421	3352.0	4792.3	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	2	a
+12	Spectrogram 1	1	24.064050923	24.179658112	3325.8	5001.8	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	2	a
+13	Spectrogram 1	1	24.291962238	24.440600052	3273.5	5394.7	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	2	a
+14	Spectrogram 1	1	24.542994991	24.711451181	3064.0	5735.1	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	2	a
+15	Spectrogram 1	1	24.794027744	24.975696184	3011.6	6075.5	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	2	a
+16	Spectrogram 1	1	25.048363560	25.230032000	3011.6	6154.1	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	2	a
+17	Spectrogram 1	1	25.319214689	25.504186191	2906.8	5997.0	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	2	a
+18	Spectrogram 1	1	36.368472301	36.477473365	3352.0	4740.0	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	3	a
+19	Spectrogram 1	1	36.602989742	36.715293868	3299.6	4844.7	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	3	a
+20	Spectrogram 1	1	36.830901057	36.966326621	3378.2	5263.7	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	3	a
+21	Spectrogram 1	1	37.068721560	37.207450187	3168.7	5159.0	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	3	a
+22	Spectrogram 1	1	37.299935938	37.448573752	3037.8	5787.5	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	3	a
+23	Spectrogram 1	1	37.537756441	37.732637131	3064.0	5839.8	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	3	a
+24	Spectrogram 1	1	37.808607569	38.003488259	2802.1	5918.4	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	3	a
+25	Spectrogram 1	1	38.069549510	38.261127138	2854.5	6075.5	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	3	a
+26	Spectrogram 1	1	38.323885326	38.512159891	2880.6	6127.9	Myiothlypis_chrysogaster-ML135234.wav	D:\Andean\Parulidae\Myiothlypis_chrysogaster-ML135234.wav	3	a

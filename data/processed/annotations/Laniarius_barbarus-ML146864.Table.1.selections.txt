@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.134947473	7.224892407	794.2	1144.5	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	1	a
+2	Spectrogram 1	1	7.221221185	7.270782679	513.9	3900.8	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	1	b
+3	Spectrogram 1	1	7.280618396	7.418289213	724.1	3854.1	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	1	c
+4	Spectrogram 1	1	7.440316544	7.493549260	607.3	3994.2	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	1	b
+5	Spectrogram 1	1	8.260834614	8.354450769	794.2	1191.3	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	2	a
+6	Spectrogram 1	1	8.352615158	8.398505431	630.7	4040.9	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	2	b
+7	Spectrogram 1	1	8.416861540	8.552696746	724.1	3970.9	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	2	c
+8	Spectrogram 1	1	8.570780135	8.627684073	654.0	4040.9	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	2	b
+9	Spectrogram 1	1	9.372148412	9.454750902	794.2	1144.5	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	3	a
+10	Spectrogram 1	1	9.449244070	9.498805564	607.3	3760.6	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	2	b
+11	Spectrogram 1	1	9.515326062	9.651161268	700.7	3900.8	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	2	c
+12	Spectrogram 1	1	9.675024210	9.726421315	654.0	3737.3	Laniarius_barbarus-ML146864.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_barbarus-ML146864.wav	2	b

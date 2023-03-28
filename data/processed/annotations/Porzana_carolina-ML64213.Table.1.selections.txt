@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.940951210	11.310894214	969.5	3019.4	Porzana_carolina-ML64213.wav	D:\Andean\Rallidae\Porzana_carolina-ML64213.wav	1	a
+2	Spectrogram 1	1	13.609825743	13.959950373	969.5	3074.8	Porzana_carolina-ML64213.wav	D:\Andean\Rallidae\Porzana_carolina-ML64213.wav	2	a
+3	Spectrogram 1	1	15.644512269	15.988030773	969.5	2936.3	Porzana_carolina-ML64213.wav	D:\Andean\Rallidae\Porzana_carolina-ML64213.wav	3	a

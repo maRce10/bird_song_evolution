@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.953928215	5.040738704	2709.5	7941.7	Cisticola_juncidis-ML84559.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_juncidis-ML84559.wav	1	a
+2	Spectrogram 1	1	5.636010630	5.729907690	2756.2	8222.0	Cisticola_juncidis-ML84559.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_juncidis-ML84559.wav	2	a
+3	Spectrogram 1	1	6.447422957	6.541320017	2943.1	8058.5	Cisticola_juncidis-ML84559.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_juncidis-ML84559.wav	3	a

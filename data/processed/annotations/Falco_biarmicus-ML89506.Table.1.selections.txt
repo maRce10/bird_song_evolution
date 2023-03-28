@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	70.385540683	70.479156838	373.7	2522.7	Falco_biarmicus-ML89506.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_biarmicus-ML89506.wav	1	a
+2	Spectrogram 1	1	70.756334083	70.840772184	443.8	2662.8	Falco_biarmicus-ML89506.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_biarmicus-ML89506.wav	1	a
+3	Spectrogram 1	1	71.125291873	71.211565585	700.7	2803.0	Falco_biarmicus-ML89506.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_biarmicus-ML89506.wav	1	a
+4	Spectrogram 1	1	71.464879889	71.549317990	794.2	2943.1	Falco_biarmicus-ML89506.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_biarmicus-ML89506.wav	1	a
+5	Spectrogram 1	1	71.787947406	71.868714285	700.7	3059.9	Falco_biarmicus-ML89506.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_biarmicus-ML89506.wav	1	a
+6	Spectrogram 1	1	72.147727141	72.234000853	864.2	2989.8	Falco_biarmicus-ML89506.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_biarmicus-ML89506.wav	1	a
+7	Spectrogram 1	1	72.607254798	72.667829958	981.0	3246.8	Falco_biarmicus-ML89506.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_biarmicus-ML89506.wav	1	b

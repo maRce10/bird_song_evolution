@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	72.508545751	73.484621381	163.5	2709.5	Anous_stolidus-ML3267.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_stolidus-ML3267.wav	1	a
+2	Spectrogram 1	1	74.367242960	75.229096973	140.1	2756.2	Anous_stolidus-ML3267.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_stolidus-ML3267.wav	2	a
+3	Spectrogram 1	1	75.383240038	76.130872435	186.9	2569.4	Anous_stolidus-ML3267.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_stolidus-ML3267.wav	3	a

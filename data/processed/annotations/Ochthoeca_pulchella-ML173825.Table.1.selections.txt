@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	41.870167882	42.689327392	2733.2	7984.7	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	1	a
+3	Spectrogram 1	1	43.946752873	44.153194282	3255.3	6142.1	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	1	b
+4	Spectrogram 1	1	46.340872256	46.844589294	2180.4	4330.2	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	2	c
+5	Spectrogram 1	1	47.469397476	47.505731164	4453.0	6019.2	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	2	d
+6	Spectrogram 1	1	47.510685758	47.652717447	3808.1	4975.1	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	2	e
+7	Spectrogram 1	1	47.669232760	47.692354197	3347.4	4330.2	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	2	f
+8	Spectrogram 1	1	47.708869510	47.745203198	2702.5	3992.3	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	2	g
+9	Spectrogram 1	1	48.651893866	48.861638337	3347.4	6049.9	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	2	b
+10	Spectrogram 1	1	51.202071281	51.235927672	4453.0	6111.4	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	3	d
+11	Spectrogram 1	1	51.261526407	51.429982596	3009.6	5220.8	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	3	h
+12	Spectrogram 1	1	51.438240253	51.454755565	3009.6	3623.8	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	3	i
+13	Spectrogram 1	1	53.017104147	53.221894025	3316.7	6019.2	Ochthoeca_pulchella-ML173825.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_pulchella-ML173825.wav	3	b

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.803769370	18.051344870	1782.5	3055.7	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	a
+2	Spectrogram 1	1	18.221844978	18.404023176	1762.9	3016.5	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	a
+3	Spectrogram 1	1	18.590872610	18.943550916	1527.8	3036.1	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	a
+4	Spectrogram 1	1	19.118722260	19.420016972	1664.9	3447.4	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	a
+5	Spectrogram 1	1	19.586199939	19.875816561	1743.3	3721.6	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	a
+6	Spectrogram 1	1	20.018289254	20.221488013	1802.1	3094.8	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	a
+7	Spectrogram 1	1	20.420215713	20.824277613	1214.4	2938.1	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	b
+8	Spectrogram 1	1	21.029811990	21.503942429	1312.4	2761.8	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	b
+9	Spectrogram 1	1	21.517662019	21.566709996	1978.3	2507.2	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	c
+10	Spectrogram 1	1	21.570213423	21.618093590	1625.8	2115.5	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	d
+11	Spectrogram 1	1	21.657799095	22.035001389	1175.3	2507.2	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	b
+12	Spectrogram 1	1	22.081713747	22.165795993	1586.6	2135.0	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	e
+13	Spectrogram 1	1	22.277905653	22.780063506	1234.0	2350.5	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	b
+14	Spectrogram 1	1	22.978591029	23.511111916	1234.0	2507.2	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	b
+15	Spectrogram 1	1	23.648283235	24.120078055	1351.5	2507.2	Rollandia_microptera-ML62956781.wav	D:\Andean\Podicipedidae\Rollandia_microptera-ML62956781.wav	1	b

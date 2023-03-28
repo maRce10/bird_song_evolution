@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.594452034	1.766211286	1080.3	1440.5	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	1	a
+2	Spectrogram 1	1	1.957788914	2.109729791	1024.9	1357.3	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	1	a
+3	Spectrogram 1	1	2.327731918	2.519309546	997.2	1385.1	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	1	a
+4	Spectrogram 1	1	2.717493298	2.843009675	997.2	1357.3	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	1	a
+5	Spectrogram 1	1	3.047799552	3.338469056	1052.6	1385.1	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	1	a
+6	Spectrogram 1	1	3.391318057	3.648956935	1052.6	1412.8	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	1	a
+7	Spectrogram 1	1	3.794291687	4.012293815	1052.6	1440.5	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	1	a
+8	Spectrogram 1	1	4.164234691	4.408661320	1024.9	1440.5	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	1	a
+10	Spectrogram 1	1	12.974408256	13.152773633	1080.3	1412.8	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	2	a
+11	Spectrogram 1	1	13.364169636	13.595384014	997.2	1412.8	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	2	a
+12	Spectrogram 1	1	13.780355516	13.952114769	1024.9	1440.5	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	2	a
+13	Spectrogram 1	1	14.130480146	14.315451648	997.2	1440.5	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	2	a
+14	Spectrogram 1	1	14.516397364	14.810685222	997.2	1468.2	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	2	a
+15	Spectrogram 1	1	14.878418142	15.076945665	997.2	1440.5	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	2	a
+16	Spectrogram 1	1	15.240438920	15.417945882	997.2	1440.5	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	2	a
+17	Spectrogram 1	1	25.323095382	25.435205043	1024.9	1440.5	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	3	a
+18	Spectrogram 1	1	25.715479193	25.860287504	969.5	1412.8	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	3	a
+19	Spectrogram 1	1	26.089178061	26.243328844	1052.6	1440.5	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	3	a
+20	Spectrogram 1	1	26.430178277	26.743151079	997.2	1468.2	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	3	a
+21	Spectrogram 1	1	26.799205909	27.098165003	1024.9	1468.2	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	3	a
+22	Spectrogram 1	1	27.196260956	27.490548814	1052.6	1468.2	Apaloderma_vittatum-ML278958.wav	D:\Andean\Trogonidae\Apaloderma_vittatum-ML278958.wav	3	a

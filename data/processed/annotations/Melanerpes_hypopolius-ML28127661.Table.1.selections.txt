@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.088149532	1.146539980	602.3	3640.1	Melanerpes_hypopolius-ML28127661.wav	D:\Andean\Picidae\Melanerpes_hypopolius-ML28127661.wav	1	a
+2	Spectrogram 1	1	1.197923575	1.354409975	576.1	3404.4	Melanerpes_hypopolius-ML28127661.wav	D:\Andean\Picidae\Melanerpes_hypopolius-ML28127661.wav	1	b
+3	Spectrogram 1	1	1.597314239	1.655704687	549.9	3430.6	Melanerpes_hypopolius-ML28127661.wav	D:\Andean\Picidae\Melanerpes_hypopolius-ML28127661.wav	2	a
+4	Spectrogram 1	1	1.707088282	1.875252772	680.9	3404.4	Melanerpes_hypopolius-ML28127661.wav	D:\Andean\Picidae\Melanerpes_hypopolius-ML28127661.wav	2	b
+5	Spectrogram 1	1	2.101807710	2.155526923	654.7	3587.7	Melanerpes_hypopolius-ML28127661.wav	D:\Andean\Picidae\Melanerpes_hypopolius-ML28127661.wav	3	a
+6	Spectrogram 1	1	2.218588607	2.368068154	602.3	3404.4	Melanerpes_hypopolius-ML28127661.wav	D:\Andean\Picidae\Melanerpes_hypopolius-ML28127661.wav	3	b

@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.073743100	12.123289038	470.9	1966.8	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	1	a
+2	Spectrogram 1	1	12.200911008	12.228987040	526.3	997.2	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	1	b
+3	Spectrogram 1	1	12.260366134	12.394140167	443.2	1108.0	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	1	c
+4	Spectrogram 1	1	12.606623718	12.684245688	886.4	1662.1	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	1	d
+5	Spectrogram 1	1	12.854353409	12.928672316	581.7	1468.2	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	1	e
+6	Spectrogram 1	1	12.976566723	13.173098944	886.4	1883.7	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	1	f
+7	Spectrogram 1	1	13.224296413	13.696634357	775.6	1772.9	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	1	g
+8	Spectrogram 1	1	14.878352414	14.929549884	249.3	1523.6	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	2	a
+9	Spectrogram 1	1	15.015429510	15.051763198	498.6	1052.6	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	2	b
+10	Spectrogram 1	1	15.088096886	15.188840293	443.2	1135.7	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	2	c
+11	Spectrogram 1	1	15.339129639	15.415100077	831.0	1800.6	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	2	d
+12	Spectrogram 1	1	15.618238423	15.684299674	443.2	1357.3	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	2	e
+13	Spectrogram 1	1	15.742103269	15.922120177	914.1	1883.7	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	2	f
+14	Spectrogram 1	1	15.970014584	16.232608056	886.4	1772.9	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	2	g
+15	Spectrogram 1	1	19.508801591	19.566605185	387.8	1745.2	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	3	a
+16	Spectrogram 1	1	19.642575624	19.688818499	498.6	941.8	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	3	b
+17	Spectrogram 1	1	19.713591468	19.842410907	387.8	1080.3	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	3	c
+18	Spectrogram 1	1	20.080231410	20.100049786	692.5	1606.7	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	3	h
+19	Spectrogram 1	1	20.294930476	20.369249383	554.0	1274.2	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	3	e
+20	Spectrogram 1	1	20.422098383	20.995179734	858.7	1828.3	Pterocles_gutturalis-ML138964.wav	D:\Andean\Pteroclidae\Pterocles_gutturalis-ML138964.wav	3	g

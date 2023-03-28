@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	20.491405192	20.643220357	1907.2	2952.2	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	1	a
+2	Spectrogram 1	1	20.799706758	21.012247989	2142.3	3448.6	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	1	b
+3	Spectrogram 1	1	21.131364503	21.329892026	2272.9	3474.7	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	1	b
+4	Spectrogram 1	1	21.470029101	21.593816851	2142.3	4963.9	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	1	c
+5	Spectrogram 1	1	21.649871681	21.797015610	2168.4	5120.6	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	1	d
+6	Spectrogram 1	1	21.864748530	21.981529426	2220.7	4990.0	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	1	c
+7	Spectrogram 1	1	22.084296615	22.208084365	2168.4	4781.0	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	1	e
+8	Spectrogram 1	1	25.970049618	26.028440066	1750.4	2717.1	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	f
+10	Spectrogram 1	1	26.035446920	26.096172986	1619.8	2481.9	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	g
+11	Spectrogram 1	1	26.334406014	26.483885561	2090.0	3213.4	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	h
+12	Spectrogram 1	1	26.614680165	26.773502183	1619.8	2664.8	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	i
+13	Spectrogram 1	1	26.869262518	27.100488692	1645.9	3500.8	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	j
+14	Spectrogram 1	1	27.168221612	27.380762843	2272.9	3448.6	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	k
+15	Spectrogram 1	1	27.476523178	27.518564300	2638.7	3762.1	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	l
+16	Spectrogram 1	1	27.642352050	27.675050701	2873.8	3788.2	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	m
+17	Spectrogram 1	1	27.815187776	27.852557663	1567.5	2142.3	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	n
+18	Spectrogram 1	1	27.866571371	27.901605640	1567.5	2063.9	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	o
+19	Spectrogram 1	1	27.976345413	28.018386536	1541.4	2063.9	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	o
+20	Spectrogram 1	1	28.211405013	28.353877706	1515.3	2560.3	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	2	p
+21	Spectrogram 1	1	32.206221577	32.383728539	1907.2	2873.8	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	3	q
+22	Spectrogram 1	1	32.561235501	32.764434260	1881.0	3056.7	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	3	r
+23	Spectrogram 1	1	32.939605605	33.042372793	2168.4	4885.5	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	3	s
+24	Spectrogram 1	1	33.138133128	33.254914024	2194.5	4781.0	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	3	t
+25	Spectrogram 1	1	33.341331887	33.460448401	2194.5	4807.1	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	3	t
+26	Spectrogram 1	1	33.549201882	33.687003340	2246.8	4754.9	Turdus_hortulorum-ML75142.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_hortulorum-ML75142.wav	3	u

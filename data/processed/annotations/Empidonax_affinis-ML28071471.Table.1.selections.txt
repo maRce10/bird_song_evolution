@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.401346440	29.444742215	2403.6	3814.3	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	1	a
+2	Spectrogram 1	1	29.451718144	29.485590115	2690.9	3683.7	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	1	b
+3	Spectrogram 1	1	30.057004377	30.085080408	2011.7	2377.4	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	1	d
+4	Spectrogram 1	1	30.149490128	30.456674944	1436.9	3788.2	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	1	e
+5	Spectrogram 1	1	32.222781602	32.261924562	2455.8	3814.3	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	2	a
+6	Spectrogram 1	1	32.277282134	32.311964291	2795.4	3605.3	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	2	e
+7	Spectrogram 1	1	33.116260020	33.150942177	2403.6	3892.7	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	2	f
+8	Spectrogram 1	1	33.190578927	33.339216741	2299.1	3161.2	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	2	g
+9	Spectrogram 1	1	34.384731032	34.427939963	2351.3	3762.1	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	3	a
+10	Spectrogram 1	1	34.432611199	34.466477659	2664.8	3762.1	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	3	b
+11	Spectrogram 1	1	35.027133358	35.056221184	2090.0	2403.6	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	3	c
+12	Spectrogram 1	1	35.111672583	35.415906344	1410.8	3709.8	Empidonax_affinis-ML28071471.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_affinis-ML28071471.wav	3	d

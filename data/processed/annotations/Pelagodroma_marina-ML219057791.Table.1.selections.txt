@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.547702403	0.617770940	249.3	3545.7	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	1	a
+2	Spectrogram 1	1	0.957603348	1.095404805	277.0	1218.8	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	1	b
+3	Spectrogram 1	1	1.389692663	1.464432437	332.4	941.8	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	1	c
+4	Spectrogram 1	1	1.604569512	1.674638050	360.1	1108.0	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	1	c
+5	Spectrogram 1	1	1.880172427	1.957247819	360.1	941.8	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	1	c
+6	Spectrogram 1	1	2.195480847	2.281898710	304.7	997.2	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	1	c
+7	Spectrogram 1	1	2.564508478	2.650926341	304.7	914.1	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	1	c
+8	Spectrogram 1	1	3.434241559	3.522995040	332.4	3490.3	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	2	a
+9	Spectrogram 1	1	3.889687054	4.029824129	277.0	1135.7	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	2	b
+10	Spectrogram 1	1	4.356810638	4.422207940	332.4	941.8	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	2	c
+11	Spectrogram 1	1	4.569351869	4.641756025	277.0	997.2	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	2	c
+12	Spectrogram 1	1	4.856632874	4.938379501	360.1	1080.3	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	2	c
+13	Spectrogram 1	1	5.202304326	5.281715335	360.1	997.2	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	2	c
+14	Spectrogram 1	1	5.606366226	5.695119707	221.6	1024.9	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	2	c
+15	Spectrogram 1	1	6.496010675	6.575421684	415.5	3379.5	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	3	a
+16	Spectrogram 1	1	6.970141113	7.103271335	277.0	1108.0	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	3	b
+17	Spectrogram 1	1	7.446267331	7.514000251	332.4	1024.9	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	3	c
+18	Spectrogram 1	1	7.670486652	7.742890807	277.0	1080.3	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	3	c
+19	Spectrogram 1	1	7.960103274	8.034843048	277.0	886.4	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	3	c
+20	Spectrogram 1	1	8.308110344	8.394528208	249.3	1024.9	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	3	c
+21	Spectrogram 1	1	8.728521570	8.814939433	249.3	969.5	Pelagodroma_marina-ML219057791.wav	E:\Andean\Oceanitidae\Pelagodroma_marina-ML219057791.wav	3	c

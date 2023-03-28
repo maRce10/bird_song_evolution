@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.775425150	2.335617922	249.3	1634.4	Tragopan_blythii-ML150328211.wav	D:\Andean\Phasianidae\Tragopan_blythii-ML150328211.wav	1	a
+2	Spectrogram 1	1	4.418989108	5.895099635	249.3	1689.8	Tragopan_blythii-ML150328211.wav	D:\Andean\Phasianidae\Tragopan_blythii-ML150328211.wav	2	a
+3	Spectrogram 1	1	8.268087443	9.800252800	221.6	1717.5	Tragopan_blythii-ML150328211.wav	D:\Andean\Phasianidae\Tragopan_blythii-ML150328211.wav	3	a

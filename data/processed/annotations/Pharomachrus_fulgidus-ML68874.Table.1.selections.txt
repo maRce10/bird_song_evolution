@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.802182729	6.928306097	757.6	1632.8	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	1	a
+2	Spectrogram 1	1	6.932188387	7.300479861	718.5	1554.5	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	1	b
+3	Spectrogram 1	1	7.631327091	8.306320671	862.1	1645.9	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	1	c
+4	Spectrogram 1	1	8.920588184	9.039704698	757.6	1685.1	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	1	d
+5	Spectrogram 1	1	9.042040316	9.373698061	783.8	1593.7	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	1	b
+6	Spectrogram 1	1	9.801115711	10.445746257	849.1	1645.9	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	1	c
+8	Spectrogram 1	1	26.961893229	27.065113933	783.8	1632.8	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	2	a
+9	Spectrogram 1	1	27.071720058	27.459004142	770.7	1554.5	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	2	b
+10	Spectrogram 1	1	27.777684990	28.477934249	849.1	1659.0	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	2	c
+11	Spectrogram 1	1	29.188091075	29.283879889	823.0	1645.9	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	2	e
+12	Spectrogram 1	1	29.318562046	29.652171362	836.0	1567.5	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	2	b
+13	Spectrogram 1	1	30.089827149	30.730621282	940.5	1619.8	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	2	f
+18	Spectrogram 1	1	39.767449122	39.879753248	783.8	1698.2	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	3	a
+19	Spectrogram 1	1	39.888010904	40.261256972	757.6	1593.7	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	3	g
+20	Spectrogram 1	1	40.581654038	41.258781859	927.5	1645.9	Pharomachrus_fulgidus-ML68874.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_fulgidus-ML68874.wav	3	f

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.595726864	12.674000570	241.6	1866.8	Chlorophonia_occipitalis-ML172612.wav	E:\Escritorio\Cantos\Fringillidae\Chlorophonia_occipitalis-ML172612.wav	1	a
+2	Spectrogram 1	1	14.262956800	14.349057876	241.6	1844.8	Chlorophonia_occipitalis-ML172612.wav	E:\Escritorio\Cantos\Fringillidae\Chlorophonia_occipitalis-ML172612.wav	2	a
+3	Spectrogram 1	1	16.144251455	16.232961655	329.4	1866.8	Chlorophonia_occipitalis-ML172612.wav	E:\Escritorio\Cantos\Fringillidae\Chlorophonia_occipitalis-ML172612.wav	3	a

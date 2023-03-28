@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.196814078	11.266178392	1246.5	2991.7	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	1	a
+2	Spectrogram 1	1	11.586910213	11.661229120	997.2	3767.3	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	1	b
+3	Spectrogram 1	1	11.676092902	11.737199559	1024.9	3545.7	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	1	c
+4	Spectrogram 1	1	12.019611406	12.302023253	1468.2	3933.5	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	1	d
+5	Spectrogram 1	1	24.202224903	24.269937685	1440.5	3130.2	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	2	a
+6	Spectrogram 1	1	24.525925032	24.625016908	914.1	3490.3	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	2	b
+7	Spectrogram 1	1	24.644835284	24.700987347	1052.6	3518.0	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	2	c
+8	Spectrogram 1	1	25.021384413	25.308750855	1357.3	3351.8	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	2	d
+9	Spectrogram 1	1	30.874711175	30.945727020	1163.4	3019.4	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	3	a
+10	Spectrogram 1	1	31.228138867	31.322276150	1274.2	3545.7	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	3	b
+11	Spectrogram 1	1	31.332185337	31.394943526	1135.7	3351.8	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	3	c
+12	Spectrogram 1	1	31.655059701	31.929213892	1468.2	3324.1	Pycnonotus_capensis-ML177488081.wav	D:\Andean\Pycnonotidae\Pycnonotus_capensis-ML177488081.wav	3	d

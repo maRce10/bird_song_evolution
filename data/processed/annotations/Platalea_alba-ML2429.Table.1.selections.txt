@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.075663983	4.187773643	415.5	1772.9	Platalea_alba-ML2429.wav	D:\Andean\Threskiornithidae\Platalea_alba-ML2429.wav	1	a
+2	Spectrogram 1	1	4.813719246	4.977212501	360.1	1662.1	Platalea_alba-ML2429.wav	D:\Andean\Threskiornithidae\Platalea_alba-ML2429.wav	1	a
+3	Spectrogram 1	1	5.028596095	5.150048227	415.5	1468.2	Platalea_alba-ML2429.wav	D:\Andean\Threskiornithidae\Platalea_alba-ML2429.wav	1	a
+4	Spectrogram 1	1	5.234130472	5.481705972	526.3	1551.3	Platalea_alba-ML2429.wav	D:\Andean\Threskiornithidae\Platalea_alba-ML2429.wav	1	b
+5	Spectrogram 1	1	7.457238699	7.602047011	249.3	1662.1	Platalea_alba-ML2429.wav	D:\Andean\Threskiornithidae\Platalea_alba-ML2429.wav	2	a
+6	Spectrogram 1	1	8.732409990	8.989327961	332.4	1662.1	Platalea_alba-ML2429.wav	D:\Andean\Threskiornithidae\Platalea_alba-ML2429.wav	2	b
+7	Spectrogram 1	1	10.329972648	10.526164554	249.3	1468.2	Platalea_alba-ML2429.wav	D:\Andean\Threskiornithidae\Platalea_alba-ML2429.wav	3	b
+8	Spectrogram 1	1	10.848479827	11.030658025	277.0	1606.7	Platalea_alba-ML2429.wav	D:\Andean\Threskiornithidae\Platalea_alba-ML2429.wav	3	b

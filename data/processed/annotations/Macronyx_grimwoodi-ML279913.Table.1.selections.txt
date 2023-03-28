@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.242904264	0.304798139	2520.8	3656.5	Macronyx_grimwoodi-ML279913.wav	E:\Andean\Motacillidae\Macronyx_grimwoodi-ML279913.wav	1	a
+2	Spectrogram 1	1	0.345671452	0.409900945	2493.1	3739.6	Macronyx_grimwoodi-ML279913.wav	E:\Andean\Motacillidae\Macronyx_grimwoodi-ML279913.wav	2	a
+3	Spectrogram 1	1	0.444935214	0.510332516	2548.5	3822.7	Macronyx_grimwoodi-ML279913.wav	E:\Andean\Motacillidae\Macronyx_grimwoodi-ML279913.wav	3	a

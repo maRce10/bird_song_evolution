@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.833921187	7.450452824	568.6	2743.9	Cacatua_moluccensis-ML518112.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_moluccensis-ML518112.wav	1	a
+2	Spectrogram 1	1	8.087409069	8.617130217	618.0	2694.5	Cacatua_moluccensis-ML518112.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_moluccensis-ML518112.wav	2	a
+3	Spectrogram 1	1	9.271850484	9.753737281	543.8	2743.9	Cacatua_moluccensis-ML518112.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_moluccensis-ML518112.wav	3	a

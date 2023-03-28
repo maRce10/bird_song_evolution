@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	Peak Freq (Hz)	song	element
+1	Spectrogram 1	1	2.381508092	2.421144843	78.6	4766.2	Guttera_plumifera-ML276015221.wav	E:\Andean\Numididae\Guttera_plumifera-ML276015221.wav	4737.305	1	a

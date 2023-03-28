@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	54.992476054	55.177447556	2566.4	3273.5	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	1	a
+2	Spectrogram 1	1	55.283145558	55.494541560	2566.4	3247.3	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	1	a
+3	Spectrogram 1	1	55.580421186	55.778604939	2540.2	3273.5	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	1	a
+4	Spectrogram 1	1	55.871090690	56.082486693	2540.2	3247.3	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	1	a
+5	Spectrogram 1	1	56.168366319	56.366550071	2487.8	3247.3	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	1	a
+6	Spectrogram 1	1	56.478854198	56.670431825	2514.0	3299.6	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	1	a
+7	Spectrogram 1	1	58.837240852	59.035424605	2461.6	3299.6	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	2	a
+8	Spectrogram 1	1	59.141122606	59.332700234	2566.4	3273.5	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	2	a
+9	Spectrogram 1	1	59.425185985	59.636581987	2540.2	3273.5	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	2	a
+10	Spectrogram 1	1	59.742279989	59.933857616	2618.8	3247.3	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	2	a
+11	Spectrogram 1	1	60.039555617	60.237739370	2461.6	3247.3	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	2	a
+12	Spectrogram 1	1	63.019354840	63.224144718	2566.4	3299.6	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	3	a
+13	Spectrogram 1	1	63.310024344	63.508208097	2592.6	3273.5	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	3	a
+14	Spectrogram 1	1	63.607299973	63.812089850	2566.4	3273.5	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	3	a
+15	Spectrogram 1	1	63.897969476	64.102759354	2566.4	3273.5	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	3	a
+16	Spectrogram 1	1	64.208457355	64.386822733	2487.8	3273.5	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	3	a
+17	Spectrogram 1	1	64.505732984	64.703916737	2487.8	3273.5	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	3	a
+18	Spectrogram 1	1	64.822826988	65.034222991	2514.0	3273.5	Baeolophus_atricristatus-ML14680.wav	E:\Andean\Paridae\Baeolophus_atricristatus-ML14680.wav	3	a

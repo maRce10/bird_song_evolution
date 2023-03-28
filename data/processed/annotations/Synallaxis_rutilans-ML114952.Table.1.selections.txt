@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	78.218370036	78.292613574	856.5	4019.1	Synallaxis_rutilans-ML114952.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_rutilans-ML114952.wav	1	a
+2	Spectrogram 1	1	78.419888211	78.575446101	768.7	2986.9	Synallaxis_rutilans-ML114952.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_rutilans-ML114952.wav	1	b
+3	Spectrogram 1	1	79.388619281	79.459327413	922.4	4041.0	Synallaxis_rutilans-ML114952.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_rutilans-ML114952.wav	2	a
+4	Spectrogram 1	1	79.593672863	79.745695346	702.8	3118.6	Synallaxis_rutilans-ML114952.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_rutilans-ML114952.wav	2	b
+5	Spectrogram 1	1	80.725027390	80.809877148	834.6	4150.8	Synallaxis_rutilans-ML114952.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_rutilans-ML114952.wav	3	a
+6	Spectrogram 1	1	80.930080971	81.089174268	614.9	3030.8	Synallaxis_rutilans-ML114952.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_rutilans-ML114952.wav	3	b

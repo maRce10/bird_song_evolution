@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	28.590115971	28.662783347	941.8	6177.3	Ploceus_melanogaster-ML24837.wav	D:\Andean\Ploceidae\Ploceus_melanogaster-ML24837.wav	1	a
+2	Spectrogram 1	1	29.092181477	29.158242728	858.7	6371.2	Ploceus_melanogaster-ML24837.wav	D:\Andean\Ploceidae\Ploceus_melanogaster-ML24837.wav	2	a
+3	Spectrogram 1	1	29.746187861	29.818855237	886.4	6260.4	Ploceus_melanogaster-ML24837.wav	D:\Andean\Ploceidae\Ploceus_melanogaster-ML24837.wav	3	a

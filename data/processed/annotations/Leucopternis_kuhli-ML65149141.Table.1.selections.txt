@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.821340560	8.550135158	2595.6	4326.0	Leucopternis_kuhli-ML65149141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leucopternis_kuhli-ML65149141.wav	1	a
+2	Spectrogram 1	1	18.732105662	19.378044261	2743.9	4276.5	Leucopternis_kuhli-ML65149141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leucopternis_kuhli-ML65149141.wav	2	a
+3	Spectrogram 1	1	22.794093782	23.507669931	2570.9	4276.5	Leucopternis_kuhli-ML65149141.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leucopternis_kuhli-ML65149141.wav	3	a

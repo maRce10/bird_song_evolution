@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	194.362728027	195.212698816	123.5	401.5	Phaps_chalcoptera-ML52754701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Phaps_chalcoptera-ML52754701.wav	1	a
+2	Spectrogram 1	1	199.921356542	200.752949584	123.5	432.4	Phaps_chalcoptera-ML52754701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Phaps_chalcoptera-ML52754701.wav	2	a
+3	Spectrogram 1	1	202.714847830	203.578601929	123.5	494.1	Phaps_chalcoptera-ML52754701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Phaps_chalcoptera-ML52754701.wav	1	a

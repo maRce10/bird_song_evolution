@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	114.961045809	114.993744460	3434.9	4266.0	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	1	a
+2	Spectrogram 1	1	114.992576651	115.066148615	969.5	5374.0	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	1	b
+3	Spectrogram 1	1	115.062645188	115.181761702	5013.9	6398.9	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	1	c
+4	Spectrogram 1	1	115.158405523	115.234313106	3407.2	4266.0	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	1	d
+5	Spectrogram 1	1	116.097112653	116.123972259	3739.6	4487.6	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	2	a
+6	Spectrogram 1	1	116.130979113	116.202215459	1052.6	5041.6	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	2	b
+7	Spectrogram 1	1	116.188201752	116.292136749	5290.9	6426.6	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	2	c
+8	Spectrogram 1	1	116.297975794	116.323667591	3767.3	4432.2	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	2	e
+9	Spectrogram 1	1	116.338849108	116.371547759	3324.1	4016.6	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	2	f
+10	Spectrogram 1	1	118.923991932	118.945012493	3711.9	4349.1	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	3	a
+11	Spectrogram 1	1	118.953187156	119.031430356	858.7	4293.7	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	3	b
+12	Spectrogram 1	1	119.027926929	119.137700972	4903.1	6371.2	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	3	c
+13	Spectrogram 1	1	119.133029736	119.155218106	3545.7	4238.3	Trichoglossus_haematodus-ML515699.wav	D:\Andean\Psittaculidae\Trichoglossus_haematodus-ML515699.wav	3	e

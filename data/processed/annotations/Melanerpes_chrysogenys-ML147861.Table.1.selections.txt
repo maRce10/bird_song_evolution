@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.560927222	7.666030029	707.1	3535.3	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	1	a
+2	Spectrogram 1	1	7.694057444	7.766461599	733.3	3378.2	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	1	b
+3	Spectrogram 1	1	7.789817778	7.848208227	576.1	3483.0	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	1	b
+4	Spectrogram 1	1	7.873900024	7.936961708	628.5	3535.3	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	1	b
+5	Spectrogram 1	1	18.739043063	18.832467780	680.9	3404.4	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	2	a
+6	Spectrogram 1	1	18.851152723	18.916550025	759.4	3352.0	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	2	b
+7	Spectrogram 1	1	18.953919912	19.007639124	785.6	3640.1	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	2	b
+8	Spectrogram 1	1	19.042673393	19.096392605	654.7	3640.1	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	2	b
+9	Spectrogram 1	1	20.002612358	20.110050783	733.3	3273.5	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	3	a
+10	Spectrogram 1	1	20.135742580	20.194133028	759.4	3483.0	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	3	b
+11	Spectrogram 1	1	20.219824825	20.285222127	838.0	3666.3	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	3	b
+12	Spectrogram 1	1	20.317920778	20.373975608	654.7	3640.1	Melanerpes_chrysogenys-ML147861.wav	D:\Andean\Picidae\Melanerpes_chrysogenys-ML147861.wav	3	b

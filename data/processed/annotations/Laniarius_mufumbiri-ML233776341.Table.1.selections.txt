@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.175571941	2.243489544	513.9	3667.2	Laniarius_mufumbiri-ML233776341.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_mufumbiri-ML233776341.wav	1	a
+2	Spectrogram 1	1	2.316913980	2.463762851	607.3	3176.7	Laniarius_mufumbiri-ML233776341.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_mufumbiri-ML233776341.wav	1	b
+3	Spectrogram 1	1	2.531680454	2.678529326	513.9	3083.3	Laniarius_mufumbiri-ML233776341.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_mufumbiri-ML233776341.wav	1	b
+4	Spectrogram 1	1	2.744611318	2.882282135	490.5	3083.3	Laniarius_mufumbiri-ML233776341.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_mufumbiri-ML233776341.wav	1	b
+5	Spectrogram 1	1	9.561588130	9.635012566	537.2	3830.7	Laniarius_mufumbiri-ML233776341.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_mufumbiri-ML233776341.wav	2	a
+6	Spectrogram 1	1	9.715779445	9.849779040	560.6	3223.4	Laniarius_mufumbiri-ML233776341.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_mufumbiri-ML233776341.wav	2	b
+7	Spectrogram 1	1	9.930545920	10.066381126	513.9	3153.3	Laniarius_mufumbiri-ML233776341.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_mufumbiri-ML233776341.wav	2	b
+8	Spectrogram 1	1	10.147148005	10.279311990	607.3	3200.1	Laniarius_mufumbiri-ML233776341.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_mufumbiri-ML233776341.wav	2	b

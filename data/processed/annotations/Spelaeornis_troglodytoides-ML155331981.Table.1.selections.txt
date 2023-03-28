@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.972010183	3.031465309	1024.9	3490.3	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	1	a
+2	Spectrogram 1	1	3.065321700	3.098352326	2410.0	3324.1	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	1	b
+3	Spectrogram 1	1	3.099178091	3.339475891	1329.6	3019.4	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	1	c
+4	Spectrogram 1	1	3.380764173	3.485636409	1828.3	3351.8	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	1	d
+5	Spectrogram 1	1	3.533606480	3.809209395	1856.0	3185.6	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	1	e
+6	Spectrogram 1	1	3.858257371	3.984380739	1911.4	3102.5	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	1	f
+7	Spectrogram 1	1	4.024086243	4.257648036	1218.8	2880.9	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	1	g
+8	Spectrogram 1	1	5.931959073	5.984510476	1440.5	3434.9	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	2	h
+9	Spectrogram 1	1	6.031222835	6.058082441	2742.4	3296.4	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	2	i
+10	Spectrogram 1	1	6.065584307	6.311496986	1329.6	2964.0	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	2	c
+11	Spectrogram 1	1	6.344343614	6.458640915	1828.3	3324.1	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	2	d
+12	Spectrogram 1	1	6.504185464	6.780956188	1856.0	3213.3	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	2	e
+13	Spectrogram 1	1	6.858031579	6.959630959	1911.4	3047.1	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	2	f
+14	Spectrogram 1	1	7.000504272	7.245744154	1218.8	2797.8	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	2	g
+17	Spectrogram 1	1	12.578047523	12.639154180	1218.8	3462.6	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	3	j
+18	Spectrogram 1	1	12.673836336	12.700260837	2548.5	3268.7	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	3	k
+19	Spectrogram 1	1	12.706041196	12.940558637	1218.8	2964.0	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	3	l
+20	Spectrogram 1	1	12.976892324	13.085893388	1883.7	3241.0	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	3	d
+21	Spectrogram 1	1	13.127687566	13.400190226	1856.0	3324.1	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	3	e
+22	Spectrogram 1	1	13.454690758	13.565343353	1911.4	3047.1	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	3	f
+23	Spectrogram 1	1	13.603328572	13.851058263	1301.9	2908.6	Spelaeornis_troglodytoides-ML155331981.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_troglodytoides-ML155331981.wav	3	m

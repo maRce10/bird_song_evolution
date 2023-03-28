@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.995126777	7.051181607	3324.1	3933.5	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	1	a
+2	Spectrogram 1	1	8.545977077	8.592689435	3324.1	4016.6	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	1	a
+3	Spectrogram 1	1	9.695101094	9.746484688	2603.9	4404.5	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	1	b
+4	Spectrogram 1	1	9.980046481	10.036101311	2548.5	4487.6	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	1	b
+5	Spectrogram 1	1	10.858238819	10.914293649	2714.7	4515.3	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	1	b
+6	Spectrogram 1	1	11.035745781	11.087129376	2659.3	4487.6	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	1	b
+7	Spectrogram 1	1	11.792485988	11.857883290	2770.1	4459.9	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	1	b
+8	Spectrogram 1	1	12.044732724	12.091445082	2770.1	4459.9	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	1	b
+9	Spectrogram 1	1	15.059211057	15.110594651	3296.4	4099.7	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	2	a
+10	Spectrogram 1	1	15.568375764	15.633773066	2243.8	4266.0	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	2	b
+11	Spectrogram 1	1	16.502622933	16.563348999	2271.5	4404.5	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	2	b
+12	Spectrogram 1	1	26.608147621	26.668873687	3324.1	4016.6	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	3	a
+13	Spectrogram 1	1	27.280805582	27.327517941	2216.1	4653.8	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	3	b
+14	Spectrogram 1	1	27.589107148	27.635819507	2188.4	4598.4	Cinnyris_manoensis-ML277057.wav	E:\Andean\Nectariniidae\Cinnyris_manoensis-ML277057.wav	3	b

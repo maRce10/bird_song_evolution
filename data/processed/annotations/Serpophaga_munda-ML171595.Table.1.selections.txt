@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	91.101326372	91.145703113	3102.5	7645.5	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	1	a
+2	Spectrogram 1	1	91.165555865	91.197086707	3074.8	6953.0	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	1	b
+3	Spectrogram 1	1	91.233288785	91.264819627	2936.3	7451.6	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	1	c
+4	Spectrogram 1	1	91.326713502	91.361747771	2880.9	7368.5	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	1	c
+5	Spectrogram 1	1	95.690641904	95.738522072	2936.3	7728.6	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	2	a
+6	Spectrogram 1	1	95.760710442	95.787570048	2880.9	7202.3	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	2	d
+7	Spectrogram 1	1	95.821436508	95.857638586	2825.5	7645.5	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	2	c
+8	Spectrogram 1	1	95.902015326	95.939385213	2714.7	7617.8	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	2	c
+9	Spectrogram 1	1	101.637632295	101.685512462	3185.6	7977.9	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	3	a
+10	Spectrogram 1	1	101.712372068	101.734560439	2797.8	6537.4	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	3	b
+11	Spectrogram 1	1	101.770762516	101.808132403	2105.3	7756.3	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	3	e
+12	Spectrogram 1	1	101.840831054	101.879368750	2382.3	7756.3	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	3	f
+13	Spectrogram 1	1	101.963450995	102.005492118	1966.8	7784.0	Serpophaga_munda-ML171595.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_munda-ML171595.wav	3	e

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	89.544084885	89.651794283	3722.0	8741.0	Pygochelidon_melanoleuca-ML54929.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Pygochelidon_melanoleuca-ML54929.wav	1	a
+2	Spectrogram 1	1	99.616497275	99.708444322	3327.2	8346.3	Pygochelidon_melanoleuca-ML54929.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Pygochelidon_melanoleuca-ML54929.wav	2	b
+3	Spectrogram 1	1	103.098975353	103.353800027	2763.3	8966.6	Pygochelidon_melanoleuca-ML54929.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Pygochelidon_melanoleuca-ML54929.wav	3	c

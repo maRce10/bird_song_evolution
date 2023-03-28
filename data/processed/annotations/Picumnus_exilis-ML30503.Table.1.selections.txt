@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	32.497973793	32.689551421	5604.2	7411.1	Picumnus_exilis-ML30503.wav	D:\Andean\Picidae\Picumnus_exilis-ML30503.wav	1	a
+2	Spectrogram 1	1	33.066100550	33.211435302	5604.2	7096.9	Picumnus_exilis-ML30503.wav	D:\Andean\Picidae\Picumnus_exilis-ML30503.wav	1	a
+3	Spectrogram 1	1	33.647439558	33.772955934	6154.1	6835.0	Picumnus_exilis-ML30503.wav	D:\Andean\Picidae\Picumnus_exilis-ML30503.wav	1	b
+4	Spectrogram 1	1	36.408799842	36.567346844	6023.2	7358.7	Picumnus_exilis-ML30503.wav	D:\Andean\Picidae\Picumnus_exilis-ML30503.wav	2	a
+5	Spectrogram 1	1	36.943895974	37.115655226	5447.0	6992.1	Picumnus_exilis-ML30503.wav	D:\Andean\Picidae\Picumnus_exilis-ML30503.wav	2	a
+6	Spectrogram 1	1	37.571477857	37.683781983	5630.3	6494.5	Picumnus_exilis-ML30503.wav	D:\Andean\Picidae\Picumnus_exilis-ML30503.wav	2	b
+7	Spectrogram 1	1	41.840487372	42.008274515	6337.4	7699.2	Picumnus_exilis-ML30503.wav	D:\Andean\Picidae\Picumnus_exilis-ML30503.wav	3	a
+8	Spectrogram 1	1	42.384823645	42.556582897	5761.3	7489.7	Picumnus_exilis-ML30503.wav	D:\Andean\Picidae\Picumnus_exilis-ML30503.wav	3	a
+9	Spectrogram 1	1	42.939738152	43.091679028	5682.7	7175.4	Picumnus_exilis-ML30503.wav	D:\Andean\Picidae\Picumnus_exilis-ML30503.wav	3	a
+10	Spectrogram 1	1	43.474834283	43.613562910	5656.5	6704.0	Picumnus_exilis-ML30503.wav	D:\Andean\Picidae\Picumnus_exilis-ML30503.wav	3	b

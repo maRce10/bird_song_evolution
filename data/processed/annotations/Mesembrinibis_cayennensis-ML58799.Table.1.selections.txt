@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	130.815026679	130.894300180	443.2	941.8	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	1	a
+2	Spectrogram 1	1	130.909660268	130.970386334	415.5	886.4	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	1	a
+3	Spectrogram 1	1	130.996078131	131.049797343	415.5	886.4	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	1	a
+4	Spectrogram 1	1	131.087167230	131.124537116	470.9	1052.6	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	1	a
+5	Spectrogram 1	1	131.432838682	131.484222276	526.3	969.5	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	2	a
+6	Spectrogram 1	1	131.507578456	131.568304522	498.6	941.8	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	2	a
+7	Spectrogram 1	1	131.589325083	131.643044295	581.7	941.8	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	2	a
+8	Spectrogram 1	1	131.927989682	131.979373276	470.9	997.2	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	3	a
+9	Spectrogram 1	1	131.995722601	132.054113049	498.6	1024.9	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	3	a
+10	Spectrogram 1	1	132.068126757	132.124181587	498.6	941.8	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	3	a
+11	Spectrogram 1	1	132.152209002	132.201256978	470.9	997.2	Mesembrinibis_cayennensis-ML58799.wav	D:\Andean\Threskiornithidae\Mesembrinibis_cayennensis-ML58799.wav	3	a

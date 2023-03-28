@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.045211054	1.513216004	1495.900	5401.700	Pipra_filicauda-ML31400391.wav	C:\Users\pfmar\Downloads\Pipridae\Pipra_filicauda-ML31400391.wav	1	a
+2	Spectrogram 1	1	15.425541737	15.902906786	1551.300	5346.300	Pipra_filicauda-ML31400391.wav	C:\Users\pfmar\Downloads\Pipridae\Pipra_filicauda-ML31400391.wav	2	a
+3	Spectrogram 1	1	22.545702333	23.016827315	1523.600	5429.400	Pipra_filicauda-ML31400391.wav	C:\Users\pfmar\Downloads\Pipridae\Pipra_filicauda-ML31400391.wav	3	a

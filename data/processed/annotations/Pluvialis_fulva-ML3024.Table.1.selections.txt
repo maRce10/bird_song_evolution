@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.303780233	7.601416196	1635.1	4064.3	Pluvialis_fulva-ML3024.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Pluvialis_fulva-ML3024.wav	1	a
+2	Spectrogram 1	1	9.329620300	9.614854764	1518.3	4064.3	Pluvialis_fulva-ML3024.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Pluvialis_fulva-ML3024.wav	2	a
+3	Spectrogram 1	1	10.110381210	10.422190314	1588.3	3854.1	Pluvialis_fulva-ML3024.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Pluvialis_fulva-ML3024.wav	3	a

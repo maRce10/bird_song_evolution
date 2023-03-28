@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	88.673533140	88.845292392	664.8	983.4	Odontophorus_stellatus-ML75084.wav	E:\Andean\Odontophoridae\Odontophorus_stellatus-ML75084.wav	1	a
+2	Spectrogram 1	1	88.947687331	89.287902772	775.6	1177.3	Odontophorus_stellatus-ML75084.wav	E:\Andean\Odontophoridae\Odontophorus_stellatus-ML75084.wav	1	b
+3	Spectrogram 1	1	89.314327273	89.466268150	1066.5	1343.5	Odontophorus_stellatus-ML75084.wav	E:\Andean\Odontophoridae\Odontophorus_stellatus-ML75084.wav	1	c
+4	Spectrogram 1	1	89.588481464	89.737119278	692.5	1066.5	Odontophorus_stellatus-ML75084.wav	E:\Andean\Odontophoridae\Odontophorus_stellatus-ML75084.wav	2	a
+5	Spectrogram 1	1	89.849423404	90.252397034	761.8	1232.7	Odontophorus_stellatus-ML75084.wav	E:\Andean\Odontophoridae\Odontophorus_stellatus-ML75084.wav	2	b
+6	Spectrogram 1	1	90.295336847	90.447277724	1108.0	1343.5	Odontophorus_stellatus-ML75084.wav	E:\Andean\Odontophoridae\Odontophorus_stellatus-ML75084.wav	2	c
+7	Spectrogram 1	1	90.503429788	90.704916603	761.8	1080.3	Odontophorus_stellatus-ML75084.wav	E:\Andean\Odontophoridae\Odontophorus_stellatus-ML75084.wav	3	a
+8	Spectrogram 1	1	90.797402354	91.263134172	844.9	1301.9	Odontophorus_stellatus-ML75084.wav	E:\Andean\Odontophoridae\Odontophorus_stellatus-ML75084.wav	3	b
+9	Spectrogram 1	1	91.286255610	91.372135236	941.8	1412.8	Odontophorus_stellatus-ML75084.wav	E:\Andean\Odontophoridae\Odontophorus_stellatus-ML75084.wav	3	c

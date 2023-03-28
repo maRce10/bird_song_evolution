@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.332517524	29.358942025	1108.0	2520.8	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	1	a
+2	Spectrogram 1	1	29.439867057	29.550519652	2520.8	3573.4	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	1	b
+3	Spectrogram 1	1	29.636399278	29.778430968	1135.7	3711.9	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	1	c
+4	Spectrogram 1	1	29.827976906	29.877522844	1108.0	1745.2	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	1	d
+5	Spectrogram 1	1	29.925417251	30.036069846	692.5	2465.4	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	1	e
+6	Spectrogram 1	1	30.049282096	30.075706596	2853.2	3601.1	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	1	f
+7	Spectrogram 1	1	30.166540816	30.225995942	1523.6	1994.5	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	1	g
+8	Spectrogram 1	1	30.247465848	30.298663318	1468.2	2188.4	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	1	h
+9	Spectrogram 1	1	33.058848342	33.086924373	831.0	2880.9	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	2	a
+10	Spectrogram 1	1	33.179410124	33.288411188	2049.9	3601.1	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	2	b
+11	Spectrogram 1	1	33.382548471	33.526231691	997.2	2770.1	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	2	c
+12	Spectrogram 1	1	33.577429161	33.630278161	858.7	1634.4	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	2	d
+13	Spectrogram 1	1	33.678172568	33.778915976	775.6	2659.3	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	2	e
+14	Spectrogram 1	1	36.452497541	36.483876635	803.3	2797.8	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	3	a
+15	Spectrogram 1	1	36.573059324	36.682060388	2603.9	3490.3	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	3	b
+16	Spectrogram 1	1	36.769591545	36.913274766	1080.3	2659.3	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	3	c
+17	Spectrogram 1	1	36.962820704	36.999154392	831.0	1662.1	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	3	d
+18	Spectrogram 1	1	37.060261049	37.161004456	720.2	2603.9	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	3	e
+19	Spectrogram 1	1	37.180822832	37.203944269	2326.9	3324.1	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	3	f
+20	Spectrogram 1	1	37.299733083	37.380658115	1024.9	1966.8	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	3	g
+21	Spectrogram 1	1	37.402128022	37.459931616	1357.3	2326.9	Pycnonotus_nigricans-ML221435.wav	D:\Andean\Pycnonotidae\Pycnonotus_nigricans-ML221435.wav	3	h

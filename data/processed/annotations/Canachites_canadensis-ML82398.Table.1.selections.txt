@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	27.058937333	27.362819087	167.5	2930.7	Canachites_canadensis-ML82398.wav	D:\Andean\Phasianidae\Canachites_canadensis-ML82398.wav	1	a

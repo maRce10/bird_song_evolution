@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	87.050520299	87.176643666	4248.9	5061.8	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	1	a
+2	Spectrogram 1	1	87.417212312	87.557349388	4138.1	4914.0	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	1	a
+3	Spectrogram 1	1	87.765219383	87.907692076	3362.2	5357.3	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	1	b
+4	Spectrogram 1	1	88.026808590	88.145925104	3251.4	5024.8	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	1	c
+5	Spectrogram 1	1	88.223000495	88.374815660	2290.7	5837.7	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	1	d
+6	Spectrogram 1	1	88.442548580	88.578014420	3066.6	4914.0	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	1	e
+7	Spectrogram 1	1	88.643411721	88.781213179	2475.5	4212.0	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	1	f
+8	Spectrogram 1	1	94.015139089	94.115570659	4396.7	5098.7	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	2	a
+9	Spectrogram 1	1	94.279063914	94.426207843	4433.7	5098.7	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	2	a
+10	Spectrogram 1	1	94.622399749	94.764872442	3694.7	5616.0	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	2	g
+11	Spectrogram 1	1	94.841947833	94.947050640	3953.3	5246.5	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	2	h
+12	Spectrogram 1	1	95.049817828	95.185283668	2512.4	5098.7	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	2	d
+13	Spectrogram 1	1	95.278708385	95.407167370	2623.2	4285.9	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	2	e
+14	Spectrogram 1	1	95.463222200	95.577667479	2660.2	4359.8	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	2	f
+15	Spectrogram 1	1	97.522211273	97.620307226	4470.6	5061.8	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	3	a
+16	Spectrogram 1	1	97.893574523	98.031375980	4101.1	4987.9	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	3	a
+17	Spectrogram 1	1	98.215889796	98.349020018	3140.5	4950.9	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	3	b
+18	Spectrogram 1	1	98.416752938	98.552218777	2808.0	5246.5	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	3	c
+19	Spectrogram 1	1	98.643307876	98.769431244	2734.1	5172.6	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	3	d
+20	Spectrogram 1	1	98.848842253	98.986643710	1662.6	4433.7	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	3	e
+21	Spectrogram 1	1	99.070725956	99.199184941	2623.2	4175.0	Cettia_major-ML111500.wav	D:\Andean\Scotocercidae\Cettia_major-ML111500.wav	3	f

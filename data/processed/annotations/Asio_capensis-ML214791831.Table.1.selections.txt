@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.491236468	1.813665975	574.8	3056.7	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	1	a
+2	Spectrogram 1	1	2.156247326	2.438373144	470.3	3030.6	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	1	a
+3	Spectrogram 1	1	2.811182261	3.143687690	470.3	3187.3	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	1	a
+4	Spectrogram 1	1	3.496344963	3.838926313	470.3	3318.0	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	1	a
+5	Spectrogram 1	1	8.423470861	8.705596679	600.9	2821.6	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	2	a
+6	Spectrogram 1	1	8.977646576	9.249696472	496.4	2926.1	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	2	a
+7	Spectrogram 1	1	9.501594524	9.723264810	574.8	2978.3	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	2	a
+8	Spectrogram 1	1	10.055770238	10.297592368	574.8	3108.9	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	2	a
+9	Spectrogram 1	1	10.630097797	10.871919927	574.8	3030.6	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	2	a
+10	Spectrogram 1	1	11.204425356	11.496627096	522.5	3135.1	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	2	a
+11	Spectrogram 1	1	11.808980681	12.091106499	627.0	3187.3	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	2	a
+12	Spectrogram 1	1	12.484067460	12.756117357	522.5	3082.8	Asio_capensis-ML214791831.wav	D:\Andean\Strigidae\Asio_capensis-ML214791831.wav	2	a

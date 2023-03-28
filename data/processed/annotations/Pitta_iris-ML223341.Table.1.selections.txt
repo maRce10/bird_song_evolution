@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	136.156920235	136.336762815	1135.7	2216.1	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	1	a
+2	Spectrogram 1	1	136.390482028	136.563317754	1218.8	2410.0	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	1	a
+3	Spectrogram 1	1	136.682434268	136.757174041	1246.5	2354.6	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	1	b
+4	Spectrogram 1	1	136.789872692	136.955701565	1246.5	2437.7	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	1	a
+5	Spectrogram 1	1	142.196184678	142.390040966	1052.6	2160.7	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	2	a
+6	Spectrogram 1	1	142.453102650	142.618931522	1163.4	2465.4	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	2	a
+7	Spectrogram 1	1	142.728705564	142.812787809	1163.4	2326.9	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	2	b
+8	Spectrogram 1	1	142.843150842	143.015986569	1246.5	2465.4	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	2	a
+9	Spectrogram 1	1	149.527055261	149.720911548	1135.7	2243.8	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	3	a
+10	Spectrogram 1	1	149.793315704	149.961480194	1191.1	2382.3	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	3	a
+11	Spectrogram 1	1	150.078261090	150.157672099	1329.6	2299.2	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	3	b
+12	Spectrogram 1	1	150.197377604	150.363206477	1301.9	2548.5	Pitta_iris-ML223341.wav	D:\Andean\Pittidae\Pitta_iris-ML223341.wav	3	a

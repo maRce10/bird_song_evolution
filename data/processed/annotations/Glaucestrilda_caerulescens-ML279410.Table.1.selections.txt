@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.774436884	0.794628604	5909.6	7731.5	Glaucestrilda_caerulescens-ML279410.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Glaucestrilda_caerulescens-ML279410.wav	1	a
+2	Spectrogram 1	1	1.003888246	1.022244355	5699.4	7778.2	Glaucestrilda_caerulescens-ML279410.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Glaucestrilda_caerulescens-ML279410.wav	2	a
+3	Spectrogram 1	1	1.393037756	1.407722643	5302.3	7544.7	Glaucestrilda_caerulescens-ML279410.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Glaucestrilda_caerulescens-ML279410.wav	3	a

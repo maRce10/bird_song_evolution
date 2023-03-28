@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.608860250	7.788702830	3795.0	4598.4	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	1	a
+2	Spectrogram 1	1	7.891470018	7.945189230	3961.2	4432.2	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	1	b
+3	Spectrogram 1	1	7.963874174	8.054963273	3518.0	3988.9	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	1	c
+4	Spectrogram 1	1	8.139045518	8.199771584	4321.4	5097.0	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	1	d
+5	Spectrogram 1	1	8.244148324	8.358593603	3324.1	4432.2	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	1	e
+6	Spectrogram 1	1	8.391292254	8.489388206	3268.7	4044.3	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	1	c
+7	Spectrogram 1	1	15.262052731	15.381169245	3905.8	4875.4	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	f
+8	Spectrogram 1	1	15.568018678	15.764210584	3628.8	4653.8	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	a
+9	Spectrogram 1	1	15.876320244	15.925368220	3850.4	4543.0	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	b
+10	Spectrogram 1	1	15.939381928	16.028135409	3434.9	4072.0	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	c
+11	Spectrogram 1	1	16.067796404	16.123851234	4321.4	5401.7	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	d
+12	Spectrogram 1	1	16.170563593	16.289680107	3296.4	4321.4	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	e
+13	Spectrogram 1	1	16.331721230	16.415803475	3185.6	3988.9	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	c
+14	Spectrogram 1	1	16.448502126	16.499885720	4210.6	5401.7	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	d
+15	Spectrogram 1	1	16.541926842	16.644694031	3185.6	4238.3	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	e
+16	Spectrogram 1	1	16.749796838	16.847892790	3102.5	3988.9	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	c
+17	Spectrogram 1	1	16.948324361	17.118824469	3047.1	3711.9	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	2	g
+18	Spectrogram 1	1	20.638168287	20.815675249	3684.2	4736.9	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	3	a
+19	Spectrogram 1	1	20.916106820	20.965154796	3739.6	4376.8	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	3	b
+20	Spectrogram 1	1	20.974497268	21.056243895	3268.7	4099.7	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	3	c
+21	Spectrogram 1	1	21.098285018	21.152004230	4182.9	5152.4	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	3	d
+22	Spectrogram 1	1	21.196380970	21.308490631	3102.5	4376.8	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	3	e
+23	Spectrogram 1	1	21.350531753	21.448627706	3157.9	3850.4	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	3	c
+24	Spectrogram 1	1	21.467312649	21.516360626	4210.6	5097.0	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	3	d
+25	Spectrogram 1	1	21.560737366	21.661168937	2964.0	4404.5	Petroica_macrocephala-ML136089.wav	D:\Andean\Petroicidae\Petroica_macrocephala-ML136089.wav	3	e

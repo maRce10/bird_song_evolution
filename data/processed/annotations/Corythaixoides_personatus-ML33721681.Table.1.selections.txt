@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.298989669	1.348535607	692.5	1606.7	Corythaixoides_personatus-ML33721681.wav	E:\Andean\Musophagidae\Corythaixoides_personatus-ML33721681.wav	1	a
+2	Spectrogram 1	1	1.393126951	1.437718296	831.0	1662.1	Corythaixoides_personatus-ML33721681.wav	E:\Andean\Musophagidae\Corythaixoides_personatus-ML33721681.wav	1	a
+3	Spectrogram 1	1	1.500476484	1.566537735	720.2	1717.5	Corythaixoides_personatus-ML33721681.wav	E:\Andean\Musophagidae\Corythaixoides_personatus-ML33721681.wav	1	a
+4	Spectrogram 1	1	1.850601113	1.916662364	803.3	1772.9	Corythaixoides_personatus-ML33721681.wav	E:\Andean\Musophagidae\Corythaixoides_personatus-ML33721681.wav	2	a
+5	Spectrogram 1	1	1.976117490	2.038875678	775.6	1772.9	Corythaixoides_personatus-ML33721681.wav	E:\Andean\Musophagidae\Corythaixoides_personatus-ML33721681.wav	2	a
+6	Spectrogram 1	1	2.118149179	2.169346649	720.2	1772.9	Corythaixoides_personatus-ML33721681.wav	E:\Andean\Musophagidae\Corythaixoides_personatus-ML33721681.wav	2	a
+7	Spectrogram 1	1	6.728180448	6.759559543	498.6	1412.8	Corythaixoides_personatus-ML33721681.wav	E:\Andean\Musophagidae\Corythaixoides_personatus-ML33721681.wav	3	a
+8	Spectrogram 1	1	6.845439169	6.883424388	581.7	1523.6	Corythaixoides_personatus-ML33721681.wav	E:\Andean\Musophagidae\Corythaixoides_personatus-ML33721681.wav	3	a
+9	Spectrogram 1	1	7.023804546	7.061789765	1108.0	1883.7	Corythaixoides_personatus-ML33721681.wav	E:\Andean\Musophagidae\Corythaixoides_personatus-ML33721681.wav	3	a

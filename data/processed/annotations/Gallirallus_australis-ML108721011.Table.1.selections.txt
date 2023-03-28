@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.867517645	5.207733087	1024.9	1717.5	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	a
+2	Spectrogram 1	1	5.775859844	6.126023318	1108.0	1828.3	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	a
+3	Spectrogram 1	1	6.137701407	6.252146686	1066.5	1994.5	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	b
+4	Spectrogram 1	1	6.803112295	7.195350971	858.7	2105.3	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	a
+5	Spectrogram 1	1	7.196176737	7.279579066	1163.4	2631.6	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	b
+6	Spectrogram 1	1	7.802684198	8.176383066	1149.6	2105.3	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	a
+7	Spectrogram 1	1	8.178718684	8.288492726	1080.3	2659.3	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	b
+8	Spectrogram 1	1	8.791123268	9.164822136	1177.3	2049.9	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	a
+9	Spectrogram 1	1	9.174164607	9.283938650	1108.0	2659.3	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	b
+10	Spectrogram 1	1	9.772082795	10.099069305	1246.5	2063.7	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	a
+11	Spectrogram 1	1	10.099069305	10.227528290	1135.7	2673.1	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	b
+12	Spectrogram 1	1	10.741364233	11.091706921	1385.1	2063.7	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	a
+13	Spectrogram 1	1	11.101049393	11.217830289	1177.3	2728.5	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	b
+14	Spectrogram 1	1	11.698457823	12.058142983	1371.2	2105.3	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	a
+15	Spectrogram 1	1	12.062814219	12.153903318	1080.3	2714.7	Gallirallus_australis-ML108721011.wav	D:\Andean\Rallidae\Gallirallus_australis-ML108721011.wav	1	b

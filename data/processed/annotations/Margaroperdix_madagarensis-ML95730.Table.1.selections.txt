@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.575850136	10.636956793	581.7	2022.2	Margaroperdix_madagarensis-ML95730.wav	D:\Andean\Phasianidae\Margaroperdix_madagarensis-ML95730.wav	1	a
+2	Spectrogram 1	1	10.711275701	10.782291545	554.0	1994.5	Margaroperdix_madagarensis-ML95730.wav	D:\Andean\Phasianidae\Margaroperdix_madagarensis-ML95730.wav	2	a
+3	Spectrogram 1	1	10.859913515	10.922671703	637.1	1911.4	Margaroperdix_madagarensis-ML95730.wav	D:\Andean\Phasianidae\Margaroperdix_madagarensis-ML95730.wav	3	a

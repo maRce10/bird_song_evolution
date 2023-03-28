@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	326.641608285	326.747306286	1080.3	2049.9	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	1	a
+2	Spectrogram 1	1	326.780336912	326.935580851	914.1	1357.3	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	1	b
+3	Spectrogram 1	1	326.988429852	327.034672728	1246.5	1994.5	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	1	c
+4	Spectrogram 1	1	327.123855416	327.160189104	941.8	1662.1	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	1	d
+5	Spectrogram 1	1	327.209735042	327.401312670	941.8	1329.6	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	1	b
+6	Spectrogram 1	1	327.609405610	327.698588298	1191.1	2105.3	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	2	a
+7	Spectrogram 1	1	327.754740362	327.903378176	1024.9	1329.6	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	2	b
+8	Spectrogram 1	1	327.936408801	327.982651677	1301.9	2077.6	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	2	c
+9	Spectrogram 1	1	328.042106803	328.144501742	1108.0	2049.9	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	2	d
+10	Spectrogram 1	1	328.187441555	328.349291619	969.5	1329.6	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	2	b
+11	Spectrogram 1	1	328.540869247	328.649870310	1329.6	2188.4	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	3	a
+12	Spectrogram 1	1	328.706022374	328.857963250	969.5	1329.6	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	3	b
+13	Spectrogram 1	1	328.920721439	329.075965378	1274.2	2299.2	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	3	e
+14	Spectrogram 1	1	329.122208254	329.277452193	914.1	1357.3	Puffinus_subalaris-ML23366.wav	D:\Andean\Procellariidae\Puffinus_subalaris-ML23366.wav	3	b

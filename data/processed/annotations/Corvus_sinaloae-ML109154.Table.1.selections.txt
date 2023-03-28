@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.893707338	6.312226622	373.7	2219.0	Corvus_sinaloae-ML109154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_sinaloae-ML109154.wav	1	a
+2	Spectrogram 1	1	6.796827898	7.178634964	467.2	2172.3	Corvus_sinaloae-ML109154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_sinaloae-ML109154.wav	1	a
+3	Spectrogram 1	1	9.619454112	9.992083123	513.9	2359.2	Corvus_sinaloae-ML109154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_sinaloae-ML109154.wav	2	a
+4	Spectrogram 1	1	10.394081909	10.783231419	560.6	2452.6	Corvus_sinaloae-ML109154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_sinaloae-ML109154.wav	2	a
+5	Spectrogram 1	1	15.666247533	16.042547767	607.3	2382.5	Corvus_sinaloae-ML109154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_sinaloae-ML109154.wav	3	a
+6	Spectrogram 1	1	16.367450895	16.773120903	584.0	2522.7	Corvus_sinaloae-ML109154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_sinaloae-ML109154.wav	3	a

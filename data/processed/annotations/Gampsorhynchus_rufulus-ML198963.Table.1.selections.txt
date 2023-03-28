@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.390262700	7.432303823	554.0	1745.2	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	1	a
+2	Spectrogram 1	1	7.457995620	7.504707979	443.2	1551.3	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	1	a
+3	Spectrogram 1	1	7.551420337	7.595797078	415.5	1883.7	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	1	a
+4	Spectrogram 1	1	7.628495728	7.705571120	914.1	2437.7	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	1	b
+5	Spectrogram 1	1	7.801331455	7.831694488	858.7	2465.4	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	1	c
+6	Spectrogram 1	1	7.859721903	7.892420554	831.0	2631.6	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	1	c
+7	Spectrogram 1	1	7.920447969	7.948475384	858.7	2714.7	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	1	c
+8	Spectrogram 1	1	8.006865832	8.104961785	1024.9	2548.5	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	1	b
+9	Spectrogram 1	1	11.354381798	11.398758538	470.9	1579.0	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	2	a
+10	Spectrogram 1	1	11.419779100	11.464155840	498.6	1634.4	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	2	a
+11	Spectrogram 1	1	11.510868199	11.548238085	747.9	1856.0	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	2	a
+12	Spectrogram 1	1	11.578601118	11.667354599	831.0	2520.8	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	2	b
+13	Spectrogram 1	1	11.760779316	11.791142349	914.1	2576.2	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	2	c
+14	Spectrogram 1	1	11.816834146	11.842525944	858.7	2687.0	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	2	c
+15	Spectrogram 1	1	11.877560212	11.903252010	969.5	2742.4	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	2	c
+16	Spectrogram 1	1	11.963978076	12.059738410	914.1	2659.3	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	2	b
+17	Spectrogram 1	1	13.215869282	13.255574786	526.3	1606.7	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	3	a
+18	Spectrogram 1	1	13.285937819	13.332650178	526.3	1551.3	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	3	a
+19	Spectrogram 1	1	13.377026918	13.419068041	387.8	1911.4	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	3	a
+20	Spectrogram 1	1	13.463444781	13.547527027	941.8	2687.0	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	3	b
+21	Spectrogram 1	1	13.650294215	13.680657248	1135.7	2687.0	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	3	c
+22	Spectrogram 1	1	13.704013427	13.736712078	1191.1	2770.1	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	3	c
+23	Spectrogram 1	1	13.771746347	13.797438144	1052.6	2714.7	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	3	c
+24	Spectrogram 1	1	13.883856007	13.970273870	886.4	2631.6	Gampsorhynchus_rufulus-ML198963.wav	D:\Andean\Pellorneidae\Gampsorhynchus_rufulus-ML198963.wav	3	b

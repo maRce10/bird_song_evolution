@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.923117478	11.029582909	2125.6	5372.4	Schoenicola_striatus-ML224004651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Schoenicola_striatus-ML224004651.wav	1	a
+2	Spectrogram 1	1	11.169089337	11.339801151	1611.7	7030.8	Schoenicola_striatus-ML224004651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Schoenicola_striatus-ML224004651.wav	1	b
+3	Spectrogram 1	1	12.775007761	12.877801971	1798.6	4204.4	Schoenicola_striatus-ML224004651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Schoenicola_striatus-ML224004651.wav	2	a
+4	Spectrogram 1	1	13.010363394	13.179239596	1821.9	7147.6	Schoenicola_striatus-ML224004651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Schoenicola_striatus-ML224004651.wav	2	b
+5	Spectrogram 1	1	16.726073820	16.838046085	2102.2	5185.5	Schoenicola_striatus-ML224004651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Schoenicola_striatus-ML224004651.wav	3	a
+6	Spectrogram 1	1	16.984894956	17.155606769	1588.3	6890.6	Schoenicola_striatus-ML224004651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Schoenicola_striatus-ML224004651.wav	3	b

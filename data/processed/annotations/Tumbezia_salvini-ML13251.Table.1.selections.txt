@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	36.489890577	36.537770744	1828.8	5408.0	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	1	a
+2	Spectrogram 1	1	36.555646533	36.586199862	1828.8	4807.1	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	1	b
+3	Spectrogram 1	1	36.610972831	36.640700394	1724.3	4781.0	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	1	b
+4	Spectrogram 1	1	36.659693003	36.687769035	1802.7	4702.6	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	1	c
+5	Spectrogram 1	1	36.701807051	36.727405785	1802.7	4572.0	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	1	c
+6	Spectrogram 1	1	36.738966504	36.762913708	1828.8	4493.6	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	1	c
+7	Spectrogram 1	1	36.776951724	36.801724693	1776.5	4572.0	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	1	c
+8	Spectrogram 1	1	36.817414240	36.843012974	1828.8	4598.1	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	1	c
+10	Spectrogram 1	1	39.264417858	39.297448484	1854.9	5329.6	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	2	b
+11	Spectrogram 1	1	39.328001812	39.360206672	1698.2	4702.6	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	2	d
+12	Spectrogram 1	1	39.380850813	39.409752610	1619.8	4676.5	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	2	d
+13	Spectrogram 1	1	39.426267923	39.450215126	1698.2	4598.1	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	2	c
+14	Spectrogram 1	1	39.462601611	39.489026111	1776.5	4493.6	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	2	c
+15	Spectrogram 1	1	39.503889893	39.523708268	1750.4	4545.9	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	2	c
+16	Spectrogram 1	1	39.538572049	39.566648081	1854.9	4545.9	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	2	c
+17	Spectrogram 1	1	39.588117987	39.617845550	1802.7	4728.7	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	2	d
+18	Spectrogram 1	1	41.051303554	41.097546429	1802.7	5329.6	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	3	a
+19	Spectrogram 1	1	41.109107148	41.139660476	1776.5	4911.6	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	3	d
+20	Spectrogram 1	1	41.161130383	41.191683712	1750.4	4859.4	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	3	d
+21	Spectrogram 1	1	41.203244430	41.232146228	1698.2	4598.1	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	3	c
+22	Spectrogram 1	1	41.245358478	41.270131447	1698.2	4389.1	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	3	c
+23	Spectrogram 1	1	41.280040635	41.307290900	1619.8	4441.4	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	3	c
+24	Spectrogram 1	1	41.322154682	41.345276120	1750.4	4493.6	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	3	c
+25	Spectrogram 1	1	41.367571792	41.393170527	1881.0	4650.4	Tumbezia_salvini-ML13251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tumbezia_salvini-ML13251.wav	3	c

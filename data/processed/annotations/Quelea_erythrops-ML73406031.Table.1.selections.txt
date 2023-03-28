@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.567199626	1.655953107	2049.9	4238.3	Quelea_erythrops-ML73406031.wav	D:\Andean\Ploceidae\Quelea_erythrops-ML73406031.wav	1	a
+2	Spectrogram 1	1	5.740823787	5.815563561	2188.4	4293.7	Quelea_erythrops-ML73406031.wav	D:\Andean\Ploceidae\Quelea_erythrops-ML73406031.wav	2	a
+3	Spectrogram 1	1	6.338941137	6.437037089	1966.8	4543.0	Quelea_erythrops-ML73406031.wav	D:\Andean\Ploceidae\Quelea_erythrops-ML73406031.wav	3	a

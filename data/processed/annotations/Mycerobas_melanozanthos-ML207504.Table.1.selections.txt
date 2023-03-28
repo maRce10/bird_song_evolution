@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.314651186	0.498492328	1098.1	1691.1	Mycerobas_melanozanthos-ML207504.wav	E:\Escritorio\Cantos\Fringillidae\Mycerobas_melanozanthos-ML207504.wav	1	a
+2	Spectrogram 1	1	0.767183228	0.825517437	768.7	1757.0	Mycerobas_melanozanthos-ML207504.wav	E:\Escritorio\Cantos\Fringillidae\Mycerobas_melanozanthos-ML207504.wav	1	b
+3	Spectrogram 1	1	0.949256667	1.262140150	966.3	3470.0	Mycerobas_melanozanthos-ML207504.wav	E:\Escritorio\Cantos\Fringillidae\Mycerobas_melanozanthos-ML207504.wav	1	c
+4	Spectrogram 1	1	1.615680808	1.741187742	1295.8	1976.6	Mycerobas_melanozanthos-ML207504.wav	E:\Escritorio\Cantos\Fringillidae\Mycerobas_melanozanthos-ML207504.wav	1	d
+5	Spectrogram 1	1	1.955079877	2.225538481	1383.6	2108.4	Mycerobas_melanozanthos-ML207504.wav	E:\Escritorio\Cantos\Fringillidae\Mycerobas_melanozanthos-ML207504.wav	1	e
+6	Spectrogram 1	1	4.866592103	5.073413388	1098.1	1757.0	Mycerobas_melanozanthos-ML207504.wav	E:\Escritorio\Cantos\Fringillidae\Mycerobas_melanozanthos-ML207504.wav	2	a
+7	Spectrogram 1	1	5.286932745	5.354105470	680.8	1713.0	Mycerobas_melanozanthos-ML207504.wav	E:\Escritorio\Cantos\Fringillidae\Mycerobas_melanozanthos-ML207504.wav	2	b
+8	Spectrogram 1	1	5.461935371	5.778354260	856.5	3492.0	Mycerobas_melanozanthos-ML207504.wav	E:\Escritorio\Cantos\Fringillidae\Mycerobas_melanozanthos-ML207504.wav	2	c
+9	Spectrogram 1	1	6.140733435	6.262704962	1251.8	1976.6	Mycerobas_melanozanthos-ML207504.wav	E:\Escritorio\Cantos\Fringillidae\Mycerobas_melanozanthos-ML207504.wav	2	d
+10	Spectrogram 1	1	6.478809484	6.758106604	1361.7	2108.4	Mycerobas_melanozanthos-ML207504.wav	E:\Escritorio\Cantos\Fringillidae\Mycerobas_melanozanthos-ML207504.wav	2	e

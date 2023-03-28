@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	34.059568025	34.137189994	2068.8	6154.1	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	1	a
+2	Spectrogram 1	1	34.383268154	34.457587061	2461.6	6232.7	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	1	a
+3	Spectrogram 1	1	34.706968283	34.804408628	2383.1	6599.3	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	1	b
+4	Spectrogram 1	1	35.017037319	35.122140126	2226.0	6573.1	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	1	b
+5	Spectrogram 1	1	35.365044390	35.463140342	2226.0	6363.6	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	1	b
+6	Spectrogram 1	1	35.699037752	35.799469323	2173.6	6468.3	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	1	b
+7	Spectrogram 1	1	36.033031115	36.121784596	2671.1	6049.3	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	1	c
+8	Spectrogram 1	1	45.152563372	45.236645617	2330.7	5787.5	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	2	a
+9	Spectrogram 1	1	45.563632126	45.673406168	2199.8	6258.8	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	2	b
+10	Spectrogram 1	1	45.953680319	46.054111890	2252.1	6285.0	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	2	b
+11	Spectrogram 1	1	46.306358625	46.409125814	2278.3	6416.0	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	2	b
+12	Spectrogram 1	1	46.624002663	46.724434233	2278.3	6285.0	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	2	b
+13	Spectrogram 1	1	46.915954903	47.004708384	2383.1	6258.8	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	2	a
+14	Spectrogram 1	1	47.226592086	47.320016803	2304.5	6154.1	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	2	a
+15	Spectrogram 1	1	57.902365105	57.986447350	2226.0	5708.9	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	3	a
+16	Spectrogram 1	1	58.357810600	58.441892845	2252.1	5997.0	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	3	a
+17	Spectrogram 1	1	58.701146434	58.792235533	2147.4	6416.0	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	3	b
+18	Spectrogram 1	1	59.021126090	59.121557660	2356.9	6573.1	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	3	b
+19	Spectrogram 1	1	59.579185758	59.672610474	2383.1	6049.3	Phylloscopus_canariensis-ML77751551.wav	D:\Andean\Phylloscopidae\Phylloscopus_canariensis-ML77751551.wav	3	a

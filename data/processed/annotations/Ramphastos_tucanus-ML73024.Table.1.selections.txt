@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.544218320	4.682946947	1163.4	1662.1	Ramphastos_tucanus-ML73024.wav	D:\Andean\Ramphastidae\Ramphastos_tucanus-ML73024.wav	1	a
+2	Spectrogram 1	1	5.099132827	5.251073704	1080.3	1662.1	Ramphastos_tucanus-ML73024.wav	D:\Andean\Ramphastidae\Ramphastos_tucanus-ML73024.wav	1	a
+3	Spectrogram 1	1	6.446782344	6.625147721	1108.0	1662.1	Ramphastos_tucanus-ML73024.wav	D:\Andean\Ramphastidae\Ramphastos_tucanus-ML73024.wav	2	a
+4	Spectrogram 1	1	9.023171127	9.175112004	1218.8	1745.2	Ramphastos_tucanus-ML73024.wav	D:\Andean\Ramphastidae\Ramphastos_tucanus-ML73024.wav	3	a
+5	Spectrogram 1	1	9.531842758	9.690389760	1080.3	1745.2	Ramphastos_tucanus-ML73024.wav	D:\Andean\Ramphastidae\Ramphastos_tucanus-ML73024.wav	3	a

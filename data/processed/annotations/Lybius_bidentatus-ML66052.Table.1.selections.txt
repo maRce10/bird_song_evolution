@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.468275733	37.944310968	420.4	3550.4	Lybius_bidentatus-ML66052.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Lybiidae\Lybiidae\Lybius_bidentatus-ML66052.wav	1	a

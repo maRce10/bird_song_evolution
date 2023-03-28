@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	28.388625871	28.542817186	1681.8	6400.1	Prionochilus_maculatus-ML168882.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Prionochilus_maculatus-ML168882.wav	1	a
+2	Spectrogram 1	1	28.612570400	28.697008502	1821.9	7427.9	Prionochilus_maculatus-ML168882.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Prionochilus_maculatus-ML168882.wav	1	b
+3	Spectrogram 1	1	62.978771539	63.123784800	1354.8	6073.1	Prionochilus_maculatus-ML168882.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Prionochilus_maculatus-ML168882.wav	2	a
+4	Spectrogram 1	1	63.233921453	63.325701998	1588.3	7684.8	Prionochilus_maculatus-ML168882.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Prionochilus_maculatus-ML168882.wav	2	b
+5	Spectrogram 1	1	70.992068936	71.140753419	1635.1	6143.2	Prionochilus_maculatus-ML168882.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Prionochilus_maculatus-ML168882.wav	3	a
+6	Spectrogram 1	1	71.245383240	71.359191115	1588.3	7801.6	Prionochilus_maculatus-ML168882.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Prionochilus_maculatus-ML168882.wav	3	b

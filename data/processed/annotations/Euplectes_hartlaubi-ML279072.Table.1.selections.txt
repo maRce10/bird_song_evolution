@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.314618892	1.565651645	1021.3	1911.7	Euplectes_hartlaubi-ML279072.wav	D:\Andean\Ploceidae\Euplectes_hartlaubi-ML279072.wav	1	a
+2	Spectrogram 1	1	5.278293941	5.529326695	995.1	1937.9	Euplectes_hartlaubi-ML279072.wav	D:\Andean\Ploceidae\Euplectes_hartlaubi-ML279072.wav	2	a
+3	Spectrogram 1	1	8.039654226	8.402991106	1047.5	2173.6	Euplectes_hartlaubi-ML279072.wav	D:\Andean\Ploceidae\Euplectes_hartlaubi-ML279072.wav	3	a

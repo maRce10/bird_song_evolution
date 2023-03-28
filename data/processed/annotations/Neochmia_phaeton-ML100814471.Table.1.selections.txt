@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	32.083902975	32.148149357	1471.500	6400.106	Neochmia_phaeton-ML100814471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Neochmia_phaeton-ML100814471.wav	1	a
+2	Spectrogram 1	1	32.434504656	32.504257870	1317.700	6259.958	Neochmia_phaeton-ML100814471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Neochmia_phaeton-ML100814471.wav	2	a
+3	Spectrogram 1	1	32.777763893	32.852157908	1317.700	6213.242	Neochmia_phaeton-ML100814471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Neochmia_phaeton-ML100814471.wav	3	a

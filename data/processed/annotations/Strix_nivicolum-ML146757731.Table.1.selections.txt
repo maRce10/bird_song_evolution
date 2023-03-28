@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	96.018108726	96.511491628	221.6	886.4	Strix_nivicolum-ML146757731.wav	D:\Andean\Strigidae\Strix_nivicolum-ML146757731.wav	1	a
+2	Spectrogram 1	1	115.913104573	116.366483455	193.9	831.0	Strix_nivicolum-ML146757731.wav	D:\Andean\Strigidae\Strix_nivicolum-ML146757731.wav	2	a
+3	Spectrogram 1	1	131.607420310	132.074133866	221.6	803.3	Strix_nivicolum-ML146757731.wav	D:\Andean\Strigidae\Strix_nivicolum-ML146757731.wav	3	a

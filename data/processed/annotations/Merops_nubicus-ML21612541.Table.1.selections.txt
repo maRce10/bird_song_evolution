@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.040617735	1.074961286	879.5	3141.0	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	1	a
+2	Spectrogram 1	1	1.389136670	1.432448412	910.9	3109.6	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	1	a
+3	Spectrogram 1	1	1.707323262	1.753283548	816.7	3109.6	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	1	a
+4	Spectrogram 1	1	1.892932108	1.981317272	722.4	3392.3	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	1	b
+5	Spectrogram 1	1	2.235866405	2.272988174	848.1	3141.0	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	1	a
+6	Spectrogram 1	1	2.419707547	2.453293910	691.0	3141.0	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	1	a
+7	Spectrogram 1	1	2.600013283	2.638902755	848.1	3141.0	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	1	a
+8	Spectrogram 1	1	3.000371677	3.033958039	848.1	3580.8	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	1	a
+9	Spectrogram 1	1	9.062392008	9.088907558	848.1	3141.0	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	2	a
+10	Spectrogram 1	1	9.377043194	9.410629557	879.5	3141.0	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	2	a
+11	Spectrogram 1	1	9.702300600	9.739422369	753.8	3109.6	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	2	a
+12	Spectrogram 1	1	18.507133830	18.537184786	910.9	3109.6	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	3	a
+13	Spectrogram 1	1	18.961433575	18.996787641	848.1	3078.2	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	3	a
+14	Spectrogram 1	1	19.244266102	19.279620168	879.5	3141.0	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	3	a
+15	Spectrogram 1	1	19.477602936	19.512957002	848.1	3078.2	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	3	a
+16	Spectrogram 1	1	19.772809386	19.808163452	879.5	3015.4	Merops_nubicus-ML21612541.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicus-ML21612541.wav	3	a

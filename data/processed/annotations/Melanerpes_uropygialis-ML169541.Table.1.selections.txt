@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.802380538	9.077983453	1021.3	3221.1	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	1	a
+2	Spectrogram 1	1	9.657216698	9.970189499	916.6	3221.1	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	1	a
+3	Spectrogram 1	1	10.554093980	10.834368130	864.2	3194.9	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	1	a
+4	Spectrogram 1	1	26.064073716	26.370039664	864.2	3090.1	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	2	a
+5	Spectrogram 1	1	26.937594819	27.238889531	890.4	3116.3	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	2	a
+6	Spectrogram 1	1	28.115585483	28.412208959	838.0	3168.7	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	2	a
+7	Spectrogram 1	1	28.996113439	29.290401297	864.2	3142.5	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	2	a
+8	Spectrogram 1	1	30.048709746	30.331319515	864.2	3168.7	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	2	a
+9	Spectrogram 1	1	46.434054342	46.730677818	1047.5	3273.5	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	3	a
+10	Spectrogram 1	1	47.312246681	47.587849596	942.8	3221.1	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	3	a
+11	Spectrogram 1	1	48.153069133	48.447356991	916.6	3247.3	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	3	a
+12	Spectrogram 1	1	48.985646845	49.275263467	838.0	3194.9	Melanerpes_uropygialis-ML169541.wav	D:\Andean\Picidae\Melanerpes_uropygialis-ML169541.wav	3	a

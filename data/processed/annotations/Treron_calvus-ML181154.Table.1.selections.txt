@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.282661368	16.910319398	941.4	1635.1	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	a
+2	Spectrogram 1	1	17.235238329	17.313190628	693.7	1585.6	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	b
+3	Spectrogram 1	1	17.350601244	17.664710688	792.8	1783.8	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	c
+4	Spectrogram 1	1	17.798558573	17.882770137	693.7	1569.1	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	b
+5	Spectrogram 1	1	17.947668783	18.326676873	776.3	1717.7	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	c
+6	Spectrogram 1	1	18.470744473	18.555120105	743.2	1552.6	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	b
+7	Spectrogram 1	1	18.800429592	19.501334964	726.7	2361.9	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	d
+8	Spectrogram 1	1	19.960045696	20.146953795	627.6	2295.8	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	e
+9	Spectrogram 1	1	20.494810535	20.777768630	627.6	2345.4	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	e
+10	Spectrogram 1	1	21.042555103	21.400795627	627.6	2394.9	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	e
+11	Spectrogram 1	1	21.707117234	21.961519924	644.1	2345.4	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	e
+12	Spectrogram 1	1	22.293029311	22.560411730	693.7	2345.4	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	e
+13	Spectrogram 1	1	23.056237382	23.274296831	611.1	2262.8	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	1	e
+14	Spectrogram 1	1	62.615626799	64.020033489	842.3	1552.6	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	a
+15	Spectrogram 1	1	64.318791898	64.422629731	693.7	1569.1	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	b
+16	Spectrogram 1	1	64.451185135	64.723759446	858.9	1684.7	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	c
+17	Spectrogram 1	1	64.827597279	64.915859437	693.7	1436.9	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	b
+18	Spectrogram 1	1	64.991141866	65.292271581	776.3	1750.8	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	c
+19	Spectrogram 1	1	65.401301306	65.494755355	677.2	1354.4	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	b
+20	Spectrogram 1	1	65.781060553	66.526097004	561.6	1998.5	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	d
+21	Spectrogram 1	1	66.711627247	67.158129928	710.2	2048.1	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	f
+22	Spectrogram 1	1	67.308694786	67.563097477	611.1	2081.1	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	e
+23	Spectrogram 1	1	67.737025847	68.009600158	644.1	2048.1	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	e
+24	Spectrogram 1	1	68.177491034	68.429297778	578.1	2081.1	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	e
+25	Spectrogram 1	1	68.616205878	68.829073435	528.5	1998.5	Treron_calvus-ML181154.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_calvus-ML181154.wav	2	e

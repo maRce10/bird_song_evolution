@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.416185880	0.620975758	627.0	2037.8	Aramides_cajaneus-ML209819.wav	D:\Andean\Rallidae\Aramides_cajaneus-ML209819.wav	1	a
+2	Spectrogram 1	1	0.928160574	1.189102515	862.1	1567.5	Aramides_cajaneus-ML209819.wav	D:\Andean\Rallidae\Aramides_cajaneus-ML209819.wav	1	b
+3	Spectrogram 1	1	1.595379208	1.823290523	627.0	2063.9	Aramides_cajaneus-ML209819.wav	D:\Andean\Rallidae\Aramides_cajaneus-ML209819.wav	2	a
+4	Spectrogram 1	1	2.110656964	2.358386655	914.4	1541.4	Aramides_cajaneus-ML209819.wav	D:\Andean\Rallidae\Aramides_cajaneus-ML209819.wav	2	b
+5	Spectrogram 1	1	2.767966410	2.976059350	627.0	2011.7	Aramides_cajaneus-ML209819.wav	D:\Andean\Rallidae\Aramides_cajaneus-ML209819.wav	3	a
+6	Spectrogram 1	1	3.276638041	3.547489170	888.3	1593.7	Aramides_cajaneus-ML209819.wav	D:\Andean\Rallidae\Aramides_cajaneus-ML209819.wav	3	b

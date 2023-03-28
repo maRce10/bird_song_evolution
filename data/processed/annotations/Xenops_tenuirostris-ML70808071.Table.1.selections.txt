@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.104995745	5.168633063	2711.6	7686.8	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	1	a
+2	Spectrogram 1	1	5.377222052	5.497425875	2294.4	7664.8	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	1	b
+3	Spectrogram 1	1	5.691873237	5.822683281	2205.0	7389.7	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	1	b
+4	Spectrogram 1	1	6.027736863	6.176223939	2115.6	7389.7	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	1	b
+5	Spectrogram 1	1	6.423702400	6.540370817	2085.8	7598.3	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	1	c
+6	Spectrogram 1	1	8.433363762	8.497001081	2175.2	7985.7	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	2	a
+7	Spectrogram 1	1	8.680842223	8.808116860	2205.0	7955.9	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	2	b
+8	Spectrogram 1	1	8.981351783	9.122768046	2145.4	7628.1	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	2	b
+9	Spectrogram 1	1	9.327821628	9.465702484	2026.2	7747.3	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	2	b
+10	Spectrogram 1	1	12.200840632	12.278619577	2175.2	7419.5	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	3	a
+11	Spectrogram 1	1	12.458925313	12.579129137	2264.6	7359.9	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	3	b
+12	Spectrogram 1	1	12.755899466	12.893780323	2145.4	7330.1	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	3	b
+13	Spectrogram 1	1	13.081156871	13.229643948	2145.4	7508.9	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	3	b
+14	Spectrogram 1	1	13.462980782	13.572578386	2145.4	7568.5	Xenops_tenuirostris-ML70808071.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_tenuirostris-ML70808071.wav	3	c

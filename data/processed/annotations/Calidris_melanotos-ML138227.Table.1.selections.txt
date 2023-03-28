@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	91.718460506	91.881953761	1254.0	3579.2	Calidris_melanotos-ML138227.wav	D:\Andean\Scolopacidae\Calidris_melanotos-ML138227.wav	1	a
+2	Spectrogram 1	1	94.259612805	94.399749880	1201.8	3918.8	Calidris_melanotos-ML138227.wav	D:\Andean\Scolopacidae\Calidris_melanotos-ML138227.wav	2	a
+3	Spectrogram 1	1	95.833819284	95.983298831	1410.8	4284.6	Calidris_melanotos-ML138227.wav	D:\Andean\Scolopacidae\Calidris_melanotos-ML138227.wav	3	a

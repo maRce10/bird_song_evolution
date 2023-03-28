@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.064458369	2.109965497	8412.400	10763.700	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	1	a
+2	Spectrogram 1	1	2.228067423	2.258405508	2508.100	10293.500	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	1	b
+3	Spectrogram 1	1	2.500026690	2.593207953	6844.900	9927.700	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	1	c
+4	Spectrogram 1	1	2.771898672	2.868330444	5747.600	10084.500	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	1	d
+5	Spectrogram 1	1	3.108982977	3.191214355	6217.900	8882.700	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	1	e
+6	Spectrogram 1	1	6.665427108	6.701334683	8882.700	11083.513	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	2	a
+7	Spectrogram 1	1	6.765691481	6.797869880	2508.100	9228.595	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	2	b
+8	Spectrogram 1	1	6.843839022	6.871420507	1933.300	9333.098	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	2	b
+9	Spectrogram 1	1	7.010860236	7.051885426	2801.700	9176.344	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	2	b
+10	Spectrogram 1	1	7.064490901	7.138041528	7106.200	8412.400	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	2	f
+11	Spectrogram 1	1	7.320385789	7.410791768	7471.900	8621.400	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	2	f
+12	Spectrogram 1	1	7.602329757	7.675880383	7315.200	8621.400	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	2	f
+13	Spectrogram 1	1	7.894061657	7.922137689	3585.468	10430.373	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	2	b
+14	Spectrogram 1	1	7.924113747	7.996132069	7210.700	7994.400	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	2	f
+15	Spectrogram 1	1	8.278042678	8.359288287	6981.795	9196.200	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	2	d
+16	Spectrogram 1	1	11.237692327	11.260676898	7471.900	10273.619	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	3	a
+17	Spectrogram 1	1	11.318904477	11.346485962	1828.791	9620.479	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	3	b
+18	Spectrogram 1	1	11.404713541	11.427698112	2142.300	9385.349	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	3	b
+19	Spectrogram 1	1	11.554879403	11.663673038	6096.283	8978.162	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	3	g
+20	Spectrogram 1	1	11.885857223	11.982392420	7158.400	9823.200	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	3	c
+21	Spectrogram 1	1	12.256674873	12.354742466	6635.900	9771.000	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	3	c
+22	Spectrogram 1	1	15.964556530	15.995202625	8569.200	12229.512	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	4	a
+23	Spectrogram 1	1	16.087140908	16.120851611	1440.940	11305.833	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	4	b
+24	Spectrogram 1	1	16.162223839	16.192869933	2508.100	11416.675	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	4	b
+25	Spectrogram 1	1	17.549737394	17.588948031	7648.064	11121.097	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	5	h
+26	Spectrogram 1	1	17.625723344	17.656369438	2142.300	13818.241	Tachyphonus_surinamus-ML77458831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_surinamus-ML77458831.wav	5	b

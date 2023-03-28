@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.347550956	2.389592078	2659.3	3656.5	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	1	a
+2	Spectrogram 1	1	2.536736007	2.578777130	2576.2	3601.1	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	1	a
+3	Spectrogram 1	1	2.683879936	2.737599149	2659.3	3767.3	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	1	a
+4	Spectrogram 1	1	2.831023865	2.873064988	2603.9	3905.8	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	1	a
+5	Spectrogram 1	1	3.083270601	3.125311724	2714.7	3157.9	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	2	b
+6	Spectrogram 1	1	3.223288984	3.270001342	2770.1	3822.7	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	2	a
+7	Spectrogram 1	1	3.358754823	3.391453474	2770.1	3988.9	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	2	a
+8	Spectrogram 1	1	3.498891899	3.540933021	2687.0	3933.5	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	2	a
+9	Spectrogram 1	1	3.611001559	3.650707064	2797.8	4016.6	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	2	a
+10	Spectrogram 1	1	3.825878408	3.865583912	2631.6	3739.6	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	3	a
+11	Spectrogram 1	1	3.947330540	3.987036044	2631.6	4127.4	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	3	a
+12	Spectrogram 1	1	4.054768964	4.101481323	2908.6	4266.0	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	3	a
+13	Spectrogram 1	1	4.199577275	4.241618398	2493.1	3850.4	Poliocephalus_rufopectus-ML112954051.wav	D:\Andean\Podicipedidae\Poliocephalus_rufopectus-ML112954051.wav	3	a

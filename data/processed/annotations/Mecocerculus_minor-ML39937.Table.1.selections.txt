@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.445389026	7.553900618	1254.0	5355.7	Mecocerculus_minor-ML39937.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_minor-ML39937.wav	1	a
+2	Spectrogram 1	1	7.664878383	7.770923803	1071.1	5120.6	Mecocerculus_minor-ML39937.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_minor-ML39937.wav	1	b
+3	Spectrogram 1	1	7.886833913	7.987946988	888.3	5329.6	Mecocerculus_minor-ML39937.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_minor-ML39937.wav	1	c
+4	Spectrogram 1	1	8.103857098	8.195105483	1358.5	4441.4	Mecocerculus_minor-ML39937.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_minor-ML39937.wav	1	d
+5	Spectrogram 1	1	16.844944044	16.939891687	1515.3	5538.6	Mecocerculus_minor-ML39937.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_minor-ML39937.wav	2	a
+6	Spectrogram 1	1	17.070143104	17.169245735	1410.8	5277.4	Mecocerculus_minor-ML39937.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_minor-ML39937.wav	2	c
+7	Spectrogram 1	1	17.296253621	17.397366696	1410.8	4702.6	Mecocerculus_minor-ML39937.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_minor-ML39937.wav	2	d

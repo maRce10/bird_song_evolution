@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.344111842	18.420082280	720.2	1329.6	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	1	a
+2	Spectrogram 1	1	18.434946062	18.628175221	1024.9	1828.3	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	1	b
+3	Spectrogram 1	1	18.915541662	18.966739131	637.1	1440.5	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	1	a
+4	Spectrogram 1	1	19.004724350	19.169877477	1135.7	1939.1	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	1	b
+5	Spectrogram 1	1	20.982490423	21.060112392	692.5	1440.5	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	2	a
+6	Spectrogram 1	1	21.073324643	21.259947676	969.5	2049.9	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	2	b
+7	Spectrogram 1	1	21.562177899	21.626587618	858.7	1440.5	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	2	a
+8	Spectrogram 1	1	21.646405994	21.823119839	1080.3	1966.8	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	2	b
+9	Spectrogram 1	1	23.912333029	24.003167248	803.3	1357.3	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	3	a
+10	Spectrogram 1	1	24.011424905	24.188138751	1080.3	1883.7	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	3	b
+11	Spectrogram 1	1	24.505232755	24.576248599	914.1	1495.9	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	3	a
+12	Spectrogram 1	1	24.601021568	24.781038477	1052.6	1883.7	Pitta_megarhyncha-ML52525881.wav	D:\Andean\Pittidae\Pitta_megarhyncha-ML52525881.wav	3	b

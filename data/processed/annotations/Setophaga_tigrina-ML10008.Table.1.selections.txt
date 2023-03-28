@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.425174257	29.669600885	7700.9	9113.6	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	1	a
+2	Spectrogram 1	1	29.732359073	29.980088764	7700.9	9529.1	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	1	a
+3	Spectrogram 1	1	30.029634702	30.303788893	7700.9	9418.3	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	1	a
+4	Spectrogram 1	1	30.366547081	30.624185959	7562.4	9252.1	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	1	a
+5	Spectrogram 1	1	36.872980050	37.090982177	7617.8	9002.8	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	2	a
+6	Spectrogram 1	1	37.157043428	37.411379244	7590.1	9224.4	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	2	a
+7	Spectrogram 1	1	37.470834370	37.735079373	7534.7	9141.3	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	2	a
+8	Spectrogram 1	1	37.787928374	38.055476439	7534.7	9224.4	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	2	a
+9	Spectrogram 1	1	44.745856255	44.983676758	7562.4	8781.2	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	3	a
+10	Spectrogram 1	1	45.053041071	45.304073824	7590.1	9030.5	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	3	a
+11	Spectrogram 1	1	45.366832013	45.627773953	7507.0	9224.4	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	3	a
+12	Spectrogram 1	1	45.680622954	45.944867957	7590.1	9169.0	Setophaga_tigrina-ML10008.wav	D:\Andean\Parulidae\Setophaga_tigrina-ML10008.wav	3	a

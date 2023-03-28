@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.816151706	13.883884625	653.1	2351.3	Aramides_axillaris-ML2793.wav	D:\Andean\Rallidae\Aramides_axillaris-ML2793.wav	1	a
+2	Spectrogram 1	1	14.227220460	14.299624615	731.5	2481.9	Aramides_axillaris-ML2793.wav	D:\Andean\Rallidae\Aramides_axillaris-ML2793.wav	2	a
+3	Spectrogram 1	1	14.624275507	14.689672808	731.5	2299.1	Aramides_axillaris-ML2793.wav	D:\Andean\Rallidae\Aramides_axillaris-ML2793.wav	3	a

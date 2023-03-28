@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.814202007	1.038107559	1240.7	8233.5	Haematopus_moquini-ML278670.wav	C:\Users\Carlos PC\Desktop\Marcelo\Haematopodidae\Haematopus_moquini-ML278670.wav	1	a
+2	Spectrogram 1	1	1.292545686	1.536806289	1804.6	8459.1	Haematopus_moquini-ML278670.wav	C:\Users\Carlos PC\Desktop\Marcelo\Haematopodidae\Haematopus_moquini-ML278670.wav	2	a

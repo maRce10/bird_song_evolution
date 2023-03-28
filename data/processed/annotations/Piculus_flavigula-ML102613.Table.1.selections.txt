@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	154.410974525	156.339963049	942.8	1833.1	Piculus_flavigula-ML102613.wav	D:\Andean\Picidae\Piculus_flavigula-ML102613.wav	1	a

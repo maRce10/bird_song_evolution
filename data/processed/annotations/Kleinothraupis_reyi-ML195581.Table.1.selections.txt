@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	50.353823170	50.424842597	6278.000	9985.900	Kleinothraupis_reyi-ML195581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Kleinothraupis_reyi-ML195581.wav	1	a
+2	Spectrogram 1	1	51.947559702	51.981378477	6055.500	9862.300	Kleinothraupis_reyi-ML195581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Kleinothraupis_reyi-ML195581.wav	2	b
+3	Spectrogram 1	1	56.079796972	56.147434522	6080.200	10505.000	Kleinothraupis_reyi-ML195581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Kleinothraupis_reyi-ML195581.wav	3	a
+4	Spectrogram 1	1	72.057973065	72.112083105	6154.400	9318.500	Kleinothraupis_reyi-ML195581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Kleinothraupis_reyi-ML195581.wav	4	c
+5	Spectrogram 1	1	86.072460846	86.106279621	6722.900	10109.500	Kleinothraupis_reyi-ML195581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Kleinothraupis_reyi-ML195581.wav	5	a

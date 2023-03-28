@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.189270439	7.463790011	3480.3	4040.9	Pericrocotus_brevirostris-ML175380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_brevirostris-ML175380.wav	1	a
+2	Spectrogram 1	1	8.419524814	8.755048734	3340.2	4017.6	Pericrocotus_brevirostris-ML175380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_brevirostris-ML175380.wav	1	a
+3	Spectrogram 1	1	10.371663987	10.758024865	3223.4	4017.6	Pericrocotus_brevirostris-ML175380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_brevirostris-ML175380.wav	2	a
+4	Spectrogram 1	1	11.734094451	12.028948805	3363.6	4087.7	Pericrocotus_brevirostris-ML175380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_brevirostris-ML175380.wav	2	a
+5	Spectrogram 1	1	13.350709703	13.696401015	3340.2	4017.6	Pericrocotus_brevirostris-ML175380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_brevirostris-ML175380.wav	3	a
+6	Spectrogram 1	1	14.713140168	15.068998871	3410.3	4040.9	Pericrocotus_brevirostris-ML175380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_brevirostris-ML175380.wav	3	a

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.235726431	11.433219318	711.3	1524.2	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	1	a
+2	Spectrogram 1	1	11.436137051	11.547502358	720.6	2260.9	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	1	b
+3	Spectrogram 1	1	11.549270061	11.639422929	720.6	1194.0	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	1	c
+4	Spectrogram 1	1	11.651796852	11.706595654	812.9	2794.4	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	1	d
+5	Spectrogram 1	1	11.710131061	11.848011918	1041.5	5385.5	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	1	e
+6	Spectrogram 1	1	11.853204193	12.413184026	1041.5	5563.3	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	1	f
+7	Spectrogram 1	1	23.075768642	23.264511844	711.3	1575.0	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	2	a
+8	Spectrogram 1	1	23.269511664	23.392807186	812.9	2233.8	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	2	b
+9	Spectrogram 1	1	23.397007073	23.497003472	828.7	1261.0	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	2	c
+10	Spectrogram 1	1	23.498947177	23.553745979	972.8	2954.4	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	2	d
+11	Spectrogram 1	1	23.557281385	23.695162242	1044.9	6413.2	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	2	e
+12	Spectrogram 1	1	23.698697649	24.243150262	1008.8	5548.5	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	2	f
+13	Spectrogram 1	1	35.092753835	35.278362681	576.5	1621.3	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	3	a
+14	Spectrogram 1	1	35.280905195	35.399341316	576.5	2197.8	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	3	b
+15	Spectrogram 1	1	35.402876723	35.501868107	756.6	1477.2	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	3	c
+16	Spectrogram 1	1	35.510706623	35.561970019	900.7	2846.3	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	3	d
+17	Spectrogram 1	1	35.565505425	35.698083172	1044.9	6305.1	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	3	e
+18	Spectrogram 1	1	35.701618579	36.191272390	1116.9	6341.2	Agelaius_phoeniceus-ML100740.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_phoeniceus-ML100740.wav	3	f

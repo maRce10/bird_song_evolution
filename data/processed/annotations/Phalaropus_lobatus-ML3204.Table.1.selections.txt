@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.126497705	5.162699783	692.5	4820.0	Phalaropus_lobatus-ML3204.wav	D:\Andean\Scolopacidae\Phalaropus_lobatus-ML3204.wav	1	a
+2	Spectrogram 1	1	5.521217134	5.532895223	1080.3	3878.1	Phalaropus_lobatus-ML3204.wav	D:\Andean\Scolopacidae\Phalaropus_lobatus-ML3204.wav	1	b
+3	Spectrogram 1	1	6.648167983	6.669188544	1024.9	4930.8	Phalaropus_lobatus-ML3204.wav	D:\Andean\Scolopacidae\Phalaropus_lobatus-ML3204.wav	2	a
+4	Spectrogram 1	1	7.242947943	7.268639740	1052.6	4903.1	Phalaropus_lobatus-ML3204.wav	D:\Andean\Scolopacidae\Phalaropus_lobatus-ML3204.wav	2	a
+5	Spectrogram 1	1	8.852563849	8.878255646	1191.1	4958.5	Phalaropus_lobatus-ML3204.wav	D:\Andean\Scolopacidae\Phalaropus_lobatus-ML3204.wav	3	a
+6	Spectrogram 1	1	9.111817438	9.131670190	1080.3	4543.0	Phalaropus_lobatus-ML3204.wav	D:\Andean\Scolopacidae\Phalaropus_lobatus-ML3204.wav	3	a

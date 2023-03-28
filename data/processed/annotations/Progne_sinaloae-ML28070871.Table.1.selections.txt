@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	36.287591636	36.523746591	1353.5	8571.9	Progne_sinaloae-ML28070871.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_sinaloae-ML28070871.wav	1	a
+2	Spectrogram 1	1	45.827065197	46.084057354	1748.2	9756.1	Progne_sinaloae-ML28070871.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_sinaloae-ML28070871.wav	2	a
+3	Spectrogram 1	1	52.864191993	53.148967086	1409.8	7951.5	Progne_sinaloae-ML28070871.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_sinaloae-ML28070871.wav	3	a

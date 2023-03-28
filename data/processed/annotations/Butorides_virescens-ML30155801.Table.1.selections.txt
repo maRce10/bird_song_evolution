@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.108172079	2.716306211	271.9	1532.6	Butorides_virescens-ML30155801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Butorides_virescens-ML30155801.wav	1	a
+2	Spectrogram 1	1	4.353978763	4.997572611	321.4	1507.9	Butorides_virescens-ML30155801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Butorides_virescens-ML30155801.wav	2	a
+3	Spectrogram 1	1	6.646733580	7.357700889	296.6	1483.2	Butorides_virescens-ML30155801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Butorides_virescens-ML30155801.wav	3	a

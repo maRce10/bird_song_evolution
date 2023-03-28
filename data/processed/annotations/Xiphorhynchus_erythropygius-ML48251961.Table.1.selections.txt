@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.392950193	1.962150653	1251.8	2833.1	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	1	a
+2	Spectrogram 1	1	3.210149177	3.846522361	1164.0	2459.8	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	1	b
+3	Spectrogram 1	1	4.893759327	5.512455479	1251.8	2174.3	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	1	c
+4	Spectrogram 1	1	6.583683673	7.216521452	1054.2	2284.1	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	1	d
+5	Spectrogram 1	1	22.345556172	22.879402566	1186.0	2899.0	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	2	a
+6	Spectrogram 1	1	24.120330277	24.746097242	1098.1	2481.7	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	2	b
+7	Spectrogram 1	1	25.779812941	26.419721532	1164.0	2284.1	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	2	c
+8	Spectrogram 1	1	27.462666474	28.088433439	1142.0	2240.1	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	2	d
+9	Spectrogram 1	1	46.325253769	46.912131262	1186.0	2899.0	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	3	a
+10	Spectrogram 1	1	48.085886247	48.785896751	1120.1	2415.8	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	3	b
+11	Spectrogram 1	1	49.815564716	50.497898187	1142.0	2218.2	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	3	c
+12	Spectrogram 1	1	51.530236909	52.201964159	1120.1	2064.4	Xiphorhynchus_erythropygius-ML48251961.wav	E:\Escritorio\Cantos\Furnariidae\Xiphorhynchus_erythropygius-ML48251961.wav	3	d

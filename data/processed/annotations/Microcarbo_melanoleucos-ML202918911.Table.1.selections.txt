@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.709671872	7.000341375	1246.5	2326.9	Microcarbo_melanoleucos-ML202918911.wav	D:\Andean\Phalacrocoracidae\Microcarbo_melanoleucos-ML202918911.wav	1	a
+2	Spectrogram 1	1	7.231555753	7.495800757	1163.4	2299.2	Microcarbo_melanoleucos-ML202918911.wav	D:\Andean\Phalacrocoracidae\Microcarbo_melanoleucos-ML202918911.wav	2	a
+3	Spectrogram 1	1	7.793076385	8.057321389	1191.1	2382.3	Microcarbo_melanoleucos-ML202918911.wav	D:\Andean\Phalacrocoracidae\Microcarbo_melanoleucos-ML202918911.wav	3	a

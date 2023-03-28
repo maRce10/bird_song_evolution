@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.078714175	9.307604732	2825.5	7479.3	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	1	a
+2	Spectrogram 1	1	9.396358213	9.590214500	2936.3	7617.8	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	1	a
+3	Spectrogram 1	1	9.716337868	9.746700901	4238.3	5152.4	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	1	b
+4	Spectrogram 1	1	9.739694047	10.031646287	2880.9	4099.7	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	1	c
+5	Spectrogram 1	1	10.099379207	10.281557405	2825.5	7534.7	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	1	a
+6	Spectrogram 1	1	10.384324594	10.589858971	2687.0	7396.2	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	1	a
+7	Spectrogram 1	1	14.421481731	14.638694198	2742.4	7534.7	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	2	a
+8	Spectrogram 1	1	14.729783297	14.956338235	2714.7	7784.0	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	2	a
+9	Spectrogram 1	1	15.047427334	15.077790367	4072.0	5207.8	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	2	b
+10	Spectrogram 1	1	15.073119131	15.362735753	3130.2	4072.0	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	2	c
+11	Spectrogram 1	1	15.435139909	15.643009904	2603.9	7673.2	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	2	a
+12	Spectrogram 1	1	15.729427767	15.941968998	2770.1	7756.3	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	2	a
+13	Spectrogram 1	1	19.413051923	19.637271243	2659.3	7811.7	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	3	a
+14	Spectrogram 1	1	19.726024724	19.943237191	2382.3	7756.3	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	3	a
+15	Spectrogram 1	1	20.041333143	20.069360559	3878.1	4930.8	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	3	b
+16	Spectrogram 1	1	20.069360559	20.321607294	3213.3	4016.6	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	3	c
+17	Spectrogram 1	1	20.396347068	20.590203355	2659.3	7534.7	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	3	a
+18	Spectrogram 1	1	20.692970544	20.907847392	2797.8	7645.5	Sittiparus_varius-ML144919561.wav	D:\Andean\Paridae\Sittiparus_varius-ML144919561.wav	3	a

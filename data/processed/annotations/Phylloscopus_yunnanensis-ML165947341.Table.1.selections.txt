@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.477450091	2.507813124	4530.5	5630.3	Phylloscopus_yunnanensis-ML165947341.wav	D:\Andean\Phylloscopidae\Phylloscopus_yunnanensis-ML165947341.wav	1	a
+2	Spectrogram 1	1	2.540511774	2.636272109	2487.8	7908.7	Phylloscopus_yunnanensis-ML165947341.wav	D:\Andean\Phylloscopidae\Phylloscopus_yunnanensis-ML165947341.wav	1	b
+3	Spectrogram 1	1	2.832464015	2.853484576	4740.0	5682.7	Phylloscopus_yunnanensis-ML165947341.wav	D:\Andean\Phylloscopidae\Phylloscopus_yunnanensis-ML165947341.wav	2	a
+4	Spectrogram 1	1	2.888518845	2.974936708	2566.4	7568.2	Phylloscopus_yunnanensis-ML165947341.wav	D:\Andean\Phylloscopidae\Phylloscopus_yunnanensis-ML165947341.wav	2	b
+5	Spectrogram 1	1	3.171128613	3.208498500	4713.8	5761.3	Phylloscopus_yunnanensis-ML165947341.wav	D:\Andean\Phylloscopidae\Phylloscopus_yunnanensis-ML165947341.wav	3	a
+6	Spectrogram 1	1	3.231854679	3.318272542	2487.8	7803.9	Phylloscopus_yunnanensis-ML165947341.wav	D:\Andean\Phylloscopidae\Phylloscopus_yunnanensis-ML165947341.wav	3	b

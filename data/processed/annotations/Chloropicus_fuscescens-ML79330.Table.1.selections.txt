@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	106.811156922	106.872263579	1230.8	5106.6	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	1	a
+2	Spectrogram 1	1	106.910248798	107.035765175	1361.8	5499.4	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	1	b
+3	Spectrogram 1	1	107.082008050	107.219085146	1283.2	5630.3	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	1	b
+4	Spectrogram 1	1	107.268631084	107.389192867	1387.9	5473.2	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	1	b
+5	Spectrogram 1	1	107.437087273	107.575815900	1335.6	5447.0	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	1	b
+6	Spectrogram 1	1	107.617104182	107.747575152	1414.1	5316.1	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	1	b
+7	Spectrogram 1	1	107.788863434	107.912728279	1387.9	4661.4	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	1	b
+8	Spectrogram 1	1	207.227546775	207.296911088	1518.9	5656.5	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	2	a
+9	Spectrogram 1	1	207.329941713	207.430685121	1597.4	5578.0	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	2	b
+10	Spectrogram 1	1	207.476927997	207.597489779	1676.0	5525.6	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	2	b
+11	Spectrogram 1	1	207.645384186	207.775855157	1623.6	5656.5	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	2	b
+12	Spectrogram 1	1	207.815491907	207.934402159	1545.1	5316.1	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	2	b
+13	Spectrogram 1	1	207.978993503	208.116070598	1387.9	5185.2	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	2	b
+14	Spectrogram 1	1	208.152404286	208.292784444	1466.5	5368.5	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	2	b
+15	Spectrogram 1	1	208.337375789	208.464543696	1335.6	5211.3	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	2	b
+16	Spectrogram 1	1	208.510786572	208.623090698	1387.9	5001.8	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	2	b
+17	Spectrogram 1	1	208.675939699	208.778334638	1361.8	4792.3	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	2	b
+18	Spectrogram 1	1	254.518575007	254.586287789	1414.1	5604.2	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	3	a
+19	Spectrogram 1	1	254.630879133	254.725016415	1230.8	5656.5	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	3	b
+20	Spectrogram 1	1	254.767956228	254.883563417	1335.6	5630.3	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	3	b
+21	Spectrogram 1	1	254.939715481	255.078444107	1335.6	5551.8	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	3	b
+22	Spectrogram 1	1	255.131293108	255.236991109	1361.8	5630.3	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	3	b
+23	Spectrogram 1	1	255.289840110	255.421962612	1335.6	5630.3	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	3	b
+24	Spectrogram 1	1	255.474811612	255.595373395	1387.9	5656.5	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	3	b
+25	Spectrogram 1	1	255.648222396	255.777041835	1492.7	5630.3	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	3	b
+26	Spectrogram 1	1	255.833193898	255.948801087	1466.5	5473.2	Chloropicus_fuscescens-ML79330.wav	D:\Andean\Picidae\Chloropicus_fuscescens-ML79330.wav	3	b

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.759750982	6.407721628	186.9	513.9	Zentrygon_frenata-ML84084.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_frenata-ML84084.wav	1	a
+2	Spectrogram 1	1	8.463686557	9.118999646	140.1	513.9	Zentrygon_frenata-ML84084.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_frenata-ML84084.wav	2	a
+3	Spectrogram 1	1	11.594762011	12.262924376	163.5	513.9	Zentrygon_frenata-ML84084.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_frenata-ML84084.wav	3	a

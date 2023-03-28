@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.778703548	3.990099550	1597.4	2121.2	Eupodotis_savilei-ML145542981.wav	E:\Andean\Otididae\Eupodotis_savilei-ML145542981.wav	1	a
+2	Spectrogram 1	1	4.274162929	4.379860930	1806.9	2278.3	Eupodotis_savilei-ML145542981.wav	E:\Andean\Otididae\Eupodotis_savilei-ML145542981.wav	1	b
+3	Spectrogram 1	1	13.923923846	14.155138223	1649.8	2226.0	Eupodotis_savilei-ML145542981.wav	E:\Andean\Otididae\Eupodotis_savilei-ML145542981.wav	2	a
+4	Spectrogram 1	1	14.425989352	14.518475103	1833.1	2278.3	Eupodotis_savilei-ML145542981.wav	E:\Andean\Otididae\Eupodotis_savilei-ML145542981.wav	2	b
+5	Spectrogram 1	1	26.565928211	26.777324213	1597.4	2147.4	Eupodotis_savilei-ML145542981.wav	E:\Andean\Otididae\Eupodotis_savilei-ML145542981.wav	3	a
+6	Spectrogram 1	1	27.048175342	27.127448843	1806.9	2304.5	Eupodotis_savilei-ML145542981.wav	E:\Andean\Otididae\Eupodotis_savilei-ML145542981.wav	3	b

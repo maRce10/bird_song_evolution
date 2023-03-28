@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.448593143	8.593927895	1108.0	1579.0	Sula_nebouxii-ML127089.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_nebouxii-ML127089.wav	1	a
+2	Spectrogram 1	1	8.970477025	9.769818160	997.2	4404.5	Sula_nebouxii-ML127089.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_nebouxii-ML127089.wav	1	b
+3	Spectrogram 1	1	10.252065291	10.965526800	1468.2	2964.0	Sula_nebouxii-ML127089.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_nebouxii-ML127089.wav	1	c
+4	Spectrogram 1	1	15.238101952	16.255445215	1301.9	3130.2	Sula_nebouxii-ML127089.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_nebouxii-ML127089.wav	2	c
+5	Spectrogram 1	1	32.637194851	32.808954103	1523.6	2659.3	Sula_nebouxii-ML127089.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_nebouxii-ML127089.wav	3	d
+6	Spectrogram 1	1	33.099623607	33.852721867	1135.7	3739.6	Sula_nebouxii-ML127089.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_nebouxii-ML127089.wav	3	b

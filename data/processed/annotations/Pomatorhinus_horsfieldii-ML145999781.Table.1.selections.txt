@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.445804802	3.515169115	522.5	1489.2	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	1	a
+2	Spectrogram 1	1	3.548199741	3.620867117	757.6	1201.8	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	1	b
+3	Spectrogram 1	1	3.693534492	3.799232494	783.8	1175.7	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	1	c
+4	Spectrogram 1	1	3.891718245	3.984203996	679.3	1045.0	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	1	d
+5	Spectrogram 1	1	4.089901997	4.188993874	679.3	1045.0	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	1	d
+6	Spectrogram 1	1	7.307084913	7.379752289	522.5	1489.2	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	2	a
+7	Spectrogram 1	1	7.412782914	7.485450290	731.5	1201.8	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	2	b
+8	Spectrogram 1	1	7.558117666	7.663815667	783.8	1123.4	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	2	c
+9	Spectrogram 1	1	7.736483043	7.835574920	679.3	1045.0	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	2	d
+10	Spectrogram 1	1	7.947879046	8.033758672	679.3	1018.9	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	2	d
+11	Spectrogram 1	1	8.284791425	8.436732302	783.8	1358.5	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	2	e
+12	Spectrogram 1	1	8.575460929	8.747220181	914.4	1593.7	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	2	f
+13	Spectrogram 1	1	10.055232948	10.134506449	522.5	1489.2	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	3	a
+14	Spectrogram 1	1	10.160930949	10.246810575	783.8	1071.1	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	3	g
+15	Spectrogram 1	1	10.326084076	10.418569827	783.8	1149.5	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	3	c
+16	Spectrogram 1	1	10.511055578	10.616753580	705.4	1045.0	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	3	d
+17	Spectrogram 1	1	10.715845456	10.801725082	679.3	1045.0	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	3	d
+18	Spectrogram 1	1	11.244335463	11.409488590	783.8	1358.5	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	3	e
+19	Spectrogram 1	1	11.548217216	11.739794844	940.5	1567.5	Pomatorhinus_horsfieldii-ML145999781.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_horsfieldii-ML145999781.wav	3	f

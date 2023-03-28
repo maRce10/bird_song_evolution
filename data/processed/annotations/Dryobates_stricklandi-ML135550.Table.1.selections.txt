@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	48.291789273	48.378207136	1099.9	5656.5	Dryobates_stricklandi-ML135550.wav	D:\Andean\Picidae\Dryobates_stricklandi-ML135550.wav	1	a
+2	Spectrogram 1	1	52.050295060	52.132041687	916.6	6416.0	Dryobates_stricklandi-ML135550.wav	D:\Andean\Picidae\Dryobates_stricklandi-ML135550.wav	2	a
+3	Spectrogram 1	1	67.157629678	67.230033834	1387.9	6756.4	Dryobates_stricklandi-ML135550.wav	D:\Andean\Picidae\Dryobates_stricklandi-ML135550.wav	3	a

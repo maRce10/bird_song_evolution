@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.478801674	0.632952457	5028.0	5630.3	Phylloscopus_magnirostris-ML30547761.wav	D:\Andean\Phylloscopidae\Phylloscopus_magnirostris-ML30547761.wav	1	a
+2	Spectrogram 1	1	0.999644471	1.170144579	4713.8	5316.1	Phylloscopus_magnirostris-ML30547761.wav	D:\Andean\Phylloscopidae\Phylloscopus_magnirostris-ML30547761.wav	1	a
+3	Spectrogram 1	1	1.237877499	1.394363899	4687.6	5368.5	Phylloscopus_magnirostris-ML30547761.wav	D:\Andean\Phylloscopidae\Phylloscopus_magnirostris-ML30547761.wav	1	a
+4	Spectrogram 1	1	1.676973668	1.854480630	4163.8	5106.6	Phylloscopus_magnirostris-ML30547761.wav	D:\Andean\Phylloscopidae\Phylloscopus_magnirostris-ML30547761.wav	1	b
+5	Spectrogram 1	1	1.950240965	2.109062983	4242.4	5028.0	Phylloscopus_magnirostris-ML30547761.wav	D:\Andean\Phylloscopidae\Phylloscopus_magnirostris-ML30547761.wav	1	b
+6	Spectrogram 1	1	20.484455845	20.633935392	5028.0	5630.3	Phylloscopus_magnirostris-ML30547761.wav	D:\Andean\Phylloscopidae\Phylloscopus_magnirostris-ML30547761.wav	2	a
+7	Spectrogram 1	1	21.014641114	21.166456278	4713.8	5316.1	Phylloscopus_magnirostris-ML30547761.wav	D:\Andean\Phylloscopidae\Phylloscopus_magnirostris-ML30547761.wav	2	a
+8	Spectrogram 1	1	21.257545377	21.437387957	4687.6	5237.5	Phylloscopus_magnirostris-ML30547761.wav	D:\Andean\Phylloscopidae\Phylloscopus_magnirostris-ML30547761.wav	2	a
+9	Spectrogram 1	1	21.696641547	21.892833452	4294.8	5263.7	Phylloscopus_magnirostris-ML30547761.wav	D:\Andean\Phylloscopidae\Phylloscopus_magnirostris-ML30547761.wav	2	b
+10	Spectrogram 1	1	21.969908844	22.138073334	4242.4	5001.8	Phylloscopus_magnirostris-ML30547761.wav	D:\Andean\Phylloscopidae\Phylloscopus_magnirostris-ML30547761.wav	2	b

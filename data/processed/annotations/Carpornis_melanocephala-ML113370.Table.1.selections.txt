@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	71.468195109	71.597343890	389.800	1878.700	Carpornis_melanocephala-ML113370.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Carpornis_melanocephala-ML113370.wav	1	a
+2	Spectrogram 1	1	72.067260279	72.774721924	450.200	2481.700	Carpornis_melanocephala-ML113370.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Carpornis_melanocephala-ML113370.wav	1	b
+3	Spectrogram 1	1	130.762757149	130.910726060	506.905	2027.621	Carpornis_melanocephala-ML113370.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Carpornis_melanocephala-ML113370.wav	2	a
+4	Spectrogram 1	1	131.376411207	132.087470549	523.300	2470.300	Carpornis_melanocephala-ML113370.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Carpornis_melanocephala-ML113370.wav	2	b
+5	Spectrogram 1	1	181.705645754	181.852572829	316.400	1660.551	Carpornis_melanocephala-ML113370.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Carpornis_melanocephala-ML113370.wav	3	a
+6	Spectrogram 1	1	182.311436451	183.046766019	401.600	2421.600	Carpornis_melanocephala-ML113370.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Carpornis_melanocephala-ML113370.wav	3	b

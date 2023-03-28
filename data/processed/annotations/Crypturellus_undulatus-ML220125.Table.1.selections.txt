@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.434853310	31.852928918	997.2	1329.6	Crypturellus_undulatus-ML220125.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_undulatus-ML220125.wav	1	a
+2	Spectrogram 1	1	31.857600154	32.329394975	997.2	1495.9	Crypturellus_undulatus-ML220125.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_undulatus-ML220125.wav	1	b
+3	Spectrogram 1	1	32.345744300	33.174888662	997.2	1440.5	Crypturellus_undulatus-ML220125.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_undulatus-ML220125.wav	1	c
+4	Spectrogram 1	1	57.429896715	57.728855809	1052.6	1329.6	Crypturellus_undulatus-ML220125.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_undulatus-ML220125.wav	2	d
+5	Spectrogram 1	1	57.740533899	58.336116469	1052.6	1412.8	Crypturellus_undulatus-ML220125.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_undulatus-ML220125.wav	2	e
+6	Spectrogram 1	1	58.352465795	59.111541619	1024.9	1440.5	Crypturellus_undulatus-ML220125.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_undulatus-ML220125.wav	2	c
+7	Spectrogram 1	1	79.576396602	79.989800974	1052.6	1329.6	Crypturellus_undulatus-ML220125.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_undulatus-ML220125.wav	3	d
+8	Spectrogram 1	1	79.992136592	80.489623209	997.2	1412.8	Crypturellus_undulatus-ML220125.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_undulatus-ML220125.wav	3	e
+9	Spectrogram 1	1	80.491958827	81.239356562	1024.9	1412.8	Crypturellus_undulatus-ML220125.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_undulatus-ML220125.wav	3	c

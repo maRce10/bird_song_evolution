@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	74.273872696	74.365740364	3971.1	7210.7	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	1	a
+2	Spectrogram 1	1	74.448233780	74.530727196	4075.6	7576.4	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	1	a
+3	Spectrogram 1	1	75.533779494	75.573151352	4023.3	10136.7	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	1	b
+4	Spectrogram 1	1	75.852504190	75.931247906	4180.1	7680.9	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	1	a
+5	Spectrogram 1	1	76.256534444	76.344652411	4075.6	7210.7	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	1	a
+6	Spectrogram 1	1	77.418490382	77.449425413	3239.6	10293.5	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	2	c
+7	Spectrogram 1	1	78.386150760	78.417085791	3553.1	8046.7	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	3	c
+8	Spectrogram 1	1	78.443333696	78.531451663	4389.1	7471.9	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	3	a
+9	Spectrogram 1	1	79.534855691	79.635160186	4127.8	7315.2	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	4	a
+10	Spectrogram 1	1	80.272609310	80.355571438	4232.3	7576.4	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	4	a
+11	Spectrogram 1	1	81.170443215	81.265123158	4389.1	7837.7	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	4	a
+12	Spectrogram 1	1	81.573536224	81.665403892	4336.8	7471.9	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	4	a
+13	Spectrogram 1	1	81.978039565	82.010849446	3553.1	9614.2	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	4	b
+14	Spectrogram 1	1	82.723530175	82.808835867	4336.8	7471.9	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	4	a
+15	Spectrogram 1	1	83.187555640	83.278485883	4232.3	7367.4	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	4	a
+16	Spectrogram 1	1	84.721665619	84.818220413	4232.3	7315.2	Tangara_cyanocephala-ML127928.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_cyanocephala-ML127928.wav	5	a

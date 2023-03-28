@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.501442220	4.759081099	2631.6	3241.0	Fraseria_griseigularis-ML24683.wav	E:\Andean\Muscicapidae\Fraseria_griseigularis-ML24683.wav	1	a
+2	Spectrogram 1	1	4.818536224	5.347026231	2520.8	2908.6	Fraseria_griseigularis-ML24683.wav	E:\Andean\Muscicapidae\Fraseria_griseigularis-ML24683.wav	1	b
+3	Spectrogram 1	1	11.536965229	11.814422483	2603.9	3213.3	Fraseria_griseigularis-ML24683.wav	E:\Andean\Muscicapidae\Fraseria_griseigularis-ML24683.wav	2	a
+4	Spectrogram 1	1	11.880483734	12.369336990	2382.3	2853.2	Fraseria_griseigularis-ML24683.wav	E:\Andean\Muscicapidae\Fraseria_griseigularis-ML24683.wav	2	b
+5	Spectrogram 1	1	22.217378195	22.501441573	2603.9	3241.0	Fraseria_griseigularis-ML24683.wav	E:\Andean\Muscicapidae\Fraseria_griseigularis-ML24683.wav	3	a
+6	Spectrogram 1	1	22.560896699	23.043143830	2216.1	2991.7	Fraseria_griseigularis-ML24683.wav	E:\Andean\Muscicapidae\Fraseria_griseigularis-ML24683.wav	3	b

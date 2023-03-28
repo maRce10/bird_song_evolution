@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	113.372510054	113.524450931	2576.2	3130.2	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	1	a
+2	Spectrogram 1	1	113.742453058	113.854757185	2603.9	3213.3	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	1	b
+3	Spectrogram 1	1	113.986879687	114.105789938	2603.9	3351.8	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	1	b
+4	Spectrogram 1	1	114.231306315	114.422883942	2299.2	3601.1	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	1	c
+5	Spectrogram 1	1	114.528581943	114.759796321	2160.7	3767.3	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	1	d
+6	Spectrogram 1	1	114.858888198	115.116527076	1412.8	3628.8	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	1	e
+7	Spectrogram 1	1	115.222225077	115.512894581	1274.2	3656.5	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	1	f
+8	Spectrogram 1	1	115.618592582	115.948898836	1246.5	3518.0	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	1	f
+9	Spectrogram 1	1	122.941362665	123.073485167	2437.7	3157.9	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	2	a
+10	Spectrogram 1	1	123.298093420	123.397185296	2548.5	3102.5	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	2	b
+11	Spectrogram 1	1	123.522701673	123.661430299	2576.2	3213.3	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	2	b
+12	Spectrogram 1	1	123.793552801	123.958705928	2299.2	3545.7	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	2	c
+13	Spectrogram 1	1	124.084222305	124.282406057	1966.8	3573.4	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	2	d
+14	Spectrogram 1	1	124.421134684	124.639136812	1412.8	3684.2	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	2	e
+15	Spectrogram 1	1	124.771259313	125.009079816	1246.5	3601.1	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	2	e
+16	Spectrogram 1	1	125.134596193	125.418659571	1301.9	3573.4	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	2	f
+17	Spectrogram 1	1	125.544175948	125.861269952	1135.7	3545.7	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	2	f
+18	Spectrogram 1	1	125.986786329	126.284061957	1080.3	3490.3	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	2	f
+20	Spectrogram 1	1	134.604624963	134.772789453	2548.5	3130.2	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	3	a
+21	Spectrogram 1	1	134.959638887	135.090433491	2659.3	3102.5	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	3	b
+22	Spectrogram 1	1	135.230570566	135.370707641	2603.9	3351.8	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	3	g
+23	Spectrogram 1	1	135.482817301	135.641639320	2382.3	3434.9	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	3	c
+24	Spectrogram 1	1	135.763091452	135.931255942	2105.3	3545.7	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	3	d
+25	Spectrogram 1	1	136.071393018	136.286269866	2133.0	3490.3	Hypocnemis_flavescens-ML62038.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_flavescens-ML62038.wav	3	d

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	43.888323780	44.015598417	1603.2	1932.7	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	1	a
+2	Spectrogram 1	1	44.167620900	44.354997449	1361.7	1932.7	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	1	b
+3	Spectrogram 1	1	44.383280702	44.602475910	1427.5	2942.9	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	1	c
+4	Spectrogram 1	1	44.786317052	45.214101249	593.0	1625.2	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	1	d
+5	Spectrogram 1	1	50.118802592	50.263754262	1603.2	1954.6	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	2	a
+6	Spectrogram 1	1	50.398099712	50.574870041	1427.5	1998.6	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	2	b
+7	Spectrogram 1	1	50.610224107	50.847096348	1427.5	3030.8	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	2	c
+8	Spectrogram 1	1	51.013260457	51.433973841	658.9	1603.2	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	2	d
+9	Spectrogram 1	1	57.126789939	57.254064576	1625.2	1976.6	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	3	a
+10	Spectrogram 1	1	57.402551652	57.589928201	1493.4	2020.5	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	3	b
+11	Spectrogram 1	1	57.625282267	57.840942069	1361.7	3096.7	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	3	c
+12	Spectrogram 1	1	58.024783211	58.441961188	593.0	1603.2	Ianthocincla_ocellata-ML155107061.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_ocellata-ML155107061.wav	3	d

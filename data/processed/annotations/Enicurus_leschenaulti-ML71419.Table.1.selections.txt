@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	92.206400323	92.833982206	4626.1	6260.4	Enicurus_leschenaulti-ML71419.wav	E:\Andean\Muscicapidae\Enicurus_leschenaulti-ML71419.wav	1	a
+2	Spectrogram 1	1	96.566442878	97.094932885	4736.9	6315.8	Enicurus_leschenaulti-ML71419.wav	E:\Andean\Muscicapidae\Enicurus_leschenaulti-ML71419.wav	2	a
+3	Spectrogram 1	1	105.144641514	105.666525396	4986.2	6426.6	Enicurus_leschenaulti-ML71419.wav	E:\Andean\Muscicapidae\Enicurus_leschenaulti-ML71419.wav	3	a

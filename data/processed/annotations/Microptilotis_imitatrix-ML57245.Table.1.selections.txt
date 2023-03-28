@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	35.366537571	35.506532529	1622.1	4435.3	Microptilotis_imitatrix-ML57245.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_imitatrix-ML57245.wav	1	a
+2	Spectrogram 1	1	39.506388479	39.646383437	1603.2	4392.4	Microptilotis_imitatrix-ML57245.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_imitatrix-ML57245.wav	2	a
+3	Spectrogram 1	1	46.485532962	46.635527560	1672.8	4384.7	Microptilotis_imitatrix-ML57245.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_imitatrix-ML57245.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.588822809	11.626192696	2825.5	6565.1	Passer_zarudnyi-ML76885.wav	D:\Andean\Passeridae\Passer_zarudnyi-ML76885.wav	1	a
+2	Spectrogram 1	1	12.324542454	12.368919195	2687.0	6315.8	Passer_zarudnyi-ML76885.wav	D:\Andean\Passeridae\Passer_zarudnyi-ML76885.wav	2	a
+3	Spectrogram 1	1	12.971508619	13.020556595	2991.7	6260.4	Passer_zarudnyi-ML76885.wav	D:\Andean\Passeridae\Passer_zarudnyi-ML76885.wav	3	a

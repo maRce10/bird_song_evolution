@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	104.540382783	105.524695420	2802.1	8327.7	Oreothlypis_gutturalis-ML165800.wav	D:\Andean\Parulidae\Oreothlypis_gutturalis-ML165800.wav	1	a
+2	Spectrogram 1	1	107.592412571	108.550300708	2671.1	8458.6	Oreothlypis_gutturalis-ML165800.wav	D:\Andean\Parulidae\Oreothlypis_gutturalis-ML165800.wav	2	a
+3	Spectrogram 1	1	111.205962992	112.216700129	2697.3	8249.1	Oreothlypis_gutturalis-ML165800.wav	D:\Andean\Parulidae\Oreothlypis_gutturalis-ML165800.wav	3	a

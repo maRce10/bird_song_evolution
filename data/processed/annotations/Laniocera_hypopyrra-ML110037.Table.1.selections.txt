@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	108.029217789	109.218320304	2603.9	3518.0	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	1	a
+2	Spectrogram 1	1	109.522202058	110.361179943	2687.0	3711.9	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	1	b
+3	Spectrogram 1	1	110.777365026	111.616342912	2825.5	3628.8	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	1	c
+4	Spectrogram 1	1	112.191075794	113.049872055	2825.5	3656.5	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	1	c
+6	Spectrogram 1	1	127.423486470	128.645619610	2687.0	3656.5	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	2	d
+7	Spectrogram 1	1	129.002350365	129.913995626	2742.4	3573.4	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	2	e
+8	Spectrogram 1	1	130.369818257	131.222008393	2742.4	3601.1	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	2	e
+9	Spectrogram 1	1	131.770316775	132.660995751	2770.1	3407.2	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	2	f
+11	Spectrogram 1	1	133.242334758	133.605671638	2742.4	3434.9	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	2	g
+12	Spectrogram 1	1	133.691551264	134.094524894	2714.7	3628.8	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	2	h
+13	Spectrogram 1	1	134.596590400	135.329870284	2770.1	3545.7	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	2	i
+14	Spectrogram 1	1	145.745750459	146.802730473	2576.2	3518.0	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	3	j
+15	Spectrogram 1	1	147.502979732	148.474080119	2714.7	3795.0	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	3	k
+16	Spectrogram 1	1	148.982751750	149.834941886	2742.4	3573.4	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	3	e
+17	Spectrogram 1	1	150.343613517	151.156166903	2825.5	3628.8	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	3	c
+18	Spectrogram 1	1	151.704475284	152.470785794	2742.4	3573.4	Laniocera_hypopyrra-ML110037.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniocera_hypopyrra-ML110037.wav	3	l

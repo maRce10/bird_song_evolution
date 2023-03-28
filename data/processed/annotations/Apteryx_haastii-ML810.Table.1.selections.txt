@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	70.631310887	71.225261132	1013.5	1804.5	Apteryx_haastii-ML810.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apterygidae\Apterygidae\Apteryx_haastii-ML810.wav	1	a
+2	Spectrogram 1	1	71.664214976	72.242208349	939.3	1631.5	Apteryx_haastii-ML810.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apterygidae\Apterygidae\Apteryx_haastii-ML810.wav	2	a
+3	Spectrogram 1	1	72.773883900	73.422796705	964.1	1755.1	Apteryx_haastii-ML810.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apterygidae\Apterygidae\Apteryx_haastii-ML810.wav	3	a

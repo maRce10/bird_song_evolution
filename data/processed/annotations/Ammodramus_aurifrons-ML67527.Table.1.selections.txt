@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	152.806498094	152.826316469	7123.0	9270.4	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	1	a
+2	Spectrogram 1	1	152.940272127	152.955135909	3194.9	5342.3	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	1	a
+3	Spectrogram 1	1	153.059182379	153.079000754	6808.8	8799.0	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	1	a
+4	Spectrogram 1	1	153.181395693	153.939448546	3823.4	9846.6	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	1	b
+5	Spectrogram 1	1	154.028631235	154.050101141	3247.3	5185.2	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	1	a
+6	Spectrogram 1	1	154.127723111	154.714016712	3718.6	9532.3	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	1	b
+7	Spectrogram 1	1	160.937508850	160.958978756	6546.9	8956.2	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	2	a
+8	Spectrogram 1	1	161.072934414	161.084495133	3090.1	4870.9	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	2	a
+9	Spectrogram 1	1	161.185238540	161.200102322	6704.0	9113.3	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	2	a
+10	Spectrogram 1	1	161.294239604	162.067156239	3613.9	9951.3	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	2	b
+11	Spectrogram 1	1	162.162945052	162.177808834	3142.5	5185.2	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	2	a
+12	Spectrogram 1	1	162.255430804	162.823557561	3718.6	9584.7	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	2	b
+13	Spectrogram 1	1	169.444916468	169.468037906	6913.5	8851.4	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	3	a
+14	Spectrogram 1	1	169.577038970	169.593554282	3247.3	4870.9	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	3	a
+15	Spectrogram 1	1	169.687691565	169.705858409	6704.0	8641.9	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	3	a
+16	Spectrogram 1	1	169.793389566	170.561351607	3613.9	10056.1	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	3	b
+17	Spectrogram 1	1	170.648882764	170.667049608	3456.8	5080.4	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	3	a
+18	Spectrogram 1	1	170.743020047	171.307843741	3771.0	9637.1	Ammodramus_aurifrons-ML67527.wav	D:\Andean\Passerellidae\Ammodramus_aurifrons-ML67527.wav	3	b

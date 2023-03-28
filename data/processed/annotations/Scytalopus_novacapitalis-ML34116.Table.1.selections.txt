@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	303.284756223	303.416878724	914.1	3185.6	Scytalopus_novacapitalis-ML34116.wav	D:\Andean\Rhinocryptidae\Scytalopus_novacapitalis-ML34116.wav	1	a
+2	Spectrogram 1	1	304.169976984	304.275674985	914.1	3102.5	Scytalopus_novacapitalis-ML34116.wav	D:\Andean\Rhinocryptidae\Scytalopus_novacapitalis-ML34116.wav	2	a
+3	Spectrogram 1	1	305.068409995	305.160895746	941.8	3102.5	Scytalopus_novacapitalis-ML34116.wav	D:\Andean\Rhinocryptidae\Scytalopus_novacapitalis-ML34116.wav	3	a

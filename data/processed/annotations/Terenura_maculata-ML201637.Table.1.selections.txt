@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	69.331471690	72.505122807	2133.0	5346.3	Terenura_maculata-ML201637.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Terenura_maculata-ML201637.wav	1	a
+2	Spectrogram 1	1	81.688772476	84.986664982	2160.7	5346.3	Terenura_maculata-ML201637.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Terenura_maculata-ML201637.wav	2	a
+3	Spectrogram 1	1	94.740205423	98.066125344	2133.0	5374.0	Terenura_maculata-ML201637.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Terenura_maculata-ML201637.wav	3	a

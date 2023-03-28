@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.188263693	22.250133308	873.000	7907.100	Crotophaga_sulcirostris-ML140225.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Crotophaga_sulcirostris-ML140225.wav	1	a
+2	Spectrogram 1	1	22.332331511	22.575390714	823.100	4489.800	Crotophaga_sulcirostris-ML140225.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Crotophaga_sulcirostris-ML140225.wav	1	b
+3	Spectrogram 1	1	26.136073767	26.202362641	374.200	8031.800	Crotophaga_sulcirostris-ML140225.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Crotophaga_sulcirostris-ML140225.wav	2	a
+4	Spectrogram 1	1	26.274838475	26.516129975	648.500	4639.500	Crotophaga_sulcirostris-ML140225.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Crotophaga_sulcirostris-ML140225.wav	2	b
+5	Spectrogram 1	1	28.354587788	28.419108959	274.400	7632.700	Crotophaga_sulcirostris-ML140225.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Crotophaga_sulcirostris-ML140225.wav	3	a
+6	Spectrogram 1	1	28.503074865	28.754088732	972.800	4589.600	Crotophaga_sulcirostris-ML140225.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Crotophaga_sulcirostris-ML140225.wav	3	b

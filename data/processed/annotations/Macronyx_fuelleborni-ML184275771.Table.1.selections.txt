@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	42.292755929	42.682517309	1440.5	3490.3	Macronyx_fuelleborni-ML184275771.wav	E:\Andean\Motacillidae\Macronyx_fuelleborni-ML184275771.wav	1	a
+2	Spectrogram 1	1	45.186238715	45.523151095	1551.3	3518.0	Macronyx_fuelleborni-ML184275771.wav	E:\Andean\Motacillidae\Macronyx_fuelleborni-ML184275771.wav	2	a
+3	Spectrogram 1	1	47.511594745	47.868325499	1551.3	3573.4	Macronyx_fuelleborni-ML184275771.wav	E:\Andean\Motacillidae\Macronyx_fuelleborni-ML184275771.wav	3	a

@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.867217014	2.363915137	620.3	6936.4	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	1	a
+2	Spectrogram 1	1	2.667452878	3.182547227	563.9	7162.0	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	1	b
+3	Spectrogram 1	1	3.449292514	3.955188750	394.8	7444.0	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	1	b
+4	Spectrogram 1	1	4.267924604	4.783018953	282.0	7838.7	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	1	b
+5	Spectrogram 1	1	5.150943488	5.684434064	282.0	7895.1	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	1	b
+6	Spectrogram 1	1	6.153537846	6.641037854	620.3	7669.6	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	1	a
+7	Spectrogram 1	1	6.990566163	7.487264285	282.0	8853.8	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	1	b
+8	Spectrogram 1	1	8.075943540	8.554245436	394.8	8741.0	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	1	b
+9	Spectrogram 1	1	8.958962424	9.382075639	394.8	8966.6	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	1	b
+10	Spectrogram 1	1	16.148797319	16.682287894	394.8	7500.4	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	2	a
+11	Spectrogram 1	1	17.068608656	17.620495458	620.3	8120.7	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	2	a
+12	Spectrogram 1	1	17.960825653	18.420731321	620.3	8289.9	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	2	a
+13	Spectrogram 1	1	18.751863403	19.276155865	282.0	8853.8	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	2	b
+14	Spectrogram 1	1	19.561297380	20.048797388	282.0	8910.2	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	2	b
+15	Spectrogram 1	1	57.380010955	57.830718511	563.9	7613.2	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	3	a
+16	Spectrogram 1	1	58.244633612	58.676944941	394.8	8515.5	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	3	b
+17	Spectrogram 1	1	59.127652496	59.578360051	282.0	8515.5	Hydrophasianus_chirurgus-ML77083251.wav	C:\Users\Carlos PC\Desktop\Marcelo\Jacanidae\Hydrophasianus_chirurgus-ML77083251.wav	3	b

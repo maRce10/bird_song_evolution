@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.549961207	26.133865687	135.0	401.7	Turnix_varius-ML234720.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_varius-ML234720.wav	1	a
+2	Spectrogram 1	1	26.589311182	27.175551280	124.7	398.2	Turnix_varius-ML234720.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_varius-ML234720.wav	2	a
+3	Spectrogram 1	1	27.654352954	28.196216312	142.0	391.3	Turnix_varius-ML234720.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_varius-ML234720.wav	3	a

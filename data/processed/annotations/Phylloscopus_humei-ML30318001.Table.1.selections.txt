@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.706855384	2.120566152	4949.5	9218.1	Phylloscopus_humei-ML30318001.wav	D:\Andean\Phylloscopidae\Phylloscopus_humei-ML30318001.wav	1	a
+2	Spectrogram 1	1	14.780033713	16.140895480	5001.8	9034.7	Phylloscopus_humei-ML30318001.wav	D:\Andean\Phylloscopidae\Phylloscopus_humei-ML30318001.wav	2	a
+3	Spectrogram 1	1	26.719166069	28.126270712	5159.0	9060.9	Phylloscopus_humei-ML30318001.wav	D:\Andean\Phylloscopidae\Phylloscopus_humei-ML30318001.wav	3	a

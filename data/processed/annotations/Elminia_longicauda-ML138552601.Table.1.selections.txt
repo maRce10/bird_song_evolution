@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	64.393711163	64.421181743	2154.6	4936.1	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	1	a
+2	Spectrogram 1	1	64.461579655	64.482586570	4661.8	5758.7	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	1	b
+3	Spectrogram 1	1	64.479354737	64.500361651	2703.1	4074.2	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	1	c
+4	Spectrogram 1	1	64.506825317	64.521368566	4309.3	5367.0	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	1	d
+5	Spectrogram 1	1	64.524600399	64.550455062	5484.5	5954.6	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	1	e
+6	Spectrogram 1	1	64.553686895	64.581157476	3995.9	5092.8	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	1	f
+7	Spectrogram 1	1	65.319631313	65.351949643	1723.7	5014.4	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	2	a
+8	Spectrogram 1	1	65.382652057	65.410122637	4975.2	5602.0	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	2	b
+9	Spectrogram 1	1	65.406890804	65.432745468	2428.9	3917.5	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	2	c
+10	Spectrogram 1	1	65.427897719	65.448904633	4466.0	5523.7	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	2	d
+11	Spectrogram 1	1	65.450520549	65.477991130	5484.5	5954.6	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	2	e
+12	Spectrogram 1	1	65.479607046	65.505461710	4113.4	5014.4	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	2	f
+13	Spectrogram 1	1	66.549339257	66.581657587	2624.7	5053.6	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	3	a
+14	Spectrogram 1	1	66.620439582	66.639830580	4975.2	5680.4	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	3	b
+15	Spectrogram 1	1	66.633366914	66.664069328	2624.7	3917.5	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	3	c
+16	Spectrogram 1	1	66.657605662	66.681844409	4387.6	5484.5	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	3	d
+17	Spectrogram 1	1	66.683460326	66.717394572	5445.3	5954.6	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	3	e
+18	Spectrogram 1	1	66.707699073	66.733553737	4035.0	4740.2	Elminia_longicauda-ML138552601.wav	D:\Andean\Stenostiridae\Elminia_longicauda-ML138552601.wav	3	f

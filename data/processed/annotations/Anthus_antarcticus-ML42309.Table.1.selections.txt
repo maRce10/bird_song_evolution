@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	54.767250224	54.816298200	2540.2	5997.0	Anthus_antarcticus-ML42309.wav	E:\Andean\Motacillidae\Anthus_antarcticus-ML42309.wav	1	a
+2	Spectrogram 1	1	55.862655029	55.916374242	2802.1	6232.7	Anthus_antarcticus-ML42309.wav	E:\Andean\Motacillidae\Anthus_antarcticus-ML42309.wav	2	a
+3	Spectrogram 1	1	57.261690165	57.315409377	2592.6	6337.4	Anthus_antarcticus-ML42309.wav	E:\Andean\Motacillidae\Anthus_antarcticus-ML42309.wav	3	a

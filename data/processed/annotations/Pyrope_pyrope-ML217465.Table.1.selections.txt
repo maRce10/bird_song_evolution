@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	322.557087819	322.601464559	1717.5	2853.2	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	1	a
+2	Spectrogram 1	1	323.545055254	323.750588577	1717.5	5124.7	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	1	b
+3	Spectrogram 1	1	323.790295135	323.918754121	2382.3	6371.2	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	1	c
+4	Spectrogram 1	1	329.234094222	329.266792873	1606.7	2465.4	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	2	d
+5	Spectrogram 1	1	332.825691563	332.851383360	1495.9	2410.0	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	2	d
+6	Spectrogram 1	1	334.983143111	335.029855470	1856.0	2991.7	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	2	a
+7	Spectrogram 1	1	335.605585287	335.820462136	1717.5	5207.8	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	2	b
+8	Spectrogram 1	1	335.840314888	335.985123200	2382.3	6482.0	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	2	c
+9	Spectrogram 1	1	339.323305996	339.364179310	1468.2	2825.5	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	3	a
+10	Spectrogram 1	1	340.952103891	341.010494339	1772.9	3047.1	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	3	a
+11	Spectrogram 1	1	341.517323428	341.768402355	1772.9	5789.5	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	3	b
+12	Spectrogram 1	1	341.810443477	341.944741508	2382.3	6260.4	Pyrope_pyrope-ML217465.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pyrope_pyrope-ML217465.wav	3	c

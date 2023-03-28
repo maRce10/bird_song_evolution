@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.420729683	2.545433937	193.9	637.1	Strix_sartorii-ML21681321.wav	D:\Andean\Strigidae\Strix_sartorii-ML21681321.wav	1	a
+2	Spectrogram 1	1	2.857194572	2.989234370	193.9	554.0	Strix_sartorii-ML21681321.wav	D:\Andean\Strigidae\Strix_sartorii-ML21681321.wav	1	a
+3	Spectrogram 1	1	3.172622978	3.370682675	193.9	637.1	Strix_sartorii-ML21681321.wav	D:\Andean\Strigidae\Strix_sartorii-ML21681321.wav	1	b
+4	Spectrogram 1	1	3.737459892	3.950190678	138.5	554.0	Strix_sartorii-ML21681321.wav	D:\Andean\Strigidae\Strix_sartorii-ML21681321.wav	1	b
+5	Spectrogram 1	1	4.126243742	4.500356504	221.6	609.4	Strix_sartorii-ML21681321.wav	D:\Andean\Strigidae\Strix_sartorii-ML21681321.wav	1	c
+6	Spectrogram 1	1	4.797446049	5.068861190	221.6	554.0	Strix_sartorii-ML21681321.wav	D:\Andean\Strigidae\Strix_sartorii-ML21681321.wav	1	b
+7	Spectrogram 1	1	5.431970635	5.615359243	110.8	664.8	Strix_sartorii-ML21681321.wav	D:\Andean\Strigidae\Strix_sartorii-ML21681321.wav	1	a

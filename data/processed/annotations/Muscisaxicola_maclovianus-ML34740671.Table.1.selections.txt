@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	49.975535336	50.036641993	2142.3	7106.2	Muscisaxicola_maclovianus-ML34740671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_maclovianus-ML34740671.wav	1	a
+2	Spectrogram 1	1	50.485421860	50.514617084	2508.1	8151.2	Muscisaxicola_maclovianus-ML34740671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_maclovianus-ML34740671.wav	1	b
+3	Spectrogram 1	1	50.764528202	50.824086459	2037.8	6897.2	Muscisaxicola_maclovianus-ML34740671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_maclovianus-ML34740671.wav	1	a
+4	Spectrogram 1	1	51.098521565	51.119542126	5381.9	8307.9	Muscisaxicola_maclovianus-ML34740671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_maclovianus-ML34740671.wav	1	c
+5	Spectrogram 1	1	51.152240777	51.204792180	1672.0	6949.4	Muscisaxicola_maclovianus-ML34740671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_maclovianus-ML34740671.wav	1	a
+6	Spectrogram 1	1	51.379963525	51.419669029	1828.8	6374.6	Muscisaxicola_maclovianus-ML34740671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_maclovianus-ML34740671.wav	1	d
+7	Spectrogram 1	1	52.258436257	52.312155469	1672.0	6688.2	Muscisaxicola_maclovianus-ML34740671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_maclovianus-ML34740671.wav	2	a
+8	Spectrogram 1	1	52.462802825	52.516522037	1567.5	6688.2	Muscisaxicola_maclovianus-ML34740671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_maclovianus-ML34740671.wav	2	a
+9	Spectrogram 1	1	53.014008655	53.073566912	1567.5	7001.7	Muscisaxicola_maclovianus-ML34740671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_maclovianus-ML34740671.wav	3	a

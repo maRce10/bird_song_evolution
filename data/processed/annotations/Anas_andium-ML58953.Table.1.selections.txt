@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	128.404661087	128.587282471	346.1	3708.0	Anas_andium-ML58953.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_andium-ML58953.wav	1	a
+2	Spectrogram 1	1	129.637355429	129.823358691	494.4	3609.1	Anas_andium-ML58953.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_andium-ML58953.wav	2	a
+3	Spectrogram 1	1	131.960873513	132.150258652	420.2	3386.6	Anas_andium-ML58953.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_andium-ML58953.wav	3	a

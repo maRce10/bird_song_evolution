@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.810900336	11.880374432	1214.8	1828.8	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	1	a
+2	Spectrogram 1	1	11.883907838	11.950493017	770.7	1567.5	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	1	b
+3	Spectrogram 1	1	12.003916701	12.048851580	561.7	1175.7	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	1	c
+4	Spectrogram 1	1	12.052355312	12.099881018	627.0	1554.5	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	1	d
+5	Spectrogram 1	1	12.359592732	12.461870766	1332.4	2142.3	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	1	e
+6	Spectrogram 1	1	16.494984705	16.600049898	1306.3	2142.3	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	2	e
+7	Spectrogram 1	1	16.752925657	16.816673077	1149.5	1841.9	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	2	f
+8	Spectrogram 1	1	16.820921384	16.881647450	770.7	1567.5	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	2	b
+9	Spectrogram 1	1	16.937263158	16.982339391	561.7	1175.7	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	2	c
+10	Spectrogram 1	1	16.988223320	17.040165663	614.0	1567.5	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	2	d
+11	Spectrogram 1	1	21.014082272	21.089989854	1201.8	1828.8	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	3	a
+12	Spectrogram 1	1	21.090885687	21.164077169	940.5	1489.2	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	3	g
+13	Spectrogram 1	1	21.207289228	21.249026482	561.7	1162.6	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	3	c
+14	Spectrogram 1	1	21.258108951	21.308870786	640.1	1554.5	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	3	d
+15	Spectrogram 1	1	21.462712004	21.570138213	1332.4	2142.3	Erythrogenys_erythrocnemis-ML66059311.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Erythrogenys_erythrocnemis-ML66059311.wav	3	e

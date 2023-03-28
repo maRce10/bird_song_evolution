@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.855901643	2.084443543	24.7	346.1	Bucorvus_abyssinicus-ML138219451.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucorvidae\Bucorvus_abyssinicus-ML138219451.wav	1	a
+2	Spectrogram 1	1	5.252238966	5.493182365	49.4	346.1	Bucorvus_abyssinicus-ML138219451.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucorvidae\Bucorvus_abyssinicus-ML138219451.wav	2	a
+3	Spectrogram 1	1	8.365779334	8.606722733	49.4	321.4	Bucorvus_abyssinicus-ML138219451.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucorvidae\Bucorvus_abyssinicus-ML138219451.wav	3	a

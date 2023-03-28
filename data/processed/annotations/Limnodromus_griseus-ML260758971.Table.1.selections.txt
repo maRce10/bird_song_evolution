@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.104404568	18.192842852	2057.3	3930.0	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	1	a
+2	Spectrogram 1	1	18.230183461	18.342205288	1688.0	4246.5	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	1	a
+3	Spectrogram 1	1	18.521047153	18.631103685	1846.3	3877.2	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	1	a
+4	Spectrogram 1	1	18.662548408	18.766709054	1556.2	3824.5	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	1	a
+5	Spectrogram 1	1	18.802084368	18.876765586	2083.7	3587.1	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	1	a
+6	Spectrogram 1	1	20.707314566	20.827197573	1688.0	3323.3	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	2	a
+7	Spectrogram 1	1	20.860607592	20.962802943	1740.8	3481.6	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	2	a
+8	Spectrogram 1	1	21.489502060	21.581870935	2030.9	3719.0	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	2	a
+9	Spectrogram 1	1	21.972964682	22.069264148	1688.0	3270.6	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	2	a
+10	Spectrogram 1	1	22.098743576	22.187181861	1556.2	3534.3	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	2	a
+11	Spectrogram 1	1	22.226487765	22.297238393	1925.4	3191.4	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	2	a
+12	Spectrogram 1	1	23.887649747	23.989845098	1978.2	4114.6	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	3	a
+13	Spectrogram 1	1	24.025220412	24.103832221	2294.7	3956.3	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	3	a
+14	Spectrogram 1	1	24.233541705	24.327875875	2083.7	3033.2	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	3	b
+15	Spectrogram 1	1	24.373077665	24.471342426	1872.7	3059.6	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	3	b
+16	Spectrogram 1	1	24.473307721	24.549954234	1793.5	3771.7	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	3	a
+17	Spectrogram 1	1	24.585329548	24.663941356	1819.9	3323.3	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	3	a
+18	Spectrogram 1	1	24.693420785	24.746483755	1925.4	2532.1	Limnodromus_griseus-ML260758971.wav	D:\Andean\Scolopacidae\Limnodromus_griseus-ML260758971.wav	3	c

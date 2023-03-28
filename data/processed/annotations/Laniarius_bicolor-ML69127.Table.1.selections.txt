@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.322849096	9.719341049	1494.9	1892.0	Laniarius_bicolor-ML69127.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_bicolor-ML69127.wav	1	a
+2	Spectrogram 1	1	13.545616106	14.070600822	1494.9	1845.3	Laniarius_bicolor-ML69127.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_bicolor-ML69127.wav	1	a

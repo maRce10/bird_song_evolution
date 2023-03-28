@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.320951078	3.164333915	1488.7	11439.1	Tyto_tenebricosa-ML27010881.wav	C:\Users\pfmar\Downloads\Andean\Tytonidae\Tyto_tenebricosa-ML27010881.wav	1	a
+2	Spectrogram 1	1	4.657318184	6.262606579	1292.8	11400.0	Tyto_tenebricosa-ML27010881.wav	C:\Users\pfmar\Downloads\Andean\Tytonidae\Tyto_tenebricosa-ML27010881.wav	2	b
+3	Spectrogram 1	1	9.443358160	10.890099553	1332.0	11713.4	Tyto_tenebricosa-ML27010881.wav	C:\Users\pfmar\Downloads\Andean\Tytonidae\Tyto_tenebricosa-ML27010881.wav	3	c

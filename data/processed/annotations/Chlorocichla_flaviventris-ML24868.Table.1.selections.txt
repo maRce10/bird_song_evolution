@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.074686749	4.160566375	775.6	1994.5	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	1	a
+2	Spectrogram 1	1	4.461145067	4.751814570	609.4	1994.5	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	1	b
+3	Spectrogram 1	1	5.082120824	5.263789264	692.5	1606.7	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	1	c
+4	Spectrogram 1	1	5.528034268	5.749339458	581.7	1994.5	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	1	d
+5	Spectrogram 1	1	5.944220148	6.234889652	554.0	2049.9	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	1	e
+6	Spectrogram 1	1	10.422228848	10.518017662	581.7	1911.4	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	2	a
+7	Spectrogram 1	1	10.884657604	11.165417920	498.6	1994.5	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	2	b
+8	Spectrogram 1	1	11.502330299	11.690604864	581.7	1634.4	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	2	c
+9	Spectrogram 1	1	11.981274368	12.209185683	443.2	1939.1	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	2	d
+10	Spectrogram 1	1	12.410672498	12.674917502	498.6	1883.7	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	2	e
+11	Spectrogram 1	1	15.846622523	15.922592961	554.0	1994.5	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	3	a
+12	Spectrogram 1	1	16.223171653	16.477507468	498.6	1966.8	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	3	b
+13	Spectrogram 1	1	16.817722910	17.005997475	637.1	1662.1	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	3	c
+14	Spectrogram 1	1	17.210787353	17.448607856	747.9	2022.2	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	3	d
+15	Spectrogram 1	1	17.656700796	17.947370299	609.4	2216.1	Chlorocichla_flaviventris-ML24868.wav	D:\Andean\Pycnonotidae\Chlorocichla_flaviventris-ML24868.wav	3	f

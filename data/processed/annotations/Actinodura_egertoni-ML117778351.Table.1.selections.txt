@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.757097071	2.153062609	2657.4	3711.6	Actinodura_egertoni-ML117778351.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_egertoni-ML117778351.wav	1	a
+2	Spectrogram 1	1	2.184881268	2.485390827	3008.8	3909.3	Actinodura_egertoni-ML117778351.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_egertoni-ML117778351.wav	1	b
+3	Spectrogram 1	1	2.527815706	2.867214738	2701.3	3404.1	Actinodura_egertoni-ML117778351.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_egertoni-ML117778351.wav	1	c
+4	Spectrogram 1	1	5.684933216	6.073827940	2679.4	3579.8	Actinodura_egertoni-ML117778351.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_egertoni-ML117778351.wav	2	a
+5	Spectrogram 1	1	6.116252819	6.384943719	2964.9	3777.5	Actinodura_egertoni-ML117778351.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_egertoni-ML117778351.wav	2	b
+6	Spectrogram 1	1	6.430904005	6.823334135	2723.3	3513.9	Actinodura_egertoni-ML117778351.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_egertoni-ML117778351.wav	2	c
+7	Spectrogram 1	1	9.470738229	9.799531041	2701.3	3579.8	Actinodura_egertoni-ML117778351.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_egertoni-ML117778351.wav	3	a
+8	Spectrogram 1	1	9.884380799	10.177819545	2986.9	3755.5	Actinodura_egertoni-ML117778351.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_egertoni-ML117778351.wav	3	b
+9	Spectrogram 1	1	10.206102798	10.591462115	2701.3	3470.0	Actinodura_egertoni-ML117778351.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_egertoni-ML117778351.wav	3	c

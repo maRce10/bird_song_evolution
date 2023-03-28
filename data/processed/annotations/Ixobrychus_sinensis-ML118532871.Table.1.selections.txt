@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.682425106	1.831355913	271.9	1705.7	Ixobrychus_sinensis-ML118532871.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_sinensis-ML118532871.wav	1	a
+2	Spectrogram 1	1	3.962746360	4.120542097	323.5	1767.0	Ixobrychus_sinensis-ML118532871.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_sinensis-ML118532871.wav	2	a
+3	Spectrogram 1	1	6.061134962	6.213611741	224.0	1642.6	Ixobrychus_sinensis-ML118532871.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_sinensis-ML118532871.wav	3	a

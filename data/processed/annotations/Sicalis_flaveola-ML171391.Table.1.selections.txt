@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.629226919	6.689952985	5852.1	8856.6	Sicalis_flaveola-ML171391.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_flaveola-ML171391.wav	1	a
+2	Spectrogram 1	1	6.696959839	6.739000962	3527.0	6008.9	Sicalis_flaveola-ML171391.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_flaveola-ML171391.wav	1	b
+3	Spectrogram 1	1	7.805209549	7.869439042	5982.8	8882.7	Sicalis_flaveola-ML171391.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_flaveola-ML171391.wav	2	a
+4	Spectrogram 1	1	7.860096571	7.917319210	3605.3	5747.6	Sicalis_flaveola-ML171391.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_flaveola-ML171391.wav	2	b
+5	Spectrogram 1	1	8.508229041	8.546766737	7419.7	8647.6	Sicalis_flaveola-ML171391.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_flaveola-ML171391.wav	3	c
+6	Spectrogram 1	1	8.549102355	8.618003083	3448.6	7184.5	Sicalis_flaveola-ML171391.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_flaveola-ML171391.wav	3	d

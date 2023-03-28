@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.411193040	1.582952292	4635.2	4949.5	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	1	a
+2	Spectrogram 1	1	1.734893169	1.992532048	1728.4	3430.6	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	1	b
+3	Spectrogram 1	1	2.085017799	2.283201551	4451.9	5001.8	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	1	a
+4	Spectrogram 1	1	2.415324053	3.128785562	968.9	3587.7	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	1	c
+5	Spectrogram 1	1	3.128785562	3.313757064	3037.8	3561.5	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	1	d
+6	Spectrogram 1	1	3.359999940	3.551577567	4609.0	5106.6	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	1	a
+7	Spectrogram 1	1	3.630851068	3.868671571	1806.9	3299.6	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	1	b
+8	Spectrogram 1	1	4.007400198	4.198977825	4294.8	5028.0	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	1	a
+9	Spectrogram 1	1	7.916421655	7.969270656	6599.3	8275.3	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	2	e
+10	Spectrogram 1	1	9.672110326	9.734868514	6154.1	8170.5	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	2	e
+11	Spectrogram 1	1	9.936355329	10.114720706	2906.8	3640.1	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	2	d
+12	Spectrogram 1	1	10.250146270	10.501179024	1833.1	3587.7	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	2	b
+13	Spectrogram 1	1	10.590361712	10.762120964	4530.5	5185.2	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	2	a
+14	Spectrogram 1	1	10.874425091	11.581280475	1230.8	3797.2	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	2	c
+15	Spectrogram 1	1	11.601098850	11.766251977	2906.8	3744.8	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	2	d
+16	Spectrogram 1	1	11.812494853	11.997466355	4556.7	5211.3	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	2	a
+17	Spectrogram 1	1	15.552969535	15.728031850	2775.9	3640.1	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	3	d
+18	Spectrogram 1	1	15.856851289	16.097974854	1885.5	3509.1	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	3	b
+19	Spectrogram 1	1	16.203672855	16.395250483	4556.7	5106.6	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	3	a
+20	Spectrogram 1	1	16.481130109	17.181379368	785.6	3902.0	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	3	c
+21	Spectrogram 1	1	17.217713056	17.402684558	2933.0	3718.6	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	3	d
+22	Spectrogram 1	1	17.439018246	17.637201999	4582.8	5211.3	Ploceus_bicolor-ML178442511.wav	D:\Andean\Ploceidae\Ploceus_bicolor-ML178442511.wav	3	a

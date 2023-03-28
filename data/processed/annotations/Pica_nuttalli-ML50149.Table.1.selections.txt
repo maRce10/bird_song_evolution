@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	30.698803090	30.847290166	505.1	3381.4	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	1	a
+2	Spectrogram 1	1	30.900321265	31.048808342	461.2	3381.4	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	1	a
+3	Spectrogram 1	1	31.108910254	31.257397330	417.3	3353.0	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	1	a
+4	Spectrogram 1	1	31.335176275	31.490734164	373.4	3296.1	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	1	a
+5	Spectrogram 1	1	31.607402582	31.766495878	395.3	3296.1	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	1	a
+6	Spectrogram 1	1	33.976124390	34.117540653	511.5	3324.5	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	2	a
+7	Spectrogram 1	1	34.167036345	34.315523422	397.8	3267.7	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	2	a
+8	Spectrogram 1	1	34.380928443	34.540021740	483.1	3296.1	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	2	a
+9	Spectrogram 1	1	34.646083937	34.805177233	383.6	3296.1	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	2	a
+10	Spectrogram 1	1	43.824949283	43.962830140	426.2	3381.4	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	3	a
+11	Spectrogram 1	1	44.022932052	44.167883721	412.0	3438.2	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	3	a
+12	Spectrogram 1	1	44.240359556	44.381775820	426.2	3409.8	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	3	a
+13	Spectrogram 1	1	44.448948545	44.597435621	312.6	3409.8	Pica_nuttalli-ML50149.wav	E:\Escritorio\Cantos\Corvidae\Pica_nuttalli-ML50149.wav	3	a

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	28.279687916	28.428325730	914.1	1440.5	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	1	a
+2	Spectrogram 1	1	28.461356356	28.567054357	1024.9	1495.9	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	1	a
+3	Spectrogram 1	1	28.633115608	28.752025860	997.2	1495.9	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	1	a
+4	Spectrogram 1	1	28.788359548	28.884148361	969.5	1468.2	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	1	a
+5	Spectrogram 1	1	28.953512675	29.052604551	941.8	1385.1	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	1	a
+6	Spectrogram 1	1	29.121968864	29.214454615	914.1	1440.5	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	1	a
+7	Spectrogram 1	1	29.871764061	29.987371250	969.5	1495.9	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	2	a
+8	Spectrogram 1	1	30.066644751	30.185555003	997.2	1495.9	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	2	a
+9	Spectrogram 1	1	30.221888691	30.337495880	1024.9	1468.2	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	2	a
+10	Spectrogram 1	1	30.396951005	30.502649007	997.2	1440.5	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	2	a
+11	Spectrogram 1	1	30.558801070	30.674408259	886.4	1440.5	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	2	a
+12	Spectrogram 1	1	30.733863385	30.836258323	969.5	1412.8	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	2	a
+13	Spectrogram 1	1	31.605871895	31.734691335	941.8	1495.9	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	3	a
+14	Spectrogram 1	1	31.810661773	31.906450587	997.2	1468.2	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	3	a
+15	Spectrogram 1	1	31.969208775	32.078209839	997.2	1523.6	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	3	a
+16	Spectrogram 1	1	32.144271090	32.223544591	969.5	1495.9	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	3	a
+17	Spectrogram 1	1	32.319333404	32.415122218	941.8	1440.5	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	3	a
+18	Spectrogram 1	1	32.497698782	32.606699846	969.5	1412.8	Sarothrura_pulchra-ML45714.wav	D:\Andean\Sarothruridae\Sarothrura_pulchra-ML45714.wav	3	a

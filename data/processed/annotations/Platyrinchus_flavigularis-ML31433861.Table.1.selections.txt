@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	145.771727379	145.941836118	1698.2	7707.0	Platyrinchus_flavigularis-ML31433861.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_flavigularis-ML31433861.wav	1	a
+2	Spectrogram 1	1	146.144973446	147.383621900	1384.7	7289.0	Platyrinchus_flavigularis-ML31433861.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_flavigularis-ML31433861.wav	1	b
+3	Spectrogram 1	1	147.405091806	147.477759182	862.1	7707.0	Platyrinchus_flavigularis-ML31433861.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_flavigularis-ML31433861.wav	1	c
+4	Spectrogram 1	1	158.126176158	158.297935411	1567.5	8307.9	Platyrinchus_flavigularis-ML31433861.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_flavigularis-ML31433861.wav	2	a
+5	Spectrogram 1	1	160.689018978	160.857475168	1698.2	8098.9	Platyrinchus_flavigularis-ML31433861.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_flavigularis-ML31433861.wav	3	a

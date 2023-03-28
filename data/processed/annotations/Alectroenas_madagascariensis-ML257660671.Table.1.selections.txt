@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.404679830	5.529248452	194.3	1165.6	Alectroenas_madagascariensis-ML257660671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Alectroenas_madagascariensis-ML257660671.wav	1	a
+2	Spectrogram 1	1	6.339774958	6.447734432	194.3	1068.5	Alectroenas_madagascariensis-ML257660671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Alectroenas_madagascariensis-ML257660671.wav	2	a
+3	Spectrogram 1	1	8.112235555	8.220195028	170.0	1165.6	Alectroenas_madagascariensis-ML257660671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Alectroenas_madagascariensis-ML257660671.wav	3	a

@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.747258798	1.835643963	2459.8	6149.4	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	a
+2	Spectrogram 1	1	1.853320995	1.941706160	2262.1	4216.7	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	b
+3	Spectrogram 1	1	2.072516204	2.245751126	1822.9	4458.3	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	c
+4	Spectrogram 1	1	2.274034379	2.489694180	2152.3	4238.7	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	d
+5	Spectrogram 1	1	2.581614751	2.804345366	1932.7	4128.9	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	d
+6	Spectrogram 1	1	2.952832443	3.147279805	1866.8	4458.3	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	c
+7	Spectrogram 1	1	3.239200376	3.387687452	2108.4	4677.9	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	e
+8	Spectrogram 1	1	3.539709935	3.758905143	1800.9	4085.0	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	d
+9	Spectrogram 1	1	3.917998439	4.091233362	1669.1	4282.6	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	c
+10	Spectrogram 1	1	4.190218195	4.359917711	1976.6	4546.2	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	e
+11	Spectrogram 1	1	4.511940194	4.572042106	1888.7	3513.9	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	f
+12	Spectrogram 1	1	4.593254546	4.709922963	1954.6	4150.8	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	g
+13	Spectrogram 1	1	4.890228699	5.077605248	1691.1	4304.6	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	c
+14	Spectrogram 1	1	5.183667445	5.353366961	1998.6	4304.6	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	e
+15	Spectrogram 1	1	5.505389444	5.703372213	1669.1	3887.3	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	d
+16	Spectrogram 1	1	5.876607135	6.067519091	1757.0	4392.4	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	c
+17	Spectrogram 1	1	6.201864541	6.353887024	1998.6	4392.4	Xanthotis_macleayanus-ML31672291.wav	E:\Escritorio\Cantos\Meliphagidae\Xanthotis_macleayanus-ML31672291.wav	1	e

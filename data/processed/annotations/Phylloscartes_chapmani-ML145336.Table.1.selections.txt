@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.563976449	7.667197153	5097.0	7673.2	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	1	a
+2	Spectrogram 1	1	7.681235169	7.706833904	3656.5	6869.8	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	1	b
+3	Spectrogram 1	1	7.710962732	7.759682904	4653.8	7008.4	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	1	c
+4	Spectrogram 1	1	7.774546686	7.846388296	3324.1	6786.7	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	1	d
+5	Spectrogram 1	1	7.868683968	7.943828641	2714.7	6537.4	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	1	e
+6	Spectrogram 1	1	17.202396924	17.308094925	4903.1	7562.4	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	2	a
+7	Spectrogram 1	1	17.319655644	17.400580676	3213.3	6759.0	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	2	d
+8	Spectrogram 1	1	17.416270223	17.489763365	3102.5	6482.0	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	2	e
+9	Spectrogram 1	1	17.509581740	17.576468756	3185.6	5928.0	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	2	f
+10	Spectrogram 1	1	18.431281661	18.526244709	5013.9	7811.7	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	3	g
+11	Spectrogram 1	1	18.542760022	18.626988117	3213.3	7063.8	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	3	d
+12	Spectrogram 1	1	18.641851898	18.673230992	3102.5	6703.6	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	3	b
+13	Spectrogram 1	1	18.681488648	18.718648102	3961.2	6703.6	Phylloscartes_chapmani-ML145336.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_chapmani-ML145336.wav	3	c

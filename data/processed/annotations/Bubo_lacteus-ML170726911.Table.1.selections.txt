@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.768202522	1.864850159	49.0	548.5	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	1	a
+2	Spectrogram 1	1	2.388161752	2.480094869	58.8	636.6	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	1	a
+3	Spectrogram 1	1	2.786538595	2.887900750	39.2	617.0	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	1	a
+4	Spectrogram 1	1	3.335780042	3.451285754	39.2	597.4	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	1	a
+5	Spectrogram 1	1	23.409942690	23.501875808	39.2	528.9	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	2	a
+6	Spectrogram 1	1	24.041688217	24.135978594	78.4	617.0	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	2	a
+7	Spectrogram 1	1	24.428278763	24.531998178	58.8	626.8	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	2	a
+8	Spectrogram 1	1	24.946875837	25.062381549	39.2	646.4	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	2	a
+9	Spectrogram 1	1	36.427020527	36.509524607	29.4	548.5	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	3	a
+10	Spectrogram 1	1	37.070552351	37.167199987	49.0	656.2	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	3	a
+11	Spectrogram 1	1	37.454785638	37.565576831	49.0	636.6	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	3	a
+12	Spectrogram 1	1	37.996955306	38.114818277	39.2	626.8	Bubo_lacteus-ML170726911.wav	D:\Andean\Strigidae\Bubo_lacteus-ML170726911.wav	3	a

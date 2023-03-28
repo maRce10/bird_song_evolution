@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.985723050	1.270242739	1518.3	4671.6	Turdoides_hypoleuca-ML78907771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Leiothrichidae\Leiothrichidae\Turdoides_hypoleuca-ML78907771.wav	1	a
+2	Spectrogram 1	1	1.330817898	1.607995143	1448.2	4484.7	Turdoides_hypoleuca-ML78907771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Leiothrichidae\Leiothrichidae\Turdoides_hypoleuca-ML78907771.wav	2	a
+3	Spectrogram 1	1	1.659392249	1.998980264	1354.8	4368.0	Turdoides_hypoleuca-ML78907771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Leiothrichidae\Leiothrichidae\Turdoides_hypoleuca-ML78907771.wav	3	a

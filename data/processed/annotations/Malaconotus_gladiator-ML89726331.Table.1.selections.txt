@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.204080506	11.195310389	887.6	1214.6	Malaconotus_gladiator-ML89726331.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Malaconotus_gladiator-ML89726331.wav	1	a
+2	Spectrogram 1	1	12.022419886	12.929211668	864.2	1308.1	Malaconotus_gladiator-ML89726331.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Malaconotus_gladiator-ML89726331.wav	2	a
+3	Spectrogram 1	1	13.677390523	14.411634880	887.6	1261.3	Malaconotus_gladiator-ML89726331.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Malaconotus_gladiator-ML89726331.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.445833759	14.748709557	817.5	3176.7	Chroicocephalus_philadelphia-ML132250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_philadelphia-ML132250.wav	1	a
+2	Spectrogram 1	1	14.829476436	15.154379565	864.2	3153.3	Chroicocephalus_philadelphia-ML132250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_philadelphia-ML132250.wav	2	a
+3	Spectrogram 1	1	15.589163017	15.941600309	887.6	3246.8	Chroicocephalus_philadelphia-ML132250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_philadelphia-ML132250.wav	3	a

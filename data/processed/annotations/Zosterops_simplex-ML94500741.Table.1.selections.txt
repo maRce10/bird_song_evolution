@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.880582719	26.100130803	3214.4	7537.2	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	1	a
+2	Spectrogram 1	1	26.148301658	26.349788473	3709.8	6792.7	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	1	b
+3	Spectrogram 1	1	26.447228818	26.599169695	3527.0	6348.5	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	1	c
+4	Spectrogram 1	1	26.744504447	26.871672355	3866.6	7393.5	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	1	d
+5	Spectrogram 1	1	26.921218293	27.097932139	3945.0	7184.5	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	1	e
+6	Spectrogram 1	1	27.244917705	27.327494268	3631.5	6374.6	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	1	f
+7	Spectrogram 1	1	27.378691738	27.517420364	3082.8	5747.6	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	1	g
+8	Spectrogram 1	1	27.578527021	27.745331680	3892.7	7445.8	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	1	h
+9	Spectrogram 1	1	27.884060307	27.966636870	3997.2	6897.2	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	1	i
+10	Spectrogram 1	1	28.087198653	28.186290529	3709.8	6635.9	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	1	j
+11	Spectrogram 1	1	28.463353793	28.647463089	3918.8	6871.0	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	2	e
+12	Spectrogram 1	1	28.751509559	28.915011155	3971.1	6061.1	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	2	k
+13	Spectrogram 1	1	28.952996251	29.078512627	3500.8	6923.3	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	2	l
+15	Spectrogram 1	1	30.964688794	31.372617018	3605.3	8203.4	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	m
+16	Spectrogram 1	1	31.496481863	31.716135522	3945.0	7942.2	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	n
+17	Spectrogram 1	1	31.770636054	31.929183056	3683.7	7498.0	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	o
+18	Spectrogram 1	1	32.001850432	32.039835651	4023.3	5381.9	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	p
+19	Spectrogram 1	1	32.049744839	32.160397434	3892.7	5956.6	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	q
+20	Spectrogram 1	1	32.290868404	32.411430187	3918.8	7106.2	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	i
+21	Spectrogram 1	1	32.480794500	32.667417534	3945.0	7158.4	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	e
+22	Spectrogram 1	1	32.812752286	32.893677318	3736.0	6505.3	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	f
+23	Spectrogram 1	1	32.934964695	33.085254040	3187.3	6008.9	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	g
+24	Spectrogram 1	1	33.144709166	33.334635262	3448.6	7602.5	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	h
+25	Spectrogram 1	1	33.448590920	33.577410359	3553.1	6792.7	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	r
+26	Spectrogram 1	1	33.640168547	33.767336455	3788.2	6844.9	Zosterops_simplex-ML94500741.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_simplex-ML94500741.wav	3	j

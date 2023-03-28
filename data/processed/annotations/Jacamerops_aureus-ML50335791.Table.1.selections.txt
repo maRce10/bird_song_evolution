@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.861364964	2.508302787	1942.2	3884.5	Jacamerops_aureus-ML50335791.wav	C:\Users\Carlos PC\Desktop\Galbulidae\Jacamerops_aureus-ML50335791.wav	1	a
+2	Spectrogram 1	1	2.496953000	4.766910273	1942.2	4398.6	Jacamerops_aureus-ML50335791.wav	C:\Users\Carlos PC\Desktop\Galbulidae\Jacamerops_aureus-ML50335791.wav	1	b
+3	Spectrogram 1	1	21.002863673	21.763299360	1942.2	4284.3	Jacamerops_aureus-ML50335791.wav	C:\Users\Carlos PC\Desktop\Galbulidae\Jacamerops_aureus-ML50335791.wav	2	a
+4	Spectrogram 1	1	21.751949573	23.794911119	1942.2	4284.3	Jacamerops_aureus-ML50335791.wav	C:\Users\Carlos PC\Desktop\Galbulidae\Jacamerops_aureus-ML50335791.wav	2	b
+5	Spectrogram 1	1	36.489780004	37.136717827	2170.7	3998.7	Jacamerops_aureus-ML50335791.wav	C:\Users\Carlos PC\Desktop\Galbulidae\Jacamerops_aureus-ML50335791.wav	3	a
+6	Spectrogram 1	1	37.148067613	39.610971254	1713.7	4055.8	Jacamerops_aureus-ML50335791.wav	C:\Users\Carlos PC\Desktop\Galbulidae\Jacamerops_aureus-ML50335791.wav	3	b

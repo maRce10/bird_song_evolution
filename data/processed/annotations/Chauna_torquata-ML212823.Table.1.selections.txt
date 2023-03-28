@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	193.539747343	194.135470574	247.2	6773.2	Chauna_torquata-ML212823.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anhimidae\Anhimidae\Chauna_torquata-ML212823.wav	1	a
+2	Spectrogram 1	1	206.746386718	207.248141702	197.8	6822.6	Chauna_torquata-ML212823.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anhimidae\Anhimidae\Chauna_torquata-ML212823.wav	2	a
+3	Spectrogram 1	1	221.619169059	222.236168119	271.9	5042.8	Chauna_torquata-ML212823.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anhimidae\Anhimidae\Chauna_torquata-ML212823.wav	3	a

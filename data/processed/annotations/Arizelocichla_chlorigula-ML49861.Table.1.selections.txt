@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.815574122	10.864622099	1024.9	1468.2	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	1	a
+2	Spectrogram 1	1	11.091177037	11.214964787	1024.9	2188.4	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	1	b
+3	Spectrogram 1	1	11.399478603	11.497574556	914.1	3268.7	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	1	c
+4	Spectrogram 1	1	11.534944442	11.663403428	664.8	2714.7	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	1	d
+5	Spectrogram 1	1	17.640030221	17.675064490	1024.9	1495.9	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	2	a
+6	Spectrogram 1	1	17.894612575	18.023071560	1108.0	2216.1	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	2	b
+7	Spectrogram 1	1	18.207585376	18.312688183	803.3	3157.9	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	2	c
+8	Spectrogram 1	1	18.338379980	18.473845819	692.5	2659.3	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	2	d
+9	Spectrogram 1	1	25.776926854	25.814296741	1052.6	1468.2	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	3	a
+10	Spectrogram 1	1	26.043187297	26.166975047	1080.3	2188.4	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	3	b
+11	Spectrogram 1	1	26.360831334	26.468269759	886.4	3268.7	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	3	c
+12	Spectrogram 1	1	26.496297174	26.627091778	692.5	2659.3	Arizelocichla_chlorigula-ML49861.wav	D:\Andean\Pycnonotidae\Arizelocichla_chlorigula-ML49861.wav	3	d

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	121.040510200	121.103571884	4075.6	7707.0	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	1	a
+2	Spectrogram 1	1	121.309106261	121.393188506	4127.8	7707.0	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	1	a
+3	Spectrogram 1	1	121.556681761	121.615072209	4075.6	7628.7	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	1	a
+4	Spectrogram 1	1	121.787907935	121.843962765	4127.8	7733.2	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	1	a
+5	Spectrogram 1	1	122.016798492	122.068182086	4075.6	7602.5	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	1	a
+6	Spectrogram 1	1	122.219997251	122.294737024	4075.6	7524.2	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	1	a
+7	Spectrogram 1	1	122.465237133	122.528298816	3997.2	7393.5	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	1	a
+8	Spectrogram 1	1	122.687120835	122.757189373	4075.6	7393.5	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	1	a
+9	Spectrogram 1	1	122.993086783	123.042134759	4728.7	6035.0	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	1	b
+10	Spectrogram 1	1	124.474302785	124.518679526	4807.1	6479.1	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	2	b
+11	Spectrogram 1	1	124.827939617	124.869980739	4728.7	6165.6	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	2	b
+12	Spectrogram 1	1	125.150254890	125.208645338	4154.0	7419.7	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	2	a
+13	Spectrogram 1	1	125.425857805	125.484248253	4101.7	7315.2	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	2	a
+14	Spectrogram 1	1	127.471060348	127.525947369	4258.5	7707.0	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	3	a
+15	Spectrogram 1	1	127.819067418	127.882129102	4519.7	7602.5	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	3	a
+16	Spectrogram 1	1	128.078321008	128.148389545	4441.4	7602.5	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	3	a
+17	Spectrogram 1	1	128.330567743	128.386622573	4180.1	7550.3	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	3	a
+18	Spectrogram 1	1	128.561793918	128.615513130	4206.2	7498.0	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	3	a
+19	Spectrogram 1	1	128.774335148	128.835061214	4284.6	7628.7	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	3	a
+20	Spectrogram 1	1	128.993883233	129.063951771	4310.7	7393.5	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	3	a
+21	Spectrogram 1	1	129.253136822	129.309191653	4284.6	7315.2	Epinecrophylla_fulviventris-ML58387.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_fulviventris-ML58387.wav	3	a

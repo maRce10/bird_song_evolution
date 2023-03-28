@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.081577695	1.131183689	1378.1	3503.7	Vanellus_cayanus-ML32242441.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_cayanus-ML32242441.wav	1	a
+2	Spectrogram 1	1	1.177246397	1.233938962	1027.8	3270.1	Vanellus_cayanus-ML32242441.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_cayanus-ML32242441.wav	1	b
+3	Spectrogram 1	1	1.283544955	1.347324090	1121.2	3480.3	Vanellus_cayanus-ML32242441.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_cayanus-ML32242441.wav	1	c
+4	Spectrogram 1	1	1.740628755	1.799092962	1027.8	3480.3	Vanellus_cayanus-ML32242441.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_cayanus-ML32242441.wav	2	a
+5	Spectrogram 1	1	1.843384028	1.907163163	1121.2	3480.3	Vanellus_cayanus-ML32242441.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_cayanus-ML32242441.wav	2	b
+6	Spectrogram 1	1	1.970942298	2.040036361	1097.8	3386.9	Vanellus_cayanus-ML32242441.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_cayanus-ML32242441.wav	2	b
+7	Spectrogram 1	1	2.388847280	2.445539844	1167.9	3457.0	Vanellus_cayanus-ML32242441.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_cayanus-ML32242441.wav	2	a
+8	Spectrogram 1	1	2.484515982	2.544751832	1027.8	3457.0	Vanellus_cayanus-ML32242441.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_cayanus-ML32242441.wav	3	b
+9	Spectrogram 1	1	2.596129468	2.661680246	1144.5	3527.1	Vanellus_cayanus-ML32242441.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_cayanus-ML32242441.wav	3	b

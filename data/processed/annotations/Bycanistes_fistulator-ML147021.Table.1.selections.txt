@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.496673944	12.549823223	618.0	1903.4	Bycanistes_fistulator-ML147021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Bycanistes_fistulator-ML147021.wav	1	a
+2	Spectrogram 1	1	13.010450308	13.068914515	494.4	1804.5	Bycanistes_fistulator-ML147021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Bycanistes_fistulator-ML147021.wav	2	a
+3	Spectrogram 1	1	13.354148979	13.412613186	494.4	1829.3	Bycanistes_fistulator-ML147021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Bycanistes_fistulator-ML147021.wav	3	a

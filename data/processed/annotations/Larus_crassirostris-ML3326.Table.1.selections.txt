@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	50.604686977	50.870850557	222.3	1489.3	Larus_crassirostris-ML3326.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_crassirostris-ML3326.wav	1	a
+2	Spectrogram 1	1	51.126000471	51.447232378	200.1	1467.0	Larus_crassirostris-ML3326.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_crassirostris-ML3326.wav	1	a
+3	Spectrogram 1	1	52.611015035	52.906548389	244.5	1644.9	Larus_crassirostris-ML3326.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_crassirostris-ML3326.wav	2	
+4	Spectrogram 1	1	53.708954670	54.043035853	222.3	1555.9	Larus_crassirostris-ML3326.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_crassirostris-ML3326.wav	3	a

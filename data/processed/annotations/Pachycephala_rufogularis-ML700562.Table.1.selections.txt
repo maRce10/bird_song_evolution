@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	42.993057100	43.144997977	1218.8	2964.0	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	1	a
+2	Spectrogram 1	1	43.283726604	43.455485856	1108.0	3074.8	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	1	a
+3	Spectrogram 1	1	43.614032858	43.812216610	1108.0	3157.9	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	1	a
+4	Spectrogram 1	1	43.950945237	44.142522865	1080.3	3241.0	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	1	a
+5	Spectrogram 1	1	44.274645366	44.459616868	1191.1	3213.3	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	1	a
+6	Spectrogram 1	1	44.604951620	44.783316998	1052.6	3296.4	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	1	a
+7	Spectrogram 1	1	44.935257874	45.140047752	1191.1	3296.4	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	1	a
+8	Spectrogram 1	1	45.291988629	45.483566256	1163.4	3213.3	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	1	a
+9	Spectrogram 1	1	49.884649055	50.016771557	1218.8	2908.6	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	2	a
+10	Spectrogram 1	1	50.214955309	50.386714561	1024.9	3157.9	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	2	a
+11	Spectrogram 1	1	50.525443188	50.723626940	1052.6	3241.0	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	2	a
+12	Spectrogram 1	1	50.862355567	51.060539320	969.5	3185.6	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	2	a
+13	Spectrogram 1	1	51.199267946	51.390845574	1024.9	3213.3	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	2	a
+14	Spectrogram 1	1	51.529574201	51.688121203	1108.0	3268.7	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	2	a
+15	Spectrogram 1	1	51.859880455	52.051458082	1080.3	3241.0	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	2	a
+16	Spectrogram 1	1	52.210005084	52.375158211	1191.1	3213.3	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	2	a
+17	Spectrogram 1	1	56.325768323	56.471103075	1191.1	2908.6	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	3	a
+18	Spectrogram 1	1	56.616437826	56.801409329	1108.0	3047.1	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	3	a
+19	Spectrogram 1	1	56.946744081	57.111897208	1052.6	3102.5	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	3	a
+20	Spectrogram 1	1	57.283656460	57.455415712	1108.0	3185.6	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	3	a
+21	Spectrogram 1	1	57.600750464	57.785721966	1080.3	3324.1	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	3	a
+22	Spectrogram 1	1	57.924450593	58.116028220	1080.3	3268.7	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	3	a
+23	Spectrogram 1	1	58.294393597	58.479365100	1108.0	3268.7	Pachycephala_rufogularis-ML700562.wav	D:\Andean\Pachycephalidae\Pachycephala_rufogularis-ML700562.wav	3	a

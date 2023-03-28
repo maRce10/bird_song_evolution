@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.979190125	6.091494251	2077.6	2880.9	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	1	a
+2	Spectrogram 1	1	6.183980003	6.349133130	2022.2	2908.6	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	1	a
+3	Spectrogram 1	1	6.435012756	6.580347508	2077.6	2880.9	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	1	a
+4	Spectrogram 1	1	6.646408758	6.824774136	2105.3	2991.7	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	1	a
+5	Spectrogram 1	1	6.904047637	7.055988514	2049.9	2936.3	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	1	a
+6	Spectrogram 1	1	7.161686515	7.313627392	2105.3	2991.7	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	1	a
+7	Spectrogram 1	1	7.392900893	7.558054020	2188.4	3019.4	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	1	a
+8	Spectrogram 1	1	7.663752021	7.815692898	2133.0	3047.1	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	1	a
+9	Spectrogram 1	1	12.942045963	13.054350089	2160.7	2936.3	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	2	a
+10	Spectrogram 1	1	13.186472591	13.311988967	2160.7	2964.0	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	2	a
+11	Spectrogram 1	1	13.411080844	13.543203345	2049.9	2880.9	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	2	a
+12	Spectrogram 1	1	13.648901347	13.800842223	2216.1	2880.9	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	2	a
+13	Spectrogram 1	1	13.886721850	14.038662726	2105.3	2908.6	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	2	a
+14	Spectrogram 1	1	14.137754603	14.296301605	2160.7	2991.7	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	2	a
+15	Spectrogram 1	1	14.395393481	14.540728233	2105.3	2964.0	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	2	a
+16	Spectrogram 1	1	20.396838933	20.489324684	2105.3	2964.0	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	3	a
+17	Spectrogram 1	1	20.621447186	20.730448249	2077.6	2908.6	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	3	a
+18	Spectrogram 1	1	20.865873814	20.961662627	2160.7	2936.3	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	3	a
+19	Spectrogram 1	1	21.093785129	21.202786193	2077.6	2991.7	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	3	a
+20	Spectrogram 1	1	21.305181132	21.414182196	2133.0	3130.2	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	3	a
+21	Spectrogram 1	1	21.526486322	21.661911886	2160.7	3102.5	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	3	a
+22	Spectrogram 1	1	21.787428263	21.909641577	2133.0	3185.6	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	3	a
+23	Spectrogram 1	1	22.035157953	22.177189643	2160.7	3241.0	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	3	a
+24	Spectrogram 1	1	22.292796832	22.415010146	2188.4	3185.6	Arses_lorealis-ML62821681.wav	E:\Andean\Monarchidae\Arses_lorealis-ML62821681.wav	3	a

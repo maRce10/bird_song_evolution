@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.808921327	6.361296929	327.0	934.3	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	1	a
+2	Spectrogram 1	1	7.935388248	9.376342800	350.4	911.0	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	1	a
+3	Spectrogram 1	1	10.903780438	12.160218215	327.0	887.6	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	a
+4	Spectrogram 1	1	12.366573267	12.584632716	373.7	1378.1	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	b
+5	Spectrogram 1	1	12.745581357	12.963640806	397.1	1354.8	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	b
+6	Spectrogram 1	1	13.150548905	13.399759704	443.8	1354.8	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	b
+7	Spectrogram 1	1	13.586667803	13.830686711	537.2	1378.1	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	b
+8	Spectrogram 1	1	14.019329132	14.237388581	490.5	1284.7	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	b
+9	Spectrogram 1	1	14.268539931	14.465831814	513.9	1202.9	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	c
+10	Spectrogram 1	1	14.691679100	15.003192599	537.2	1343.1	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	d
+11	Spectrogram 1	1	15.205676373	15.480846630	490.5	1273.0	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	d
+12	Spectrogram 1	1	15.688522296	15.981864174	420.4	1179.6	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	d
+13	Spectrogram 1	1	16.228481317	16.449136711	443.8	1144.5	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	d
+14	Spectrogram 1	1	16.662004269	16.955346147	490.5	1156.2	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	d
+15	Spectrogram 1	1	17.300606941	17.560201523	443.8	1097.8	Penelope_jacquacu-ML67650.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_jacquacu-ML67650.wav	3	d

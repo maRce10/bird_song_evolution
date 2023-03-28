@@ -1,0 +1,37 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	48.483114595	48.522820100	2194.5	11599.8	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+3	Spectrogram 1	1	50.410205131	50.447575017	2351.3	14055.6	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+4	Spectrogram 1	1	50.552677824	50.594718946	2299.1	13951.1	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+5	Spectrogram 1	1	50.655445012	50.711499843	2612.6	13742.1	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+6	Spectrogram 1	1	50.758212201	50.802588942	2455.8	13794.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+7	Spectrogram 1	1	50.858643772	50.896013658	2351.3	13794.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+8	Spectrogram 1	1	50.954404106	51.005787701	2090.0	13637.6	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+9	Spectrogram 1	1	51.057171295	51.101548036	2508.1	13951.1	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+10	Spectrogram 1	1	51.150596012	51.194972752	2299.1	13794.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+11	Spectrogram 1	1	51.251027583	51.297739941	2664.8	13898.8	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+12	Spectrogram 1	1	51.349123535	51.402842747	2508.1	13794.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+13	Spectrogram 1	1	51.449555106	51.496267464	2664.8	14003.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+14	Spectrogram 1	1	51.547651059	51.587356563	2717.1	13846.6	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+15	Spectrogram 1	1	51.652753865	51.699466224	2403.6	13951.1	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+16	Spectrogram 1	1	51.746178582	51.792890940	2612.6	13794.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+17	Spectrogram 1	1	51.841938917	51.886315657	2612.6	13794.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+18	Spectrogram 1	1	51.942370487	51.982075992	2664.8	13794.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	a
+19	Spectrogram 1	1	52.010103407	52.035795204	2508.1	6061.1	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	b
+20	Spectrogram 1	1	52.047473294	52.080171945	2194.5	5016.1	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	b
+21	Spectrogram 1	1	52.082214156	52.112577189	2299.1	4650.4	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	
+22	Spectrogram 1	1	52.119584043	52.149947076	2246.8	4702.6	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	b
+23	Spectrogram 1	1	52.194323816	52.227022467	1985.5	4807.1	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	b
+24	Spectrogram 1	1	52.229358085	52.278406062	1881.0	4441.4	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	b
+25	Spectrogram 1	1	52.327454038	52.360152689	1672.0	4859.4	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	b
+26	Spectrogram 1	1	52.371830778	52.404529429	1619.8	4389.1	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	b
+27	Spectrogram 1	1	52.437228080	52.474597967	1619.8	4650.4	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	b
+28	Spectrogram 1	1	52.483940439	52.514303472	1881.0	4911.6	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	1	b
+29	Spectrogram 1	1	57.598740959	57.638446463	3239.6	11338.5	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	2	a
+30	Spectrogram 1	1	60.476222238	60.520598979	2508.1	12435.8	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	2	a
+31	Spectrogram 1	1	63.408417602	63.490164230	1724.3	12122.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	2	c
+32	Spectrogram 1	1	63.763431527	63.812479503	3030.6	12070.0	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	2	a
+33	Spectrogram 1	1	65.258915725	65.305628084	3605.3	12383.5	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	2	a
+34	Spectrogram 1	1	67.801655329	67.848367687	1933.3	12749.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	2	a
+35	Spectrogram 1	1	76.711398421	76.755775161	2403.6	12749.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	3	a
+36	Spectrogram 1	1	78.874180616	78.953591626	1201.8	13062.8	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	3	c
+37	Spectrogram 1	1	82.259120129	82.298825634	2717.1	12122.3	Stilpnia_larvata-ML205540.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_larvata-ML205540.wav	3	a

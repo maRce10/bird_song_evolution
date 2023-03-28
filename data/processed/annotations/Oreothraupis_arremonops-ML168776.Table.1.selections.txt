@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.097387809	7.265552299	8344.3	9558.7	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	1	a
+2	Spectrogram 1	1	7.340292073	8.012950034	7051.5	9402.0	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	1	b
+3	Spectrogram 1	1	8.143744638	8.405333845	7090.7	9245.3	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	1	a
+4	Spectrogram 1	1	8.592183279	9.063978099	6855.6	9872.1	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	1	c
+5	Spectrogram 1	1	9.115361693	9.652553815	6463.9	9441.2	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	1	c
+6	Spectrogram 1	1	9.689923702	10.072965041	7482.5	9911.3	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	1	c
+7	Spectrogram 1	1	10.124348636	10.334554249	8305.1	10381.4	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	1	d
+8	Spectrogram 1	1	10.409294022	10.619499635	8344.3	10224.7	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	1	e
+9	Spectrogram 1	1	11.600288556	11.709289620	7051.5	9597.9	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	2	a
+10	Spectrogram 1	1	11.907473372	12.379811316	6620.6	9715.4	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	2	c
+11	Spectrogram 1	1	12.452478692	12.957847260	6150.5	9362.9	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	2	c
+12	Spectrogram 1	1	13.027211574	13.423579079	7639.2	9519.6	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	2	c
+13	Spectrogram 1	1	13.473125017	13.681217957	8501.0	10028.8	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	2	d
+14	Spectrogram 1	1	13.747279208	13.965281336	8383.5	10185.5	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	2	e
+15	Spectrogram 1	1	15.664137190	15.769835191	7482.5	9480.4	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	3	a
+16	Spectrogram 1	1	16.123262883	16.572479389	6777.3	9519.6	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	3	c
+17	Spectrogram 1	1	16.658359015	17.147212271	6268.0	9402.0	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	3	c
+18	Spectrogram 1	1	17.233091897	17.619550215	7443.3	9715.4	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	3	c
+19	Spectrogram 1	1	17.662490028	17.887098280	8344.3	10498.9	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	3	d
+20	Spectrogram 1	1	17.936644219	18.171161659	8383.5	10498.9	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	3	e
+21	Spectrogram 1	1	18.329708661	18.574135289	7286.6	9715.4	Oreothraupis_arremonops-ML168776.wav	D:\Andean\Passerellidae\Oreothraupis_arremonops-ML168776.wav	3	a

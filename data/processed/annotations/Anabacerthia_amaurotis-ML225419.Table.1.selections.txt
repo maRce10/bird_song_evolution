@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	459.843651247	459.911568850	3218.577	9548.609	Anabacerthia_amaurotis-ML225419.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Furnariidae (4)\Furnariidae\Anabacerthia_amaurotis-ML225419.wav	1	a
+2	Spectrogram 1	1	462.163149595	462.231067198	3008.355	9901.200	Anabacerthia_amaurotis-ML225419.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Furnariidae (4)\Furnariidae\Anabacerthia_amaurotis-ML225419.wav	2	a
+3	Spectrogram 1	1	465.748051870	465.817805084	3662.380	9571.967	Anabacerthia_amaurotis-ML225419.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Furnariidae (4)\Furnariidae\Anabacerthia_amaurotis-ML225419.wav	3	a

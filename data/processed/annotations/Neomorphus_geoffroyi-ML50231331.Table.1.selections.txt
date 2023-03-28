@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.251533930	2.958802471	100.7	553.8	Neomorphus_geoffroyi-ML50231331.wav	E:\Escritorio\Cantos\Cuculidae\Neomorphus_geoffroyi-ML50231331.wav	1	a
+2	Spectrogram 1	1	6.269374870	7.899197304	131.8	553.8	Neomorphus_geoffroyi-ML50231331.wav	E:\Escritorio\Cantos\Cuculidae\Neomorphus_geoffroyi-ML50231331.wav	2	a
+3	Spectrogram 1	1	13.200429541	14.776898500	153.7	528.6	Neomorphus_geoffroyi-ML50231331.wav	E:\Escritorio\Cantos\Cuculidae\Neomorphus_geoffroyi-ML50231331.wav	3	a

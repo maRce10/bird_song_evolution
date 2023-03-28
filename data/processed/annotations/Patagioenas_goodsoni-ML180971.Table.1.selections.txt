@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.271572043	6.524886347	700.7	1167.9	Patagioenas_goodsoni-ML180971.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_goodsoni-ML180971.wav	1	a
+2	Spectrogram 1	1	6.658885942	6.746995265	560.6	1074.5	Patagioenas_goodsoni-ML180971.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_goodsoni-ML180971.wav	1	b
+3	Spectrogram 1	1	6.908529024	6.972775405	584.0	1074.5	Patagioenas_goodsoni-ML180971.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_goodsoni-ML180971.wav	1	c
+4	Spectrogram 1	1	9.288321977	9.515937728	654.0	1144.5	Patagioenas_goodsoni-ML180971.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_goodsoni-ML180971.wav	2	a
+5	Spectrogram 1	1	9.675635875	9.771087642	537.2	1074.5	Patagioenas_goodsoni-ML180971.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_goodsoni-ML180971.wav	2	b
+6	Spectrogram 1	1	9.928950179	9.987689727	607.3	1051.1	Patagioenas_goodsoni-ML180971.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_goodsoni-ML180971.wav	2	c
+7	Spectrogram 1	1	12.862152680	13.097110874	677.4	1167.9	Patagioenas_goodsoni-ML180971.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_goodsoni-ML180971.wav	3	a
+8	Spectrogram 1	1	13.242124135	13.335740291	584.0	1097.8	Patagioenas_goodsoni-ML180971.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_goodsoni-ML180971.wav	3	b
+9	Spectrogram 1	1	13.504616493	13.563356041	607.3	1051.1	Patagioenas_goodsoni-ML180971.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_goodsoni-ML180971.wav	3	c

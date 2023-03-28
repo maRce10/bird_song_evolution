@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.061932614	12.190391599	1492.7	2095.0	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	1	a
+2	Spectrogram 1	1	12.269802609	12.426289009	1859.3	2906.8	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	1	b
+3	Spectrogram 1	1	12.503364401	12.648172712	2173.6	3037.8	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	1	c
+4	Spectrogram 1	1	12.753275518	12.893412594	1806.9	2618.8	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	1	b
+5	Spectrogram 1	1	12.982166075	13.147994947	1545.1	2618.8	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	1	b
+6	Spectrogram 1	1	13.215727867	13.374549886	1649.8	2775.9	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	1	d
+7	Spectrogram 1	1	14.234057238	14.395214875	1283.2	2304.5	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	2	b
+8	Spectrogram 1	1	14.465283412	14.617098577	1571.3	2828.3	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	2	b
+9	Spectrogram 1	1	15.019428910	15.164237222	1204.6	2487.8	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	3	b
+10	Spectrogram 1	1	15.234305759	15.393127778	1728.4	2933.0	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	3	b
+11	Spectrogram 1	1	15.467867551	15.678073164	1885.5	2959.2	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	3	e
+13	Spectrogram 1	1	15.755148556	15.923313046	1806.9	3168.7	Oenanthe_pileata-ML221135.wav	E:\Andean\Muscicapidae\Oenanthe_pileata-ML221135.wav	3	f

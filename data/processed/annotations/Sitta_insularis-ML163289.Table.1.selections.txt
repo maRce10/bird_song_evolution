@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	70.279881402	70.303002840	3656.5	6565.1	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	1	a
+2	Spectrogram 1	1	70.319518153	70.342639591	3767.3	6537.4	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	1	a
+3	Spectrogram 1	1	70.357503372	70.387230935	3518.0	6398.9	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	1	a
+4	Spectrogram 1	1	70.395488591	70.423564623	3268.7	6260.4	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	1	a
+5	Spectrogram 1	1	70.433473811	70.458246780	3157.9	6371.2	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	1	a
+6	Spectrogram 1	1	71.257587915	71.288967009	3878.1	6648.2	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	2	a
+7	Spectrogram 1	1	71.300527728	71.340164478	3795.0	6426.6	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	2	a
+8	Spectrogram 1	1	71.348422135	71.381452760	3518.0	6454.3	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	2	a
+9	Spectrogram 1	1	71.437604823	71.487150761	3296.4	5512.5	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	2	b
+10	Spectrogram 1	1	72.027201399	72.063535087	3739.6	6426.6	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	3	a
+11	Spectrogram 1	1	72.073444275	72.104823369	3545.7	6177.3	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	3	a
+12	Spectrogram 1	1	72.113081025	72.144460119	3407.2	6232.7	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	3	a
+13	Spectrogram 1	1	72.152717776	72.187399932	3351.8	6509.7	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	3	a
+14	Spectrogram 1	1	72.276582621	72.350901528	2770.1	5346.3	Sitta_insularis-ML163289.wav	D:\Andean\Sittidae\Sitta_insularis-ML163289.wav	3	b

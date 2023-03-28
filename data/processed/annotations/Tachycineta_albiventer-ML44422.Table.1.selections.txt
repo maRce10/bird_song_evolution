@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.409614314	12.607960586	2424.9	5865.0	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	1	a
+2	Spectrogram 1	1	12.953230023	13.173614770	2086.6	5131.8	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	1	b
+3	Spectrogram 1	1	13.662134292	13.864153643	2424.9	5921.4	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	1	a
+4	Spectrogram 1	1	14.246153871	14.444500143	2424.9	6203.3	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	1	b
+5	Spectrogram 1	1	14.863231162	15.054231276	2199.4	5075.4	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	1	b
+6	Spectrogram 1	1	15.704366279	15.891693313	2143.0	5639.4	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	1	b
+7	Spectrogram 1	1	28.986376826	29.177376940	2030.2	5921.4	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	2	b
+8	Spectrogram 1	1	29.724665727	29.934031237	2312.1	5977.7	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	2	a
+9	Spectrogram 1	1	30.991878021	31.208589689	2312.1	5357.4	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	2	b
+10	Spectrogram 1	1	31.656705341	31.862397771	2199.4	5583.0	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	2	b
+11	Spectrogram 1	1	47.756311310	47.921599870	2481.3	6146.9	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	3	b
+12	Spectrogram 1	1	48.560715636	48.751715750	2481.3	5808.6	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	3	b
+13	Spectrogram 1	1	49.343081487	49.526735443	2481.3	5752.2	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	3	a
+14	Spectrogram 1	1	49.956485699	50.158505050	2368.5	5244.6	Tachycineta_albiventer-ML44422.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_albiventer-ML44422.wav	3	b

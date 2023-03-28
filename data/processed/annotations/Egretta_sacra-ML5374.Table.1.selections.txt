@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.169397916	6.332512610	889.9	3930.4	Egretta_sacra-ML5374.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_sacra-ML5374.wav	1	a
+2	Spectrogram 1	1	8.254722506	8.384150470	1013.5	4029.3	Egretta_sacra-ML5374.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_sacra-ML5374.wav	2	a
+3	Spectrogram 1	1	10.663911119	10.812841927	1013.5	4227.1	Egretta_sacra-ML5374.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_sacra-ML5374.wav	2	a

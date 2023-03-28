@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	199.934647219	200.002878101	1551.3	2964.0	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	1	a
+4	Spectrogram 1	1	200.068275402	200.203741242	1579.0	2853.2	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	1	b
+5	Spectrogram 1	1	200.535400080	200.596126146	1579.0	3019.4	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	1	a
+6	Spectrogram 1	1	200.745605693	200.820345467	1634.4	3019.4	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	1	a
+7	Spectrogram 1	1	201.074927820	201.141384408	1579.0	2964.0	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	1	a
+8	Spectrogram 1	1	201.616791178	201.679852862	1689.8	3019.4	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	1	c
+9	Spectrogram 1	1	201.728900838	201.899400947	1634.4	3268.7	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	1	d
+10	Spectrogram 1	1	203.221363249	203.289096169	1579.0	2908.6	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	2	a
+11	Spectrogram 1	1	203.422226390	203.496966164	1523.6	3019.4	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	2	a
+12	Spectrogram 1	1	203.707171777	203.769065652	1495.9	3157.9	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	2	e
+13	Spectrogram 1	1	204.097219970	204.159113845	1579.0	3019.4	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	2	a
+14	Spectrogram 1	1	204.455737321	204.514525968	1606.7	3102.5	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	2	a
+15	Spectrogram 1	1	204.761703268	204.828316909	1523.6	3130.2	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	2	e
+17	Spectrogram 1	1	205.459118943	205.524516245	1606.7	3102.5	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	3	c
+18	Spectrogram 1	1	205.561886132	205.718372532	1689.8	3241.0	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	3	d
+19	Spectrogram 1	1	206.379352672	206.447085591	1579.0	2964.0	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	3	f
+20	Spectrogram 1	1	206.619921318	206.682983002	1606.7	2908.6	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	3	g
+21	Spectrogram 1	1	206.930558501	206.995955803	1634.4	3102.5	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	3	a
+22	Spectrogram 1	1	207.208497034	207.278565572	1689.8	3102.5	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	3	a
+23	Spectrogram 1	1	207.691969944	207.757367246	1662.1	3102.5	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	3	c
+24	Spectrogram 1	1	207.811086458	208.000271509	1662.1	3324.1	Myiotheretes_fuscorufus-ML35987.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_fuscorufus-ML35987.wav	3	d

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.839009983	14.931495734	1606.7	6205.0	Ploceus_pelzelni-ML113924861.wav	D:\Andean\Ploceidae\Ploceus_pelzelni-ML113924861.wav	1	a
+2	Spectrogram 1	1	17.514490641	17.587158017	1468.2	6315.8	Ploceus_pelzelni-ML113924861.wav	D:\Andean\Ploceidae\Ploceus_pelzelni-ML113924861.wav	2	a
+3	Spectrogram 1	1	18.459166528	18.525227779	1301.9	6011.1	Ploceus_pelzelni-ML113924861.wav	D:\Andean\Ploceidae\Ploceus_pelzelni-ML113924861.wav	3	a

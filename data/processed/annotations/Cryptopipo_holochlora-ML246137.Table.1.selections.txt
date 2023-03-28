@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.769414950	1.343659700	3187.3	5538.6	Cryptopipo_holochlora-ML246137.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Cryptopipo_holochlora-ML246137.wav	1	a
+2	Spectrogram 1	1	23.533664537	24.088714147	3318.0	5799.9	Cryptopipo_holochlora-ML246137.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Cryptopipo_holochlora-ML246137.wav	2	a
+3	Spectrogram 1	1	30.595914633	31.159207554	3396.3	5146.7	Cryptopipo_holochlora-ML246137.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Cryptopipo_holochlora-ML246137.wav	3	c

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.608947325	8.666750919	664.8	2022.2	Pterocles_senegallus-ML105006.wav	D:\Andean\Pteroclidae\Pterocles_senegallus-ML105006.wav	1	a
+2	Spectrogram 1	1	8.731160639	8.846767828	443.2	1911.4	Pterocles_senegallus-ML105006.wav	D:\Andean\Pteroclidae\Pterocles_senegallus-ML105006.wav	1	b
+3	Spectrogram 1	1	8.884753047	9.028436267	415.5	1828.3	Pterocles_senegallus-ML105006.wav	D:\Andean\Pteroclidae\Pterocles_senegallus-ML105006.wav	1	c
+4	Spectrogram 1	1	9.198543988	9.256347583	554.0	1994.5	Pterocles_senegallus-ML105006.wav	D:\Andean\Pteroclidae\Pterocles_senegallus-ML105006.wav	2	a
+5	Spectrogram 1	1	9.333969552	9.414894585	415.5	1772.9	Pterocles_senegallus-ML105006.wav	D:\Andean\Pteroclidae\Pterocles_senegallus-ML105006.wav	2	b
+6	Spectrogram 1	1	9.469395117	9.606472212	304.7	1883.7	Pterocles_senegallus-ML105006.wav	D:\Andean\Pteroclidae\Pterocles_senegallus-ML105006.wav	2	c
+7	Spectrogram 1	1	13.497373780	13.570041156	443.2	1689.8	Pterocles_senegallus-ML105006.wav	D:\Andean\Pteroclidae\Pterocles_senegallus-ML105006.wav	3	b
+8	Spectrogram 1	1	13.624488318	13.799550633	443.2	1662.1	Pterocles_senegallus-ML105006.wav	D:\Andean\Pteroclidae\Pterocles_senegallus-ML105006.wav	3	c

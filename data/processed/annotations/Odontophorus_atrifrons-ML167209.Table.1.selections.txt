@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	47.184932015	47.413822571	1080.3	1883.7	Odontophorus_atrifrons-ML167209.wav	E:\Andean\Odontophoridae\Odontophorus_atrifrons-ML167209.wav	1	a
+2	Spectrogram 1	1	47.479219873	47.633370656	1440.5	1966.8	Odontophorus_atrifrons-ML167209.wav	E:\Andean\Odontophoridae\Odontophorus_atrifrons-ML167209.wav	1	b
+3	Spectrogram 1	1	47.684754250	47.941672221	1274.2	2077.6	Odontophorus_atrifrons-ML167209.wav	E:\Andean\Odontophoridae\Odontophorus_atrifrons-ML167209.wav	1	c
+4	Spectrogram 1	1	47.983713344	48.161220306	1191.1	1911.4	Odontophorus_atrifrons-ML167209.wav	E:\Andean\Odontophoridae\Odontophorus_atrifrons-ML167209.wav	2	a
+5	Spectrogram 1	1	48.235960079	48.394782098	1440.5	1966.8	Odontophorus_atrifrons-ML167209.wav	E:\Andean\Odontophoridae\Odontophorus_atrifrons-ML167209.wav	2	b
+6	Spectrogram 1	1	48.488206815	48.740453551	1301.9	2077.6	Odontophorus_atrifrons-ML167209.wav	E:\Andean\Odontophoridae\Odontophorus_atrifrons-ML167209.wav	2	c
+7	Spectrogram 1	1	48.787165909	48.969344107	1218.8	1994.5	Odontophorus_atrifrons-ML167209.wav	E:\Andean\Odontophoridae\Odontophorus_atrifrons-ML167209.wav	3	a
+8	Spectrogram 1	1	49.039412645	49.193563427	1440.5	1994.5	Odontophorus_atrifrons-ML167209.wav	E:\Andean\Odontophoridae\Odontophorus_atrifrons-ML167209.wav	3	b
+9	Spectrogram 1	1	49.258960729	49.515878701	1301.9	2022.2	Odontophorus_atrifrons-ML167209.wav	E:\Andean\Odontophoridae\Odontophorus_atrifrons-ML167209.wav	3	c

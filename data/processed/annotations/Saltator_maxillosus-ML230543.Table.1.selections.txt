@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.740608099	1.831909789	7539.3	11850.6	Saltator_maxillosus-ML230543.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_maxillosus-ML230543.wav	1	a
+2	Spectrogram 1	1	4.566497903	4.691000207	8197.5	12475.9	Saltator_maxillosus-ML230543.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_maxillosus-ML230543.wav	2	a
+3	Spectrogram 1	1	6.375618184	6.512570719	8098.8	12377.2	Saltator_maxillosus-ML230543.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_maxillosus-ML230543.wav	3	a

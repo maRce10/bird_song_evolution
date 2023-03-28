@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	122.007411889	122.337718143	1191.1	1717.5	Batis_fratrum-ML31558381.wav	D:\Andean\Platysteiridae\Batis_fratrum-ML31558381.wav	1	a
+2	Spectrogram 1	1	124.471496545	124.821621174	1218.8	1662.1	Batis_fratrum-ML31558381.wav	D:\Andean\Platysteiridae\Batis_fratrum-ML31558381.wav	2	a
+3	Spectrogram 1	1	127.198453822	127.548578451	1191.1	1662.1	Batis_fratrum-ML31558381.wav	D:\Andean\Platysteiridae\Batis_fratrum-ML31558381.wav	3	a

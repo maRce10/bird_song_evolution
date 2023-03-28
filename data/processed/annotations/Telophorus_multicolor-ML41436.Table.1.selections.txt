@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.417445367	5.826786597	560.6	1027.8	Telophorus_multicolor-ML41436.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_multicolor-ML41436.wav	1	a
+2	Spectrogram 1	1	9.822060330	10.249757669	607.3	1097.8	Telophorus_multicolor-ML41436.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_multicolor-ML41436.wav	2	a
+3	Spectrogram 1	1	13.342080514	13.775284685	560.6	1051.1	Telophorus_multicolor-ML41436.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_multicolor-ML41436.wav	3	a

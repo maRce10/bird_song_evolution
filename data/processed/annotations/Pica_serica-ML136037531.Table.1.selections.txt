@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.807567409	6.951937210	673.8	3836.4	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	1	a
+2	Spectrogram 1	1	7.001310432	7.124430998	720.4	3894.9	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	1	a
+3	Spectrogram 1	1	7.229899775	7.379421815	763.3	3915.1	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	1	a
+4	Spectrogram 1	1	7.513639556	7.660661686	491.0	3873.7	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	1	a
+5	Spectrogram 1	1	10.773576659	10.897322203	772.9	3905.0	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	2	a
+6	Spectrogram 1	1	10.978569277	11.116064325	679.0	3842.4	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	2	a
+7	Spectrogram 1	1	11.217310679	11.366055322	585.0	3889.4	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	2	a
+8	Spectrogram 1	1	11.467926653	11.611046499	522.3	3826.7	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	2	a
+9	Spectrogram 1	1	13.804296874	13.933667215	491.0	3873.7	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	3	a
+10	Spectrogram 1	1	14.008039537	14.133660012	522.3	3858.0	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	3	a
+11	Spectrogram 1	1	14.254280668	14.401150379	585.0	3889.4	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	3	a
+12	Spectrogram 1	1	14.528020810	14.678640386	428.4	3842.4	Pica_serica-ML136037531.wav	E:\Escritorio\Cantos\Corvidae\Pica_serica-ML136037531.wav	3	a

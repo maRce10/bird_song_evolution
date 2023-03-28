@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.099924374	2.214920232	2393.0	5583.7	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	1	a
+2	Spectrogram 1	1	2.489910329	2.604906187	2393.0	5583.7	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	1	a
+3	Spectrogram 1	1	2.949893763	3.064889621	2421.5	5526.7	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	1	a
+4	Spectrogram 1	1	3.454875577	3.579871075	2393.0	5498.3	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	1	a
+5	Spectrogram 1	1	20.280208523	20.405958596	2393.0	6153.5	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	2	a
+6	Spectrogram 1	1	21.206395441	21.333670078	2393.0	6125.0	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	2	a
+7	Spectrogram 1	1	21.893793712	22.021068349	2421.5	6182.0	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	2	a
+8	Spectrogram 1	1	23.254135836	23.370804253	2421.5	6153.5	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	3	a
+9	Spectrogram 1	1	23.810169057	23.916231254	2393.0	6153.5	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	3	a
+10	Spectrogram 1	1	24.517250373	24.626847977	2393.0	6153.5	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	3	a
+11	Spectrogram 1	1	25.305646041	25.415243645	2450.0	6125.0	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	3	a
+12	Spectrogram 1	1	25.920806786	26.026868984	2450.0	6125.0	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	3	a
+13	Spectrogram 1	1	26.591600433	26.708268851	2393.0	6182.0	Merops_gularis-ML537193.wav	E:\Escritorio\Cantos\Meropidae\Merops_gularis-ML537193.wav	3	a

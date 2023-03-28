@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.679773835	1.738238042	1507.9	3040.5	Charadrius_pallidus-ML214843721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_pallidus-ML214843721.wav	1	a
+2	Spectrogram 1	1	1.888827666	1.924260518	1829.3	2941.6	Charadrius_pallidus-ML214843721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_pallidus-ML214843721.wav	1	a
+3	Spectrogram 1	1	2.250242763	2.290990544	1680.9	3090.0	Charadrius_pallidus-ML214843721.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_pallidus-ML214843721.wav	3	a

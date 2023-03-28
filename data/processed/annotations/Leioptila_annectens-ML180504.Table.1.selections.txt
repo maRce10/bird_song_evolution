@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.303563541	8.370736266	2767.2	3513.9	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	1	a
+2	Spectrogram 1	1	8.614679321	8.869228594	1757.0	3030.8	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	1	b
+3	Spectrogram 1	1	8.950542946	9.208627626	1559.3	2503.7	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	1	c
+4	Spectrogram 1	1	9.297012791	9.569239098	1669.1	2833.1	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	1	b
+5	Spectrogram 1	1	13.800671116	13.874914654	2657.4	3557.9	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	2	a
+6	Spectrogram 1	1	14.019866324	14.285021818	1735.0	3074.7	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	2	b
+7	Spectrogram 1	1	14.384013202	14.656239509	1559.3	2525.6	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	2	c
+8	Spectrogram 1	1	14.734018454	15.016850981	1691.1	2899.0	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	2	b
+9	Spectrogram 1	1	19.404703957	19.478947496	2789.2	3492.0	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	3	a
+10	Spectrogram 1	1	19.648647012	19.913802505	1691.1	3074.7	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	3	b
+11	Spectrogram 1	1	20.009258483	20.288555603	1559.3	2569.6	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	3	c
+12	Spectrogram 1	1	20.352192921	20.631490041	1647.2	2899.0	Leioptila_annectens-ML180504.wav	E:\Escritorio\Cantos\Leiothrichidae\Leioptila_annectens-ML180504.wav	3	b

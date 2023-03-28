@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	53.113276823	53.161171230	4059.1	6337.4	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	1	a
+2	Spectrogram 1	1	53.205762574	53.255308513	3928.1	6232.7	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	1	a
+3	Spectrogram 1	1	53.273475356	53.341188139	3849.6	5892.2	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	1	b
+4	Spectrogram 1	1	53.392385608	53.461749921	4504.3	5970.8	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	1	c
+5	Spectrogram 1	1	53.478265234	53.559190266	4163.8	5839.8	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	1	c
+6	Spectrogram 1	1	53.597466158	54.081364821	2304.5	5080.4	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	1	d
+7	Spectrogram 1	1	60.798347060	60.849544529	4059.1	6258.8	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	2	a
+8	Spectrogram 1	1	60.884226686	60.937075686	4032.9	6180.3	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	2	a
+9	Spectrogram 1	1	60.960197124	61.026258375	3902.0	5944.6	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	2	b
+10	Spectrogram 1	1	61.075804313	61.130304845	4478.1	6049.3	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	2	c
+11	Spectrogram 1	1	61.155077814	61.237654378	4111.5	6154.1	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	2	c
+12	Spectrogram 1	1	61.272336534	61.777705103	2173.6	5054.2	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	2	d
+13	Spectrogram 1	1	70.373961627	70.428462159	4163.8	6258.8	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	3	a
+14	Spectrogram 1	1	70.466447378	70.507735660	4085.3	6127.9	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	3	a
+15	Spectrogram 1	1	70.529205567	70.598569880	4085.3	5918.4	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	3	b
+16	Spectrogram 1	1	70.651418881	70.724086257	4504.3	6023.2	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	3	c
+17	Spectrogram 1	1	70.737298507	70.813268945	4190.0	5866.0	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	3	c
+18	Spectrogram 1	1	70.852905696	71.366531921	2042.6	5106.6	Anthus_bogotensis-ML143654.wav	E:\Andean\Motacillidae\Anthus_bogotensis-ML143654.wav	3	d

@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.793296877	8.519850495	1112.4	3905.7	Melierax_metabates-ML37140.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Melierax_metabates-ML37140.wav	1	a
+2	Spectrogram 1	1	21.601161155	23.332497470	1030.6	3738.9	Melierax_metabates-ML37140.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Melierax_metabates-ML37140.wav	2	a

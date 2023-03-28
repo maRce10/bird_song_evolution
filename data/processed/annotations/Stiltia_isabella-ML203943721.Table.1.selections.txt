@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.372709790	2.589547943	1513.2	4053.3	Stiltia_isabella-ML203943721.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Stiltia_isabella-ML203943721.wav	1	a
+2	Spectrogram 1	1	2.614567730	2.760516486	1675.4	4107.4	Stiltia_isabella-ML203943721.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Stiltia_isabella-ML203943721.wav	1	b
+3	Spectrogram 1	1	4.461927993	4.687106075	1513.2	4053.3	Stiltia_isabella-ML203943721.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Stiltia_isabella-ML203943721.wav	1	a
+4	Spectrogram 1	1	4.707955897	4.833054831	1621.3	4215.4	Stiltia_isabella-ML203943721.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Stiltia_isabella-ML203943721.wav	2	b
+5	Spectrogram 1	1	6.359261832	6.584439913	1297.1	3729.0	Stiltia_isabella-ML203943721.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Stiltia_isabella-ML203943721.wav	3	a
+6	Spectrogram 1	1	6.601119771	6.751238493	1134.9	3458.8	Stiltia_isabella-ML203943721.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Stiltia_isabella-ML203943721.wav	3	b

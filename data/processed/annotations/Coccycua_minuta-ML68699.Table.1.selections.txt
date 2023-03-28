@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	83.600188391	84.077389844	395.300	1067.900	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	a
+2	Spectrogram 1	1	84.158782631	84.367371620	505.100	1039.000	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	b
+3	Spectrogram 1	1	84.436188475	84.609932217	603.400	1053.400	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	c
+4	Spectrogram 1	1	84.664279360	84.809274138	603.400	1082.300	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	d
+5	Spectrogram 1	1	84.851772608	84.949269097	652.400	1082.300	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	e
+6	Spectrogram 1	1	84.989244224	85.084700201	619.700	1154.500	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	f
+7	Spectrogram 1	1	85.121821971	85.196065509	619.700	1183.300	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	g
+8	Spectrogram 1	1	85.227884168	85.305663113	619.700	1197.700	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	g
+9	Spectrogram 1	1	85.333946366	85.397583684	636.100	1168.900	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	h
+10	Spectrogram 1	1	85.429649094	85.498342772	619.700	1154.500	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	h
+11	Spectrogram 1	1	85.542535354	85.600869562	570.800	1039.000	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	1	i
+12	Spectrogram 1	1	87.010850258	87.535831352	603.400	1039.000	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	2	a
+13	Spectrogram 1	1	87.573330001	87.733324239	619.700	1125.600	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	2	c
+14	Spectrogram 1	1	87.765823069	87.865819468	685.000	1168.900	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	2	f
+15	Spectrogram 1	1	87.888318657	87.965815866	619.700	1154.500	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	2	g
+16	Spectrogram 1	1	87.998314696	88.063312355	636.100	1096.700	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	2	h
+17	Spectrogram 1	1	90.552434560	91.117414213	432.900	1010.100	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	3	a
+18	Spectrogram 1	1	91.162213950	91.314708459	619.700	1067.900	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	3	b
+19	Spectrogram 1	1	91.338640256	91.407205127	619.700	1125.600	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	3	g
+20	Spectrogram 1	1	91.439703957	91.512201346	636.100	1125.600	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	3	g
+21	Spectrogram 1	1	91.542200266	91.612197745	636.100	1125.600	Coccycua_minuta-ML68699.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccycua_minuta-ML68699.wav	3	g

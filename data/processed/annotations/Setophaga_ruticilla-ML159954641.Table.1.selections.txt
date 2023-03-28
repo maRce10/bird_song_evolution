@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.689157373	2.809719156	5263.2	8448.8	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	1	a
+2	Spectrogram 1	1	2.900553375	3.029372815	5429.4	8753.5	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	1	a
+3	Spectrogram 1	1	3.090479472	3.219298911	5512.5	9085.9	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	1	a
+4	Spectrogram 1	1	3.260587193	3.372891319	6482.0	9501.4	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	1	a
+5	Spectrogram 1	1	3.402618882	3.562817415	3019.4	8144.1	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	1	b
+6	Spectrogram 1	1	8.660831595	8.769832659	5651.0	8393.4	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	2	a
+7	Spectrogram 1	1	8.865621472	8.997743974	5678.7	8947.4	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	2	a
+8	Spectrogram 1	1	9.058850631	9.190973133	5623.3	9141.3	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	2	a
+9	Spectrogram 1	1	9.232261414	9.347868603	6482.0	9390.6	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	2	a
+10	Spectrogram 1	1	9.372641572	9.537794699	3157.9	8476.5	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	2	b
+11	Spectrogram 1	1	14.465464883	14.571162884	5706.4	8144.1	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	3	a
+12	Spectrogram 1	1	14.663648635	14.794119606	5651.0	8892.0	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	3	a
+13	Spectrogram 1	1	14.851923200	14.992303358	5706.4	9030.5	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	3	a
+14	Spectrogram 1	1	15.031940109	15.145895767	6592.8	9418.3	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	3	a
+15	Spectrogram 1	1	15.169017204	15.337473394	3019.4	8254.9	Setophaga_ruticilla-ML159954641.wav	D:\Andean\Parulidae\Setophaga_ruticilla-ML159954641.wav	3	b

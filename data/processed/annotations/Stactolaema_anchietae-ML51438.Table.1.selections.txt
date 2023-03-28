@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.564680418	5.741450747	241.6	669.1	Stactolaema_anchietae-ML51438.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Stactolaema_anchietae-ML51438.wav	1	a
+2	Spectrogram 1	1	6.254084702	6.437925844	219.6	669.1	Stactolaema_anchietae-ML51438.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Stactolaema_anchietae-ML51438.wav	2	a
+3	Spectrogram 1	1	6.964701425	7.134400941	285.5	698.2	Stactolaema_anchietae-ML51438.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Stactolaema_anchietae-ML51438.wav	3	a

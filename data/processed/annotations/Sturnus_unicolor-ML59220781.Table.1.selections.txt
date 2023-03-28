@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.811134256	13.873892444	1440.9	4581.4	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	1	a
+2	Spectrogram 1	1	13.920135320	13.948211351	923.7	4766.2	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	1	b
+3	Spectrogram 1	1	13.989499633	14.019227196	960.6	4877.0	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	1	b
+4	Spectrogram 1	1	14.055560884	14.083636916	923.7	4803.1	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	1	b
+5	Spectrogram 1	1	14.237229324	14.341275794	1256.2	2290.7	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	1	c
+6	Spectrogram 1	1	14.354488044	14.598914672	1034.5	5098.7	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	1	d
+7	Spectrogram 1	1	14.978766864	15.115843960	1588.7	3325.2	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	2	e
+8	Spectrogram 1	1	15.155480710	15.183556742	1921.3	3694.7	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	2	f
+9	Spectrogram 1	1	15.209981242	15.304118525	1736.5	3473.0	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	2	g
+10	Spectrogram 1	1	16.488266446	16.633601198	1477.9	3214.4	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	3	h
+11	Spectrogram 1	1	16.798754325	17.320638206	5948.5	8276.2	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	3	i
+12	Spectrogram 1	1	17.432953488	17.908594494	2216.8	8128.4	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	3	j
+13	Spectrogram 1	1	17.918503682	18.255416061	4322.8	8497.8	Sturnus_unicolor-ML59220781.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnus_unicolor-ML59220781.wav	3	k

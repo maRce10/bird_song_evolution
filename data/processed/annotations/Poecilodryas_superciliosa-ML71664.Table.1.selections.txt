@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	57.241850740	57.264972178	1274.2	4404.5	Poecilodryas_superciliosa-ML71664.wav	D:\Andean\Petroicidae\Poecilodryas_superciliosa-ML71664.wav	1	a
+2	Spectrogram 1	1	57.329381897	57.355806397	1218.8	4764.6	Poecilodryas_superciliosa-ML71664.wav	D:\Andean\Petroicidae\Poecilodryas_superciliosa-ML71664.wav	1	a
+3	Spectrogram 1	1	57.435079898	57.497838087	1108.0	3767.3	Poecilodryas_superciliosa-ML71664.wav	D:\Andean\Petroicidae\Poecilodryas_superciliosa-ML71664.wav	1	b
+4	Spectrogram 1	1	60.278362040	60.294877353	1772.9	5013.9	Poecilodryas_superciliosa-ML71664.wav	D:\Andean\Petroicidae\Poecilodryas_superciliosa-ML71664.wav	2	a
+5	Spectrogram 1	1	60.360938604	60.375802385	1828.3	5374.0	Poecilodryas_superciliosa-ML71664.wav	D:\Andean\Petroicidae\Poecilodryas_superciliosa-ML71664.wav	2	a
+6	Spectrogram 1	1	60.461682011	60.491409574	1717.5	3961.2	Poecilodryas_superciliosa-ML71664.wav	D:\Andean\Petroicidae\Poecilodryas_superciliosa-ML71664.wav	2	b
+7	Spectrogram 1	1	63.096488427	63.119609865	1883.7	4653.8	Poecilodryas_superciliosa-ML71664.wav	D:\Andean\Petroicidae\Poecilodryas_superciliosa-ML71664.wav	3	a
+8	Spectrogram 1	1	63.175761928	63.197231835	1883.7	4986.2	Poecilodryas_superciliosa-ML71664.wav	D:\Andean\Petroicidae\Poecilodryas_superciliosa-ML71664.wav	3	a
+9	Spectrogram 1	1	63.274853805	63.334308930	1191.1	3933.5	Poecilodryas_superciliosa-ML71664.wav	D:\Andean\Petroicidae\Poecilodryas_superciliosa-ML71664.wav	3	b

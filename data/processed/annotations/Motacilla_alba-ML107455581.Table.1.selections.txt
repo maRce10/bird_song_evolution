@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.773213071	10.882987113	2659.3	7340.8	Motacilla_alba-ML107455581.wav	E:\Andean\Motacillidae\Motacilla_alba-ML107455581.wav	1	a
+2	Spectrogram 1	1	10.906343292	10.960062505	3767.3	5678.7	Motacilla_alba-ML107455581.wav	E:\Andean\Motacillidae\Motacilla_alba-ML107455581.wav	1	b
+3	Spectrogram 1	1	10.948384415	11.013781717	4293.7	7257.7	Motacilla_alba-ML107455581.wav	E:\Andean\Motacillidae\Motacilla_alba-ML107455581.wav	1	c
+4	Spectrogram 1	1	13.977131528	14.091576806	3047.1	7423.9	Motacilla_alba-ML107455581.wav	E:\Andean\Motacillidae\Motacilla_alba-ML107455581.wav	2	a
+5	Spectrogram 1	1	14.114932985	14.170987815	3933.5	5761.8	Motacilla_alba-ML107455581.wav	E:\Andean\Motacillidae\Motacilla_alba-ML107455581.wav	2	b
+6	Spectrogram 1	1	14.163980961	14.238720735	4072.0	7479.3	Motacilla_alba-ML107455581.wav	E:\Andean\Motacillidae\Motacilla_alba-ML107455581.wav	2	c
+7	Spectrogram 1	1	18.615401463	18.743860448	2880.9	7645.5	Motacilla_alba-ML107455581.wav	E:\Andean\Motacillidae\Motacilla_alba-ML107455581.wav	3	a
+8	Spectrogram 1	1	18.762545392	18.816264604	4016.6	5761.8	Motacilla_alba-ML107455581.wav	E:\Andean\Motacillidae\Motacilla_alba-ML107455581.wav	3	b
+9	Spectrogram 1	1	18.804586514	18.867648198	4376.8	7423.9	Motacilla_alba-ML107455581.wav	E:\Andean\Motacillidae\Motacilla_alba-ML107455581.wav	3	c

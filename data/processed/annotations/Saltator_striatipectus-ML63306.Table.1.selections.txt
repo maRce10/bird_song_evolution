@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	143.411216841	143.578021499	1515.3	4101.7	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	1	a
+2	Spectrogram 1	1	143.749780751	143.951267566	1541.4	2429.7	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	1	b
+3	Spectrogram 1	1	144.032192598	144.243588601	1776.5	3945.0	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	1	c
+4	Spectrogram 1	1	144.400484072	144.706017357	1750.4	4336.8	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	1	d
+5	Spectrogram 1	1	145.251021928	145.404614336	1436.9	4023.3	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	1	e
+6	Spectrogram 1	1	145.700238434	145.829057873	1672.0	3187.3	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	1	f
+7	Spectrogram 1	1	151.773044270	151.939848928	1489.2	4258.5	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	2	a
+8	Spectrogram 1	1	152.096744399	152.294928151	1567.5	2429.7	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	2	b
+9	Spectrogram 1	1	152.387413903	152.600461436	1724.3	4049.5	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	2	c
+10	Spectrogram 1	1	152.795342126	153.102526943	1698.2	4310.7	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	2	d
+11	Spectrogram 1	1	153.782170285	153.861443786	1672.0	3239.6	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	2	g
+12	Spectrogram 1	1	158.588658106	158.750508171	1410.8	4336.8	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	3	a
+13	Spectrogram 1	1	158.928873548	159.125405769	1619.8	2403.6	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	3	b
+14	Spectrogram 1	1	159.214588458	159.430939055	1776.5	3918.8	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	3	c
+15	Spectrogram 1	1	159.639031499	159.942913253	1828.8	4415.2	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	3	d
+16	Spectrogram 1	1	160.359099133	160.535812979	1358.5	4154.0	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	3	e
+17	Spectrogram 1	1	160.775285013	160.899149858	1541.4	3239.6	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	3	f
+18	Spectrogram 1	1	161.240685160	161.461990351	1672.0	4232.3	Saltator_striatipectus-ML63306.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltator_striatipectus-ML63306.wav	3	h

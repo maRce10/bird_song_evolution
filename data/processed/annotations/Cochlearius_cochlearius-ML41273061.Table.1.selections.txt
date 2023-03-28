@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.699086705	1.754049265	173.0	1656.2	Cochlearius_cochlearius-ML41273061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Cochlearius_cochlearius-ML41273061.wav	1	a
+2	Spectrogram 1	1	1.947304718	2.002267278	123.6	1656.2	Cochlearius_cochlearius-ML41273061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Cochlearius_cochlearius-ML41273061.wav	2	a
+3	Spectrogram 1	1	2.202614674	2.259350220	197.8	1582.1	Cochlearius_cochlearius-ML41273061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Cochlearius_cochlearius-ML41273061.wav	3	a
+4	Spectrogram 1	1	2.349315569	2.409597087	148.3	1829.3	Cochlearius_cochlearius-ML41273061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Cochlearius_cochlearius-ML41273061.wav	3	a

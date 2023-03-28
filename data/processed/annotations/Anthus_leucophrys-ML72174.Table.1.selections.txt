@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	186.343507569	186.554903572	3404.4	4556.7	Anthus_leucophrys-ML72174.wav	E:\Andean\Motacillidae\Anthus_leucophrys-ML72174.wav	1	a
+2	Spectrogram 1	1	186.627570948	186.898422076	2933.0	4582.8	Anthus_leucophrys-ML72174.wav	E:\Andean\Motacillidae\Anthus_leucophrys-ML72174.wav	1	b
+3	Spectrogram 1	1	189.560690518	189.798511021	3352.0	4504.3	Anthus_leucophrys-ML72174.wav	E:\Andean\Motacillidae\Anthus_leucophrys-ML72174.wav	2	a
+4	Spectrogram 1	1	189.884390647	190.142029526	3037.8	4582.8	Anthus_leucophrys-ML72174.wav	E:\Andean\Motacillidae\Anthus_leucophrys-ML72174.wav	2	b
+5	Spectrogram 1	1	194.336918954	194.535102706	3378.2	4504.3	Anthus_leucophrys-ML72174.wav	E:\Andean\Motacillidae\Anthus_leucophrys-ML72174.wav	3	a
+6	Spectrogram 1	1	194.614376207	194.898439586	3037.8	4582.8	Anthus_leucophrys-ML72174.wav	E:\Andean\Motacillidae\Anthus_leucophrys-ML72174.wav	3	b

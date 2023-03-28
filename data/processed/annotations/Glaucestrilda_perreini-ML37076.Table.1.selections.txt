@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.230339315	17.474282370	2306.000	2921.000	Glaucestrilda_perreini-ML37076.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Glaucestrilda_perreini-ML37076.wav	1	a
+2	Spectrogram 1	1	17.707619204	17.912672786	2306.000	2942.900	Glaucestrilda_perreini-ML37076.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Glaucestrilda_perreini-ML37076.wav	1	b
+3	Spectrogram 1	1	21.157875581	21.415960262	2328.000	2964.900	Glaucestrilda_perreini-ML37076.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Glaucestrilda_perreini-ML37076.wav	2	a
+4	Spectrogram 1	1	21.850815271	22.077081293	2284.100	2942.900	Glaucestrilda_perreini-ML37076.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Glaucestrilda_perreini-ML37076.wav	2	b
+5	Spectrogram 1	1	25.067183668	25.325268349	2328.000	2921.000	Glaucestrilda_perreini-ML37076.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Glaucestrilda_perreini-ML37076.wav	3	a
+6	Spectrogram 1	1	25.533857337	25.731840106	2306.000	2833.100	Glaucestrilda_perreini-ML37076.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Glaucestrilda_perreini-ML37076.wav	3	b

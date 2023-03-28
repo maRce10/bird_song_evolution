@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.968761996	5.019141540	1020.4	3359.8	Falco_femoralis-ML189522.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_femoralis-ML189522.wav	1	a
+2	Spectrogram 1	1	6.824850452	6.887603918	871.0	3334.9	Falco_femoralis-ML189522.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_femoralis-ML189522.wav	2	a
+3	Spectrogram 1	1	11.305197743	11.375905874	966.3	3459.3	Falco_femoralis-ML189522.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_femoralis-ML189522.wav	3	a

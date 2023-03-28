@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.621825467	6.771305014	1856.0	3795.0	Satrapa_icterophrys-ML232436.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Satrapa_icterophrys-ML232436.wav	1	a
+2	Spectrogram 1	1	8.992597609	9.132614620	1939.1	3711.9	Satrapa_icterophrys-ML232436.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Satrapa_icterophrys-ML232436.wav	2	a
+3	Spectrogram 1	1	11.688355506	11.838644852	1800.6	3795.0	Satrapa_icterophrys-ML232436.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Satrapa_icterophrys-ML232436.wav	3	a

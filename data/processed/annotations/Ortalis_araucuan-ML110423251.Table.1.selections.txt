@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.004665038	6.208417847	770.816	2405.879	Ortalis_araucuan-ML110423251.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_araucuan-ML110423251.wav	1	a
+2	Spectrogram 1	1	6.298362781	6.371787217	1097.828	2112.000	Ortalis_araucuan-ML110423251.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_araucuan-ML110423251.wav	1	b
+3	Spectrogram 1	1	6.544334641	6.742580617	864.248	2452.595	Ortalis_araucuan-ML110423251.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_araucuan-ML110423251.wav	2	a
+4	Spectrogram 1	1	6.847210438	6.915128041	1074.470	1962.076	Ortalis_araucuan-ML110423251.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_araucuan-ML110423251.wav	2	b
+5	Spectrogram 1	1	7.715244036	7.942859786	817.532	2546.028	Ortalis_araucuan-ML110423251.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_araucuan-ML110423251.wav	3	a
+6	Spectrogram 1	1	8.032804720	8.112506511	864.248	1728.496	Ortalis_araucuan-ML110423251.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_araucuan-ML110423251.wav	3	b

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	101.132005110	101.296999168	1213.2	4448.3	Linaria_flavirostris-ML77632.wav	E:\Escritorio\Cantos\Fringillidae\Linaria_flavirostris-ML77632.wav	1	a
+2	Spectrogram 1	1	101.324498177	101.399495476	1159.2	6388.3	Linaria_flavirostris-ML77632.wav	E:\Escritorio\Cantos\Fringillidae\Linaria_flavirostris-ML77632.wav	1	b
+3	Spectrogram 1	1	101.441993946	101.664485933	1159.2	5357.9	Linaria_flavirostris-ML77632.wav	E:\Escritorio\Cantos\Fringillidae\Linaria_flavirostris-ML77632.wav	1	c
+4	Spectrogram 1	1	105.226518164	105.399011951	1210.7	4559.4	Linaria_flavirostris-ML77632.wav	E:\Escritorio\Cantos\Fringillidae\Linaria_flavirostris-ML77632.wav	2	a
+5	Spectrogram 1	1	105.421511141	105.499008350	1170.6	6388.3	Linaria_flavirostris-ML77632.wav	E:\Escritorio\Cantos\Fringillidae\Linaria_flavirostris-ML77632.wav	2	b
+6	Spectrogram 1	1	105.541506820	105.803997366	1133.4	5357.9	Linaria_flavirostris-ML77632.wav	E:\Escritorio\Cantos\Fringillidae\Linaria_flavirostris-ML77632.wav	2	c
+7	Spectrogram 1	1	109.518449970	109.688443848	1210.7	4533.6	Linaria_flavirostris-ML77632.wav	E:\Escritorio\Cantos\Fringillidae\Linaria_flavirostris-ML77632.wav	3	a
+8	Spectrogram 1	1	109.707193173	109.787190292	1133.4	6414.1	Linaria_flavirostris-ML77632.wav	E:\Escritorio\Cantos\Fringillidae\Linaria_flavirostris-ML77632.wav	3	b
+9	Spectrogram 1	1	109.824688941	110.054680658	1184.9	5357.9	Linaria_flavirostris-ML77632.wav	E:\Escritorio\Cantos\Fringillidae\Linaria_flavirostris-ML77632.wav	3	c

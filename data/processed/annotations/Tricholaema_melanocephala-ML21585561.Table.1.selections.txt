@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.025267909	1.134865513	658.9	3953.2	Tricholaema_melanocephala-ML21585561.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Tricholaema_melanocephala-ML21585561.wav	1	a
+2	Spectrogram 1	1	1.969221466	2.100031510	724.8	3909.3	Tricholaema_melanocephala-ML21585561.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Tricholaema_melanocephala-ML21585561.wav	2	a
+3	Spectrogram 1	1	2.983883155	3.104086979	768.7	3909.3	Tricholaema_melanocephala-ML21585561.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Tricholaema_melanocephala-ML21585561.wav	3	a

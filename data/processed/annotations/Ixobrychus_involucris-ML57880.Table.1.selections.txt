@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.079566594	7.416433897	98.9	914.6	Ixobrychus_involucris-ML57880.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_involucris-ML57880.wav	1	a
+2	Spectrogram 1	1	10.265477394	10.584614840	98.9	889.9	Ixobrychus_involucris-ML57880.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_involucris-ML57880.wav	2	a
+3	Spectrogram 1	1	12.483698409	12.832976613	74.2	889.9	Ixobrychus_involucris-ML57880.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_involucris-ML57880.wav	3	a

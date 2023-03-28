@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.763058230	0.987002759	5507.7	7866.8	Uraeginthus_cyanocephalus-ML280122.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Uraeginthus_cyanocephalus-ML280122.wav	1	a
+2	Spectrogram 1	1	2.040643412	2.273765996	5390.9	7983.6	Uraeginthus_cyanocephalus-ML280122.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Uraeginthus_cyanocephalus-ML280122.wav	2	a
+3	Spectrogram 1	1	2.998606211	3.095893589	5461.0	7866.8	Uraeginthus_cyanocephalus-ML280122.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Uraeginthus_cyanocephalus-ML280122.wav	3	b

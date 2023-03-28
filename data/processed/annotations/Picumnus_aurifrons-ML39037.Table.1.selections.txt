@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.468934418	5.627481420	6992.1	8589.5	Picumnus_aurifrons-ML39037.wav	D:\Andean\Picidae\Picumnus_aurifrons-ML39037.wav	1	a
+2	Spectrogram 1	1	5.924757049	6.083304051	6599.3	8327.7	Picumnus_aurifrons-ML39037.wav	D:\Andean\Picidae\Picumnus_aurifrons-ML39037.wav	1	a
+3	Spectrogram 1	1	11.302433007	11.447767759	6546.9	8484.8	Picumnus_aurifrons-ML39037.wav	D:\Andean\Picidae\Picumnus_aurifrons-ML39037.wav	2	a
+4	Spectrogram 1	1	11.771467888	11.930014890	6468.3	8432.4	Picumnus_aurifrons-ML39037.wav	D:\Andean\Picidae\Picumnus_aurifrons-ML39037.wav	2	a
+5	Spectrogram 1	1	12.273533395	12.418868146	6389.8	8196.7	Picumnus_aurifrons-ML39037.wav	D:\Andean\Picidae\Picumnus_aurifrons-ML39037.wav	2	a
+6	Spectrogram 1	1	17.484477776	17.643024778	6651.7	8406.2	Picumnus_aurifrons-ML39037.wav	D:\Andean\Picidae\Picumnus_aurifrons-ML39037.wav	3	a
+7	Spectrogram 1	1	17.973331032	18.112059659	6520.7	8275.3	Picumnus_aurifrons-ML39037.wav	D:\Andean\Picidae\Picumnus_aurifrons-ML39037.wav	3	a

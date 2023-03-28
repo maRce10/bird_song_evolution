@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.981391870	24.034240871	2624.7	10303.1	Teretistris_fernandinae-ML34544.wav	C:\Users\pfmar\Downloads\Andean\Teretistridae\Teretistris_fernandinae-ML34544.wav	1	a
+2	Spectrogram 1	1	24.230773092	24.291879749	2624.7	9911.3	Teretistris_fernandinae-ML34544.wav	C:\Users\pfmar\Downloads\Andean\Teretistridae\Teretistris_fernandinae-ML34544.wav	2	a
+3	Spectrogram 1	1	24.498321158	24.546215565	2624.7	9754.6	Teretistris_fernandinae-ML34544.wav	C:\Users\pfmar\Downloads\Andean\Teretistridae\Teretistris_fernandinae-ML34544.wav	3	a

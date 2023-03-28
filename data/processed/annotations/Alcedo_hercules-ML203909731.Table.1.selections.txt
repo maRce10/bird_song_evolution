@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.525881949	0.747394924	5536.4	6179.1	Alcedo_hercules-ML203909731.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_hercules-ML203909731.wav	1	a
+2	Spectrogram 1	1	1.063600468	1.320623157	5536.4	6129.6	Alcedo_hercules-ML203909731.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_hercules-ML203909731.wav	2	a
+3	Spectrogram 1	1	1.668956538	1.931052043	5561.1	6154.4	Alcedo_hercules-ML203909731.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_hercules-ML203909731.wav	3	a

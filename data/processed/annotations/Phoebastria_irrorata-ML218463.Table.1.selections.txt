@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	20.882957439	21.237230341	93.4	2078.9	Phoebastria_irrorata-ML218463.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebastria_irrorata-ML218463.wav	1	a
+2	Spectrogram 1	1	22.426706201	22.753444940	116.8	2008.8	Phoebastria_irrorata-ML218463.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebastria_irrorata-ML218463.wav	2	a
+3	Spectrogram 1	1	23.270211320	23.692401826	93.4	2055.5	Phoebastria_irrorata-ML218463.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebastria_irrorata-ML218463.wav	3	a

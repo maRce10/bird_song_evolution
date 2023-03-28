@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.353884941	3.438734699	527.1	2415.8	Anthochaera_carunculata-ML21172701.wav	E:\Escritorio\Cantos\Meliphagidae\Anthochaera_carunculata-ML21172701.wav	1	a
+2	Spectrogram 1	1	3.647323687	3.905408368	702.8	1972.2	Anthochaera_carunculata-ML21172701.wav	E:\Escritorio\Cantos\Meliphagidae\Anthochaera_carunculata-ML21172701.wav	1	b
+3	Spectrogram 1	1	4.464002608	4.718551882	461.2	1907.6	Anthochaera_carunculata-ML21172701.wav	E:\Escritorio\Cantos\Meliphagidae\Anthochaera_carunculata-ML21172701.wav	1	b
+4	Spectrogram 1	1	22.658082749	22.735861694	472.5	2231.2	Anthochaera_carunculata-ML21172701.wav	E:\Escritorio\Cantos\Meliphagidae\Anthochaera_carunculata-ML21172701.wav	2	a
+5	Spectrogram 1	1	22.933844463	23.191929143	367.5	1916.2	Anthochaera_carunculata-ML21172701.wav	E:\Escritorio\Cantos\Meliphagidae\Anthochaera_carunculata-ML21172701.wav	2	b
+6	Spectrogram 1	1	23.899010460	24.150024327	472.5	1995.0	Anthochaera_carunculata-ML21172701.wav	E:\Escritorio\Cantos\Meliphagidae\Anthochaera_carunculata-ML21172701.wav	2	b
+7	Spectrogram 1	1	31.367998563	31.442242101	472.5	2310.0	Anthochaera_carunculata-ML21172701.wav	E:\Escritorio\Cantos\Meliphagidae\Anthochaera_carunculata-ML21172701.wav	3	a
+8	Spectrogram 1	1	31.654366496	31.912451176	393.7	1907.6	Anthochaera_carunculata-ML21172701.wav	E:\Escritorio\Cantos\Meliphagidae\Anthochaera_carunculata-ML21172701.wav	3	b
+9	Spectrogram 1	1	32.538218141	32.799838229	472.5	1907.6	Anthochaera_carunculata-ML21172701.wav	E:\Escritorio\Cantos\Meliphagidae\Anthochaera_carunculata-ML21172701.wav	3	b

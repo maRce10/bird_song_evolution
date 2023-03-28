@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.117806345	16.461324850	5734.1	6454.3	Ampeliceps_coronatus-ML113722.wav	D:\Andean\Sturnidae\Ampeliceps_coronatus-ML113722.wav	1	a
+2	Spectrogram 1	1	18.978258506	19.262321885	5678.7	6149.6	Ampeliceps_coronatus-ML113722.wav	D:\Andean\Sturnidae\Ampeliceps_coronatus-ML113722.wav	2	a
+3	Spectrogram 1	1	21.039369532	21.356463536	5651.0	6260.4	Ampeliceps_coronatus-ML113722.wav	D:\Andean\Sturnidae\Ampeliceps_coronatus-ML113722.wav	3	a

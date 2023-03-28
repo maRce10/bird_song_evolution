@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.129392753	16.249404810	110.8	415.5	Strix_leptogrammica-ML4541.wav	D:\Andean\Strigidae\Strix_leptogrammica-ML4541.wav	1	a
+2	Spectrogram 1	1	16.803055767	16.956404506	176.3	470.1	Strix_leptogrammica-ML4541.wav	D:\Andean\Strigidae\Strix_leptogrammica-ML4541.wav	1	b
+3	Spectrogram 1	1	17.009743198	17.409783389	215.5	470.1	Strix_leptogrammica-ML4541.wav	D:\Andean\Strigidae\Strix_leptogrammica-ML4541.wav	1	c
+4	Spectrogram 1	1	31.282484675	31.382494723	186.1	391.8	Strix_leptogrammica-ML4541.wav	D:\Andean\Strigidae\Strix_leptogrammica-ML4541.wav	2	a
+5	Spectrogram 1	1	31.949218326	32.109234402	215.5	470.1	Strix_leptogrammica-ML4541.wav	D:\Andean\Strigidae\Strix_leptogrammica-ML4541.wav	2	b
+6	Spectrogram 1	1	32.135903748	32.515941929	215.5	470.1	Strix_leptogrammica-ML4541.wav	D:\Andean\Strigidae\Strix_leptogrammica-ML4541.wav	2	c
+7	Spectrogram 1	1	50.463645031	50.570322415	215.5	450.5	Strix_leptogrammica-ML4541.wav	D:\Andean\Strigidae\Strix_leptogrammica-ML4541.wav	3	a
+8	Spectrogram 1	1	51.123711345	51.303729431	195.9	489.7	Strix_leptogrammica-ML4541.wav	D:\Andean\Strigidae\Strix_leptogrammica-ML4541.wav	3	b
+9	Spectrogram 1	1	51.323731440	51.703769621	215.5	479.9	Strix_leptogrammica-ML4541.wav	D:\Andean\Strigidae\Strix_leptogrammica-ML4541.wav	3	c

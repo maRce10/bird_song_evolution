@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.853141171	1.894429453	1802.1	3173.2	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	1	a
+2	Spectrogram 1	1	2.086007080	2.165280581	1390.7	3016.5	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	1	b
+3	Spectrogram 1	1	2.317221458	2.403101084	1684.5	3369.1	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	1	c
+5	Spectrogram 1	1	2.495586835	2.578163399	1802.1	3721.6	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	1	d
+6	Spectrogram 1	1	2.616148618	2.668997619	1782.5	3134.0	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	1	e
+7	Spectrogram 1	1	2.725149682	2.875439027	1939.2	4387.6	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	1	f
+8	Spectrogram 1	1	2.951409466	3.078577374	2840.2	3780.4	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	1	g
+9	Spectrogram 1	1	7.126018710	7.173913117	1625.8	3271.1	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	2	a
+10	Spectrogram 1	1	7.353930026	7.444764246	1469.1	3036.1	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	2	b
+11	Spectrogram 1	1	7.575235216	7.664417905	1488.7	3525.8	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	2	c
+12	Spectrogram 1	1	7.746994468	7.824616438	1919.6	3839.2	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	2	d
+13	Spectrogram 1	1	7.865904720	7.923708314	1939.2	3251.5	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	2	e
+14	Spectrogram 1	1	7.976557315	8.136755848	2076.3	4446.4	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	2	f
+15	Spectrogram 1	1	8.470365165	8.518259572	2859.8	3995.9	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	2	h
+16	Spectrogram 1	1	8.590926948	8.690018824	2154.6	4015.5	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	2	i
+17	Spectrogram 1	1	16.965721042	17.011963917	1332.0	3212.4	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	3	a
+18	Spectrogram 1	1	17.198586951	17.274557389	1371.1	3134.0	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	3	b
+19	Spectrogram 1	1	17.416589079	17.504120236	1449.5	3623.7	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	3	c
+20	Spectrogram 1	1	17.594954456	17.667621832	1821.6	3995.9	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	3	d
+21	Spectrogram 1	1	17.707258582	17.766713708	1743.3	3290.7	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	3	e
+22	Spectrogram 1	1	17.829471896	17.978109711	2272.2	4524.7	Spizixos_semitorques-ML146753481.wav	D:\Andean\Pycnonotidae\Spizixos_semitorques-ML146753481.wav	3	f

@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.344032599	29.502854618	1828.8	4389.1	Empidonax_alnorum-ML191183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_alnorum-ML191183.wav	1	a
+2	Spectrogram 1	1	29.562412875	29.759772589	1672.0	4702.6	Empidonax_alnorum-ML191183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_alnorum-ML191183.wav	1	b
+3	Spectrogram 1	1	32.899498193	33.076414847	1672.0	4676.5	Empidonax_alnorum-ML191183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_alnorum-ML191183.wav	2	c
+4	Spectrogram 1	1	33.134805295	33.333332818	1724.3	4911.6	Empidonax_alnorum-ML191183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_alnorum-ML191183.wav	2	d
+5	Spectrogram 1	1	33.340339672	33.363695851	3187.3	4702.6	Empidonax_alnorum-ML191183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_alnorum-ML191183.wav	2	e
+6	Spectrogram 1	1	37.102034732	37.277405306	1672.0	4676.5	Empidonax_alnorum-ML191183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_alnorum-ML191183.wav	3	c
+7	Spectrogram 1	1	37.329946048	37.556511648	1672.0	4937.7	Empidonax_alnorum-ML191183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_alnorum-ML191183.wav	3	f

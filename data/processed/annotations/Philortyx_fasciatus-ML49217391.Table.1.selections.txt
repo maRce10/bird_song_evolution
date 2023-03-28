@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	99.912874732	99.971265180	969.5	3324.1	Philortyx_fasciatus-ML49217391.wav	E:\Andean\Odontophoridae\Philortyx_fasciatus-ML49217391.wav	1	a
+2	Spectrogram 1	1	99.994621359	100.162785850	720.2	3185.6	Philortyx_fasciatus-ML49217391.wav	E:\Andean\Odontophoridae\Philortyx_fasciatus-ML49217391.wav	1	b
+3	Spectrogram 1	1	100.610056682	100.670782748	886.4	3185.6	Philortyx_fasciatus-ML49217391.wav	E:\Andean\Odontophoridae\Philortyx_fasciatus-ML49217391.wav	2	a
+4	Spectrogram 1	1	100.689467691	100.857632181	747.9	3324.1	Philortyx_fasciatus-ML49217391.wav	E:\Andean\Odontophoridae\Philortyx_fasciatus-ML49217391.wav	2	b
+5	Spectrogram 1	1	101.293730083	101.350952722	720.2	3241.0	Philortyx_fasciatus-ML49217391.wav	E:\Andean\Odontophoridae\Philortyx_fasciatus-ML49217391.wav	3	a
+6	Spectrogram 1	1	101.368469857	101.542473392	609.4	3407.2	Philortyx_fasciatus-ML49217391.wav	E:\Andean\Odontophoridae\Philortyx_fasciatus-ML49217391.wav	3	b

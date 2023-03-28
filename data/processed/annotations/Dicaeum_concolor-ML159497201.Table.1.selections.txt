@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.987278218	3.071716319	2662.8	8152.0	Dicaeum_concolor-ML159497201.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_concolor-ML159497201.wav	1	a
+2	Spectrogram 1	1	3.398455058	3.539797097	6353.4	8268.7	Dicaeum_concolor-ML159497201.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_concolor-ML159497201.wav	1	b
+3	Spectrogram 1	1	3.587522980	3.646262529	4414.7	7988.5	Dicaeum_concolor-ML159497201.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_concolor-ML159497201.wav	1	c
+4	Spectrogram 1	1	3.714180132	3.772919680	4554.8	8385.5	Dicaeum_concolor-ML159497201.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_concolor-ML159497201.wav	1	d
+5	Spectrogram 1	1	3.846344116	3.892234388	4554.8	8338.8	Dicaeum_concolor-ML159497201.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_concolor-ML159497201.wav	1	d
+6	Spectrogram 1	1	3.984014933	4.031740816	4718.3	8198.7	Dicaeum_concolor-ML159497201.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_concolor-ML159497201.wav	1	c
+7	Spectrogram 1	1	4.112507696	4.162069190	4741.7	8292.1	Dicaeum_concolor-ML159497201.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_concolor-ML159497201.wav	1	c
+8	Spectrogram 1	1	4.250178513	4.307082451	4624.9	8572.4	Dicaeum_concolor-ML159497201.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_concolor-ML159497201.wav	1	d
+9	Spectrogram 1	1	4.391520552	4.435575213	4928.5	8152.0	Dicaeum_concolor-ML159497201.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_concolor-ML159497201.wav	1	c
+10	Spectrogram 1	1	4.545711867	4.595273361	4905.2	8408.9	Dicaeum_concolor-ML159497201.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_concolor-ML159497201.wav	1	d

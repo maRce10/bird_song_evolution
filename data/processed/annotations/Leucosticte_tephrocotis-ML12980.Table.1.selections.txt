@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	236.237693599	236.379109862	2108.4	5336.8	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	1	a
+2	Spectrogram 1	1	236.591234257	236.750327553	1603.2	5227.0	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	1	b
+3	Spectrogram 1	1	236.884673003	237.036695486	2086.4	5161.1	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	1	a
+4	Spectrogram 1	1	238.171560999	238.327118889	1669.1	4765.8	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	2	b
+5	Spectrogram 1	1	238.525101657	238.662982514	2152.3	5029.3	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	2	a
+6	Spectrogram 1	1	238.882177722	239.034200205	2130.3	5270.9	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	2	a
+7	Spectrogram 1	1	239.221575719	239.387739828	1757.0	4919.5	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	2	b
+8	Spectrogram 1	1	239.511479059	239.649359915	2350.0	5095.2	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	2	a
+9	Spectrogram 1	1	240.916459274	241.061410944	2086.4	4458.3	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	3	b
+10	Spectrogram 1	1	241.337172658	241.482124328	2174.3	5117.2	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	3	a
+11	Spectrogram 1	1	241.768492261	241.906373118	2284.1	5249.0	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	3	a
+12	Spectrogram 1	1	242.051324787	242.189205644	2130.3	5007.4	Leucosticte_tephrocotis-ML12980.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_tephrocotis-ML12980.wav	3	a

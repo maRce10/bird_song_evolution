@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.128511344	0.153875425	642.7	1137.1	Biziura_lobata-ML68472341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Biziura_lobata-ML68472341.wav	1	a
+2	Spectrogram 1	1	0.224894853	0.402443420	2793.3	5660.8	Biziura_lobata-ML68472341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Biziura_lobata-ML68472341.wav	1	a
+3	Spectrogram 1	1	5.134923222	5.158596365	642.7	1137.1	Biziura_lobata-ML68472341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Biziura_lobata-ML68472341.wav	2	a
+4	Spectrogram 1	1	5.224542976	5.381800279	3040.5	5710.3	Biziura_lobata-ML68472341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Biziura_lobata-ML68472341.wav	2	b
+5	Spectrogram 1	1	10.181079983	10.206444064	667.4	1161.8	Biziura_lobata-ML68472341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Biziura_lobata-ML68472341.wav	3	a
+6	Spectrogram 1	1	10.277463491	10.419502345	2916.9	5710.3	Biziura_lobata-ML68472341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Biziura_lobata-ML68472341.wav	3	b

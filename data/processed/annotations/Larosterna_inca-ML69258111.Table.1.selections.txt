@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.645892761	1.693618644	1178.1	2956.3	Larosterna_inca-ML69258111.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larosterna_inca-ML69258111.wav	1	a
+2	Spectrogram 1	1	1.796412854	1.842303126	1200.3	3045.2	Larosterna_inca-ML69258111.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larosterna_inca-ML69258111.wav	2	a
+3	Spectrogram 1	1	1.932248060	1.983645165	1066.9	3023.0	Larosterna_inca-ML69258111.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larosterna_inca-ML69258111.wav	3	a

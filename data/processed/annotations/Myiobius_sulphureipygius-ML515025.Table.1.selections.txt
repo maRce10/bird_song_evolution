@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.925067444	1.139766509	3601.1	4986.2	Myiobius_sulphureipygius-ML515025.wav	E:\Andean\Oxyruncidae\Myiobius_sulphureipygius-ML515025.wav	1	a
+2	Spectrogram 1	1	1.555952390	1.754136142	3573.4	4875.4	Myiobius_sulphureipygius-ML515025.wav	E:\Andean\Oxyruncidae\Myiobius_sulphureipygius-ML515025.wav	1	a
+3	Spectrogram 1	1	2.170322022	2.348687400	3711.9	4930.8	Myiobius_sulphureipygius-ML515025.wav	E:\Andean\Oxyruncidae\Myiobius_sulphureipygius-ML515025.wav	1	a
+4	Spectrogram 1	1	2.801206968	2.982875408	3656.5	4820.0	Myiobius_sulphureipygius-ML515025.wav	E:\Andean\Oxyruncidae\Myiobius_sulphureipygius-ML515025.wav	1	a
+5	Spectrogram 1	1	3.382545975	3.600548103	3601.1	4986.2	Myiobius_sulphureipygius-ML515025.wav	E:\Andean\Oxyruncidae\Myiobius_sulphureipygius-ML515025.wav	1	a
+6	Spectrogram 1	1	3.920945169	4.125735047	3739.6	5097.0	Myiobius_sulphureipygius-ML515025.wav	E:\Andean\Oxyruncidae\Myiobius_sulphureipygius-ML515025.wav	1	a

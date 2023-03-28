@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.689217795	5.553790526	280.3	700.7	Leptotila_pallida-ML80409.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_pallida-ML80409.wav	1	a
+2	Spectrogram 1	1	9.014666979	9.961842200	327.0	724.1	Leptotila_pallida-ML80409.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_pallida-ML80409.wav	2	
+3	Spectrogram 1	1	13.263104239	14.208443850	327.0	677.4	Leptotila_pallida-ML80409.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_pallida-ML80409.wav	3	a

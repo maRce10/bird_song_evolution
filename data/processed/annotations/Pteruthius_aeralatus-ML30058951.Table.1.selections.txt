@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.485740129	31.630548440	2382.3	4016.6	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	1	a
+2	Spectrogram 1	1	31.723973157	31.866445851	1412.8	3102.5	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	1	b
+3	Spectrogram 1	1	31.969213039	32.114021350	1329.6	3767.3	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	1	c
+4	Spectrogram 1	1	32.244815954	32.424658534	1856.0	3573.4	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	1	d
+5	Spectrogram 1	1	32.473706510	32.595158642	1468.2	3157.9	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	1	e
+6	Spectrogram 1	1	35.044819641	35.175614245	2271.5	3767.3	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	2	a
+7	Spectrogram 1	1	35.266703344	35.399833565	1440.5	3157.9	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	2	b
+8	Spectrogram 1	1	35.539970641	35.677772098	1412.8	3711.9	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	2	c
+9	Spectrogram 1	1	35.789881758	35.965053102	1883.7	3711.9	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	2	d
+10	Spectrogram 1	1	36.030450404	36.158909390	1301.9	3102.5	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	2	e
+11	Spectrogram 1	1	38.763962654	38.904099730	2326.9	3739.6	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	3	a
+12	Spectrogram 1	1	39.002195682	39.132990286	1440.5	3157.9	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	3	b
+13	Spectrogram 1	1	39.256778036	39.389908257	1385.1	3684.2	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	3	c
+14	Spectrogram 1	1	39.516031625	39.695874205	1745.2	3767.3	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	3	d
+15	Spectrogram 1	1	39.754264653	39.887394875	1523.6	3102.5	Pteruthius_aeralatus-ML30058951.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_aeralatus-ML30058951.wav	3	e

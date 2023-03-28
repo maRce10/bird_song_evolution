@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.658105687	2.061142037	549.1	5084.5	Doliornis_sclateri-ML49489311.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Doliornis_sclateri-ML49489311.wav	1	a
+2	Spectrogram 1	1	29.511418043	29.946273052	658.9	5292.0	Doliornis_sclateri-ML49489311.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Doliornis_sclateri-ML49489311.wav	2	a
+3	Spectrogram 1	1	41.661710520	42.100100936	680.8	4980.7	Doliornis_sclateri-ML49489311.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Doliornis_sclateri-ML49489311.wav	3	a

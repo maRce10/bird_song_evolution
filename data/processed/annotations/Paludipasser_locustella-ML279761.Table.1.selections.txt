@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.436831721	6.568995705	2569.4	3737.3	Paludipasser_locustella-ML279761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Paludipasser_locustella-ML279761.wav	1	a
+2	Spectrogram 1	1	6.901241277	7.055432592	2476.0	3667.2	Paludipasser_locustella-ML279761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Paludipasser_locustella-ML279761.wav	2	a
+3	Spectrogram 1	1	7.367486444	7.499650429	2476.0	3690.6	Paludipasser_locustella-ML279761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Paludipasser_locustella-ML279761.wav	3	a

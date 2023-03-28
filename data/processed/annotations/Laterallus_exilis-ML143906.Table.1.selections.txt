@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	28.680070222	32.762655523	470.9	3656.5	Laterallus_exilis-ML143906.wav	D:\Andean\Rallidae\Laterallus_exilis-ML143906.wav	1	a
+2	Spectrogram 1	1	44.372901004	47.035169412	443.2	5180.1	Laterallus_exilis-ML143906.wav	D:\Andean\Rallidae\Laterallus_exilis-ML143906.wav	2	a
+3	Spectrogram 1	1	63.940358673	66.932933336	443.2	4653.8	Laterallus_exilis-ML143906.wav	D:\Andean\Rallidae\Laterallus_exilis-ML143906.wav	3	a

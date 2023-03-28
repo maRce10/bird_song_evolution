@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.926970363	4.960000988	1126.1	3849.6	Melanerpes_flavifrons-ML19069.wav	D:\Andean\Picidae\Melanerpes_flavifrons-ML19069.wav	1	a
+2	Spectrogram 1	1	4.978167832	5.026062239	1178.4	4321.0	Melanerpes_flavifrons-ML19069.wav	D:\Andean\Picidae\Melanerpes_flavifrons-ML19069.wav	1	b
+3	Spectrogram 1	1	5.077259708	5.146624022	1047.5	4137.6	Melanerpes_flavifrons-ML19069.wav	D:\Andean\Picidae\Melanerpes_flavifrons-ML19069.wav	1	c
+4	Spectrogram 1	1	10.127650836	10.160681461	942.8	3535.3	Melanerpes_flavifrons-ML19069.wav	D:\Andean\Picidae\Melanerpes_flavifrons-ML19069.wav	2	a
+5	Spectrogram 1	1	10.175545242	10.231697306	995.1	4373.3	Melanerpes_flavifrons-ML19069.wav	D:\Andean\Picidae\Melanerpes_flavifrons-ML19069.wav	2	b
+6	Spectrogram 1	1	10.253167212	10.319228463	942.8	4347.1	Melanerpes_flavifrons-ML19069.wav	D:\Andean\Picidae\Melanerpes_flavifrons-ML19069.wav	2	c
+7	Spectrogram 1	1	12.892082290	12.926764447	942.8	3535.3	Melanerpes_flavifrons-ML19069.wav	D:\Andean\Picidae\Melanerpes_flavifrons-ML19069.wav	3	a
+8	Spectrogram 1	1	12.941628228	12.994477229	995.1	4190.0	Melanerpes_flavifrons-ML19069.wav	D:\Andean\Picidae\Melanerpes_flavifrons-ML19069.wav	3	b
+9	Spectrogram 1	1	13.029159386	13.093569105	968.9	4216.2	Melanerpes_flavifrons-ML19069.wav	D:\Andean\Picidae\Melanerpes_flavifrons-ML19069.wav	3	c

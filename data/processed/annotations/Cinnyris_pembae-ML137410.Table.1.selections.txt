@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.205072431	7.284345932	6814.4	8061.0	Cinnyris_pembae-ML137410.wav	E:\Andean\Nectariniidae\Cinnyris_pembae-ML137410.wav	1	a
+2	Spectrogram 1	1	7.700531812	7.773199188	6897.6	8088.7	Cinnyris_pembae-ML137410.wav	E:\Andean\Nectariniidae\Cinnyris_pembae-ML137410.wav	2	a
+3	Spectrogram 1	1	8.215809569	8.314901445	6786.7	7977.9	Cinnyris_pembae-ML137410.wav	E:\Andean\Nectariniidae\Cinnyris_pembae-ML137410.wav	3	a

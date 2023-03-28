@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	371.713122981	371.806547698	1149.5	1776.5	Anurolimnas_castaneiceps-ML29265.wav	D:\Andean\Rallidae\Anurolimnas_castaneiceps-ML29265.wav	1	a
+2	Spectrogram 1	1	371.937342301	372.124191735	1045.0	1567.5	Anurolimnas_castaneiceps-ML29265.wav	D:\Andean\Rallidae\Anurolimnas_castaneiceps-ML29265.wav	1	b
+3	Spectrogram 1	1	372.731452395	372.848233291	1201.8	1776.5	Anurolimnas_castaneiceps-ML29265.wav	D:\Andean\Rallidae\Anurolimnas_castaneiceps-ML29265.wav	2	a
+4	Spectrogram 1	1	372.955671715	373.179891036	1018.9	1567.5	Anurolimnas_castaneiceps-ML29265.wav	D:\Andean\Rallidae\Anurolimnas_castaneiceps-ML29265.wav	2	b
+5	Spectrogram 1	1	373.759124280	373.852548997	1149.5	1645.9	Anurolimnas_castaneiceps-ML29265.wav	D:\Andean\Rallidae\Anurolimnas_castaneiceps-ML29265.wav	3	a
+6	Spectrogram 1	1	373.978672365	374.174864270	1097.3	1541.4	Anurolimnas_castaneiceps-ML29265.wav	D:\Andean\Rallidae\Anurolimnas_castaneiceps-ML29265.wav	3	b

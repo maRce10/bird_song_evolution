@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	126.861550110	126.980460362	664.8	2105.3	Northiella_haematogaster-ML31675651.wav	D:\Andean\Psittaculidae\Northiella_haematogaster-ML31675651.wav	1	a
+2	Spectrogram 1	1	127.036612425	127.165431864	664.8	2216.1	Northiella_haematogaster-ML31675651.wav	D:\Andean\Psittaculidae\Northiella_haematogaster-ML31675651.wav	1	a
+3	Spectrogram 1	1	128.159653689	128.314897628	609.4	2077.6	Northiella_haematogaster-ML31675651.wav	D:\Andean\Psittaculidae\Northiella_haematogaster-ML31675651.wav	2	a
+4	Spectrogram 1	1	128.331412941	128.453626255	554.0	1994.5	Northiella_haematogaster-ML31675651.wav	D:\Andean\Psittaculidae\Northiella_haematogaster-ML31675651.wav	2	a
+5	Spectrogram 1	1	130.202100899	130.354041776	554.0	2160.7	Northiella_haematogaster-ML31675651.wav	D:\Andean\Psittaculidae\Northiella_haematogaster-ML31675651.wav	3	a

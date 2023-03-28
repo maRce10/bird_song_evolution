@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.996984656	1.407091820	834.6	5073.3	Cyanolyca_nanus-ML28071881.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_nanus-ML28071881.wav	1	a
+2	Spectrogram 1	1	1.474264545	1.891442521	878.5	5007.4	Cyanolyca_nanus-ML28071881.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_nanus-ML28071881.wav	1	a
+3	Spectrogram 1	1	1.983363093	2.379328630	834.6	4853.6	Cyanolyca_nanus-ML28071881.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_nanus-ML28071881.wav	1	a
+4	Spectrogram 1	1	4.624312106	5.037954677	941.2	5055.4	Cyanolyca_nanus-ML28071881.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_nanus-ML28071881.wav	2	a
+5	Spectrogram 1	1	5.119269028	5.504628345	914.3	4974.7	Cyanolyca_nanus-ML28071881.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_nanus-ML28071881.wav	2	a
+6	Spectrogram 1	1	5.610690543	6.027868520	1048.7	4974.7	Cyanolyca_nanus-ML28071881.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_nanus-ML28071881.wav	2	a
+7	Spectrogram 1	1	10.687534831	11.090571181	914.3	5001.6	Cyanolyca_nanus-ML28071881.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_nanus-ML28071881.wav	3	a
+8	Spectrogram 1	1	11.147137686	11.543103223	968.0	5055.4	Cyanolyca_nanus-ML28071881.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_nanus-ML28071881.wav	3	a
+9	Spectrogram 1	1	11.617346762	12.023918519	968.0	4840.2	Cyanolyca_nanus-ML28071881.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_nanus-ML28071881.wav	3	a

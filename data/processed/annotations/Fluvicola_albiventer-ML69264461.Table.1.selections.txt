@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.906422952	3.080659390	1772.9	8338.0	Fluvicola_albiventer-ML69264461.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Fluvicola_albiventer-ML69264461.wav	1	a
+3	Spectrogram 1	1	6.128366516	6.302603065	1551.3	8282.6	Fluvicola_albiventer-ML69264461.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Fluvicola_albiventer-ML69264461.wav	2	a
+4	Spectrogram 1	1	8.982001030	9.157889110	1551.3	8254.9	Fluvicola_albiventer-ML69264461.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Fluvicola_albiventer-ML69264461.wav	3	a

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.146258250	1.233193566	1911.4	2299.2	Horornis_fortipes-ML30559441.wav	D:\Andean\Scotocercidae\Horornis_fortipes-ML30559441.wav	1	a
+2	Spectrogram 1	1	1.310469403	2.833447355	1772.9	2326.9	Horornis_fortipes-ML30559441.wav	D:\Andean\Scotocercidae\Horornis_fortipes-ML30559441.wav	1	b
+3	Spectrogram 1	1	2.897843886	3.078154172	2133.0	5540.2	Horornis_fortipes-ML30559441.wav	D:\Andean\Scotocercidae\Horornis_fortipes-ML30559441.wav	1	c
+4	Spectrogram 1	1	3.152210182	3.297102376	1523.6	5540.2	Horornis_fortipes-ML30559441.wav	D:\Andean\Scotocercidae\Horornis_fortipes-ML30559441.wav	1	d
+5	Spectrogram 1	1	3.380817866	3.657722948	3379.5	5678.7	Horornis_fortipes-ML30559441.wav	D:\Andean\Scotocercidae\Horornis_fortipes-ML30559441.wav	1	e
+6	Spectrogram 1	1	12.296299425	12.383234742	2410.0	2770.1	Horornis_fortipes-ML30559441.wav	D:\Andean\Scotocercidae\Horornis_fortipes-ML30559441.wav	2	a
+7	Spectrogram 1	1	12.473389885	13.973829051	2326.9	2853.2	Horornis_fortipes-ML30559441.wav	D:\Andean\Scotocercidae\Horornis_fortipes-ML30559441.wav	2	b
+8	Spectrogram 1	1	14.038225582	14.224975521	1329.6	5512.5	Horornis_fortipes-ML30559441.wav	D:\Andean\Scotocercidae\Horornis_fortipes-ML30559441.wav	2	f
+9	Spectrogram 1	1	14.299031532	14.498660777	1468.2	4958.5	Horornis_fortipes-ML30559441.wav	D:\Andean\Scotocercidae\Horornis_fortipes-ML30559441.wav	2	g

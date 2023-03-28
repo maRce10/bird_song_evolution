@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	107.663335580	107.814415831	2030.2	7218.4	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	1	a
+2	Spectrogram 1	1	107.959900517	108.038238425	4004.0	8346.3	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	1	b
+3	Spectrogram 1	1	108.052227337	108.194914241	4624.3	7951.5	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	1	c
+4	Spectrogram 1	1	108.253667672	108.315218886	1748.2	6485.3	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	1	d
+5	Spectrogram 1	1	108.365578969	108.452310225	4624.3	8346.3	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	1	e
+6	Spectrogram 1	1	108.519457003	108.768459639	2988.9	10827.6	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	1	f
+7	Spectrogram 1	1	166.960581606	167.128448552	2481.3	7162.0	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	2	a
+8	Spectrogram 1	1	167.275332130	167.364861167	3834.8	6823.7	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	2	b
+9	Spectrogram 1	1	167.376052297	167.510345854	4793.5	7838.7	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	2	c
+10	Spectrogram 1	1	167.584487088	167.646038302	2030.2	4624.3	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	2	d
+11	Spectrogram 1	1	167.693600603	167.774736293	4906.3	10320.1	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	2	e
+12	Spectrogram 1	1	167.867063114	168.166425834	3158.1	8177.1	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	2	f
+13	Spectrogram 1	1	168.236370394	168.309112738	2312.1	6541.7	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	2	d
+14	Spectrogram 1	1	168.348281692	168.521744202	3834.8	7105.6	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	2	g
+15	Spectrogram 1	1	229.523602384	229.677480418	2255.8	6372.5	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	3	a
+16	Spectrogram 1	1	229.822965104	229.912494142	3834.8	7049.2	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	3	b
+17	Spectrogram 1	1	229.929280837	230.055181046	4624.3	8289.9	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	3	c
+18	Spectrogram 1	1	230.116732260	230.172687908	2143.0	4906.3	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	3	d
+19	Spectrogram 1	1	230.245430251	230.337757072	4342.3	8741.0	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	3	e
+20	Spectrogram 1	1	230.413297197	230.704266570	3045.3	7613.2	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	3	f
+21	Spectrogram 1	1	230.774211131	230.846953474	2030.2	5131.8	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	3	d
+22	Spectrogram 1	1	230.880526863	231.087562763	3552.8	6034.1	Leistes_defilippii-ML146757.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_defilippii-ML146757.wav	3	g

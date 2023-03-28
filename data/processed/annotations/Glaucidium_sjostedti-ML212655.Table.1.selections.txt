@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	79.071328986	79.338022446	365.8	966.6	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	1	a
+2	Spectrogram 1	1	80.351457595	80.671489747	431.1	888.3	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	1	a
+3	Spectrogram 1	1	81.644920877	81.938283683	457.2	888.3	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	1	a
+4	Spectrogram 1	1	82.531676632	82.831706775	483.3	875.2	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	1	a
+5	Spectrogram 1	1	83.245081639	83.478438416	431.1	862.1	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	1	a
+6	Spectrogram 1	1	83.905147953	84.118502721	404.9	809.9	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	1	a
+7	Spectrogram 1	1	84.538544921	84.751899689	418.0	809.9	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	1	a
+8	Spectrogram 1	1	85.351959974	85.518643387	378.8	731.5	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	1	b
+9	Spectrogram 1	1	104.098303086	104.405000565	483.3	927.5	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	2	a
+10	Spectrogram 1	1	105.431770387	105.731800529	470.3	901.3	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	2	a
+11	Spectrogram 1	1	106.698564323	106.971925120	457.2	888.3	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	2	a
+12	Spectrogram 1	1	107.558650732	107.832011529	457.2	888.3	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	2	a
+13	Spectrogram 1	1	108.298725084	108.532081862	444.1	875.2	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	2	a
+14	Spectrogram 1	1	108.932122052	109.152144157	418.0	836.0	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	2	a
+15	Spectrogram 1	1	109.572186357	109.765539116	404.9	783.8	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	2	a
+16	Spectrogram 1	1	110.312260709	110.512280804	404.9	731.5	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	2	b
+17	Spectrogram 1	1	127.799745883	128.106443362	418.0	940.5	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	3	a
+18	Spectrogram 1	1	129.119878511	129.406573981	457.2	940.5	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	3	a
+19	Spectrogram 1	1	130.433343803	130.720039273	457.2	927.5	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	3	a
+20	Spectrogram 1	1	131.353436241	131.633464374	444.1	875.2	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	3	a
+21	Spectrogram 1	1	132.013502555	132.266861342	431.1	836.0	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	3	a
+22	Spectrogram 1	1	132.666901533	132.926927656	391.9	849.1	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	3	a
+23	Spectrogram 1	1	133.420310558	133.640332662	418.0	783.8	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	3	b
+24	Spectrogram 1	1	134.287064303	134.460415053	404.9	731.5	Glaucidium_sjostedti-ML212655.wav	D:\Andean\Strigidae\Glaucidium_sjostedti-ML212655.wav	3	b

@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	208.265987579	208.782156940	1186.0	2306.0	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	1	a
+2	Spectrogram 1	1	209.054383247	209.545804762	1010.3	1691.1	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	1	b
+3	Spectrogram 1	1	209.966518145	210.139753068	1346.6	2723.3	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	1	c
+4	Spectrogram 1	1	210.217532013	210.662993242	1120.1	2503.7	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	1	d
+5	Spectrogram 1	1	246.716691434	247.204577543	1150.2	1683.2	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	2	b
+6	Spectrogram 1	1	247.561653608	247.731353123	1374.6	2721.2	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	2	c
+7	Spectrogram 1	1	247.812667475	248.254593298	1178.2	2552.9	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	2	d
+8	Spectrogram 1	1	269.999264878	270.483615580	1122.1	2440.6	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	3	a
+9	Spectrogram 1	1	270.833620832	271.332113160	1066.0	1711.3	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	3	b
+10	Spectrogram 1	1	271.664441379	271.812928455	1430.7	2749.2	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	3	c
+11	Spectrogram 1	1	271.890707400	272.325562409	1122.1	2552.9	Pterorhinus_caerulatus-ML41854.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_caerulatus-ML41854.wav	3	d

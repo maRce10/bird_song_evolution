@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	41.658810150	41.700098432	3601.1	7340.8	Microligea_palustris-ML35328.wav	D:\Andean\Phaenicophilidae\Microligea_palustris-ML35328.wav	1	a
+2	Spectrogram 1	1	41.990767935	42.035359280	4044.3	7590.1	Microligea_palustris-ML35328.wav	D:\Andean\Phaenicophilidae\Microligea_palustris-ML35328.wav	2	a
+3	Spectrogram 1	1	42.327680315	42.372271659	3573.4	7534.7	Microligea_palustris-ML35328.wav	D:\Andean\Phaenicophilidae\Microligea_palustris-ML35328.wav	3	a

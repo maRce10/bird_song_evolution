@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.744407386	4.781569025	1385.1	3241.0	Ptiloris_paradiseus-ML101488801.wav	D:\Andean\Paradisaeidae\Ptiloris_paradiseus-ML101488801.wav	1	a
+2	Spectrogram 1	1	5.237391655	6.327402294	1218.8	3157.9	Ptiloris_paradiseus-ML101488801.wav	D:\Andean\Paradisaeidae\Ptiloris_paradiseus-ML101488801.wav	1	a
+3	Spectrogram 1	1	15.199852736	16.012406121	914.1	3157.9	Ptiloris_paradiseus-ML101488801.wav	D:\Andean\Paradisaeidae\Ptiloris_paradiseus-ML101488801.wav	2	a
+4	Spectrogram 1	1	16.554108378	17.492178140	803.3	3102.5	Ptiloris_paradiseus-ML101488801.wav	D:\Andean\Paradisaeidae\Ptiloris_paradiseus-ML101488801.wav	2	a
+5	Spectrogram 1	1	80.317732428	81.209559314	1052.6	3324.1	Ptiloris_paradiseus-ML101488801.wav	D:\Andean\Paradisaeidae\Ptiloris_paradiseus-ML101488801.wav	3	a
+6	Spectrogram 1	1	81.685200320	82.788423209	1024.9	3407.2	Ptiloris_paradiseus-ML101488801.wav	D:\Andean\Paradisaeidae\Ptiloris_paradiseus-ML101488801.wav	3	a

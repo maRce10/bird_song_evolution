@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.117188480	1.658105687	856.5	3513.9	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	1	a
+2	Spectrogram 1	1	1.771238698	2.220235334	856.5	3579.8	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	1	b
+3	Spectrogram 1	1	2.340439157	2.796506607	812.6	3579.8	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	1	b
+4	Spectrogram 1	1	2.920245837	3.369242473	834.6	3755.5	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	1	b
+5	Spectrogram 1	1	3.591973088	3.959655372	790.6	3008.8	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	1	c
+6	Spectrogram 1	1	32.574319291	33.031262658	1383.6	2986.9	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	2	a
+7	Spectrogram 1	1	33.172240962	33.628308150	828.5	3505.1	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	2	b
+8	Spectrogram 1	1	33.704747799	34.144477511	828.5	3760.0	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	2	b
+9	Spectrogram 1	1	34.266877446	34.719409488	892.2	3791.8	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	2	b
+10	Spectrogram 1	1	34.850219532	35.278003728	701.0	3951.2	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	2	b
+11	Spectrogram 1	1	57.597365468	58.102928609	924.1	3600.7	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	3	b
+12	Spectrogram 1	1	58.230203246	58.672129069	892.2	3855.6	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	3	b
+13	Spectrogram 1	1	58.792332893	59.234258716	860.3	3760.0	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	3	b
+14	Spectrogram 1	1	59.361533353	59.803459175	764.7	3632.5	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	3	b
+15	Spectrogram 1	1	59.948410845	60.369124228	764.7	3696.2	Hylexetastes_stresemanni-ML21650881.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_stresemanni-ML21650881.wav	3	b

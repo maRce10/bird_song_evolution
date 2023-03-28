@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.872008511	1.294800516	775.6	1274.2	Podiceps_major-ML88866851.wav	D:\Andean\Podicipedidae\Podiceps_major-ML88866851.wav	1	a
+2	Spectrogram 1	1	4.168464927	5.040473438	720.2	1163.4	Podiceps_major-ML88866851.wav	D:\Andean\Podicipedidae\Podiceps_major-ML88866851.wav	1	a
+3	Spectrogram 1	1	7.061947714	8.039654226	775.6	1246.5	Podiceps_major-ML88866851.wav	D:\Andean\Podicipedidae\Podiceps_major-ML88866851.wav	1	a
+4	Spectrogram 1	1	9.870053256	10.808123018	720.2	1191.1	Podiceps_major-ML88866851.wav	D:\Andean\Podicipedidae\Podiceps_major-ML88866851.wav	1	a
+5	Spectrogram 1	1	12.578564540	13.410936300	720.2	1191.1	Podiceps_major-ML88866851.wav	D:\Andean\Podicipedidae\Podiceps_major-ML88866851.wav	1	a
+6	Spectrogram 1	1	51.587491567	52.043314197	747.9	1218.8	Podiceps_major-ML88866851.wav	D:\Andean\Podicipedidae\Podiceps_major-ML88866851.wav	2	a
+7	Spectrogram 1	1	54.996252110	55.947534122	692.5	1191.1	Podiceps_major-ML88866851.wav	D:\Andean\Podicipedidae\Podiceps_major-ML88866851.wav	2	a
+8	Spectrogram 1	1	58.264858214	59.295413727	692.5	1218.8	Podiceps_major-ML88866851.wav	D:\Andean\Podicipedidae\Podiceps_major-ML88866851.wav	2	a
+9	Spectrogram 1	1	134.196714482	134.493990111	747.9	1218.8	Podiceps_major-ML88866851.wav	D:\Andean\Podicipedidae\Podiceps_major-ML88866851.wav	3	a
+10	Spectrogram 1	1	135.980368254	136.284250008	886.4	1191.1	Podiceps_major-ML88866851.wav	D:\Andean\Podicipedidae\Podiceps_major-ML88866851.wav	3	a

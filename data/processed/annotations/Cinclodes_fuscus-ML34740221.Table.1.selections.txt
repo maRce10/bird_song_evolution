@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.518855041	4.571886140	1755.9	4919.5	Cinclodes_fuscus-ML34740221.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_fuscus-ML34740221.wav	1	a
+2	Spectrogram 1	1	6.666781341	6.723347846	2064.4	4985.4	Cinclodes_fuscus-ML34740221.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_fuscus-ML34740221.wav	2	a
+3	Spectrogram 1	1	8.285997561	8.339028659	2218.2	4985.4	Cinclodes_fuscus-ML34740221.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_fuscus-ML34740221.wav	3	a

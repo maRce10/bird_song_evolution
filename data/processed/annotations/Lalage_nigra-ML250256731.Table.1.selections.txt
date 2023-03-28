@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.104277715	2.150167988	1868.6	3737.3	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	1	a
+2	Spectrogram 1	1	2.236441700	2.300688081	1868.6	4554.8	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	1	b
+3	Spectrogram 1	1	2.631098042	2.676988314	1775.2	3830.7	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	1	a
+4	Spectrogram 1	1	2.726549809	2.788960579	1611.7	4321.2	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	1	b
+5	Spectrogram 1	1	2.844028906	2.967014836	1378.1	3620.5	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	1	c
+6	Spectrogram 1	1	3.014740719	3.168932034	1354.8	3877.4	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	1	d
+7	Spectrogram 1	1	8.277819516	8.331052232	1728.5	3924.2	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	2	a
+8	Spectrogram 1	1	8.406312279	8.461380606	1892.0	4414.7	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	2	b
+9	Spectrogram 1	1	8.782612512	8.828502785	1868.6	3807.4	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	2	a
+10	Spectrogram 1	1	8.878064279	8.931296995	1845.3	4438.0	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	2	b
+11	Spectrogram 1	1	9.013899485	9.142392248	1401.5	3410.3	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	2	c
+12	Spectrogram 1	1	9.182775687	9.324117726	1565.0	3737.3	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	2	d
+13	Spectrogram 1	1	19.771451202	19.815505864	1915.4	3947.5	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	3	a
+14	Spectrogram 1	1	19.883423467	19.942163015	2055.5	4601.5	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	3	b
+15	Spectrogram 1	1	20.208326595	20.257888089	1892.0	3854.1	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	3	a
+16	Spectrogram 1	1	20.312956416	20.368024743	2078.9	4414.7	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	3	b
+17	Spectrogram 1	1	20.426764291	20.540572167	1541.6	3527.1	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	3	c
+18	Spectrogram 1	1	20.593804883	20.744324976	1611.7	3784.0	Lalage_nigra-ML250256731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Lalage_nigra-ML250256731.wav	3	d

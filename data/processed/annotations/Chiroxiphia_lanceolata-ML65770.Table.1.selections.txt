@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	87.662743550	88.108908269	785.500	1983.300	Chiroxiphia_lanceolata-ML65770.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_lanceolata-ML65770.wav	1	a
+2	Spectrogram 1	1	88.233707484	88.375668985	1388.500	1971.700	Chiroxiphia_lanceolata-ML65770.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_lanceolata-ML65770.wav	1	b
+3	Spectrogram 1	1	88.395949200	88.597191328	1374.600	1826.200	Chiroxiphia_lanceolata-ML65770.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_lanceolata-ML65770.wav	1	c
+4	Spectrogram 1	1	88.619031559	88.787513341	1021.100	1747.700	Chiroxiphia_lanceolata-ML65770.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_lanceolata-ML65770.wav	1	d
+5	Spectrogram 1	1	95.990201647	96.342765376	1041.400	1791.200	Chiroxiphia_lanceolata-ML65770.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_lanceolata-ML65770.wav	2	a
+6	Spectrogram 1	1	96.486286894	96.854450788	1388.500	2013.400	Chiroxiphia_lanceolata-ML65770.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_lanceolata-ML65770.wav	2	c
+7	Spectrogram 1	1	96.851330755	97.032292669	944.200	1777.300	Chiroxiphia_lanceolata-ML65770.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_lanceolata-ML65770.wav	2	d

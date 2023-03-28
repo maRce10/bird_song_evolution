@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.390212815	23.795476068	70.1	397.1	Columba_pulchricollis-ML3904.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_pulchricollis-ML3904.wav	1	a
+2	Spectrogram 1	1	25.314893640	25.730122383	93.4	420.4	Columba_pulchricollis-ML3904.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_pulchricollis-ML3904.wav	2	a
+3	Spectrogram 1	1	27.388816200	27.750895664	93.4	420.4	Columba_pulchricollis-ML3904.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_pulchricollis-ML3904.wav	3	a

@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	42.674894078	42.861034374	338.400	2430.400	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	1	a
+2	Spectrogram 1	1	42.907878511	43.022779225	817.700	2453.100	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	1	b
+3	Spectrogram 1	1	43.072082250	43.188750667	845.900	2453.100	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	1	b
+4	Spectrogram 1	1	43.240014063	43.349611667	761.300	2453.100	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	1	b
+5	Spectrogram 1	1	43.404410469	43.514008073	761.300	2396.700	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	1	b
+6	Spectrogram 1	1	44.282366261	44.467975106	648.500	2453.100	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	2	a
+7	Spectrogram 1	1	44.524541612	44.635906919	845.900	2424.900	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	2	b
+8	Spectrogram 1	1	44.685402611	44.793232512	845.900	2424.900	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	2	b
+9	Spectrogram 1	1	44.849799017	44.961164325	845.900	2481.300	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	2	b
+10	Spectrogram 1	1	45.015963127	45.130863841	676.700	2396.700	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	2	b
+11	Spectrogram 1	1	45.887230336	46.058697555	620.300	2396.700	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	3	a
+12	Spectrogram 1	1	46.108193247	46.217790851	761.300	2453.100	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	3	b
+13	Spectrogram 1	1	46.267286543	46.373348741	704.900	2481.300	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	3	b
+14	Spectrogram 1	1	46.429915246	46.541280553	620.300	2424.900	Clamator_jacobinus-ML61175.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Clamator_jacobinus-ML61175.wav	3	b

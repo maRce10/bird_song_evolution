@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	50.072872338	50.413087780	738.9	4433.7	Sericossypha_albocristata-ML65697691.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sericossypha_albocristata-ML65697691.wav	1	a
+2	Spectrogram 1	1	52.503604364	52.713809977	738.9	6428.8	Sericossypha_albocristata-ML65697691.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sericossypha_albocristata-ML65697691.wav	2	b
+3	Spectrogram 1	1	54.367998367	54.669293079	628.1	4877.0	Sericossypha_albocristata-ML65697691.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sericossypha_albocristata-ML65697691.wav	3	c

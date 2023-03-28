@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.056988098	11.598243731	2143.0	5865.0	Molothrus_oryzivorus-ML115218.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_oryzivorus-ML115218.wav	1	a
+2	Spectrogram 1	1	66.485456804	66.844653724	2424.9	6372.5	Molothrus_oryzivorus-ML115218.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_oryzivorus-ML115218.wav	2	a
+3	Spectrogram 1	1	103.389874131	103.852401672	2650.5	5131.8	Molothrus_oryzivorus-ML115218.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_oryzivorus-ML115218.wav	3	a

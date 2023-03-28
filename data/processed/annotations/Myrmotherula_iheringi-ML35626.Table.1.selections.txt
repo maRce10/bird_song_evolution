@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	48.324188291	48.661100671	1593.7	2090.0	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	1	a
+2	Spectrogram 1	1	48.958376299	49.315107054	1645.9	2429.7	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	1	b
+3	Spectrogram 1	1	49.566139807	49.883233811	1645.9	2455.8	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	1	b
+4	Spectrogram 1	1	50.147478814	50.418329943	1698.2	2664.8	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	1	c
+5	Spectrogram 1	1	50.702393321	50.979850575	1698.2	2690.9	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	1	c
+6	Spectrogram 1	1	51.257307828	51.521552832	1672.0	2638.7	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	1	c
+7	Spectrogram 1	1	51.785797835	52.043436713	1881.0	2743.2	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	1	d
+8	Spectrogram 1	1	52.347318467	52.611563470	1724.3	2873.8	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	1	e
+9	Spectrogram 1	1	52.902232974	53.146659602	1750.4	2926.1	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	1	e
+11	Spectrogram 1	1	58.001012861	58.258651739	1724.3	2272.9	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	a
+12	Spectrogram 1	1	58.529502868	58.866415247	1567.5	2299.1	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	f
+13	Spectrogram 1	1	59.176903126	59.480784880	1776.5	2534.2	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	b
+14	Spectrogram 1	1	59.738423758	60.055517762	1776.5	2534.2	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	b
+15	Spectrogram 1	1	60.319762765	60.617038394	1750.4	2717.1	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	c
+16	Spectrogram 1	1	60.881283397	61.152134526	1776.5	2717.1	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	c
+17	Spectrogram 1	1	61.449410154	61.707049033	1750.4	2769.3	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	c
+18	Spectrogram 1	1	61.964687911	62.248751290	1750.4	2717.1	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	c
+19	Spectrogram 1	1	62.539420793	62.797059671	1776.5	2899.9	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	e
+20	Spectrogram 1	1	63.074516925	63.351974178	1802.7	2899.9	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	e
+21	Spectrogram 1	1	63.622825307	63.867251935	1802.7	2926.1	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	e
+22	Spectrogram 1	1	64.164527564	64.408954192	1828.8	2899.9	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	e
+23	Spectrogram 1	1	64.712835946	64.977080949	1828.8	2926.1	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	2	e
+28	Spectrogram 1	1	67.627089951	67.884728829	1724.3	2821.6	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	3	e
+29	Spectrogram 1	1	68.188610583	68.466067837	1802.7	3056.7	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	3	g
+30	Spectrogram 1	1	68.743525090	69.007770093	1802.7	2899.9	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	3	e
+31	Spectrogram 1	1	69.311651847	69.542866225	1776.5	3056.7	Myrmotherula_iheringi-ML35626.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_iheringi-ML35626.wav	3	g

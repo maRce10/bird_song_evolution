@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.245435018	5.789875767	216.2	710.3	Ptilinopus_leclancheri-ML38787.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_leclancheri-ML38787.wav	1	a
+2	Spectrogram 1	1	11.770863931	12.331385208	154.4	679.4	Ptilinopus_leclancheri-ML38787.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_leclancheri-ML38787.wav	2	a
+3	Spectrogram 1	1	16.337938337	16.907648488	154.4	772.1	Ptilinopus_leclancheri-ML38787.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_leclancheri-ML38787.wav	3	a

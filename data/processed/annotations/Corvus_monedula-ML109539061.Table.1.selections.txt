@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	209.044706230	209.256771365	743.2	2725.2	Corvus_monedula-ML109539061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_monedula-ML109539061.wav	1	a
+2	Spectrogram 1	1	209.572196596	209.766441131	346.8	2576.6	Corvus_monedula-ML109539061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_monedula-ML109539061.wav	2	b
+3	Spectrogram 1	1	210.309969419	210.527380734	561.6	2675.7	Corvus_monedula-ML109539061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_monedula-ML109539061.wav	2	c

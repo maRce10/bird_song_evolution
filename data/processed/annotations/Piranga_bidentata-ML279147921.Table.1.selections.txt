@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	52.101845830	52.300269805	1730.4	3559.6	Piranga_bidentata-ML279147921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cardinalidae\Piranga_bidentata-ML279147921.wav	1	a
+2	Spectrogram 1	1	53.194573012	53.577247821	1680.9	4004.6	Piranga_bidentata-ML279147921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cardinalidae\Piranga_bidentata-ML279147921.wav	1	b
+3	Spectrogram 1	1	54.318650772	54.745616647	1705.7	3683.2	Piranga_bidentata-ML279147921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cardinalidae\Piranga_bidentata-ML279147921.wav	1	c
+4	Spectrogram 1	1	67.233145984	67.622907364	1854.0	3881.0	Piranga_bidentata-ML279147921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cardinalidae\Piranga_bidentata-ML279147921.wav	2	b
+5	Spectrogram 1	1	68.444949547	68.859513924	1582.1	3831.6	Piranga_bidentata-ML279147921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cardinalidae\Piranga_bidentata-ML279147921.wav	2	c
+6	Spectrogram 1	1	96.010629759	96.403934424	1829.3	3856.3	Piranga_bidentata-ML279147921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cardinalidae\Piranga_bidentata-ML279147921.wav	3	b
+7	Spectrogram 1	1	97.112591479	97.539557354	1705.7	3856.3	Piranga_bidentata-ML279147921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cardinalidae\Piranga_bidentata-ML279147921.wav	3	c

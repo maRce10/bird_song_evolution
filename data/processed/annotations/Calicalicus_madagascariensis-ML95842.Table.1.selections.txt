@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	48.893105497	48.939817855	1717.5	4958.5	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	1	a
+2	Spectrogram 1	1	49.041780131	49.134265882	1634.4	5013.9	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	1	b
+3	Spectrogram 1	1	49.206933258	49.304373603	2216.1	2908.6	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	1	c
+4	Spectrogram 1	1	49.362177198	49.628073732	2216.1	3407.2	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	1	d
+5	Spectrogram 1	1	50.214367333	50.260610209	1523.6	4986.2	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	2	a
+6	Spectrogram 1	1	50.353095807	50.447233089	1662.1	5013.9	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	2	b
+7	Spectrogram 1	1	50.528158122	50.620643873	2188.4	2880.9	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	2	c
+8	Spectrogram 1	1	50.685053592	50.949298596	2188.4	3379.5	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	2	d
+9	Spectrogram 1	1	51.453652921	51.501547328	1606.7	4930.8	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	3	a
+10	Spectrogram 1	1	51.602290736	51.694776487	1523.6	4930.8	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	3	b
+11	Spectrogram 1	1	51.777353050	51.871490333	2105.3	2770.1	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	3	c
+12	Spectrogram 1	1	51.935900052	52.198493524	2160.7	3407.2	Calicalicus_madagascariensis-ML95842.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_madagascariensis-ML95842.wav	3	d

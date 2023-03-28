@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.969652674	12.039721212	221.6	2133.0	Cercibis_oxycerca-ML58912.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Cercibis_oxycerca-ML58912.wav	1	a
+2	Spectrogram 1	1	13.060386244	13.121112310	221.6	2049.9	Cercibis_oxycerca-ML58912.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Cercibis_oxycerca-ML58912.wav	2	a
+3	Spectrogram 1	1	13.933907347	13.999304648	249.3	2105.3	Cercibis_oxycerca-ML58912.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Cercibis_oxycerca-ML58912.wav	3	a

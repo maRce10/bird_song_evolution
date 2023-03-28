@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	203.083290996	203.143526846	864.2	5932.9	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	1	a
+2	Spectrogram 1	1	203.161243272	203.255140332	911.0	7124.2	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	1	b
+3	Spectrogram 1	1	203.302974683	203.380926959	817.5	5045.3	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	1	c
+4	Spectrogram 1	1	203.425218025	203.520886727	981.0	6470.2	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	1	d
+5	Spectrogram 1	1	203.572264363	203.648444997	864.2	5092.1	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	1	c
+6	Spectrogram 1	1	203.699822633	203.799034621	957.7	6470.2	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	1	d
+7	Spectrogram 1	1	203.940766032	203.995686953	817.5	5769.4	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	2	a
+8	Spectrogram 1	1	204.018718308	204.109072082	794.2	6890.6	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	2	b
+9	Spectrogram 1	1	204.158678076	204.233087067	700.7	5792.8	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	2	c
+10	Spectrogram 1	1	204.288007988	204.385448333	840.9	6680.4	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	2	d
+11	Spectrogram 1	1	204.433282685	204.518321531	700.7	5722.7	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	2	c
+12	Spectrogram 1	1	204.569699168	204.668911155	794.2	6797.2	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	2	d
+13	Spectrogram 1	1	204.831470756	204.886391677	724.1	5839.5	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	3	a
+14	Spectrogram 1	1	204.909423032	204.999776806	794.2	6493.5	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	3	b
+15	Spectrogram 1	1	205.051154443	205.127335076	770.8	5722.7	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	3	c
+16	Spectrogram 1	1	205.178712712	205.277924700	794.2	6470.2	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	3	d
+17	Spectrogram 1	1	205.341703835	205.412569540	794.2	5535.9	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	3	c
+18	Spectrogram 1	1	205.467490462	205.564930807	864.2	6680.4	Oreophilais_robertsi-ML79990.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Oreophilais_robertsi-ML79990.wav	3	b

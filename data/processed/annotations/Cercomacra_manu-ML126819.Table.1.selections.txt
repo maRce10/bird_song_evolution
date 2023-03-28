@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.792287233	7.850677681	581.7	1994.5	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	1	a
+2	Spectrogram 1	1	8.177664190	8.289773850	498.6	1883.7	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	1	b
+3	Spectrogram 1	1	8.752226199	8.822294737	554.0	1883.7	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	1	a
+4	Spectrogram 1	1	9.132931920	9.242705962	360.1	1856.0	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	1	b
+5	Spectrogram 1	1	15.387686781	15.446077229	470.9	1662.1	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	2	a
+6	Spectrogram 1	1	15.768392502	15.875830927	387.8	1883.7	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	2	b
+7	Spectrogram 1	1	16.377988780	16.443386082	554.0	1662.1	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	2	a
+8	Spectrogram 1	1	16.740009558	16.856790454	304.7	1883.7	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	2	b
+9	Spectrogram 1	1	22.100614432	22.154333644	664.8	1828.3	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	3	a
+10	Spectrogram 1	1	22.485991389	22.602772285	526.3	1994.5	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	3	b
+11	Spectrogram 1	1	23.046539690	23.116608228	581.7	1800.6	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	3	a
+12	Spectrogram 1	1	23.420238558	23.530012600	443.2	1994.5	Cercomacra_manu-ML126819.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacra_manu-ML126819.wav	3	b

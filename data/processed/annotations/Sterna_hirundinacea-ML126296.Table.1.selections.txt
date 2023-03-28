@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.959580648	15.007605645	1144.544	3200.053	Sterna_hirundinacea-ML126296.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_hirundinacea-ML126296.wav	1	a
+2	Spectrogram 1	1	15.157536177	15.199961056	1120.100	3140.600	Sterna_hirundinacea-ML126296.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_hirundinacea-ML126296.wav	1	a
+3	Spectrogram 1	1	15.415620858	15.468651957	1339.700	3008.800	Sterna_hirundinacea-ML126296.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_hirundinacea-ML126296.wav	1	a
+4	Spectrogram 1	1	15.723201230	15.769161516	1142.000	3008.800	Sterna_hirundinacea-ML126296.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_hirundinacea-ML126296.wav	3	a
+5	Spectrogram 1	1	15.930248188	15.982167105	1167.903	3036.547	Sterna_hirundinacea-ML126296.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_hirundinacea-ML126296.wav	2	a
+6	Spectrogram 1	1	16.134029936	16.189842771	910.964	2966.472	Sterna_hirundinacea-ML126296.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_hirundinacea-ML126296.wav	2	a
+7	Spectrogram 1	1	16.776405453	16.824430451	1074.470	2943.114	Sterna_hirundinacea-ML126296.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_hirundinacea-ML126296.wav	3	a
+8	Spectrogram 1	1	16.969803417	17.021722334	981.038	3223.411	Sterna_hirundinacea-ML126296.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_hirundinacea-ML126296.wav	3	a
+9	Spectrogram 1	1	17.220312189	17.269635160	1074.470	3153.337	Sterna_hirundinacea-ML126296.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_hirundinacea-ML126296.wav	3	a

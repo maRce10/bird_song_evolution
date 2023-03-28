@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.681722742	1.983952965	1468.2	3601.1	Psittacula_himalayana-ML173068771.wav	D:\Andean\Psittaculidae\Psittacula_himalayana-ML173068771.wav	1	a
+2	Spectrogram 1	1	8.075833801	8.396230867	1329.6	3545.7	Psittacula_himalayana-ML173068771.wav	D:\Andean\Psittaculidae\Psittacula_himalayana-ML173068771.wav	2	a
+3	Spectrogram 1	1	14.890199620	15.215551280	1440.5	3628.8	Psittacula_himalayana-ML173068771.wav	D:\Andean\Psittaculidae\Psittacula_himalayana-ML173068771.wav	3	a

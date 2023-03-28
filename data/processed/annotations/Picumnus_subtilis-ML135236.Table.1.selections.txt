@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.718677763	6.837794277	7146.9	7867.1	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	1	a
+2	Spectrogram 1	1	7.155438314	7.267547974	6592.8	7700.9	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	1	b
+3	Spectrogram 1	1	7.491767295	7.585192012	6177.3	7423.9	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	1	b
+4	Spectrogram 1	1	7.772041446	7.863130545	6011.1	7091.5	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	1	b
+5	Spectrogram 1	1	8.042973125	8.110706044	6011.1	7008.4	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	1	b
+6	Spectrogram 1	1	23.992008637	24.106453915	7202.3	7867.1	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	2	a
+7	Spectrogram 1	1	24.407748627	24.517522669	6786.7	7673.2	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	2	b
+8	Spectrogram 1	1	24.739406372	24.842173560	6371.2	7368.5	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	2	b
+9	Spectrogram 1	1	25.017344904	25.101427150	6121.9	7091.5	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	2	b
+10	Spectrogram 1	1	25.271927258	25.346667031	6011.1	6953.0	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	2	b
+11	Spectrogram 1	1	25.514831522	25.580228823	5900.3	6897.6	Picumnus_subtilis-ML135236.wav	D:\Andean\Picidae\Picumnus_subtilis-ML135236.wav	2	b

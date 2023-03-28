@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	42.857540407	43.057375690	3130.2	4958.5	Periparus_rufonuchalis-ML174742181.wav	D:\Andean\Paridae\Periparus_rufonuchalis-ML174742181.wav	1	a
+2	Spectrogram 1	1	43.111876222	43.308408443	3019.4	4986.2	Periparus_rufonuchalis-ML174742181.wav	D:\Andean\Paridae\Periparus_rufonuchalis-ML174742181.wav	1	a
+3	Spectrogram 1	1	43.351348257	43.592471822	2354.6	3878.1	Periparus_rufonuchalis-ML174742181.wav	D:\Andean\Paridae\Periparus_rufonuchalis-ML174742181.wav	1	b
+4	Spectrogram 1	1	45.540470820	45.722139260	3153.3	4870.7	Periparus_rufonuchalis-ML174742181.wav	D:\Andean\Paridae\Periparus_rufonuchalis-ML174742181.wav	2	a
+5	Spectrogram 1	1	45.783245917	45.969868951	3153.3	4953.8	Periparus_rufonuchalis-ML174742181.wav	D:\Andean\Paridae\Periparus_rufonuchalis-ML174742181.wav	2	a
+6	Spectrogram 1	1	46.014460295	46.288614486	2349.9	3679.6	Periparus_rufonuchalis-ML174742181.wav	D:\Andean\Paridae\Periparus_rufonuchalis-ML174742181.wav	2	b
+7	Spectrogram 1	1	49.138249919	49.318266828	3070.2	4898.4	Periparus_rufonuchalis-ML174742181.wav	D:\Andean\Paridae\Periparus_rufonuchalis-ML174742181.wav	3	a
+8	Spectrogram 1	1	49.387631141	49.572602643	3125.6	4898.4	Periparus_rufonuchalis-ML174742181.wav	D:\Andean\Paridae\Periparus_rufonuchalis-ML174742181.wav	3	a
+9	Spectrogram 1	1	49.615542456	49.861620616	2266.8	3707.3	Periparus_rufonuchalis-ML174742181.wav	D:\Andean\Paridae\Periparus_rufonuchalis-ML174742181.wav	3	b

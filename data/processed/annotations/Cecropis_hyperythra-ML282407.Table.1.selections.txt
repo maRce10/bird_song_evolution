@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.075703244	1.243845182	902.3	5977.7	Cecropis_hyperythra-ML282407.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_hyperythra-ML282407.wav	1	a
+2	Spectrogram 1	1	4.133909354	4.259509356	789.5	6316.1	Cecropis_hyperythra-ML282407.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_hyperythra-ML282407.wav	2	a
+3	Spectrogram 1	1	15.244532929	15.347849060	845.9	5752.2	Cecropis_hyperythra-ML282407.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_hyperythra-ML282407.wav	3	a

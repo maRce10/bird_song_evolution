@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.162366994	11.465997324	1021.3	3168.7	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	1	a
+2	Spectrogram 1	1	11.531394626	11.828018102	1047.5	3011.6	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	1	a
+3	Spectrogram 1	1	11.867723606	11.989175738	1021.3	2906.8	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	1	b
+4	Spectrogram 1	1	12.094278545	12.145662139	1021.3	2356.9	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	1	c
+5	Spectrogram 1	1	34.670386146	34.995037037	1126.1	3090.1	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	2	a
+6	Spectrogram 1	1	35.048756249	35.312681074	1126.1	2985.4	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	2	a
+7	Spectrogram 1	1	35.387420848	35.506537362	942.8	2802.1	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	2	b
+8	Spectrogram 1	1	35.609304550	35.658352527	1073.7	2461.6	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	2	c
+9	Spectrogram 1	1	51.003569297	51.262822886	916.6	3064.0	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	3	a
+10	Spectrogram 1	1	51.391281872	51.594480631	995.1	2985.4	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	3	a
+11	Spectrogram 1	1	51.734658952	51.850272039	1230.8	2749.7	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	3	b
+12	Spectrogram 1	1	51.968220744	52.025443383	1099.9	2514.0	Celeus_loricatus-ML199260251.wav	D:\Andean\Picidae\Celeus_loricatus-ML199260251.wav	3	c

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.237319762	2.288703356	5013.9	6869.8	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	1	a
+2	Spectrogram 1	1	2.644426390	2.869034643	2880.9	5540.2	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	1	b
+3	Spectrogram 1	1	3.202643960	3.400827712	3019.4	6149.6	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	1	b
+4	Spectrogram 1	1	3.638648215	3.850044218	2714.7	6121.9	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	1	b
+5	Spectrogram 1	1	4.077955533	4.309169911	2243.8	5623.3	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	1	b
+6	Spectrogram 1	1	4.646082291	4.873993606	2299.2	5872.6	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	1	b
+7	Spectrogram 1	1	5.395877488	5.617182678	2742.4	6038.8	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	1	b
+8	Spectrogram 1	1	55.555026603	55.607875604	5706.4	6980.7	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	2	a
+9	Spectrogram 1	1	56.037273734	56.189214611	3822.7	5595.6	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	2	b
+10	Spectrogram 1	1	56.390701426	56.552551491	3213.3	5872.6	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	2	b
+11	Spectrogram 1	1	56.757341368	56.935706746	3102.5	5761.8	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	2	b
+12	Spectrogram 1	1	57.176830311	57.381620189	2520.8	5152.4	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	2	b
+13	Spectrogram 1	1	57.754866256	57.979474509	2493.1	6177.3	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	2	b
+14	Spectrogram 1	1	58.322993013	58.547601266	2520.8	5900.3	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	2	b
+15	Spectrogram 1	1	59.019939209	59.244547462	2631.6	5678.7	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	2	b
+16	Spectrogram 1	1	100.975538808	101.028387809	5124.7	6925.3	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	3	a
+17	Spectrogram 1	1	101.259602187	101.404936938	4099.7	5429.4	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	3	b
+18	Spectrogram 1	1	101.646060504	101.831032006	2797.8	5817.2	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	3	b
+19	Spectrogram 1	1	102.029215759	102.207581136	2797.8	5761.8	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	3	b
+20	Spectrogram 1	1	102.435492451	102.620463954	2659.3	6205.0	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	3	b
+21	Spectrogram 1	1	102.911133457	103.102711085	2687.0	6066.5	Myiobius_villosus-ML68678521.wav	E:\Andean\Oxyruncidae\Myiobius_villosus-ML68678521.wav	3	b

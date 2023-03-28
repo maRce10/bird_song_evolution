@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.784483417	4.885442016	700.7	3223.4	Eurocephalus_anguitimens-ML17921.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_anguitimens-ML17921.wav	1	a
+2	Spectrogram 1	1	5.013934779	5.127742655	677.4	3316.8	Eurocephalus_anguitimens-ML17921.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_anguitimens-ML17921.wav	1	a
+3	Spectrogram 1	1	6.273177284	6.361286607	747.5	3246.8	Eurocephalus_anguitimens-ML17921.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_anguitimens-ML17921.wav	2	a
+4	Spectrogram 1	1	7.731702679	7.816140780	607.3	3246.8	Eurocephalus_anguitimens-ML17921.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Eurocephalus_anguitimens-ML17921.wav	3	a

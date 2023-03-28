@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.100314196	18.161040262	2908.6	5928.0	Vireo_chivi-ML225073.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_chivi-ML225073.wav	1	a
+2	Spectrogram 1	1	18.249793743	18.368910257	2437.7	3767.3	Vireo_chivi-ML225073.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_chivi-ML225073.wav	1	b
+3	Spectrogram 1	1	18.378252728	18.539410365	2326.9	3850.4	Vireo_chivi-ML225073.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_chivi-ML225073.wav	1	c
+4	Spectrogram 1	1	19.749260448	19.788965953	3684.2	6205.0	Vireo_chivi-ML225073.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_chivi-ML225073.wav	2	d
+5	Spectrogram 1	1	19.870712580	19.989829094	2382.3	3434.9	Vireo_chivi-ML225073.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_chivi-ML225073.wav	2	e
+6	Spectrogram 1	1	20.013185274	20.167336056	2687.0	4459.9	Vireo_chivi-ML225073.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_chivi-ML225073.wav	2	f
+7	Spectrogram 1	1	21.799031101	21.845743459	3324.1	6232.7	Vireo_chivi-ML225073.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_chivi-ML225073.wav	3	a
+8	Spectrogram 1	1	21.941503794	22.067627162	2410.0	3213.3	Vireo_chivi-ML225073.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_chivi-ML225073.wav	3	g
+9	Spectrogram 1	1	22.072298397	22.184408058	2410.0	4238.3	Vireo_chivi-ML225073.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_chivi-ML225073.wav	3	h

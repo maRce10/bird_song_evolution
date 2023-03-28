@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	96.030163178	96.348349770	461.2	3909.3	Drymotoxeres_pucheranii-ML94980.wav	E:\Escritorio\Cantos\Furnariidae\Drymotoxeres_pucheranii-ML94980.wav	1	a
+2	Spectrogram 1	1	106.062037975	106.313051842	527.1	3865.3	Drymotoxeres_pucheranii-ML94980.wav	E:\Escritorio\Cantos\Furnariidae\Drymotoxeres_pucheranii-ML94980.wav	2	a
+3	Spectrogram 1	1	112.347178517	112.714860801	527.1	4150.8	Drymotoxeres_pucheranii-ML94980.wav	E:\Escritorio\Cantos\Furnariidae\Drymotoxeres_pucheranii-ML94980.wav	3	a

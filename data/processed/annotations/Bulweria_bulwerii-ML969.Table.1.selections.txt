@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.971990842	18.071082718	138.5	692.5	Bulweria_bulwerii-ML969.wav	D:\Andean\Procellariidae\Bulweria_bulwerii-ML969.wav	1	a
+2	Spectrogram 1	1	18.328721596	18.427813472	83.1	747.9	Bulweria_bulwerii-ML969.wav	D:\Andean\Procellariidae\Bulweria_bulwerii-ML969.wav	2	a
+3	Spectrogram 1	1	18.639209475	18.744907476	166.2	775.6	Bulweria_bulwerii-ML969.wav	D:\Andean\Procellariidae\Bulweria_bulwerii-ML969.wav	3	a

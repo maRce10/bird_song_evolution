@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	27.892769349	27.948921412	2243.8	2797.8	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	1	a
+2	Spectrogram 1	1	27.952224475	28.024891851	3268.7	6592.8	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	1	b
+3	Spectrogram 1	1	28.028194913	28.047187523	1246.5	4515.3	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	1	c
+4	Spectrogram 1	1	28.067831664	28.138847508	1994.5	3656.5	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	1	d
+5	Spectrogram 1	1	32.719620351	33.210125138	1108.0	6205.0	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	1	e
+6	Spectrogram 1	1	38.508404107	38.571988060	2354.6	2770.1	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	2	a
+7	Spectrogram 1	1	38.575291123	38.640526608	3019.4	6592.8	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	2	b
+8	Spectrogram 1	1	38.645481202	38.671079937	1135.7	4543.0	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	2	c
+9	Spectrogram 1	1	38.681402007	38.767281633	1856.0	3656.5	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	2	d
+10	Spectrogram 1	1	42.557205872	43.257455131	1080.3	7036.1	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	2	e
+11	Spectrogram 1	1	50.572040622	50.633973044	2326.9	2687.0	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	3	a
+12	Spectrogram 1	1	50.639753404	50.700860061	3822.7	6703.6	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	3	b
+13	Spectrogram 1	1	50.706640420	50.734716452	1108.0	4570.7	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	3	c
+14	Spectrogram 1	1	50.745451405	50.826376437	1856.0	3795.0	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	3	d
+15	Spectrogram 1	1	55.598131758	55.641897336	1662.1	2216.1	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	3	f
+16	Spectrogram 1	1	55.657586883	55.684837149	1440.5	3767.3	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	3	g
+17	Spectrogram 1	1	55.782277494	56.031658716	997.2	3241.0	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	3	h
+18	Spectrogram 1	1	56.039916372	56.114235280	1080.3	3185.6	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	3	i
+19	Spectrogram 1	1	56.123318702	56.240577422	1468.2	2216.1	Phainopepla_nitens-ML118622.wav	D:\Andean\Ptiliogonatidae\Phainopepla_nitens-ML118622.wav	3	j

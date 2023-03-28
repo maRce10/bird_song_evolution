@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	62.906407011	63.084772388	1745.2	2243.8	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	1	a
+2	Spectrogram 1	1	63.216894890	63.415078642	1634.4	2326.9	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	1	a
+3	Spectrogram 1	1	63.600050145	63.870901273	1634.4	2437.7	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	1	b
+4	Spectrogram 1	1	64.069085026	64.333330029	1606.7	2437.7	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	1	b
+5	Spectrogram 1	1	64.571150532	64.848607785	1579.0	2437.7	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	1	b
+6	Spectrogram 1	1	71.484603035	71.662968412	1745.2	2271.5	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	2	a
+7	Spectrogram 1	1	71.808303164	71.980062416	1662.1	2382.3	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	2	a
+8	Spectrogram 1	1	72.191458419	72.435885047	1662.1	2465.4	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	2	b
+9	Spectrogram 1	1	72.660493300	72.924738303	1551.3	2382.3	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	2	b
+10	Spectrogram 1	1	77.809900834	78.001478462	1772.9	2271.5	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	3	a
+11	Spectrogram 1	1	78.126994838	78.344996966	1634.4	2382.3	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	3	a
+12	Spectrogram 1	1	78.523362343	78.781001222	1551.3	2410.0	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	3	b
+13	Spectrogram 1	1	78.985791099	79.263248353	1579.0	2382.3	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	3	b
+14	Spectrogram 1	1	79.494462731	79.785132234	1523.6	2437.7	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	3	b
+15	Spectrogram 1	1	80.003134362	80.280591615	1523.6	2410.0	Akletos_melanoceps-ML34315.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Akletos_melanoceps-ML34315.wav	3	b

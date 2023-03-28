@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.459592471	9.501811521	3410.3	4438.0	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	a
+2	Spectrogram 1	1	9.523838852	9.742276548	2265.7	5652.6	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	b
+3	Spectrogram 1	1	10.008440128	10.039645513	3667.2	4905.2	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	c
+4	Spectrogram 1	1	10.043316735	10.113069949	2452.6	3807.4	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	d
+5	Spectrogram 1	1	10.120412392	10.261754431	2452.6	5699.4	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	e
+6	Spectrogram 1	1	10.517782062	10.690329486	2078.9	5442.4	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	f
+7	Spectrogram 1	1	10.901424739	10.961999898	3410.3	4508.1	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	a
+8	Spectrogram 1	1	10.976684785	11.196958093	2195.7	6049.7	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	b
+9	Spectrogram 1	1	11.422738233	11.452108007	3597.1	4788.4	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	c
+10	Spectrogram 1	1	11.466712715	11.538301540	2382.5	3760.6	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	d
+11	Spectrogram 1	1	11.541972762	11.670465524	2335.8	6003.0	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	e
+12	Spectrogram 1	1	12.002711096	12.055943812	3457.0	4368.0	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	a
+13	Spectrogram 1	1	12.066957478	12.305586894	2265.7	5512.5	Carpodacus_puniceus-ML25042.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_puniceus-ML25042.wav	1	b

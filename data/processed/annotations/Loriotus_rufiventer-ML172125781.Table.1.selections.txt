@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.400459769	4.630427437	5684.700	10999.400	Loriotus_rufiventer-ML172125781.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Loriotus_rufiventer-ML172125781.wav	1	a
+2	Spectrogram 1	1	5.070706093	5.261782171	6327.400	11296.100	Loriotus_rufiventer-ML172125781.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Loriotus_rufiventer-ML172125781.wav	2	a
+6	Spectrogram 1	1	85.299699761	85.534740246	5709.400	10332.000	Loriotus_rufiventer-ML172125781.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Loriotus_rufiventer-ML172125781.wav	5	a

@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	112.568498853	112.603181009	3472.8	4308.8	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	1	a
+2	Spectrogram 1	1	112.611438666	112.674196854	2871.9	4178.2	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	1	b
+3	Spectrogram 1	1	112.670893792	112.750167293	2401.6	5928.6	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	1	c
+4	Spectrogram 1	1	112.758424949	112.864122950	2741.2	5536.7	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	1	d
+5	Spectrogram 1	1	112.869077544	112.945047982	2244.9	5667.3	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	1	e
+6	Spectrogram 1	1	112.951654108	113.062306703	2845.7	5484.4	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	1	d
+7	Spectrogram 1	1	113.063958234	113.141580204	2480.0	5536.7	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	1	f
+8	Spectrogram 1	1	114.558593656	114.618048781	2976.4	4152.0	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	2	d
+9	Spectrogram 1	1	114.613094188	114.690716157	2427.7	5954.7	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	2	c
+10	Spectrogram 1	1	114.695670751	114.811277940	2793.5	5824.1	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	2	d
+11	Spectrogram 1	1	114.812928869	114.888899308	2401.6	5641.2	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	2	e
+12	Spectrogram 1	1	114.895505433	115.006158028	2950.2	5667.3	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	2	d
+13	Spectrogram 1	1	115.007809559	115.085431529	2349.4	5562.8	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	2	f
+14	Spectrogram 1	1	118.712623931	118.778685182	2819.6	4125.9	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	3	d
+15	Spectrogram 1	1	118.777033651	118.854655620	2297.1	5745.7	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	3	c
+16	Spectrogram 1	1	118.859610214	118.970262809	2558.4	5771.8	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	3	d
+17	Spectrogram 1	1	118.971914341	119.049536310	2401.6	5824.1	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	3	c
+18	Spectrogram 1	1	119.054490904	119.166795031	2845.7	5667.3	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	3	d
+19	Spectrogram 1	1	119.170098093	119.251023125	2427.7	5797.9	Saltatricula_multicolor-ML220236.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Saltatricula_multicolor-ML220236.wav	3	c

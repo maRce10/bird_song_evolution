@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.481473836	13.733007766	2652.0	7620.9	Spartonoica_maluroides-ML171203.wav	E:\Escritorio\Cantos\Furnariidae\Spartonoica_maluroides-ML171203.wav	1	a
+2	Spectrogram 1	1	29.337341726	30.610088096	2745.3	7620.9	Spartonoica_maluroides-ML171203.wav	E:\Escritorio\Cantos\Furnariidae\Spartonoica_maluroides-ML171203.wav	2	a
+3	Spectrogram 1	1	40.944605838	42.351697657	2635.5	7620.9	Spartonoica_maluroides-ML171203.wav	E:\Escritorio\Cantos\Furnariidae\Spartonoica_maluroides-ML171203.wav	3	a

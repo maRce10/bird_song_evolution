@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.467664733	5.693930754	1010.3	3184.5	Gymnobucco_calvus-ML140912.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Gymnobucco_calvus-ML140912.wav	1	a
+2	Spectrogram 1	1	7.192943145	7.433350793	1207.9	3206.5	Gymnobucco_calvus-ML140912.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Gymnobucco_calvus-ML140912.wav	2	a
+3	Spectrogram 1	1	10.487942080	10.742491354	1164.0	3140.6	Gymnobucco_calvus-ML140912.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Gymnobucco_calvus-ML140912.wav	3	a

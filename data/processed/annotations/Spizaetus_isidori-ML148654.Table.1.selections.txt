@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.699889981	6.415157069	914.6	3312.4	Spizaetus_isidori-ML148654.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Spizaetus_isidori-ML148654.wav	1	a
+2	Spectrogram 1	1	7.193415333	7.954337767	1112.4	3485.5	Spizaetus_isidori-ML148654.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Spizaetus_isidori-ML148654.wav	2	a
+3	Spectrogram 1	1	8.654813322	9.332879757	1062.9	3584.4	Spizaetus_isidori-ML148654.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Spizaetus_isidori-ML148654.wav	3	a

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.355254292	1.434665301	3273.5	5499.4	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	a
+2	Spectrogram 1	1	1.490720131	1.619179117	2959.2	3430.6	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	b
+3	Spectrogram 1	1	1.675233947	1.754644957	1859.3	2461.6	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	c
+4	Spectrogram 1	1	1.770994282	1.843398438	2016.4	3980.5	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	d
+5	Spectrogram 1	1	1.906460122	1.962514952	3430.6	5787.5	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	a
+6	Spectrogram 1	1	2.011562928	2.156371239	2880.6	3299.6	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	b
+7	Spectrogram 1	1	2.205419216	2.296508314	1885.5	2514.0	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	c
+8	Spectrogram 1	1	2.312857640	2.382926178	1990.3	4059.1	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	d
+9	Spectrogram 1	1	2.455330333	2.499707074	3561.5	5761.3	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	a
+10	Spectrogram 1	1	2.558097522	2.688892125	2828.3	3325.8	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	b
+11	Spectrogram 1	1	2.744946955	2.845378526	1964.1	2383.1	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	c
+12	Spectrogram 1	1	2.866399087	2.929460771	2147.4	4111.5	Melaniparus_guineensis-ML282272341.wav	E:\Andean\Paridae\Melaniparus_guineensis-ML282272341.wav	1	d

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.269617185	15.352114214	4175.8	4985.4	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	1	a
+2	Spectrogram 1	1	15.432111333	15.530857776	3233.7	4481.3	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	1	b
+3	Spectrogram 1	1	15.595855436	15.778348863	2928.1	3921.1	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	1	c
+4	Spectrogram 1	1	15.868345622	16.090837609	1374.9	4455.8	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	1	d
+5	Spectrogram 1	1	16.172084733	16.453324604	1655.0	6340.0	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	1	e
+6	Spectrogram 1	1	21.877341925	21.979838234	4073.9	4837.8	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	2	a
+7	Spectrogram 1	1	22.054835533	22.163581617	3361.0	4455.8	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	2	b
+8	Spectrogram 1	1	22.237328961	22.438571713	2953.6	3946.6	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	2	c
+9	Spectrogram 1	1	22.497319597	22.723561449	1476.8	4532.2	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	2	d
+10	Spectrogram 1	1	22.808558388	23.089798260	1705.9	6263.6	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	2	e
+11	Spectrogram 1	1	28.935167538	29.040163756	4277.6	5092.4	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	3	a
+12	Spectrogram 1	1	29.116411010	29.218907319	3386.4	4379.4	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	3	b
+13	Spectrogram 1	1	29.296404528	29.493897416	2979.0	3972.1	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	3	c
+14	Spectrogram 1	1	29.553895255	29.776387242	1502.3	4532.2	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	3	d
+15	Spectrogram 1	1	29.866384001	30.150123782	1502.3	6238.2	Carpodacus_erythrinus-ML77662.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_erythrinus-ML77662.wav	3	e

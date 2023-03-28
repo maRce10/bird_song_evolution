@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.113884848	18.807527982	1358.5	5982.8	Formicivora_grantsaui-ML169830.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_grantsaui-ML169830.wav	1	a
+2	Spectrogram 1	1	20.260875500	20.921488008	1384.7	5852.1	Formicivora_grantsaui-ML169830.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_grantsaui-ML169830.wav	2	a
+3	Spectrogram 1	1	22.480533528	23.279874663	1018.9	5564.8	Formicivora_grantsaui-ML169830.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_grantsaui-ML169830.wav	3	b

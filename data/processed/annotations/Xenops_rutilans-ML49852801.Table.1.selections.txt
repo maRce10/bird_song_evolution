@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.702055674	8.790440838	2042.5	8609.2	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	1	a
+2	Spectrogram 1	1	8.914180069	9.006100640	1713.0	9026.4	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	1	b
+3	Spectrogram 1	1	9.101556617	9.182870969	1581.3	9180.2	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	1	c
+4	Spectrogram 1	1	9.271256133	9.359641298	1471.5	8323.7	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	1	d
+5	Spectrogram 1	1	9.437420243	9.518734594	1361.7	8169.9	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	1	e
+6	Spectrogram 1	1	9.603584352	9.677827890	1361.7	8082.1	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	1	f
+7	Spectrogram 1	1	9.759142242	9.833385780	1493.4	7708.7	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	1	g
+8	Spectrogram 1	1	9.918235538	9.992479076	1493.4	7027.9	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	1	h
+9	Spectrogram 1	1	10.105612087	10.172784812	1383.6	6522.8	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	1	i
+10	Spectrogram 1	1	23.748129644	23.825908589	2306.0	8499.4	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	2	a
+11	Spectrogram 1	1	23.956718633	24.041568391	1844.8	8982.5	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	2	b
+12	Spectrogram 1	1	24.147630588	24.232480346	1317.7	8784.9	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	2	j
+13	Spectrogram 1	1	24.320865511	24.395109049	1471.5	8675.0	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	2	k
+14	Spectrogram 1	1	24.483494213	24.550666939	1471.5	8148.0	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	2	f
+15	Spectrogram 1	1	24.642587510	24.713295641	1471.5	7598.9	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	2	g
+16	Spectrogram 1	1	24.791074586	24.868853531	1493.4	7379.3	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	2	l
+17	Spectrogram 1	1	24.953703289	25.020876014	1405.6	7049.9	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	2	h
+18	Spectrogram 1	1	25.126938211	25.201181750	1273.8	6676.5	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	2	i
+19	Spectrogram 1	1	40.091113293	40.172427644	1691.1	8433.5	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	3	a
+20	Spectrogram 1	1	40.310308501	40.402229072	1493.4	9421.8	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	3	m
+21	Spectrogram 1	1	40.508291270	40.600211841	1581.3	9158.2	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	3	b
+22	Spectrogram 1	1	40.692132412	40.780517576	1339.7	8740.9	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	3	k
+23	Spectrogram 1	1	40.865367334	40.957287906	1427.5	8345.6	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	3	d
+24	Spectrogram 1	1	41.035066850	41.109310389	1427.5	7862.5	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	3	f
+25	Spectrogram 1	1	41.201230960	41.264868278	1229.9	7203.6	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	3	l
+26	Spectrogram 1	1	41.374465882	41.441638607	1164.0	6478.8	Xenops_rutilans-ML49852801.wav	E:\Escritorio\Cantos\Furnariidae\Xenops_rutilans-ML49852801.wav	3	i

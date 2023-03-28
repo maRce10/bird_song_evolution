@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.473168366	5.567136613	1433.7	4202.4	Artamus_superciliosus-ML58419811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Artamus_superciliosus-ML58419811.wav	1	a
+2	Spectrogram 1	1	5.763938038	5.863225243	1409.0	3930.4	Artamus_superciliosus-ML58419811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Artamus_superciliosus-ML58419811.wav	2	a
+3	Spectrogram 1	1	6.207184490	6.310017667	1334.9	4004.6	Artamus_superciliosus-ML58419811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Artamus_superciliosus-ML58419811.wav	1	a

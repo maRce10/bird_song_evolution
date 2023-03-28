@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.095455978	0.173234923	2240.1	5995.7	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	1	a
+2	Spectrogram 1	1	0.378288504	0.448996636	2042.5	6083.5	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	1	a
+3	Spectrogram 1	1	0.643443998	0.721222943	2218.2	6127.4	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	1	a
+4	Spectrogram 1	1	0.947488964	1.018197096	2196.2	6105.5	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	1	a
+5	Spectrogram 1	1	1.255069337	1.315171249	2196.2	6105.5	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	1	a
+6	Spectrogram 1	1	1.608609995	1.675782720	2174.3	6061.6	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	1	a
+7	Spectrogram 1	1	1.979827686	2.039929598	2174.3	6017.6	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	1	a
+8	Spectrogram 1	1	5.719552990	5.786725715	2240.1	6149.4	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	2	a
+9	Spectrogram 1	1	5.963496044	6.034204175	2196.2	6039.6	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	2	a
+10	Spectrogram 1	1	6.225116131	6.299359669	2196.2	6039.6	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	2	a
+11	Spectrogram 1	1	6.560979756	6.638758701	2196.2	5973.7	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	2	a
+12	Spectrogram 1	1	6.925126634	7.006440986	2196.2	6083.5	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	2	a
+13	Spectrogram 1	1	7.236242413	7.306950545	2284.1	6105.5	Microptilotis_gracilis-ML62326081.wav	E:\Escritorio\Cantos\Meliphagidae\Microptilotis_gracilis-ML62326081.wav	2	a

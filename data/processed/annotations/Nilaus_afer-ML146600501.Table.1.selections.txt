@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.335873960	4.367079345	1424.8	1892.0	Nilaus_afer-ML146600501.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Nilaus_afer-ML146600501.wav	1	a
+2	Spectrogram 1	1	4.383599843	4.994858271	1424.8	2522.7	Nilaus_afer-ML146600501.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Nilaus_afer-ML146600501.wav	1	a
+3	Spectrogram 1	1	7.779606900	7.805305453	1424.8	1821.9	Nilaus_afer-ML146600501.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Nilaus_afer-ML146600501.wav	2	a
+4	Spectrogram 1	1	7.819990340	8.425741935	1494.9	2546.0	Nilaus_afer-ML146600501.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Nilaus_afer-ML146600501.wav	2	b
+5	Spectrogram 1	1	11.630910510	11.658444674	1448.2	1751.9	Nilaus_afer-ML146600501.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Nilaus_afer-ML146600501.wav	3	a
+6	Spectrogram 1	1	11.674965172	12.271538712	1471.6	2546.0	Nilaus_afer-ML146600501.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Nilaus_afer-ML146600501.wav	3	

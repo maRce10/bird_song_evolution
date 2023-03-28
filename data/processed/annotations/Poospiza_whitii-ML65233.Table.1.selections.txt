@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	124.562058205	124.616168245	4992.5	8947.7	Poospiza_whitii-ML65233.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Poospiza_whitii-ML65233.wav	1	a
+2	Spectrogram 1	1	152.410724076	152.474979748	4918.4	8848.8	Poospiza_whitii-ML65233.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Poospiza_whitii-ML65233.wav	2	a
+3	Spectrogram 1	1	213.764380107	213.821872024	5462.2	9046.6	Poospiza_whitii-ML65233.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Poospiza_whitii-ML65233.wav	3	a

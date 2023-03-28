@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.221898949	14.660289365	252.6	1449.5	Micrastur_semitorquatus-ML114997.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_semitorquatus-ML114997.wav	1	a
+2	Spectrogram 1	1	19.122836176	19.585974438	164.7	1438.5	Micrastur_semitorquatus-ML114997.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_semitorquatus-ML114997.wav	2	a
+3	Spectrogram 1	1	24.522819560	24.975351602	208.6	1449.5	Micrastur_semitorquatus-ML114997.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_semitorquatus-ML114997.wav	3	a

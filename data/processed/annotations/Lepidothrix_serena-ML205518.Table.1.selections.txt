@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	73.811233597	74.035452917	1488.7	2095.9	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	1	a
+2	Spectrogram 1	1	74.708110879	74.951015143	1547.4	2233.0	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	1	a
+3	Spectrogram 1	1	75.490542882	75.745125236	1429.9	2233.0	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	1	a
+4	Spectrogram 1	1	76.244945259	76.501863230	1351.5	2330.9	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	1	a
+5	Spectrogram 1	1	76.992342994	77.239918493	1527.8	2311.3	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	1	a
+6	Spectrogram 1	1	77.695363988	77.975638139	1488.7	2291.7	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	1	a
+7	Spectrogram 1	1	78.391376875	78.673986643	1508.2	2330.9	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	1	a
+8	Spectrogram 1	1	80.493457986	80.741033486	1527.8	2409.3	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	2	a
+9	Spectrogram 1	1	81.925191772	82.186780979	1469.1	2370.1	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	2	a
+10	Spectrogram 1	1	84.466092158	84.701989568	1488.7	2428.9	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	3	a
+11	Spectrogram 1	1	85.489092808	85.750682015	1508.2	2468.0	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	3	a
+12	Spectrogram 1	1	86.596175703	86.864771764	1469.1	2468.0	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	3	a
+13	Spectrogram 1	1	88.012913380	88.274502588	1527.8	2526.8	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	4	a
+15	Spectrogram 1	1	88.781331677	89.038249648	1429.9	2409.3	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	4	a
+16	Spectrogram 1	1	89.439975931	89.727256935	1253.6	2311.3	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	4	a
+18	Spectrogram 1	1	95.934284435	96.167846227	1547.4	2487.6	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	5	a
+19	Spectrogram 1	1	96.971298792	97.214203056	1567.0	2546.4	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	5	a
+20	Spectrogram 1	1	97.889196635	98.139107753	1449.5	2487.6	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	5	a
+21	Spectrogram 1	1	99.067493708	99.305726736	1508.2	2526.8	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	5	a
+23	Spectrogram 1	1	100.272672556	100.522583674	1429.9	2468.0	Lepidothrix_serena-ML205518.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_serena-ML205518.wav	5	a

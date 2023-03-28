@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.373628176	5.073877435	692.5	2160.7	Andigena_hypoglauca-ML135916.wav	D:\Andean\Ramphastidae\Andigena_hypoglauca-ML135916.wav	1	a
+2	Spectrogram 1	1	7.035896584	7.822025469	692.5	2216.1	Andigena_hypoglauca-ML135916.wav	D:\Andean\Ramphastidae\Andigena_hypoglauca-ML135916.wav	2	a
+3	Spectrogram 1	1	8.913402124	9.706137134	692.5	2243.8	Andigena_hypoglauca-ML135916.wav	D:\Andean\Ramphastidae\Andigena_hypoglauca-ML135916.wav	3	a

@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.577745828	2.999599963	1541.129	6085.484	Cotinga_maynana-ML108214041.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cotinga_maynana-ML108214041.wav	1	a

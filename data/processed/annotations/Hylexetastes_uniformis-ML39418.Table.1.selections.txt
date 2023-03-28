@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.398167058	8.108783781	1142.0	2306.0	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	1	a
+2	Spectrogram 1	1	8.218381385	8.957281361	1054.2	2371.9	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	1	a
+3	Spectrogram 1	1	9.006777053	9.735070809	1098.1	2350.0	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	1	a
+4	Spectrogram 1	1	9.773960282	10.466899972	1120.1	2306.0	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	1	a
+5	Spectrogram 1	1	110.828416128	111.458393440	1248.7	2466.9	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	2	a
+6	Spectrogram 1	1	111.768382276	112.478356707	1248.7	2345.1	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	2	a
+7	Spectrogram 1	1	112.638350945	113.288327537	1309.6	2345.1	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	2	a
+8	Spectrogram 1	1	113.528318894	114.158296206	1279.1	2314.6	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	2	a
+9	Spectrogram 1	1	164.158390188	164.738196868	1401.0	2481.7	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	3	a
+10	Spectrogram 1	1	164.908900747	165.468880580	1401.0	2459.8	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	3	a
+11	Spectrogram 1	1	165.791748029	166.470546093	1401.0	2393.9	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	3	a
+12	Spectrogram 1	1	166.608426950	167.191769036	1431.4	2393.9	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	3	a
+13	Spectrogram 1	1	167.348812877	167.988789829	1431.4	2371.9	Hylexetastes_uniformis-ML39418.wav	E:\Escritorio\Cantos\Furnariidae\Hylexetastes_uniformis-ML39418.wav	3	a

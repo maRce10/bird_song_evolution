@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.805197345	2.270862970	1094.2	3227.2	Tyto_deroepstorffi-ML283589.wav	C:\Users\pfmar\Downloads\Andean\Tytonidae\Tyto_deroepstorffi-ML283589.wav	1	a

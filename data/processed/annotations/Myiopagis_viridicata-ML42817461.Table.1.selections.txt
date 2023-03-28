@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.992869631	1.062233944	1495.9	5540.2	Myiopagis_viridicata-ML42817461.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_viridicata-ML42817461.wav	1	a
+2	Spectrogram 1	1	1.090733285	1.499466421	2770.1	6648.2	Myiopagis_viridicata-ML42817461.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_viridicata-ML42817461.wav	1	b
+3	Spectrogram 1	1	3.631185725	3.994522605	3988.9	7977.9	Myiopagis_viridicata-ML42817461.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_viridicata-ML42817461.wav	2	c
+4	Spectrogram 1	1	4.050674668	4.407405422	3656.5	8144.1	Myiopagis_viridicata-ML42817461.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_viridicata-ML42817461.wav	2	d
+5	Spectrogram 1	1	6.184616144	6.250677394	1329.6	6038.8	Myiopagis_viridicata-ML42817461.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_viridicata-ML42817461.wav	3	a
+6	Spectrogram 1	1	6.285359551	6.689984712	2659.3	6648.2	Myiopagis_viridicata-ML42817461.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_viridicata-ML42817461.wav	3	b

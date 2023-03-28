@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.002107152	12.054956152	4766.2	10308.3	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	1	a
+2	Spectrogram 1	1	12.510778783	12.563627784	3140.5	9938.8	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	1	a
+3	Spectrogram 1	1	12.990930881	13.628421441	6502.7	8756.5	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	1	b
+4	Spectrogram 1	1	13.710998005	14.107365510	5209.6	8682.6	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	1	c
+5	Spectrogram 1	1	14.170123698	14.781190268	2364.6	8202.3	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	1	d
+6	Spectrogram 1	1	15.935286982	15.978226795	5320.4	10493.0	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	1	a
+7	Spectrogram 1	1	20.458830836	20.508376774	5135.7	10714.7	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	2	a
+8	Spectrogram 1	1	21.152473970	21.846117103	4950.9	8719.5	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	2	b
+9	Spectrogram 1	1	21.931996729	22.338273422	2179.9	8571.7	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	2	c
+10	Spectrogram 1	1	22.410940798	23.013749712	2142.9	8128.4	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	2	d
+11	Spectrogram 1	1	24.293546599	24.353001725	4655.3	10677.7	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	3	a
+12	Spectrogram 1	1	25.023523421	25.069766297	4950.9	10936.4	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	3	a
+13	Spectrogram 1	1	25.756803305	26.447143377	4729.2	8682.6	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	3	b
+14	Spectrogram 1	1	26.539629128	26.919481320	4877.0	8583.8	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	3	c
+15	Spectrogram 1	1	27.002057884	27.583396891	2512.4	8424.0	Stilpnia_nigrocincta-ML67234.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_nigrocincta-ML67234.wav	3	d

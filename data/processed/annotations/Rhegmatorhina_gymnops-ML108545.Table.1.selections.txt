@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.140300536	7.821606040	1772.9	4210.6	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	1	a
+2	Spectrogram 1	1	7.920108041	8.318220293	110.8	4570.7	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	1	b
+3	Spectrogram 1	1	8.375679793	8.814834546	997.2	4459.9	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	1	c
+4	Spectrogram 1	1	8.888711047	9.385325300	969.5	4238.3	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	1	d
+5	Spectrogram 1	1	24.255525834	24.986865876	1163.4	4376.8	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	2	e
+6	Spectrogram 1	1	25.126168741	25.509251620	997.2	4764.6	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	2	f
+7	Spectrogram 1	1	25.593413768	26.020028793	969.5	4598.4	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	2	g
+8	Spectrogram 1	1	26.095484512	26.539512394	1163.4	4349.1	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	2	h
+9	Spectrogram 1	1	26.613182460	27.094938202	1052.6	4072.0	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	2	i
+10	Spectrogram 1	1	80.615764587	81.277453197	1745.2	4321.4	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	3	j
+11	Spectrogram 1	1	81.410951776	81.828860372	1301.9	4626.1	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	3	k
+12	Spectrogram 1	1	81.910120377	82.351246117	1274.2	4432.2	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	3	l
+13	Spectrogram 1	1	82.420897549	82.908457577	1274.2	4238.3	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	3	m
+14	Spectrogram 1	1	82.972304724	83.488886183	1495.9	3628.8	Rhegmatorhina_gymnops-ML108545.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Rhegmatorhina_gymnops-ML108545.wav	3	n

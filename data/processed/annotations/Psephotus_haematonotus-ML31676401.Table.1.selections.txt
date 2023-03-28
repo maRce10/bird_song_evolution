@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.115455278	8.151788966	4487.6	6094.2	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	1	a
+2	Spectrogram 1	1	8.155092029	8.181516529	1579.0	3656.5	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	1	b
+3	Spectrogram 1	1	8.188122654	8.260790030	2797.8	3573.4	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	1	c
+4	Spectrogram 1	1	8.255009670	8.279782640	4958.5	6426.6	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	1	a
+5	Spectrogram 1	1	8.283911468	8.316942093	1662.1	4266.0	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	1	b
+6	Spectrogram 1	1	8.322722453	8.392912532	2964.0	3601.1	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	1	c
+7	Spectrogram 1	1	8.931769637	8.959019903	4570.7	6371.2	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	2	a
+8	Spectrogram 1	1	8.963974497	8.991224763	1634.4	3767.3	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	2	b
+9	Spectrogram 1	1	9.001133951	9.070498264	2797.8	3656.5	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	2	c
+10	Spectrogram 1	1	9.067195202	9.089490874	4764.6	6038.8	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	2	a
+11	Spectrogram 1	1	9.097748530	9.124998796	1551.3	3850.4	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	2	b
+12	Spectrogram 1	1	9.129953390	9.199317703	2908.6	3573.4	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	2	c
+13	Spectrogram 1	1	9.625878472	9.652302972	4570.7	6205.0	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	3	a
+14	Spectrogram 1	1	9.659734863	9.684507832	1551.3	3850.4	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	3	b
+15	Spectrogram 1	1	9.691939723	9.768735927	2770.1	3573.4	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	3	c
+16	Spectrogram 1	1	9.791031599	9.815804568	4653.8	6260.4	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	3	a
+17	Spectrogram 1	1	9.824887990	9.850486725	1412.8	3601.1	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	3	b
+18	Spectrogram 1	1	9.857092850	9.928934460	2991.7	3656.5	Psephotus_haematonotus-ML31676401.wav	D:\Andean\Psittaculidae\Psephotus_haematonotus-ML31676401.wav	3	c

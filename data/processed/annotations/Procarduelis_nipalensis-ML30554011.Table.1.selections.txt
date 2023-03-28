@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.317701365	7.532693622	1778.9	4612.1	Procarduelis_nipalensis-ML30554011.wav	E:\Escritorio\Cantos\Fringillidae\Procarduelis_nipalensis-ML30554011.wav	1	a
+2	Spectrogram 1	1	25.599497405	25.814489662	2064.4	4590.1	Procarduelis_nipalensis-ML30554011.wav	E:\Escritorio\Cantos\Fringillidae\Procarduelis_nipalensis-ML30554011.wav	2	a
+3	Spectrogram 1	1	28.373438980	28.582027969	2130.3	4787.7	Procarduelis_nipalensis-ML30554011.wav	E:\Escritorio\Cantos\Fringillidae\Procarduelis_nipalensis-ML30554011.wav	3	a

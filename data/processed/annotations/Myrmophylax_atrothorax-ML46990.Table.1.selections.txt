@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.902246942	17.968148624	2947.3	5312.4	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	1	a
+2	Spectrogram 1	1	18.088654558	18.222340829	1855.7	5457.9	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	1	b
+3	Spectrogram 1	1	18.395568109	18.581975725	1892.1	5567.1	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	1	c
+4	Spectrogram 1	1	18.758968815	18.954790958	1710.1	5749.0	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	1	d
+5	Spectrogram 1	1	19.175090868	19.367147201	1819.3	5603.5	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	1	e
+6	Spectrogram 1	1	24.530140106	24.603573409	3165.6	5239.6	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	2	a
+7	Spectrogram 1	1	24.722196438	24.863414329	1892.1	5385.1	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	2	b
+8	Spectrogram 1	1	25.032875799	25.221166320	1710.1	5567.1	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	2	c
+9	Spectrogram 1	1	25.400042316	25.586449932	1819.3	5639.9	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	2	d
+10	Spectrogram 1	1	25.776623359	25.970562597	1782.9	5785.4	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	2	e
+11	Spectrogram 1	1	31.766289011	31.824659073	3092.8	5312.4	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	3	a
+12	Spectrogram 1	1	31.947047912	32.092031613	1855.7	5567.1	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	3	b
+13	Spectrogram 1	1	32.261493083	32.449783605	1746.5	5712.6	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	3	d
+14	Spectrogram 1	1	32.628659600	32.818833027	1637.4	5821.8	Myrmophylax_atrothorax-ML46990.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmophylax_atrothorax-ML46990.wav	3	e

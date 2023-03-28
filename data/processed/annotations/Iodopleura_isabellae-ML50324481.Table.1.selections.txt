@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.294800516	1.572257770	2936.3	5540.2	Iodopleura_isabellae-ML50324481.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Iodopleura_isabellae-ML50324481.wav	1	a
+2	Spectrogram 1	1	6.685398584	6.982674213	3185.6	5595.6	Iodopleura_isabellae-ML50324481.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Iodopleura_isabellae-ML50324481.wav	2	b
+3	Spectrogram 1	1	11.504802001	11.762440879	3130.2	5706.4	Iodopleura_isabellae-ML50324481.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Iodopleura_isabellae-ML50324481.wav	3	c

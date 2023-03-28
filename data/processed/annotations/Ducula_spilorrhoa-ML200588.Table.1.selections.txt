@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.327042809	20.336628801	116.8	537.2	Ducula_spilorrhoa-ML200588.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ducula_spilorrhoa-ML200588.wav	1	a
+2	Spectrogram 1	1	22.739021495	22.858336203	116.8	607.3	Ducula_spilorrhoa-ML200588.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ducula_spilorrhoa-ML200588.wav	2	b
+3	Spectrogram 1	1	23.238307658	24.213017043	116.8	560.6	Ducula_spilorrhoa-ML200588.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ducula_spilorrhoa-ML200588.wav	2	
+4	Spectrogram 1	1	30.247080644	31.238310527	116.8	584.0	Ducula_spilorrhoa-ML200588.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ducula_spilorrhoa-ML200588.wav	3	a

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.001966233	1.083475409	2011.7	2821.6	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	1	a
+2	Spectrogram 1	1	1.223142161	1.436615952	1854.9	2377.4	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	1	b
+3	Spectrogram 1	1	1.513056479	1.612516136	1802.7	2299.1	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	1	c
+4	Spectrogram 1	1	1.666937401	1.758214942	1854.9	2272.9	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	1	c
+5	Spectrogram 1	1	1.805571114	1.899841362	1828.8	2272.9	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	1	c
+6	Spectrogram 1	1	1.947724663	2.052469383	1828.8	2299.1	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	1	c
+7	Spectrogram 1	1	2.095863624	2.215571875	1776.5	2299.1	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	1	c
+8	Spectrogram 1	1	13.059116357	13.135298222	2168.4	2717.1	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	2	d
+9	Spectrogram 1	1	13.272970155	13.493051097	1828.8	2403.6	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	2	b
+10	Spectrogram 1	1	13.577926236	13.682670956	1828.8	2272.9	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	2	c
+11	Spectrogram 1	1	13.729057903	13.830809917	1802.7	2272.9	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	2	c
+12	Spectrogram 1	1	13.877196864	13.968474406	1802.7	2272.9	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	2	c
+13	Spectrogram 1	1	14.014861353	14.110627954	1802.7	2299.1	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	2	c
+14	Spectrogram 1	1	14.149533136	14.284204919	1802.7	2272.9	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	2	c
+15	Spectrogram 1	1	21.743118050	21.810835263	2116.2	2847.7	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	3	e
+16	Spectrogram 1	1	21.942821635	22.165018740	1828.8	2377.4	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	3	b
+17	Spectrogram 1	1	22.229243208	22.342966046	1802.7	2272.9	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	3	c
+18	Spectrogram 1	1	22.387856641	22.489608654	1802.7	2299.1	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	3	c
+19	Spectrogram 1	1	22.531506542	22.625776790	1828.8	2299.1	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	3	c
+20	Spectrogram 1	1	22.675156444	22.770923045	1802.7	2299.1	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	3	c
+21	Spectrogram 1	1	22.811324580	22.940010950	1776.5	2246.8	Cyanoderma_ruficeps-ML114313231.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_ruficeps-ML114313231.wav	3	c

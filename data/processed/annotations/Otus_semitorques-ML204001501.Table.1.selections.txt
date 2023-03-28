@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.413374863	0.573390940	137.1	298.7	Otus_semitorques-ML204001501.wav	D:\Andean\Strigidae\Otus_semitorques-ML204001501.wav	1	a
+2	Spectrogram 1	1	1.080108514	1.220122581	102.8	293.8	Otus_semitorques-ML204001501.wav	D:\Andean\Strigidae\Otus_semitorques-ML204001501.wav	2	a
+3	Spectrogram 1	1	1.720172819	1.900190904	122.4	284.0	Otus_semitorques-ML204001501.wav	D:\Andean\Strigidae\Otus_semitorques-ML204001501.wav	3	a

@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	107.578236079	107.634290909	8589.5	9060.9	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	1	a
+2	Spectrogram 1	1	107.746400569	107.872523937	7699.2	8406.2	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	1	b
+3	Spectrogram 1	1	108.007989776	108.206517300	7961.0	8746.7	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	1	c
+4	Spectrogram 1	1	108.285928309	108.414387295	7908.7	8746.7	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	1	d
+5	Spectrogram 1	1	108.505476394	108.701668299	6389.8	8249.1	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	1	e
+6	Spectrogram 1	1	120.268333453	120.301032104	8353.9	9034.7	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	2	a
+7	Spectrogram 1	1	120.527587042	120.564956929	8353.9	9087.1	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	2	a
+8	Spectrogram 1	1	120.700422768	120.805525575	8249.1	9296.6	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	2	d
+9	Spectrogram 1	1	120.887272202	121.032080513	7123.0	8327.7	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	2	f
+10	Spectrogram 1	1	121.064779164	121.134847702	8170.5	9087.1	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	2	g
+11	Spectrogram 1	1	121.216594329	121.331039607	7961.0	8746.7	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	2	b
+12	Spectrogram 1	1	121.401108145	121.545916456	7096.9	8092.0	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	2	f
+13	Spectrogram 1	1	121.627663083	121.784149484	6389.8	8170.5	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	2	e
+14	Spectrogram 1	1	129.583682780	129.625723903	8353.9	9060.9	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	3	a
+15	Spectrogram 1	1	129.849943223	129.896655582	8249.1	8982.4	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	3	a
+16	Spectrogram 1	1	130.071826926	130.106861195	8406.2	9060.9	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	3	a
+17	Spectrogram 1	1	130.359107930	130.398813435	8327.7	9087.1	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	3	a
+18	Spectrogram 1	1	130.529608039	130.637046463	8092.0	9270.4	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	3	d
+19	Spectrogram 1	1	130.709450619	130.868272637	7254.0	8275.3	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	3	f
+20	Spectrogram 1	1	130.889293199	130.947683647	8170.5	8956.2	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	3	g
+21	Spectrogram 1	1	131.036437128	131.160224877	7934.9	8720.5	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	3	b
+22	Spectrogram 1	1	131.230293415	131.382108580	7149.2	8092.0	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	3	f
+23	Spectrogram 1	1	131.466190825	131.618005990	6311.2	7961.0	Phylloscopus_castaniceps-ML189806.wav	D:\Andean\Phylloscopidae\Phylloscopus_castaniceps-ML189806.wav	3	e

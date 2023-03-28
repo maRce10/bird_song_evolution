@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	63.444768696	64.153272028	791.0	2941.6	Buteo_refectus-ML173593211.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_refectus-ML173593211.wav	1	a
+2	Spectrogram 1	1	78.228983151	78.947632116	914.6	2966.4	Buteo_refectus-ML173593211.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_refectus-ML173593211.wav	2	a
+3	Spectrogram 1	1	84.612788999	85.253654782	840.5	2916.9	Buteo_refectus-ML173593211.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_refectus-ML173593211.wav	3	a

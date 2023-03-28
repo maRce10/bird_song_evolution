@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.080981966	21.269256530	26.9	1183.2	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	1	a
+2	Spectrogram 1	1	21.292377968	21.348530031	26.9	1183.2	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	1	b
+3	Spectrogram 1	1	21.394772907	21.470743346	107.6	1317.6	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	1	b
+4	Spectrogram 1	1	21.503773971	21.573138284	26.9	1290.7	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	1	b
+5	Spectrogram 1	1	21.662320973	21.774625099	53.8	1290.7	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	1	b
+6	Spectrogram 1	1	21.824171037	21.834080225	26.9	968.0	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	2	c
+7	Spectrogram 1	1	21.847292475	22.141265041	53.8	968.0	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	2	a
+9	Spectrogram 1	1	22.161083417	22.266781418	53.8	1102.5	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	2	b
+10	Spectrogram 1	1	22.296508981	22.385691670	53.8	1075.6	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	2	b
+11	Spectrogram 1	1	22.412116170	22.524420296	107.6	1129.4	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	2	b
+12	Spectrogram 1	1	22.593784610	22.851423488	107.6	1075.6	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	3	a
+13	Spectrogram 1	1	22.877847988	22.950515364	107.6	1156.3	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	3	b
+14	Spectrogram 1	1	22.970333739	23.085940928	53.8	1183.2	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	3	b
+15	Spectrogram 1	1	23.102456241	23.237881805	80.7	1102.5	Ardenna_tenuirostris-ML1806.wav	D:\Andean\Procellariidae\Ardenna_tenuirostris-ML1806.wav	3	b

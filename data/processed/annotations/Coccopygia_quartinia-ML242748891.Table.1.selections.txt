@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.250944805	2.404734991	5754.1	6984.0	Coccopygia_quartinia-ML242748891.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Coccopygia_quartinia-ML242748891.wav	1	a
+2	Spectrogram 1	1	4.344618288	4.484266848	5666.2	6918.1	Coccopygia_quartinia-ML242748891.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Coccopygia_quartinia-ML242748891.wav	2	a
+3	Spectrogram 1	1	5.507224019	5.668085018	5868.1	6985.9	Coccopygia_quartinia-ML242748891.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Coccopygia_quartinia-ML242748891.wav	3	a

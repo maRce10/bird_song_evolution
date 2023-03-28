@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	52.301721744	52.493242413	3102.5	5789.5	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	1	a
+2	Spectrogram 1	1	52.628708253	52.834242630	1357.3	4210.6	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	1	b
+3	Spectrogram 1	1	53.007078356	53.193927790	5069.3	7146.9	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	1	c
+4	Spectrogram 1	1	53.338736101	53.548941714	3296.4	4736.9	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	1	d
+5	Spectrogram 1	1	54.698065731	54.861558986	2770.1	6953.0	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	2	a
+6	Spectrogram 1	1	54.954983703	55.127819429	2631.6	6592.8	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	2	a
+7	Spectrogram 1	1	55.319340099	55.576258070	1274.2	3462.6	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	2	c
+8	Spectrogram 1	1	55.721066381	55.949956938	5484.8	8088.7	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	2	e
+9	Spectrogram 1	1	57.080396012	57.276587917	3711.9	5789.5	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	3	f
+10	Spectrogram 1	1	57.370012634	57.566204539	3656.5	5761.8	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	3	f
+11	Spectrogram 1	1	57.734369030	57.939903407	6177.3	8892.0	Melaenornis_pammelaina-ML80696.wav	E:\Andean\Muscicapidae\Melaenornis_pammelaina-ML80696.wav	3	g

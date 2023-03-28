@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.285159934	5.385459162	1603.2	4587.4	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	1	a
+2	Spectrogram 1	1	5.603346526	5.682433315	1493.4	4587.4	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	1	b
+3	Spectrogram 1	1	5.882643646	5.951124215	1515.4	4562.1	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	1	b
+4	Spectrogram 1	1	6.147799140	6.219815115	1471.5	4587.4	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	1	b
+5	Spectrogram 1	1	6.423560853	6.492041422	1471.5	4587.4	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	1	b
+6	Spectrogram 1	1	9.049519162	9.141439733	1603.2	4587.4	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	2	a
+7	Spectrogram 1	1	9.351796425	9.431343073	1520.7	4587.4	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	2	b
+8	Spectrogram 1	1	9.648770578	9.726549522	1493.4	4587.4	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	2	b
+9	Spectrogram 1	1	9.935138511	10.005846642	1449.5	4562.1	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	2	b
+10	Spectrogram 1	1	10.217971037	10.286911466	1449.5	4587.4	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	2	b
+11	Spectrogram 1	1	13.737886277	13.838645364	1622.1	4612.8	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	3	a
+12	Spectrogram 1	1	14.059608276	14.139154924	1546.0	4562.1	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	3	b
+13	Spectrogram 1	1	14.335369989	14.413148934	1546.0	4587.4	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	3	b
+14	Spectrogram 1	1	14.614667109	14.681839834	1546.0	4562.1	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	3	b
+15	Spectrogram 1	1	14.897499636	14.971743174	1470.0	4587.4	Automolus_subulatus-ML49905031.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_subulatus-ML49905031.wav	3	b

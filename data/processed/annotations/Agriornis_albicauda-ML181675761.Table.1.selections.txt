@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.658635331	0.692309920	1828.8	3918.8	Agriornis_albicauda-ML181675761.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_albicauda-ML181675761.wav	1	a
+2	Spectrogram 1	1	5.790152072	5.823826660	1828.8	3396.3	Agriornis_albicauda-ML181675761.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_albicauda-ML181675761.wav	2	b
+3	Spectrogram 1	1	11.601614872	11.631327744	1672.0	3239.6	Agriornis_albicauda-ML181675761.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_albicauda-ML181675761.wav	3	b

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	93.326314754	93.620602612	637.1	2603.9	Lepidothrix_isidorei-ML191413.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_isidorei-ML191413.wav	1	a
+2	Spectrogram 1	1	95.018785456	95.377975924	803.3	2687.0	Lepidothrix_isidorei-ML191413.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_isidorei-ML191413.wav	1	a
+3	Spectrogram 1	1	99.268153001	99.450331199	692.5	2714.7	Lepidothrix_isidorei-ML191413.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_isidorei-ML191413.wav	2	a
+4	Spectrogram 1	1	100.938247767	101.108747875	747.9	2576.2	Lepidothrix_isidorei-ML191413.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_isidorei-ML191413.wav	2	a
+5	Spectrogram 1	1	106.988017368	107.116476354	664.8	2243.8	Lepidothrix_isidorei-ML191413.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_isidorei-ML191413.wav	3	a
+6	Spectrogram 1	1	109.383027368	109.516157589	443.2	2382.3	Lepidothrix_isidorei-ML191413.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_isidorei-ML191413.wav	4	a
+7	Spectrogram 1	1	111.214036113	111.356137198	609.4	2465.4	Lepidothrix_isidorei-ML191413.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_isidorei-ML191413.wav	4	a
+8	Spectrogram 1	1	112.971036055	113.083145715	1163.4	2382.3	Lepidothrix_isidorei-ML191413.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_isidorei-ML191413.wav	5	a

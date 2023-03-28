@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	39.079283075	40.085106248	87.8	439.2	Cephalopterus_penduliger-ML141768771.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cephalopterus_penduliger-ML141768771.wav	1	a
+2	Spectrogram 1	1	45.520635324	46.563580266	29.1	436.3	Cephalopterus_penduliger-ML141768771.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cephalopterus_penduliger-ML141768771.wav	2	a
+3	Spectrogram 1	1	51.104440742	51.937028992	72.7	450.9	Cephalopterus_penduliger-ML141768771.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cephalopterus_penduliger-ML141768771.wav	3	a

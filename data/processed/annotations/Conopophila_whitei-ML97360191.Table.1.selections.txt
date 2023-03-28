@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.630342497	2.973276936	1603.6	4743.8	Conopophila_whitei-ML97360191.wav	E:\Escritorio\Cantos\Meliphagidae\Conopophila_whitei-ML97360191.wav	1	a
+2	Spectrogram 1	1	7.717940260	8.060874698	1493.4	4765.8	Conopophila_whitei-ML97360191.wav	E:\Escritorio\Cantos\Meliphagidae\Conopophila_whitei-ML97360191.wav	2	a
+3	Spectrogram 1	1	11.723235788	12.108595105	1537.4	4699.9	Conopophila_whitei-ML97360191.wav	E:\Escritorio\Cantos\Meliphagidae\Conopophila_whitei-ML97360191.wav	3	a

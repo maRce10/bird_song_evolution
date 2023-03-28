@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.193384576	22.545157531	790.600	3849.500	Perisoreus_canadensis-ML87910.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Perisoreus_canadensis-ML87910.wav	1	a
+2	Spectrogram 1	1	23.943909100	24.291262796	966.300	3755.500	Perisoreus_canadensis-ML87910.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Perisoreus_canadensis-ML87910.wav	2	a
+3	Spectrogram 1	1	25.115647939	25.444963296	834.600	3821.400	Perisoreus_canadensis-ML87910.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Perisoreus_canadensis-ML87910.wav	3	a

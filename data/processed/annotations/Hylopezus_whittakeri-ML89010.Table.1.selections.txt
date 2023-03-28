@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.674075695	15.069773601	592.1	1240.7	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	1	a
+2	Spectrogram 1	1	15.230191670	15.786307646	620.3	1212.5	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	1	a
+3	Spectrogram 1	1	15.861169412	16.406590849	592.1	1212.5	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	1	a
+4	Spectrogram 1	1	16.460063539	17.069652204	592.1	1212.5	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	1	a
+5	Spectrogram 1	1	56.501821637	57.015159460	648.5	1268.9	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	2	a
+6	Spectrogram 1	1	57.068632150	57.560580897	620.3	1184.3	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	2	a
+7	Spectrogram 1	1	57.688915353	58.255725866	648.5	1156.1	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	2	a
+8	Spectrogram 1	1	58.309198556	58.897398145	676.7	1156.1	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	2	a
+9	Spectrogram 1	1	84.747191969	85.260529792	592.1	1212.5	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	3	a
+10	Spectrogram 1	1	85.335391558	85.902202071	592.1	1156.1	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	3	a
+11	Spectrogram 1	1	85.955674761	86.543874350	620.3	1156.1	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	3	a
+12	Spectrogram 1	1	86.575957964	87.292492009	592.1	1212.5	Hylopezus_whittakeri-ML89010.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_whittakeri-ML89010.wav	3	a

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	205.220061894	205.304144139	1052.6	2548.5	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	1	a
+2	Spectrogram 1	1	205.318157847	205.374212677	470.9	2105.3	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	1	b
+3	Spectrogram 1	1	205.453623686	205.596096380	1024.9	2271.5	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	1	c
+4	Spectrogram 1	1	205.654486828	205.860021205	1024.9	1994.5	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	1	d
+5	Spectrogram 1	1	205.916076035	206.226713219	803.3	1883.7	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	1	e
+6	Spectrogram 1	1	208.963553358	209.040628750	1163.4	2659.3	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	2	a
+7	Spectrogram 1	1	209.059313693	209.127046613	443.2	2216.1	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	2	b
+8	Spectrogram 1	1	209.204122004	209.334916608	1024.9	2216.1	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	2	c
+9	Spectrogram 1	1	209.379293348	209.598841433	1024.9	1939.1	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	2	d
+10	Spectrogram 1	1	209.650225027	209.956190975	831.0	1911.4	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	2	e
+11	Spectrogram 1	1	212.695308737	212.774719747	1052.6	2354.6	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	3	a
+12	Spectrogram 1	1	212.784062218	212.849459520	498.6	2105.3	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	3	b
+13	Spectrogram 1	1	212.931206147	213.078350076	969.5	2049.9	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	3	c
+14	Spectrogram 1	1	213.136740524	213.318918722	941.8	1856.0	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	3	d
+15	Spectrogram 1	1	213.370302317	213.664590175	803.3	1745.2	Oriolus_traillii-ML171461991.wav	E:\Andean\Oriolidae\Oriolus_traillii-ML171461991.wav	3	e

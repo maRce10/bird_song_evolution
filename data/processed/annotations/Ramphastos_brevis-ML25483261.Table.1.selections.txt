@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.508671631	0.759704385	1163.4	2216.1	Ramphastos_brevis-ML25483261.wav	D:\Andean\Ramphastidae\Ramphastos_brevis-ML25483261.wav	1	a
+2	Spectrogram 1	1	1.790259898	2.067717151	1080.3	2243.8	Ramphastos_brevis-ML25483261.wav	D:\Andean\Ramphastidae\Ramphastos_brevis-ML25483261.wav	2	a
+3	Spectrogram 1	1	2.959544037	3.237001291	1080.3	2299.2	Ramphastos_brevis-ML25483261.wav	D:\Andean\Ramphastidae\Ramphastos_brevis-ML25483261.wav	3	a

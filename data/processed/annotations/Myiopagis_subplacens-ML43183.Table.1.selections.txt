@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.461088270	8.591559240	1689.8	5457.1	Myiopagis_subplacens-ML43183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_subplacens-ML43183.wav	1	a
+2	Spectrogram 1	1	9.257126342	9.712948973	1606.7	4349.1	Myiopagis_subplacens-ML43183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_subplacens-ML43183.wav	1	b
+3	Spectrogram 1	1	14.293752103	14.425874605	1662.1	5678.7	Myiopagis_subplacens-ML43183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_subplacens-ML43183.wav	2	a
+4	Spectrogram 1	1	15.008865144	15.535703619	1385.1	4127.4	Myiopagis_subplacens-ML43183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_subplacens-ML43183.wav	2	b
+5	Spectrogram 1	1	20.983668889	21.114139860	1385.1	5623.3	Myiopagis_subplacens-ML43183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_subplacens-ML43183.wav	3	a
+6	Spectrogram 1	1	21.774752368	22.220665811	1856.0	4432.2	Myiopagis_subplacens-ML43183.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_subplacens-ML43183.wav	3	b

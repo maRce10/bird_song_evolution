@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.021452960	1.125979875	577.9	3867.6	Anastomus_oscitans-ML283406.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Anastomus_oscitans-ML283406.wav	1	a
+2	Spectrogram 1	1	1.212790364	1.319088922	489.0	3801.0	Anastomus_oscitans-ML283406.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Anastomus_oscitans-ML283406.wav	2	a
+3	Spectrogram 1	1	1.933848917	2.034832547	577.9	3689.8	Anastomus_oscitans-ML283406.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Anastomus_oscitans-ML283406.wav	3	

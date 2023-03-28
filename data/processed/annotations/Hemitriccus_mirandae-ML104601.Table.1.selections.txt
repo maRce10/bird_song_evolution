@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.539536660	31.572567285	775.6	2022.2	Hemitriccus_mirandae-ML104601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_mirandae-ML104601.wav	1	a
+2	Spectrogram 1	1	31.689826005	31.731114287	1745.2	2770.1	Hemitriccus_mirandae-ML104601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_mirandae-ML104601.wav	1	b
+3	Spectrogram 1	1	31.871494445	31.902047774	1717.5	3047.1	Hemitriccus_mirandae-ML104601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_mirandae-ML104601.wav	1	c
+4	Spectrogram 1	1	32.063072073	32.111792245	1828.3	3019.4	Hemitriccus_mirandae-ML104601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_mirandae-ML104601.wav	1	d
+5	Spectrogram 1	1	60.652481164	60.678079898	720.2	4321.4	Hemitriccus_mirandae-ML104601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_mirandae-ML104601.wav	2	e
+6	Spectrogram 1	1	60.801944744	60.834975369	1911.4	3047.1	Hemitriccus_mirandae-ML104601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_mirandae-ML104601.wav	2	c
+7	Spectrogram 1	1	60.979484355	61.019121106	1966.8	3019.4	Hemitriccus_mirandae-ML104601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_mirandae-ML104601.wav	2	d
+8	Spectrogram 1	1	132.518746552	132.550277394	1856.0	2631.6	Hemitriccus_mirandae-ML104601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_mirandae-ML104601.wav	3	b
+9	Spectrogram 1	1	132.685743234	132.721945312	1883.7	3157.9	Hemitriccus_mirandae-ML104601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_mirandae-ML104601.wav	3	c
+10	Spectrogram 1	1	132.878431712	132.921640644	1994.5	2936.3	Hemitriccus_mirandae-ML104601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_mirandae-ML104601.wav	3	d

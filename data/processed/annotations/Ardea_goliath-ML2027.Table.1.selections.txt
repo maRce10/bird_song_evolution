@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	58.340041286	58.682227547	222.5	3683.2	Ardea_goliath-ML2027.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_goliath-ML2027.wav	1	a
+2	Spectrogram 1	1	59.022640822	59.228307175	296.6	3782.1	Ardea_goliath-ML2027.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_goliath-ML2027.wav	2	
+3	Spectrogram 1	1	59.435746515	59.880765952	296.6	3757.4	Ardea_goliath-ML2027.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_goliath-ML2027.wav	3	a

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.925548023	6.068759138	623.3	1454.3	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	1	a
+2	Spectrogram 1	1	6.132957224	6.221846881	651.0	1135.7	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	1	b
+3	Spectrogram 1	1	6.236661824	6.310736539	734.1	1163.4	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	1	c
+4	Spectrogram 1	1	6.693370421	6.839722501	664.8	1214.4	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	1	d
+5	Spectrogram 1	1	6.968118673	7.052070016	597.4	979.4	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	1	e
+6	Spectrogram 1	1	7.136896607	7.244664274	577.8	989.2	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	1	f
+7	Spectrogram 1	1	7.520623545	7.658896345	637.1	1468.2	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	2	a
+8	Spectrogram 1	1	7.723680762	7.817508734	636.6	1067.5	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	2	g
+9	Spectrogram 1	1	7.832323677	7.881706820	773.7	1175.3	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	2	h
+10	Spectrogram 1	1	8.222450507	8.385414879	666.0	1204.6	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	2	d
+11	Spectrogram 1	1	8.489119480	8.597762394	607.2	979.4	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	2	e
+12	Spectrogram 1	1	8.676775423	8.805171595	577.8	989.2	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	2	f
+13	Spectrogram 1	1	9.076192552	9.239156924	651.0	1440.5	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	3	a
+14	Spectrogram 1	1	9.284188083	9.397769313	626.8	1067.5	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	3	g
+15	Spectrogram 1	1	9.407059611	9.476196011	734.1	1163.4	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	3	c
+16	Spectrogram 1	1	9.763204571	9.916292315	656.2	1214.4	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	3	d
+17	Spectrogram 1	1	10.044688487	10.143454773	597.4	969.6	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	3	e
+18	Spectrogram 1	1	10.212591173	10.331110717	577.8	989.2	Pomatorhinus_schisticeps-ML33451.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_schisticeps-ML33451.wav	3	f

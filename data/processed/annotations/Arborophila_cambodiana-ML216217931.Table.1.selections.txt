@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.520842797	0.548870212	733.3	1126.1	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	1	a
+2	Spectrogram 1	1	0.625945603	0.707692230	785.6	1361.8	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	1	b
+3	Spectrogram 1	1	0.766082678	0.810459419	838.0	1335.6	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	1	c
+4	Spectrogram 1	1	0.861843013	0.906219754	838.0	1387.9	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	1	c
+5	Spectrogram 1	1	1.328966598	1.364000866	785.6	1152.3	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	2	a
+6	Spectrogram 1	1	1.434069404	1.515816031	785.6	1414.1	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	2	b
+7	Spectrogram 1	1	1.588220187	1.627925692	785.6	1335.6	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	2	c
+8	Spectrogram 1	1	1.669966814	1.723686026	890.4	1361.8	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	2	c
+9	Spectrogram 1	1	2.139426016	2.172124667	707.1	1099.9	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	3	a
+10	Spectrogram 1	1	2.253871295	2.328611068	785.6	1387.9	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	3	b
+11	Spectrogram 1	1	2.391672752	2.447727582	811.8	1335.6	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	3	c
+12	Spectrogram 1	1	2.485097469	2.536481063	916.6	1335.6	Arborophila_cambodiana-ML216217931.wav	D:\Andean\Phasianidae\Arborophila_cambodiana-ML216217931.wav	3	c

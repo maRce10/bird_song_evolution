@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.370103592	13.436164843	1329.6	6454.3	Ploceus_sakalava-ML95150.wav	D:\Andean\Ploceidae\Ploceus_sakalava-ML95150.wav	1	a
+2	Spectrogram 1	1	13.845744598	13.891987474	1274.2	6426.6	Ploceus_sakalava-ML95150.wav	D:\Andean\Ploceidae\Ploceus_sakalava-ML95150.wav	2	a
+3	Spectrogram 1	1	14.327991729	14.394052980	1274.2	6398.9	Ploceus_sakalava-ML95150.wav	D:\Andean\Ploceidae\Ploceus_sakalava-ML95150.wav	3	a

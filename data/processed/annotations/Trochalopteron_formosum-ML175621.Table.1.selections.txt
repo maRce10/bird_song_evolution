@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	41.149242373	41.877536128	1493.4	3030.8	Trochalopteron_formosum-ML175621.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_formosum-ML175621.wav	1	a
+2	Spectrogram 1	1	44.484672574	45.184683077	1493.4	2986.9	Trochalopteron_formosum-ML175621.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_formosum-ML175621.wav	2	a
+3	Spectrogram 1	1	47.766345033	48.487567975	1427.5	2942.9	Trochalopteron_formosum-ML175621.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_formosum-ML175621.wav	3	a

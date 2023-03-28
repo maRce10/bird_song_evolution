@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.906343165	0.982435409	667.4	2818.0	Aix_galericulata-ML123305951.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_galericulata-ML123305951.wav	1	a
+2	Spectrogram 1	1	1.296950015	1.373042258	543.8	3040.5	Aix_galericulata-ML123305951.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_galericulata-ML123305951.wav	2	a
+3	Spectrogram 1	1	17.039025933	17.125263809	543.8	3337.2	Aix_galericulata-ML123305951.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aix_galericulata-ML123305951.wav	3	a

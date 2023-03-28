@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.980959131	1.097740027	1135.7	4404.5	Scytalopus_altirostris-ML31953431.wav	D:\Andean\Rhinocryptidae\Scytalopus_altirostris-ML31953431.wav	1	a
+2	Spectrogram 1	1	1.420055300	1.534500578	1191.1	4349.1	Scytalopus_altirostris-ML31953431.wav	D:\Andean\Rhinocryptidae\Scytalopus_altirostris-ML31953431.wav	2	a
+3	Spectrogram 1	1	1.854480233	1.971261129	1218.8	4349.1	Scytalopus_altirostris-ML31953431.wav	D:\Andean\Rhinocryptidae\Scytalopus_altirostris-ML31953431.wav	3	a

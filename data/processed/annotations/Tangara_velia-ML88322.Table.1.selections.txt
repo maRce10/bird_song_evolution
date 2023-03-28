@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.808876398	21.861725399	2576.2	8227.2	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	1	a
+2	Spectrogram 1	1	22.317548030	22.373700093	2936.3	9390.6	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	1	b
+3	Spectrogram 1	1	22.763461477	22.831174259	2880.9	8781.2	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	1	c
+4	Spectrogram 1	1	22.926963072	23.029358011	2714.7	9861.6	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	1	d
+5	Spectrogram 1	1	23.088813137	23.192859607	3329.9	10812.3	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	1	e
+6	Spectrogram 1	1	23.542984236	23.585924049	2938.1	9597.9	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	b
+7	Spectrogram 1	1	23.682355047	23.758325485	3094.8	8931.9	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	c
+8	Spectrogram 1	1	23.801265298	23.893751049	3055.7	10185.5	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	d
+9	Spectrogram 1	1	23.949903113	24.037434270	3329.9	11360.8	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	e
+10	Spectrogram 1	1	24.083677146	24.149738396	2859.8	9402.0	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	f
+11	Spectrogram 1	1	24.212069293	24.269872887	3564.9	6228.8	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	g
+12	Spectrogram 1	1	24.312414227	24.366914758	2233.0	7795.9	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	h
+13	Spectrogram 1	1	24.470961229	24.512249510	2703.1	8266.0	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	h
+14	Spectrogram 1	1	24.593174543	24.657289099	3173.2	6072.1	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	b
+15	Spectrogram 1	1	24.721963075	24.778115138	3212.4	6738.1	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	i
+16	Spectrogram 1	1	24.850782514	24.931707546	3055.7	9872.1	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	d
+17	Spectrogram 1	1	25.009329516	25.126588236	2899.0	10498.9	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	2	d
+18	Spectrogram 1	1	25.774174367	25.810508054	3721.6	8579.4	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	3	j
+19	Spectrogram 1	1	25.998782619	26.058237745	2585.6	9127.8	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	3	k
+20	Spectrogram 1	1	26.130905121	26.188708715	2899.0	9088.6	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	3	d
+21	Spectrogram 1	1	26.243209247	26.337346530	2714.7	10304.8	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	3	e
+22	Spectrogram 1	1	26.381937811	26.469468969	3290.7	10381.4	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	3	l
+23	Spectrogram 1	1	26.519014907	26.599939939	4387.6	9833.0	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	3	m
+24	Spectrogram 1	1	26.641228221	26.703986409	4152.6	6698.9	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	3	g
+25	Spectrogram 1	1	26.789866035	26.847669630	1919.6	4466.0	Tangara_velia-ML88322.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_velia-ML88322.wav	3	n

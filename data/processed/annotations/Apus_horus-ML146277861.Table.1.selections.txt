@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	244.070224037	244.187152451	2866.6	5486.9	Apus_horus-ML146277861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_horus-ML146277861.wav	1	a
+2	Spectrogram 1	1	245.055257342	245.182815612	3015.0	5462.2	Apus_horus-ML146277861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_horus-ML146277861.wav	2	a
+3	Spectrogram 1	1	245.739112751	245.854269522	2817.2	5437.5	Apus_horus-ML146277861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_horus-ML146277861.wav	3	a

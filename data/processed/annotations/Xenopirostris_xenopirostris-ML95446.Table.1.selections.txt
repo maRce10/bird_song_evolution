@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	80.049689651	80.217854142	3392.3	8261.9	Xenopirostris_xenopirostris-ML95446.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Xenopirostris_xenopirostris-ML95446.wav	1	a
+2	Spectrogram 1	1	80.278580208	80.540169415	1641.4	2352.7	Xenopirostris_xenopirostris-ML95446.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Xenopirostris_xenopirostris-ML95446.wav	1	b
+3	Spectrogram 1	1	81.731334555	81.913512753	3474.4	8754.3	Xenopirostris_xenopirostris-ML95446.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Xenopirostris_xenopirostris-ML95446.wav	2	a
+4	Spectrogram 1	1	81.978910055	82.233492408	1668.8	2434.8	Xenopirostris_xenopirostris-ML95446.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Xenopirostris_xenopirostris-ML95446.wav	2	b
+5	Spectrogram 1	1	87.700742272	87.829201258	3501.7	8617.6	Xenopirostris_xenopirostris-ML95446.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Xenopirostris_xenopirostris-ML95446.wav	3	a
+6	Spectrogram 1	1	87.924961593	88.144269350	1668.8	2325.4	Xenopirostris_xenopirostris-ML95446.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Xenopirostris_xenopirostris-ML95446.wav	3	b

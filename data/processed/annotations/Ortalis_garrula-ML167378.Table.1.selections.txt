@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	28.276447057	28.973979197	887.606	2943.114	Ortalis_garrula-ML167378.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_garrula-ML167378.wav	1	a
+2	Spectrogram 1	1	42.073431507	42.754443149	887.606	3083.263	Ortalis_garrula-ML167378.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_garrula-ML167378.wav	2	a
+3	Spectrogram 1	1	44.126794375	44.754573301	887.606	3176.695	Ortalis_garrula-ML167378.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_garrula-ML167378.wav	3	a

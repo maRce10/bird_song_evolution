@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	122.123003808	122.255126310	1966.8	2880.9	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	1	a
+2	Spectrogram 1	1	122.307975310	122.459916187	1911.4	2936.3	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	1	b
+3	Spectrogram 1	1	122.525977438	122.677918315	1939.1	2880.9	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	1	b
+4	Spectrogram 1	1	122.743979566	122.889314318	1883.7	2880.9	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	1	b
+5	Spectrogram 1	1	122.948769443	123.094104195	1966.8	2825.5	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	1	b
+6	Spectrogram 1	1	123.179983821	123.305500198	1966.8	2770.1	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	1	b
+7	Spectrogram 1	1	123.384773699	123.536714576	1828.3	2797.8	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	1	b
+8	Spectrogram 1	1	123.609381952	123.734898328	1745.2	2714.7	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	1	b
+9	Spectrogram 1	1	135.799369014	135.944703766	1828.3	2908.6	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	2	a
+10	Spectrogram 1	1	136.017371142	136.156099769	1828.3	2880.9	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	2	b
+11	Spectrogram 1	1	136.208948769	136.354283521	1717.5	2964.0	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	2	b
+12	Spectrogram 1	1	136.420344772	136.559073399	1772.9	2964.0	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	2	b
+13	Spectrogram 1	1	136.644953025	136.777075526	1800.6	2880.9	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	2	b
+14	Spectrogram 1	1	136.843136777	137.008289904	1772.9	2825.5	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	2	b
+15	Spectrogram 1	1	137.054532780	137.206473657	1662.1	2825.5	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	2	b
+16	Spectrogram 1	1	137.265928783	137.424475785	1634.4	2770.1	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	2	b
+17	Spectrogram 1	1	137.503749286	137.662296288	1579.0	2687.0	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	2	b
+18	Spectrogram 1	1	150.042606125	150.194547002	1966.8	2880.9	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	3	a
+19	Spectrogram 1	1	150.260608252	150.405943004	1800.6	2964.0	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	3	b
+20	Spectrogram 1	1	150.452185880	150.604126757	1800.6	2880.9	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	3	b
+21	Spectrogram 1	1	150.663581883	150.822128885	1689.8	2936.3	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	3	b
+22	Spectrogram 1	1	150.881584010	151.026918762	1662.1	2880.9	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	3	b
+23	Spectrogram 1	1	151.092980013	151.244920890	1772.9	2880.9	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	3	b
+24	Spectrogram 1	1	151.291163765	151.449710767	1717.5	2797.8	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	3	b
+25	Spectrogram 1	1	151.522378143	151.667712895	1772.9	2687.0	Pyriglena_atra-ML54977.wav	D:\Andean\Thamnophilidae\Pyriglena_atra-ML54977.wav	3	b

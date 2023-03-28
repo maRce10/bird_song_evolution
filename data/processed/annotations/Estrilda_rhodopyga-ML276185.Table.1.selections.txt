@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.568440715	2.677892270	2756.2	6049.7	Estrilda_rhodopyga-ML276185.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_rhodopyga-ML276185.wav	1	a
+2	Spectrogram 1	1	5.540666941	5.652998800	3176.7	5769.4	Estrilda_rhodopyga-ML276185.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_rhodopyga-ML276185.wav	2	a
+3	Spectrogram 1	1	10.190398652	10.322892639	3597.1	6423.5	Estrilda_rhodopyga-ML276185.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_rhodopyga-ML276185.wav	3	a

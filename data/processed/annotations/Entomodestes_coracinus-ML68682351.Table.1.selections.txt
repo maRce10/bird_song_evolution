@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.876139524	2.959544037	1436.9	2063.9	Entomodestes_coracinus-ML68682351.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Entomodestes_coracinus-ML68682351.wav	1	a
+2	Spectrogram 1	1	18.043906099	19.034824862	1489.2	2272.9	Entomodestes_coracinus-ML68682351.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Entomodestes_coracinus-ML68682351.wav	2	b
+3	Spectrogram 1	1	32.573251484	33.643443747	1410.8	2011.7	Entomodestes_coracinus-ML68682351.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Entomodestes_coracinus-ML68682351.wav	3	a

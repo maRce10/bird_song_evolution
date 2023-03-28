@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.186826946	13.205135127	1515.3	3448.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	1	a
+2	Spectrogram 1	1	13.214289218	13.252213308	1933.3	3553.1	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	1	b
+3	Spectrogram 1	1	13.330676943	13.419602395	1515.3	3657.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	1	c
+4	Spectrogram 1	1	13.420910123	13.477142394	3814.3	5956.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	1	d
+5	Spectrogram 1	1	13.492835121	13.522912848	2560.3	3657.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	1	e
+6	Spectrogram 1	1	13.537297848	13.607915119	2717.1	5120.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	1	f
+7	Spectrogram 1	1	13.861614205	13.938770112	1045.0	3762.1	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	2	g
+8	Spectrogram 1	1	13.959693748	14.006771929	2664.8	6270.1	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	2	h
+9	Spectrogram 1	1	14.046003746	14.128390563	3657.6	4702.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	2	i
+10	Spectrogram 1	1	14.106159199	14.183315107	5277.4	6479.1	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	2	j
+11	Spectrogram 1	1	14.185930561	14.260471014	2926.1	4441.4	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	2	k
+12	Spectrogram 1	1	14.359858285	14.378166467	2612.6	4859.4	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	2	l
+13	Spectrogram 1	1	14.574847713	14.640234075	1463.0	3344.1	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	2	m
+14	Spectrogram 1	1	14.705620437	14.773622254	992.8	3291.8	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	2	m
+15	Spectrogram 1	1	15.217937679	15.287247223	1410.8	3448.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	3	n
+16	Spectrogram 1	1	15.369634040	15.489944946	1881.0	5956.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	3	o
+17	Spectrogram 1	1	15.500406764	15.563177672	1619.8	2821.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	3	p
+18	Spectrogram 1	1	15.571024036	15.653410852	1201.8	5852.1	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	3	q
+19	Spectrogram 1	1	15.707027669	15.725335851	2664.8	3396.3	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	3	r
+20	Spectrogram 1	1	15.727951305	15.799876304	1358.5	3709.8	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	3	s
+21	Spectrogram 1	1	15.887494029	15.981650391	1410.8	3030.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	3	t
+22	Spectrogram 1	1	16.049652208	16.079729934	2351.3	2821.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	3	r
+23	Spectrogram 1	1	16.135962206	16.206579477	1933.3	3657.6	Sturnia_blythii-ML283166.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_blythii-ML283166.wav	3	u

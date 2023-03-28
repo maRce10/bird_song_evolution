@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	157.262695005	157.520333884	1567.5	3161.2	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	1	a
+2	Spectrogram 1	1	157.599607385	157.705305386	1541.4	2612.6	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	1	b
+3	Spectrogram 1	1	158.025702452	158.283341331	1541.4	3135.1	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	1	a
+4	Spectrogram 1	1	158.359311769	158.471615896	1645.9	2612.6	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	1	b
+5	Spectrogram 1	1	158.854771150	159.125622279	1645.9	3056.7	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	1	a
+6	Spectrogram 1	1	159.201592717	159.317199906	1619.8	2638.7	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	1	b
+7	Spectrogram 1	1	165.619851632	165.678242080	1959.4	2612.6	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	2	c
+8	Spectrogram 1	1	165.680577698	165.778673651	2795.4	3239.6	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	2	d
+9	Spectrogram 1	1	165.879105222	166.016906679	1854.9	5146.7	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	2	e
+10	Spectrogram 1	1	166.404619254	166.472352174	2194.5	2612.6	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	2	f
+11	Spectrogram 1	1	166.474687792	166.554098801	2664.8	3239.6	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	2	d
+12	Spectrogram 1	1	166.638181046	166.785324975	1907.2	5172.9	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	2	e
+13	Spectrogram 1	1	170.356141696	170.680792587	1489.2	3318.0	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	3	g
+14	Spectrogram 1	1	170.757960898	170.923789770	1828.8	3709.8	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	3	h
+15	Spectrogram 1	1	171.257783133	171.601118967	1619.8	3265.7	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	3	g
+16	Spectrogram 1	1	171.673523123	171.839351995	1802.7	3709.8	Turdus_philomelos-ML107455641.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_philomelos-ML107455641.wav	3	h

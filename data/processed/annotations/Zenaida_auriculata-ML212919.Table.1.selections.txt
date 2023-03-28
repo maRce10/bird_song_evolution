@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.258734596	6.820431530	233.6	724.1	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	1	b
+2	Spectrogram 1	1	51.112853271	51.656194095	256.9	677.4	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	2	b
+3	Spectrogram 1	1	4.408438814	5.216107608	233.6	747.5	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	1	a
+4	Spectrogram 1	1	66.023422732	66.629174327	233.6	700.7	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	3	b
+5	Spectrogram 1	1	50.349239139	50.929292181	233.6	747.5	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	2	b
+6	Spectrogram 1	1	49.269899933	50.099596057	280.3	794.2	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	2	a
+7	Spectrogram 1	1	51.971919169	52.621725426	233.6	770.8	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	2	a
+8	Spectrogram 1	1	5.476764355	6.082515950	256.9	747.5	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	1	b
+9	Spectrogram 1	1	66.882488630	67.576349548	303.7	724.1	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	3	
+10	Spectrogram 1	1	7.103115607	7.778620416	233.6	700.7	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	1	a
+11	Spectrogram 1	1	64.143757176	64.973453300	233.6	770.8	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	3	a
+12	Spectrogram 1	1	65.248794934	65.836190421	280.3	794.2	Zenaida_auriculata-ML212919.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_auriculata-ML212919.wav	3	b

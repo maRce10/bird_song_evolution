@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.521827572	2.617616386	2121.2	3430.6	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	1	a
+2	Spectrogram 1	1	4.296471119	4.415381371	1728.4	2487.8	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	1	a
+3	Spectrogram 1	1	5.138752067	5.267571506	1990.3	2671.1	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	1	b
+4	Spectrogram 1	1	6.472398120	6.650763497	2226.0	2828.3	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	1	c
+5	Spectrogram 1	1	6.730036998	7.020706502	2278.3	2697.3	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	1	d
+6	Spectrogram 1	1	7.123101441	7.208981067	2383.1	2802.1	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	1	e
+7	Spectrogram 1	1	7.674712885	7.757289449	1964.1	2985.4	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	1	a
+8	Spectrogram 1	1	7.839866012	7.896018076	1466.5	3535.3	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	1	f
+9	Spectrogram 1	1	12.170650838	12.253227401	2068.8	3011.6	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	2	a
+10	Spectrogram 1	1	12.676019407	12.989810348	1676.0	3090.1	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	2	g
+11	Spectrogram 1	1	13.158266538	13.273873727	1230.8	2042.6	Ploceus_angolensis-ML277130.wav	D:\Andean\Ploceidae\Ploceus_angolensis-ML277130.wav	2	a

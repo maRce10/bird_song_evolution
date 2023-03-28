@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.687367302	13.907461839	363.4	743.2	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	1	a
+2	Spectrogram 1	1	14.078794263	14.727780719	346.8	660.7	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	1	b
+3	Spectrogram 1	1	15.215818533	15.755775264	313.8	677.2	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	1	b
+4	Spectrogram 1	1	16.051713088	16.555326577	363.4	644.1	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	1	b
+5	Spectrogram 1	1	23.964951258	25.138318770	363.4	825.8	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	2	a
+6	Spectrogram 1	1	25.330418760	25.974213324	313.8	693.7	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	2	b
+7	Spectrogram 1	1	26.457059247	26.997015978	330.3	693.7	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	2	b
+8	Spectrogram 1	1	27.313721368	27.827718641	363.4	677.2	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	2	b
+9	Spectrogram 1	1	36.709163855	37.918874608	330.3	825.8	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	3	a
+10	Spectrogram 1	1	38.090207032	38.749577271	313.8	693.7	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	3	b
+11	Spectrogram 1	1	39.242806977	39.793147492	363.4	677.2	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	3	b
+12	Spectrogram 1	1	40.078701532	40.603082588	313.8	660.7	Zenaida_aurita-ML38438.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zenaida_aurita-ML38438.wav	3	b

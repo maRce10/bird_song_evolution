@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.811815667	17.036984864	24.7	370.8	Botaurus_stellaris-ML161279.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_stellaris-ML161279.wav	1	a
+2	Spectrogram 1	1	17.544058805	17.886245066	74.2	370.8	Botaurus_stellaris-ML161279.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_stellaris-ML161279.wav	2	a
+3	Spectrogram 1	1	23.484902440	24.025663111	74.2	346.1	Botaurus_stellaris-ML161279.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_stellaris-ML161279.wav	3	a

@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.055265895	2.099642635	4259.0	10184.6	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	1	a
+2	Spectrogram 1	1	2.975499356	3.017540479	3740.5	10110.5	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	1	a
+3	Spectrogram 1	1	3.638814846	3.678520350	6407.0	10925.3	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	1	a
+4	Spectrogram 1	1	4.145643935	4.176006968	6481.1	10962.3	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	1	a
+5	Spectrogram 1	1	4.803502465	4.852550441	4925.6	9888.3	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	2	a
+6	Spectrogram 1	1	5.081440998	5.118810885	3962.7	9369.8	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	2	a
+7	Spectrogram 1	1	6.293626699	6.342674676	5777.4	9443.9	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	2	b
+8	Spectrogram 1	1	6.615645187	6.650679456	3259.1	8406.9	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	3	a
+9	Spectrogram 1	1	8.075406388	8.110440657	6036.7	8666.2	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	3	a
+10	Spectrogram 1	1	8.675660194	8.727043788	5999.7	9332.8	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	3	a
+11	Spectrogram 1	1	9.223304802	9.267681543	6295.9	9777.2	Chlorospingus_canigularis-ML211136.wav	D:\Andean\Passerellidae\Chlorospingus_canigularis-ML211136.wav	3	b

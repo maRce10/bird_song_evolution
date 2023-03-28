@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.414162633	2.276801839	329.1	2108.4	Scythrops_novaehollandiae-ML100812221.wav	E:\Escritorio\Cantos\Cuculidae\Scythrops_novaehollandiae-ML100812221.wav	1	a
+2	Spectrogram 1	1	2.889851330	3.625215899	411.4	2339.0	Scythrops_novaehollandiae-ML100812221.wav	E:\Escritorio\Cantos\Cuculidae\Scythrops_novaehollandiae-ML100812221.wav	1	b
+3	Spectrogram 1	1	4.226235018	4.813112511	417.3	2605.4	Scythrops_novaehollandiae-ML100812221.wav	E:\Escritorio\Cantos\Cuculidae\Scythrops_novaehollandiae-ML100812221.wav	1	c
+4	Spectrogram 1	1	5.431600291	6.009783564	373.4	2578.0	Scythrops_novaehollandiae-ML100812221.wav	E:\Escritorio\Cantos\Cuculidae\Scythrops_novaehollandiae-ML100812221.wav	1	c
+5	Spectrogram 1	1	6.619761597	7.192232769	351.4	2632.8	Scythrops_novaehollandiae-ML100812221.wav	E:\Escritorio\Cantos\Cuculidae\Scythrops_novaehollandiae-ML100812221.wav	1	c
+6	Spectrogram 1	1	7.911323796	8.448705596	417.3	2632.8	Scythrops_novaehollandiae-ML100812221.wav	E:\Escritorio\Cantos\Cuculidae\Scythrops_novaehollandiae-ML100812221.wav	1	c
+7	Spectrogram 1	1	9.191140979	9.735593592	373.4	2657.4	Scythrops_novaehollandiae-ML100812221.wav	E:\Escritorio\Cantos\Cuculidae\Scythrops_novaehollandiae-ML100812221.wav	1	c

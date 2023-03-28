@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	37.661000377	37.945063756	653.1	4781.0	Athene_brama-ML204771.wav	D:\Andean\Strigidae\Athene_brama-ML204771.wav	1	a
+2	Spectrogram 1	1	50.549878240	50.820729369	757.6	5355.7	Athene_brama-ML204771.wav	D:\Andean\Strigidae\Athene_brama-ML204771.wav	2	a
+3	Spectrogram 1	1	58.865821919	59.093733234	1071.1	5120.6	Athene_brama-ML204771.wav	D:\Andean\Strigidae\Athene_brama-ML204771.wav	3	a

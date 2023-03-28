@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.287332723	1.561343302	6797.100	9936.500	Bangsia_edwardsi-ML31405241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Bangsia_edwardsi-ML31405241.wav	1	a
+2	Spectrogram 1	1	7.765537560	8.025761443	6475.700	9936.500	Bangsia_edwardsi-ML31405241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Bangsia_edwardsi-ML31405241.wav	2	a
+3	Spectrogram 1	1	14.190206740	14.462493983	7044.300	9812.900	Bangsia_edwardsi-ML31405241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Bangsia_edwardsi-ML31405241.wav	3	a
+4	Spectrogram 1	1	20.504637739	20.771754971	6945.400	9887.000	Bangsia_edwardsi-ML31405241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Bangsia_edwardsi-ML31405241.wav	4	a
+5	Spectrogram 1	1	25.782907915	26.036238451	6278.000	9738.700	Bangsia_edwardsi-ML31405241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Bangsia_edwardsi-ML31405241.wav	5	a

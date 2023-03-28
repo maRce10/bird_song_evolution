@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.803581028	6.859635858	3666.3	4425.7	Phylloscopus_laetus-ML1285.wav	D:\Andean\Phylloscopidae\Phylloscopus_laetus-ML1285.wav	1	a
+2	Spectrogram 1	1	6.885478381	6.921812069	3587.7	4478.1	Phylloscopus_laetus-ML1285.wav	D:\Andean\Phylloscopidae\Phylloscopus_laetus-ML1285.wav	1	b
+3	Spectrogram 1	1	7.078707540	7.225693823	2514.0	4059.1	Phylloscopus_laetus-ML1285.wav	D:\Andean\Phylloscopidae\Phylloscopus_laetus-ML1285.wav	1	c
+4	Spectrogram 1	1	7.316528043	7.346255605	3613.9	4478.1	Phylloscopus_laetus-ML1285.wav	D:\Andean\Phylloscopidae\Phylloscopus_laetus-ML1285.wav	2	a
+5	Spectrogram 1	1	7.399104606	7.437089825	3404.4	4425.7	Phylloscopus_laetus-ML1285.wav	D:\Andean\Phylloscopidae\Phylloscopus_laetus-ML1285.wav	2	b
+6	Spectrogram 1	1	7.574166921	7.731062392	2540.2	4163.8	Phylloscopus_laetus-ML1285.wav	D:\Andean\Phylloscopidae\Phylloscopus_laetus-ML1285.wav	2	c
+7	Spectrogram 1	1	7.807032830	7.843366518	3404.4	4399.5	Phylloscopus_laetus-ML1285.wav	D:\Andean\Phylloscopidae\Phylloscopus_laetus-ML1285.wav	3	a
+8	Spectrogram 1	1	7.892912456	7.929246144	3247.3	4373.3	Phylloscopus_laetus-ML1285.wav	D:\Andean\Phylloscopidae\Phylloscopus_laetus-ML1285.wav	3	b
+9	Spectrogram 1	1	8.087793146	8.243037085	2514.0	4059.1	Phylloscopus_laetus-ML1285.wav	D:\Andean\Phylloscopidae\Phylloscopus_laetus-ML1285.wav	3	c

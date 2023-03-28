@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.237895722	6.062085014	210.2	490.5	Zentrygon_chiriquensis-ML54206.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_chiriquensis-ML54206.wav	1	a
+2	Spectrogram 1	1	9.024920785	9.876644240	210.2	513.9	Zentrygon_chiriquensis-ML54206.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_chiriquensis-ML54206.wav	2	a
+3	Spectrogram 1	1	12.933954765	13.851760212	186.9	490.5	Zentrygon_chiriquensis-ML54206.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_chiriquensis-ML54206.wav	3	a

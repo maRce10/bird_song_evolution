@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	32.700260146	32.767993066	2690.9	4833.2	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	1	a
+2	Spectrogram 1	1	32.852075311	32.922143849	2690.9	5225.1	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	1	b
+3	Spectrogram 1	1	32.966520590	33.038924745	2638.7	5329.6	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	1	b
+4	Spectrogram 1	1	33.083301486	33.151034405	2586.4	5329.6	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	1	b
+5	Spectrogram 1	1	33.202418000	33.272486537	2638.7	5251.2	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	1	b
+6	Spectrogram 1	1	33.314527660	33.389267433	2612.6	5225.1	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	1	b
+7	Spectrogram 1	1	33.433644174	33.499041476	2638.7	5225.1	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	1	b
+8	Spectrogram 1	1	33.550425070	33.627500461	2664.8	5225.1	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	1	b
+9	Spectrogram 1	1	33.699904617	33.912445848	2743.2	5773.8	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	1	c
+10	Spectrogram 1	1	36.227380210	36.283435040	3135.1	4911.6	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	2	a
+11	Spectrogram 1	1	36.365181667	36.435250205	2847.7	5329.6	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	2	b
+12	Spectrogram 1	1	36.495976271	36.561373573	2795.4	5277.4	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	2	b
+13	Spectrogram 1	1	36.617428403	36.687496940	2847.7	5434.1	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	2	b
+14	Spectrogram 1	1	47.485475197	47.529851937	2821.6	4258.5	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	3	a
+15	Spectrogram 1	1	47.590578003	47.658310923	2769.3	5016.1	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	3	b
+16	Spectrogram 1	1	47.707358899	47.779763055	2586.4	5303.5	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	3	b
+17	Spectrogram 1	1	47.831146649	47.891872715	2612.6	5251.2	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	3	b
+18	Spectrogram 1	1	47.947927545	48.008653611	2769.3	5120.6	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	3	b
+19	Spectrogram 1	1	48.055365970	48.144119451	2690.9	5016.1	Sporophila_bouvronides-ML254564.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_bouvronides-ML254564.wav	3	b

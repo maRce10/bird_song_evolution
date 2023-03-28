@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.208598341	27.894913169	2522.7	7801.6	Locustella_luscinioides-ML23660.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Locustella_luscinioides-ML23660.wav	1	a
+2	Spectrogram 1	1	35.968874123	51.622963830	2569.4	8222.0	Locustella_luscinioides-ML23660.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Locustella_luscinioides-ML23660.wav	2	a
+3	Spectrogram 1	1	59.961247613	76.687334083	2382.5	8222.0	Locustella_luscinioides-ML23660.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Locustella_luscinioides-ML23660.wav	3	a

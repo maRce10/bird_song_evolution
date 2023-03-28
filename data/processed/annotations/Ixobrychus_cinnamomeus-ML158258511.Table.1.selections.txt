@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.233455212	31.311466587	247.2	1680.9	Ixobrychus_cinnamomeus-ML158258511.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_cinnamomeus-ML158258511.wav	1	a
+2	Spectrogram 1	1	37.686621721	37.761087125	173.0	1656.2	Ixobrychus_cinnamomeus-ML158258511.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_cinnamomeus-ML158258511.wav	2	a
+3	Spectrogram 1	1	42.771952434	42.844644852	222.5	1730.4	Ixobrychus_cinnamomeus-ML158258511.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_cinnamomeus-ML158258511.wav	3	a

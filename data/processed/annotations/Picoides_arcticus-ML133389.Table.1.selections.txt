@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.466971020	11.497334053	916.6	2906.8	Picoides_arcticus-ML133389.wav	D:\Andean\Picidae\Picoides_arcticus-ML133389.wav	1	a
+2	Spectrogram 1	1	12.525005939	12.555368972	995.1	2933.0	Picoides_arcticus-ML133389.wav	D:\Andean\Picidae\Picoides_arcticus-ML133389.wav	2	a
+3	Spectrogram 1	1	13.508301084	13.543335353	864.2	2933.0	Picoides_arcticus-ML133389.wav	D:\Andean\Picidae\Picoides_arcticus-ML133389.wav	3	a

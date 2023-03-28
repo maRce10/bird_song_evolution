@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.250864980	17.321880824	705.2	8814.4	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	1	a
+2	Spectrogram 1	1	17.364820637	17.396199731	2076.3	6698.9	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	1	b
+3	Spectrogram 1	1	17.792567236	17.818991737	1371.1	4661.8	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	1	c
+4	Spectrogram 1	1	17.861931550	17.890007581	1645.4	5327.8	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	1	d
+5	Spectrogram 1	1	17.904871363	17.992402520	1606.2	5367.0	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	1	e
+6	Spectrogram 1	1	18.017175489	18.038645396	4113.4	8579.4	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	1	f
+7	Spectrogram 1	1	20.356367490	20.435640991	861.9	11321.6	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	2	g
+8	Spectrogram 1	1	20.447201710	20.546293586	2154.6	6542.2	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	2	h
+9	Spectrogram 1	1	25.341636083	25.414303459	940.2	11478.3	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	3	g
+10	Spectrogram 1	1	25.452288678	25.480364709	1488.7	7678.3	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	3	i
+11	Spectrogram 1	1	25.886641402	25.914717434	1332.0	4701.0	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	3	c
+12	Spectrogram 1	1	25.960960309	25.985733278	1684.5	5523.7	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	3	d
+13	Spectrogram 1	1	26.002248591	26.076567498	1606.2	5445.3	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	3	e
+14	Spectrogram 1	1	26.106295061	26.132719561	4152.6	8540.2	Empidonax_hammondii-ML267074071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_hammondii-ML267074071.wav	3	f

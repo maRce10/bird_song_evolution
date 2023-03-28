@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.545734106	11.821074947	83.1	775.6	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	1	a
+2	Spectrogram 1	1	12.987224395	13.197779156	138.5	692.5	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	1	a
+3	Spectrogram 1	1	13.294958277	13.505513038	138.5	775.6	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	1	a
+4	Spectrogram 1	1	14.866020727	15.189951129	110.8	775.6	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	1	b
+5	Spectrogram 1	1	15.319523290	15.643453692	83.1	664.8	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	1	b
+6	Spectrogram 1	1	40.114496493	40.389837335	83.1	775.6	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	2	a
+7	Spectrogram 1	1	41.539790262	41.815131104	27.7	692.5	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	2	a
+8	Spectrogram 1	1	41.863720664	42.090471946	83.1	720.2	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	2	a
+9	Spectrogram 1	1	43.467176155	43.791106557	83.1	775.6	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	2	b
+10	Spectrogram 1	1	43.920678718	44.196019559	55.4	664.8	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	2	b
+11	Spectrogram 1	1	67.262012994	67.537353835	55.4	720.2	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	3	a
+12	Spectrogram 1	1	68.735896323	68.946451084	83.1	747.9	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	3	a
+13	Spectrogram 1	1	69.011237165	69.254184966	83.1	775.6	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	3	a
+14	Spectrogram 1	1	70.582299615	70.890033497	83.1	692.5	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	3	b
+15	Spectrogram 1	1	71.051998698	71.408322140	110.8	775.6	Strix_occidentalis-ML56949.wav	D:\Andean\Strigidae\Strix_occidentalis-ML56949.wav	3	b

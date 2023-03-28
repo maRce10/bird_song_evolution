@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	36.349397134	36.973675954	2586.4	5355.7	Contopus_sordidulus-ML539737.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_sordidulus-ML539737.wav	1	a
+2	Spectrogram 1	1	39.081031722	39.665673791	2769.3	5408.0	Contopus_sordidulus-ML539737.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_sordidulus-ML539737.wav	2	b
+3	Spectrogram 1	1	42.829651353	43.447324048	2795.4	5434.1	Contopus_sordidulus-ML539737.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_sordidulus-ML539737.wav	3	b

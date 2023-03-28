@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.093768792	17.865151764	574.700	3809.800	Conioptilon_mcilhennyi-ML184943.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Conioptilon_mcilhennyi-ML184943.wav	1	a
+2	Spectrogram 1	1	18.203886459	19.003230518	766.200	3831.100	Conioptilon_mcilhennyi-ML184943.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Conioptilon_mcilhennyi-ML184943.wav	2	a
+3	Spectrogram 1	1	20.418865180	21.179579288	447.000	3831.100	Conioptilon_mcilhennyi-ML184943.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Conioptilon_mcilhennyi-ML184943.wav	3	a

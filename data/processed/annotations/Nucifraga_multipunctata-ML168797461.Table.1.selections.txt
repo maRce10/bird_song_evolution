@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.715493531	9.857988400	509.700	3331.900	Nucifraga_multipunctata-ML168797461.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_multipunctata-ML168797461.wav	1	a
+2	Spectrogram 1	1	9.949235113	10.064855950	426.200	3223.500	Nucifraga_multipunctata-ML168797461.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_multipunctata-ML168797461.wav	1	a
+3	Spectrogram 1	1	10.260473905	10.401718818	507.400	3230.800	Nucifraga_multipunctata-ML168797461.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_multipunctata-ML168797461.wav	1	a
+4	Spectrogram 1	1	10.491715577	10.613586188	448.100	3331.900	Nucifraga_multipunctata-ML168797461.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_multipunctata-ML168797461.wav	1	a
+5	Spectrogram 1	1	41.346769119	41.474213957	406.300	3304.800	Nucifraga_multipunctata-ML168797461.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_multipunctata-ML168797461.wav	2	a
+6	Spectrogram 1	1	41.542285775	41.655403544	352.100	3237.100	Nucifraga_multipunctata-ML168797461.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_multipunctata-ML168797461.wav	2	a
+7	Spectrogram 1	1	42.130820108	42.271440044	406.300	3277.700	Nucifraga_multipunctata-ML168797461.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_multipunctata-ML168797461.wav	3	a
+8	Spectrogram 1	1	42.342687478	42.450183606	460.500	3250.600	Nucifraga_multipunctata-ML168797461.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_multipunctata-ML168797461.wav	3	a

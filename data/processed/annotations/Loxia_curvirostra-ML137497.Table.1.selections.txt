@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	242.864236989	242.910197274	1317.7	4458.3	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	1	a
+2	Spectrogram 1	1	243.046310428	243.097573823	1229.9	4326.5	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	1	a
+3	Spectrogram 1	1	243.219544391	243.269040084	1295.8	4502.2	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	1	a
+4	Spectrogram 1	1	243.406920940	243.456416632	1317.7	4568.1	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	1	a
+5	Spectrogram 1	1	243.611974522	243.661470214	1388.8	4449.7	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	1	a
+6	Spectrogram 1	1	244.874366917	244.925630312	1417.1	4591.4	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	2	a
+7	Spectrogram 1	1	245.044066433	245.093562125	1360.4	4619.7	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	2	a
+8	Spectrogram 1	1	245.208462839	245.259726234	1303.7	4591.4	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	2	a
+9	Spectrogram 1	1	245.392303981	245.443567377	1360.4	4421.3	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	2	a
+10	Spectrogram 1	1	245.572609717	245.620337706	1360.4	4478.0	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	2	a
+11	Spectrogram 1	1	245.745844639	245.793572628	1275.4	4393.0	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	2	a
+12	Spectrogram 1	1	247.114305216	247.163800908	1502.1	4591.4	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	3	a
+13	Spectrogram 1	1	247.278701622	247.328197314	1388.8	4478.0	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	3	a
+14	Spectrogram 1	1	247.448401138	247.499664533	1332.1	4449.7	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	3	a
+15	Spectrogram 1	1	247.625171467	247.679970269	1360.4	4506.4	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	3	a
+16	Spectrogram 1	1	247.816083422	247.870882224	1388.8	4534.7	Loxia_curvirostra-ML137497.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_curvirostra-ML137497.wav	3	a

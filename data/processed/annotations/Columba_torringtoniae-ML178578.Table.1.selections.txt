@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.015145219	6.515080626	140.1	490.5	Columba_torringtoniae-ML178578.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_torringtoniae-ML178578.wav	1	a
+2	Spectrogram 1	1	9.227269811	9.748797112	140.1	513.9	Columba_torringtoniae-ML178578.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_torringtoniae-ML178578.wav	2	a
+3	Spectrogram 1	1	12.542798382	13.016159149	186.9	513.9	Columba_torringtoniae-ML178578.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_torringtoniae-ML178578.wav	3	a

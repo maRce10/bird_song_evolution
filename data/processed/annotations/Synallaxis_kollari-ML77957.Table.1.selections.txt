@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.454339037	6.542724202	1339.7	3956.8	Synallaxis_kollari-ML77957.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_kollari-ML77957.wav	1	a
+2	Spectrogram 1	1	6.708888311	6.779596443	1405.6	4743.8	Synallaxis_kollari-ML77957.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_kollari-ML77957.wav	1	b
+3	Spectrogram 1	1	7.281624177	7.380615562	1317.7	4041.0	Synallaxis_kollari-ML77957.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_kollari-ML77957.wav	2	a
+4	Spectrogram 1	1	7.539708858	7.617487803	1317.7	4721.9	Synallaxis_kollari-ML77957.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_kollari-ML77957.wav	2	b
+5	Spectrogram 1	1	8.458914569	8.547299734	1164.0	3909.3	Synallaxis_kollari-ML77957.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_kollari-ML77957.wav	3	a
+6	Spectrogram 1	1	8.706393030	8.787707381	1251.8	4897.6	Synallaxis_kollari-ML77957.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_kollari-ML77957.wav	3	b

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.055769585	22.432318715	3064.0	3535.3	Niltava_vivida-ML236416.wav	E:\Andean\Muscicapidae\Niltava_vivida-ML236416.wav	1	a
+2	Spectrogram 1	1	22.498379965	22.881535220	3352.0	3744.8	Niltava_vivida-ML236416.wav	E:\Andean\Muscicapidae\Niltava_vivida-ML236416.wav	1	a
+3	Spectrogram 1	1	22.927778096	23.172204724	3613.9	3954.3	Niltava_vivida-ML236416.wav	E:\Andean\Muscicapidae\Niltava_vivida-ML236416.wav	1	a
+4	Spectrogram 1	1	23.575178354	23.958333609	3116.3	3535.3	Niltava_vivida-ML236416.wav	E:\Andean\Muscicapidae\Niltava_vivida-ML236416.wav	2	a
+5	Spectrogram 1	1	24.044213235	24.407550114	3325.8	3771.0	Niltava_vivida-ML236416.wav	E:\Andean\Muscicapidae\Niltava_vivida-ML236416.wav	2	a
+6	Spectrogram 1	1	24.493429740	24.671795118	3561.5	3980.5	Niltava_vivida-ML236416.wav	E:\Andean\Muscicapidae\Niltava_vivida-ML236416.wav	2	a
+7	Spectrogram 1	1	27.393518652	27.756855532	3142.5	3430.6	Niltava_vivida-ML236416.wav	E:\Andean\Muscicapidae\Niltava_vivida-ML236416.wav	3	a
+8	Spectrogram 1	1	27.822916782	28.186253662	3404.4	3823.4	Niltava_vivida-ML236416.wav	E:\Andean\Muscicapidae\Niltava_vivida-ML236416.wav	3	a
+9	Spectrogram 1	1	28.278739413	28.576015042	3640.1	3954.3	Niltava_vivida-ML236416.wav	E:\Andean\Muscicapidae\Niltava_vivida-ML236416.wav	3	a

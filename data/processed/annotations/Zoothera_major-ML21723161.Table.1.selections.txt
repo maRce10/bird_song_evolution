@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.671400701	10.721616487	1123.4	1854.9	Zoothera_major-ML21723161.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_major-ML21723161.wav	1	a
+2	Spectrogram 1	1	10.736798003	10.809202159	1149.5	2351.3	Zoothera_major-ML21723161.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_major-ML21723161.wav	1	b
+3	Spectrogram 1	1	10.893284404	10.929486482	836.0	1541.4	Zoothera_major-ML21723161.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_major-ML21723161.wav	1	c
+4	Spectrogram 1	1	14.868802480	15.027624499	1959.4	3265.7	Zoothera_major-ML21723161.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_major-ML21723161.wav	2	d
+5	Spectrogram 1	1	15.038134779	15.397819939	966.6	2769.3	Zoothera_major-ML21723161.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_major-ML21723161.wav	2	e
+6	Spectrogram 1	1	20.074642003	20.402796321	1254.0	2612.6	Zoothera_major-ML21723161.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_major-ML21723161.wav	3	f
+7	Spectrogram 1	1	20.413306601	20.679567045	731.5	1698.2	Zoothera_major-ML21723161.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_major-ML21723161.wav	3	g

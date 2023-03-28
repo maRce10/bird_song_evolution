@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.386701204	2.447348227	1175.7	5695.4	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	1	a
+2	Spectrogram 1	1	2.467280022	2.492971820	1410.8	5747.6	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	1	b
+3	Spectrogram 1	1	2.528006088	2.559536930	1227.9	5643.1	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	1	c
+4	Spectrogram 1	1	2.582893109	2.619095187	1515.3	5434.1	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	1	d
+5	Spectrogram 1	1	4.920570611	4.977135557	1645.9	5643.1	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	2	a
+6	Spectrogram 1	1	4.999844112	5.029571675	1541.4	6061.1	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	2	b
+7	Spectrogram 1	1	5.050705079	5.088074965	1332.4	5538.6	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	2	c
+8	Spectrogram 1	1	5.112598954	5.148801031	1828.8	5434.1	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	2	d
+9	Spectrogram 1	1	7.616600850	7.678494725	1436.9	5669.3	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	3	a
+10	Spectrogram 1	1	7.692508432	7.726374892	1280.2	5747.6	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	3	b
+11	Spectrogram 1	1	7.748563262	7.784765340	1149.5	5695.4	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	3	c
+12	Spectrogram 1	1	7.813960564	7.845491406	1358.5	5408.0	Mecocerculus_leucophrys-ML69351561.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_leucophrys-ML69351561.wav	3	d

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	41.296909617	41.418059936	584.0	1004.4	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	1	a
+2	Spectrogram 1	1	41.678716683	41.801702613	560.6	1121.2	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	1	b
+3	Spectrogram 1	1	41.968743204	42.045838862	560.6	934.3	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	1	c
+4	Spectrogram 1	1	42.108249632	42.332194161	513.9	981.0	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	1	d
+5	Spectrogram 1	1	46.128353898	46.255011050	513.9	981.0	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	1	a
+6	Spectrogram 1	1	46.526681462	46.640489337	513.9	1097.8	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	2	b
+7	Spectrogram 1	1	46.814872372	46.888296808	513.9	934.3	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	2	c
+8	Spectrogram 1	1	46.948871968	47.196679438	420.4	1004.4	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	2	d
+9	Spectrogram 1	1	49.639996810	49.772160794	584.0	981.0	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	3	a
+10	Spectrogram 1	1	50.038324374	50.146625417	607.3	1051.1	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	3	b
+11	Spectrogram 1	1	50.330186506	50.416460218	560.6	957.7	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	3	c
+12	Spectrogram 1	1	50.475199767	50.752377012	397.1	934.3	Patagioenas_nigrirostris-ML57332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_nigrirostris-ML57332.wav	3	d

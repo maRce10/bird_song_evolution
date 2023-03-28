@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	39.956542147	40.128301399	2964.0	4820.0	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	1	a
+2	Spectrogram 1	1	40.181150400	40.379334152	2770.1	5761.8	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	1	b
+3	Spectrogram 1	1	40.424879714	40.602386670	2548.5	6509.7	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	1	c
+4	Spectrogram 1	1	40.639756556	40.826605990	2493.1	7146.9	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	1	d
+5	Spectrogram 1	1	40.867215071	41.029065136	2493.1	7894.8	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	1	e
+6	Spectrogram 1	1	41.095126387	41.240461139	2520.8	8365.7	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	1	f
+7	Spectrogram 1	1	41.306522389	41.461766329	2326.9	8254.9	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	1	g
+8	Spectrogram 1	1	41.607101081	41.752435833	4266.0	7257.7	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	1	h
+9	Spectrogram 1	1	45.461953037	45.567651039	3324.1	3933.5	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	2	i
+10	Spectrogram 1	1	45.645428737	45.807278802	2742.4	5374.0	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	2	j
+11	Spectrogram 1	1	45.866733928	46.038493180	2659.3	6066.5	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	2	k
+12	Spectrogram 1	1	46.094645243	46.253192245	2548.5	6869.8	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	2	l
+13	Spectrogram 1	1	46.322556558	46.474497435	2410.0	7562.4	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	2	m
+14	Spectrogram 1	1	46.524043373	46.679287313	2465.4	8227.2	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	2	n
+15	Spectrogram 1	1	46.732136313	46.893986378	2548.5	8365.7	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	2	o
+16	Spectrogram 1	1	46.953441504	47.095473193	2714.7	8393.4	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	2	p
+17	Spectrogram 1	1	47.211080382	47.363021259	4210.6	7756.3	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	2	r
+18	Spectrogram 1	1	52.470208876	52.595725253	3351.8	4210.6	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	3	s
+19	Spectrogram 1	1	52.641968129	52.817030443	2299.2	5761.8	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	3	t
+20	Spectrogram 1	1	52.866576381	53.054850946	2520.8	6343.5	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	3	u
+21	Spectrogram 1	1	53.101093822	53.269550012	2520.8	7091.5	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	3	v
+22	Spectrogram 1	1	53.332308200	53.487552139	2437.7	7534.7	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	3	m
+23	Spectrogram 1	1	53.547007265	53.702251204	2493.1	8061.0	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	3	w
+24	Spectrogram 1	1	53.765009393	53.920253332	2188.4	8504.2	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	3	x
+25	Spectrogram 1	1	53.992920708	54.131649335	2548.5	8310.3	Thamnistes_rufescens-ML13222.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_rufescens-ML13222.wav	3	y

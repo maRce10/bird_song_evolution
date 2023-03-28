@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.774532863	11.414492173	2631.6	5651.0	Petronia_petronia-ML305371.wav	D:\Andean\Passeridae\Petronia_petronia-ML305371.wav	1	a
+2	Spectrogram 1	1	12.829876634	13.465164709	2576.2	5651.0	Petronia_petronia-ML305371.wav	D:\Andean\Passeridae\Petronia_petronia-ML305371.wav	2	a
+3	Spectrogram 1	1	14.576918840	15.184179499	2520.8	5651.0	Petronia_petronia-ML305371.wav	D:\Andean\Passeridae\Petronia_petronia-ML305371.wav	3	a

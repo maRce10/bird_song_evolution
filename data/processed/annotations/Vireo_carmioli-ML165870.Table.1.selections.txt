@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	26.844010544	26.928238639	1175.3	5562.9	Vireo_carmioli-ML165870.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_carmioli-ML165870.wav	1	a
+2	Spectrogram 1	1	26.943102421	26.964572327	1723.7	6307.2	Vireo_carmioli-ML165870.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_carmioli-ML165870.wav	1	b
+3	Spectrogram 1	1	27.004209078	27.332863801	1292.8	4622.7	Vireo_carmioli-ML165870.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_carmioli-ML165870.wav	1	c
+4	Spectrogram 1	1	28.708888685	28.817889749	705.2	3564.9	Vireo_carmioli-ML165870.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_carmioli-ML165870.wav	2	d
+5	Spectrogram 1	1	28.793116779	28.987997469	1371.1	5171.1	Vireo_carmioli-ML165870.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_carmioli-ML165870.wav	2	e
+6	Spectrogram 1	1	30.214090877	30.285106722	1410.3	5249.5	Vireo_carmioli-ML165870.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_carmioli-ML165870.wav	3	f
+7	Spectrogram 1	1	30.290061316	30.329698066	1292.8	5758.7	Vireo_carmioli-ML165870.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_carmioli-ML165870.wav	3	g
+8	Spectrogram 1	1	30.343736082	30.621193336	861.9	6777.3	Vireo_carmioli-ML165870.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_carmioli-ML165870.wav	3	h

@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.932925472	14.007665245	1335.6	3980.5	Phaethon_lepturus-ML167514.wav	D:\Andean\Phaethontidae\Phaethon_lepturus-ML167514.wav	1	a
+2	Spectrogram 1	1	15.138104319	15.224522182	1283.2	3980.5	Phaethon_lepturus-ML167514.wav	D:\Andean\Phaethontidae\Phaethon_lepturus-ML167514.wav	2	a
+3	Spectrogram 1	1	15.848132167	15.911193851	1073.7	4059.1	Phaethon_lepturus-ML167514.wav	D:\Andean\Phaethontidae\Phaethon_lepturus-ML167514.wav	3	b
+4	Spectrogram 1	1	16.404009233	16.513783275	864.2	4163.8	Phaethon_lepturus-ML167514.wav	D:\Andean\Phaethontidae\Phaethon_lepturus-ML167514.wav	3	a

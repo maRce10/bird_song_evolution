@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	36.994485968	37.153032970	1994.5	3102.5	Eurillas_ansorgei-ML107881.wav	D:\Andean\Pycnonotidae\Eurillas_ansorgei-ML107881.wav	1	a
+2	Spectrogram 1	1	37.304973847	37.463520849	1966.8	3656.5	Eurillas_ansorgei-ML107881.wav	D:\Andean\Pycnonotidae\Eurillas_ansorgei-ML107881.wav	1	b
+3	Spectrogram 1	1	37.622067851	37.866494479	2299.2	3684.2	Eurillas_ansorgei-ML107881.wav	D:\Andean\Pycnonotidae\Eurillas_ansorgei-ML107881.wav	1	c
+4	Spectrogram 1	1	41.552712276	41.698047028	1939.1	3213.3	Eurillas_ansorgei-ML107881.wav	D:\Andean\Pycnonotidae\Eurillas_ansorgei-ML107881.wav	2	a
+5	Spectrogram 1	1	41.836775654	41.988716531	2133.0	3628.8	Eurillas_ansorgei-ML107881.wav	D:\Andean\Pycnonotidae\Eurillas_ansorgei-ML107881.wav	2	b
+6	Spectrogram 1	1	42.160475783	42.378477911	2410.0	3656.5	Eurillas_ansorgei-ML107881.wav	D:\Andean\Pycnonotidae\Eurillas_ansorgei-ML107881.wav	2	c
+7	Spectrogram 1	1	45.864198066	46.009532818	1966.8	3185.6	Eurillas_ansorgei-ML107881.wav	D:\Andean\Pycnonotidae\Eurillas_ansorgei-ML107881.wav	3	a
+8	Spectrogram 1	1	46.161473695	46.339839072	2049.9	3601.1	Eurillas_ansorgei-ML107881.wav	D:\Andean\Pycnonotidae\Eurillas_ansorgei-ML107881.wav	3	b
+9	Spectrogram 1	1	46.491779949	46.742812702	2271.5	3628.8	Eurillas_ansorgei-ML107881.wav	D:\Andean\Pycnonotidae\Eurillas_ansorgei-ML107881.wav	3	c

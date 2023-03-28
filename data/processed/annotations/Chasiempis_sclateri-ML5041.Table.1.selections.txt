@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.060376522	9.118766970	720.2	3767.3	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	1	a
+2	Spectrogram 1	1	9.163143711	9.216862923	775.6	3878.1	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	1	a
+3	Spectrogram 1	1	9.263575281	9.312623258	831.0	3822.7	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	1	a
+4	Spectrogram 1	1	9.356999998	9.417726064	803.3	3684.2	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	1	a
+5	Spectrogram 1	1	9.469109658	9.525164488	831.0	3822.7	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	1	a
+6	Spectrogram 1	1	9.574212465	9.637274149	775.6	3767.3	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	1	a
+7	Spectrogram 1	1	9.686322125	9.740041337	664.8	3739.6	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	1	a
+8	Spectrogram 1	1	9.789089314	9.842808526	803.3	3767.3	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	1	a
+9	Spectrogram 1	1	9.908205828	10.102062115	637.1	4099.7	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	1	b
+10	Spectrogram 1	1	10.394014355	10.555171992	747.9	4958.5	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	1	b
+11	Spectrogram 1	1	14.879007203	14.923383944	1108.0	3961.2	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	2	a
+12	Spectrogram 1	1	14.972431920	15.016808661	1052.6	3878.1	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	2	a
+13	Spectrogram 1	1	15.072863491	15.126582703	997.2	3878.1	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	2	a
+14	Spectrogram 1	1	15.177966297	15.229349892	1108.0	3767.3	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	2	a
+15	Spectrogram 1	1	15.287740340	15.336788316	1052.6	3822.7	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	2	a
+16	Spectrogram 1	1	15.388171910	15.446562358	1052.6	3767.3	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	2	a
+17	Spectrogram 1	1	15.504952806	15.554000783	1135.7	3822.7	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	2	a
+18	Spectrogram 1	1	15.614726849	15.666110443	1080.3	3850.4	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	2	a
+19	Spectrogram 1	1	15.724500891	15.778220103	1163.4	4127.4	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	2	a
+20	Spectrogram 1	1	15.893833190	16.155422398	692.5	4958.5	Chasiempis_sclateri-ML5041.wav	E:\Andean\Monarchidae\Chasiempis_sclateri-ML5041.wav	2	b

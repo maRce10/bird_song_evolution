@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	252.200850401	252.537762781	1724.3	2351.3	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	1	a
+2	Spectrogram 1	1	252.587308719	252.742552658	1541.4	1985.5	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	1	b
+3	Spectrogram 1	1	252.782189409	253.198375289	1619.8	2351.3	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	1	c
+4	Spectrogram 1	1	253.284254915	253.555106043	1776.5	2534.2	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	1	d
+5	Spectrogram 1	1	253.617036837	253.739250151	2847.7	3370.2	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	1	e
+6	Spectrogram 1	1	253.740901683	253.807788699	2612.6	2926.1	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	1	f
+7	Spectrogram 1	1	253.855683106	254.119928109	1698.2	2508.1	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	1	g
+8	Spectrogram 1	1	254.199201610	254.288384299	5434.1	7602.5	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	1	h
+9	Spectrogram 1	1	254.367657800	254.889541682	1358.5	2037.8	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	1	i
+10	Spectrogram 1	1	259.002016547	259.259655425	1698.2	2220.7	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	2	j
+11	Spectrogram 1	1	259.319110551	259.441323865	1541.4	1985.5	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	2	b
+12	Spectrogram 1	1	259.477657553	259.903752621	1619.8	2351.3	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	2	c
+13	Spectrogram 1	1	259.966510809	260.234058875	1854.9	2560.3	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	2	d
+14	Spectrogram 1	1	260.313332376	260.508213066	2717.1	3474.7	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	2	k
+15	Spectrogram 1	1	260.562713349	260.828609883	1672.0	2455.8	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	2	g
+16	Spectrogram 1	1	260.917792572	260.997066073	5773.8	7498.0	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	2	l
+17	Spectrogram 1	1	261.092854887	261.538768330	1515.3	2011.7	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	2	m
+19	Spectrogram 1	1	265.249468721	265.609502538	1724.3	2299.1	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	3	a
+20	Spectrogram 1	1	265.668957664	265.810989354	1619.8	2090.0	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	3	n
+21	Spectrogram 1	1	265.870444479	266.296539547	1672.0	2351.3	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	3	c
+22	Spectrogram 1	1	266.398934486	266.498026362	4963.9	8334.1	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	3	o
+23	Spectrogram 1	1	266.573996801	267.013304119	2325.2	3187.3	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	3	p
+24	Spectrogram 1	1	267.085971495	267.234609309	1750.4	2508.1	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	3	q
+25	Spectrogram 1	1	267.294064435	267.578127813	2560.3	2952.2	Geokichla_spiloptera-ML75086941.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_spiloptera-ML75086941.wav	3	r

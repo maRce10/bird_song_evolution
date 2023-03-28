@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.322401955	22.418190769	3483.0	3954.3	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	1	a
+2	Spectrogram 1	1	22.553616333	22.659314335	3168.7	3587.7	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	1	b
+3	Spectrogram 1	1	22.731981710	22.794739899	3168.7	3718.6	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	1	a
+4	Spectrogram 1	1	22.877316462	22.953286901	2749.7	3194.9	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	1	b
+5	Spectrogram 1	1	22.979711401	23.019348152	2330.7	2697.3	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	1	b
+6	Spectrogram 1	1	23.085409402	23.148167591	1911.7	2933.0	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	1	c
+7	Spectrogram 1	1	23.313320718	23.412412594	2749.7	3325.8	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	1	d
+8	Spectrogram 1	1	23.514807533	23.650233097	1806.9	3325.8	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	1	e
+9	Spectrogram 1	1	28.350647145	28.426617584	3535.3	4163.8	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	2	a
+10	Spectrogram 1	1	28.591770711	28.661135024	2985.4	3483.0	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	2	b
+11	Spectrogram 1	1	28.756923838	28.859318777	3404.4	3692.5	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	2	b
+12	Spectrogram 1	1	28.935289215	29.001350466	3116.3	3456.8	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	2	b
+13	Spectrogram 1	1	29.024471904	29.083927030	2487.8	2880.6	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	2	b
+14	Spectrogram 1	1	29.209443406	29.278807719	2775.9	3273.5	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	2	d
+15	Spectrogram 1	1	29.351475095	29.404324096	2592.6	3404.4	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	2	c
+16	Spectrogram 1	1	29.447263909	29.503415972	2304.5	3064.0	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	2	c
+17	Spectrogram 1	1	32.759436370	32.822194559	3509.1	4190.0	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	3	a
+18	Spectrogram 1	1	32.993953811	33.069924249	3037.8	3640.1	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	3	b
+19	Spectrogram 1	1	33.169016126	33.235077376	3142.5	3744.8	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	3	a
+20	Spectrogram 1	1	33.327563128	33.390321316	2802.1	3273.5	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	3	b
+21	Spectrogram 1	1	33.420048879	33.476200942	1911.7	2697.3	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	3	f
+22	Spectrogram 1	1	33.522443817	33.581898943	2042.6	2985.4	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	3	c
+23	Spectrogram 1	1	33.638051006	33.687596945	4268.6	5132.8	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	3	g
+24	Spectrogram 1	1	33.720627570	33.829628634	2854.5	3247.3	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	3	b
+25	Spectrogram 1	1	33.872568447	33.974963386	2802.1	3325.8	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	3	b
+26	Spectrogram 1	1	33.998084823	34.057539949	1780.8	2959.2	Sheppardia_sharpei-ML278945.wav	E:\Andean\Muscicapidae\Sheppardia_sharpei-ML278945.wav	3	h

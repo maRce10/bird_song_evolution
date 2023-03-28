@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.394791859	3.099741684	122.630	571.000	Neomorphus_radiolosus-ML149013881.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Neomorphus_radiolosus-ML149013881.wav	1	a
+2	Spectrogram 1	1	16.082447739	17.787386337	131.800	571.000	Neomorphus_radiolosus-ML149013881.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Neomorphus_radiolosus-ML149013881.wav	2	a
+3	Spectrogram 1	1	30.504743136	32.107036793	105.800	634.500	Neomorphus_radiolosus-ML149013881.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Neomorphus_radiolosus-ML149013881.wav	3	a

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	138.440554845	138.498945293	1514.8	6096.3	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	1	a
+2	Spectrogram 1	1	138.537482989	138.642585795	1477.9	10345.2	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	1	b
+3	Spectrogram 1	1	138.692801580	138.755863264	1662.6	8276.2	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	1	c
+4	Spectrogram 1	1	138.785058488	138.890161295	1995.1	10973.3	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	1	d
+5	Spectrogram 1	1	138.904175002	138.959062024	8867.3	11749.2	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	1	e
+6	Spectrogram 1	1	144.025475921	144.079195133	1736.5	5911.5	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	2	a
+7	Spectrogram 1	1	144.122404065	144.229842489	1551.8	9754.1	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	2	b
+8	Spectrogram 1	1	144.280058275	144.346623385	1736.5	8165.3	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	2	c
+9	Spectrogram 1	1	144.375818609	144.454061810	1921.3	11268.9	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	2	d
+10	Spectrogram 1	1	144.484424843	144.539311864	8571.7	11453.6	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	2	e
+11	Spectrogram 1	1	148.460347052	148.515234073	1662.6	5652.9	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	3	a
+12	Spectrogram 1	1	148.563698145	148.665297524	1551.8	9717.1	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	3	b
+13	Spectrogram 1	1	148.719016737	148.784414038	1699.6	8424.0	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	3	c
+14	Spectrogram 1	1	148.813609263	148.895355890	2106.0	11047.2	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	3	d
+15	Spectrogram 1	1	148.925718923	148.981773753	8793.4	11084.2	Sporophila_frontalis-ML34003.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_frontalis-ML34003.wav	3	e

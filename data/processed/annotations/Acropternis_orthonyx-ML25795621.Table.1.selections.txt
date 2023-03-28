@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	145.002879867	145.425671872	1024.9	2880.9	Acropternis_orthonyx-ML25795621.wav	D:\Andean\Rhinocryptidae\Acropternis_orthonyx-ML25795621.wav	1	a
+2	Spectrogram 1	1	147.638723775	148.074728030	886.4	2936.3	Acropternis_orthonyx-ML25795621.wav	D:\Andean\Rhinocryptidae\Acropternis_orthonyx-ML25795621.wav	2	a
+3	Spectrogram 1	1	150.188688057	150.598267812	831.0	2880.9	Acropternis_orthonyx-ML25795621.wav	D:\Andean\Rhinocryptidae\Acropternis_orthonyx-ML25795621.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	111.099588864	111.535593120	1776.5	3892.7	Ridgwayia_pinicola-ML135516.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Ridgwayia_pinicola-ML135516.wav	1	a
+2	Spectrogram 1	1	118.249977000	118.689284318	1672.0	3918.8	Ridgwayia_pinicola-ML135516.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Ridgwayia_pinicola-ML135516.wav	2	b
+3	Spectrogram 1	1	125.969820023	126.488400842	1776.5	3709.8	Ridgwayia_pinicola-ML135516.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Ridgwayia_pinicola-ML135516.wav	3	c

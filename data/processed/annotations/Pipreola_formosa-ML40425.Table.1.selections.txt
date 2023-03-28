@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.978167997	7.044249990	6149.400	8338.824	Pipreola_formosa-ML40425.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_formosa-ML40425.wav	1	a
+2	Spectrogram 1	1	19.668662079	19.725566017	5674.300	8432.256	Pipreola_formosa-ML40425.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_formosa-ML40425.wav	2	a

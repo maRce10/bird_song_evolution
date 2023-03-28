@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.343682359	9.885805005	222.5	3905.7	Cacatua_galerita-ML52510021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_galerita-ML52510021.wav	1	a
+2	Spectrogram 1	1	10.279109670	10.826547245	148.3	3683.2	Cacatua_galerita-ML52510021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_galerita-ML52510021.wav	2	a
+3	Spectrogram 1	1	11.227853713	11.833755495	148.3	3460.8	Cacatua_galerita-ML52510021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_galerita-ML52510021.wav	3	b

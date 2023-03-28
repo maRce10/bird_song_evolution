@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.743114574	3.249392930	507.5	4116.8	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	1	a
+2	Spectrogram 1	1	3.410441559	3.647277778	282.0	3778.4	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	1	b
+3	Spectrogram 1	1	3.708855195	4.149370563	394.8	3722.0	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	1	c
+4	Spectrogram 1	1	4.319892641	4.575675758	507.5	3722.0	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	1	b
+5	Spectrogram 1	1	4.684620419	5.091978716	394.8	3609.2	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	1	c
+6	Spectrogram 1	1	25.717516223	27.124323365	620.3	4004.0	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	2	a
+7	Spectrogram 1	1	27.271161821	27.541155112	282.0	3722.0	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	2	b
+8	Spectrogram 1	1	27.593259080	27.995880653	620.3	3665.6	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	2	c
+9	Spectrogram 1	1	28.190086353	28.407975674	394.8	3552.8	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	2	c
+10	Spectrogram 1	1	28.516920335	28.943225530	394.8	3722.0	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	2	c
+11	Spectrogram 1	1	63.094629292	64.563013852	394.8	4004.0	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	3	a
+12	Spectrogram 1	1	64.728799206	64.975108874	394.8	3552.8	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	3	b
+13	Spectrogram 1	1	65.050896464	65.472464935	282.0	3778.4	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	3	c
+14	Spectrogram 1	1	65.657197186	65.898770129	451.2	3552.8	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	3	b
+15	Spectrogram 1	1	65.984031168	66.396126190	394.8	3609.2	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	3	c
+16	Spectrogram 1	1	66.576121717	66.822431385	451.2	3552.8	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	3	b
+17	Spectrogram 1	1	66.921902597	67.386101587	676.7	3496.4	Gavia_pacifica-ML31729281.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_pacifica-ML31729281.wav	3	c

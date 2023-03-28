@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.250861812	17.633147190	1280.2	4545.9	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	1	a
+2	Spectrogram 1	1	17.866341271	18.225689527	1254.0	5747.6	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	1	a
+3	Spectrogram 1	1	18.263918065	18.569746368	1254.0	5695.4	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	1	a
+4	Spectrogram 1	1	18.600329198	18.898511793	1332.4	5747.6	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	1	a
+5	Spectrogram 1	1	18.929094624	19.234922926	1332.4	5956.6	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	1	a
+6	Spectrogram 1	1	19.265505757	19.563688352	1306.3	6008.9	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	1	a
+7	Spectrogram 1	1	19.598094036	19.896276631	1332.4	5826.0	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	1	a
+8	Spectrogram 1	1	20.546161775	20.916978592	1358.5	5721.5	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	2	a
+9	Spectrogram 1	1	20.947561423	21.264858287	1227.9	5590.9	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	2	a
+10	Spectrogram 1	1	22.036632083	22.388334631	1306.3	5434.1	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	3	a
+11	Spectrogram 1	1	22.430386023	22.751505741	1175.7	5564.8	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	3	a
+12	Spectrogram 1	1	22.778265717	23.095562582	1071.1	5669.3	Calidris_falcinellus-ML91140.wav	D:\Andean\Scolopacidae\Calidris_falcinellus-ML91140.wav	3	a

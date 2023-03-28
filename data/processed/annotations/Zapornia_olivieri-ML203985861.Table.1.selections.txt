@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.116435139	1.644925146	443.2	2770.1	Zapornia_olivieri-ML203985861.wav	D:\Andean\Rallidae\Zapornia_olivieri-ML203985861.wav	1	a
+2	Spectrogram 1	1	1.790259898	1.856321148	526.3	2299.2	Zapornia_olivieri-ML203985861.wav	D:\Andean\Rallidae\Zapornia_olivieri-ML203985861.wav	1	b
+3	Spectrogram 1	1	7.492837322	7.955266078	554.0	2493.1	Zapornia_olivieri-ML203985861.wav	D:\Andean\Rallidae\Zapornia_olivieri-ML203985861.wav	2	a
+4	Spectrogram 1	1	8.635696961	9.065095092	554.0	2465.4	Zapornia_olivieri-ML203985861.wav	D:\Andean\Rallidae\Zapornia_olivieri-ML203985861.wav	2	a
+5	Spectrogram 1	1	9.164186968	9.236854344	554.0	2326.9	Zapornia_olivieri-ML203985861.wav	D:\Andean\Rallidae\Zapornia_olivieri-ML203985861.wav	2	b
+6	Spectrogram 1	1	9.659646349	10.016377104	470.9	2465.4	Zapornia_olivieri-ML203985861.wav	D:\Andean\Rallidae\Zapornia_olivieri-ML203985861.wav	2	a
+7	Spectrogram 1	1	10.815718239	11.192267369	443.2	2465.4	Zapornia_olivieri-ML203985861.wav	D:\Andean\Rallidae\Zapornia_olivieri-ML203985861.wav	3	a
+8	Spectrogram 1	1	11.449906247	11.899122752	415.5	2465.4	Zapornia_olivieri-ML203985861.wav	D:\Andean\Rallidae\Zapornia_olivieri-ML203985861.wav	3	a
+9	Spectrogram 1	1	12.143549380	12.229429007	498.6	2382.3	Zapornia_olivieri-ML203985861.wav	D:\Andean\Rallidae\Zapornia_olivieri-ML203985861.wav	3	b

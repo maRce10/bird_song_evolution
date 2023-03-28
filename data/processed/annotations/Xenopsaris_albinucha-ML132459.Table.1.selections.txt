@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	54.962434960	55.016154172	2991.7	5512.5	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	1	a
+2	Spectrogram 1	1	55.046517205	55.807461697	3711.9	5872.6	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	1	b
+3	Spectrogram 1	1	55.889675275	56.419860543	3573.4	5235.5	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	1	c
+4	Spectrogram 1	1	56.431538633	56.466572902	4903.1	5900.3	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	1	d
+5	Spectrogram 1	1	56.478250991	56.545983911	5069.3	6038.8	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	1	e
+6	Spectrogram 1	1	56.557662000	56.686120986	5124.7	6121.9	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	1	f
+7	Spectrogram 1	1	56.702470312	56.961723901	5180.1	5983.4	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	1	g
+8	Spectrogram 1	1	56.980408844	57.022449967	4958.5	5761.8	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	1	h
+9	Spectrogram 1	1	60.163474158	60.667967629	2603.9	4515.3	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	2	i
+10	Spectrogram 1	1	65.512780916	65.893486638	2271.5	4515.3	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	j
+11	Spectrogram 1	1	65.933192142	66.024281241	3739.6	5540.2	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	k
+12	Spectrogram 1	1	66.542788420	66.594172014	2991.7	5567.9	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	a
+13	Spectrogram 1	1	66.624535047	67.341569749	3739.6	5928.0	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	b
+14	Spectrogram 1	1	67.456015027	67.960508499	3462.6	5069.3	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	c
+15	Spectrogram 1	1	67.973070822	67.999495323	4820.0	5595.6	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	l
+16	Spectrogram 1	1	68.015184870	68.049041261	4903.1	5789.5	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	m
+17	Spectrogram 1	1	68.074639995	68.156390793	5069.3	6205.0	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	n
+18	Spectrogram 1	1	68.165474215	68.310808967	5152.4	6094.2	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	o
+19	Spectrogram 1	1	68.370264093	68.491651641	5180.1	6094.2	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	p
+20	Spectrogram 1	1	68.500735063	68.549455236	5069.3	5789.5	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	q
+21	Spectrogram 1	1	68.561015955	68.607258830	5097.0	5817.2	Xenopsaris_albinucha-ML132459.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Xenopsaris_albinucha-ML132459.wav	3	r

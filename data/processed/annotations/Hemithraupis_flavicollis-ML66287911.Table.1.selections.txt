@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.106145946	13.199408537	3286.100	8564.900	Hemithraupis_flavicollis-ML66287911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Hemithraupis_flavicollis-ML66287911.wav	1	a
+2	Spectrogram 1	1	14.438127061	14.528998304	3251.200	7970.600	Hemithraupis_flavicollis-ML66287911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Hemithraupis_flavicollis-ML66287911.wav	2	a
+3	Spectrogram 1	1	15.334601005	15.420689551	4169.500	8584.200	Hemithraupis_flavicollis-ML66287911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Hemithraupis_flavicollis-ML66287911.wav	3	a
+4	Spectrogram 1	1	16.377228951	16.446578058	3258.500	8163.700	Hemithraupis_flavicollis-ML66287911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Hemithraupis_flavicollis-ML66287911.wav	4	a
+5	Spectrogram 1	1	20.553356487	20.634662336	4309.600	8268.900	Hemithraupis_flavicollis-ML66287911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Hemithraupis_flavicollis-ML66287911.wav	5	a

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	90.449979258	90.786891637	5983.4	7257.7	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	1	a
+2	Spectrogram 1	1	90.978469265	91.302169394	2853.2	5983.4	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	1	b
+3	Spectrogram 1	1	91.487140896	91.705143024	1939.1	4321.4	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	1	c
+4	Spectrogram 1	1	91.883508401	92.108116654	1966.8	4266.0	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	1	c
+5	Spectrogram 1	1	93.753041799	94.043711303	6149.6	7257.7	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	2	a
+6	Spectrogram 1	1	94.228682805	94.605231935	2770.1	6343.5	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	2	b
+7	Spectrogram 1	1	94.823234063	95.041236191	1994.5	4210.6	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	2	c
+8	Spectrogram 1	1	95.212995443	95.437603696	1994.5	4182.9	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	2	c
+9	Spectrogram 1	1	101.600314600	101.890984103	6121.9	7313.1	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	3	a
+10	Spectrogram 1	1	102.181653607	102.505353736	2880.9	5429.4	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	3	b
+11	Spectrogram 1	1	102.723355864	102.961176367	2022.2	4044.3	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	3	c
+12	Spectrogram 1	1	103.126329494	103.370756122	1939.1	4182.9	Fraseria_ocreata-ML146996.wav	E:\Andean\Muscicapidae\Fraseria_ocreata-ML146996.wav	3	c

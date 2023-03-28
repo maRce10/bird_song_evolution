@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.191820754	1.251275879	1745.2	4432.2	Pinarochroa_sordida-ML276463.wav	E:\Andean\Muscicapidae\Pinarochroa_sordida-ML276463.wav	1	a
+2	Spectrogram 1	1	1.356973881	1.413125944	2299.2	3157.9	Pinarochroa_sordida-ML276463.wav	E:\Andean\Muscicapidae\Pinarochroa_sordida-ML276463.wav	1	b
+3	Spectrogram 1	1	4.722794610	4.772340549	1523.6	4349.1	Pinarochroa_sordida-ML276463.wav	E:\Andean\Muscicapidae\Pinarochroa_sordida-ML276463.wav	2	a
+4	Spectrogram 1	1	4.874735487	4.927584488	2216.1	2936.3	Pinarochroa_sordida-ML276463.wav	E:\Andean\Muscicapidae\Pinarochroa_sordida-ML276463.wav	2	b
+5	Spectrogram 1	1	11.473050686	11.545718062	1385.1	4349.1	Pinarochroa_sordida-ML276463.wav	E:\Andean\Muscicapidae\Pinarochroa_sordida-ML276463.wav	3	a
+6	Spectrogram 1	1	11.648113000	11.710871189	2354.6	2936.3	Pinarochroa_sordida-ML276463.wav	E:\Andean\Muscicapidae\Pinarochroa_sordida-ML276463.wav	3	b

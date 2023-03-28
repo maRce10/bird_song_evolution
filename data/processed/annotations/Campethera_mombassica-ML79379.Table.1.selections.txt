@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.100048041	11.602113547	1047.5	3404.4	Campethera_mombassica-ML79379.wav	D:\Andean\Picidae\Campethera_mombassica-ML79379.wav	1	a
+2	Spectrogram 1	1	11.793691175	12.315575056	942.8	3430.6	Campethera_mombassica-ML79379.wav	D:\Andean\Picidae\Campethera_mombassica-ML79379.wav	2	a
+3	Spectrogram 1	1	12.480728183	13.015824315	942.8	3561.5	Campethera_mombassica-ML79379.wav	D:\Andean\Picidae\Campethera_mombassica-ML79379.wav	3	a

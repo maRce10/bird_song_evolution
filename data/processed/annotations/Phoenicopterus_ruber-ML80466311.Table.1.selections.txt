@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.635128926	29.905980054	415.5	1357.3	Phoenicopterus_ruber-ML80466311.wav	D:\Andean\Phoenicopteridae\Phoenicopterus_ruber-ML80466311.wav	1	a
+2	Spectrogram 1	1	33.631834601	34.087657232	360.1	1440.5	Phoenicopterus_ruber-ML80466311.wav	D:\Andean\Phoenicopteridae\Phoenicopterus_ruber-ML80466311.wav	2	a
+3	Spectrogram 1	1	50.370283553	50.852530684	387.8	1357.3	Phoenicopterus_ruber-ML80466311.wav	D:\Andean\Phoenicopteridae\Phoenicopterus_ruber-ML80466311.wav	3	a

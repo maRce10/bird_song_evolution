@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.569997536	12.695398634	2049.9	4903.1	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	1	a
+2	Spectrogram 1	1	12.705763365	12.783598528	2354.6	3795.0	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	1	b
+3	Spectrogram 1	1	12.796571056	12.837650726	2603.9	3185.6	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	1	c
+4	Spectrogram 1	1	12.850623253	12.902513362	1772.9	4875.4	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	1	d
+5	Spectrogram 1	1	12.915485889	13.014941932	2077.6	4432.2	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	1	e
+6	Spectrogram 1	1	13.039217828	13.099756289	2105.3	4875.4	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	1	f
+7	Spectrogram 1	1	13.117052992	13.199212331	2077.6	3767.3	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	1	g
+8	Spectrogram 1	1	13.218671122	13.370017274	2243.8	3850.4	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	1	h
+9	Spectrogram 1	1	16.785643768	16.906720689	2133.0	4986.2	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	2	a
+10	Spectrogram 1	1	16.928341568	16.993204204	2603.9	3850.4	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	2	b
+11	Spectrogram 1	1	17.012662995	17.053742665	2687.0	3379.5	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	2	c
+12	Spectrogram 1	1	17.064553104	17.118605301	1606.7	4986.2	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	2	d
+13	Spectrogram 1	1	17.138064092	17.231033871	2271.5	4376.8	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	2	e
+14	Spectrogram 1	1	17.252045322	17.312583782	2659.3	4930.8	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	2	f
+15	Spectrogram 1	1	17.329880485	17.414201913	2354.6	3684.2	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	2	g
+16	Spectrogram 1	1	17.433660704	17.585006855	2243.8	3767.3	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	2	h
+17	Spectrogram 1	1	21.102296697	21.225535707	1772.9	4903.1	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	3	a
+18	Spectrogram 1	1	21.244994498	21.318505486	2216.1	3795.0	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	3	b
+19	Spectrogram 1	1	21.331478013	21.374719771	2659.3	3102.5	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	3	c
+20	Spectrogram 1	1	21.385530210	21.435258231	1689.8	4986.2	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	3	d
+21	Spectrogram 1	1	21.448230758	21.554173065	2160.7	4459.9	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	3	e
+22	Spectrogram 1	1	21.573631856	21.638494492	1966.8	4903.1	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	3	f
+23	Spectrogram 1	1	21.651467019	21.737950535	2049.9	3656.5	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	3	g
+24	Spectrogram 1	1	21.750923062	21.906593389	2077.6	3878.1	Pachysylvia_semibrunnea-ML31433341.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_semibrunnea-ML31433341.wav	3	h

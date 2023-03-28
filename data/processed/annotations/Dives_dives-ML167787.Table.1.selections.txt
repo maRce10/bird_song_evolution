@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.510289076	7.048329496	614.1	2567.8	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	1	a
+2	Spectrogram 1	1	7.344251727	7.586369916	725.7	4019.2	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	1	b
+3	Spectrogram 1	1	7.640173958	8.258920440	1898.0	5191.5	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	1	c
+4	Spectrogram 1	1	9.025628038	9.240844206	558.2	4019.2	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	1	b
+5	Spectrogram 1	1	9.429158353	10.115159887	1842.2	5303.2	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	1	c
+6	Spectrogram 1	1	10.854965464	11.110534664	446.6	3237.7	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	1	b
+7	Spectrogram 1	1	11.285397800	11.971399335	1953.8	6084.7	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	1	c
+8	Spectrogram 1	1	62.415667534	63.007511996	446.6	2456.2	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	2	a
+9	Spectrogram 1	1	63.236179174	63.437944331	614.1	3740.1	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	2	b
+10	Spectrogram 1	1	63.491748373	64.164298898	1674.7	5414.8	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	2	c
+11	Spectrogram 1	1	64.688888307	64.877202453	725.7	3293.5	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	2	b
+12	Spectrogram 1	1	65.092418621	65.684263083	1786.3	6475.4	Dives_dives-ML167787.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Dives_dives-ML167787.wav	2	c

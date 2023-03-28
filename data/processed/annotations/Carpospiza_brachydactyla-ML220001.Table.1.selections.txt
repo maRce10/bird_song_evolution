@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	68.582237366	69.847310320	4190.0	7489.7	Carpospiza_brachydactyla-ML220001.wav	D:\Andean\Passeridae\Carpospiza_brachydactyla-ML220001.wav	1	a
+2	Spectrogram 1	1	72.621882855	73.916683371	4163.8	7332.5	Carpospiza_brachydactyla-ML220001.wav	D:\Andean\Passeridae\Carpospiza_brachydactyla-ML220001.wav	2	a
+3	Spectrogram 1	1	76.763878468	78.025112145	4373.3	7254.0	Carpospiza_brachydactyla-ML220001.wav	D:\Andean\Passeridae\Carpospiza_brachydactyla-ML220001.wav	3	a

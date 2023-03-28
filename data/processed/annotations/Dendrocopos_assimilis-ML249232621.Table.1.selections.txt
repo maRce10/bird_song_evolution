@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.188274565	0.229562847	1335.6	5630.3	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+2	Spectrogram 1	1	0.546656835	0.578035929	1283.2	4897.1	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+3	Spectrogram 1	1	0.620975742	0.644097180	1152.3	4713.8	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+4	Spectrogram 1	1	0.677127805	0.700249243	995.1	4556.7	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+5	Spectrogram 1	1	0.731628337	0.754749775	1047.5	4478.1	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+6	Spectrogram 1	1	0.777871213	0.807598776	1047.5	4163.8	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+7	Spectrogram 1	1	0.822462557	0.845583995	995.1	4163.8	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+8	Spectrogram 1	1	0.863750839	0.891826871	916.6	3744.8	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+9	Spectrogram 1	1	0.909993715	0.936418215	968.9	3692.5	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+10	Spectrogram 1	1	0.962842715	0.990918747	995.1	3771.0	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+11	Spectrogram 1	1	1.004130997	1.033858560	942.8	3483.0	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+12	Spectrogram 1	1	1.055328466	1.081752967	864.2	3587.7	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+13	Spectrogram 1	1	1.104874405	1.136253499	864.2	3483.0	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+14	Spectrogram 1	1	1.152768811	1.175890249	864.2	3456.8	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+15	Spectrogram 1	1	1.200663218	1.233693844	995.1	3613.9	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+16	Spectrogram 1	1	1.253512219	1.291497438	890.4	3692.5	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+17	Spectrogram 1	1	1.303058157	1.327831126	942.8	3640.1	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+18	Spectrogram 1	1	1.344346439	1.372422470	968.9	3823.4	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+19	Spectrogram 1	1	1.390589314	1.420316877	1047.5	3823.4	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+20	Spectrogram 1	1	1.430226065	1.458302096	1021.3	3744.8	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+21	Spectrogram 1	1	1.471514347	1.506196503	1073.7	3430.6	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	1	a
+22	Spectrogram 1	1	2.040284697	2.076618385	1047.5	4425.7	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	2	a
+23	Spectrogram 1	1	2.111300541	2.147634229	968.9	4373.3	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	2	a
+24	Spectrogram 1	1	2.165801073	2.197180168	916.6	4137.6	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	2	a
+25	Spectrogram 1	1	2.410227701	2.459773640	1099.9	3325.8	Dendrocopos_assimilis-ML249232621.wav	D:\Andean\Picidae\Dendrocopos_assimilis-ML249232621.wav	3	a

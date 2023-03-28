@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.990918762	1.063586138	3157.9	4127.4	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	1	a
+2	Spectrogram 1	1	1.238648453	1.317921954	3601.1	4653.8	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	1	a
+3	Spectrogram 1	1	1.545833269	1.621803708	3019.4	3905.8	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	1	b
+4	Spectrogram 1	1	1.806775210	1.902564024	2770.1	4903.1	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	1	a
+5	Spectrogram 1	1	2.193233528	2.302234591	2299.2	4099.7	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	1	b
+6	Spectrogram 1	1	2.516933657	2.599510220	2603.9	5401.7	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	1	a
+7	Spectrogram 1	1	2.867058286	2.989271600	2133.0	4016.6	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	1	a
+8	Spectrogram 1	1	3.190758415	3.306365604	2133.0	4321.4	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	1	b
+9	Spectrogram 1	1	9.668253236	9.727708362	3185.6	3905.8	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	2	a
+10	Spectrogram 1	1	9.906073739	9.962225802	3518.0	4875.4	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	2	a
+11	Spectrogram 1	1	10.200046305	10.292532057	2908.6	4072.0	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	2	b
+12	Spectrogram 1	1	10.437866808	10.523746435	2687.0	4598.4	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	2	a
+13	Spectrogram 1	1	10.817719001	10.916810877	2382.3	3961.2	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	2	b
+14	Spectrogram 1	1	11.118297692	11.207480381	2659.3	5484.8	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	2	a
+15	Spectrogram 1	1	11.494846822	11.626969323	2049.9	3601.1	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	2	b
+16	Spectrogram 1	1	11.815243888	11.930851077	2188.4	4266.0	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	2	b
+17	Spectrogram 1	1	17.825721235	17.891782486	3185.6	3988.9	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	3	a
+18	Spectrogram 1	1	18.099875426	18.156027489	3795.0	4709.2	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	3	a
+19	Spectrogram 1	1	18.331089804	18.430181680	2770.1	3933.5	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	3	b
+20	Spectrogram 1	1	18.575516432	18.661396058	2714.7	4958.5	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	3	a
+21	Spectrogram 1	1	18.909125749	19.028036000	2382.3	3878.1	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	3	b
+22	Spectrogram 1	1	19.229522815	19.331917754	2410.0	5595.6	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	3	a
+23	Spectrogram 1	1	19.625890320	19.748103634	2216.1	3795.0	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	3	a
+24	Spectrogram 1	1	19.959499637	20.085016014	2077.6	4349.1	Cinnyris_coccinigastrus-ML279252.wav	E:\Andean\Nectariniidae\Cinnyris_coccinigastrus-ML279252.wav	3	b

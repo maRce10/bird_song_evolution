@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.273316205	5.442289404	1522.6	3270.8	Indicator_exilis-ML51564.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Indicator_exilis-ML51564.wav	1	a
+2	Spectrogram 1	1	5.592061104	5.745673103	1579.0	3327.2	Indicator_exilis-ML51564.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Indicator_exilis-ML51564.wav	1	a
+3	Spectrogram 1	1	5.834000003	6.041376202	1466.2	2988.9	Indicator_exilis-ML51564.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Indicator_exilis-ML51564.wav	1	b
+4	Spectrogram 1	1	10.121519371	10.263610471	1917.4	3327.2	Indicator_exilis-ML51564.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Indicator_exilis-ML51564.wav	2	a
+5	Spectrogram 1	1	10.455625470	10.586195670	1804.6	3383.6	Indicator_exilis-ML51564.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Indicator_exilis-ML51564.wav	2	a
+6	Spectrogram 1	1	10.705244969	11.008628669	1522.6	3045.3	Indicator_exilis-ML51564.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Indicator_exilis-ML51564.wav	2	b
+7	Spectrogram 1	1	13.036065373	13.178156473	1691.8	3496.4	Indicator_exilis-ML51564.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Indicator_exilis-ML51564.wav	3	a
+8	Spectrogram 1	1	13.381692372	13.519943172	1579.0	3270.8	Indicator_exilis-ML51564.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Indicator_exilis-ML51564.wav	3	a
+9	Spectrogram 1	1	13.592908872	13.846368671	1635.4	3101.7	Indicator_exilis-ML51564.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Indicator_exilis-ML51564.wav	3	b

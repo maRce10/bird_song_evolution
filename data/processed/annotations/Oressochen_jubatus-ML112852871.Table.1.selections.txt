@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.577439755	0.793744023	74.2	1878.7	Oressochen_jubatus-ML112852871.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Oressochen_jubatus-ML112852871.wav	1	a
+2	Spectrogram 1	1	1.315001851	1.586268679	98.9	2521.4	Oressochen_jubatus-ML112852871.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Oressochen_jubatus-ML112852871.wav	2	a
+3	Spectrogram 1	1	3.781449274	4.056262074	98.9	2027.0	Oressochen_jubatus-ML112852871.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Oressochen_jubatus-ML112852871.wav	3	a

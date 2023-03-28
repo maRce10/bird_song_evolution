@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.417001481	12.637072715	981.0	4928.5	Columbina_cruziana-ML81158.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_cruziana-ML81158.wav	1	a
+2	Spectrogram 1	1	14.526989175	14.752873611	1027.8	4788.4	Columbina_cruziana-ML81158.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_cruziana-ML81158.wav	2	
+3	Spectrogram 1	1	16.583698377	16.822870133	1051.1	4811.8	Columbina_cruziana-ML81158.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_cruziana-ML81158.wav	3	a

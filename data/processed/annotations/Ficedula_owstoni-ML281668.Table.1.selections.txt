@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.400498518	1.644925146	2520.8	3019.4	Ficedula_owstoni-ML281668.wav	E:\Andean\Muscicapidae\Ficedula_owstoni-ML281668.wav	1	a
+2	Spectrogram 1	1	1.669966814	1.838131304	2880.9	3434.9	Ficedula_owstoni-ML281668.wav	E:\Andean\Muscicapidae\Ficedula_owstoni-ML281668.wav	1	a
+3	Spectrogram 1	1	1.877836809	2.078699950	2105.3	4044.3	Ficedula_owstoni-ML281668.wav	E:\Andean\Muscicapidae\Ficedula_owstoni-ML281668.wav	1	b
+4	Spectrogram 1	1	9.743804669	10.012400730	2493.1	3074.8	Ficedula_owstoni-ML281668.wav	E:\Andean\Muscicapidae\Ficedula_owstoni-ML281668.wav	2	a
+5	Spectrogram 1	1	10.052106234	10.238955668	2880.9	3518.0	Ficedula_owstoni-ML281668.wav	E:\Andean\Muscicapidae\Ficedula_owstoni-ML281668.wav	2	a
+6	Spectrogram 1	1	10.266983083	10.446825663	2133.0	4072.0	Ficedula_owstoni-ML281668.wav	E:\Andean\Muscicapidae\Ficedula_owstoni-ML281668.wav	2	b
+7	Spectrogram 1	1	16.080605021	16.325844902	2493.1	3019.4	Ficedula_owstoni-ML281668.wav	E:\Andean\Muscicapidae\Ficedula_owstoni-ML281668.wav	3	a
+8	Spectrogram 1	1	16.379564115	16.557071077	2964.0	3407.2	Ficedula_owstoni-ML281668.wav	E:\Andean\Muscicapidae\Ficedula_owstoni-ML281668.wav	3	a
+9	Spectrogram 1	1	16.615461525	16.804646576	2271.5	3822.7	Ficedula_owstoni-ML281668.wav	E:\Andean\Muscicapidae\Ficedula_owstoni-ML281668.wav	3	b

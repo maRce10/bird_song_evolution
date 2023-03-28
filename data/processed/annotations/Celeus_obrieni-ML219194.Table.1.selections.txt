@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	105.319396405	105.585656848	602.3	1885.5	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	1	a
+2	Spectrogram 1	1	105.632369206	105.753821338	680.9	1859.3	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	1	b
+3	Spectrogram 1	1	105.814547404	105.921985829	628.5	1571.3	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	1	b
+4	Spectrogram 1	1	105.982711894	106.094821555	654.7	1649.8	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	1	b
+5	Spectrogram 1	1	106.143869531	106.255979191	680.9	1649.8	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	1	b
+6	Spectrogram 1	1	116.732277483	117.003209162	680.9	1859.3	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	2	a
+7	Spectrogram 1	1	117.063935227	117.183051741	707.1	1571.3	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	2	b
+8	Spectrogram 1	1	117.225092864	117.346544996	707.1	1676.0	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	2	b
+9	Spectrogram 1	1	117.404935444	117.512373868	602.3	1545.1	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	2	b
+10	Spectrogram 1	1	117.580106788	117.680538359	654.7	1492.7	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	2	b
+11	Spectrogram 1	1	125.601335965	125.848911465	523.8	1833.1	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	3	a
+12	Spectrogram 1	1	125.900295059	126.021747191	602.3	1623.6	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	3	b
+13	Spectrogram 1	1	126.091815729	126.189911682	602.3	1440.3	Celeus_obrieni-ML219194.wav	D:\Andean\Picidae\Celeus_obrieni-ML219194.wav	3	b

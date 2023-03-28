@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.534193645	1.669619210	1780.8	6887.4	Ploceus_baglafecht-ML243776021.wav	D:\Andean\Ploceidae\Ploceus_baglafecht-ML243776021.wav	1	a
+2	Spectrogram 1	1	2.326928655	2.444187376	1387.9	6625.5	Ploceus_baglafecht-ML243776021.wav	D:\Andean\Ploceidae\Ploceus_baglafecht-ML243776021.wav	2	a
+3	Spectrogram 1	1	3.796892896	3.897636303	1335.6	6625.5	Ploceus_baglafecht-ML243776021.wav	D:\Andean\Ploceidae\Ploceus_baglafecht-ML243776021.wav	3	a

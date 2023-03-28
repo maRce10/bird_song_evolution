@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	54.580544699	54.617914585	2216.1	2908.6	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	1	a
+2	Spectrogram 1	1	55.353633661	55.451729614	1911.4	2714.7	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	1	b
+3	Spectrogram 1	1	55.589531071	55.729668146	2299.2	2797.8	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	1	c
+4	Spectrogram 1	1	55.825428481	55.921188816	2382.3	2853.2	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	1	c
+5	Spectrogram 1	1	55.956223085	56.082346452	2382.3	2880.9	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	1	c
+6	Spectrogram 1	1	56.208469820	56.509764532	2493.1	3019.4	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	1	c
+7	Spectrogram 1	1	59.923181341	59.979236171	1385.1	4820.0	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	2	d
+8	Spectrogram 1	1	61.634400442	61.748845721	1883.7	2742.4	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	2	b
+9	Spectrogram 1	1	61.877304706	62.010434928	2271.5	2770.1	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	2	c
+10	Spectrogram 1	1	62.106195263	62.218304923	2354.6	2880.9	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	2	c
+11	Spectrogram 1	1	62.241661102	62.365448852	2326.9	2880.9	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	2	c
+12	Spectrogram 1	1	62.505585927	62.781188842	2465.4	3074.8	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	2	c
+13	Spectrogram 1	1	66.184438355	66.221808242	2326.9	2991.7	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	3	a
+14	Spectrogram 1	1	66.780020925	66.889794967	1883.7	2354.6	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	3	b
+15	Spectrogram 1	1	67.011247099	67.167733500	2271.5	2880.9	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	3	c
+16	Spectrogram 1	1	67.244808891	67.354582934	2382.3	2964.0	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	3	c
+17	Spectrogram 1	1	67.394288438	67.513404952	2437.7	2908.6	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	3	c
+18	Spectrogram 1	1	67.644199556	67.922138089	2520.8	3019.4	Illadopsis_albipectus-ML1063.wav	D:\Andean\Pellorneidae\Illadopsis_albipectus-ML1063.wav	3	c

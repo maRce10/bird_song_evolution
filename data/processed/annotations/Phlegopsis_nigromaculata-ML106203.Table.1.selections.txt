@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	32.941969469	33.469182930	2835.0	4725.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	1	a
+2	Spectrogram 1	1	33.860827215	34.327787709	2975.0	3955.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	1	b
+3	Spectrogram 1	1	34.704368752	35.276771938	2170.0	3780.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	1	c
+4	Spectrogram 1	1	35.593100015	36.203161305	2135.0	3395.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	1	d
+5	Spectrogram 1	1	38.349673252	38.854291850	3115.0	4410.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	2	e
+6	Spectrogram 1	1	39.155556685	39.705365008	2590.0	3465.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	2	f
+7	Spectrogram 1	1	39.984034980	40.594096271	2275.0	3150.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	2	g
+8	Spectrogram 1	1	48.846173041	49.554145403	3325.0	4515.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	3	e
+9	Spectrogram 1	1	49.652056474	50.262117764	2660.0	3465.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	3	f
+10	Spectrogram 1	1	50.488066390	51.293949823	2415.0	3255.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	3	g
+11	Spectrogram 1	1	51.497303587	52.107364877	2345.0	2905.0	Phlegopsis_nigromaculata-ML106203.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Phlegopsis_nigromaculata-ML106203.wav	3	h

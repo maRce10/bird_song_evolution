@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.936748163	2.025286550	4238.3	6953.0	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	1	a
+2	Spectrogram 1	1	2.079179482	2.163868374	4238.3	6980.7	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	1	a
+3	Spectrogram 1	1	2.225460296	2.313998683	4266.0	6953.0	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	1	a
+4	Spectrogram 1	1	2.375590605	2.467978488	4155.2	7036.1	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	1	a
+5	Spectrogram 1	1	2.529570410	2.614259302	4099.7	7036.1	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	1	a
+6	Spectrogram 1	1	2.683550214	2.768239106	4016.6	6925.3	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	1	a
+7	Spectrogram 1	1	2.822132038	2.914519921	4099.7	6869.8	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	1	a
+8	Spectrogram 1	1	3.623904489	3.712442876	4155.2	7091.5	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	2	a
+9	Spectrogram 1	1	3.777884293	3.870272176	4155.2	7146.9	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	2	a
+10	Spectrogram 1	1	3.939563088	4.028101475	3961.2	7063.8	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	2	a
+11	Spectrogram 1	1	4.097392387	4.189780270	4127.4	7063.8	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	2	a
+12	Spectrogram 1	1	4.251372192	4.332211589	4127.4	7036.1	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	2	a
+13	Spectrogram 1	1	4.817247973	4.901936865	4238.3	6925.3	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	3	a
+14	Spectrogram 1	1	4.986625758	5.082863136	4072.0	6953.0	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	3	a
+15	Spectrogram 1	1	5.136756067	5.225294455	4072.0	6897.6	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	3	a
+16	Spectrogram 1	1	5.290735872	5.390822744	4072.0	6842.1	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	3	a
+17	Spectrogram 1	1	5.452414666	5.548652044	4155.2	6953.0	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	3	a
+18	Spectrogram 1	1	5.614093461	5.702631848	4099.7	6980.7	Polioptila_paraensis-ML75816471.wav	D:\Andean\Polioptilidae\Polioptila_paraensis-ML75816471.wav	3	a

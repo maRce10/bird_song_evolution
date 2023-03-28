@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.155586705	1.182011205	1676.0	6154.1	Melaniparus_leucomelas-ML277434.wav	E:\Andean\Paridae\Melaniparus_leucomelas-ML277434.wav	1	a
+2	Spectrogram 1	1	1.269542362	1.741880306	1126.1	4451.9	Melaniparus_leucomelas-ML277434.wav	E:\Andean\Paridae\Melaniparus_leucomelas-ML277434.wav	1	b
+3	Spectrogram 1	1	1.981352340	2.042458997	811.8	3325.8	Melaniparus_leucomelas-ML277434.wav	E:\Andean\Paridae\Melaniparus_leucomelas-ML277434.wav	1	c
+4	Spectrogram 1	1	2.187793749	2.252203469	811.8	2697.3	Melaniparus_leucomelas-ML277434.wav	E:\Andean\Paridae\Melaniparus_leucomelas-ML277434.wav	1	d
+5	Spectrogram 1	1	2.272021844	2.577555129	2461.6	4294.8	Melaniparus_leucomelas-ML277434.wav	E:\Andean\Paridae\Melaniparus_leucomelas-ML277434.wav	1	e
+6	Spectrogram 1	1	5.835468180	5.876756462	1780.8	5420.8	Melaniparus_leucomelas-ML277434.wav	E:\Andean\Paridae\Melaniparus_leucomelas-ML277434.wav	2	a
+7	Spectrogram 1	1	5.947772307	6.471307720	916.6	4766.2	Melaniparus_leucomelas-ML277434.wav	E:\Andean\Paridae\Melaniparus_leucomelas-ML277434.wav	2	b
+8	Spectrogram 1	1	10.610412424	10.673170612	759.4	3299.6	Melaniparus_leucomelas-ML277434.wav	E:\Andean\Paridae\Melaniparus_leucomelas-ML277434.wav	3	c
+9	Spectrogram 1	1	10.803641582	10.877960490	838.0	3142.5	Melaniparus_leucomelas-ML277434.wav	E:\Andean\Paridae\Melaniparus_leucomelas-ML277434.wav	3	d
+10	Spectrogram 1	1	10.902733459	11.198357556	2514.0	4321.0	Melaniparus_leucomelas-ML277434.wav	E:\Andean\Paridae\Melaniparus_leucomelas-ML277434.wav	3	e

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	song	element
+1	Spectrogram 1	1	4.912826509	5.707057245	2714.300	5400.600	1	a
+2	Spectrogram 1	1	11.749407834	12.517164212	2582.700	5443.100	2	a
+3	Spectrogram 1	1	21.230670368	21.994014354	2490.400	5316.600	4	a

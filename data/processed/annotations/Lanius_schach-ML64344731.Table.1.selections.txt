@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.620912874	1.698008531	2849.7	9670.2	Lanius_schach-ML64344731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_schach-ML64344731.wav	1	a
+2	Spectrogram 1	1	1.725542695	1.798967130	2148.9	8876.1	Lanius_schach-ML64344731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_schach-ML64344731.wav	1	b
+3	Spectrogram 1	1	2.743601442	3.556777068	1214.6	9810.4	Lanius_schach-ML64344731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_schach-ML64344731.wav	1	c
+4	Spectrogram 1	1	4.021786244	4.220032220	1401.5	7427.9	Lanius_schach-ML64344731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_schach-ML64344731.wav	1	d
+5	Spectrogram 1	1	4.519236796	5.325069979	1167.9	9436.7	Lanius_schach-ML64344731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_schach-ML64344731.wav	1	c
+6	Spectrogram 1	1	5.739918041	5.993232344	1541.6	8876.1	Lanius_schach-ML64344731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_schach-ML64344731.wav	1	e
+7	Spectrogram 1	1	6.158020249	6.332403284	1588.3	7568.0	Lanius_schach-ML64344731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_schach-ML64344731.wav	1	d
+8	Spectrogram 1	1	6.466402879	6.670155689	1635.1	8735.9	Lanius_schach-ML64344731.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_schach-ML64344731.wav	1	g

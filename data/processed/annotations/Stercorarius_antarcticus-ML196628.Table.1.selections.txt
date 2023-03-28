@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.601420965	5.787158572	221.6	2326.9	Stercorarius_antarcticus-ML196628.wav	D:\Andean\Stercorariidae\Stercorarius_antarcticus-ML196628.wav	1	a
+2	Spectrogram 1	1	5.952258667	6.133410160	83.1	2160.7	Stercorarius_antarcticus-ML196628.wav	D:\Andean\Stercorariidae\Stercorarius_antarcticus-ML196628.wav	1	a
+3	Spectrogram 1	1	6.303096369	6.500299261	138.5	2188.4	Stercorarius_antarcticus-ML196628.wav	D:\Andean\Stercorariidae\Stercorarius_antarcticus-ML196628.wav	1	a
+4	Spectrogram 1	1	6.637882673	6.706674380	166.2	2216.1	Stercorarius_antarcticus-ML196628.wav	D:\Andean\Stercorariidae\Stercorarius_antarcticus-ML196628.wav	1	b
+5	Spectrogram 1	1	6.738777176	6.858016133	138.5	2326.9	Stercorarius_antarcticus-ML196628.wav	D:\Andean\Stercorariidae\Stercorarius_antarcticus-ML196628.wav	1	c
+6	Spectrogram 1	1	7.023116229	7.201974665	110.8	2243.8	Stercorarius_antarcticus-ML196628.wav	D:\Andean\Stercorariidae\Stercorarius_antarcticus-ML196628.wav	1	a
+7	Spectrogram 1	1	7.270766371	7.392298386	110.8	2105.3	Stercorarius_antarcticus-ML196628.wav	D:\Andean\Stercorariidae\Stercorarius_antarcticus-ML196628.wav	1	d
+8	Spectrogram 1	1	7.406056727	7.573449879	138.5	2216.1	Stercorarius_antarcticus-ML196628.wav	D:\Andean\Stercorariidae\Stercorarius_antarcticus-ML196628.wav	1	a
+9	Spectrogram 1	1	7.711033292	7.917408410	138.5	2160.7	Stercorarius_antarcticus-ML196628.wav	D:\Andean\Stercorariidae\Stercorarius_antarcticus-ML196628.wav	1	a
+10	Spectrogram 1	1	8.089387676	8.222384975	110.8	2188.4	Stercorarius_antarcticus-ML196628.wav	D:\Andean\Stercorariidae\Stercorarius_antarcticus-ML196628.wav	1	a

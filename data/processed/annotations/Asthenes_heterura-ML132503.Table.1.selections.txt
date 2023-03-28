@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.722784491	9.814705063	2196.2	4106.9	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	1	a
+2	Spectrogram 1	1	9.860665348	9.963192139	2635.5	4897.6	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	1	b
+3	Spectrogram 1	1	9.995010798	10.101072996	2701.3	5007.4	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	1	c
+4	Spectrogram 1	1	10.132891655	10.235418446	2701.3	5622.3	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	1	d
+5	Spectrogram 1	1	10.267237105	10.373299303	2789.2	5666.2	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	1	d
+6	Spectrogram 1	1	10.398047149	10.504109346	3096.7	6237.3	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	1	e
+7	Spectrogram 1	1	10.525321786	10.624313170	3118.6	6391.0	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	1	e
+8	Spectrogram 1	1	10.652207100	10.730375367	3162.5	6784.6	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	1	f
+9	Spectrogram 1	1	12.812840570	12.894154922	2174.3	4546.2	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	2	a
+10	Spectrogram 1	1	12.940115207	13.035571185	2393.9	4853.6	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	2	b
+11	Spectrogram 1	1	13.077996064	13.173452042	2635.5	5380.7	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	2	c
+12	Spectrogram 1	1	13.208806107	13.311332898	2679.4	5556.4	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	2	c
+13	Spectrogram 1	1	13.339616151	13.442142942	2767.2	5710.2	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	2	d
+14	Spectrogram 1	1	13.470426195	13.569417579	2921.0	5820.0	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	2	d
+15	Spectrogram 1	1	13.597700832	13.696692216	3052.7	6083.5	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	2	e
+16	Spectrogram 1	1	13.717904655	13.804338130	3096.7	6125.0	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	2	f
+17	Spectrogram 1	1	13.841643886	13.912352017	3338.2	6391.0	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	2	g
+18	Spectrogram 1	1	16.175317894	16.263703059	2174.3	4590.1	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	3	a
+19	Spectrogram 1	1	16.306127938	16.401583916	2503.7	4677.9	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	3	b
+20	Spectrogram 1	1	16.440473388	16.543000179	2679.4	5249.0	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	3	c
+21	Spectrogram 1	1	16.574818838	16.677345629	2811.2	5578.4	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	3	d
+22	Spectrogram 1	1	16.709164288	16.811691079	2723.3	5600.3	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	3	d
+23	Spectrogram 1	1	16.847045145	16.938965716	2802.4	5798.0	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	3	e
+24	Spectrogram 1	1	16.963713562	17.052098727	3015.4	5748.1	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	3	f
+25	Spectrogram 1	1	17.083917386	17.151090111	3492.0	6215.3	Asthenes_heterura-ML132503.wav	E:\Escritorio\Cantos\Furnariidae\Asthenes_heterura-ML132503.wav	3	g

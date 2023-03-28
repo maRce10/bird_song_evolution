@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.782388829	4.816255289	1178.4	4897.1	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	1	a
+2	Spectrogram 1	1	4.862967647	4.893330680	1257.0	5001.8	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	1	a
+3	Spectrogram 1	1	4.935371803	4.961063600	1335.6	4504.3	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	1	a
+4	Spectrogram 1	1	5.008943767	5.036971182	1466.5	4504.3	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	1	a
+5	Spectrogram 1	1	5.091858203	5.121053427	1414.1	4425.7	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	1	a
+6	Spectrogram 1	1	5.191121965	5.213310335	1335.6	4321.0	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	1	a
+7	Spectrogram 1	1	7.620856416	7.652387258	1414.1	4897.1	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	2	a
+8	Spectrogram 1	1	7.696763999	7.728294841	1466.5	4766.2	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	2	a
+9	Spectrogram 1	1	7.775007199	7.800698996	1361.8	4635.2	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	2	a
+10	Spectrogram 1	1	7.843907928	7.871935343	1492.7	4582.8	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	2	a
+11	Spectrogram 1	1	7.919815510	7.952514161	1414.1	4530.5	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	2	a
+12	Spectrogram 1	1	8.003897756	8.034260788	1545.1	4504.3	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	2	a
+13	Spectrogram 1	1	8.098490281	8.128853314	1440.3	4609.0	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	2	a
+14	Spectrogram 1	1	9.513983949	9.552521644	1335.6	4975.7	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	3	a
+15	Spectrogram 1	1	9.592227149	9.621422373	1440.3	4740.0	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	3	a
+16	Spectrogram 1	1	9.666966922	9.693826529	1387.9	4635.2	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	3	a
+17	Spectrogram 1	1	9.740538887	9.769734111	1361.8	4582.8	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	3	a
+18	Spectrogram 1	1	9.823453323	9.852648547	1152.3	4661.4	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	3	a
+19	Spectrogram 1	1	9.913374613	9.943737646	1361.8	4582.8	Dendrocopos_hyperythrus-ML69043.wav	D:\Andean\Picidae\Dendrocopos_hyperythrus-ML69043.wav	3	a

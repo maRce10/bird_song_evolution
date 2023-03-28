@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.832371760	0.941372824	2493.1	3905.8	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	1	a
+2	Spectrogram 1	1	0.997524888	1.047070826	1440.5	2354.6	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	1	b
+3	Spectrogram 1	1	1.063586138	1.126344327	1523.6	2742.4	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	1	b
+4	Spectrogram 1	1	1.208920890	1.456650581	2437.7	4155.2	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	1	c
+5	Spectrogram 1	1	1.542530207	1.618500645	3047.1	4432.2	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	1	a
+6	Spectrogram 1	1	1.608591458	1.671349646	1385.1	2243.8	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	1	b
+7	Spectrogram 1	1	1.684561896	1.744017022	1440.5	2576.2	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	1	b
+8	Spectrogram 1	1	6.120762374	6.242975689	2659.3	3767.3	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	2	a
+9	Spectrogram 1	1	6.302430814	6.342067565	1551.3	2437.7	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	2	b
+10	Spectrogram 1	1	6.361885940	6.427947191	1468.2	2659.3	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	2	b
+11	Spectrogram 1	1	6.510523754	6.771465695	2465.4	4099.7	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	2	c
+12	Spectrogram 1	1	9.559963841	9.774662906	1440.5	3130.2	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	3	d
+13	Spectrogram 1	1	9.873754782	10.091756910	1689.8	3074.8	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	3	d
+14	Spectrogram 1	1	10.161121224	10.365911101	1994.5	3684.2	Calliope_pectardens-ML30555371.wav	E:\Andean\Muscicapidae\Calliope_pectardens-ML30555371.wav	3	e

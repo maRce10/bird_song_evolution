@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.990731494	1.044508162	2368.5	7387.6	Ptyonoprogne_rupestris-ML59173491.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Ptyonoprogne_rupestris-ML59173491.wav	1	a
+2	Spectrogram 1	1	7.131896419	7.191648273	2312.1	6823.7	Ptyonoprogne_rupestris-ML59173491.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Ptyonoprogne_rupestris-ML59173491.wav	2	a
+3	Spectrogram 1	1	9.674328178	9.738063489	2706.9	7162.0	Ptyonoprogne_rupestris-ML59173491.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Ptyonoprogne_rupestris-ML59173491.wav	3	a

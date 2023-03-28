@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.975966717	1.452331424	526.3	1218.8	Ninox_affinis-ML43154411.wav	D:\Andean\Strigidae\Ninox_affinis-ML43154411.wav	1	a
+2	Spectrogram 1	1	4.821740327	5.286486383	554.0	1163.4	Ninox_affinis-ML43154411.wav	D:\Andean\Strigidae\Ninox_affinis-ML43154411.wav	2	a
+3	Spectrogram 1	1	11.502464877	11.990448236	360.1	1135.7	Ninox_affinis-ML43154411.wav	D:\Andean\Strigidae\Ninox_affinis-ML43154411.wav	3	a

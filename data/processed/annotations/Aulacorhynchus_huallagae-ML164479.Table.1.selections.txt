@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.700259690	5.957898568	193.9	1856.0	Aulacorhynchus_huallagae-ML164479.wav	D:\Andean\Ramphastidae\Aulacorhynchus_huallagae-ML164479.wav	1	a
+2	Spectrogram 1	1	6.466570200	6.710996828	221.6	1745.2	Aulacorhynchus_huallagae-ML164479.wav	D:\Andean\Ramphastidae\Aulacorhynchus_huallagae-ML164479.wav	2	a
+3	Spectrogram 1	1	7.629248214	7.847250342	166.2	1856.0	Aulacorhynchus_huallagae-ML164479.wav	D:\Andean\Ramphastidae\Aulacorhynchus_huallagae-ML164479.wav	3	a

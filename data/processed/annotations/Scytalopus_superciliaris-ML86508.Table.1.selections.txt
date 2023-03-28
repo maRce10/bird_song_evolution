@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.045306185	8.177428686	1218.8	4349.1	Scytalopus_superciliaris-ML86508.wav	D:\Andean\Rhinocryptidae\Scytalopus_superciliaris-ML86508.wav	1	a
+2	Spectrogram 1	1	8.243489937	8.501128815	1274.2	4266.0	Scytalopus_superciliaris-ML86508.wav	D:\Andean\Rhinocryptidae\Scytalopus_superciliaris-ML86508.wav	1	b
+3	Spectrogram 1	1	10.436723465	10.549027591	1301.9	4321.4	Scytalopus_superciliaris-ML86508.wav	D:\Andean\Rhinocryptidae\Scytalopus_superciliaris-ML86508.wav	2	a
+4	Spectrogram 1	1	10.648119467	10.885939970	1274.2	4404.5	Scytalopus_superciliaris-ML86508.wav	D:\Andean\Rhinocryptidae\Scytalopus_superciliaris-ML86508.wav	2	b
+5	Spectrogram 1	1	12.425167115	12.550683491	1357.3	4349.1	Scytalopus_superciliaris-ML86508.wav	D:\Andean\Rhinocryptidae\Scytalopus_superciliaris-ML86508.wav	3	a
+6	Spectrogram 1	1	12.643169242	12.880989745	1274.2	4598.4	Scytalopus_superciliaris-ML86508.wav	D:\Andean\Rhinocryptidae\Scytalopus_superciliaris-ML86508.wav	3	b

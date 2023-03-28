@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	20.779245850	20.928954129	3656.5	4736.9	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	1	a
+2	Spectrogram 1	1	21.292291009	21.404595135	3130.2	4875.4	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	1	b
+3	Spectrogram 1	1	21.698567702	21.845553985	3102.5	5097.0	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	1	c
+4	Spectrogram 1	1	22.094600370	22.225394974	3074.8	5097.0	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	1	c
+5	Spectrogram 1	1	22.486984181	22.636463728	2714.7	5097.0	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	1	d
+6	Spectrogram 1	1	22.879367992	23.014833831	3074.8	5097.0	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	1	c
+7	Spectrogram 1	1	23.234381916	23.369847755	3628.8	5928.0	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	1	e
+8	Spectrogram 1	1	27.843915560	28.015674812	3241.0	4820.0	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	2	f
+9	Spectrogram 1	1	28.319556566	28.517740319	3324.1	4986.2	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	2	g
+10	Spectrogram 1	1	28.755560822	28.953744574	2908.6	5041.6	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	2	h
+11	Spectrogram 1	1	29.178352827	29.389748830	2908.6	5041.6	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	3	h
+12	Spectrogram 1	1	29.586319623	29.735799170	3074.8	5097.0	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	2	c
+13	Spectrogram 1	1	29.978703434	30.142196688	3130.2	5069.3	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	2	c
+14	Spectrogram 1	1	30.314606341	30.499577844	3795.0	5872.6	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	2	i
+15	Spectrogram 1	1	35.652355409	35.837326911	3268.7	4709.2	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	3	j
+16	Spectrogram 1	1	36.154420915	36.365816918	3130.2	5013.9	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	3	k
+17	Spectrogram 1	1	36.619618658	36.750413262	3047.1	5097.0	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	3	c
+18	Spectrogram 1	1	37.040029884	37.180166959	3102.5	5097.0	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	3	c
+19	Spectrogram 1	1	37.449221431	37.634192934	2687.0	5152.4	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	3	l
+20	Spectrogram 1	1	37.872013437	38.043772689	2908.6	5041.6	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	3	h
+21	Spectrogram 1	1	38.241956441	38.440140194	3628.8	5983.4	Sipia_palliata-ML28929781.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_palliata-ML28929781.wav	3	m

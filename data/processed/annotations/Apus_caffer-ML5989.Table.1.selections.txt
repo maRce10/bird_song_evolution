@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	284.340501042	284.672049388	1384.3	4326.0	Apus_caffer-ML5989.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_caffer-ML5989.wav	1	a
+2	Spectrogram 1	1	284.856439912	285.283729492	1606.8	6600.2	Apus_caffer-ML5989.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_caffer-ML5989.wav	1	b
+3	Spectrogram 1	1	285.656056511	285.969874999	1680.9	4746.2	Apus_caffer-ML5989.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_caffer-ML5989.wav	2	a
+4	Spectrogram 1	1	286.063060422	286.252769903	2249.5	5215.9	Apus_caffer-ML5989.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_caffer-ML5989.wav	2	c
+5	Spectrogram 1	1	286.518717774	286.798849532	2076.5	5117.0	Apus_caffer-ML5989.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_caffer-ML5989.wav	3	a
+6	Spectrogram 1	1	287.032883658	287.247414941	2175.3	5215.9	Apus_caffer-ML5989.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_caffer-ML5989.wav	3	c

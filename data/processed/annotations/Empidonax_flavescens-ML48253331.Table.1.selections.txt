@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.456650698	1.730804889	3074.8	6592.8	Empidonax_flavescens-ML48253331.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_flavescens-ML48253331.wav	1	a
+2	Spectrogram 1	1	2.513630712	2.767966527	5623.3	7008.4	Empidonax_flavescens-ML48253331.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_flavescens-ML48253331.wav	1	b
+3	Spectrogram 1	1	4.211404858	4.508680487	3462.6	6537.4	Empidonax_flavescens-ML48253331.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_flavescens-ML48253331.wav	2	c
+4	Spectrogram 1	1	5.208929746	5.446750249	5567.9	6953.0	Empidonax_flavescens-ML48253331.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_flavescens-ML48253331.wav	2	b
+5	Spectrogram 1	1	7.213341700	7.517673995	3573.4	6565.1	Empidonax_flavescens-ML48253331.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_flavescens-ML48253331.wav	3	c
+6	Spectrogram 1	1	8.161771191	8.369864131	5540.2	6953.0	Empidonax_flavescens-ML48253331.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_flavescens-ML48253331.wav	3	b

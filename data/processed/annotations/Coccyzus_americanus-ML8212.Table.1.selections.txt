@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.262859695	24.478476929	472.500	949.400	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	1	a
+2	Spectrogram 1	1	25.062779352	25.272771789	477.700	922.900	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	1	a
+3	Spectrogram 1	1	25.747754683	25.958997076	466.900	912.900	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	1	a
+4	Spectrogram 1	1	26.437703480	26.647695918	466.900	912.900	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	1	a
+5	Spectrogram 1	1	27.106429298	27.307672051	477.700	901.200	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	1	a
+6	Spectrogram 1	1	27.776741442	27.979234149	466.900	879.500	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	1	a
+7	Spectrogram 1	1	28.464686108	28.677178455	499.500	858.100	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	1	a
+8	Spectrogram 1	1	29.252911924	29.470404091	365.100	846.900	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	1	b
+9	Spectrogram 1	1	34.426212532	34.649271147	401.700	977.200	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	2	a
+10	Spectrogram 1	1	35.206012280	35.417254672	456.000	955.500	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	2	a
+11	Spectrogram 1	1	35.901106534	36.112348927	383.400	933.800	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	2	a
+12	Spectrogram 1	1	36.554832991	36.757325699	401.700	933.800	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	2	a
+13	Spectrogram 1	1	37.204260602	37.409253220	419.900	912.900	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	2	a
+14	Spectrogram 1	1	37.875228545	38.071443610	444.000	943.500	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	2	a
+15	Spectrogram 1	1	46.624000613	46.847048452	383.400	1003.500	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	3	a
+16	Spectrogram 1	1	47.386421933	47.600314031	466.900	985.900	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	3	a
+17	Spectrogram 1	1	48.083093283	48.300520788	488.600	967.600	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	3	a
+18	Spectrogram 1	1	48.732977583	48.941566572	365.100	955.500	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	3	a
+19	Spectrogram 1	1	49.379956988	49.581475163	383.400	922.900	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	3	a
+20	Spectrogram 1	1	50.013351559	50.209009831	346.900	931.100	Coccyzus_americanus-ML8212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_americanus-ML8212.wav	3	a

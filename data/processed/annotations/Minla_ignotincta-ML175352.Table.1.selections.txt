@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	98.333791655	98.508785353	2108.4	4063.0	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	1	a
+2	Spectrogram 1	1	98.541284182	98.738777070	2657.4	3579.8	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	1	b
+3	Spectrogram 1	1	98.803774729	98.991267977	3184.5	4238.7	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	1	c
+4	Spectrogram 1	1	99.061265456	99.321256093	2064.4	3799.5	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	1	d
+5	Spectrogram 1	1	100.811148749	100.961143347	2086.4	4063.0	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	2	a
+6	Spectrogram 1	1	101.036140646	101.231133624	2657.4	3689.6	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	2	b
+7	Spectrogram 1	1	101.293631373	101.501123900	3140.6	4260.7	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	2	c
+8	Spectrogram 1	1	101.553622010	101.821112376	2020.5	3821.4	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	2	d
+9	Spectrogram 1	1	111.661823309	111.841816827	2064.4	4106.9	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	3	a
+10	Spectrogram 1	1	111.884315297	112.091807824	2613.5	3667.7	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	3	b
+11	Spectrogram 1	1	112.149305753	112.361798101	3074.7	4216.7	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	3	c
+12	Spectrogram 1	1	112.414296210	112.659287387	2042.5	3777.5	Minla_ignotincta-ML175352.wav	E:\Escritorio\Cantos\Leiothrichidae\Minla_ignotincta-ML175352.wav	3	d

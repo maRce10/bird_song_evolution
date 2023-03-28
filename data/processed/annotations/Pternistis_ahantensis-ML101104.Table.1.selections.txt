@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.399752664	6.482329227	1274.2	1772.9	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	1	a
+2	Spectrogram 1	1	6.620801544	6.685031037	1191.1	1800.6	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	1	a
+3	Spectrogram 1	1	6.725904350	6.755099574	1135.7	1606.7	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	1	b
+4	Spectrogram 1	1	6.780791371	6.808818786	1052.6	1523.6	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	1	b
+5	Spectrogram 1	1	6.843853055	6.861370190	1080.3	1717.5	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	1	b
+6	Spectrogram 1	1	6.903411312	6.923264065	1135.7	1551.3	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	1	b
+7	Spectrogram 1	1	7.258694507	7.319420573	1191.1	1745.2	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	2	a
+8	Spectrogram 1	1	7.481746019	7.551814556	1329.6	1772.9	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	2	a
+9	Spectrogram 1	1	7.582177589	7.621883094	1135.7	1551.3	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	2	b
+10	Spectrogram 1	1	7.634728993	7.667427644	1163.4	1579.0	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	2	b
+11	Spectrogram 1	1	7.696622868	7.730489327	1191.1	1551.3	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	2	b
+12	Spectrogram 1	1	8.070321735	8.135719037	1301.9	1772.9	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	3	a
+13	Spectrogram 1	1	8.288702011	8.359938357	1301.9	1828.3	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	3	a
+14	Spectrogram 1	1	8.384462366	8.423000062	1163.4	1634.4	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	3	b
+15	Spectrogram 1	1	8.434678151	8.476719274	1163.4	1579.0	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	3	b
+16	Spectrogram 1	1	8.501243262	8.544452194	1163.4	1634.4	Pternistis_ahantensis-ML101104.wav	D:\Andean\Phasianidae\Pternistis_ahantensis-ML101104.wav	3	b

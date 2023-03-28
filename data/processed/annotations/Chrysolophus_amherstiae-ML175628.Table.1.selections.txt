@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	48.138364137	48.237456013	1523.6	2077.6	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	1	a
+2	Spectrogram 1	1	48.237456013	48.382790765	2049.9	2797.8	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	1	b
+3	Spectrogram 1	1	48.597165175	48.673135613	1329.6	2105.3	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	1	c
+4	Spectrogram 1	1	48.676438676	48.920865304	2188.4	2880.9	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	1	d
+5	Spectrogram 1	1	49.155382744	49.399809373	1966.8	3296.4	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	1	e
+6	Spectrogram 1	1	56.016743309	56.125744373	1301.9	1717.5	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	2	a
+7	Spectrogram 1	1	56.145562748	56.267776062	1911.4	2631.6	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	2	b
+8	Spectrogram 1	1	56.495687378	56.548536378	609.4	1966.8	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	2	c
+9	Spectrogram 1	1	56.561748629	56.792963007	2022.2	2908.6	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	2	d
+10	Spectrogram 1	1	57.043995760	57.295028513	1966.8	2797.8	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	2	e
+11	Spectrogram 1	1	74.357907849	74.483424226	1218.8	1772.9	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	3	a
+12	Spectrogram 1	1	74.486727288	74.602334477	1994.5	2714.7	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	3	b
+13	Spectrogram 1	1	74.813730480	74.869882543	637.1	1551.3	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	3	c
+14	Spectrogram 1	1	74.869882543	75.117612234	1966.8	2714.7	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	3	d
+15	Spectrogram 1	1	75.352129674	75.553616489	1856.0	2576.2	Chrysolophus_amherstiae-ML175628.wav	D:\Andean\Phasianidae\Chrysolophus_amherstiae-ML175628.wav	3	e

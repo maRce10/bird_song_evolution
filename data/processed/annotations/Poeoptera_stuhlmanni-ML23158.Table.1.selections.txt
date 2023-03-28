@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.912747148	11.176992151	1489.2	3030.6	Poeoptera_stuhlmanni-ML23158.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_stuhlmanni-ML23158.wav	1	a
+2	Spectrogram 1	1	11.375175904	11.665845408	1881.0	3265.7	Poeoptera_stuhlmanni-ML23158.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_stuhlmanni-ML23158.wav	1	b
+3	Spectrogram 1	1	18.214922602	18.446136980	1698.2	3135.1	Poeoptera_stuhlmanni-ML23158.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_stuhlmanni-ML23158.wav	2	a
+4	Spectrogram 1	1	18.697169733	18.994445362	1881.0	3161.2	Poeoptera_stuhlmanni-ML23158.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_stuhlmanni-ML23158.wav	2	b
+5	Spectrogram 1	1	25.117331924	25.328727926	1384.7	2952.2	Poeoptera_stuhlmanni-ML23158.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_stuhlmanni-ML23158.wav	3	a
+6	Spectrogram 1	1	25.559942304	25.870430183	1933.3	3291.8	Poeoptera_stuhlmanni-ML23158.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Poeoptera_stuhlmanni-ML23158.wav	3	b

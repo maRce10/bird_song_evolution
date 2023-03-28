@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	60.171941936	60.740981313	911.0	6470.2	Lanius_cabanisi-ML8912.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_cabanisi-ML8912.wav	1	a
+2	Spectrogram 1	1	61.089747383	61.765252192	770.8	6213.2	Lanius_cabanisi-ML8912.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_cabanisi-ML8912.wav	2	a
+3	Spectrogram 1	1	62.528866324	63.123604254	887.6	5956.3	Lanius_cabanisi-ML8912.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_cabanisi-ML8912.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.554174165	9.619571467	968.9	6756.4	Dryobates_villosus-ML211302481.wav	D:\Andean\Picidae\Dryobates_villosus-ML211302481.wav	1	a
+2	Spectrogram 1	1	11.207791654	11.275524573	942.8	6468.3	Dryobates_villosus-ML211302481.wav	D:\Andean\Picidae\Dryobates_villosus-ML211302481.wav	2	a
+3	Spectrogram 1	1	13.245927321	13.315995858	995.1	7018.3	Dryobates_villosus-ML211302481.wav	D:\Andean\Picidae\Dryobates_villosus-ML211302481.wav	3	a

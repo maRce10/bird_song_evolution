@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	60.177904409	60.248612541	1405.6	3777.5	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	1	a
+2	Spectrogram 1	1	60.356442442	60.504929518	2666.5	3615.2	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	1	b
+3	Spectrogram 1	1	60.596850089	60.764781902	2525.6	3563.9	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	1	b
+4	Spectrogram 1	1	60.913268978	61.629188811	794.8	8512.3	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	1	c
+5	Spectrogram 1	1	66.672665592	66.759283053	1575.0	3743.9	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	2	a
+6	Spectrogram 1	1	66.844132811	66.992619888	2659.4	3640.6	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	2	b
+7	Spectrogram 1	1	67.065095723	67.215350503	2478.7	3563.1	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	2	b
+8	Spectrogram 1	1	67.369140689	68.249456928	774.6	8985.2	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	2	c
+9	Spectrogram 1	1	83.546076703	83.622087945	1859.0	3847.1	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	3	a
+10	Spectrogram 1	1	83.710473109	83.862495592	2736.9	3666.4	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	3	b
+11	Spectrogram 1	1	83.952648460	84.102903240	2478.7	3614.8	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	3	b
+12	Spectrogram 1	1	84.224874767	85.022108951	1213.5	8572.1	Euphonia_trinitatis-ML70731.wav	E:\Escritorio\Cantos\Fringillidae\Euphonia_trinitatis-ML70731.wav	3	c

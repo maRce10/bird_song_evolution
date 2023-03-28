@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.239349008	6.326845857	1317.7	4743.8	Synallaxis_cinnamomea-ML66165.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cinnamomea-ML66165.wav	1	a
+2	Spectrogram 1	1	6.534338384	6.806828571	922.4	3623.8	Synallaxis_cinnamomea-ML66165.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cinnamomea-ML66165.wav	1	b
+3	Spectrogram 1	1	7.739294989	7.831791658	1427.5	4721.9	Synallaxis_cinnamomea-ML66165.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cinnamomea-ML66165.wav	2	a
+4	Spectrogram 1	1	8.041784095	8.314274282	812.6	3513.9	Synallaxis_cinnamomea-ML66165.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cinnamomea-ML66165.wav	2	b
+5	Spectrogram 1	1	9.071263895	9.166260474	1251.8	4634.0	Synallaxis_cinnamomea-ML66165.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cinnamomea-ML66165.wav	3	a
+6	Spectrogram 1	1	9.376252911	9.641243368	944.4	3470.0	Synallaxis_cinnamomea-ML66165.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cinnamomea-ML66165.wav	3	b

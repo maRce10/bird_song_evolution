@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.546888331	25.635470463	1260.7	3090.0	Capito_maculicoronatus-ML200566031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_maculicoronatus-ML200566031.wav	1	a
+2	Spectrogram 1	1	26.090782620	26.201687444	1285.4	3164.1	Capito_maculicoronatus-ML200566031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_maculicoronatus-ML200566031.wav	2	a
+3	Spectrogram 1	1	26.688889169	26.800502655	1409.0	3386.6	Capito_maculicoronatus-ML200566031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_maculicoronatus-ML200566031.wav	3	a

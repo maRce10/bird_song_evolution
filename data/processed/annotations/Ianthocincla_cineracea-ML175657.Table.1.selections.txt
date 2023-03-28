@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.378132693	10.745814978	1603.2	5973.7	Ianthocincla_cineracea-ML175657.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_cineracea-ML175657.wav	1	a
+2	Spectrogram 1	1	10.798846076	11.028647504	1515.4	5973.7	Ianthocincla_cineracea-ML175657.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_cineracea-ML175657.wav	1	b
+3	Spectrogram 1	1	12.973977255	13.327517913	1559.3	6127.4	Ianthocincla_cineracea-ML175657.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_cineracea-ML175657.wav	2	a
+4	Spectrogram 1	1	13.355801166	13.564390154	1493.4	6149.4	Ianthocincla_cineracea-ML175657.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_cineracea-ML175657.wav	2	b
+5	Spectrogram 1	1	14.822994898	15.190677182	1537.4	6193.3	Ianthocincla_cineracea-ML175657.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_cineracea-ML175657.wav	3	a
+6	Spectrogram 1	1	15.268456127	15.515934588	1515.4	6237.3	Ianthocincla_cineracea-ML175657.wav	E:\Escritorio\Cantos\Leiothrichidae\Ianthocincla_cineracea-ML175657.wav	3	b

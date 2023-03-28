@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.458822374	1.543024378	768.700	2032.150	Cuculus_solitarius-ML206457181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_solitarius-ML206457181.wav	1	a
+2	Spectrogram 1	1	1.740123295	1.849720899	702.800	1976.600	Cuculus_solitarius-ML206457181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_solitarius-ML206457181.wav	1	b
+3	Spectrogram 1	1	2.017652712	2.170559047	856.500	1822.900	Cuculus_solitarius-ML206457181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_solitarius-ML206457181.wav	1	c
+4	Spectrogram 1	1	3.872215967	3.959717280	680.800	2020.500	Cuculus_solitarius-ML206457181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_solitarius-ML206457181.wav	2	a
+5	Spectrogram 1	1	4.161235455	4.272600762	812.600	1998.600	Cuculus_solitarius-ML206457181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_solitarius-ML206457181.wav	2	b
+6	Spectrogram 1	1	4.433461762	4.588135800	746.700	1844.800	Cuculus_solitarius-ML206457181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_solitarius-ML206457181.wav	2	c
+7	Spectrogram 1	1	6.241087725	6.329472889	549.100	2020.500	Cuculus_solitarius-ML206457181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_solitarius-ML206457181.wav	3	a
+8	Spectrogram 1	1	6.526571806	6.637937114	746.700	1976.600	Cuculus_solitarius-ML206457181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_solitarius-ML206457181.wav	3	b
+9	Spectrogram 1	1	6.804101223	6.951704448	702.800	1866.800	Cuculus_solitarius-ML206457181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_solitarius-ML206457181.wav	3	c

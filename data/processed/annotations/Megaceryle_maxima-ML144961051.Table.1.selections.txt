@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.203846737	12.290084613	667.4	3782.1	Megaceryle_maxima-ML144961051.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Megaceryle_maxima-ML144961051.wav	1	a
+2	Spectrogram 1	1	12.389849999	12.467633181	791.0	3782.1	Megaceryle_maxima-ML144961051.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Megaceryle_maxima-ML144961051.wav	2	a
+3	Spectrogram 1	1	12.596144525	12.682382401	791.0	3881.0	Megaceryle_maxima-ML144961051.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Megaceryle_maxima-ML144961051.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.352297773	9.799109795	104.5	731.5	Lophostrix_cristata-ML57346.wav	D:\Andean\Strigidae\Lophostrix_cristata-ML57346.wav	1	a
+2	Spectrogram 1	1	22.914432638	24.169558736	104.5	705.4	Lophostrix_cristata-ML57346.wav	D:\Andean\Strigidae\Lophostrix_cristata-ML57346.wav	2	a
+3	Spectrogram 1	1	40.975060800	42.213518556	156.8	757.6	Lophostrix_cristata-ML57346.wav	D:\Andean\Strigidae\Lophostrix_cristata-ML57346.wav	3	a

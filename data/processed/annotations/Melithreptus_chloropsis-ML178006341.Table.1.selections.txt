@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.984473278	6.164779013	1450.7	6039.6	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	a
+2	Spectrogram 1	1	6.437005320	6.649129715	1503.4	6127.4	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	a
+3	Spectrogram 1	1	6.921356022	7.137015823	1493.4	6215.3	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	a
+4	Spectrogram 1	1	7.347092500	7.464588269	2241.9	2743.1	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	b
+5	Spectrogram 1	1	7.597083497	7.704579626	2241.9	2743.1	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	b
+6	Spectrogram 1	1	7.942071073	8.057066931	2162.8	2663.9	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	b
+7	Spectrogram 1	1	8.189562159	8.309557838	2162.8	2690.3	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	b
+8	Spectrogram 1	1	8.552049105	8.664545054	2162.8	2611.2	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	b
+9	Spectrogram 1	1	8.802040102	8.919535870	2162.8	2637.6	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	b
+10	Spectrogram 1	1	9.172026777	9.284522726	2136.4	2611.2	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	b
+11	Spectrogram 1	1	9.427017594	9.539513542	2215.6	2716.7	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	b
+12	Spectrogram 1	1	9.829503054	10.036995581	2294.7	3613.5	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	c
+13	Spectrogram 1	1	10.331984958	10.546977215	2347.4	3639.8	Melithreptus_chloropsis-ML178006341.wav	E:\Escritorio\Cantos\Meliphagidae\Melithreptus_chloropsis-ML178006341.wav	1	c

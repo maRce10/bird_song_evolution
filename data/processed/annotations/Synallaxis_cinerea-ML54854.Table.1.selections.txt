@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.921536929	11.960426402	527.1	4414.4	Synallaxis_cinerea-ML54854.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cinerea-ML54854.wav	1	a
+2	Spectrogram 1	1	12.246794335	12.282148401	593.0	4304.6	Synallaxis_cinerea-ML54854.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cinerea-ML54854.wav	2	a
+3	Spectrogram 1	1	12.561445344	12.595031707	593.0	4282.6	Synallaxis_cinerea-ML54854.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cinerea-ML54854.wav	3	a

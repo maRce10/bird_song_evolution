@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.651137121	19.711712280	1074.5	4648.3	Coracias_garrulus-ML96992.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_garrulus-ML96992.wav	1	a
+2	Spectrogram 1	1	20.069656405	20.124724732	770.8	4461.4	Coracias_garrulus-ML96992.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_garrulus-ML96992.wav	2	a
+3	Spectrogram 1	1	20.475326412	20.539572794	794.2	4578.2	Coracias_garrulus-ML96992.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_garrulus-ML96992.wav		a

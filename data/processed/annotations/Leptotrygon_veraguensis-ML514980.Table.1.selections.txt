@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.727449341	1.944051427	233.6	607.3	Leptotrygon_veraguensis-ML514980.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotrygon_veraguensis-ML514980.wav	1	a
+2	Spectrogram 1	1	8.456664642	8.678773560	233.6	560.6	Leptotrygon_veraguensis-ML514980.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotrygon_veraguensis-ML514980.wav	2	a
+3	Spectrogram 1	1	12.355071988	12.566167241	233.6	584.0	Leptotrygon_veraguensis-ML514980.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotrygon_veraguensis-ML514980.wav	3	a

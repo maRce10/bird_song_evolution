@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.721252214	1.880200455	2027.0	3584.4	Accipiter_poliogaster-ML35027801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_poliogaster-ML35027801.wav	1	a
+2	Spectrogram 1	1	2.008711800	2.208242571	2101.2	3633.8	Accipiter_poliogaster-ML35027801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_poliogaster-ML35027801.wav	2	a
+3	Spectrogram 1	1	2.304626079	2.468647137	2150.6	3708.0	Accipiter_poliogaster-ML35027801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_poliogaster-ML35027801.wav	3	a

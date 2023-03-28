@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.261173483	2.476050332	3296.4	4210.6	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	1	a
+2	Spectrogram 1	1	2.581314161	2.651382699	3988.9	4903.1	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	1	b
+3	Spectrogram 1	1	2.656053935	2.716780001	3185.6	3656.5	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	1	c
+4	Spectrogram 1	1	2.716780001	2.810204718	4349.1	5152.4	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	1	d
+5	Spectrogram 1	1	2.859252694	2.962019883	3019.4	4321.4	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	1	e
+6	Spectrogram 1	1	5.959382235	6.260676947	3047.1	3601.1	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	2	f
+7	Spectrogram 1	1	6.351766046	6.501245593	3462.6	4681.5	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	2	a
+8	Spectrogram 1	1	6.566642895	6.589999074	3684.2	4293.7	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	2	g
+9	Spectrogram 1	1	6.580656603	6.615690871	4681.5	5097.0	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	2	g
+10	Spectrogram 1	1	6.632040197	6.660067612	3795.0	4321.4	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	2	g
+11	Spectrogram 1	1	6.697437499	6.727800532	3684.2	4044.3	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	2	g
+12	Spectrogram 1	1	6.716122442	6.751156711	4459.9	5097.0	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	2	g
+13	Spectrogram 1	1	6.765170418	6.788526598	3711.9	4238.3	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	2	g
+14	Spectrogram 1	1	9.708955771	9.958866889	3268.7	4210.6	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	3	a
+15	Spectrogram 1	1	10.047620370	10.103675200	4016.6	5041.6	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	3	b
+16	Spectrogram 1	1	10.122360143	10.190093063	3185.6	3933.5	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	3	c
+17	Spectrogram 1	1	10.197099917	10.278846544	4598.4	5401.7	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	3	d
+18	Spectrogram 1	1	10.323223285	10.425990473	3157.9	4293.7	Brachypteryx_goodfellowi-ML28866411.wav	E:\Andean\Muscicapidae\Brachypteryx_goodfellowi-ML28866411.wav	3	e

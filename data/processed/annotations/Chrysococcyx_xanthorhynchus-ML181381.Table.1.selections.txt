@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.504733545	7.587815599	2679.400	4502.200	Chrysococcyx_xanthorhynchus-ML181381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_xanthorhynchus-ML181381.wav	1	a
+2	Spectrogram 1	1	7.666340699	7.729978017	2591.500	5975.000	Chrysococcyx_xanthorhynchus-ML181381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_xanthorhynchus-ML181381.wav	1	b
+3	Spectrogram 1	1	8.676013092	8.767933663	2650.000	4425.000	Chrysococcyx_xanthorhynchus-ML181381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_xanthorhynchus-ML181381.wav	2	a
+4	Spectrogram 1	1	8.839316085	8.900511410	2500.000	6000.000	Chrysococcyx_xanthorhynchus-ML181381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_xanthorhynchus-ML181381.wav	2	b
+5	Spectrogram 1	1	9.702605124	9.787454882	2700.000	4400.000	Chrysococcyx_xanthorhynchus-ML181381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_xanthorhynchus-ML181381.wav	3	a
+6	Spectrogram 1	1	9.863466123	9.932406552	2500.000	5975.000	Chrysococcyx_xanthorhynchus-ML181381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_xanthorhynchus-ML181381.wav	3	b

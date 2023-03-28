@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	51.244745882	51.360991696	264.900	662.200	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	1	a
+2	Spectrogram 1	1	52.396281516	52.498808307	329.400	549.100	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	1	a
+3	Spectrogram 1	1	52.940983101	53.050979140	219.600	658.900	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	1	a
+4	Spectrogram 1	1	53.398466626	53.507212709	219.600	658.900	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	1	a
+5	Spectrogram 1	1	53.810951971	53.920948010	231.800	593.000	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	1	a
+6	Spectrogram 1	1	65.308428715	65.412174979	285.500	636.900	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	2	a
+7	Spectrogram 1	1	66.359640285	66.467136414	263.500	636.900	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	2	a
+8	Spectrogram 1	1	66.924619209	67.028365473	263.500	614.900	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	2	a
+9	Spectrogram 1	1	67.379602824	67.487098952	285.500	593.000	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	2	a
+10	Spectrogram 1	1	67.784587667	67.897083616	263.500	549.100	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	2	a
+11	Spectrogram 1	1	77.080860217	77.184606481	285.500	658.900	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	3	a
+12	Spectrogram 1	1	78.102073720	78.213319714	285.500	614.900	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	3	a
+13	Spectrogram 1	1	78.652054107	78.759550236	241.600	593.000	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	3	a
+14	Spectrogram 1	1	79.092038262	79.200784345	241.600	614.900	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	3	a
+15	Spectrogram 1	1	79.489524040	79.608269764	241.600	571.000	Centropus_bengalensis-ML71134.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Centropus_bengalensis-ML71134.wav	3	a

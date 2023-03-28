@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.915223163	26.635290797	1191.1	1662.1	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	1	a
+2	Spectrogram 1	1	26.932566426	27.480874808	1024.9	1634.4	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	1	a
+3	Spectrogram 1	1	27.877242313	28.379307819	1080.3	1662.1	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	1	a
+4	Spectrogram 1	1	29.614653210	30.288477968	1191.1	1662.1	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	2	a
+5	Spectrogram 1	1	30.618784222	31.140668104	1080.3	1634.4	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	2	a
+6	Spectrogram 1	1	31.563460109	31.999464365	1080.3	1689.8	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	2	a
+7	Spectrogram 1	1	32.224072617	32.646864623	1191.1	1745.2	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	2	a
+8	Spectrogram 1	1	34.009004414	34.715859798	1135.7	1662.1	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	3	a
+9	Spectrogram 1	1	35.006529302	35.574656059	1080.3	1579.0	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	3	a
+10	Spectrogram 1	1	35.964417439	36.565574822	1052.6	1523.6	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	3	a
+11	Spectrogram 1	1	36.862850450	37.292248581	1135.7	1634.4	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	3	a
+12	Spectrogram 1	1	37.622554835	38.078377466	1135.7	1662.1	Rhynchortyx_cinctus-ML192529.wav	E:\Andean\Odontophoridae\Rhynchortyx_cinctus-ML192529.wav	3	a

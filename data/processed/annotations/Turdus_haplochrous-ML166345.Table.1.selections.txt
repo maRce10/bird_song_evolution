@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.829505014	6.212546353	1274.7	2032.1	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	1	a
+2	Spectrogram 1	1	6.387717697	6.819807013	1440.9	2050.6	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	1	b
+3	Spectrogram 1	1	7.023005772	7.242553857	1773.5	2216.8	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	1	c
+4	Spectrogram 1	1	7.258903182	7.459766324	1440.9	1847.4	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	1	d
+5	Spectrogram 1	1	7.672307554	7.887184403	1145.4	1755.0	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	1	e
+6	Spectrogram 1	1	7.898862493	8.162787318	1440.9	1810.4	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	1	f
+7	Spectrogram 1	1	8.401050369	8.786692514	1274.7	2013.6	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	1	a
+8	Spectrogram 1	1	9.059959811	9.536425867	1404.0	1976.7	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	1	g
+10	Spectrogram 1	1	15.011621863	15.385320730	1274.7	2032.1	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	2	a
+11	Spectrogram 1	1	15.553485221	15.997252626	1440.9	2050.6	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	2	b
+12	Spectrogram 1	1	16.170088352	16.408321380	1755.0	2253.8	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	2	c
+13	Spectrogram 1	1	16.422335087	16.651225644	1496.4	1884.3	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	2	d
+15	Spectrogram 1	1	20.027751252	20.377875882	1200.8	1995.1	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	3	a
+16	Spectrogram 1	1	20.592574947	21.041791453	1422.5	2013.6	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	3	b
+17	Spectrogram 1	1	21.239975205	21.467886520	1773.5	2198.4	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	3	c
+18	Spectrogram 1	1	21.474492646	21.689191711	1496.4	1865.8	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	3	d
+19	Spectrogram 1	1	21.897284651	22.098771466	1126.9	1718.0	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	3	e
+20	Spectrogram 1	1	22.121892904	22.382834845	1422.5	1755.0	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	3	f
+21	Spectrogram 1	1	22.607443097	22.812232975	1773.5	2179.9	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	3	c
+22	Spectrogram 1	1	22.835354413	23.030235103	1422.5	1810.4	Turdus_haplochrous-ML166345.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_haplochrous-ML166345.wav	3	d

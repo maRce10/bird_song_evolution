@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.387075227	16.747111398	692.5	1440.5	Otus_hartlaubi-ML102107.wav	D:\Andean\Strigidae\Otus_hartlaubi-ML102107.wav	1	a
+2	Spectrogram 1	1	24.807921234	25.147955396	692.5	1523.6	Otus_hartlaubi-ML102107.wav	D:\Andean\Strigidae\Otus_hartlaubi-ML102107.wav	2	a
+3	Spectrogram 1	1	30.024951271	30.424991462	720.2	1495.9	Otus_hartlaubi-ML102107.wav	D:\Andean\Strigidae\Otus_hartlaubi-ML102107.wav	3	a

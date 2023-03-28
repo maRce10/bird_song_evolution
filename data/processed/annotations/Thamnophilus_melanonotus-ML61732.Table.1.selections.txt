@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.496835894	5.780899272	470.9	2410.0	Thamnophilus_melanonotus-ML61732.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_melanonotus-ML61732.wav	1	a
+2	Spectrogram 1	1	7.941102174	8.264802303	470.9	2382.3	Thamnophilus_melanonotus-ML61732.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_melanonotus-ML61732.wav	2	a
+3	Spectrogram 1	1	10.609976708	10.920464587	470.9	2382.3	Thamnophilus_melanonotus-ML61732.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnophilus_melanonotus-ML61732.wav	3	a

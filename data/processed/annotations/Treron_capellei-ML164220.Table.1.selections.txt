@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.265182195	7.823207907	233.6	1238.0	Treron_capellei-ML164220.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_capellei-ML164220.wav	1	a
+2	Spectrogram 1	1	8.103391531	9.092785803	210.2	1121.2	Treron_capellei-ML164220.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_capellei-ML164220.wav	1	b
+3	Spectrogram 1	1	9.434237494	9.738948902	210.2	1097.8	Treron_capellei-ML164220.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_capellei-ML164220.wav	1	c
+4	Spectrogram 1	1	9.898647050	10.557631361	233.6	1167.9	Treron_capellei-ML164220.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_capellei-ML164220.wav	1	d
+5	Spectrogram 1	1	10.791146198	11.095857606	186.9	1121.2	Treron_capellei-ML164220.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_capellei-ML164220.wav	1	e
+6	Spectrogram 1	1	11.328974294	11.846616566	163.5	1074.5	Treron_capellei-ML164220.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_capellei-ML164220.wav	1	f
+7	Spectrogram 1	1	11.927383446	12.237601687	163.5	1191.3	Treron_capellei-ML164220.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_capellei-ML164220.wav	1	e
+8	Spectrogram 1	1	12.477799013	13.180837986	116.8	1027.8	Treron_capellei-ML164220.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_capellei-ML164220.wav	1	g
+9	Spectrogram 1	1	13.335029301	13.753548585	140.1	1074.5	Treron_capellei-ML164220.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_capellei-ML164220.wav	1	h

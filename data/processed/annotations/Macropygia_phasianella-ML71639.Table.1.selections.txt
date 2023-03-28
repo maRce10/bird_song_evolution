@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.044255739	5.141543117	420.4	747.5	Macropygia_phasianella-ML71639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_phasianella-ML71639.wav	1	a
+2	Spectrogram 1	1	5.301241265	5.809705482	397.1	981.0	Macropygia_phasianella-ML71639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_phasianella-ML71639.wav	1	b
+3	Spectrogram 1	1	6.454715716	6.552003094	350.4	794.2	Macropygia_phasianella-ML71639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_phasianella-ML71639.wav	2	a
+4	Spectrogram 1	1	6.720879296	7.247699623	397.1	981.0	Macropygia_phasianella-ML71639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_phasianella-ML71639.wav	2	b
+5	Spectrogram 1	1	7.837492205	7.942122026	327.0	724.1	Macropygia_phasianella-ML71639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_phasianella-ML71639.wav	3	a
+6	Spectrogram 1	1	8.085299676	8.564394119	420.4	981.0	Macropygia_phasianella-ML71639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_phasianella-ML71639.wav	3	b

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.991896973	6.049947792	360.1	1579.0	Fulica_armillata-ML32130.wav	D:\Andean\Rallidae\Fulica_armillata-ML32130.wav	1	a
+2	Spectrogram 1	1	8.234768849	8.283144532	360.1	1523.6	Fulica_armillata-ML32130.wav	D:\Andean\Rallidae\Fulica_armillata-ML32130.wav	2	a
+3	Spectrogram 1	1	10.513852290	10.569484325	332.4	1606.7	Fulica_armillata-ML32130.wav	D:\Andean\Rallidae\Fulica_armillata-ML32130.wav	3	a

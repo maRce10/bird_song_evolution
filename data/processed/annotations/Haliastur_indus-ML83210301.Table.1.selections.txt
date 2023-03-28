@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.992586956	3.920912325	914.6	2867.5	Haliastur_indus-ML83210301.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Haliastur_indus-ML83210301.wav	1	a
+2	Spectrogram 1	1	4.596988107	5.388347438	519.1	3460.8	Haliastur_indus-ML83210301.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Haliastur_indus-ML83210301.wav	2	a
+3	Spectrogram 1	1	6.028199230	6.797576357	568.6	3683.2	Haliastur_indus-ML83210301.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Haliastur_indus-ML83210301.wav	3	a

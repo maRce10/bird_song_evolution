@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.315660257	1.082957496	1551.3	2326.9	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	1	a
+2	Spectrogram 1	1	1.174795397	1.376332330	1412.8	3905.8	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	1	b
+3	Spectrogram 1	1	1.672999361	1.719134321	1911.4	3130.2	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	1	c
+4	Spectrogram 1	1	1.765269282	1.998372241	1385.1	4570.7	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	1	d
+5	Spectrogram 1	1	4.958493248	5.827773031	1606.7	2493.1	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	2	a
+6	Spectrogram 1	1	6.012312874	6.325544975	1191.1	3905.8	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	2	b
+7	Spectrogram 1	1	6.565932401	6.599926647	1828.3	2687.0	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	2	c
+8	Spectrogram 1	1	6.603568881	6.828173230	1440.5	4681.5	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	2	d
+9	Spectrogram 1	1	9.327420909	9.857972956	1606.7	3767.3	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	3	e
+10	Spectrogram 1	1	10.100788538	10.139639031	1800.6	3296.4	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	3	c
+11	Spectrogram 1	1	10.169990979	10.325392951	1523.6	4432.2	Rhytipterna_immunda-ML225365.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_immunda-ML225365.wav	3	f

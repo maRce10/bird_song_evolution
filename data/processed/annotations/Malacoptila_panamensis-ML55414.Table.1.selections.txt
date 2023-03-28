@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.683533788	11.649079025	5166.4	7168.7	Malacoptila_panamensis-ML55414.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_panamensis-ML55414.wav	1	a
+2	Spectrogram 1	1	18.353976513	19.503772583	5042.8	7341.8	Malacoptila_panamensis-ML55414.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_panamensis-ML55414.wav	2	a
+3	Spectrogram 1	1	26.159065797	27.229137949	4746.2	7341.8	Malacoptila_panamensis-ML55414.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_panamensis-ML55414.wav	3	a

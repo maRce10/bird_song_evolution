@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.952777264	8.014066009	186.1	548.5	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	1	a
+2	Spectrogram 1	1	8.124857202	8.188503207	235.1	617.0	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	1	a
+3	Spectrogram 1	1	8.301651659	8.370012183	195.9	626.8	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	1	a
+4	Spectrogram 1	1	8.464302560	8.537377602	225.3	626.8	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	1	a
+5	Spectrogram 1	1	8.641097017	8.700028503	205.7	626.8	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	1	a
+6	Spectrogram 1	1	8.794318880	8.860322144	186.1	626.8	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	1	a
+7	Spectrogram 1	1	24.589594433	24.660312216	176.3	548.5	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	2	a
+8	Spectrogram 1	1	24.773460669	24.837106673	215.5	626.8	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	2	a
+9	Spectrogram 1	1	24.938468829	25.011543871	186.1	666.0	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	2	a
+10	Spectrogram 1	1	25.115263286	25.185981069	186.1	656.2	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	2	a
+11	Spectrogram 1	1	25.287343224	25.348631969	176.3	617.0	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	2	a
+12	Spectrogram 1	1	25.445279606	25.504211091	195.9	626.8	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	2	a
+13	Spectrogram 1	1	43.923484754	43.998917056	195.9	519.1	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	3	a
+14	Spectrogram 1	1	44.102636471	44.166282475	195.9	626.8	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	3	a
+15	Spectrogram 1	1	44.281788187	44.338362414	235.1	646.4	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	3	a
+16	Spectrogram 1	1	44.456225385	44.517514130	225.3	626.8	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	3	a
+17	Spectrogram 1	1	44.621233545	44.684879550	195.9	617.0	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	3	a
+18	Spectrogram 1	1	44.779169927	44.838101412	166.5	587.6	Pulsatrix_perspicillata-ML55161.wav	D:\Andean\Strigidae\Pulsatrix_perspicillata-ML55161.wav	3	a

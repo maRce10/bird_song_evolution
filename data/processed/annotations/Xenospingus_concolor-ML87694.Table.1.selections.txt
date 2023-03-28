@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.569152246	25.709873226	2717.1	4441.4	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	a
+2	Spectrogram 1	1	26.139163495	26.174197764	2377.4	6087.3	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	b
+3	Spectrogram 1	1	26.455055301	26.521036508	4049.5	6139.5	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	c
+4	Spectrogram 1	1	26.654166729	26.699711279	2795.4	5042.2	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	d
+5	Spectrogram 1	1	27.159242907	27.288285797	1933.3	4049.5	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	e
+6	Spectrogram 1	1	27.673427747	27.699852248	2769.3	5512.5	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	b
+7	Spectrogram 1	1	28.028918918	28.099934762	2508.1	6244.0	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	f
+8	Spectrogram 1	1	28.429003699	28.504974137	2664.8	4598.1	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	d
+9	Spectrogram 1	1	28.544610888	28.582596107	2063.9	3657.6	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	g
+10	Spectrogram 1	1	28.959068261	28.988847389	4493.6	5068.4	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	h
+11	Spectrogram 1	1	29.224743645	29.423271169	1541.4	3056.7	Xenospingus_concolor-ML87694.wav	C:\Users\pfmar\Downloads\Thraupidae\Xenospingus_concolor-ML87694.wav	1	i

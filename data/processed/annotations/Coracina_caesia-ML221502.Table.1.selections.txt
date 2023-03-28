@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.671789109	2.450572856	4294.3	8456.5	Coracina_caesia-ML221502.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_caesia-ML221502.wav	1	a
+2	Spectrogram 1	1	4.278118715	5.093245703	4096.1	8588.7	Coracina_caesia-ML221502.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_caesia-ML221502.wav	1	a
+3	Spectrogram 1	1	6.570705299	7.541589036	4030.1	8588.7	Coracina_caesia-ML221502.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_caesia-ML221502.wav	1	a
+4	Spectrogram 1	1	8.906092582	9.856208753	4096.1	8522.6	Coracina_caesia-ML221502.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_caesia-ML221502.wav	1	a
+5	Spectrogram 1	1	12.027583937	12.842710925	4426.5	8588.7	Coracina_caesia-ML221502.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_caesia-ML221502.wav	1	a

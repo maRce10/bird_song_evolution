@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	82.438527404	82.569410237	3933.5	7091.5	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	1	a
+2	Spectrogram 1	1	82.654099130	82.808078934	3850.4	7479.3	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	1	a
+3	Spectrogram 1	1	82.908165807	83.039048641	3905.8	7230.0	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	1	a
+4	Spectrogram 1	1	83.116038543	83.277717338	3711.9	7368.5	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	1	a
+5	Spectrogram 1	1	83.339309259	83.508687044	3601.1	7396.2	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	1	a
+6	Spectrogram 1	1	83.577977956	83.708860790	3905.8	7340.8	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	1	a
+7	Spectrogram 1	1	83.793549682	83.932131506	3933.5	7368.5	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	1	a
+8	Spectrogram 1	1	86.457400299	86.588283132	4598.4	7423.9	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	2	a
+9	Spectrogram 1	1	86.649875054	86.811553849	4293.7	7479.3	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	2	a
+10	Spectrogram 1	1	86.880844761	87.034824565	4321.4	7617.8	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	2	a
+11	Spectrogram 1	1	87.127212448	87.258095282	3961.2	7645.5	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	2	a
+12	Spectrogram 1	1	87.342784174	87.489064988	3684.2	7645.5	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	2	a
+13	Spectrogram 1	1	87.558355900	87.720034695	3434.9	7645.5	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	2	a
+14	Spectrogram 1	1	91.131317028	91.269898852	4182.9	7451.6	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	3	a
+15	Spectrogram 1	1	91.354587744	91.500868559	4044.3	7562.4	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	3	a
+16	Spectrogram 1	1	91.570159471	91.708741295	3933.5	7645.5	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	3	a
+17	Spectrogram 1	1	91.785731197	91.939711001	3905.8	7756.3	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	3	a
+18	Spectrogram 1	1	92.009001913	92.162981718	3850.4	7562.4	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	3	a
+19	Spectrogram 1	1	92.216874649	92.378553444	3656.5	7507.0	Polioptila_attenboroughi-ML101659521.wav	D:\Andean\Polioptilidae\Polioptila_attenboroughi-ML101659521.wav	3	a

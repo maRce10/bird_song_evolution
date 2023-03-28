@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.491523310	1.830505880	1978.3	3545.3	Phyllomyias_griseocapilla-ML70142161.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_griseocapilla-ML70142161.wav	1	a
+2	Spectrogram 1	1	2.064968825	2.350279155	1841.2	3819.6	Phyllomyias_griseocapilla-ML70142161.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_griseocapilla-ML70142161.wav	1	b
+3	Spectrogram 1	1	2.615815502	2.895476122	1919.6	3839.2	Phyllomyias_griseocapilla-ML70142161.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_griseocapilla-ML70142161.wav	1	b
+4	Spectrogram 1	1	12.874585721	13.227692565	1841.2	3623.7	Phyllomyias_griseocapilla-ML70142161.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_griseocapilla-ML70142161.wav	2	c
+5	Spectrogram 1	1	13.445206381	13.744640985	1821.6	3741.2	Phyllomyias_griseocapilla-ML70142161.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_griseocapilla-ML70142161.wav	2	b
+6	Spectrogram 1	1	13.987578494	14.261589405	1900.0	3780.4	Phyllomyias_griseocapilla-ML70142161.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_griseocapilla-ML70142161.wav	2	b

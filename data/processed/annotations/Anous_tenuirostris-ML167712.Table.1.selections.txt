@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.973467460	7.335082806	840.9	4414.7	Anous_tenuirostris-ML167712.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_tenuirostris-ML167712.wav	1	a
+2	Spectrogram 1	1	7.470918012	7.535164393	911.0	4438.0	Anous_tenuirostris-ML167712.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_tenuirostris-ML167712.wav	2	b
+3	Spectrogram 1	1	7.559027335	7.632451771	840.9	4344.6	Anous_tenuirostris-ML167712.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_tenuirostris-ML167712.wav	2	b
+4	Spectrogram 1	1	7.645301047	7.685684487	934.3	4414.7	Anous_tenuirostris-ML167712.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_tenuirostris-ML167712.wav	2	c
+5	Spectrogram 1	1	7.698533763	7.803163584	887.6	4438.0	Anous_tenuirostris-ML167712.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_tenuirostris-ML167712.wav	2	d
+6	Spectrogram 1	1	7.973875397	8.190477483	887.6	4648.3	Anous_tenuirostris-ML167712.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_tenuirostris-ML167712.wav	3	e
+7	Spectrogram 1	1	8.194148704	8.225354090	957.7	4601.5	Anous_tenuirostris-ML167712.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_tenuirostris-ML167712.wav	3	f
+8	Spectrogram 1	1	8.232696533	8.258395086	911.0	4531.5	Anous_tenuirostris-ML167712.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_tenuirostris-ML167712.wav	3	f
+9	Spectrogram 1	1	8.273079973	8.300614136	887.6	4578.2	Anous_tenuirostris-ML167712.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_tenuirostris-ML167712.wav	3	f
+10	Spectrogram 1	1	8.304285358	8.329983911	1261.3	3410.3	Anous_tenuirostris-ML167712.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_tenuirostris-ML167712.wav	3	g

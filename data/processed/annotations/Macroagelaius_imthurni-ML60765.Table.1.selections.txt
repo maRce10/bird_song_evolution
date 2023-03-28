@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	33.299305347	33.433503742	1861.0	3722.0	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	1	a
+2	Spectrogram 1	1	33.433503742	33.519390715	3101.7	4285.9	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	1	b
+3	Spectrogram 1	1	33.626749431	33.916617965	2255.8	4116.8	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	1	c
+4	Spectrogram 1	1	34.050816360	34.206486498	2143.0	4229.5	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	1	d
+5	Spectrogram 1	1	34.244062049	34.539298518	2424.9	4173.1	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	1	c
+6	Spectrogram 1	1	34.732544207	34.925789896	1917.4	3891.2	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	1	c
+7	Spectrogram 1	1	35.043884483	35.328385081	2481.3	4285.9	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	1	c
+8	Spectrogram 1	1	55.852688672	55.986887067	1973.8	3665.6	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	2	a
+9	Spectrogram 1	1	55.949311516	56.051302296	2706.9	4455.1	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	2	b
+10	Spectrogram 1	1	56.169396884	56.432425738	2255.8	4229.5	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	2	c
+11	Spectrogram 1	1	56.614935556	56.754501886	2030.2	4455.1	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	2	d
+12	Spectrogram 1	1	56.797445373	57.076578035	2086.6	4455.1	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	2	e
+13	Spectrogram 1	1	57.259087852	57.516748771	1917.4	5188.2	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	2	f
+14	Spectrogram 1	1	57.618739551	58.026702672	2368.5	4455.1	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	2	c
+15	Spectrogram 1	1	83.262267125	83.460880750	1917.4	4116.8	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	3	g
+16	Spectrogram 1	1	83.638022631	83.766853091	2424.9	4229.5	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	3	d
+17	Spectrogram 1	1	83.793692770	84.083561303	2481.3	4229.5	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	3	c
+18	Spectrogram 1	1	84.244599377	84.448580938	1804.6	3834.8	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	3	g
+19	Spectrogram 1	1	84.512996167	84.835072315	2481.3	4624.3	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	3	c
+20	Spectrogram 1	1	84.878015802	85.039053876	2086.6	5131.8	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	3	f
+21	Spectrogram 1	1	85.076629427	85.484592548	2255.8	4737.1	Macroagelaius_imthurni-ML60765.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Macroagelaius_imthurni-ML60765.wav	3	g

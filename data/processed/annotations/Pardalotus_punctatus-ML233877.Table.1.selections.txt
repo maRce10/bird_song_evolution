@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.304412079	13.327768258	2188.4	2659.3	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	1	a
+2	Spectrogram 1	1	13.432871065	13.472576569	2133.0	2687.0	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	1	a
+3	Spectrogram 1	1	13.713145215	13.846275437	3130.2	3573.4	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	1	b
+4	Spectrogram 1	1	13.888316559	14.012104309	2936.3	3462.6	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	1	b
+5	Spectrogram 1	1	15.369098322	15.397125737	2133.0	2687.0	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	2	a
+6	Spectrogram 1	1	15.497557308	15.534927194	2105.3	2714.7	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	2	a
+7	Spectrogram 1	1	15.777831458	15.901619208	3019.4	3545.7	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	2	b
+8	Spectrogram 1	1	15.950667184	16.074454934	2964.0	3545.7	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	2	b
+9	Spectrogram 1	1	17.370319896	17.398347311	2077.6	2659.3	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	3	a
+10	Spectrogram 1	1	17.503450117	17.536148768	2188.4	2659.3	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	3	a
+11	Spectrogram 1	1	17.795402357	17.912183253	2936.3	3573.4	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	3	b
+12	Spectrogram 1	1	17.977580555	18.075676508	2991.7	3545.7	Pardalotus_punctatus-ML233877.wav	D:\Andean\Pardalotidae\Pardalotus_punctatus-ML233877.wav	3	b

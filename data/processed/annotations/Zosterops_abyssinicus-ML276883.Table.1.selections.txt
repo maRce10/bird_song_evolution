@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.495746959	0.663623564	3933.5	6343.5	Zosterops_abyssinicus-ML276883.wav	D:\Andean\Zosteropidae\Zosterops_abyssinicus-ML276883.wav	1	a
+2	Spectrogram 1	1	0.676704858	0.785715641	3933.5	6398.9	Zosterops_abyssinicus-ML276883.wav	D:\Andean\Zosteropidae\Zosterops_abyssinicus-ML276883.wav	1	b
+3	Spectrogram 1	1	0.877284699	0.933970306	4238.3	6038.8	Zosterops_abyssinicus-ML276883.wav	D:\Andean\Zosteropidae\Zosterops_abyssinicus-ML276883.wav	1	b
+4	Spectrogram 1	1	0.940510953	1.125829284	4044.3	5734.1	Zosterops_abyssinicus-ML276883.wav	D:\Andean\Zosteropidae\Zosterops_abyssinicus-ML276883.wav	1	c
+5	Spectrogram 1	1	1.374373869	1.428879261	4182.9	6094.2	Zosterops_abyssinicus-ML276883.wav	D:\Andean\Zosteropidae\Zosterops_abyssinicus-ML276883.wav	2	b
+6	Spectrogram 1	1	1.585854788	1.751551179	3878.1	5761.8	Zosterops_abyssinicus-ML276883.wav	D:\Andean\Zosteropidae\Zosterops_abyssinicus-ML276883.wav	2	d
+7	Spectrogram 1	1	1.749370963	1.814777433	3961.2	6232.7	Zosterops_abyssinicus-ML276883.wav	D:\Andean\Zosteropidae\Zosterops_abyssinicus-ML276883.wav	2	b
+8	Spectrogram 1	1	1.941229941	2.056781371	2964.0	5512.5	Zosterops_abyssinicus-ML276883.wav	D:\Andean\Zosteropidae\Zosterops_abyssinicus-ML276883.wav	3	e
+9	Spectrogram 1	1	2.089484606	2.220297545	3988.9	6205.0	Zosterops_abyssinicus-ML276883.wav	D:\Andean\Zosteropidae\Zosterops_abyssinicus-ML276883.wav	3	c
+10	Spectrogram 1	1	2.246460133	2.322767681	4210.6	5540.2	Zosterops_abyssinicus-ML276883.wav	D:\Andean\Zosteropidae\Zosterops_abyssinicus-ML276883.wav	3	b

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	243.551382354	243.574154629	653.1	4702.6	Alectrurus_risora-ML132858.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Alectrurus_risora-ML132858.wav	1	a
+2	Spectrogram 1	1	252.507817015	252.532589984	783.8	4598.1	Alectrurus_risora-ML132858.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Alectrurus_risora-ML132858.wav	1	b
+3	Spectrogram 1	1	256.303348239	256.328239591	679.3	5538.6	Alectrurus_risora-ML132858.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Alectrurus_risora-ML132858.wav	1	c

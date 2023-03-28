@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.370368761	17.400731794	831.0	4210.6	Porphyrio_martinica-ML2855.wav	D:\Andean\Rallidae\Porphyrio_martinica-ML2855.wav	1	a
+2	Spectrogram 1	1	17.811800548	17.846834817	692.5	4210.6	Porphyrio_martinica-ML2855.wav	D:\Andean\Rallidae\Porphyrio_martinica-ML2855.wav	2	a
+3	Spectrogram 1	1	18.283595368	18.304615930	747.9	4210.6	Porphyrio_martinica-ML2855.wav	D:\Andean\Rallidae\Porphyrio_martinica-ML2855.wav	3	a

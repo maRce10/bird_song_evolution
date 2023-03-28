@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.976562180	3.117904218	4573.3	6675.6	Amandava_amandava-ML106807031.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Amandava_amandava-ML106807031.wav	1	a
+2	Spectrogram 1	1	5.379284841	5.507777604	4900.4	6605.5	Amandava_amandava-ML106807031.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Amandava_amandava-ML106807031.wav	2	a
+3	Spectrogram 1	1	7.271754496	7.460822418	4830.3	6488.7	Amandava_amandava-ML106807031.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Amandava_amandava-ML106807031.wav	3	a

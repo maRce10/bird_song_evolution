@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.741108067	1.088613286	5857.7	7464.5	Leptopoecile_sophiae-ML111829751.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Aegithalidae\Aegithalidae\Leptopoecile_sophiae-ML111829751.wav	1	a
+2	Spectrogram 1	1	8.956007967	9.308832142	5882.4	7291.5	Leptopoecile_sophiae-ML111829751.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Aegithalidae\Aegithalidae\Leptopoecile_sophiae-ML111829751.wav	2	a
+3	Spectrogram 1	1	18.121049264	18.449051638	5956.6	7291.5	Leptopoecile_sophiae-ML111829751.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Aegithalidae\Aegithalidae\Leptopoecile_sophiae-ML111829751.wav	2	a

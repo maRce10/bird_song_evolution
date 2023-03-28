@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.343830355	17.203728472	642.7	5191.1	Egretta_caerulea-ML135382.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_caerulea-ML135382.wav	1	a
+2	Spectrogram 1	1	17.467903357	18.134546020	642.7	5314.7	Egretta_caerulea-ML135382.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_caerulea-ML135382.wav	2	a
+3	Spectrogram 1	1	18.532232937	19.431136742	593.3	5314.7	Egretta_caerulea-ML135382.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_caerulea-ML135382.wav	3	a

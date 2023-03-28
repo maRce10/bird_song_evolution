@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.765805397	2.780986982	1201.8	3866.6	Muscisaxicola_albifrons-ML517979.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albifrons-ML517979.wav	1	a
+2	Spectrogram 1	1	2.787993767	2.809014328	1254.0	3709.8	Muscisaxicola_albifrons-ML517979.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albifrons-ML517979.wav	1	b
+3	Spectrogram 1	1	3.756107395	3.772456790	1332.4	3945.0	Muscisaxicola_albifrons-ML517979.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albifrons-ML517979.wav	2	a
+4	Spectrogram 1	1	3.778295835	3.792309473	1358.5	3788.2	Muscisaxicola_albifrons-ML517979.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albifrons-ML517979.wav	2	b
+5	Spectrogram 1	1	3.800484136	3.815665652	1358.5	3788.2	Muscisaxicola_albifrons-ML517979.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albifrons-ML517979.wav	2	b
+6	Spectrogram 1	1	4.408364104	4.422377812	3213.4	3657.6	Muscisaxicola_albifrons-ML517979.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albifrons-ML517979.wav	3	c
+7	Spectrogram 1	1	4.439894946	4.453908654	1384.7	3814.3	Muscisaxicola_albifrons-ML517979.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albifrons-ML517979.wav	3	d
+8	Spectrogram 1	1	4.459747698	4.472593597	914.4	3840.5	Muscisaxicola_albifrons-ML517979.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albifrons-ML517979.wav	3	e
+9	Spectrogram 1	1	4.478432642	4.497117585	1410.8	3892.7	Muscisaxicola_albifrons-ML517979.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albifrons-ML517979.wav	3	a

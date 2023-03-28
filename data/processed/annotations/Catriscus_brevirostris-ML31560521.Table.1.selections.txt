@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.365694505	1.516214599	5577.7	8263.9	Catriscus_brevirostris-ML31560521.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Catriscus_brevirostris-ML31560521.wav	1	a
+2	Spectrogram 1	1	2.526657673	2.669835323	5367.5	8100.4	Catriscus_brevirostris-ML31560521.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Catriscus_brevirostris-ML31560521.wav	2	
+3	Spectrogram 1	1	5.066926946	5.208268985	5647.8	8123.8	Catriscus_brevirostris-ML31560521.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Catriscus_brevirostris-ML31560521.wav	3	a

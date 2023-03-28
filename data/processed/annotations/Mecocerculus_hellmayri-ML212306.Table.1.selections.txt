@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	412.089127228	412.480343230	2873.8	6662.0	Mecocerculus_hellmayri-ML212306.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_hellmayri-ML212306.wav	1	a
+2	Spectrogram 1	1	412.562089857	412.858713333	2769.3	6400.8	Mecocerculus_hellmayri-ML212306.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_hellmayri-ML212306.wav	1	b
+3	Spectrogram 1	1	427.555462384	427.909308499	2638.7	6871.0	Mecocerculus_hellmayri-ML212306.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_hellmayri-ML212306.wav	2	a
+4	Spectrogram 1	1	427.987551699	428.332055343	2795.4	6714.3	Mecocerculus_hellmayri-ML212306.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_hellmayri-ML212306.wav	2	b
+5	Spectrogram 1	1	444.241576229	444.604764816	2690.9	6714.3	Mecocerculus_hellmayri-ML212306.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_hellmayri-ML212306.wav	3	a
+6	Spectrogram 1	1	444.685343634	445.036854131	2769.3	6453.0	Mecocerculus_hellmayri-ML212306.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_hellmayri-ML212306.wav	3	b

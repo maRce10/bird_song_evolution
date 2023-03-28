@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	69.494077958	70.197623868	1652.5	4854.1	Trochalopteron_squamatum-ML237467.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_squamatum-ML237467.wav	1	a
+2	Spectrogram 1	1	72.043107178	72.736046869	1652.5	4828.3	Trochalopteron_squamatum-ML237467.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_squamatum-ML237467.wav	2	a
+3	Spectrogram 1	1	74.254708189	74.947647879	1652.5	4854.1	Trochalopteron_squamatum-ML237467.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_squamatum-ML237467.wav	3	a

@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	20.826927689	20.916547442	3608.2	9985.9	Cyanicterus_cyanicterus-ML113104.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanicterus_cyanicterus-ML113104.wav	1	a
+2	Spectrogram 1	1	26.270449985	26.442925737	3039.7	8774.7	Cyanicterus_cyanicterus-ML113104.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanicterus_cyanicterus-ML113104.wav	2	a
+4	Spectrogram 1	1	43.056913940	43.163443081	2668.9	9763.4	Cyanicterus_cyanicterus-ML113104.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanicterus_cyanicterus-ML113104.wav	3	a
+5	Spectrogram 1	1	51.835160793	51.997490912	2169.4	8626.3	Cyanicterus_cyanicterus-ML113104.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanicterus_cyanicterus-ML113104.wav	4	a
+6	Spectrogram 1	1	52.229746021	52.407294589	2589.6	8478.0	Cyanicterus_cyanicterus-ML113104.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanicterus_cyanicterus-ML113104.wav	5	a

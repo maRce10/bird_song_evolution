@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.961247837	24.045330082	1579.0	4432.2	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	1	a
+2	Spectrogram 1	1	24.507782431	24.582522204	1579.0	4432.2	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	1	a
+3	Spectrogram 1	1	24.918851185	24.988919723	1579.0	4404.5	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	1	a
+4	Spectrogram 1	1	25.937180599	26.002577901	1745.2	4404.5	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	1	a
+5	Spectrogram 1	1	26.287523287	26.362263061	1856.0	4432.2	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	1	a
+6	Spectrogram 1	1	26.619181032	26.684578334	1939.1	4321.4	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	1	a
+7	Spectrogram 1	1	26.936825070	27.011564843	1883.7	4210.6	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	1	a
+8	Spectrogram 1	1	27.221770456	27.282496522	1939.1	4266.0	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	1	a
+9	Spectrogram 1	1	27.460003484	28.464319191	1218.8	3933.5	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	1	b
+10	Spectrogram 1	1	29.746219582	29.825630592	1579.0	4376.8	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	2	a
+11	Spectrogram 1	1	30.297425412	30.376836421	1634.4	4432.2	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	2	a
+12	Spectrogram 1	1	30.759877761	30.829946298	1357.3	4321.4	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	2	a
+13	Spectrogram 1	1	31.217658873	31.283056175	1357.3	4266.0	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	2	a
+14	Spectrogram 1	1	31.553987854	31.619385156	1495.9	4321.4	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	2	a
+15	Spectrogram 1	1	31.778207174	32.805879060	1301.9	4044.3	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	2	b
+16	Spectrogram 1	1	34.364084781	34.424810847	1495.9	4820.0	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	3	a
+17	Spectrogram 1	1	34.835879601	34.901276903	1523.6	4736.9	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	3	a
+18	Spectrogram 1	1	35.359058016	35.429126553	1634.4	4570.7	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	3	a
+19	Spectrogram 1	1	35.830852836	35.886907666	1856.0	4653.8	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	3	a
+20	Spectrogram 1	1	36.232579118	36.293305184	2160.7	4487.6	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	3	a
+21	Spectrogram 1	1	36.596935514	36.662332816	2022.2	4459.9	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	3	a
+22	Spectrogram 1	1	36.849182250	37.848826720	1523.6	3905.8	Rallus_aquaticus-ML83466.wav	D:\Andean\Rallidae\Rallus_aquaticus-ML83466.wav	3	b

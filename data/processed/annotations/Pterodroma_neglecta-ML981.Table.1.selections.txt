@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	54.084383224	54.190081226	443.2	886.4	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	1	a
+2	Spectrogram 1	1	54.302385352	55.108332612	581.7	3988.9	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	1	b
+3	Spectrogram 1	1	55.405608241	55.491487867	332.4	3628.8	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	1	c
+4	Spectrogram 1	1	55.709489995	57.493143767	443.2	3102.5	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	1	d
+5	Spectrogram 1	1	57.658296894	57.797025521	360.1	3518.0	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	1	e
+6	Spectrogram 1	1	57.935754148	59.547648668	470.9	3213.3	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	1	d
+7	Spectrogram 1	1	59.620316044	59.996865174	443.2	914.1	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	1	f
+8	Spectrogram 1	1	62.938572183	64.801499456	692.5	2770.1	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	2	d
+9	Spectrogram 1	1	64.953440333	65.581022216	720.2	3047.1	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	2	b
+10	Spectrogram 1	1	65.950965221	66.201997974	609.4	1135.7	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	2	f
+11	Spectrogram 1	1	66.690851230	66.822973732	526.3	1052.6	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	2	e
+12	Spectrogram 1	1	67.007945234	67.952621121	720.2	2077.6	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	2	b
+13	Spectrogram 1	1	68.474505002	68.619839754	775.6	3047.1	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	2	g
+14	Spectrogram 1	1	76.836057579	76.908724955	387.8	747.9	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	3	a
+15	Spectrogram 1	1	77.087090333	77.840188592	304.7	1385.1	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	3	b
+16	Spectrogram 1	1	78.355466349	78.461164350	360.1	3157.9	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	3	c
+17	Spectrogram 1	1	78.679166478	80.700640753	443.2	3102.5	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	3	d
+18	Spectrogram 1	1	80.879006130	80.997916382	387.8	3656.5	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	3	c
+19	Spectrogram 1	1	81.156463384	82.986360032	415.5	3185.6	Pterodroma_neglecta-ML981.wav	D:\Andean\Procellariidae\Pterodroma_neglecta-ML981.wav	3	d

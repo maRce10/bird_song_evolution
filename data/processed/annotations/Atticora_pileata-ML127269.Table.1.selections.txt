@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	103.682637764	103.794065448	3101.7	8966.6	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	a
+2	Spectrogram 1	1	103.961206973	104.035492095	5019.1	8177.1	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	b
+3	Spectrogram 1	1	104.007635174	104.128348498	2312.1	5188.2	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	c
+4	Spectrogram 1	1	104.125253284	104.233585754	2481.3	8910.2	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	a
+5	Spectrogram 1	1	104.258347462	104.357394291	1973.8	10996.8	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	d
+6	Spectrogram 1	1	104.369775145	104.391441639	4567.9	9023.0	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	e
+7	Spectrogram 1	1	104.385251212	104.546202310	2932.5	10827.6	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	f
+9	Spectrogram 1	1	104.558583164	104.657629994	1127.9	9361.4	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	g
+10	Spectrogram 1	1	104.657629994	104.685486915	1071.5	8741.0	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	h
+11	Spectrogram 1	1	104.707153409	104.728819903	1297.1	9361.4	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	h
+12	Spectrogram 1	1	104.744295970	104.781438531	1071.5	9417.8	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	h
+13	Spectrogram 1	1	104.803105025	104.979532190	2312.1	9361.4	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	1	d
+14	Spectrogram 1	1	116.625657793	116.740180690	2312.1	9248.6	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	a
+15	Spectrogram 1	1	116.752561544	116.848513160	2424.9	8684.7	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	i
+16	Spectrogram 1	1	116.912031891	116.961555306	2368.5	5019.1	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	j
+18	Spectrogram 1	1	116.964466545	117.001673534	2537.7	7274.8	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	k
+19	Spectrogram 1	1	117.007090231	117.077126916	2650.5	6710.9	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	
+20	Spectrogram 1	1	117.221577578	117.258784567	1691.8	7331.2	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	i
+22	Spectrogram 1	1	117.263006991	117.374627957	2312.1	8120.7	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	a
+23	Spectrogram 1	1	117.406981997	117.505471085	1861.0	8853.8	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	d
+24	Spectrogram 1	1	117.542987812	117.713702232	2481.3	8966.6	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	f
+25	Spectrogram 1	1	117.719792514	117.800772431	1297.1	8684.7	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	g
+26	Spectrogram 1	1	117.820945906	117.855964248	2481.3	7613.2	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	h
+27	Spectrogram 1	1	117.869096127	117.895359883	1522.6	8797.4	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	h
+28	Spectrogram 1	1	117.917246347	117.932566872	2424.9	8853.8	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	h
+29	Spectrogram 1	1	117.950076043	117.980717093	2424.9	8289.9	Atticora_pileata-ML127269.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_pileata-ML127269.wav	2	h

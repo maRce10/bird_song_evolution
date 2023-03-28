@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	30.317423822	30.409909573	1911.4	4598.4	Porzana_spiloptera-ML74322031.wav	D:\Andean\Rallidae\Porzana_spiloptera-ML74322031.wav	1	a
+2	Spectrogram 1	1	30.469364699	30.594881076	1108.0	2049.9	Porzana_spiloptera-ML74322031.wav	D:\Andean\Rallidae\Porzana_spiloptera-ML74322031.wav	1	b
+3	Spectrogram 1	1	33.343029110	33.448727112	1883.7	4432.2	Porzana_spiloptera-ML74322031.wav	D:\Andean\Rallidae\Porzana_spiloptera-ML74322031.wav	2	a
+4	Spectrogram 1	1	33.481757737	33.613880239	1163.4	1994.5	Porzana_spiloptera-ML74322031.wav	D:\Andean\Rallidae\Porzana_spiloptera-ML74322031.wav	2	b
+5	Spectrogram 1	1	36.461120150	36.553605901	2049.9	4543.0	Porzana_spiloptera-ML74322031.wav	D:\Andean\Rallidae\Porzana_spiloptera-ML74322031.wav	3	a
+6	Spectrogram 1	1	36.613061026	36.731971278	1052.6	1966.8	Porzana_spiloptera-ML74322031.wav	D:\Andean\Rallidae\Porzana_spiloptera-ML74322031.wav	3	b

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	58.117238083	58.361181137	3030.8	3513.9	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	1	a
+2	Spectrogram 1	1	58.424818456	58.548557686	3030.8	3470.0	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	1	b
+3	Spectrogram 1	1	58.598053378	58.838461026	2964.9	3448.1	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	1	a
+4	Spectrogram 1	1	58.898562938	59.082404080	2921.0	3360.2	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	1	c
+5	Spectrogram 1	1	59.135435179	59.273316036	2942.9	3338.2	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	1	b
+6	Spectrogram 1	1	59.329882541	59.591502628	2964.9	3492.0	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	1	a
+7	Spectrogram 1	1	67.808752793	68.049160440	3008.8	3448.1	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	2	a
+8	Spectrogram 1	1	68.105726946	68.236536989	2986.9	3470.0	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	2	b
+9	Spectrogram 1	1	68.282497275	68.522904922	2942.9	3513.9	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	2	a
+10	Spectrogram 1	1	68.575936021	68.759777163	2942.9	3535.9	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	2	c
+11	Spectrogram 1	1	68.816343669	68.950689119	3008.8	3557.9	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	2	b
+12	Spectrogram 1	1	69.014326437	69.297158964	2942.9	3579.8	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	2	a
+13	Spectrogram 1	1	75.967239940	76.207647588	3008.8	3513.9	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	3	a
+14	Spectrogram 1	1	76.277692283	76.397896107	2986.9	3535.9	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	3	b
+15	Spectrogram 1	1	76.447391799	76.680728634	2986.9	3557.9	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	3	a
+16	Spectrogram 1	1	76.737295139	76.920032014	3030.8	3557.9	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	3	c
+17	Spectrogram 1	1	76.988309006	77.133090538	2964.9	3513.9	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	3	b
+18	Spectrogram 1	1	77.186291775	77.476195115	2942.9	3557.9	Heterophasia_desgodinsi-ML237438.wav	E:\Escritorio\Cantos\Leiothrichidae\Heterophasia_desgodinsi-ML237438.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.706644928	8.594179739	775.6	4072.0	Oncostoma_olivaceum-ML31102.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Oncostoma_olivaceum-ML31102.wav	1	a
+2	Spectrogram 1	1	12.070168379	12.943689482	803.3	4293.7	Oncostoma_olivaceum-ML31102.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Oncostoma_olivaceum-ML31102.wav	2	a
+3	Spectrogram 1	1	16.967025740	17.887259201	941.8	4376.8	Oncostoma_olivaceum-ML31102.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Oncostoma_olivaceum-ML31102.wav	3	a

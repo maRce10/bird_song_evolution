@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.412562204	5.552910120	1606.8	4029.3	Paroaria_nigrogenis-ML63345.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Paroaria_nigrogenis-ML63345.wav	1	a
+2	Spectrogram 1	1	6.045550373	6.238317389	1606.8	5982.2	Paroaria_nigrogenis-ML63345.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Paroaria_nigrogenis-ML63345.wav	1	b
+3	Spectrogram 1	1	6.661052074	6.821691255	2200.1	3658.5	Paroaria_nigrogenis-ML63345.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Paroaria_nigrogenis-ML63345.wav	1	c
+4	Spectrogram 1	1	7.332765520	7.479877191	1606.8	3881.0	Paroaria_nigrogenis-ML63345.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Paroaria_nigrogenis-ML63345.wav	2	a
+5	Spectrogram 1	1	8.141196762	8.320436269	1928.1	6056.3	Paroaria_nigrogenis-ML63345.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Paroaria_nigrogenis-ML63345.wav	2	b
+6	Spectrogram 1	1	8.714424996	8.878446054	2200.1	3683.2	Paroaria_nigrogenis-ML63345.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Paroaria_nigrogenis-ML63345.wav	2	c
+7	Spectrogram 1	1	9.269874878	9.425441242	1854.0	3856.3	Paroaria_nigrogenis-ML63345.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Paroaria_nigrogenis-ML63345.wav	3	a
+8	Spectrogram 1	1	9.810975275	10.003742291	1854.0	5364.2	Paroaria_nigrogenis-ML63345.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Paroaria_nigrogenis-ML63345.wav	3	b
+9	Spectrogram 1	1	10.448459180	10.612480238	2224.8	3708.0	Paroaria_nigrogenis-ML63345.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Paroaria_nigrogenis-ML63345.wav	1	c

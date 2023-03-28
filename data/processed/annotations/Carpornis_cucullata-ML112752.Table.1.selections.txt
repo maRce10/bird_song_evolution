@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.360940752	6.532407752	340.4	2125.9	Carpornis_cucullata-ML112752.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpornis_cucullata-ML112752.wav	1	a
+2	Spectrogram 1	1	7.097862181	7.218066005	439.2	2088.8	Carpornis_cucullata-ML112752.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpornis_cucullata-ML112752.wav	1	b
+3	Spectrogram 1	1	7.396604037	7.649385608	574.7	2175.3	Carpornis_cucullata-ML112752.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpornis_cucullata-ML112752.wav	1	c
+4	Spectrogram 1	1	24.886935594	25.050448148	531.5	2076.5	Carpornis_cucullata-ML112752.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpornis_cucullata-ML112752.wav	2	a
+5	Spectrogram 1	1	25.575903295	25.694339415	568.6	2150.6	Carpornis_cucullata-ML112752.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpornis_cucullata-ML112752.wav	2	b
+6	Spectrogram 1	1	25.866915283	26.144669496	519.1	2200.1	Carpornis_cucullata-ML112752.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpornis_cucullata-ML112752.wav	2	c
+7	Spectrogram 1	1	31.663299411	31.822392707	556.2	2064.1	Carpornis_cucullata-ML112752.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpornis_cucullata-ML112752.wav	3	a
+8	Spectrogram 1	1	32.398227397	32.506941150	531.5	2101.2	Carpornis_cucullata-ML112752.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpornis_cucullata-ML112752.wav	3	b
+9	Spectrogram 1	1	32.679292221	32.940015328	607.2	2297.9	Carpornis_cucullata-ML112752.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpornis_cucullata-ML112752.wav	3	c

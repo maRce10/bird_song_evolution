@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	112.303861933	112.443112134	1054.2	4436.4	Dicrurus_caerulescens-ML168563621.wav	E:\Escritorio\Cantos\Dicruridae\Dicrurus_caerulescens-ML168563621.wav	1	a
+2	Spectrogram 1	1	112.676167549	112.851266902	2042.5	3052.7	Dicrurus_caerulescens-ML168563621.wav	E:\Escritorio\Cantos\Dicruridae\Dicrurus_caerulescens-ML168563621.wav	1	b
+3	Spectrogram 1	1	114.508375263	114.629113465	1054.2	4439.6	Dicrurus_caerulescens-ML168563621.wav	E:\Escritorio\Cantos\Dicruridae\Dicrurus_caerulescens-ML168563621.wav	2	a
+4	Spectrogram 1	1	114.862886759	115.038938252	2064.4	2964.9	Dicrurus_caerulescens-ML168563621.wav	E:\Escritorio\Cantos\Dicruridae\Dicrurus_caerulescens-ML168563621.wav	2	b
+5	Spectrogram 1	1	117.103287750	117.242060372	1011.2	4439.6	Dicrurus_caerulescens-ML168563621.wav	E:\Escritorio\Cantos\Dicruridae\Dicrurus_caerulescens-ML168563621.wav	3	a
+6	Spectrogram 1	1	117.491034780	117.658378236	1997.8	3033.7	Dicrurus_caerulescens-ML168563621.wav	E:\Escritorio\Cantos\Dicruridae\Dicrurus_caerulescens-ML168563621.wav	3	b

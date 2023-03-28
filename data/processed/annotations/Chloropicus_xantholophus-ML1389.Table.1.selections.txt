@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.958267297	24.979287858	1387.9	2592.6	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	1	a
+2	Spectrogram 1	1	24.993301566	25.016657745	1387.9	2592.6	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	1	a
+3	Spectrogram 1	1	25.028335834	25.054027632	1518.9	2566.4	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	1	a
+4	Spectrogram 1	1	25.063370103	25.086726282	1414.1	2645.0	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	1	a
+5	Spectrogram 1	1	25.100739990	25.124096169	1309.4	2435.5	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	1	a
+6	Spectrogram 1	1	25.752377390	25.773397951	1571.3	2749.7	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	2	a
+7	Spectrogram 1	1	25.782740423	25.806096602	1545.1	2697.3	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	2	a
+8	Spectrogram 1	1	25.824781546	25.848137725	1466.5	2618.8	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	2	a
+9	Spectrogram 1	1	25.859815815	25.883171994	1387.9	2618.8	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	2	a
+10	Spectrogram 1	1	25.892514465	25.920541881	1440.3	2514.0	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	2	a
+11	Spectrogram 1	1	26.901501408	26.927193205	1623.6	2671.1	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	3	a
+12	Spectrogram 1	1	26.943542530	26.969234327	1597.4	2697.3	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	3	a
+13	Spectrogram 1	1	26.980912417	27.006604214	1571.3	2671.1	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	3	a
+14	Spectrogram 1	1	27.011275450	27.043974101	1623.6	2592.6	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	3	a
+15	Spectrogram 1	1	27.062659044	27.088350841	1571.3	2173.6	Chloropicus_xantholophus-ML1389.wav	D:\Andean\Picidae\Chloropicus_xantholophus-ML1389.wav	3	a

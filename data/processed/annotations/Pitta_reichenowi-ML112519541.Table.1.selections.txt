@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	106.299930915	106.874663797	2022.2	2964.0	Pitta_reichenowi-ML112519541.wav	D:\Andean\Pittidae\Pitta_reichenowi-ML112519541.wav	1	a
+2	Spectrogram 1	1	109.655842457	110.263605965	1911.4	3130.2	Pitta_reichenowi-ML112519541.wav	D:\Andean\Pittidae\Pitta_reichenowi-ML112519541.wav	2	a
+3	Spectrogram 1	1	112.357533291	113.110631551	1800.6	2964.0	Pitta_reichenowi-ML112519541.wav	D:\Andean\Pittidae\Pitta_reichenowi-ML112519541.wav	3	a

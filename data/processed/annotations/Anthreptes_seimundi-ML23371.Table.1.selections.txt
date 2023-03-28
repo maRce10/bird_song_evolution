@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.788908145	21.930939835	7368.5	8670.4	Anthreptes_seimundi-ML23371.wav	E:\Andean\Nectariniidae\Anthreptes_seimundi-ML23371.wav	1	a
+2	Spectrogram 1	1	22.660916656	22.839282034	7313.1	8642.7	Anthreptes_seimundi-ML23371.wav	E:\Andean\Nectariniidae\Anthreptes_seimundi-ML23371.wav	2	a
+3	Spectrogram 1	1	23.562652730	23.737715045	7257.7	8421.1	Anthreptes_seimundi-ML23371.wav	E:\Andean\Nectariniidae\Anthreptes_seimundi-ML23371.wav	3	a

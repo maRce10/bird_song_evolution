@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.721935913	24.864430781	1800.9	2833.1	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	1	a
+2	Spectrogram 1	1	24.888804904	24.952552608	1603.2	2544.2	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	1	b
+3	Spectrogram 1	1	24.981926550	25.188794100	2158.7	3520.8	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	1	c
+4	Spectrogram 1	1	25.234417457	25.515032351	1285.0	2801.2	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	1	d
+5	Spectrogram 1	1	28.445871848	28.550868067	1876.0	3006.8	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	2	a
+6	Spectrogram 1	1	28.604616131	28.655864285	1542.0	2595.6	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	2	b
+7	Spectrogram 1	1	28.673363655	28.870231565	2210.1	3495.1	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	2	c
+8	Spectrogram 1	1	28.893980710	29.211469276	1542.0	2878.3	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	2	d
+9	Spectrogram 1	1	32.292944911	32.374191985	1721.9	3032.5	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	3	a
+10	Spectrogram 1	1	32.426690095	32.485437979	1490.6	2518.5	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	3	b
+11	Spectrogram 1	1	32.507937169	32.707929966	2210.1	3469.4	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	3	c
+12	Spectrogram 1	1	32.761678030	33.036668127	1413.5	2801.2	Crax_fasciolata-ML82636.wav	E:\Escritorio\Cantos\Cracidae\Cracidae\Crax_fasciolata-ML82636.wav	3	d

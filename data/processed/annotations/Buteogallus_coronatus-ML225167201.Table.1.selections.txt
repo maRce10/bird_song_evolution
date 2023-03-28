@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.709003987	2.733712864	1582.1	2249.5	Buteogallus_coronatus-ML225167201.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_coronatus-ML225167201.wav	1	a
+2	Spectrogram 1	1	7.833921679	8.929649984	1532.6	2274.2	Buteogallus_coronatus-ML225167201.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_coronatus-ML225167201.wav	12	b
+3	Spectrogram 1	1	13.291931487	14.517862074	1557.3	2323.7	Buteogallus_coronatus-ML225167201.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_coronatus-ML225167201.wav	3	a

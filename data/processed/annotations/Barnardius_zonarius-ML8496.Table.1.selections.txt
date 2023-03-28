@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.051460526	9.223219778	2548.5	4238.3	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	1	a
+2	Spectrogram 1	1	9.322311655	9.573344408	2049.9	2880.9	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	1	b
+3	Spectrogram 1	1	9.751709785	9.989530288	2077.6	2853.2	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	1	b
+4	Spectrogram 1	1	10.128258915	10.366079418	1994.5	2936.3	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	1	b
+5	Spectrogram 1	1	10.524626420	10.775659173	2049.9	2825.5	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	1	b
+6	Spectrogram 1	1	11.033298051	11.264512429	1966.8	2742.4	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	1	b
+7	Spectrogram 1	1	12.341310818	12.546100695	1911.4	2880.9	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	2	b
+8	Spectrogram 1	1	12.678223197	12.889619200	2049.9	2797.8	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	2	b
+9	Spectrogram 1	1	13.034953951	13.299198955	2077.6	2936.3	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	2	b
+10	Spectrogram 1	1	27.484120503	27.655879755	1966.8	2880.9	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	3	b
+11	Spectrogram 1	1	28.072065636	28.309886139	2077.6	2770.1	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	3	b
+12	Spectrogram 1	1	28.673223018	28.983710897	1966.8	2853.2	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	3	b
+13	Spectrogram 1	1	29.300804901	29.565049904	1939.1	2853.2	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	3	b
+14	Spectrogram 1	1	29.954811284	30.159601162	2049.9	2825.5	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	3	b
+15	Spectrogram 1	1	30.483301291	30.767364670	2022.2	2880.9	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	3	b
+16	Spectrogram 1	1	30.932517797	31.216581175	1994.5	2825.5	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	3	b
+17	Spectrogram 1	1	31.309066926	31.560099680	1994.5	2880.9	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	3	b
+18	Spectrogram 1	1	31.725252807	31.982891685	2077.6	2853.2	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	3	b
+19	Spectrogram 1	1	32.101801936	32.326410189	2077.6	2936.3	Barnardius_zonarius-ML8496.wav	D:\Andean\Psittaculidae\Barnardius_zonarius-ML8496.wav	3	b

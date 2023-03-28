@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.818800650	6.786017610	1285.4	4597.9	Gypaetus_barbatus-ML203897841.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Gypaetus_barbatus-ML203897841.wav	1	a
+2	Spectrogram 1	1	23.112934780	24.262773124	1186.5	5141.7	Gypaetus_barbatus-ML203897841.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Gypaetus_barbatus-ML203897841.wav	2	a
+3	Spectrogram 1	1	24.732854095	25.872546806	1087.7	4746.2	Gypaetus_barbatus-ML203897841.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Gypaetus_barbatus-ML203897841.wav	3	a

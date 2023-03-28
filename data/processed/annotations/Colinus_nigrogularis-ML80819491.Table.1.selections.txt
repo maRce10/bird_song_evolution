@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	202.546118954	202.737696581	1357.3	1689.8	Colinus_nigrogularis-ML80819491.wav	E:\Andean\Odontophoridae\Colinus_nigrogularis-ML80819491.wav	1	a
+2	Spectrogram 1	1	203.233155963	203.398309090	1163.4	1911.4	Colinus_nigrogularis-ML80819491.wav	E:\Andean\Odontophoridae\Colinus_nigrogularis-ML80819491.wav	1	b
+3	Spectrogram 1	1	203.854131721	204.078739973	858.7	2410.0	Colinus_nigrogularis-ML80819491.wav	E:\Andean\Odontophoridae\Colinus_nigrogularis-ML80819491.wav	1	c
+4	Spectrogram 1	1	213.515168593	213.667109470	1357.3	1717.5	Colinus_nigrogularis-ML80819491.wav	E:\Andean\Odontophoridae\Colinus_nigrogularis-ML80819491.wav	2	a
+5	Spectrogram 1	1	214.142750476	214.321115853	1108.0	1883.7	Colinus_nigrogularis-ML80819491.wav	E:\Andean\Odontophoridae\Colinus_nigrogularis-ML80819491.wav	2	b
+6	Spectrogram 1	1	214.750513983	214.955303861	1108.0	2603.9	Colinus_nigrogularis-ML80819491.wav	E:\Andean\Odontophoridae\Colinus_nigrogularis-ML80819491.wav	2	c
+7	Spectrogram 1	1	222.323471894	222.475412771	1412.8	1717.5	Colinus_nigrogularis-ML80819491.wav	E:\Andean\Odontophoridae\Colinus_nigrogularis-ML80819491.wav	3	a
+8	Spectrogram 1	1	222.957659902	223.116206904	1329.6	1883.7	Colinus_nigrogularis-ML80819491.wav	E:\Andean\Odontophoridae\Colinus_nigrogularis-ML80819491.wav	3	b
+9	Spectrogram 1	1	223.565423410	223.849486788	886.4	2465.4	Colinus_nigrogularis-ML80819491.wav	E:\Andean\Odontophoridae\Colinus_nigrogularis-ML80819491.wav	3	c

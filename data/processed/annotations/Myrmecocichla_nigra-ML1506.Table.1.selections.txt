@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	71.094901725	71.478056980	1859.3	3404.4	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	1	a
+2	Spectrogram 1	1	72.013153111	72.224549114	1623.6	5159.0	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	1	b
+3	Spectrogram 1	1	73.070133125	73.796806884	1806.9	2802.1	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	1	c
+4	Spectrogram 1	1	74.256607660	74.410758442	811.8	4190.0	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	1	d
+5	Spectrogram 1	1	74.980649215	75.401060441	1649.8	4163.8	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	1	e
+6	Spectrogram 1	1	76.377348733	77.045335458	1361.8	4713.8	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	1	f
+7	Spectrogram 1	1	77.945453611	78.322002741	1702.2	3299.6	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	2	a
+8	Spectrogram 1	1	79.418619505	79.788562510	1885.5	3378.2	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	2	a
+9	Spectrogram 1	1	81.386060693	81.504970945	2802.1	4032.9	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	2	g
+10	Spectrogram 1	1	81.815458824	82.073097702	1649.8	5106.6	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	2	b
+11	Spectrogram 1	1	82.826195961	83.229169592	1780.8	4111.5	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	2	e
+12	Spectrogram 1	1	84.345604731	84.695729360	1885.5	3430.6	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	3	a
+13	Spectrogram 1	1	85.878225750	86.023560502	916.6	4373.3	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	3	d
+14	Spectrogram 1	1	86.406715757	87.179632391	1702.2	2854.5	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	3	c
+15	Spectrogram 1	1	87.947842307	88.337603687	1833.1	4163.8	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	3	e
+16	Spectrogram 1	1	88.971791695	89.731496080	1676.0	2697.3	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	3	c
+17	Spectrogram 1	1	90.973447596	91.244298724	2330.7	3613.9	Myrmecocichla_nigra-ML1506.wav	E:\Andean\Muscicapidae\Myrmecocichla_nigra-ML1506.wav	3	g

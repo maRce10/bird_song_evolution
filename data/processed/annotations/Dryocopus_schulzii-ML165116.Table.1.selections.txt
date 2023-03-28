@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.040433748	7.154879026	733.3	2278.3	Dryocopus_schulzii-ML165116.wav	D:\Andean\Picidae\Dryocopus_schulzii-ML165116.wav	1	a
+2	Spectrogram 1	1	7.302022955	7.425810705	654.7	2566.4	Dryocopus_schulzii-ML165116.wav	D:\Andean\Picidae\Dryocopus_schulzii-ML165116.wav	2	a
+3	Spectrogram 1	1	7.554269691	7.675721823	680.9	2697.3	Dryocopus_schulzii-ML165116.wav	D:\Andean\Picidae\Dryocopus_schulzii-ML165116.wav	3	a

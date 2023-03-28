@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.972756287	3.349305417	1047.5	3509.1	Hemicircus_canente-ML78632531.wav	D:\Andean\Picidae\Hemicircus_canente-ML78632531.wav	1	a
+2	Spectrogram 1	1	5.770830798	6.153986053	1021.3	3640.1	Hemicircus_canente-ML78632531.wav	D:\Andean\Picidae\Hemicircus_canente-ML78632531.wav	1	a
+3	Spectrogram 1	1	16.080252804	16.456801934	1073.7	3456.8	Hemicircus_canente-ML78632531.wav	D:\Andean\Picidae\Hemicircus_canente-ML78632531.wav	2	a
+4	Spectrogram 1	1	18.603993587	18.965678935	1073.7	4530.5	Hemicircus_canente-ML78632531.wav	D:\Andean\Picidae\Hemicircus_canente-ML78632531.wav	2	a
+5	Spectrogram 1	1	24.216631152	24.575013438	1073.7	3640.1	Hemicircus_canente-ML78632531.wav	D:\Andean\Picidae\Hemicircus_canente-ML78632531.wav	3	a

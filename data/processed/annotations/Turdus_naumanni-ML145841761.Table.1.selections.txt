@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.029230031	19.230716846	1332.4	3082.8	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	1	a
+2	Spectrogram 1	1	19.442112849	19.808752791	1698.2	2821.6	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	1	b
+3	Spectrogram 1	1	20.003633481	20.178695795	1332.4	2194.5	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	1	c
+4	Spectrogram 1	1	20.475971424	20.637821489	1332.4	2168.4	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	1	d
+5	Spectrogram 1	1	21.133280870	21.328161560	1306.3	3187.3	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	1	a
+6	Spectrogram 1	1	21.552769813	21.883076067	1724.3	2795.4	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	1	e
+7	Spectrogram 1	1	25.747786199	25.929454638	1227.9	3187.3	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	2	f
+8	Spectrogram 1	1	26.140850641	26.504187521	1698.2	2847.7	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	2	b
+9	Spectrogram 1	1	26.788250899	26.956707089	1097.3	2220.7	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	2	f
+10	Spectrogram 1	1	27.287013343	27.448863407	1227.9	2168.4	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	2	g
+15	Spectrogram 1	1	30.578471687	30.763443189	1384.7	3082.8	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	3	a
+16	Spectrogram 1	1	31.833635453	32.028516143	1384.7	3082.8	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	3	a
+17	Spectrogram 1	1	32.226699895	32.599945962	2116.2	2743.2	Turdus_naumanni-ML145841761.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_naumanni-ML145841761.wav	3	h

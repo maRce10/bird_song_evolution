@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.443655476	7.600141877	997.2	4321.4	Sitta_pusilla-ML40782.wav	D:\Andean\Sittidae\Sitta_pusilla-ML40782.wav	1	a
+2	Spectrogram 1	1	7.663203561	7.737943334	941.8	3047.1	Sitta_pusilla-ML40782.wav	D:\Andean\Sittidae\Sitta_pusilla-ML40782.wav	1	b
+3	Spectrogram 1	1	8.331190286	8.457313654	1052.6	4293.7	Sitta_pusilla-ML40782.wav	D:\Andean\Sittidae\Sitta_pusilla-ML40782.wav	2	a
+4	Spectrogram 1	1	8.527382192	8.662848031	775.6	3102.5	Sitta_pusilla-ML40782.wav	D:\Andean\Sittidae\Sitta_pusilla-ML40782.wav	2	c
+5	Spectrogram 1	1	9.349519700	9.534033516	941.8	4432.2	Sitta_pusilla-ML40782.wav	D:\Andean\Sittidae\Sitta_pusilla-ML40782.wav	3	a
+6	Spectrogram 1	1	9.587752728	9.718547332	997.2	2991.7	Sitta_pusilla-ML40782.wav	D:\Andean\Sittidae\Sitta_pusilla-ML40782.wav	3	c

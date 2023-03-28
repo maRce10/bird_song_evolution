@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.032966805	3.830205991	1004.4	3270.1	Vanellus_malabaricus-ML72051911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_malabaricus-ML72051911.wav	1	a
+2	Spectrogram 1	1	19.299133423	20.073341255	887.6	3176.7	Vanellus_malabaricus-ML72051911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_malabaricus-ML72051911.wav	2	a

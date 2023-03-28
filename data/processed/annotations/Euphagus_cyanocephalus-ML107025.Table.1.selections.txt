@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.800207825	5.916083571	3270.8	6090.5	Euphagus_cyanocephalus-ML107025.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_cyanocephalus-ML107025.wav	1	a
+2	Spectrogram 1	1	5.926617730	6.290046208	1297.1	6034.1	Euphagus_cyanocephalus-ML107025.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_cyanocephalus-ML107025.wav	1	b
+3	Spectrogram 1	1	8.950507614	9.071650440	3383.6	5695.8	Euphagus_cyanocephalus-ML107025.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_cyanocephalus-ML107025.wav	2	a
+4	Spectrogram 1	1	9.076917519	9.440345997	1297.1	6034.1	Euphagus_cyanocephalus-ML107025.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_cyanocephalus-ML107025.wav	2	b
+5	Spectrogram 1	1	18.760116270	18.854923699	3270.8	5695.8	Euphagus_cyanocephalus-ML107025.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_cyanocephalus-ML107025.wav	3	a
+6	Spectrogram 1	1	18.870724937	19.265755892	1635.4	5865.0	Euphagus_cyanocephalus-ML107025.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_cyanocephalus-ML107025.wav	3	b

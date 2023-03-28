@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.462684780	7.658439374	831.0	4210.6	Gracula_ptilogenys-ML282342.wav	D:\Andean\Sturnidae\Gracula_ptilogenys-ML282342.wav	1	a
+2	Spectrogram 1	1	9.532090492	9.888643503	886.4	4543.0	Gracula_ptilogenys-ML282342.wav	D:\Andean\Sturnidae\Gracula_ptilogenys-ML282342.wav	2	a
+3	Spectrogram 1	1	10.378029989	10.706618059	886.4	4432.2	Gracula_ptilogenys-ML282342.wav	D:\Andean\Sturnidae\Gracula_ptilogenys-ML282342.wav	2	a
+4	Spectrogram 1	1	11.007241186	11.363794197	831.0	4432.2	Gracula_ptilogenys-ML282342.wav	D:\Andean\Sturnidae\Gracula_ptilogenys-ML282342.wav	2	a
+5	Spectrogram 1	1	12.195751223	12.412479524	914.1	4266.0	Gracula_ptilogenys-ML282342.wav	D:\Andean\Sturnidae\Gracula_ptilogenys-ML282342.wav	3	a

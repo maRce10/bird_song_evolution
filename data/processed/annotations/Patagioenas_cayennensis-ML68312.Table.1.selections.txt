@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.346527975	7.467678294	327.0	747.5	Patagioenas_cayennensis-ML68312.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_cayennensis-ML68312.wav	1	a
+2	Spectrogram 1	1	7.796252644	7.847649750	256.9	584.0	Patagioenas_cayennensis-ML68312.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_cayennensis-ML68312.wav	1	b
+3	Spectrogram 1	1	8.000005454	8.629619991	327.0	724.1	Patagioenas_cayennensis-ML68312.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_cayennensis-ML68312.wav	1	c
+4	Spectrogram 1	1	9.372500659	9.512007087	233.6	747.5	Patagioenas_cayennensis-ML68312.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_cayennensis-ML68312.wav	2	a
+5	Spectrogram 1	1	9.831403383	9.884636099	256.9	630.7	Patagioenas_cayennensis-ML68312.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_cayennensis-ML68312.wav	2	b
+6	Spectrogram 1	1	10.032592839	10.667714208	233.6	700.7	Patagioenas_cayennensis-ML68312.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_cayennensis-ML68312.wav	2	c
+7	Spectrogram 1	1	11.392239310	11.528074516	280.3	700.7	Patagioenas_cayennensis-ML68312.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_cayennensis-ML68312.wav	3	a
+8	Spectrogram 1	1	11.856648866	11.919059636	210.2	584.0	Patagioenas_cayennensis-ML68312.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_cayennensis-ML68312.wav	3	
+9	Spectrogram 1	1	12.050858667	12.752062028	233.6	747.5	Patagioenas_cayennensis-ML68312.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_cayennensis-ML68312.wav	3	c

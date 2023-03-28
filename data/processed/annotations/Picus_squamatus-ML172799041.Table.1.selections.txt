@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.813468031	1.991833408	914.1	2188.4	Picus_squamatus-ML172799041.wav	D:\Andean\Picidae\Picus_squamatus-ML172799041.wav	1	a
+2	Spectrogram 1	1	2.069455378	2.130562035	554.0	2133.0	Picus_squamatus-ML172799041.wav	D:\Andean\Picidae\Picus_squamatus-ML172799041.wav	1	b
+3	Spectrogram 1	1	14.763493410	14.964980225	803.3	2243.8	Picus_squamatus-ML172799041.wav	D:\Andean\Picidae\Picus_squamatus-ML172799041.wav	2	a
+4	Spectrogram 1	1	15.102057321	15.128481821	554.0	2133.0	Picus_squamatus-ML172799041.wav	D:\Andean\Picidae\Picus_squamatus-ML172799041.wav	2	b
+5	Spectrogram 1	1	26.776128689	26.956145598	803.3	2326.9	Picus_squamatus-ML172799041.wav	D:\Andean\Picidae\Picus_squamatus-ML172799041.wav	3	a
+6	Spectrogram 1	1	27.037070630	27.139465569	498.6	2659.3	Picus_squamatus-ML172799041.wav	D:\Andean\Picidae\Picus_squamatus-ML172799041.wav	3	b

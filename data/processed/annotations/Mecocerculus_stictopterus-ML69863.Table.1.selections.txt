@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	155.215819395	155.533463433	3447.4	6973.2	Mecocerculus_stictopterus-ML69863.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_stictopterus-ML69863.wav	1	a
+2	Spectrogram 1	1	155.764689607	155.963217130	2742.3	6620.6	Mecocerculus_stictopterus-ML69863.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_stictopterus-ML69863.wav	1	b
+3	Spectrogram 1	1	160.949039090	161.273689981	2781.4	6620.6	Mecocerculus_stictopterus-ML69863.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_stictopterus-ML69863.wav	2	c
+4	Spectrogram 1	1	161.691765589	162.028094570	2781.4	6698.9	Mecocerculus_stictopterus-ML69863.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_stictopterus-ML69863.wav	2	d
+5	Spectrogram 1	1	163.780290474	164.102605747	3212.4	6894.8	Mecocerculus_stictopterus-ML69863.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mecocerculus_stictopterus-ML69863.wav	3	e

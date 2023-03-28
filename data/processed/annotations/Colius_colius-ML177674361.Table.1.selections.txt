@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.777647482	1.920825132	2102.2	7287.7	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	1	a
+2	Spectrogram 1	1	1.990578346	2.104386221	1821.9	5068.7	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	1	b
+3	Spectrogram 1	1	2.174139435	2.265919980	1845.3	5232.2	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	1	c
+4	Spectrogram 1	1	2.361371747	2.456823513	1892.0	5652.6	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	1	c
+5	Spectrogram 1	1	7.780869418	7.914869013	1962.1	7754.9	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	2	a
+6	Spectrogram 1	1	7.984269565	8.121940382	1565.0	5512.5	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	2	b
+7	Spectrogram 1	1	8.173337487	8.263282421	1821.9	6049.7	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	2	c
+8	Spectrogram 1	1	8.347720522	8.443172288	1541.6	5792.8	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	2	c
+9	Spectrogram 1	1	20.784651099	20.924157527	2008.8	7544.7	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	a
+10	Spectrogram 1	1	20.973719021	21.085691285	1588.3	5699.4	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	ab
+11	Spectrogram 1	1	21.142595223	21.227033324	1845.3	5652.6	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	c
+12	Spectrogram 1	1	21.333003647	21.410099304	1821.9	4788.4	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	d
+13	Spectrogram 1	1	21.481547457	21.516424064	1705.1	7895.0	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+14	Spectrogram 1	1	21.588012889	21.619218274	1588.3	7404.5	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+15	Spectrogram 1	1	21.716505651	21.745875426	1354.8	7334.4	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+16	Spectrogram 1	1	21.844998414	21.868861356	1681.8	7241.0	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+17	Spectrogram 1	1	21.955135068	21.988176064	1705.1	7381.1	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+18	Spectrogram 1	1	22.048751223	22.085463441	1681.8	6493.5	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+19	Spectrogram 1	1	22.142367379	22.171737153	1728.5	7241.0	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+20	Spectrogram 1	1	22.232312313	22.259846476	1494.9	6516.9	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+21	Spectrogram 1	1	22.325928468	22.358969464	1892.0	7311.1	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+22	Spectrogram 1	1	22.423215846	22.458092453	1635.1	7568.0	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+23	Spectrogram 1	1	22.535188110	22.562722274	1518.3	6750.5	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+24	Spectrogram 1	1	22.650831597	22.685708204	1775.2	7871.7	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+25	Spectrogram 1	1	22.797680468	22.823379021	1448.2	7451.2	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e
+26	Spectrogram 1	1	22.929844453	22.957378616	1821.9	7684.8	Colius_colius-ML177674361.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Colius_colius-ML177674361.wav	3	e

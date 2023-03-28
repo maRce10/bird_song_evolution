@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	51.601205026	51.746539778	2820.6	6189.7	Vireo_altiloquus-ML188061.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_altiloquus-ML188061.wav	1	a
+3	Spectrogram 1	1	51.924905155	52.057027657	1841.2	4583.5	Vireo_altiloquus-ML188061.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_altiloquus-ML188061.wav	1	b
+4	Spectrogram 1	1	52.213923128	52.375773192	1762.9	3721.6	Vireo_altiloquus-ML188061.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_altiloquus-ML188061.wav	1	c
+5	Spectrogram 1	1	54.553570277	54.684041247	2154.6	3525.8	Vireo_altiloquus-ML188061.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_altiloquus-ML188061.wav	2	d
+6	Spectrogram 1	1	54.905346437	55.078757221	1919.6	4583.5	Vireo_altiloquus-ML188061.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_altiloquus-ML188061.wav	2	e
+7	Spectrogram 1	1	56.254095689	56.377960534	1645.4	3604.1	Vireo_altiloquus-ML188061.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_altiloquus-ML188061.wav	3	f
+8	Spectrogram 1	1	56.619084100	56.681842288	1802.1	3447.4	Vireo_altiloquus-ML188061.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_altiloquus-ML188061.wav	3	g
+9	Spectrogram 1	1	56.688448413	56.795797946	1684.5	3956.7	Vireo_altiloquus-ML188061.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_altiloquus-ML188061.wav	3	h

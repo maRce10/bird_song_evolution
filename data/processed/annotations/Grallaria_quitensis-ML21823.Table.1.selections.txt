@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.142844860	9.302569205	742.6	3541.7	Grallaria_quitensis-ML21823.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_quitensis-ML21823.wav	1	a
+2	Spectrogram 1	1	9.473309022	9.633033366	742.6	3141.8	Grallaria_quitensis-ML21823.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_quitensis-ML21823.wav	1	b
+3	Spectrogram 1	1	141.055095942	141.214820287	914.0	6512.2	Grallaria_quitensis-ML21823.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_quitensis-ML21823.wav	2	a
+4	Spectrogram 1	1	141.528761240	141.732547473	856.9	5940.9	Grallaria_quitensis-ML21823.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_quitensis-ML21823.wav	2	b
+5	Spectrogram 1	1	141.842702194	142.063011635	685.5	6055.2	Grallaria_quitensis-ML21823.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_quitensis-ML21823.wav	2	b
+6	Spectrogram 1	1	181.817621275	181.922268260	742.6	6397.9	Grallaria_quitensis-ML21823.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_quitensis-ML21823.wav	3	a
+7	Spectrogram 1	1	182.263747893	182.445503182	685.5	6169.4	Grallaria_quitensis-ML21823.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_quitensis-ML21823.wav	3	a
+8	Spectrogram 1	1	182.572181110	182.803506023	799.7	5826.7	Grallaria_quitensis-ML21823.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_quitensis-ML21823.wav	3	b

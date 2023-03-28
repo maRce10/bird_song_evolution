@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.231367877	7.340965481	3163.7	7203.6	Carpodacus_synoicus-ML135944.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_synoicus-ML135944.wav	1	a
+2	Spectrogram 1	1	8.157644402	8.256635786	3427.3	7730.7	Carpodacus_synoicus-ML135944.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_synoicus-ML135944.wav	2	a
+3	Spectrogram 1	1	18.155336542	18.268469553	3187.7	7549.7	Carpodacus_synoicus-ML135944.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_synoicus-ML135944.wav	3	a

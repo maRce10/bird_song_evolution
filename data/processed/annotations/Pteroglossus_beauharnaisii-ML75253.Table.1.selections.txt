@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.806852709	6.945581336	747.9	2548.5	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	1	a
+2	Spectrogram 1	1	7.559950969	7.929893973	1052.6	2714.7	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	1	b
+3	Spectrogram 1	1	8.491414605	8.894388235	969.5	2742.4	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	1	b
+4	Spectrogram 1	1	9.436090492	9.839064122	1024.9	2742.4	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	1	b
+5	Spectrogram 1	1	10.413797005	10.823376760	997.2	2603.9	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	1	b
+6	Spectrogram 1	1	11.503807643	11.906781273	941.8	2659.3	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	1	b
+7	Spectrogram 1	1	12.547575406	12.983579662	941.8	2603.9	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	1	b
+8	Spectrogram 1	1	13.611161545	14.007529050	997.2	2631.6	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	1	b
+9	Spectrogram 1	1	20.216051097	20.632236977	1052.6	2770.1	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	2	b
+10	Spectrogram 1	1	21.173939234	21.596731240	1052.6	2714.7	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	2	b
+11	Spectrogram 1	1	22.118615121	22.534801001	1052.6	2659.3	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	2	b
+12	Spectrogram 1	1	23.076503258	23.512507514	1024.9	2687.0	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	2	b
+13	Spectrogram 1	1	24.074028146	24.496820151	1080.3	2742.4	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	2	b
+14	Spectrogram 1	1	25.097977534	25.533981789	1024.9	2659.3	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	2	b
+15	Spectrogram 1	1	26.135139172	26.538112802	997.2	2631.6	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	2	b
+16	Spectrogram 1	1	36.470529311	36.629076313	720.2	2437.7	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	3	a
+17	Spectrogram 1	1	37.441629698	37.844603328	969.5	2770.1	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	3	b
+18	Spectrogram 1	1	38.472185211	38.875158841	941.8	2687.0	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	3	b
+19	Spectrogram 1	1	39.443285598	39.872683729	997.2	2714.7	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	3	b
+20	Spectrogram 1	1	40.394567610	40.810753491	1024.9	2659.3	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	3	b
+21	Spectrogram 1	1	41.451547624	41.861127379	1024.9	2603.9	Pteroglossus_beauharnaisii-ML75253.wav	D:\Andean\Ramphastidae\Pteroglossus_beauharnaisii-ML75253.wav	3	b

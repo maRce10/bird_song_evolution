@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.526113509	4.705956089	3430.6	7515.9	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	1	a
+2	Spectrogram 1	1	4.708291706	4.762010919	5813.7	7332.5	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	1	b
+3	Spectrogram 1	1	4.834415074	5.023600126	3325.8	7411.1	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	1	a
+4	Spectrogram 1	1	5.023600126	5.079654956	6023.2	7437.3	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	1	b
+5	Spectrogram 1	1	5.112606237	5.145304888	7306.4	8196.7	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	1	c
+6	Spectrogram 1	1	5.163737201	5.341244163	3168.7	7699.2	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	1	a
+7	Spectrogram 1	1	9.781225660	9.942383297	3509.1	7070.7	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	2	a
+8	Spectrogram 1	1	9.949390150	9.996102509	5918.4	7306.4	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	2	b
+9	Spectrogram 1	1	10.020626497	10.048653912	7306.4	8039.6	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	2	c
+10	Spectrogram 1	1	10.079016945	10.251852671	3378.2	7646.8	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	2	a
+11	Spectrogram 1	1	10.256523907	10.300900648	5944.6	7280.2	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	2	b
+12	Spectrogram 1	1	10.326592445	10.347613006	7463.5	8249.1	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	2	c
+13	Spectrogram 1	1	10.382647275	10.564825473	3168.7	7830.1	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	2	a
+14	Spectrogram 1	1	10.569496709	10.613873449	6101.7	7515.9	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	2	b
+15	Spectrogram 1	1	10.648907718	10.676935133	7437.3	8170.5	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	2	c
+16	Spectrogram 1	1	10.697955694	10.894147600	3247.3	8537.2	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	2	a
+17	Spectrogram 1	1	49.808940245	49.963091027	3535.3	6468.3	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	3	a
+18	Spectrogram 1	1	49.977104735	50.012139004	6023.2	7070.7	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	3	b
+19	Spectrogram 1	1	50.105563721	50.276063829	3378.2	6992.1	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	3	a
+20	Spectrogram 1	1	50.294748772	50.329783041	6049.3	6939.7	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	3	b
+21	Spectrogram 1	1	50.418536522	50.603050338	3273.5	8039.6	Phylloscopus_ijimae-ML14537.wav	D:\Andean\Phylloscopidae\Phylloscopus_ijimae-ML14537.wav	3	a

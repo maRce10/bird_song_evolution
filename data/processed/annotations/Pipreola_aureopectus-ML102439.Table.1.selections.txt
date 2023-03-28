@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.119634650	10.128265651	5998.185	8287.274	Pipreola_aureopectus-ML102439.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_aureopectus-ML102439.wav	1	a
+2	Spectrogram 1	1	18.701763275	21.869487573	5754.100	8345.600	Pipreola_aureopectus-ML102439.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_aureopectus-ML102439.wav	2	a

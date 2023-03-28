@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	105.434179739	105.893782595	3776.400	4714.100	Lipaugus_conditus-ML63916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_conditus-ML63916.wav	1	a
+2	Spectrogram 1	1	106.042117011	106.108199003	4790.200	5271.700	Lipaugus_conditus-ML63916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_conditus-ML63916.wav	1	b
+3	Spectrogram 1	1	117.819720871	118.236404544	3895.961	4736.851	Lipaugus_conditus-ML63916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_conditus-ML63916.wav	2	a
+4	Spectrogram 1	1	118.347370828	118.497979096	4479.912	5297.100	Lipaugus_conditus-ML63916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_conditus-ML63916.wav	2	b
+5	Spectrogram 1	1	131.896414142	132.368166142	3895.961	4663.400	Lipaugus_conditus-ML63916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_conditus-ML63916.wav	3	a
+6	Spectrogram 1	1	132.459946687	132.672877551	4386.480	5322.400	Lipaugus_conditus-ML63916.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_conditus-ML63916.wav	3	b

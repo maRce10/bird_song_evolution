@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.725474538	5.938866098	1567.5	6374.6	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	1	a
+2	Spectrogram 1	1	6.206973443	6.409421846	1672.0	6531.4	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	1	a
+3	Spectrogram 1	1	6.548035167	6.690296207	1828.8	6113.4	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	1	b
+4	Spectrogram 1	1	6.763250587	6.791268212	1985.5	4023.3	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	1	c
+5	Spectrogram 1	1	6.818351143	6.849303065	1921.3	3436.1	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	1	d
+6	Spectrogram 1	1	6.858330709	6.882834314	2216.8	3583.9	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	1	e
+7	Spectrogram 1	1	6.891861958	6.911206909	2216.8	3583.9	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	1	e
+8	Spectrogram 1	1	6.918944889	6.939579504	2069.0	3731.7	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	1	f
+10	Spectrogram 1	1	12.524970702	12.713261560	1810.4	6391.9	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	2	b
+11	Spectrogram 1	1	12.937662993	13.158195437	1810.4	6539.6	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	2	a
+12	Spectrogram 1	1	13.561860417	13.734675314	1995.1	6318.0	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	2	b
+13	Spectrogram 1	1	13.880057257	13.961219005	2220.7	3997.2	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	2	g
+14	Spectrogram 1	1	14.015022859	14.041468822	2011.7	3657.6	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	2	c
+15	Spectrogram 1	1	14.054235838	14.083417590	1854.9	3370.2	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	2	d
+16	Spectrogram 1	1	14.097096536	14.120806710	2142.3	3840.5	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	2	e
+17	Spectrogram 1	1	14.127190218	14.148164602	2090.0	3762.1	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	2	e
+18	Spectrogram 1	1	14.153636180	14.177346354	2090.0	3840.5	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	2	e
+19	Spectrogram 1	1	19.393673600	19.605241300	1854.9	6165.6	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	3	a
+20	Spectrogram 1	1	19.906178116	20.079444767	1854.9	6191.8	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	3	a
+21	Spectrogram 1	1	20.291012468	20.360319128	2272.9	4127.8	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	3	g
+22	Spectrogram 1	1	20.436916541	20.466098293	1750.4	3788.2	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	3	c
+23	Spectrogram 1	1	20.480689169	20.513518639	1933.3	3474.7	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	3	d
+24	Spectrogram 1	1	20.523549866	20.545436180	2116.2	3892.7	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	3	e
+25	Spectrogram 1	1	20.551819689	20.572794073	2116.2	3762.1	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	3	e
+26	Spectrogram 1	1	20.582825300	20.607447403	2037.8	3788.2	Tyrannus_caudifasciatus-ML115967.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_caudifasciatus-ML115967.wav	3	e

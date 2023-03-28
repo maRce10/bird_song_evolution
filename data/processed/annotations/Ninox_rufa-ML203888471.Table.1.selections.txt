@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.076642795	12.602628979	249.3	526.3	Ninox_rufa-ML203888471.wav	D:\Andean\Strigidae\Ninox_rufa-ML203888471.wav	1	a
+2	Spectrogram 1	1	13.107575716	13.528364664	221.6	498.6	Ninox_rufa-ML203888471.wav	D:\Andean\Strigidae\Ninox_rufa-ML203888471.wav	1	a
+3	Spectrogram 1	1	19.735001640	20.345145614	193.9	526.3	Ninox_rufa-ML203888471.wav	D:\Andean\Strigidae\Ninox_rufa-ML203888471.wav	2	a
+4	Spectrogram 1	1	20.723855667	21.186723510	166.2	526.3	Ninox_rufa-ML203888471.wav	D:\Andean\Strigidae\Ninox_rufa-ML203888471.wav	2	a
+5	Spectrogram 1	1	23.227549905	23.837693879	166.2	526.3	Ninox_rufa-ML203888471.wav	D:\Andean\Strigidae\Ninox_rufa-ML203888471.wav	3	a
+6	Spectrogram 1	1	24.300561721	24.700311222	166.2	554.0	Ninox_rufa-ML203888471.wav	D:\Andean\Strigidae\Ninox_rufa-ML203888471.wav	3	a

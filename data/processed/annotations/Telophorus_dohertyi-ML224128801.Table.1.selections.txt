@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.319912116	1.426377548	467.2	2639.5	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	1	a
+2	Spectrogram 1	1	1.701719182	1.810020225	677.4	2966.5	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	1	a
+3	Spectrogram 1	1	1.971553983	2.078019415	700.7	2756.2	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	1	a
+4	Spectrogram 1	1	2.230375119	2.331333719	630.7	2756.2	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	1	a
+5	Spectrogram 1	1	5.113749434	5.211036811	770.8	2732.9	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	2	a
+6	Spectrogram 1	1	5.480871612	5.585501433	840.9	3059.9	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	2	a
+7	Spectrogram 1	1	5.752542025	5.859007457	794.2	3013.2	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	2	a
+8	Spectrogram 1	1	6.009527550	6.104979316	677.4	2709.5	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	2	a
+9	Spectrogram 1	1	10.036132635	10.137091234	724.1	2686.2	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	3	a
+10	Spectrogram 1	1	10.399583592	10.506049024	770.8	2989.8	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	3	a
+11	Spectrogram 1	1	10.674925226	10.786897490	817.5	2756.2	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	3	a
+12	Spectrogram 1	1	10.933746362	11.034704961	794.2	2709.5	Telophorus_dohertyi-ML224128801.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_dohertyi-ML224128801.wav	3	a

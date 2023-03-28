@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.016461883	9.129304330	1087.1	1674.7	Pomatorhinus_ruficollis-ML69089.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ruficollis-ML69089.wav	1	a
+2	Spectrogram 1	1	9.185359160	9.325496235	1038.1	1469.1	Pomatorhinus_ruficollis-ML69089.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ruficollis-ML69089.wav	1	b
+3	Spectrogram 1	1	9.381551065	9.512345669	1047.9	1380.9	Pomatorhinus_ruficollis-ML69089.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ruficollis-ML69089.wav	1	c
+4	Spectrogram 1	1	13.576320853	13.716457928	1126.3	1606.2	Pomatorhinus_ruficollis-ML69089.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ruficollis-ML69089.wav	2	d
+5	Spectrogram 1	1	13.781855230	13.912649834	1018.6	1478.9	Pomatorhinus_ruficollis-ML69089.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ruficollis-ML69089.wav	2	b
+6	Spectrogram 1	1	13.968704664	14.090156796	1047.9	1371.1	Pomatorhinus_ruficollis-ML69089.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ruficollis-ML69089.wav	2	c
+7	Spectrogram 1	1	17.892542772	18.070049734	1136.1	1606.2	Pomatorhinus_ruficollis-ML69089.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ruficollis-ML69089.wav	3	d
+8	Spectrogram 1	1	18.079392206	18.228871753	1047.9	1390.7	Pomatorhinus_ruficollis-ML69089.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ruficollis-ML69089.wav	3	c
+9	Spectrogram 1	1	18.294269055	18.406378715	1047.9	1380.9	Pomatorhinus_ruficollis-ML69089.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ruficollis-ML69089.wav	3	c

@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.312600958	0.350244005	581.7	1745.2	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	1	a
+2	Spectrogram 1	1	0.451716568	0.486086306	581.7	1856.0	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	1	a
+3	Spectrogram 1	1	0.584285560	0.621928607	637.1	1966.8	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	1	a
+4	Spectrogram 1	1	0.716854553	0.759407563	664.8	1994.5	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	1	a
+5	Spectrogram 1	1	2.301027447	2.343580457	526.3	1828.3	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+6	Spectrogram 1	1	2.417229898	2.449962982	664.8	1883.7	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+7	Spectrogram 1	1	2.541615619	2.575985358	637.1	1994.5	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+8	Spectrogram 1	1	2.662728032	2.703644388	664.8	1911.4	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+9	Spectrogram 1	1	2.795297025	2.836213381	692.5	1966.8	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+10	Spectrogram 1	1	2.954052485	2.998242149	664.8	1994.5	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+11	Spectrogram 1	1	3.096441403	3.147177684	664.8	1939.1	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+12	Spectrogram 1	1	3.227373742	3.274836714	637.1	2049.9	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+13	Spectrogram 1	1	3.348486155	3.404132398	692.5	2105.3	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+14	Spectrogram 1	1	3.469598568	3.521971503	941.8	2105.3	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+15	Spectrogram 1	1	3.583068131	3.625621141	664.8	2105.3	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+16	Spectrogram 1	1	3.714000469	3.764736750	720.2	2105.3	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+17	Spectrogram 1	1	3.846569462	3.889122472	664.8	2077.6	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+18	Spectrogram 1	1	3.969318529	4.018418156	637.1	2022.2	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+19	Spectrogram 1	1	4.095340905	4.141167223	692.5	2105.3	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+20	Spectrogram 1	1	4.231183206	4.277009524	664.8	1994.5	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	2	a
+21	Spectrogram 1	1	5.196783924	5.229517009	775.6	2243.8	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	3	a
+22	Spectrogram 1	1	5.362086002	5.391545778	747.9	2299.2	Porphyrio_alleni-ML248647721.wav	D:\Andean\Rallidae\Porphyrio_alleni-ML248647721.wav	3	a

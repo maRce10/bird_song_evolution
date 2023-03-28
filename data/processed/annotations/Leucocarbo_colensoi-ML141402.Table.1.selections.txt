@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	116.509489781	116.559035720	387.8	1468.2	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	1	a
+2	Spectrogram 1	1	116.615187783	116.661430658	277.0	1551.3	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	1	a
+3	Spectrogram 1	1	117.156890040	117.199829853	221.6	1495.9	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	1	a
+4	Spectrogram 1	1	117.259284978	117.308830916	332.4	1606.7	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	1	a
+5	Spectrogram 1	1	117.391407480	117.771259672	110.8	1468.2	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	1	b
+6	Spectrogram 1	1	117.929806674	117.989261800	304.7	1579.0	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	2	a
+7	Spectrogram 1	1	118.111475114	118.161021052	249.3	1606.7	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	2	a
+8	Spectrogram 1	1	118.603631433	118.643268183	193.9	1551.3	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	2	a
+9	Spectrogram 1	1	118.672995746	118.712632497	110.8	1440.5	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	2	a
+10	Spectrogram 1	1	119.042938751	119.366638880	55.4	1551.3	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	2	b
+11	Spectrogram 1	1	119.505367507	119.551610382	249.3	1440.5	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	3	a
+12	Spectrogram 1	1	119.706854322	119.739884947	138.5	1274.2	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	3	a
+13	Spectrogram 1	1	119.918250324	120.030554451	193.9	1495.9	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	3	c
+14	Spectrogram 1	1	120.248556592	120.294799467	193.9	1163.4	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	3	a
+15	Spectrogram 1	1	120.506195470	120.539226095	221.6	1468.2	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	3	a
+16	Spectrogram 1	1	120.585468971	120.618499596	193.9	1551.3	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	3	a
+17	Spectrogram 1	1	120.762953526	121.103953742	83.1	1551.3	Leucocarbo_colensoi-ML141402.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_colensoi-ML141402.wav	3	b

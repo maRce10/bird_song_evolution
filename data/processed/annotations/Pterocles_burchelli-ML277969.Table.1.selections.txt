@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.100076041	1.151459635	831.0	1994.5	Pterocles_burchelli-ML277969.wav	D:\Andean\Pteroclidae\Pterocles_burchelli-ML277969.wav	1	a
+2	Spectrogram 1	1	1.735364116	1.784412092	886.4	2022.2	Pterocles_burchelli-ML277969.wav	D:\Andean\Pteroclidae\Pterocles_burchelli-ML277969.wav	2	a
+3	Spectrogram 1	1	2.576186568	2.629905780	1024.9	1994.5	Pterocles_burchelli-ML277969.wav	D:\Andean\Pteroclidae\Pterocles_burchelli-ML277969.wav	3	a

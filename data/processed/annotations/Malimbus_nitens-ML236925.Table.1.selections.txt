@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.630788164	9.746395353	942.8	2514.0	Malimbus_nitens-ML236925.wav	D:\Andean\Ploceidae\Malimbus_nitens-ML236925.wav	1	a
+2	Spectrogram 1	1	11.599413439	11.721626753	890.4	2435.5	Malimbus_nitens-ML236925.wav	D:\Andean\Ploceidae\Malimbus_nitens-ML236925.wav	2	a
+3	Spectrogram 1	1	14.186633038	14.302240227	916.6	2330.7	Malimbus_nitens-ML236925.wav	D:\Andean\Ploceidae\Malimbus_nitens-ML236925.wav	3	a

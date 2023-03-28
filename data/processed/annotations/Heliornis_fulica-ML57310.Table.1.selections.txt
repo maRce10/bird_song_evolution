@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.371165980	14.750110007	394.8	5808.6	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	1	a
+2	Spectrogram 1	1	14.832214546	15.053265228	394.8	5526.6	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	1	b
+3	Spectrogram 1	1	15.129054033	15.356420450	282.0	5808.6	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	1	b
+4	Spectrogram 1	1	15.425893521	15.627997002	338.4	5808.6	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	1	b
+5	Spectrogram 1	1	15.722733009	15.924836490	338.4	6146.9	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	1	b
+6	Spectrogram 1	1	16.051151165	16.265886114	338.4	6034.1	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	1	b
+7	Spectrogram 1	1	16.392200790	16.644830141	282.0	6203.3	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	1	b
+8	Spectrogram 1	1	128.327001275	128.693313834	451.2	4173.1	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	2	a
+9	Spectrogram 1	1	128.788049841	128.971206120	225.6	4793.5	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	2	b
+10	Spectrogram 1	1	129.084889328	129.242782673	225.6	4962.7	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	2	b
+11	Spectrogram 1	1	129.375413082	129.577516563	225.6	5357.4	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	2	b
+12	Spectrogram 1	1	129.716462706	129.969092058	451.2	5131.8	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	2	c
+13	Spectrogram 1	1	130.076459532	130.310141682	507.5	5131.8	Heliornis_fulica-ML57310.wav	C:\Users\Carlos PC\Desktop\Marcelo\Heliornithidae\Heliornis_fulica-ML57310.wav	2	c

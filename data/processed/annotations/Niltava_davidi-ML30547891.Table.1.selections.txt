@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.825552142	19.136040021	7070.7	7646.8	Niltava_davidi-ML30547891.wav	E:\Andean\Muscicapidae\Niltava_davidi-ML30547891.wav	1	a
+2	Spectrogram 1	1	19.763621904	20.080715908	7018.3	7699.2	Niltava_davidi-ML30547891.wav	E:\Andean\Muscicapidae\Niltava_davidi-ML30547891.wav	2	a
+3	Spectrogram 1	1	20.774359042	21.111271421	7044.5	7673.0	Niltava_davidi-ML30547891.wav	E:\Andean\Muscicapidae\Niltava_davidi-ML30547891.wav	3	a

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	125.473551670	125.651917048	637.1	2049.9	Gallus_gallus-ML2669.wav	D:\Andean\Phasianidae\Gallus_gallus-ML2669.wav	1	a
+2	Spectrogram 1	1	125.751008924	127.177931942	554.0	2243.8	Gallus_gallus-ML2669.wav	D:\Andean\Phasianidae\Gallus_gallus-ML2669.wav	1	b
+3	Spectrogram 1	1	132.020592923	132.198958301	554.0	2160.7	Gallus_gallus-ML2669.wav	D:\Andean\Phasianidae\Gallus_gallus-ML2669.wav	2	a
+4	Spectrogram 1	1	132.284837927	133.718367070	498.6	2326.9	Gallus_gallus-ML2669.wav	D:\Andean\Phasianidae\Gallus_gallus-ML2669.wav	2	b
+5	Spectrogram 1	1	144.855279945	145.020433073	526.3	2160.7	Gallus_gallus-ML2669.wav	D:\Andean\Phasianidae\Gallus_gallus-ML2669.wav	3	a
+6	Spectrogram 1	1	145.119524949	146.414325465	554.0	2216.1	Gallus_gallus-ML2669.wav	D:\Andean\Phasianidae\Gallus_gallus-ML2669.wav	3	b

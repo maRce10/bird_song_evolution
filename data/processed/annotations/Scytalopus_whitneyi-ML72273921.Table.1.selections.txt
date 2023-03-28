@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.226554938	0.336328981	858.7	3545.7	Scytalopus_whitneyi-ML72273921.wav	D:\Andean\Rhinocryptidae\Scytalopus_whitneyi-ML72273921.wav	1	a
+2	Spectrogram 1	1	0.698349759	0.808123801	858.7	3545.7	Scytalopus_whitneyi-ML72273921.wav	D:\Andean\Rhinocryptidae\Scytalopus_whitneyi-ML72273921.wav	2	a
+3	Spectrogram 1	1	1.174815815	1.284589857	831.0	3601.1	Scytalopus_whitneyi-ML72273921.wav	D:\Andean\Rhinocryptidae\Scytalopus_whitneyi-ML72273921.wav	3	a

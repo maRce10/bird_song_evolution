@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.780437689	23.028167379	2825.5	3268.7	Illadopsis_cleaveri-ML87169.wav	D:\Andean\Pellorneidae\Illadopsis_cleaveri-ML87169.wav	1	a
+2	Spectrogram 1	1	23.057894942	23.381595071	2853.2	3268.7	Illadopsis_cleaveri-ML87169.wav	D:\Andean\Pellorneidae\Illadopsis_cleaveri-ML87169.wav	1	a
+3	Spectrogram 1	1	26.992746430	27.194233245	2742.4	3213.3	Illadopsis_cleaveri-ML87169.wav	D:\Andean\Pellorneidae\Illadopsis_cleaveri-ML87169.wav	2	a
+4	Spectrogram 1	1	27.276809808	27.607116062	2853.2	3241.0	Illadopsis_cleaveri-ML87169.wav	D:\Andean\Pellorneidae\Illadopsis_cleaveri-ML87169.wav	2	a
+5	Spectrogram 1	1	30.896860643	31.144590333	2825.5	3213.3	Illadopsis_cleaveri-ML87169.wav	D:\Andean\Pellorneidae\Illadopsis_cleaveri-ML87169.wav	3	a
+6	Spectrogram 1	1	31.204045459	31.587200714	2880.9	3324.1	Illadopsis_cleaveri-ML87169.wav	D:\Andean\Pellorneidae\Illadopsis_cleaveri-ML87169.wav	3	a

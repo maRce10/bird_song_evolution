@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	151.296832822	151.422349198	156.7	10224.7	Euryceros_prevostii-ML87966.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Euryceros_prevostii-ML87966.wav	1	a
+2	Spectrogram 1	1	151.498013542	151.591438259	195.9	9950.5	Euryceros_prevostii-ML87966.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Euryceros_prevostii-ML87966.wav	1	b
+3	Spectrogram 1	1	151.689534212	151.782958928	156.7	9872.1	Euryceros_prevostii-ML87966.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Euryceros_prevostii-ML87966.wav	1	b
+4	Spectrogram 1	1	151.909082296	152.014185103	156.7	9989.7	Euryceros_prevostii-ML87966.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Euryceros_prevostii-ML87966.wav	1	a
+5	Spectrogram 1	1	153.217028767	153.345487753	235.1	10812.3	Euryceros_prevostii-ML87966.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Euryceros_prevostii-ML87966.wav	2	a
+6	Spectrogram 1	1	153.415556291	153.504309772	156.7	10773.2	Euryceros_prevostii-ML87966.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Euryceros_prevostii-ML87966.wav	2	b
+7	Spectrogram 1	1	153.660796172	153.786919540	313.4	11086.6	Euryceros_prevostii-ML87966.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Euryceros_prevostii-ML87966.wav	2	c
+8	Spectrogram 1	1	154.815999329	155.091602244	352.6	8814.4	Euryceros_prevostii-ML87966.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Euryceros_prevostii-ML87966.wav	3	d

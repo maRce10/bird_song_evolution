@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.444635567	6.604651644	609.4	1108.0	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	1	a
+2	Spectrogram 1	1	6.804671739	6.984689824	609.4	1080.3	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	1	a
+3	Spectrogram 1	1	7.211379266	7.418066697	637.1	1108.0	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	1	a
+4	Spectrogram 1	1	7.624754129	7.844776234	609.4	1108.0	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	1	a
+5	Spectrogram 1	1	8.004792310	8.164808386	637.1	1024.9	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	1	a
+6	Spectrogram 1	1	8.378163154	8.524844557	554.0	1080.3	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	1	a
+7	Spectrogram 1	1	14.325429857	14.465443924	609.4	1080.3	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	2	a
+8	Spectrogram 1	1	14.678798692	14.838814768	664.8	1080.3	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	2	a
+9	Spectrogram 1	1	15.065504209	15.278858978	609.4	1108.0	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	2	a
+10	Spectrogram 1	1	15.478879073	15.665564495	609.4	1080.3	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	2	a
+11	Spectrogram 1	1	15.872251927	16.045602676	609.4	1052.6	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	2	a
+12	Spectrogram 1	1	16.245622771	16.392304174	609.4	1108.0	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	2	a
+13	Spectrogram 1	1	16.592324269	16.725670999	581.7	1024.9	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	2	a
+14	Spectrogram 1	1	24.661856558	24.788535951	664.8	1135.7	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	3	a
+15	Spectrogram 1	1	25.008558056	25.175241469	692.5	1108.0	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	3	a
+16	Spectrogram 1	1	25.428600256	25.575281659	692.5	1108.0	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	3	a
+17	Spectrogram 1	1	25.848642456	25.981989186	692.5	1052.6	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	3	a
+18	Spectrogram 1	1	26.202011291	26.362027367	637.1	1108.0	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	3	a
+19	Spectrogram 1	1	26.575382135	26.742065548	637.1	1080.3	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	3	a
+20	Spectrogram 1	1	26.948752979	27.088767046	554.0	997.2	Otus_rutilus-ML92866.wav	D:\Andean\Strigidae\Otus_rutilus-ML92866.wav	3	a

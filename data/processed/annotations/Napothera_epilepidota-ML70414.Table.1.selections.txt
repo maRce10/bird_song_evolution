@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	163.307639036	163.948433169	2714.7	3988.9	Napothera_epilepidota-ML70414.wav	D:\Andean\Pellorneidae\Napothera_epilepidota-ML70414.wav	1	a
+2	Spectrogram 1	1	165.996331945	166.643732203	2797.8	4016.6	Napothera_epilepidota-ML70414.wav	D:\Andean\Pellorneidae\Napothera_epilepidota-ML70414.wav	2	a
+3	Spectrogram 1	1	168.810541230	169.457941488	2742.4	4044.3	Napothera_epilepidota-ML70414.wav	D:\Andean\Pellorneidae\Napothera_epilepidota-ML70414.wav	3	a

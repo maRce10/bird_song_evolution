@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.198136969	0.247114647	1385.1	4113.4	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	1	a
+2	Spectrogram 1	1	0.258245937	0.302771099	3878.3	7835.0	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	1	b
+3	Spectrogram 1	1	0.576600843	0.622239134	1096.9	4191.7	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	1	a
+4	Spectrogram 1	1	0.648954231	0.687913747	3917.5	8344.3	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	1	b
+5	Spectrogram 1	1	0.956177846	1.002929265	901.0	4779.4	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	1	c
+6	Spectrogram 1	1	1.022965588	1.073056395	3721.6	7874.2	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	1	b
+7	Spectrogram 1	1	4.261373476	4.314803670	1292.8	4270.1	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	2	d
+8	Spectrogram 1	1	4.332613735	4.374912638	3800.0	7521.6	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	2	b
+9	Spectrogram 1	1	4.558578930	4.608669737	1214.4	3878.3	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	2	a
+10	Spectrogram 1	1	4.623140414	4.671004963	3760.8	7678.3	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	2	b
+11	Spectrogram 1	1	4.896970158	4.951513481	901.0	3995.9	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	2	c
+12	Spectrogram 1	1	4.971549804	5.018301223	3800.0	8618.5	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	2	b
+13	Spectrogram 1	1	5.489546590	5.537411139	705.2	4466.0	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	3	a
+14	Spectrogram 1	1	5.560786849	5.596406978	3486.6	8187.6	Oriolia_bernieri-ML257654201.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Oriolia_bernieri-ML257654201.wav	3	b

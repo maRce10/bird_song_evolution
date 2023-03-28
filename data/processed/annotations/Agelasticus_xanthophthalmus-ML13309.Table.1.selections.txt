@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.661227638	6.951130978	1669.1	5801.1	Agelasticus_xanthophthalmus-ML13309.wav	E:\Escritorio\Cantos\Icteridae\Agelasticus_xanthophthalmus-ML13309.wav	1	a
+2	Spectrogram 1	1	7.025374516	7.350631922	1625.2	5710.2	Agelasticus_xanthophthalmus-ML13309.wav	E:\Escritorio\Cantos\Icteridae\Agelasticus_xanthophthalmus-ML13309.wav	1	a
+3	Spectrogram 1	1	7.435481680	7.799628558	1645.1	5830.0	Agelasticus_xanthophthalmus-ML13309.wav	E:\Escritorio\Cantos\Icteridae\Agelasticus_xanthophthalmus-ML13309.wav	1	a
+4	Spectrogram 1	1	124.422794750	124.740981342	1616.2	5830.0	Agelasticus_xanthophthalmus-ML13309.wav	E:\Escritorio\Cantos\Icteridae\Agelasticus_xanthophthalmus-ML13309.wav	2	a
+5	Spectrogram 1	1	124.808154067	125.133411473	1587.4	5743.4	Agelasticus_xanthophthalmus-ML13309.wav	E:\Escritorio\Cantos\Icteridae\Agelasticus_xanthophthalmus-ML13309.wav	2	a
+6	Spectrogram 1	1	125.207655011	125.593014328	1587.4	5714.5	Agelasticus_xanthophthalmus-ML13309.wav	E:\Escritorio\Cantos\Icteridae\Agelasticus_xanthophthalmus-ML13309.wav	2	a
+7	Spectrogram 1	1	125.688470306	126.096809766	1703.6	5685.7	Agelasticus_xanthophthalmus-ML13309.wav	E:\Escritorio\Cantos\Icteridae\Agelasticus_xanthophthalmus-ML13309.wav	2	a

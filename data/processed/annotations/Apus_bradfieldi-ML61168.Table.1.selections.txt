@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.048486102	29.880016445	3337.2	6451.8	Apus_bradfieldi-ML61168.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_bradfieldi-ML61168.wav	1	a
+2	Spectrogram 1	1	30.051842022	30.445444871	3683.2	5660.8	Apus_bradfieldi-ML61168.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_bradfieldi-ML61168.wav	1	b
+3	Spectrogram 1	1	30.463174729	30.826636820	3114.7	5908.0	Apus_bradfieldi-ML61168.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_bradfieldi-ML61168.wav	1	c
+4	Spectrogram 1	1	41.583018547	42.309942728	4004.6	6526.0	Apus_bradfieldi-ML61168.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_bradfieldi-ML61168.wav	2	d
+5	Spectrogram 1	1	42.763524030	43.259960056	3708.0	5982.2	Apus_bradfieldi-ML61168.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_bradfieldi-ML61168.wav	2	e
+6	Spectrogram 1	1	51.554672220	52.146849479	5314.7	7564.2	Apus_bradfieldi-ML61168.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_bradfieldi-ML61168.wav	3	a
+7	Spectrogram 1	1	52.265639528	52.648604463	3510.2	6229.4	Apus_bradfieldi-ML61168.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_bradfieldi-ML61168.wav	3	f

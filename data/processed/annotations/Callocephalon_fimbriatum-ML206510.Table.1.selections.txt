@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.505655789	7.131045640	148.3	3955.2	Callocephalon_fimbriatum-ML206510.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Callocephalon_fimbriatum-ML206510.wav	1	a
+2	Spectrogram 1	1	7.671060803	8.287592441	222.5	4152.9	Callocephalon_fimbriatum-ML206510.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Callocephalon_fimbriatum-ML206510.wav	2	a
+3	Spectrogram 1	1	8.814533574	9.434608496	148.3	4177.6	Callocephalon_fimbriatum-ML206510.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Callocephalon_fimbriatum-ML206510.wav	3	a

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	116.686315867	117.138774624	1254.0	1724.3	Trogon_rufus-ML6517.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_rufus-ML6517.wav	1	a
+2	Spectrogram 1	1	117.498869252	117.915055132	914.4	1750.4	Trogon_rufus-ML6517.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_rufus-ML6517.wav	1	b
+3	Spectrogram 1	1	118.298210387	118.701184017	888.3	1672.0	Trogon_rufus-ML6517.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_rufus-ML6517.wav	1	c
+5	Spectrogram 1	1	130.252155116	130.655128746	1227.9	1750.4	Trogon_rufus-ML6517.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_rufus-ML6517.wav	2	a
+6	Spectrogram 1	1	131.077920751	131.480894381	914.4	1672.0	Trogon_rufus-ML6517.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_rufus-ML6517.wav	2	b
+7	Spectrogram 1	1	131.837625136	132.267023266	653.1	1698.2	Trogon_rufus-ML6517.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_rufus-ML6517.wav	2	d
+8	Spectrogram 1	1	143.621161427	144.043953432	1227.9	1724.3	Trogon_rufus-ML6517.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_rufus-ML6517.wav	3	a
+9	Spectrogram 1	1	144.440320937	144.830082317	888.3	1672.0	Trogon_rufus-ML6517.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_rufus-ML6517.wav	3	b
+10	Spectrogram 1	1	145.219843697	145.655847952	705.4	1672.0	Trogon_rufus-ML6517.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_rufus-ML6517.wav	3	d

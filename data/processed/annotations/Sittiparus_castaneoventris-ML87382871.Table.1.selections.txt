@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.433699950	4.496761634	6066.5	7174.6	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	1	a
+2	Spectrogram 1	1	4.548145228	4.594857587	5900.3	6980.7	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	1	a
+3	Spectrogram 1	1	4.636898709	4.685946686	5844.9	6925.3	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	1	a
+4	Spectrogram 1	1	6.851064499	6.911790565	5955.7	7091.5	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	2	a
+5	Spectrogram 1	1	6.972516631	7.023900226	6011.1	6980.7	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	2	a
+6	Spectrogram 1	1	7.061270112	7.105646853	6038.8	6897.6	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	2	a
+7	Spectrogram 1	1	7.154694829	7.194400334	5928.0	6925.3	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	2	a
+8	Spectrogram 1	1	14.926691737	15.015445218	5928.0	7091.5	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	3	a
+9	Spectrogram 1	1	15.052815105	15.111205553	5872.6	7008.4	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	3	a
+10	Spectrogram 1	1	15.150911057	15.199959034	5817.2	6980.7	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	3	a
+11	Spectrogram 1	1	15.242000156	15.281705661	5872.6	7036.1	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	3	a
+12	Spectrogram 1	1	15.321411166	15.368123524	5761.8	6980.7	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	3	a
+13	Spectrogram 1	1	15.405493411	15.445198915	5789.5	6925.3	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	3	a
+14	Spectrogram 1	1	15.489575656	15.531616779	5789.5	6925.3	Sittiparus_castaneoventris-ML87382871.wav	D:\Andean\Paridae\Sittiparus_castaneoventris-ML87382871.wav	3	a

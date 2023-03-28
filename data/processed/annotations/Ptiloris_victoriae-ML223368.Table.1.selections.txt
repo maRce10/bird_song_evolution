@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.864663286	5.485639044	1495.9	3988.9	Ptiloris_victoriae-ML223368.wav	D:\Andean\Paradisaeidae\Ptiloris_victoriae-ML223368.wav	1	a
+2	Spectrogram 1	1	72.392186161	73.046192544	1385.1	3767.3	Ptiloris_victoriae-ML223368.wav	D:\Andean\Paradisaeidae\Ptiloris_victoriae-ML223368.wav	2	a
+3	Spectrogram 1	1	152.726606361	153.340975994	1357.3	3601.1	Ptiloris_victoriae-ML223368.wav	D:\Andean\Paradisaeidae\Ptiloris_victoriae-ML223368.wav	3	a

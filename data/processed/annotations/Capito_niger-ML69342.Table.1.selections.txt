@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.869646572	7.126534754	271.9	568.6	Capito_niger-ML69342.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_niger-ML69342.wav	1	a
+2	Spectrogram 1	1	7.856451520	8.120426273	247.2	568.6	Capito_niger-ML69342.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_niger-ML69342.wav	2	a
+3	Spectrogram 1	1	8.439321947	8.660777277	222.5	543.8	Capito_niger-ML69342.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_niger-ML69342.wav	3	a

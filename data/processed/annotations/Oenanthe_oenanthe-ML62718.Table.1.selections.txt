@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.538273848	24.704102721	3011.6	5263.7	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	1	a
+2	Spectrogram 1	1	24.748479461	24.774171258	1021.3	4844.7	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	1	b
+3	Spectrogram 1	1	24.795191819	24.909637098	2435.5	3116.3	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	1	a
+4	Spectrogram 1	1	24.944671366	25.021746758	1885.5	5263.7	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	1	c
+5	Spectrogram 1	1	25.049774173	25.110500239	1623.6	2383.1	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	1	d
+6	Spectrogram 1	1	25.124513946	25.150205744	2226.0	3247.3	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	1	e
+7	Spectrogram 1	1	25.161883833	25.192246866	2173.6	3273.5	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	1	e
+8	Spectrogram 1	1	25.311363380	25.617329328	2540.2	5630.3	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	1	f
+9	Spectrogram 1	1	37.373452144	37.567308431	2854.5	5211.3	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	2	a
+10	Spectrogram 1	1	37.623363261	37.644383823	1414.1	4321.0	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	2	b
+11	Spectrogram 1	1	37.660733148	37.784520898	2252.1	3221.1	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	2	a
+12	Spectrogram 1	1	37.828897639	37.852253818	1859.3	4504.3	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	2	g
+13	Spectrogram 1	1	37.880281233	37.917651120	2383.1	3194.9	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	2	h
+14	Spectrogram 1	1	37.955021006	38.036767634	2173.6	2645.0	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	2	i
+15	Spectrogram 1	1	38.078808756	38.468856949	3116.3	5918.4	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	2	j
+16	Spectrogram 1	1	51.007465578	51.163951978	2828.3	4425.7	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	a
+17	Spectrogram 1	1	51.210664337	51.243362988	1283.2	3744.8	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	b
+18	Spectrogram 1	1	51.262047931	51.339123322	3456.8	5368.5	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	k
+19	Spectrogram 1	1	51.369486355	51.402185006	1204.6	3797.2	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	b
+20	Spectrogram 1	1	51.423205568	51.575020733	2356.9	4975.7	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	l
+21	Spectrogram 1	1	51.589034440	51.666109831	3666.3	4190.0	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	i
+22	Spectrogram 1	1	51.719829044	51.948719600	2199.8	5604.2	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	m
+23	Spectrogram 1	1	51.967404543	52.000103194	2121.2	3116.3	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	d
+24	Spectrogram 1	1	52.037473081	52.100534765	3011.6	4059.1	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	d
+25	Spectrogram 1	1	52.135569034	52.161260831	1021.3	3797.2	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	b
+26	Spectrogram 1	1	52.182281392	52.385480151	2042.6	5028.0	Oenanthe_oenanthe-ML62718.wav	E:\Andean\Muscicapidae\Oenanthe_oenanthe-ML62718.wav	3	n

@@ -1,0 +1,28 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.918251387	0.984312637	4016.6	4764.6	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	1	a
+2	Spectrogram 1	1	1.070192263	1.142859639	3490.3	3905.8	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	1	b
+3	Spectrogram 1	1	1.225436203	1.294800516	3102.5	3545.7	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	1	c
+4	Spectrogram 1	1	1.397195455	1.522711832	2742.4	3102.5	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	1	d
+5	Spectrogram 1	1	1.604245286	1.614154474	1606.7	2631.6	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	1	e
+6	Spectrogram 1	1	1.618500645	1.684561896	1634.4	2825.5	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	1	f
+7	Spectrogram 1	1	1.691443857	1.703121947	2714.7	3185.6	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	1	g
+8	Spectrogram 1	1	1.707793183	1.718303463	2880.9	3296.4	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	1	g
+9	Spectrogram 1	1	1.725310317	1.745163069	2825.5	3351.8	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	1	
+10	Spectrogram 1	1	1.856321148	1.912473212	4016.6	4736.9	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	2	a
+11	Spectrogram 1	1	1.991746713	2.054504901	3545.7	3933.5	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	2	b
+12	Spectrogram 1	1	2.140384527	2.216354965	3074.8	3545.7	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	2	c
+13	Spectrogram 1	1	2.322052967	2.454175468	2742.4	3102.5	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	2	d
+14	Spectrogram 1	1	2.519193610	2.542315048	1772.9	2991.7	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	2	e
+15	Spectrogram 1	1	2.553267345	2.609937507	1689.8	2991.7	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	2	f
+16	Spectrogram 1	1	2.618112170	2.625119024	2603.9	3047.1	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	2	g
+17	Spectrogram 1	1	2.628622451	2.636797113	2908.6	3241.0	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	2	g
+18	Spectrogram 1	1	2.643803967	2.664824528	2880.9	3462.6	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	2	g
+19	Spectrogram 1	1	2.768759338	2.831821022	4155.2	4709.2	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	3	a
+20	Spectrogram 1	1	2.919406694	2.978964951	3545.7	3905.8	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	3	b
+21	Spectrogram 1	1	3.070054050	3.143626014	3019.4	3462.6	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	3	c
+22	Spectrogram 1	1	3.244057585	3.398208368	2687.0	3157.9	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	3	d
+23	Spectrogram 1	1	3.453960310	3.470475622	1689.8	2880.9	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	3	e
+24	Spectrogram 1	1	3.476451568	3.541848870	1606.7	2991.7	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	3	f
+25	Spectrogram 1	1	3.547687915	3.555862577	2714.7	3130.2	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	3	g
+26	Spectrogram 1	1	3.562869431	3.568708476	2714.7	3213.3	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	3	g
+27	Spectrogram 1	1	3.575715330	3.593232464	2908.6	3324.1	Psophodes_occidentalis-ML175742171.wav	D:\Andean\Psophodidae\Psophodes_occidentalis-ML175742171.wav	3	g

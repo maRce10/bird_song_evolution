@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.642176623	20.045150253	1994.5	3822.7	Macronyx_croceus-ML1327.wav	E:\Andean\Motacillidae\Macronyx_croceus-ML1327.wav	1	a
+2	Spectrogram 1	1	22.826328913	23.209484168	2105.3	4127.4	Macronyx_croceus-ML1327.wav	E:\Andean\Motacillidae\Macronyx_croceus-ML1327.wav	2	a
+3	Spectrogram 1	1	27.201101700	27.597469205	2049.9	3988.9	Macronyx_croceus-ML1327.wav	E:\Andean\Motacillidae\Macronyx_croceus-ML1327.wav	3	a

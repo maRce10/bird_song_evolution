@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	46.487830810	46.826495409	2246.8	2899.9	Zoothera_monticola-ML184685.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_monticola-ML184685.wav	1	a
+2	Spectrogram 1	1	47.032029786	47.377701238	2638.7	3213.4	Zoothera_monticola-ML184685.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_monticola-ML184685.wav	1	b
+3	Spectrogram 1	1	51.313209653	51.717271553	2220.7	2821.6	Zoothera_monticola-ML184685.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_monticola-ML184685.wav	2	a
+4	Spectrogram 1	1	51.904120987	52.338545920	2638.7	3187.3	Zoothera_monticola-ML184685.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_monticola-ML184685.wav	2	b
+5	Spectrogram 1	1	52.551087151	53.022881971	2377.4	3056.7	Zoothera_monticola-ML184685.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_monticola-ML184685.wav	2	c
+8	Spectrogram 1	1	57.861294762	58.244450017	2246.8	2795.4	Zoothera_monticola-ML184685.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_monticola-ML184685.wav	3	a
+9	Spectrogram 1	1	58.416209269	58.812576774	2638.7	3187.3	Zoothera_monticola-ML184685.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_monticola-ML184685.wav	3	b
+10	Spectrogram 1	1	59.225459591	59.734131223	2325.2	2952.2	Zoothera_monticola-ML184685.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_monticola-ML184685.wav	3	c

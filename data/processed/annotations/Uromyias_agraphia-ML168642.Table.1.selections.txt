@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	196.465418879	196.537823035	3288.3	8054.5	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	1	a
+2	Spectrogram 1	1	196.561179214	196.607891573	1810.4	7980.6	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	1	b
+3	Spectrogram 1	1	196.641758032	196.812258141	3214.4	7500.3	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	1	c
+4	Spectrogram 1	1	198.205498676	198.379502211	3805.6	8424.0	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	2	d
+5	Spectrogram 1	1	198.416872098	198.558176982	4212.0	8387.0	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	2	e
+7	Spectrogram 1	1	198.566351645	198.593211251	4101.1	5726.8	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	2	f
+8	Spectrogram 1	1	198.609560576	198.642259227	4285.9	7574.2	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	2	g
+9	Spectrogram 1	1	198.662111980	198.698314057	3990.3	7278.6	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	2	h
+10	Spectrogram 1	1	198.715831192	198.761375741	4285.9	7241.6	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	2	i
+11	Spectrogram 1	1	198.797577819	198.825605234	3842.5	6650.5	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	2	j
+12	Spectrogram 1	1	200.232187088	200.319772760	3842.5	8276.2	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	3	a
+13	Spectrogram 1	1	200.341377226	200.381666635	2216.8	8239.2	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	3	b
+14	Spectrogram 1	1	200.420204331	200.583697585	3362.2	7463.3	Uromyias_agraphia-ML168642.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Uromyias_agraphia-ML168642.wav	3	c

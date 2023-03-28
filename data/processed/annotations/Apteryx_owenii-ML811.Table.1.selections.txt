@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.519067944	5.970629481	2274.2	3263.0	Apteryx_owenii-ML811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apterygidae\Apterygidae\Apteryx_owenii-ML811.wav	1	a
+2	Spectrogram 1	1	6.405011004	6.848257455	2101.2	3263.0	Apteryx_owenii-ML811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apterygidae\Apterygidae\Apteryx_owenii-ML811.wav	2	a
+3	Spectrogram 1	1	7.367101819	7.755385711	2175.3	3287.7	Apteryx_owenii-ML811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apterygidae\Apterygidae\Apteryx_owenii-ML811.wav	3	a

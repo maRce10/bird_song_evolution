@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.203837737	7.266402471	4127.3	7761.1	Diglossa_duidae-ML236086551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Diglossa_duidae-ML236086551.wav	1	a
+2	Spectrogram 1	1	7.626572423	7.738174379	6846.5	9936.5	Diglossa_duidae-ML236086551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Diglossa_duidae-ML236086551.wav	1	b
+3	Spectrogram 1	1	7.995197068	8.122017474	6846.5	9590.4	Diglossa_duidae-ML236086551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Diglossa_duidae-ML236086551.wav	1	b

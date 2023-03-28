@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.954938847	1.984308621	5110.6	7633.2	Brunhilda_erythronotos-ML278198.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Brunhilda_erythronotos-ML278198.wav	1	a
+2	Spectrogram 1	1	2.389978629	2.419348403	5133.9	7539.8	Brunhilda_erythronotos-ML278198.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Brunhilda_erythronotos-ML278198.wav	2	a
+3	Spectrogram 1	1	2.698361259	2.731402255	5133.9	7399.7	Brunhilda_erythronotos-ML278198.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Brunhilda_erythronotos-ML278198.wav	3	a

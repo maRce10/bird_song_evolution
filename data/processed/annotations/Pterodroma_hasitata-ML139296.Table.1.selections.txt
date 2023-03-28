@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	676.512455827	677.833680844	332.4	1135.7	Pterodroma_hasitata-ML139296.wav	D:\Andean\Procellariidae\Pterodroma_hasitata-ML139296.wav	1	a
+2	Spectrogram 1	1	677.932772720	678.448050477	387.8	1108.0	Pterodroma_hasitata-ML139296.wav	D:\Andean\Procellariidae\Pterodroma_hasitata-ML139296.wav	1	a
+3	Spectrogram 1	1	678.573566853	679.002964984	470.9	1135.7	Pterodroma_hasitata-ML139296.wav	D:\Andean\Procellariidae\Pterodroma_hasitata-ML139296.wav	1	a
+4	Spectrogram 1	1	679.709820368	680.773406506	387.8	941.8	Pterodroma_hasitata-ML139296.wav	D:\Andean\Procellariidae\Pterodroma_hasitata-ML139296.wav	2	a
+5	Spectrogram 1	1	725.997131551	727.212658566	304.7	1135.7	Pterodroma_hasitata-ML139296.wav	D:\Andean\Procellariidae\Pterodroma_hasitata-ML139296.wav	3	a
+6	Spectrogram 1	1	727.344781068	727.978969076	304.7	1218.8	Pterodroma_hasitata-ML139296.wav	D:\Andean\Procellariidae\Pterodroma_hasitata-ML139296.wav	3	a

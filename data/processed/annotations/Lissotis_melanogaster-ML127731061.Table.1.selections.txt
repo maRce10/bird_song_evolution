@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.182178198	0.714699084	314.3	838.0	Lissotis_melanogaster-ML127731061.wav	E:\Andean\Otididae\Lissotis_melanogaster-ML127731061.wav	1	a
+2	Spectrogram 1	1	0.731048410	0.773089532	445.2	2409.3	Lissotis_melanogaster-ML127731061.wav	E:\Andean\Otididae\Lissotis_melanogaster-ML127731061.wav	1	b
+3	Spectrogram 1	1	9.929770699	10.480976529	157.1	916.6	Lissotis_melanogaster-ML127731061.wav	E:\Andean\Otididae\Lissotis_melanogaster-ML127731061.wav	2	a
+4	Spectrogram 1	1	10.501997090	10.534695741	366.6	2461.6	Lissotis_melanogaster-ML127731061.wav	E:\Andean\Otididae\Lissotis_melanogaster-ML127731061.wav	2	b
+5	Spectrogram 1	1	67.231809067	67.764329953	183.3	916.6	Lissotis_melanogaster-ML127731061.wav	E:\Andean\Otididae\Lissotis_melanogaster-ML127731061.wav	3	a
+6	Spectrogram 1	1	67.783014896	67.822720401	471.4	2566.4	Lissotis_melanogaster-ML127731061.wav	E:\Andean\Otididae\Lissotis_melanogaster-ML127731061.wav	3	b

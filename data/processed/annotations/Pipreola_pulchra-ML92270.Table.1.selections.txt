@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	168.616489640	171.024811134	5577.740	8520.855	Pipreola_pulchra-ML92270.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_pulchra-ML92270.wav	1	a
+2	Spectrogram 1	1	256.451689882	259.014202690	5647.815	8567.571	Pipreola_pulchra-ML92270.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_pulchra-ML92270.wav	2	a
+3	Spectrogram 1	1	599.691524732	601.903828038	5713.700	8333.990	Pipreola_pulchra-ML92270.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_pulchra-ML92270.wav	3	a

@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.616812019	20.684504807	1910.7	4184.0	Xiphocolaptes_falcirostris-ML229952.wav	E:\Escritorio\Cantos\Furnariidae\Xiphocolaptes_falcirostris-ML229952.wav	1	a

@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.316809770	7.577434920	717.8	1136.5	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	1	a
+2	Spectrogram 1	1	7.587087703	7.838060070	697.8	1196.3	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	1	a
+3	Spectrogram 1	1	7.847712853	8.089032437	658.0	1176.4	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	1	a
+4	Spectrogram 1	1	8.089032437	8.359310370	658.0	1196.3	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	1	a
+5	Spectrogram 1	1	8.349657587	8.629588304	618.1	1176.4	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	1	a
+6	Spectrogram 1	1	8.610282737	8.870907887	677.9	1176.4	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	1	a
+7	Spectrogram 1	1	8.880560671	9.131533037	658.0	1136.5	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	1	a
+8	Spectrogram 1	1	9.121880254	9.401810971	638.0	1196.3	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	1	a
+9	Spectrogram 1	1	9.421116537	9.662436121	697.8	1256.1	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	1	a
+10	Spectrogram 1	1	56.765027323	57.054610823	737.7	1116.5	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	2	a
+11	Spectrogram 1	1	57.083569173	57.305583189	697.8	1116.5	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	2	a
+12	Spectrogram 1	1	57.315235973	57.575861123	658.0	1176.4	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	2	a
+13	Spectrogram 1	1	57.585513906	57.826833490	598.1	1176.4	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	2	a
+14	Spectrogram 1	1	57.855791840	58.087458640	658.0	1136.5	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	2	a
+15	Spectrogram 1	1	58.116416990	58.367389357	658.0	1176.4	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	2	a
+16	Spectrogram 1	1	58.396347707	58.637667290	618.1	1196.3	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	2	a
+17	Spectrogram 1	1	58.666625640	58.917598007	717.8	1196.3	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	2	a
+18	Spectrogram 1	1	145.530171054	145.781143421	658.0	1156.4	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	3	
+19	Spectrogram 1	1	145.814928163	146.036942179	717.8	1156.4	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	3	a
+20	Spectrogram 1	1	146.075553313	146.307220113	677.9	1156.4	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	3	a
+21	Spectrogram 1	1	146.326525679	146.567845263	658.0	1136.5	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	3	a
+22	Spectrogram 1	1	146.596803613	146.828470413	658.0	1136.5	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	3	a
+23	Spectrogram 1	1	146.828470413	147.079442780	717.8	1176.4	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	3	a
+24	Spectrogram 1	1	147.089095563	147.340067930	677.9	1276.0	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	3	a
+25	Spectrogram 1	1	147.359373497	147.600693080	677.9	1256.1	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	3	a
+26	Spectrogram 1	1	147.629651430	147.851665447	677.9	1276.0	Myrmothera_subcanescens-ML88915.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Myrmothera_subcanescens-ML88915.wav	3	a

@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.307151772	14.485517149	1108.0	1662.1	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	1	a
+2	Spectrogram 1	1	14.670488652	14.875278529	1108.0	1800.6	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	1	b
+3	Spectrogram 1	1	15.027219406	15.218797034	1108.0	1828.3	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	1	b
+4	Spectrogram 1	1	15.416980786	15.601952288	1135.7	1883.7	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	1	b
+5	Spectrogram 1	1	15.753893165	15.985107543	1080.3	1772.9	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	1	b
+6	Spectrogram 1	1	16.143654545	16.348444423	1135.7	1828.3	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	1	b
+7	Spectrogram 1	1	16.513597550	16.705175177	1080.3	1800.6	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	1	b
+8	Spectrogram 1	1	16.883540555	17.088330432	1052.6	1772.9	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	1	b
+9	Spectrogram 1	1	34.283750524	34.462115901	1080.3	1662.1	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	2	a
+10	Spectrogram 1	1	34.640481279	34.825452781	1080.3	1883.7	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	2	b
+11	Spectrogram 1	1	35.023636533	35.221820286	1135.7	1883.7	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	2	b
+12	Spectrogram 1	1	35.393579538	35.585157166	1108.0	1883.7	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	2	b
+13	Spectrogram 1	1	35.763522543	35.961706295	1108.0	1883.7	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	2	b
+14	Spectrogram 1	1	36.133465547	36.358073800	1163.4	1883.7	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	2	b
+15	Spectrogram 1	1	36.490196302	36.714804555	1108.0	1745.2	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	2	b
+16	Spectrogram 1	1	36.873351557	37.038504684	1024.9	1634.4	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	2	c
+18	Spectrogram 1	1	49.680112098	49.818840725	1080.3	1468.2	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	3	d
+19	Spectrogram 1	1	49.990599977	50.162359229	1052.6	1745.2	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	3	b
+20	Spectrogram 1	1	50.340724606	50.565332859	1052.6	1800.6	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	3	b
+21	Spectrogram 1	1	50.730485986	50.928669739	1052.6	1856.0	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	3	b
+22	Spectrogram 1	1	51.093822866	51.311824994	1024.9	1772.9	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	3	b
+23	Spectrogram 1	1	51.457159745	51.675161873	1052.6	1772.9	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	3	b
+24	Spectrogram 1	1	51.840315000	52.051711003	1024.9	1772.9	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	3	b
+25	Spectrogram 1	1	52.190439630	52.401835632	1080.3	1800.6	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	3	b
+26	Spectrogram 1	1	52.547170384	52.725535761	1080.3	1606.7	Biatas_nigropectus-ML52839.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Biatas_nigropectus-ML52839.wav	3	c

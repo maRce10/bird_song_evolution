@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	33.985990945	34.421995201	627.0	2194.5	Calidris_ruficollis-ML92753.wav	D:\Andean\Scolopacidae\Calidris_ruficollis-ML92753.wav	1	a
+2	Spectrogram 1	1	34.798544331	35.214730211	679.3	2246.8	Calidris_ruficollis-ML92753.wav	D:\Andean\Scolopacidae\Calidris_ruficollis-ML92753.wav	2	a
+3	Spectrogram 1	1	35.630916091	36.053708096	653.1	2194.5	Calidris_ruficollis-ML92753.wav	D:\Andean\Scolopacidae\Calidris_ruficollis-ML92753.wav	3	a

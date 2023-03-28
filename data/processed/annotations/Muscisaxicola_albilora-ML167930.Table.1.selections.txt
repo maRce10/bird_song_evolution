@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.695211299	9.738420230	1634.4	6011.1	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	a
+2	Spectrogram 1	1	11.542685075	11.605746759	969.5	6398.9	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	b
+3	Spectrogram 1	1	11.787924957	11.839308551	1634.4	6121.9	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	c
+4	Spectrogram 1	1	11.963096452	11.984117014	1274.2	6121.9	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	d
+5	Spectrogram 1	1	12.085716393	12.113743808	1246.5	6288.1	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	e
+6	Spectrogram 1	1	12.238699367	12.277237063	1329.6	5789.5	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	f
+7	Spectrogram 1	1	12.411535175	12.451240680	1579.0	5872.6	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	g
+9	Spectrogram 1	1	12.557197175	12.593530863	1163.4	5983.4	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	h
+10	Spectrogram 1	1	12.670327067	12.688493911	1024.9	5651.0	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	i
+11	Spectrogram 1	1	12.718221474	12.754555162	1024.9	5955.7	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	j
+13	Spectrogram 1	1	12.870162351	12.898238382	1108.0	3324.1	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	k
+14	Spectrogram 1	1	12.929617476	12.964299633	914.1	3628.8	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	l
+15	Spectrogram 1	1	13.027057821	13.063391509	969.5	3988.9	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	m
+16	Spectrogram 1	1	13.131104292	13.162483386	1080.3	4570.7	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	1	n
+17	Spectrogram 1	1	13.540684047	13.568760078	1135.7	4543.0	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	2	n
+18	Spectrogram 1	1	13.624912219	13.671155017	1523.6	5928.0	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	2	o
+19	Spectrogram 1	1	13.869338847	13.910627118	1246.5	5567.9	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	2	p
+20	Spectrogram 1	1	14.120371601	14.168265996	1468.2	5928.0	Muscisaxicola_albilora-ML167930.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_albilora-ML167930.wav	2	o

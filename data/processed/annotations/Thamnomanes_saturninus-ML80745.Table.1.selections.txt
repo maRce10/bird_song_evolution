@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	170.049822446	170.241400074	1772.9	2742.4	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	a
+2	Spectrogram 1	1	170.446189951	170.650979829	1772.9	2880.9	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	b
+3	Spectrogram 1	1	170.849163582	171.040741209	1856.0	3656.5	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	c
+4	Spectrogram 1	1	171.245531087	171.423896464	2133.0	3739.6	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	d
+5	Spectrogram 1	1	171.595655716	171.774021093	2022.2	3711.9	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	e
+6	Spectrogram 1	1	171.945780345	172.143964098	2049.9	3739.6	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	e
+7	Spectrogram 1	1	172.282692725	172.461058102	2049.9	3684.2	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	e
+8	Spectrogram 1	1	172.579968353	172.731909230	2022.2	3739.6	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	e
+9	Spectrogram 1	1	172.850819482	173.015972609	2077.6	3739.6	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	f
+11	Spectrogram 1	1	173.115064485	173.253793112	2465.4	3878.1	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	g
+12	Spectrogram 1	1	173.346278863	173.491613615	2437.7	3878.1	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	g
+13	Spectrogram 1	1	173.584099366	173.722827993	2465.4	3822.7	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	g
+14	Spectrogram 1	1	173.808707619	173.927617870	2548.5	4155.2	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	h
+15	Spectrogram 1	1	174.006891371	174.125801623	2714.7	4349.1	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	i
+16	Spectrogram 1	1	174.191862874	174.310773125	2714.7	4349.1	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	i
+17	Spectrogram 1	1	174.396652751	174.522169128	2880.9	4459.9	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	j
+18	Spectrogram 1	1	174.575018128	174.674110005	2853.2	4515.3	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	j
+19	Spectrogram 1	1	174.799626381	175.499875640	2105.3	5900.3	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	k
+20	Spectrogram 1	1	175.572543016	176.180306524	2049.9	5900.3	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	1	k
+21	Spectrogram 1	1	180.647524118	180.763131307	1274.2	3047.1	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	2	l
+22	Spectrogram 1	1	182.328782951	182.424571765	1274.2	3047.1	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	2	l
+23	Spectrogram 1	1	184.776437565	184.887953025	1440.5	3213.3	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	3	m
+24	Spectrogram 1	1	186.117480957	186.255420918	1440.5	3351.8	Thamnomanes_saturninus-ML80745.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnomanes_saturninus-ML80745.wav	3	n

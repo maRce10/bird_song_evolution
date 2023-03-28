@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.003516866	22.089934729	581.7	2437.7	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	1	a
+2	Spectrogram 1	1	22.566400785	22.657489884	720.2	1523.6	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	1	b
+3	Spectrogram 1	1	22.893387294	22.991483247	775.6	1468.2	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	1	b
+4	Spectrogram 1	1	23.101257289	23.199353242	747.9	1523.6	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	1	b
+5	Spectrogram 1	1	23.292777959	23.386202676	637.1	1551.3	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	1	b
+6	Spectrogram 1	1	23.465613685	23.556702784	637.1	1551.3	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	1	b
+7	Spectrogram 1	1	23.636113793	23.843983788	1412.8	5651.0	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	1	c
+8	Spectrogram 1	1	28.353884766	28.433295775	720.2	2493.1	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	2	a
+9	Spectrogram 1	1	28.984501605	29.082597557	470.9	1440.5	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	2	b
+10	Spectrogram 1	1	29.269446991	29.376885416	609.4	1551.3	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	2	b
+11	Spectrogram 1	1	29.472645750	29.568406085	720.2	1551.3	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	2	b
+12	Spectrogram 1	1	29.668837656	29.771604844	747.9	1523.6	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	2	b
+13	Spectrogram 1	1	29.848680236	29.949111806	554.0	1468.2	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	2	b
+14	Spectrogram 1	1	30.023851580	30.217707867	1385.1	5734.1	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	2	c
+15	Spectrogram 1	1	35.176205803	35.255616813	914.1	2548.5	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	3	a
+16	Spectrogram 1	1	35.699384218	35.799815789	554.0	1412.8	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	3	b
+17	Spectrogram 1	1	35.970315897	36.082425557	526.3	1579.0	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	3	b
+18	Spectrogram 1	1	36.185192746	36.280953080	664.8	1495.9	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	3	b
+19	Spectrogram 1	1	36.374377797	36.474809368	664.8	1495.9	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	3	b
+20	Spectrogram 1	1	36.558891613	36.656987566	637.1	1523.6	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	3	b
+21	Spectrogram 1	1	36.738734193	36.937261716	1468.2	5734.1	Colluricincla_rufogaster-ML58969921.wav	D:\Andean\Pachycephalidae\Colluricincla_rufogaster-ML58969921.wav	3	c

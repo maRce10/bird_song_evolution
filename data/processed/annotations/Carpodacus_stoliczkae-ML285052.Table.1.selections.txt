@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.769936258	1.819934457	1998.6	5907.8	Carpodacus_stoliczkae-ML285052.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_stoliczkae-ML285052.wav	1	a
+2	Spectrogram 1	1	2.434912309	2.487410419	1757.0	5907.8	Carpodacus_stoliczkae-ML285052.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_stoliczkae-ML285052.wav	2	a
+3	Spectrogram 1	1	5.076736607	5.129234716	2108.4	6237.3	Carpodacus_stoliczkae-ML285052.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_stoliczkae-ML285052.wav	3	a

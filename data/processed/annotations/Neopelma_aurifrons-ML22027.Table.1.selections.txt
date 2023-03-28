@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	62.246291572	62.366575895	1508.200	2252.600	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	1	a
+2	Spectrogram 1	1	62.520155994	62.559156406	940.521	4258.472	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	1	b
+3	Spectrogram 1	1	62.630917165	62.792242465	1429.900	3016.500	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	1	c
+4	Spectrogram 1	1	62.853836603	62.980543875	1606.200	2448.400	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	1	d
+5	Spectrogram 1	1	66.404667083	66.510353794	1351.500	2507.200	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	2	a
+6	Spectrogram 1	1	66.658752567	66.700873012	1018.898	4127.844	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	2	b
+7	Spectrogram 1	1	66.780117664	66.936604065	1390.700	2957.700	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	2	c
+9	Spectrogram 1	1	66.997444055	67.119480091	1743.300	2879.400	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	2	d
+10	Spectrogram 1	1	71.755862110	71.873810815	1527.800	2311.300	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	3	a
+11	Spectrogram 1	1	72.036136260	72.072239185	1071.149	4093.800	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	3	b
+12	Spectrogram 1	1	72.147662016	72.302396704	1214.400	2938.100	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	3	c
+13	Spectrogram 1	1	72.363707078	72.481655783	1802.100	2742.300	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	3	d
+14	Spectrogram 1	1	79.467828465	79.586944979	1488.700	2330.900	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	4	a
+15	Spectrogram 1	1	79.742354661	79.779795057	1201.777	4127.844	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	4	b
+16	Spectrogram 1	1	79.856235866	80.017866486	1273.200	2952.192	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	4	c
+18	Spectrogram 1	1	80.069958126	80.202636648	1527.800	2663.900	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	4	d
+19	Spectrogram 1	1	84.145685513	84.240861943	1567.000	2448.400	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	5	a
+20	Spectrogram 1	1	84.392955840	84.433516269	1175.652	4127.844	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	5	b
+21	Spectrogram 1	1	84.510625813	84.661857073	1390.700	3055.700	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	5	c
+22	Spectrogram 1	1	84.726670709	84.850458459	1821.600	2977.300	Neopelma_aurifrons-ML22027.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Neopelma_aurifrons-ML22027.wav	5	d

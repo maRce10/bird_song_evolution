@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	86.220414506	86.663024887	110.8	2631.6	Eudocimus_albus-ML134190.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Eudocimus_albus-ML134190.wav	1	a
+2	Spectrogram 1	1	93.335211221	93.850488977	110.8	2617.7	Eudocimus_albus-ML134190.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Eudocimus_albus-ML134190.wav	2	a
+3	Spectrogram 1	1	97.061065768	97.497070023	110.8	2645.4	Eudocimus_albus-ML134190.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Eudocimus_albus-ML134190.wav	3	a

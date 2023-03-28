@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	36.741590051	36.797644881	653.1	1175.7	Phimosus_infuscatus-ML58917.wav	D:\Andean\Threskiornithidae\Phimosus_infuscatus-ML58917.wav	1	a
+2	Spectrogram 1	1	36.900412070	36.947124428	574.8	1175.7	Phimosus_infuscatus-ML58917.wav	D:\Andean\Threskiornithidae\Phimosus_infuscatus-ML58917.wav	2	a
+3	Spectrogram 1	1	37.094268357	37.138645098	574.8	1175.7	Phimosus_infuscatus-ML58917.wav	D:\Andean\Threskiornithidae\Phimosus_infuscatus-ML58917.wav	3	a

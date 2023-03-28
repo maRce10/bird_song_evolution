@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.224072232	1.280087316	1329.6	4709.2	Empidonax_fulvifrons-ML267308531.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_fulvifrons-ML267308531.wav	1	a
+2	Spectrogram 1	1	1.286311214	1.412033957	2077.6	5457.1	Empidonax_fulvifrons-ML267308531.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_fulvifrons-ML267308531.wav	1	b
+3	Spectrogram 1	1	2.161391295	2.209937701	1329.6	4764.6	Empidonax_fulvifrons-ML267308531.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_fulvifrons-ML267308531.wav	1	a
+4	Spectrogram 1	1	2.222385553	2.360556093	2216.1	7230.0	Empidonax_fulvifrons-ML267308531.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_fulvifrons-ML267308531.wav	1	c
+5	Spectrogram 1	1	3.134865304	3.184658264	1301.9	4736.9	Empidonax_fulvifrons-ML267308531.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_fulvifrons-ML267308531.wav	1	a
+6	Spectrogram 1	1	3.192852620	3.322828803	2133.0	5097.0	Empidonax_fulvifrons-ML267308531.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_fulvifrons-ML267308531.wav	1	d
+7	Spectrogram 1	1	4.547584033	4.602354337	1274.2	4764.6	Empidonax_fulvifrons-ML267308531.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_fulvifrons-ML267308531.wav	2	a
+8	Spectrogram 1	1	4.612312574	4.736790537	2160.7	5374.0	Empidonax_fulvifrons-ML267308531.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_fulvifrons-ML267308531.wav	2	b
+9	Spectrogram 1	1	6.594585262	6.649450183	1301.9	4792.3	Empidonax_fulvifrons-ML267308531.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_fulvifrons-ML267308531.wav	3	a
+10	Spectrogram 1	1	6.659132296	6.784119577	2133.0	5401.7	Empidonax_fulvifrons-ML267308531.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_fulvifrons-ML267308531.wav	3	b

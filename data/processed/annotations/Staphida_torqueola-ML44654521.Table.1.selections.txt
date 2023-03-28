@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	26.813536169	26.906021920	3473.0	5689.9	Staphida_torqueola-ML44654521.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Staphida_torqueola-ML44654521.wav	1	a
+2	Spectrogram 1	1	26.917582639	27.145493954	2808.0	5357.3	Staphida_torqueola-ML44654521.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Staphida_torqueola-ML44654521.wav	1	b
+3	Spectrogram 1	1	28.950200308	29.042686059	3583.9	5505.1	Staphida_torqueola-ML44654521.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Staphida_torqueola-ML44654521.wav	2	a
+4	Spectrogram 1	1	29.059201372	29.285461156	2697.1	5800.7	Staphida_torqueola-ML44654521.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Staphida_torqueola-ML44654521.wav	2	b
+5	Spectrogram 1	1	31.689087622	31.779921842	3768.6	5652.9	Staphida_torqueola-ML44654521.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Staphida_torqueola-ML44654521.wav	3	a
+6	Spectrogram 1	1	31.803043280	32.027651533	2771.0	5874.6	Staphida_torqueola-ML44654521.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Staphida_torqueola-ML44654521.wav	3	b

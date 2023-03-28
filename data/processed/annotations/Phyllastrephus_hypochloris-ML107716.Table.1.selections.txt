@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.296557644	17.501347522	1689.8	3656.5	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	1	a
+2	Spectrogram 1	1	17.745774150	17.930745652	1385.1	3296.4	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	1	a
+3	Spectrogram 1	1	18.010019153	18.142141655	1274.2	3019.4	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	1	b
+4	Spectrogram 1	1	18.208202905	18.320507032	1357.3	3185.6	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	1	b
+5	Spectrogram 1	1	18.393174408	18.512084659	1357.3	2991.7	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	1	b
+6	Spectrogram 1	1	18.597964285	18.710268412	1385.1	2908.6	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	1	b
+7	Spectrogram 1	1	18.782935788	18.908452164	1329.6	2797.8	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	1	b
+8	Spectrogram 1	1	18.967907290	19.086817541	1301.9	2853.2	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	1	b
+9	Spectrogram 1	1	19.225546168	19.344456420	1274.2	2797.8	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	1	b
+10	Spectrogram 1	1	19.463366671	19.588883048	1274.2	2742.4	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	1	b
+11	Spectrogram 1	1	22.185090205	22.350243333	1495.9	3684.2	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	2	a
+12	Spectrogram 1	1	22.555033210	22.713580212	1495.9	3324.1	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	2	a
+13	Spectrogram 1	1	22.819278213	22.918370090	1357.3	2770.1	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	2	b
+14	Spectrogram 1	1	22.997643591	23.123159967	1163.4	2880.9	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	2	b
+15	Spectrogram 1	1	23.169402843	23.314737595	1246.5	2908.6	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	2	b
+16	Spectrogram 1	1	23.374192720	23.486496847	1218.8	2853.2	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	2	b
+17	Spectrogram 1	1	23.532739722	23.645043849	1357.3	2880.9	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	2	b
+18	Spectrogram 1	1	23.724317350	23.843227601	1246.5	2964.0	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	2	b
+19	Spectrogram 1	1	23.902682727	24.041411354	1329.6	2880.9	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	2	b
+20	Spectrogram 1	1	25.966012689	26.144378067	1551.3	3822.7	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	3	a
+21	Spectrogram 1	1	26.368986319	26.527533321	1468.2	3573.4	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	3	a
+22	Spectrogram 1	1	26.738929324	26.871051826	1052.6	2880.9	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	3	b
+23	Spectrogram 1	1	26.930506951	27.069235578	1218.8	2936.3	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	3	b
+24	Spectrogram 1	1	27.161721329	27.293843831	1163.4	2964.0	Phyllastrephus_hypochloris-ML107716.wav	D:\Andean\Pycnonotidae\Phyllastrephus_hypochloris-ML107716.wav	3	b

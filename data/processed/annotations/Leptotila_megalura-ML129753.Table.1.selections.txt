@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.529842401	5.732167537	233.6	700.7	Leptotila_megalura-ML129753.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_megalura-ML129753.wav	1	a
+2	Spectrogram 1	1	8.411714156	9.615874902	233.6	560.6	Leptotila_megalura-ML129753.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_megalura-ML129753.wav	2	a
+3	Spectrogram 1	1	12.348653625	13.534458263	256.9	607.3	Leptotila_megalura-ML129753.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_megalura-ML129753.wav	3	a

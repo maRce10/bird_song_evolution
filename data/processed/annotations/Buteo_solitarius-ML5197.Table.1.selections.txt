@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.562994869	14.254588814	618.0	3979.9	Buteo_solitarius-ML5197.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_solitarius-ML5197.wav	1	a
+2	Spectrogram 1	1	17.527570594	18.175200132	642.7	4004.6	Buteo_solitarius-ML5197.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_solitarius-ML5197.wav	2	a
+3	Spectrogram 1	1	23.251418737	23.934557988	642.7	4004.6	Buteo_solitarius-ML5197.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_solitarius-ML5197.wav	3	a

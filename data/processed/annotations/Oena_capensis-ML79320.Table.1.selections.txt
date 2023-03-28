@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.452243670	9.117142751	373.7	911.0	Oena_capensis-ML79320.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Oena_capensis-ML79320.wav	1	a
+2	Spectrogram 1	1	23.424579947	25.054602421	327.0	934.3	Oena_capensis-ML79320.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Oena_capensis-ML79320.wav	2	a
+3	Spectrogram 1	1	26.378730417	27.854561576	373.7	934.3	Oena_capensis-ML79320.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Oena_capensis-ML79320.wav	3	a

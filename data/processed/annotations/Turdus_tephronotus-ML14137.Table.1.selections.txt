@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	77.533159150	77.864816895	1306.3	2508.1	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	1	a
+2	Spectrogram 1	1	78.079693744	78.413687107	1254.0	2455.8	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	1	a
+3	Spectrogram 1	1	78.500104970	78.644913281	1227.9	2873.8	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	1	b
+4	Spectrogram 1	1	78.724324290	78.871468219	1254.0	2821.6	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	1	b
+5	Spectrogram 1	1	87.153115178	87.473094833	1463.0	2377.4	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	2	c
+6	Spectrogram 1	1	87.694978536	88.026636281	1384.7	2403.6	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	2	d
+7	Spectrogram 1	1	88.171444592	88.248519983	1933.3	5329.6	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	2	e
+8	Spectrogram 1	1	88.423691327	88.479746157	2116.2	3318.0	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	2	f
+9	Spectrogram 1	1	88.503102337	88.533465370	3187.3	4310.7	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	2	g
+12	Spectrogram 1	1	97.114387650	97.450716630	1632.8	2495.0	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	3	h
+13	Spectrogram 1	1	97.616244870	97.949854186	1422.5	2457.0	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	3	i
+14	Spectrogram 1	1	98.042339937	98.171159377	1422.5	2826.5	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	3	j
+15	Spectrogram 1	1	98.273554315	98.382555379	1348.6	2457.0	Turdus_tephronotus-ML14137.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_tephronotus-ML14137.wav	3	k

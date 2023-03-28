@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	159.459504191	159.535474629	55.4	526.3	Pardirallus_maculatus-ML195253.wav	D:\Andean\Rallidae\Pardirallus_maculatus-ML195253.wav	1	a
+2	Spectrogram 1	1	160.731183269	160.793941458	27.7	443.2	Pardirallus_maculatus-ML195253.wav	D:\Andean\Rallidae\Pardirallus_maculatus-ML195253.wav	2	a
+3	Spectrogram 1	1	167.619774593	167.702351157	83.1	443.2	Pardirallus_maculatus-ML195253.wav	D:\Andean\Rallidae\Pardirallus_maculatus-ML195253.wav	3	a

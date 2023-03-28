@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	58.472353517	58.703567894	1966.8	3324.1	Tringa_brevipes-ML78889.wav	D:\Andean\Scolopacidae\Tringa_brevipes-ML78889.wav	1	a
+2	Spectrogram 1	1	58.763023020	58.941388397	1828.3	3379.5	Tringa_brevipes-ML78889.wav	D:\Andean\Scolopacidae\Tringa_brevipes-ML78889.wav	1	a
+3	Spectrogram 1	1	74.630404317	74.874830945	1717.5	3434.9	Tringa_brevipes-ML78889.wav	D:\Andean\Scolopacidae\Tringa_brevipes-ML78889.wav	2	a
+4	Spectrogram 1	1	74.914467695	75.086226948	1745.2	3407.2	Tringa_brevipes-ML78889.wav	D:\Andean\Scolopacidae\Tringa_brevipes-ML78889.wav	2	a
+5	Spectrogram 1	1	77.735283106	77.979709734	1579.0	3462.6	Tringa_brevipes-ML78889.wav	D:\Andean\Scolopacidae\Tringa_brevipes-ML78889.wav	3	a
+6	Spectrogram 1	1	78.012740359	78.210924112	1634.4	3462.6	Tringa_brevipes-ML78889.wav	D:\Andean\Scolopacidae\Tringa_brevipes-ML78889.wav	3	a

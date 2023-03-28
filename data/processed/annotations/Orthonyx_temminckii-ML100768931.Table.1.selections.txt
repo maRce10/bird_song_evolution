@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	90.209774378	90.285744816	692.5	3656.5	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	1	a
+2	Spectrogram 1	1	90.437685693	90.523565319	692.5	3961.2	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	1	a
+3	Spectrogram 1	1	90.625960258	90.698627634	914.1	4321.4	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	1	a
+4	Spectrogram 1	1	90.772946541	90.842310854	692.5	4044.3	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	1	a
+5	Spectrogram 1	1	90.903417511	90.984342544	803.3	4044.3	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	1	a
+6	Spectrogram 1	1	91.048752263	91.129677295	747.9	4016.6	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	1	a
+7	Spectrogram 1	1	94.012903024	94.078964274	720.2	3767.3	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	2	a
+8	Spectrogram 1	1	94.242465870	94.329997028	720.2	3933.5	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	2	a
+9	Spectrogram 1	1	94.434043498	94.521574655	664.8	4238.3	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	2	a
+10	Spectrogram 1	1	94.576075187	94.660303282	664.8	4210.6	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	2	a
+11	Spectrogram 1	1	94.718106876	94.803986502	609.4	4182.9	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	2	a
+12	Spectrogram 1	1	94.866744691	94.955927379	554.0	4072.0	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	2	a
+13	Spectrogram 1	1	97.809085737	97.886707706	637.1	3711.9	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	3	a
+14	Spectrogram 1	1	98.045254708	98.121225147	747.9	3988.9	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	3	a
+15	Spectrogram 1	1	98.245089992	98.326015024	664.8	4155.2	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	3	a
+16	Spectrogram 1	1	98.392076275	98.469698245	775.6	4099.7	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	3	a
+17	Spectrogram 1	1	98.522547246	98.605123809	720.2	4016.6	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	3	a
+18	Spectrogram 1	1	98.666230466	98.750458561	637.1	3933.5	Orthonyx_temminckii-ML100768931.wav	E:\Andean\Orthonychidae\Orthonyx_temminckii-ML100768931.wav	3	a

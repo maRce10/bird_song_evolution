@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.975701683	24.333051225	2853.2	6177.3	Rhynchocyclus_pacificus-ML168755.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_pacificus-ML168755.wav	1	a
+2	Spectrogram 1	1	24.473188301	24.786161102	3711.9	5429.4	Rhynchocyclus_pacificus-ML168755.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_pacificus-ML168755.wav	1	b
+3	Spectrogram 1	1	24.797839061	25.001037820	3684.2	5318.6	Rhynchocyclus_pacificus-ML168755.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_pacificus-ML168755.wav	1	c
+4	Spectrogram 1	1	25.047080795	25.210582391	3684.2	5180.1	Rhynchocyclus_pacificus-ML168755.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_pacificus-ML168755.wav	1	d
+5	Spectrogram 1	1	25.241961485	25.398856956	3490.3	5097.0	Rhynchocyclus_pacificus-ML168755.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_pacificus-ML168755.wav	1	e
+6	Spectrogram 1	1	25.443448300	25.587131521	3130.2	5097.0	Rhynchocyclus_pacificus-ML168755.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_pacificus-ML168755.wav	1	f
+7	Spectrogram 1	1	25.636677459	25.773754554	3074.8	5207.8	Rhynchocyclus_pacificus-ML168755.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_pacificus-ML168755.wav	1	f
+8	Spectrogram 1	1	25.823300529	25.965332218	2908.6	5318.6	Rhynchocyclus_pacificus-ML168755.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_pacificus-ML168755.wav	1	g
+9	Spectrogram 1	1	26.009923563	26.135439939	2742.4	5124.7	Rhynchocyclus_pacificus-ML168755.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_pacificus-ML168755.wav	1	h
+10	Spectrogram 1	1	26.194895065	26.310502254	2770.1	4930.8	Rhynchocyclus_pacificus-ML168755.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_pacificus-ML168755.wav	1	i

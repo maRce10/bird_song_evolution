@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.964504279	1.198538406	247.2	543.8	Tigrisoma_lineatum-ML217317.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Tigrisoma_lineatum-ML217317.wav	1	a
+2	Spectrogram 1	1	1.574411397	1.929008558	247.2	618.0	Tigrisoma_lineatum-ML217317.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Tigrisoma_lineatum-ML217317.wav	1	a
+3	Spectrogram 1	1	2.386492042	7.138094004	123.6	1260.7	Tigrisoma_lineatum-ML217317.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Tigrisoma_lineatum-ML217317.wav	1	b
+4	Spectrogram 1	1	7.860520203	8.101646273	247.2	618.0	Tigrisoma_lineatum-ML217317.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Tigrisoma_lineatum-ML217317.wav	2	a
+5	Spectrogram 1	1	8.526740244	12.562055940	148.3	1285.4	Tigrisoma_lineatum-ML217317.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Tigrisoma_lineatum-ML217317.wav	2	b
+6	Spectrogram 1	1	24.900771828	25.163173727	222.5	642.7	Tigrisoma_lineatum-ML217317.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Tigrisoma_lineatum-ML217317.wav	3	a
+7	Spectrogram 1	1	25.539046718	29.843856258	148.3	1384.3	Tigrisoma_lineatum-ML217317.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Tigrisoma_lineatum-ML217317.wav	3	a

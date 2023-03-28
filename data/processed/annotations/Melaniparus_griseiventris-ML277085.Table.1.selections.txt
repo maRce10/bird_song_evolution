@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.769287218	1.935116090	1815.6	4604.7	Melaniparus_griseiventris-ML277085.wav	E:\Andean\Paridae\Melaniparus_griseiventris-ML277085.wav	1	a
+2	Spectrogram 1	1	2.142986085	2.327499901	1657.7	4657.3	Melaniparus_griseiventris-ML277085.wav	E:\Andean\Paridae\Melaniparus_griseiventris-ML277085.wav	2	a
+3	Spectrogram 1	1	2.633465849	2.817979664	1736.6	4683.7	Melaniparus_griseiventris-ML277085.wav	E:\Andean\Paridae\Melaniparus_griseiventris-ML277085.wav	3	a

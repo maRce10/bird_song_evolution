@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.125516377	0.168456190	1309.4	4530.5	Leiopicus_mahrattensis-ML63559331.wav	D:\Andean\Picidae\Leiopicus_mahrattensis-ML63559331.wav	1	a
+2	Spectrogram 1	1	1.530969488	1.559045520	1230.8	4530.5	Leiopicus_mahrattensis-ML63559331.wav	D:\Andean\Picidae\Leiopicus_mahrattensis-ML63559331.wav	2	a
+3	Spectrogram 1	1	2.965097023	2.998127648	1178.4	4373.3	Leiopicus_mahrattensis-ML63559331.wav	D:\Andean\Picidae\Leiopicus_mahrattensis-ML63559331.wav	3	a

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	341.143956674	341.258401952	2428.9	6033.0	Vireo_olivaceus-ML247983971.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_olivaceus-ML247983971.wav	1	a
+2	Spectrogram 1	1	341.314456782	341.470943183	2193.8	4936.1	Vireo_olivaceus-ML247983971.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_olivaceus-ML247983971.wav	1	b
+3	Spectrogram 1	1	342.533649338	342.662108323	2663.9	5641.2	Vireo_olivaceus-ML247983971.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_olivaceus-ML247983971.wav	2	c
+4	Spectrogram 1	1	342.699478210	342.879320790	2154.6	4622.7	Vireo_olivaceus-ML247983971.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_olivaceus-ML247983971.wav	1	d
+5	Spectrogram 1	1	343.704314570	343.940211980	1919.6	4936.1	Vireo_olivaceus-ML247983971.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_olivaceus-ML247983971.wav	3	e
+6	Spectrogram 1	1	343.970575013	344.106040852	2154.6	4074.2	Vireo_olivaceus-ML247983971.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_olivaceus-ML247983971.wav	3	f
+7	Spectrogram 1	1	345.108445791	345.288288371	2003.4	3789.0	Vireo_olivaceus-ML247983971.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_olivaceus-ML247983971.wav	4	g
+8	Spectrogram 1	1	345.309308933	345.409740503	2351.8	4529.4	Vireo_olivaceus-ML247983971.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_olivaceus-ML247983971.wav	4	h
+9	Spectrogram 1	1	346.179320390	346.402371902	1959.9	5313.4	Vireo_olivaceus-ML247983971.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_olivaceus-ML247983971.wav	5	i

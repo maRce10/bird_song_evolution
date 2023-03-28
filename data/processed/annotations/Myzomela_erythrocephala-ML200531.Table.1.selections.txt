@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	199.567631215	199.769149390	2437.8	8411.5	Myzomela_erythrocephala-ML200531.wav	E:\Escritorio\Cantos\Meliphagidae\Myzomela_erythrocephala-ML200531.wav	1	a
+2	Spectrogram 1	1	199.878746994	200.062588137	2547.6	8433.5	Myzomela_erythrocephala-ML200531.wav	E:\Escritorio\Cantos\Meliphagidae\Myzomela_erythrocephala-ML200531.wav	1	a
+3	Spectrogram 1	1	202.689395227	202.876770667	2350.0	8499.4	Myzomela_erythrocephala-ML200531.wav	E:\Escritorio\Cantos\Meliphagidae\Myzomela_erythrocephala-ML200531.wav	2	a
+4	Spectrogram 1	1	202.975762051	203.173744820	2569.6	8367.6	Myzomela_erythrocephala-ML200531.wav	E:\Escritorio\Cantos\Meliphagidae\Myzomela_erythrocephala-ML200531.wav	2	a
+5	Spectrogram 1	1	219.838530137	220.025906686	2629.3	8587.2	Myzomela_erythrocephala-ML200531.wav	E:\Escritorio\Cantos\Meliphagidae\Myzomela_erythrocephala-ML200531.wav	3	a
+6	Spectrogram 1	1	220.131968883	220.319345432	2525.6	8455.4	Myzomela_erythrocephala-ML200531.wav	E:\Escritorio\Cantos\Meliphagidae\Myzomela_erythrocephala-ML200531.wav	3	a

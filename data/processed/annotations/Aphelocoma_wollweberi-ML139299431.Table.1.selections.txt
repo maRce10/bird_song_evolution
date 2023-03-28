@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.202840997	1.369881588	1401.5	5022.0	Aphelocoma_wollweberi-ML139299431.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_wollweberi-ML139299431.wav	1	a
+2	Spectrogram 1	1	1.590154896	1.768209152	1635.1	5068.7	Aphelocoma_wollweberi-ML139299431.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_wollweberi-ML139299431.wav	1	a
+3	Spectrogram 1	1	2.010509790	2.155523051	1541.6	4695.0	Aphelocoma_wollweberi-ML139299431.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_wollweberi-ML139299431.wav	1	a
+4	Spectrogram 1	1	2.524480841	2.678672156	1518.3	4648.3	Aphelocoma_wollweberi-ML139299431.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_wollweberi-ML139299431.wav	1	a
+5	Spectrogram 1	1	5.131528931	5.256350472	1728.5	4718.3	Aphelocoma_wollweberi-ML139299431.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_wollweberi-ML139299431.wav	2	a
+6	Spectrogram 1	1	5.344459795	5.524349662	1494.9	5092.1	Aphelocoma_wollweberi-ML139299431.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_wollweberi-ML139299431.wav	2	a
+7	Spectrogram 1	1	6.231059857	6.410949724	1658.4	4928.5	Aphelocoma_wollweberi-ML139299431.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_wollweberi-ML139299431.wav	3	a
+8	Spectrogram 1	1	6.572483483	6.728510409	1518.3	4741.7	Aphelocoma_wollweberi-ML139299431.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_wollweberi-ML139299431.wav	3	a
+9	Spectrogram 1	1	7.044235483	7.189248744	1635.1	5372.4	Aphelocoma_wollweberi-ML139299431.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_wollweberi-ML139299431.wav	3	a

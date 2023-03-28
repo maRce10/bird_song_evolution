@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.783279699	5.811562952	2393.9	3975.1	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	1	a
+2	Spectrogram 1	1	5.952979215	6.002474907	1405.6	4634.0	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	1	b
+3	Spectrogram 1	1	6.161568203	6.242882555	1405.6	4985.4	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	1	c
+4	Spectrogram 1	1	6.380763412	6.458542356	1515.4	5051.3	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	1	c
+5	Spectrogram 1	1	6.596423213	6.674202158	1427.7	5023.4	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	1	c
+6	Spectrogram 1	1	6.808547608	6.900468179	1189.7	4891.2	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	1	c
+7	Spectrogram 1	1	8.922040023	8.960929496	2405.9	4283.1	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	2	a
+8	Spectrogram 1	1	9.109416572	9.169518484	1427.7	5023.4	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	2	b
+9	Spectrogram 1	1	9.310934747	9.381642879	1348.4	5129.1	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	2	c
+10	Spectrogram 1	1	9.533665362	9.597302681	1295.5	5102.7	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	2	c
+11	Spectrogram 1	1	9.767002197	9.844781141	1136.9	4891.2	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	2	b
+12	Spectrogram 1	1	10.007409844	10.081653382	1189.7	4891.2	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	2	b
+13	Spectrogram 1	1	12.039767710	12.075121775	1745.0	4336.0	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	3	a
+14	Spectrogram 1	1	12.216538039	12.273104544	1824.3	4838.3	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	3	b
+15	Spectrogram 1	1	12.421591620	12.488764346	1480.6	5049.8	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	3	c
+16	Spectrogram 1	1	12.633716015	12.707959554	1480.6	4811.9	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	3	b
+17	Spectrogram 1	1	12.877659070	12.944831795	1374.8	4388.8	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	3	d
+18	Spectrogram 1	1	13.128672937	13.206451882	1348.4	4336.0	Tarphonomus_certhioides-ML225246.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_certhioides-ML225246.wav	3	d

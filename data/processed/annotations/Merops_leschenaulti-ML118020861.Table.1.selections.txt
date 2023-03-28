@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.578966443	5.670887014	1559.3	3953.2	Merops_leschenaulti-ML118020861.wav	E:\Escritorio\Cantos\Meropidae\Merops_leschenaulti-ML118020861.wav	1	a
+2	Spectrogram 1	1	6.696596919	6.779093948	1471.5	3733.6	Merops_leschenaulti-ML118020861.wav	E:\Escritorio\Cantos\Meropidae\Merops_leschenaulti-ML118020861.wav	2	a
+3	Spectrogram 1	1	7.121581613	7.261576572	1449.5	3821.4	Merops_leschenaulti-ML118020861.wav	E:\Escritorio\Cantos\Meropidae\Merops_leschenaulti-ML118020861.wav	2	b
+4	Spectrogram 1	1	7.571565408	7.714060276	1559.3	3777.5	Merops_leschenaulti-ML118020861.wav	E:\Escritorio\Cantos\Meropidae\Merops_leschenaulti-ML118020861.wav	2	b
+5	Spectrogram 1	1	7.769058295	7.854055234	1603.2	3755.5	Merops_leschenaulti-ML118020861.wav	E:\Escritorio\Cantos\Meropidae\Merops_leschenaulti-ML118020861.wav	2	a
+6	Spectrogram 1	1	8.334037948	8.429034527	1493.4	3733.6	Merops_leschenaulti-ML118020861.wav	E:\Escritorio\Cantos\Meropidae\Merops_leschenaulti-ML118020861.wav	2	a
+7	Spectrogram 1	1	14.611363972	14.698860821	1757.0	4194.8	Merops_leschenaulti-ML118020861.wav	E:\Escritorio\Cantos\Meropidae\Merops_leschenaulti-ML118020861.wav	3	a

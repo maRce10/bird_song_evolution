@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.946014719	8.885847497	233.6	2989.8	Corvus_tasmanicus-ML100824051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_tasmanicus-ML100824051.wav	1	a
+2	Spectrogram 1	1	10.401807735	11.363667843	233.6	2686.2	Corvus_tasmanicus-ML100824051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_tasmanicus-ML100824051.wav	2	a
+3	Spectrogram 1	1	13.147429401	14.182713946	327.0	2943.1	Corvus_tasmanicus-ML100824051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_tasmanicus-ML100824051.wav	3	a

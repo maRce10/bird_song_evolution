@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.835066394	9.902983997	420.4	3807.4	Rynchops_flavirostris-ML112436851.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rynchops_flavirostris-ML112436851.wav	1	a
+2	Spectrogram 1	1	9.958052324	10.011285040	513.9	2826.3	Rynchops_flavirostris-ML112436851.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rynchops_flavirostris-ML112436851.wav	1	b
+3	Spectrogram 1	1	16.729078165	16.780475270	490.5	2873.0	Rynchops_flavirostris-ML112436851.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rynchops_flavirostris-ML112436851.wav	2	b
+4	Spectrogram 1	1	16.852064095	16.949351472	467.2	3153.3	Rynchops_flavirostris-ML112436851.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rynchops_flavirostris-ML112436851.wav	2	a
+5	Spectrogram 1	1	17.015433465	17.077844235	467.2	2756.2	Rynchops_flavirostris-ML112436851.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rynchops_flavirostris-ML112436851.wav	2	b
+6	Spectrogram 1	1	30.623060040	30.685470811	490.5	2896.4	Rynchops_flavirostris-ML112436851.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rynchops_flavirostris-ML112436851.wav	3	a
+7	Spectrogram 1	1	30.771744523	30.824977239	490.5	2546.0	Rynchops_flavirostris-ML112436851.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Rynchops_flavirostris-ML112436851.wav	3	b

@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.314734758	14.578979762	2520.8	2908.6	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	1	a
+2	Spectrogram 1	1	14.658253263	15.444382148	2576.2	3074.8	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	1	b
+3	Spectrogram 1	1	15.530261774	16.138025281	2631.6	3130.2	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	1	b
+4	Spectrogram 1	1	16.190874282	16.772213289	2576.2	2991.7	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	1	b
+5	Spectrogram 1	1	16.825062290	17.399795172	2077.6	2437.7	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	1	c
+6	Spectrogram 1	1	30.508416358	31.202059492	2631.6	3102.5	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	2	b
+7	Spectrogram 1	1	31.380424869	31.928733251	2548.5	3074.8	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	2	b
+8	Spectrogram 1	1	32.041037377	32.589345759	2493.1	2908.6	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	2	b
+9	Spectrogram 1	1	32.767711136	33.190503142	2022.2	2410.0	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	2	c
+10	Spectrogram 1	1	43.285327631	43.556178759	2437.7	2853.2	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	3	a
+11	Spectrogram 1	1	43.688301261	44.223397392	2631.6	3102.5	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	3	b
+12	Spectrogram 1	1	44.560309772	45.154861029	2548.5	3213.3	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	3	b
+13	Spectrogram 1	1	45.247346780	45.789049037	2548.5	2936.3	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	3	b
+14	Spectrogram 1	1	45.927777664	46.495904421	2049.9	2437.7	Rhipidura_rufiventris-ML182285.wav	D:\Andean\Rhipiduridae\Rhipidura_rufiventris-ML182285.wav	3	c

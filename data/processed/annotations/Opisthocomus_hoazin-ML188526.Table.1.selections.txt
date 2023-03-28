@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.256080551	13.513719429	277.0	1385.1	Opisthocomus_hoazin-ML188526.wav	E:\Andean\Opisthocomidae\Opisthocomus_hoazin-ML188526.wav	1	a
+2	Spectrogram 1	1	13.566568430	13.725115432	221.6	1468.2	Opisthocomus_hoazin-ML188526.wav	E:\Andean\Opisthocomidae\Opisthocomus_hoazin-ML188526.wav	2	a
+3	Spectrogram 1	1	13.784570557	13.976148185	304.7	1468.2	Opisthocomus_hoazin-ML188526.wav	E:\Andean\Opisthocomidae\Opisthocomus_hoazin-ML188526.wav	3	a

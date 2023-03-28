@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.957628166	25.122609062	2030.2	5301.0	Cecropis_striolata-ML33321.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_striolata-ML33321.wav	1	a
+2	Spectrogram 1	1	31.601006773	31.795101945	2143.0	5583.0	Cecropis_striolata-ML33321.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_striolata-ML33321.wav	2	a
+3	Spectrogram 1	1	42.723543584	42.888524480	2143.0	6992.8	Cecropis_striolata-ML33321.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_striolata-ML33321.wav	3	a

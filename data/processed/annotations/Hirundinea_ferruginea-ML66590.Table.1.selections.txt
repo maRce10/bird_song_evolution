@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.309057886	5.404818221	1523.6	5235.5	Hirundinea_ferruginea-ML66590.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hirundinea_ferruginea-ML66590.wav	1	a
+2	Spectrogram 1	1	5.418831929	5.460873051	1468.2	4681.5	Hirundinea_ferruginea-ML66590.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hirundinea_ferruginea-ML66590.wav	1	b
+3	Spectrogram 1	1	5.495907320	5.537948443	1468.2	4349.1	Hirundinea_ferruginea-ML66590.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hirundinea_ferruginea-ML66590.wav	1	c
+4	Spectrogram 1	1	9.719464072	9.814056598	1523.6	5374.0	Hirundinea_ferruginea-ML66590.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hirundinea_ferruginea-ML66590.wav	2	a
+5	Spectrogram 1	1	9.835077159	9.874782664	1385.1	4570.7	Hirundinea_ferruginea-ML66590.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hirundinea_ferruginea-ML66590.wav	2	b
+6	Spectrogram 1	1	14.978587275	15.066172947	1468.2	5235.5	Hirundinea_ferruginea-ML66590.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hirundinea_ferruginea-ML66590.wav	3	a
+7	Spectrogram 1	1	15.087193508	15.129234630	1385.1	4764.6	Hirundinea_ferruginea-ML66590.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hirundinea_ferruginea-ML66590.wav	3	b

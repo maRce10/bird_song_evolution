@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.801924219	17.963081856	2659.3	3241.0	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	1	a
+2	Spectrogram 1	1	18.044828483	18.229342299	2936.3	3628.8	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	1	b
+3	Spectrogram 1	1	18.243356006	18.469910945	2077.6	5318.6	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	1	c
+4	Spectrogram 1	1	18.528301393	18.600705548	2825.5	3905.8	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	1	d
+5	Spectrogram 1	1	18.673109704	18.883315317	3407.2	4127.4	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	1	e
+6	Spectrogram 1	1	23.215442298	23.385942406	2770.1	3268.7	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	2	a
+7	Spectrogram 1	1	23.458346562	23.638189142	2853.2	3656.5	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	2	b
+8	Spectrogram 1	1	23.655706276	23.876422170	2382.3	5318.6	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	2	c
+9	Spectrogram 1	1	23.944155089	24.025901717	2742.4	3767.3	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	2	d
+10	Spectrogram 1	1	24.091299018	24.331867664	3351.8	4016.6	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	2	e
+11	Spectrogram 1	1	30.428239429	30.594068302	2742.4	3324.1	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	3	a
+12	Spectrogram 1	1	30.668808075	30.841643802	2797.8	3601.1	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	3	b
+13	Spectrogram 1	1	30.857993127	31.089219301	2326.9	5097.0	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	3	c
+14	Spectrogram 1	1	31.152280985	31.231691994	2853.2	3767.3	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	3	d
+15	Spectrogram 1	1	31.292418060	31.511966145	3434.9	4016.6	Monticola_rufiventris-ML221807.wav	E:\Andean\Muscicapidae\Monticola_rufiventris-ML221807.wav	3	e

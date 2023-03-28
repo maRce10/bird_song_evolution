@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.338011244	5.375381130	5567.9	8033.3	Daphoenositta_chrysoptera-ML201250.wav	E:\Andean\Neosittidae\Daphoenositta_chrysoptera-ML201250.wav	1	a
+2	Spectrogram 1	1	5.945271903	5.989648644	5290.9	7728.6	Daphoenositta_chrysoptera-ML201250.wav	E:\Andean\Neosittidae\Daphoenositta_chrysoptera-ML201250.wav	2	a
+3	Spectrogram 1	1	7.145779515	7.190156256	5346.3	7867.1	Daphoenositta_chrysoptera-ML201250.wav	E:\Andean\Neosittidae\Daphoenositta_chrysoptera-ML201250.wav	3	a

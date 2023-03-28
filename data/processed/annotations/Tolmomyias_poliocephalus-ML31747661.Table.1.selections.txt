@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.533008690	14.798344315	1436.9	3422.5	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	1	a
+2	Spectrogram 1	1	15.329015566	15.570008473	1332.4	3683.7	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	1	b
+3	Spectrogram 1	1	16.144496480	16.404963562	1175.7	3657.6	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	1	c
+4	Spectrogram 1	1	17.220444611	17.468740334	1436.9	3553.1	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	1	d
+5	Spectrogram 1	1	18.250124402	18.527631386	1306.3	3631.5	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	1	e
+6	Spectrogram 1	1	24.544086567	24.812607821	2220.7	2821.6	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	2	f
+7	Spectrogram 1	1	25.232602603	25.342765169	1959.4	2899.9	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	2	g
+8	Spectrogram 1	1	25.353092909	25.532107078	2508.1	3030.6	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	2	h
+9	Spectrogram 1	1	26.031281205	26.372096642	1306.3	3344.1	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	2	i
+10	Spectrogram 1	1	26.819632066	27.181102985	1018.9	3500.8	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	2	j
+11	Spectrogram 1	1	27.838635799	28.186336397	1175.7	3553.1	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	2	k
+12	Spectrogram 1	1	36.152503965	36.424467799	2142.3	2690.9	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	3	l
+13	Spectrogram 1	1	37.829040513	38.107889507	1280.2	3161.2	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	3	m
+14	Spectrogram 1	1	38.679357964	38.978862440	1280.2	3396.3	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	3	i
+15	Spectrogram 1	1	39.502134627	39.860162966	1149.5	3474.7	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	3	j
+16	Spectrogram 1	1	40.483269978	40.810315095	1149.5	3579.2	Tolmomyias_poliocephalus-ML31747661.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_poliocephalus-ML31747661.wav	3	k

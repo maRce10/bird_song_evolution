@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.675745811	1.721808520	1728.5	8222.0	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	1	a
+2	Spectrogram 1	1	1.831650363	1.900744426	1565.0	8035.2	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	1	b
+3	Spectrogram 1	1	1.932633993	1.999956414	1448.2	6283.3	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	1	c
+4	Spectrogram 1	1	2.019444483	3.165697268	1284.7	6937.3	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	1	d
+5	Spectrogram 1	1	6.457473675	6.510622954	1892.0	8362.2	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	2	a
+6	Spectrogram 1	1	6.613378227	6.678929004	1588.3	7731.5	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	2	b
+7	Spectrogram 1	1	6.717905142	6.781684277	1401.5	6610.3	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	2	c
+8	Spectrogram 1	1	6.801172346	8.160022248	1354.8	6587.0	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	2	d
+9	Spectrogram 1	1	13.653520528	13.713756377	1915.4	8385.5	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	3	a
+10	Spectrogram 1	1	13.812968365	13.876747500	1518.3	7918.4	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	3	b
+11	Spectrogram 1	1	13.919266923	13.981274415	1284.7	6213.2	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	3	c
+12	Spectrogram 1	1	14.000841144	15.451816463	1354.8	6680.4	Phragmacia_substriata-ML210388761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Phragmacia_substriata-ML210388761.wav	3	d

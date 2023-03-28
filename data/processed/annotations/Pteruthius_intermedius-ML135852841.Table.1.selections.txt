@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.010207096	9.041586190	1966.8	3102.5	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	1	
+2	Spectrogram 1	1	9.048192315	9.120859691	1606.7	4182.9	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	1	b
+3	Spectrogram 1	1	9.381801631	9.414832257	1911.4	3102.5	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	1	a
+4	Spectrogram 1	1	9.423089913	9.505666477	1772.9	4349.1	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	1	b
+5	Spectrogram 1	1	9.758350761	9.793032918	1689.8	3130.2	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	1	a
+6	Spectrogram 1	1	9.799639043	9.877261013	1468.2	4238.3	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	1	b
+7	Spectrogram 1	1	11.246457376	11.281139532	1495.9	2991.7	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	2	a
+8	Spectrogram 1	1	11.291048720	11.362064565	1357.3	4210.6	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	2	b
+9	Spectrogram 1	1	12.304123777	12.333851340	1800.6	3019.4	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	a
+10	Spectrogram 1	1	12.348715122	12.418079435	1717.5	4127.4	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	b
+11	Spectrogram 1	1	12.700491282	12.725264251	2105.3	3130.2	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	a
+12	Spectrogram 1	1	12.743431095	12.812795409	1828.3	4155.2	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	b
+13	Spectrogram 1	1	13.062176631	13.091904194	1745.2	3047.1	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	a
+14	Spectrogram 1	1	13.100161850	13.171177694	1579.0	3905.8	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	b
+15	Spectrogram 1	1	13.436867719	13.469898345	1662.1	3157.9	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	a
+16	Spectrogram 1	1	13.481459064	13.557429502	1523.6	4072.0	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	b
+17	Spectrogram 1	1	13.801856130	13.836538287	1966.8	3102.5	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	a
+18	Spectrogram 1	1	13.843144412	13.917463319	1772.9	4709.2	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	b
+19	Spectrogram 1	1	14.165193010	14.196572104	1772.9	3074.8	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	a
+20	Spectrogram 1	1	14.204829760	14.290709386	1828.3	4238.3	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	b
+21	Spectrogram 1	1	14.520272233	14.548348265	1828.3	3185.6	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	a
+22	Spectrogram 1	1	14.558257452	14.639182485	1606.7	4432.2	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	b
+23	Spectrogram 1	1	14.893518300	14.926548926	1800.6	3102.5	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	a
+24	Spectrogram 1	1	14.934806582	15.025640802	1579.0	4238.3	Pteruthius_intermedius-ML135852841.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_intermedius-ML135852841.wav	3	b

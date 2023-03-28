@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	87.506055580	87.573228305	307.5	1537.4	Micrastur_mintoni-ML126832.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_mintoni-ML126832.wav	1	a
+2	Spectrogram 1	1	89.065169882	89.132342607	241.6	1537.4	Micrastur_mintoni-ML126832.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_mintoni-ML126832.wav	2	a
+3	Spectrogram 1	1	90.436904159	90.507612291	263.5	1427.5	Micrastur_mintoni-ML126832.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_mintoni-ML126832.wav	3	a

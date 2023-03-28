@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.381921481	1.432925919	6061.1	9718.7	Tangara_fucosa-ML192767921.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_fucosa-ML192767921.wav	1	a

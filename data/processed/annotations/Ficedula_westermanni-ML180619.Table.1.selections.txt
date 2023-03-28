@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	118.485318344	118.539037556	3047.1	4044.3	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	1	a
+2	Spectrogram 1	1	118.623119801	118.936092602	3102.5	6066.5	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	1	b
+3	Spectrogram 1	1	118.982804961	119.029517319	3656.5	5318.6	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	1	c
+4	Spectrogram 1	1	119.080900914	119.139291362	3711.9	5374.0	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	1	c
+5	Spectrogram 1	1	119.176661248	119.230380461	3795.0	5401.7	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	1	c
+6	Spectrogram 1	1	119.270085965	119.333147649	3739.6	5429.4	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	1	c
+7	Spectrogram 1	1	119.368181918	119.428907984	3767.3	5484.8	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	1	c
+8	Spectrogram 1	1	119.468613489	119.529339555	3850.4	5401.7	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	1	c
+9	Spectrogram 1	1	119.573716295	119.643784833	3878.1	5346.3	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	1	c
+10	Spectrogram 1	1	119.699839663	119.758230111	3905.8	5318.6	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	1	c
+12	Spectrogram 1	1	121.455198741	121.504246717	2991.7	4099.7	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	2	a
+13	Spectrogram 1	1	121.562637165	121.896630528	3102.5	5872.6	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	2	b
+14	Spectrogram 1	1	123.560888481	123.614607693	3102.5	4099.7	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	a
+15	Spectrogram 1	1	123.719710500	124.035018919	2880.9	5872.6	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	b
+16	Spectrogram 1	1	124.079395660	124.140121726	3711.9	5374.0	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	c
+17	Spectrogram 1	1	124.179827230	124.238217678	3684.2	5374.0	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	c
+18	Spectrogram 1	1	124.275587565	124.338649249	3767.3	5401.7	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	c
+19	Spectrogram 1	1	124.376019136	124.439080819	3822.7	5429.4	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	c
+20	Spectrogram 1	1	124.474115088	124.534841154	3905.8	5318.6	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	c
+21	Spectrogram 1	1	124.581553513	124.653957668	3711.9	5235.5	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	c
+22	Spectrogram 1	1	124.695998791	124.766067329	4155.2	4764.6	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	d
+23	Spectrogram 1	1	124.794094744	124.871170135	3878.1	4792.3	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	d
+24	Spectrogram 1	1	124.901533168	124.966930470	3933.5	4736.9	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	d
+25	Spectrogram 1	1	125.001964739	125.069697658	3905.8	4820.0	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	d
+26	Spectrogram 1	1	125.111738781	125.174800465	3933.5	4792.3	Ficedula_westermanni-ML180619.wav	E:\Andean\Muscicapidae\Ficedula_westermanni-ML180619.wav	3	d

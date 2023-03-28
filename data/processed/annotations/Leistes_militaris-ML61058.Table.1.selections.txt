@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	40.555187056	40.636619741	4342.3	5639.4	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	1	a
+2	Spectrogram 1	1	40.620333204	40.921634139	4793.5	7218.4	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	1	b
+3	Spectrogram 1	1	41.117072583	41.524236008	3496.4	6710.9	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	1	c
+4	Spectrogram 1	1	41.621955230	42.639863792	1748.2	8007.9	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	1	d
+5	Spectrogram 1	1	51.755190920	51.861053410	4004.0	5583.0	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	2	a
+6	Spectrogram 1	1	51.844766873	52.137924539	4567.9	7218.4	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	2	b
+7	Spectrogram 1	1	52.398509131	52.805672556	3270.8	6654.5	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	2	c
+8	Spectrogram 1	1	52.862675436	53.913157072	1184.3	8459.1	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	2	d
+9	Spectrogram 1	1	74.823090159	74.904522844	3778.4	5808.6	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	3	a
+10	Spectrogram 1	1	74.912666113	75.181393973	4567.9	7162.0	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	3	b
+11	Spectrogram 1	1	75.458265102	75.824712185	3552.8	6485.3	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	3	c
+12	Spectrogram 1	1	75.898001601	76.907766895	1522.6	7500.4	Leistes_militaris-ML61058.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Leistes_militaris-ML61058.wav	3	d

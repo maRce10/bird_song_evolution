@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	42.992065133	43.044616537	664.8	1551.3	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	1	a
+2	Spectrogram 1	1	43.053959008	43.114685074	747.9	1634.4	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	1	a
+3	Spectrogram 1	1	43.139209063	43.212781027	720.2	1523.6	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	1	a
+4	Spectrogram 1	1	43.322555069	43.419483213	720.2	1856.0	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	1	b
+5	Spectrogram 1	1	43.525753829	43.606332647	747.9	1634.4	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	1	a
+6	Spectrogram 1	1	43.614507310	43.658884050	747.9	1911.4	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	1	c
+7	Spectrogram 1	1	43.684575847	43.751140958	747.9	1662.1	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	1	a
+8	Spectrogram 1	1	47.199735260	47.249951045	637.1	1495.9	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	2	a
+9	Spectrogram 1	1	47.270971606	47.335201099	581.7	1745.2	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	2	a
+10	Spectrogram 1	1	47.451981995	47.491687500	664.8	1523.6	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	2	a
+11	Spectrogram 1	1	47.536064240	47.600293733	526.3	1717.5	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	2	d
+12	Spectrogram 1	1	47.692550641	47.762619179	554.0	1883.7	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	2	a
+13	Spectrogram 1	1	47.781304122	47.824513054	664.8	1828.3	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	2	c
+14	Spectrogram 1	1	47.844365806	47.912098726	637.1	1579.0	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	2	a
+15	Spectrogram 1	1	51.285190611	51.333070778	747.9	1468.2	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	3	a
+16	Spectrogram 1	1	51.343581059	51.403139316	747.9	1717.5	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	3	a
+17	Spectrogram 1	1	51.431166731	51.504738695	609.4	1495.9	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	3	a
+18	Spectrogram 1	1	51.635533299	51.735964870	664.8	1856.0	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	3	b
+19	Spectrogram 1	1	51.827053969	51.899458124	720.2	1606.7	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	3	a
+20	Spectrogram 1	1	51.916975259	51.957848572	692.5	1551.3	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	3	c
+21	Spectrogram 1	1	51.980036943	52.053608907	747.9	1551.3	Chlorocichla_simplex-ML87050.wav	D:\Andean\Pycnonotidae\Chlorocichla_simplex-ML87050.wav	3	a

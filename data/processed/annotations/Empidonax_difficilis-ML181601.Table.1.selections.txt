@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.081609692	11.170363173	5290.9	6398.9	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	1	a
+2	Spectrogram 1	1	11.908418436	11.948123941	2770.1	5097.0	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	1	b
+3	Spectrogram 1	1	11.958649892	12.046181050	4515.3	7590.1	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	1	c
+4	Spectrogram 1	1	12.054438706	12.191515802	2216.1	6648.2	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	1	d
+5	Spectrogram 1	1	12.919841092	12.954523249	1856.0	4764.6	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	1	e
+6	Spectrogram 1	1	12.971038561	12.982599280	5484.8	6121.9	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	1	f
+7	Spectrogram 1	1	12.995811530	13.042054406	1745.2	5623.3	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	1	g
+8	Spectrogram 1	1	14.867018648	14.961155931	5540.2	6454.3	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	2	a
+9	Spectrogram 1	1	15.671314377	15.704350220	1800.6	4875.4	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	2	e
+10	Spectrogram 1	1	15.717557253	15.808391472	3905.8	7590.1	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	2	h
+11	Spectrogram 1	1	15.814997598	15.952074693	2520.8	6648.2	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	2	i
+12	Spectrogram 1	1	16.729951139	16.766280061	1772.9	4903.1	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	2	e
+13	Spectrogram 1	1	16.781143842	16.797659155	5374.0	6094.2	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	2	f
+14	Spectrogram 1	1	16.805916811	16.853811218	1717.5	5761.8	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	2	g
+15	Spectrogram 1	1	18.785516005	18.871395631	5429.4	6260.4	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	3	a
+16	Spectrogram 1	1	19.707070454	19.743404142	1745.2	4847.7	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	3	e
+17	Spectrogram 1	1	19.751661799	19.835889894	4543.0	7479.3	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	3	c
+18	Spectrogram 1	1	19.847450613	19.989482302	2326.9	6620.5	Empidonax_difficilis-ML181601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_difficilis-ML181601.wav	3	j

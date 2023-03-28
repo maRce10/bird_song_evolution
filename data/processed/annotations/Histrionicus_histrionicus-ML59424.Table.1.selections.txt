@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	41.752869989	41.830881365	445.0	2521.4	Histrionicus_histrionicus-ML59424.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Histrionicus_histrionicus-ML59424.wav	1	a
+2	Spectrogram 1	1	42.100375207	42.176613597	445.0	2546.1	Histrionicus_histrionicus-ML59424.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Histrionicus_histrionicus-ML59424.wav	2	a
+3	Spectrogram 1	1	42.541848673	42.614541091	445.0	2447.3	Histrionicus_histrionicus-ML59424.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Histrionicus_histrionicus-ML59424.wav	3	a

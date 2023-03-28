@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	134.455035184	134.811143697	794.2	3480.3	Hydroprogne_caspia-ML224770.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Hydroprogne_caspia-ML224770.wav	1	a
+2	Spectrogram 1	1	136.430990116	136.827482070	770.8	3527.1	Hydroprogne_caspia-ML224770.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Hydroprogne_caspia-ML224770.wav	2	a
+3	Spectrogram 1	1	139.843650004	140.192416074	700.7	3223.4	Hydroprogne_caspia-ML224770.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Hydroprogne_caspia-ML224770.wav	3	a

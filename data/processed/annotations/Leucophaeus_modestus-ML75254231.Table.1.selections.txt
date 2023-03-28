@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	57.276283358	58.146252027	483.2	1713.0	Leucophaeus_modestus-ML75254231.wav	E:\Escritorio\Cantos\Laridae\Leucophaeus_modestus-ML75254231.wav	1	a
+2	Spectrogram 1	1	59.576200529	60.406170638	461.2	1713.0	Leucophaeus_modestus-ML75254231.wav	E:\Escritorio\Cantos\Laridae\Leucophaeus_modestus-ML75254231.wav	2	a
+3	Spectrogram 1	1	61.746122382	62.636090330	527.1	1735.0	Leucophaeus_modestus-ML75254231.wav	E:\Escritorio\Cantos\Laridae\Leucophaeus_modestus-ML75254231.wav	3	a

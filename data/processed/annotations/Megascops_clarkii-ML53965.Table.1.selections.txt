@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.255479172	8.542174642	444.1	914.4	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	1	a
+2	Spectrogram 1	1	8.782198756	9.048892217	470.3	888.3	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	1	a
+3	Spectrogram 1	1	9.282248994	9.562277128	444.1	862.1	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	1	a
+4	Spectrogram 1	1	9.695623858	9.922313299	418.0	836.0	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	1	a
+5	Spectrogram 1	1	16.814704972	17.081398433	444.1	940.5	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	2	a
+6	Spectrogram 1	1	17.288085864	17.588116007	470.3	940.5	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	2	a
+7	Spectrogram 1	1	17.774801429	18.061496899	444.1	914.4	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	2	a
+8	Spectrogram 1	1	18.234847648	18.454869753	470.3	888.3	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	2	a
+9	Spectrogram 1	1	26.799648782	27.073009578	418.0	940.5	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	3	a
+10	Spectrogram 1	1	27.293031683	27.593061826	418.0	940.5	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	3	a
+11	Spectrogram 1	1	27.799749258	28.066442718	418.0	940.5	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	3	a
+12	Spectrogram 1	1	28.239793467	28.473150245	470.3	862.1	Megascops_clarkii-ML53965.wav	D:\Andean\Strigidae\Megascops_clarkii-ML53965.wav	3	a

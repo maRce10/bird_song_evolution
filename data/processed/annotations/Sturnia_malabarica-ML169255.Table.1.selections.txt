@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	45.955147430	46.007996430	1201.8	4493.6	Sturnia_malabarica-ML169255.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_malabarica-ML169255.wav	1	a
+2	Spectrogram 1	1	46.116997494	46.245816933	1149.5	5381.9	Sturnia_malabarica-ML169255.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_malabarica-ML169255.wav	1	b
+3	Spectrogram 1	1	46.325090434	46.463819061	1045.0	4702.6	Sturnia_malabarica-ML169255.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_malabarica-ML169255.wav	1	c
+4	Spectrogram 1	1	46.526577249	46.622366063	1358.5	4990.0	Sturnia_malabarica-ML169255.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_malabarica-ML169255.wav	1	b
+5	Spectrogram 1	1	47.748710390	47.814771641	1567.5	4859.4	Sturnia_malabarica-ML169255.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_malabarica-ML169255.wav	2	a
+6	Spectrogram 1	1	47.943591080	47.996440080	1593.7	4754.9	Sturnia_malabarica-ML169255.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_malabarica-ML169255.wav	2	a
+7	Spectrogram 1	1	48.316837147	48.399413711	1672.0	4624.2	Sturnia_malabarica-ML169255.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_malabarica-ML169255.wav	3	a
+8	Spectrogram 1	1	48.419232086	48.485293337	1149.5	3500.8	Sturnia_malabarica-ML169255.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Sturnia_malabarica-ML169255.wav	3	d

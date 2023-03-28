@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.794384358	5.048720173	1412.8	2465.4	Ramphastos_vitellinus-ML69408.wav	D:\Andean\Ramphastidae\Ramphastos_vitellinus-ML69408.wav	1	a
+2	Spectrogram 1	1	6.581341193	6.829070883	1468.2	2520.8	Ramphastos_vitellinus-ML69408.wav	D:\Andean\Ramphastidae\Ramphastos_vitellinus-ML69408.wav	2	a
+3	Spectrogram 1	1	7.750625332	8.008264211	1495.9	2493.1	Ramphastos_vitellinus-ML69408.wav	D:\Andean\Ramphastidae\Ramphastos_vitellinus-ML69408.wav	3	a

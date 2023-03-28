@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.073832373	1.701611299	1261.3	1751.9	Malaconotus_lagdeni-ML236545.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Malaconotus_lagdeni-ML236545.wav	1	a
+2	Spectrogram 1	1	5.610565877	6.330125347	1331.4	1705.1	Malaconotus_lagdeni-ML236545.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Malaconotus_lagdeni-ML236545.wav	2	a
+3	Spectrogram 1	1	8.854430563	9.474867046	1331.4	1681.8	Malaconotus_lagdeni-ML236545.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Malaconotus_lagdeni-ML236545.wav	3	a

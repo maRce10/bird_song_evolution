@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	45.299856413	45.328467733	1939.1	3878.1	Hemitriccus_nidipendulus-ML103030.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_nidipendulus-ML103030.wav	1	a
+2	Spectrogram 1	1	45.336058491	45.357079052	2049.9	3878.1	Hemitriccus_nidipendulus-ML103030.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_nidipendulus-ML103030.wav	1	b
+3	Spectrogram 1	1	45.369924951	45.390945512	2271.5	3767.3	Hemitriccus_nidipendulus-ML103030.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_nidipendulus-ML103030.wav	1	c
+4	Spectrogram 1	1	45.938647914	45.978353418	2133.0	4266.0	Hemitriccus_nidipendulus-ML103030.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_nidipendulus-ML103030.wav	1	d
+5	Spectrogram 1	1	45.989447603	46.031488726	1856.0	3961.2	Hemitriccus_nidipendulus-ML103030.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_nidipendulus-ML103030.wav	1	e
+6	Spectrogram 1	1	46.047254147	46.084624034	1606.7	3518.0	Hemitriccus_nidipendulus-ML103030.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_nidipendulus-ML103030.wav	1	f
+7	Spectrogram 1	1	46.100389455	46.128416870	1828.3	3213.3	Hemitriccus_nidipendulus-ML103030.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_nidipendulus-ML103030.wav	1	g
+8	Spectrogram 1	1	46.426208155	46.465913659	1772.9	4266.0	Hemitriccus_nidipendulus-ML103030.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_nidipendulus-ML103030.wav	1	h
+9	Spectrogram 1	1	46.483430794	46.518465063	2382.3	3795.0	Hemitriccus_nidipendulus-ML103030.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_nidipendulus-ML103030.wav	1	i
+10	Spectrogram 1	1	46.534230455	46.570432561	2077.6	3296.4	Hemitriccus_nidipendulus-ML103030.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_nidipendulus-ML103030.wav	1	j

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	71.247833466	71.287538971	4016.6	6371.2	Arachnothera_crassirostris-ML115887.wav	E:\Andean\Nectariniidae\Arachnothera_crassirostris-ML115887.wav	1	a
+2	Spectrogram 1	1	72.345573889	72.375936922	4155.2	6315.8	Arachnothera_crassirostris-ML115887.wav	E:\Andean\Nectariniidae\Arachnothera_crassirostris-ML115887.wav	2	a
+3	Spectrogram 1	1	73.326533416	73.361567685	4210.6	6315.8	Arachnothera_crassirostris-ML115887.wav	E:\Andean\Nectariniidae\Arachnothera_crassirostris-ML115887.wav	3	a

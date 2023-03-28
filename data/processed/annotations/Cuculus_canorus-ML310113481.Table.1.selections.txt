@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.816678920	0.924508821	373.4	1021.2	Cuculus_canorus-ML310113481.wav	E:\Escritorio\Cantos\Cuculidae\Cuculus_canorus-ML310113481.wav	1	a
+2	Spectrogram 1	1	1.129562403	1.295726512	456.0	751.1	Cuculus_canorus-ML310113481.wav	E:\Escritorio\Cantos\Cuculidae\Cuculus_canorus-ML310113481.wav	1	b
+3	Spectrogram 1	1	2.336384864	2.444214765	439.2	1021.2	Cuculus_canorus-ML310113481.wav	E:\Escritorio\Cantos\Cuculidae\Cuculus_canorus-ML310113481.wav	2	a
+4	Spectrogram 1	1	2.652803753	2.810129346	456.0	737.7	Cuculus_canorus-ML310113481.wav	E:\Escritorio\Cantos\Cuculidae\Cuculus_canorus-ML310113481.wav	2	b
+5	Spectrogram 1	1	5.065572043	5.175169647	351.4	1021.2	Cuculus_canorus-ML310113481.wav	E:\Escritorio\Cantos\Cuculidae\Cuculus_canorus-ML310113481.wav	3	a
+6	Spectrogram 1	1	5.380223229	5.537548822	469.4	724.3	Cuculus_canorus-ML310113481.wav	E:\Escritorio\Cantos\Cuculidae\Cuculus_canorus-ML310113481.wav	3	b

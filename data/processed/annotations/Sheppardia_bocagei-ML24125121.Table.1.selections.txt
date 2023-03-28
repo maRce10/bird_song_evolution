@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.023949388	1.268376016	1230.8	1702.2	Sheppardia_bocagei-ML24125121.wav	E:\Andean\Muscicapidae\Sheppardia_bocagei-ML24125121.wav	1	a
+2	Spectrogram 1	1	1.314618892	1.512802644	1335.6	1754.6	Sheppardia_bocagei-ML24125121.wav	E:\Andean\Muscicapidae\Sheppardia_bocagei-ML24125121.wav	1	a
+3	Spectrogram 1	1	1.559045520	1.895957899	1387.9	1754.6	Sheppardia_bocagei-ML24125121.wav	E:\Andean\Muscicapidae\Sheppardia_bocagei-ML24125121.wav	1	a
+4	Spectrogram 1	1	2.635843908	2.847239911	1126.1	1623.6	Sheppardia_bocagei-ML24125121.wav	E:\Andean\Muscicapidae\Sheppardia_bocagei-ML24125121.wav	2	a
+5	Spectrogram 1	1	2.880270536	2.985968538	1309.4	1728.4	Sheppardia_bocagei-ML24125121.wav	E:\Andean\Muscicapidae\Sheppardia_bocagei-ML24125121.wav	2	a
+6	Spectrogram 1	1	3.058635914	3.461609544	1257.0	1754.6	Sheppardia_bocagei-ML24125121.wav	E:\Andean\Muscicapidae\Sheppardia_bocagei-ML24125121.wav	2	a
+7	Spectrogram 1	1	4.009917925	4.340224180	1335.6	1754.6	Sheppardia_bocagei-ML24125121.wav	E:\Andean\Muscicapidae\Sheppardia_bocagei-ML24125121.wav	3	a
+8	Spectrogram 1	1	4.439316056	4.776228435	1335.6	1806.9	Sheppardia_bocagei-ML24125121.wav	E:\Andean\Muscicapidae\Sheppardia_bocagei-ML24125121.wav	3	a

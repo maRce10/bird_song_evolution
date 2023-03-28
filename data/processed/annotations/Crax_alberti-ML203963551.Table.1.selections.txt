@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.175293333	6.708465104	11.679	262.778	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	1	a
+2	Spectrogram 1	1	6.761375280	7.091046375	11.679	291.000	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	1	b
+3	Spectrogram 1	1	7.335247186	7.762598605	5.840	291.000	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	1	c
+4	Spectrogram 1	1	7.896909052	8.340540525	23.358	321.173	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	1	c
+5	Spectrogram 1	1	16.688320352	17.260601596	32.300	256.939	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	2	a
+6	Spectrogram 1	1	17.781563326	18.017444613	23.358	291.976	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	2	d
+7	Spectrogram 1	1	18.221124786	18.571145948	11.679	280.297	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	2	c
+8	Spectrogram 1	1	18.733946489	19.071757611	32.300	315.334	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	2	c
+9	Spectrogram 1	1	20.705842319	21.209838776	17.519	274.457	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	3	a
+10	Spectrogram 1	1	21.262748951	21.604630087	17.519	297.815	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	3	b
+11	Spectrogram 1	1	21.855846318	22.288392358	17.519	309.494	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	3	c
+12	Spectrogram 1	1	22.426772818	22.834517893	17.519	297.815	Crax_alberti-ML203963551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_alberti-ML203963551.wav	3	c

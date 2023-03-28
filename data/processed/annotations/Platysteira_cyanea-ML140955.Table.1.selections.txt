@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.634213671	6.799366799	4515.3	5041.6	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	1	a
+2	Spectrogram 1	1	6.944701550	7.156097553	3407.2	3795.0	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	1	a
+3	Spectrogram 1	1	7.241977179	7.446767057	3628.8	4072.0	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	1	a
+4	Spectrogram 1	1	7.559071183	7.829922312	3157.9	3545.7	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	1	a
+5	Spectrogram 1	1	7.981863188	8.318775568	2271.5	2576.2	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	1	a
+6	Spectrogram 1	1	15.997922252	16.196106004	3628.8	4182.9	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	2	a
+7	Spectrogram 1	1	16.315016256	16.625504135	3130.2	3656.5	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	2	a
+8	Spectrogram 1	1	16.764232761	17.120963516	2188.4	2576.2	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	2	a
+9	Spectrogram 1	1	17.583392272	17.841031150	4016.6	4487.6	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	3	a
+10	Spectrogram 1	1	17.926910776	18.164731279	3490.3	3878.1	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	3	a
+11	Spectrogram 1	1	18.244004780	18.567704909	2770.1	3213.3	Platysteira_cyanea-ML140955.wav	D:\Andean\Platysteiridae\Platysteira_cyanea-ML140955.wav	3	a

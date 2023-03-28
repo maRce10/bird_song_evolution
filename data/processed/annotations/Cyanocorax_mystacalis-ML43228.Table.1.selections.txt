@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.594519745	4.683983689	878.500	2386.000	Cyanocorax_mystacalis-ML43228.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_mystacalis-ML43228.wav	1	a
+2	Spectrogram 1	1	4.789512723	4.878976666	834.600	2413.400	Cyanocorax_mystacalis-ML43228.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_mystacalis-ML43228.wav	1	a
+3	Spectrogram 1	1	6.441420397	6.526417336	856.500	2468.300	Cyanocorax_mystacalis-ML43228.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_mystacalis-ML43228.wav	2	a
+4	Spectrogram 1	1	6.633913464	6.718910403	856.500	2440.900	Cyanocorax_mystacalis-ML43228.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_mystacalis-ML43228.wav	2	a
+5	Spectrogram 1	1	8.616491630	8.703988479	1014.700	2742.500	Cyanocorax_mystacalis-ML43228.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_mystacalis-ML43228.wav	3	a
+6	Spectrogram 1	1	8.756486588	8.848983257	959.900	2770.000	Cyanocorax_mystacalis-ML43228.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_mystacalis-ML43228.wav	1	a

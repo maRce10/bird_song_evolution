@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.922126242	1.351188808	346.1	2941.6	Strepera_graculina-ML233575.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Strepera_graculina-ML233575.wav	1	a
+2	Spectrogram 1	1	1.615363693	2.172081236	543.8	2694.5	Strepera_graculina-ML233575.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Strepera_graculina-ML233575.wav	1	b
+3	Spectrogram 1	1	6.441704230	6.863674852	296.6	2941.6	Strepera_graculina-ML233575.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Strepera_graculina-ML233575.wav	2	a
+4	Spectrogram 1	1	7.126076752	7.631377707	494.4	2719.2	Strepera_graculina-ML233575.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Strepera_graculina-ML233575.wav	2	b
+5	Spectrogram 1	1	35.896617474	36.315042124	296.6	2818.0	Strepera_graculina-ML233575.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Strepera_graculina-ML233575.wav	3	a
+6	Spectrogram 1	1	36.596946868	37.143026496	494.4	2645.0	Strepera_graculina-ML233575.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Strepera_graculina-ML233575.wav	3	b

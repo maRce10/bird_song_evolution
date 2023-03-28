@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.729087147	1.871637844	415.5	1412.8	Rallina_eurizonoides-ML55610401.wav	D:\Andean\Rallidae\Rallina_eurizonoides-ML55610401.wav	1	a
+2	Spectrogram 1	1	2.444480456	2.581751497	415.5	1412.8	Rallina_eurizonoides-ML55610401.wav	D:\Andean\Rallidae\Rallina_eurizonoides-ML55610401.wav	1	a
+3	Spectrogram 1	1	4.086963750	4.234794102	415.5	1357.3	Rallina_eurizonoides-ML55610401.wav	D:\Andean\Rallidae\Rallina_eurizonoides-ML55610401.wav	2	a
+4	Spectrogram 1	1	4.802357058	4.950187410	387.8	1357.3	Rallina_eurizonoides-ML55610401.wav	D:\Andean\Rallidae\Rallina_eurizonoides-ML55610401.wav	2	a
+5	Spectrogram 1	1	6.267510846	6.412701369	443.2	1440.5	Rallina_eurizonoides-ML55610401.wav	D:\Andean\Rallidae\Rallina_eurizonoides-ML55610401.wav	3	a
+6	Spectrogram 1	1	7.022501569	7.170331921	415.5	1357.3	Rallina_eurizonoides-ML55610401.wav	D:\Andean\Rallidae\Rallina_eurizonoides-ML55610401.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.943982458	0.974100383	1167.9	3059.9	Vanellus_spinosus-ML27830271.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_spinosus-ML27830271.wav	1	a
+2	Spectrogram 1	1	1.089257154	1.124690007	981.0	3083.3	Vanellus_spinosus-ML27830271.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_spinosus-ML27830271.wav	2	a
+3	Spectrogram 1	1	2.391414492	2.423304059	1097.8	3130.0	Vanellus_spinosus-ML27830271.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_spinosus-ML27830271.wav	3	a

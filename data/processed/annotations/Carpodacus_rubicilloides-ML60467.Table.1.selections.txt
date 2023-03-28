@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.113847096	8.302991348	3008.8	4436.4	Carpodacus_rubicilloides-ML60467.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_rubicilloides-ML60467.wav	1	a
+2	Spectrogram 1	1	8.384305699	8.576985358	2108.4	5205.0	Carpodacus_rubicilloides-ML60467.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_rubicilloides-ML60467.wav	1	b
+3	Spectrogram 1	1	8.633551863	8.835070038	2042.5	4721.9	Carpodacus_rubicilloides-ML60467.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_rubicilloides-ML60467.wav	1	c
+4	Spectrogram 1	1	14.074420209	14.325434076	3247.1	4699.9	Carpodacus_rubicilloides-ML60467.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_rubicilloides-ML60467.wav	2	a
+5	Spectrogram 1	1	14.385535988	14.572912537	1954.6	5227.0	Carpodacus_rubicilloides-ML60467.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_rubicilloides-ML60467.wav	2	b
+6	Spectrogram 1	1	14.645388372	14.827461811	2108.4	4897.6	Carpodacus_rubicilloides-ML60467.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_rubicilloides-ML60467.wav	2	c
+7	Spectrogram 1	1	33.029961795	33.192590497	3162.5	4985.4	Carpodacus_rubicilloides-ML60467.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_rubicilloides-ML60467.wav	3	a
+8	Spectrogram 1	1	33.266834036	33.452442881	1913.0	5205.0	Carpodacus_rubicilloides-ML60467.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_rubicilloides-ML60467.wav	3	b
+9	Spectrogram 1	1	33.514312496	33.701689045	1976.6	5051.3	Carpodacus_rubicilloides-ML60467.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_rubicilloides-ML60467.wav	3	c

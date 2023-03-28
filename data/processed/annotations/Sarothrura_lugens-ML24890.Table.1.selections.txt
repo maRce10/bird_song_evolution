@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	47.100415743	48.282912133	332.4	664.8	Sarothrura_lugens-ML24890.wav	D:\Andean\Sarothruridae\Sarothrura_lugens-ML24890.wav	1	a
+2	Spectrogram 1	1	48.751947014	49.967474029	332.4	637.1	Sarothrura_lugens-ML24890.wav	D:\Andean\Sarothruridae\Sarothrura_lugens-ML24890.wav	2	a
+3	Spectrogram 1	1	50.429902785	51.513307299	304.7	581.7	Sarothrura_lugens-ML24890.wav	D:\Andean\Sarothruridae\Sarothrura_lugens-ML24890.wav	3	a

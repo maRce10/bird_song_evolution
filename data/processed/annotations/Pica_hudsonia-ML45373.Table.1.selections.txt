@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	49.646597821	49.752660018	355.6	3365.0	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	1	a
+2	Spectrogram 1	1	49.788014084	49.908217908	355.6	3337.6	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	1	a
+3	Spectrogram 1	1	49.957713600	50.081452830	383.0	3282.9	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	1	a
+4	Spectrogram 1	1	50.123877709	50.261758566	383.0	3310.2	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	1	a
+5	Spectrogram 1	1	50.293577225	50.434993489	355.6	3282.9	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	1	a
+6	Spectrogram 1	1	50.473882961	50.615299224	383.0	3282.9	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	1	a
+7	Spectrogram 1	1	50.654188697	50.792069553	328.3	3310.2	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	1	a
+8	Spectrogram 1	1	131.310242066	131.423375077	410.4	3118.7	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	2	a
+9	Spectrogram 1	1	131.458729143	131.593074593	465.1	3146.1	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	2	a
+10	Spectrogram 1	1	131.631964065	131.762774109	383.0	3146.1	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	2	a
+11	Spectrogram 1	1	131.812269801	131.936009031	300.9	3146.1	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	2	a
+12	Spectrogram 1	1	131.978433910	132.112779360	246.2	3200.8	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	2	a
+13	Spectrogram 1	1	132.169345866	132.303691316	300.9	3173.4	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	2	a
+14	Spectrogram 1	1	132.393844184	132.522886524	369.3	3173.4	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	2	a
+15	Spectrogram 1	1	135.668259297	135.777856901	465.1	3118.7	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	3	a
+16	Spectrogram 1	1	135.823381454	135.947120684	465.1	3173.4	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	3	a
+17	Spectrogram 1	1	135.993516702	136.120355607	383.0	3173.4	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	3	a
+18	Spectrogram 1	1	136.166315892	136.297125936	437.7	3173.4	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	3	a
+19	Spectrogram 1	1	136.357227848	136.488037891	355.6	3146.1	Pica_hudsonia-ML45373.wav	E:\Escritorio\Cantos\Corvidae\Pica_hudsonia-ML45373.wav	3	a

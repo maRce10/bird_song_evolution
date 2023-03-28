@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.377405290	1.652934678	1994.5	5374.0	Nothoprocta_curvirostris-ML49397841.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_curvirostris-ML49397841.wav	1	a
+2	Spectrogram 1	1	1.748547488	1.827710783	2271.5	4930.8	Nothoprocta_curvirostris-ML49397841.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_curvirostris-ML49397841.wav	1	b
+3	Spectrogram 1	1	1.930520256	2.026133066	1994.5	5097.0	Nothoprocta_curvirostris-ML49397841.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_curvirostris-ML49397841.wav	1	c
+4	Spectrogram 1	1	2.138195392	2.225583444	1939.1	4930.8	Nothoprocta_curvirostris-ML49397841.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_curvirostris-ML49397841.wav	1	c
+5	Spectrogram 1	1	2.537096148	2.617287537	1052.6	4432.2	Nothoprocta_curvirostris-ML49397841.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_curvirostris-ML49397841.wav	1	d

@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.421614254	6.238461102	1167.9	5395.7	Creagrus_furcatus-ML31541.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Creagrus_furcatus-ML31541.wav	1	a
+2	Spectrogram 1	1	11.148634590	11.748879353	1074.5	5512.5	Creagrus_furcatus-ML31541.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Creagrus_furcatus-ML31541.wav	2	

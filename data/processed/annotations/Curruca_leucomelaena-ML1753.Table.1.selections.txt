@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.519847623	9.711368293	2116.2	4833.2	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	a
+2	Spectrogram 1	1	9.744066944	9.802457392	2638.7	3082.8	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	b
+3	Spectrogram 1	1	9.851505368	10.073389071	2299.1	3082.8	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	c
+4	Spectrogram 1	1	10.115430193	10.150464462	2508.1	4937.7	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	d
+5	Spectrogram 1	1	10.218197382	10.276587830	1097.3	2090.0	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	e
+6	Spectrogram 1	1	10.388697490	10.549855127	809.9	3030.6	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	f
+7	Spectrogram 1	1	10.575546924	10.629266136	966.6	3370.2	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	g
+8	Spectrogram 1	1	10.675978495	10.743711414	1410.8	3814.3	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	h
+9	Spectrogram 1	1	10.816115570	10.900197815	966.6	3474.7	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	i
+10	Spectrogram 1	1	10.907204669	10.991286914	1332.4	4859.4	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	j
+11	Spectrogram 1	1	11.061355452	11.154780169	2090.0	3108.9	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	k
+12	Spectrogram 1	1	11.206163763	11.339293985	1149.5	4049.5	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	l
+13	Spectrogram 1	1	11.388341961	11.486437914	1384.7	2743.2	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	m
+14	Spectrogram 1	1	11.547163980	11.684965437	1045.0	3866.6	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	l
+15	Spectrogram 1	1	11.762040828	11.794739479	2952.2	3370.2	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	n
+16	Spectrogram 1	1	11.780725772	11.855465545	2011.7	2769.3	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	o
+17	Spectrogram 1	1	11.939547790	12.096034191	1227.9	2011.7	Curruca_leucomelaena-ML1753.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_leucomelaena-ML1753.wav	1	p

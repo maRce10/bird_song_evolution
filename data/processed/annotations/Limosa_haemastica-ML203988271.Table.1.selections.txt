@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.676509678	2.728062425	1024.9	3268.7	Limosa_haemastica-ML203988271.wav	D:\Andean\Scolopacidae\Limosa_haemastica-ML203988271.wav	1	a
+2	Spectrogram 1	1	3.656011870	3.720452804	914.1	3241.0	Limosa_haemastica-ML203988271.wav	D:\Andean\Scolopacidae\Limosa_haemastica-ML203988271.wav	1	b
+3	Spectrogram 1	1	4.736960500	4.817511667	997.2	2770.1	Limosa_haemastica-ML203988271.wav	D:\Andean\Scolopacidae\Limosa_haemastica-ML203988271.wav	2	a
+4	Spectrogram 1	1	5.386202906	5.457087934	886.4	2936.3	Limosa_haemastica-ML203988271.wav	D:\Andean\Scolopacidae\Limosa_haemastica-ML203988271.wav	2	b
+5	Spectrogram 1	1	6.216631336	6.260128966	858.7	2493.1	Limosa_haemastica-ML203988271.wav	D:\Andean\Scolopacidae\Limosa_haemastica-ML203988271.wav	3	a
+6	Spectrogram 1	1	6.472784047	6.543669074	969.5	2880.9	Limosa_haemastica-ML203988271.wav	D:\Andean\Scolopacidae\Limosa_haemastica-ML203988271.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.186627403	2.701905159	127.3	372.2	Podargus_papuensis-ML247390.wav	D:\Andean\Podargidae\Podargus_papuensis-ML247390.wav	1	a
+2	Spectrogram 1	1	3.137909415	3.600338170	107.7	391.8	Podargus_papuensis-ML247390.wav	D:\Andean\Podargidae\Podargus_papuensis-ML247390.wav	2	a
+3	Spectrogram 1	1	4.075979176	4.578044683	117.5	391.8	Podargus_papuensis-ML247390.wav	D:\Andean\Podargidae\Podargus_papuensis-ML247390.wav	3	a

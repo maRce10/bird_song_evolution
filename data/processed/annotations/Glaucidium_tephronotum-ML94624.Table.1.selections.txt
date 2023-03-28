@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.244884611	29.658259474	1149.5	1515.3	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	1	a
+2	Spectrogram 1	1	30.024962982	30.418335836	1097.3	1463.0	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	1	a
+3	Spectrogram 1	1	30.891716728	31.318426264	1123.4	1489.2	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	1	a
+4	Spectrogram 1	1	31.751803137	32.158510664	1097.3	1489.2	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	1	a
+5	Spectrogram 1	1	32.485210152	32.885250343	1123.4	1463.0	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	1	a
+6	Spectrogram 1	1	33.298625206	33.691998060	1123.4	1463.0	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	1	a
+7	Spectrogram 1	1	34.092038250	34.452074422	1123.4	1463.0	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	1	a
+8	Spectrogram 1	1	34.865449285	35.272156812	1097.3	1489.2	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	1	a
+9	Spectrogram 1	1	35.665529666	36.032233174	1097.3	1463.0	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	1	a
+10	Spectrogram 1	1	39.228762778	39.568796940	1071.1	1463.0	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	2	a
+11	Spectrogram 1	1	40.102183860	40.442218022	1071.1	1463.0	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	2	a
+12	Spectrogram 1	1	40.962270269	41.322306441	1045.0	1489.2	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	2	a
+13	Spectrogram 1	1	41.809022005	42.135721494	1045.0	1436.9	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	2	a
+14	Spectrogram 1	1	45.871341451	46.158036921	1018.9	1463.0	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	3	a
+15	Spectrogram 1	1	46.698091178	47.118133378	1071.1	1463.0	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	3	a
+16	Spectrogram 1	1	47.558177587	47.931548431	1071.1	1515.3	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	3	a
+17	Spectrogram 1	1	48.431598669	48.811636850	1071.1	1436.9	Glaucidium_tephronotum-ML94624.wav	D:\Andean\Strigidae\Glaucidium_tephronotum-ML94624.wav	3	a

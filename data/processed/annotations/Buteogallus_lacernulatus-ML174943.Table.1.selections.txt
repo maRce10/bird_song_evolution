@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.883014726	10.279730127	2298.9	3114.7	Buteogallus_lacernulatus-ML174943.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_lacernulatus-ML174943.wav	1	a
+2	Spectrogram 1	1	56.789003799	58.165427934	2323.7	3114.7	Buteogallus_lacernulatus-ML174943.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_lacernulatus-ML174943.wav	12	a
+3	Spectrogram 1	1	62.030342660	63.481168101	2521.4	3411.3	Buteogallus_lacernulatus-ML174943.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_lacernulatus-ML174943.wav	3	a

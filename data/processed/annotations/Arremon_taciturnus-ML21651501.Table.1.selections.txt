@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.527494121	1.569535243	8703.2	10406.8	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	1	a
+2	Spectrogram 1	1	1.700329847	2.195480847	8814.3	10332.7	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	1	b
+3	Spectrogram 1	1	2.312261743	2.742015440	8518.0	10036.5	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	1	b
+4	Spectrogram 1	1	13.382919262	13.443645328	8629.1	11221.6	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	2	a
+5	Spectrogram 1	1	13.635165998	13.677207120	8555.1	11332.7	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	2	a
+6	Spectrogram 1	1	13.784645545	14.233084186	8592.1	10036.5	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	2	b
+7	Spectrogram 1	1	14.345193846	14.751591364	8444.0	10258.7	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	2	b
+8	Spectrogram 1	1	27.787006334	27.838389928	9147.6	12184.5	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	3	a
+9	Spectrogram 1	1	29.347199105	29.398582700	8851.3	11814.1	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	3	a
+10	Spectrogram 1	1	29.800308982	29.870377520	8740.2	11147.5	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	3	a
+11	Spectrogram 1	1	30.001172124	30.486980651	8740.2	10406.8	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	3	b
+12	Spectrogram 1	1	30.585076604	31.047528953	8592.1	10221.6	Arremon_taciturnus-ML21651501.wav	D:\Andean\Passerellidae\Arremon_taciturnus-ML21651501.wav	3	b

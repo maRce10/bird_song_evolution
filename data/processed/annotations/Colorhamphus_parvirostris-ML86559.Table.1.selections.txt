@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	151.550944801	151.994712206	2955.8	6465.8	Colorhamphus_parvirostris-ML86559.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colorhamphus_parvirostris-ML86559.wav	1	a
+2	Spectrogram 1	1	155.156811866	155.810784884	3436.1	5652.9	Colorhamphus_parvirostris-ML86559.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colorhamphus_parvirostris-ML86559.wav	1	b
+3	Spectrogram 1	1	157.989502076	158.094604883	3066.6	4618.4	Colorhamphus_parvirostris-ML86559.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colorhamphus_parvirostris-ML86559.wav	2	c
+4	Spectrogram 1	1	158.113289826	158.412248920	3288.3	7056.9	Colorhamphus_parvirostris-ML86559.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colorhamphus_parvirostris-ML86559.wav	2	d
+5	Spectrogram 1	1	161.570544204	162.191818572	3510.0	5616.0	Colorhamphus_parvirostris-ML86559.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colorhamphus_parvirostris-ML86559.wav	2	b
+6	Spectrogram 1	1	164.667470037	164.767901608	2549.4	4803.1	Colorhamphus_parvirostris-ML86559.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colorhamphus_parvirostris-ML86559.wav	3	e
+7	Spectrogram 1	1	164.781915316	165.087881263	3288.3	6724.4	Colorhamphus_parvirostris-ML86559.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colorhamphus_parvirostris-ML86559.wav	3	f
+8	Spectrogram 1	1	168.259436978	168.838670223	3510.0	5468.2	Colorhamphus_parvirostris-ML86559.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colorhamphus_parvirostris-ML86559.wav	3	b

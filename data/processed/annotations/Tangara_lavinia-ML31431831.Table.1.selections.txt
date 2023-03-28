@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.333226107	5.638024246	1847.4	7241.6	Tangara_lavinia-ML31431831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_lavinia-ML31431831.wav	1	a
+2	Spectrogram 1	1	9.929404284	10.227195569	2106.0	7167.8	Tangara_lavinia-ML31431831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_lavinia-ML31431831.wav	2	a
+3	Spectrogram 1	1	16.201403876	16.512041059	1958.2	7130.8	Tangara_lavinia-ML31431831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_lavinia-ML31431831.wav	3	a
+4	Spectrogram 1	1	18.990332056	19.282284296	2032.1	6946.1	Tangara_lavinia-ML31431831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_lavinia-ML31431831.wav	4	a
+5	Spectrogram 1	1	27.559948820	27.827377072	1921.3	8017.5	Tangara_lavinia-ML31431831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_lavinia-ML31431831.wav	5	a

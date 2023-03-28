@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.919512872	8.036771592	5159.0	8458.6	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	1	a
+2	Spectrogram 1	1	8.134211937	8.248167595	5289.9	8720.5	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	1	a
+3	Spectrogram 1	1	8.347259471	8.487639629	3561.5	5420.8	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	1	b
+4	Spectrogram 1	1	8.609852943	8.733717789	5578.0	9034.7	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	1	a
+5	Spectrogram 1	1	8.836112727	8.974841354	3587.7	5525.6	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	1	b
+6	Spectrogram 1	1	13.605021445	13.715674040	5080.4	7699.2	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	2	a
+7	Spectrogram 1	1	13.813114385	13.941933824	5132.8	8615.7	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	2	a
+8	Spectrogram 1	1	14.026161919	14.156632889	3561.5	5420.8	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	2	b
+9	Spectrogram 1	1	14.255724765	14.382892673	5578.0	8982.4	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	2	a
+10	Spectrogram 1	1	19.032975510	19.146931167	5080.4	8772.9	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	3	a
+11	Spectrogram 1	1	19.239416918	19.368236357	5263.7	8825.2	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	3	a
+12	Spectrogram 1	1	19.459070577	19.596147673	3378.2	5499.4	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	3	b
+13	Spectrogram 1	1	19.716709456	19.850483489	5525.6	9191.9	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	3	a
+14	Spectrogram 1	1	19.990863647	20.121334617	3744.8	5630.3	Phylloscopus_maculipennis-ML140882.wav	D:\Andean\Phylloscopidae\Phylloscopus_maculipennis-ML140882.wav	3	b

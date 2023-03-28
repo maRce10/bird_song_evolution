@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	33.089888097	33.203843755	2742.4	3434.9	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	1	a
+2	Spectrogram 1	1	33.213752942	33.364042288	2576.2	4321.4	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	1	b
+3	Spectrogram 1	1	33.454876508	33.550665322	2853.2	3711.9	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	1	c
+4	Spectrogram 1	1	33.568832166	33.628287291	2742.4	5651.0	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	1	d
+5	Spectrogram 1	1	33.722424574	33.803349606	2991.7	3573.4	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	1	c
+6	Spectrogram 1	1	33.821516450	33.880971576	3019.4	5401.7	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	1	d
+7	Spectrogram 1	1	33.986669577	34.345051863	2188.4	2908.6	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	1	e
+8	Spectrogram 1	1	39.274313841	39.384966436	2853.2	3434.9	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	2	a
+9	Spectrogram 1	1	39.401481749	39.538558845	2687.0	4238.3	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	2	b
+10	Spectrogram 1	1	39.655817565	39.749954847	2908.6	3656.5	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	2	c
+11	Spectrogram 1	1	39.769773222	39.825925286	2742.4	5567.9	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	2	d
+12	Spectrogram 1	1	39.910153380	39.999336069	2908.6	3601.1	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	2	c
+13	Spectrogram 1	1	40.017502913	40.076958039	2936.3	5651.0	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	2	d
+14	Spectrogram 1	1	40.235505041	40.512962294	2271.5	2825.5	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	2	e
+15	Spectrogram 1	1	45.657082315	45.779295629	2714.7	3351.8	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	3	a
+16	Spectrogram 1	1	45.799114004	45.939494163	2603.9	4155.2	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	3	b
+17	Spectrogram 1	1	46.053449820	46.154193228	2936.3	3767.3	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	3	c
+18	Spectrogram 1	1	46.170708540	46.231815197	2797.8	5817.2	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	3	d
+19	Spectrogram 1	1	46.309437167	46.400271387	2964.0	3628.8	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	3	c
+20	Spectrogram 1	1	46.420089762	46.482847951	2770.1	5595.6	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	3	d
+22	Spectrogram 1	1	46.563772983	46.629834234	1385.1	2576.2	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	3	f
+23	Spectrogram 1	1	46.682683234	46.747092954	1440.5	2603.9	Ficedula_ruficauda-ML173168941.wav	E:\Andean\Muscicapidae\Ficedula_ruficauda-ML173168941.wav	3	f

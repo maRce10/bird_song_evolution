@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.243099629	18.509263209	420.4	3690.6	Phaetusa_simplex-ML179801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Phaetusa_simplex-ML179801.wav	1	a
+2	Spectrogram 1	1	19.870797964	20.166331318	420.4	3784.0	Phaetusa_simplex-ML179801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Phaetusa_simplex-ML179801.wav	2	a
+3	Spectrogram 1	1	25.310482846	25.580317647	420.4	3643.9	Phaetusa_simplex-ML179801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Phaetusa_simplex-ML179801.wav	3	a

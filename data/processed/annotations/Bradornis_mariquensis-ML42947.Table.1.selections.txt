@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.903999220	5.062821238	2826.9	7830.6	Bradornis_mariquensis-ML42947.wav	E:\Andean\Muscicapidae\Bradornis_mariquensis-ML42947.wav	1	a
+2	Spectrogram 1	1	7.837535330	8.019713527	2346.3	7576.2	Bradornis_mariquensis-ML42947.wav	E:\Andean\Muscicapidae\Bradornis_mariquensis-ML42947.wav	2	a
+3	Spectrogram 1	1	9.846166742	10.084399770	2233.3	7293.5	Bradornis_mariquensis-ML42947.wav	E:\Andean\Muscicapidae\Bradornis_mariquensis-ML42947.wav	3	a

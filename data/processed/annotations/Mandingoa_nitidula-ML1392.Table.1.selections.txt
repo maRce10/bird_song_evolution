@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.595397038	14.874694158	6874.2	8148.0	Mandingoa_nitidula-ML1392.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Mandingoa_nitidula-ML1392.wav	1	a
+2	Spectrogram 1	1	15.093301782	15.383205122	6874.2	8367.6	Mandingoa_nitidula-ML1392.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Mandingoa_nitidula-ML1392.wav	1	b
+3	Spectrogram 1	1	24.680744111	24.949435011	6912.5	8312.5	Mandingoa_nitidula-ML1392.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Mandingoa_nitidula-ML1392.wav	2	a
+4	Spectrogram 1	1	25.299440263	25.568131163	6737.5	8662.5	Mandingoa_nitidula-ML1392.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Mandingoa_nitidula-ML1392.wav	2	b
+5	Spectrogram 1	1	30.065670138	30.376785917	6830.2	7906.4	Mandingoa_nitidula-ML1392.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Mandingoa_nitidula-ML1392.wav	3	a
+6	Spectrogram 1	1	30.733861982	31.013159102	6962.0	8169.9	Mandingoa_nitidula-ML1392.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Mandingoa_nitidula-ML1392.wav	3	b

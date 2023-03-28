@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.790581900	24.147312654	2612.6	3239.6	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	1	a
+2	Spectrogram 1	1	24.418163783	24.873986413	2586.3	3177.5	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	1	b
+3	Spectrogram 1	1	25.181171230	25.603963235	2549.4	3029.7	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	1	c
+4	Spectrogram 1	1	25.914450973	26.304212353	2918.8	3343.7	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	1	d
+5	Spectrogram 1	1	26.637821670	27.077128988	2549.4	3066.6	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	1	b
+6	Spectrogram 1	1	27.321555440	27.741044067	2660.2	3325.2	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	1	d
+7	Spectrogram 1	1	28.035016949	28.474323951	2530.9	3029.7	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	1	b
+8	Spectrogram 1	1	28.837660831	29.234028336	2697.1	3343.7	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	1	d
+9	Spectrogram 1	1	29.537910090	29.987126595	2457.0	3029.7	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	1	b
+10	Spectrogram 1	1	72.007186363	72.427597588	2530.9	3214.4	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	2	a
+11	Spectrogram 1	1	72.749912862	73.170324088	2475.5	3232.9	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	2	b
+12	Spectrogram 1	1	73.506653068	73.950420474	2438.5	3085.1	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	2	c
+13	Spectrogram 1	1	74.244708332	74.655777086	2364.6	3306.8	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	2	d
+14	Spectrogram 1	1	74.889338878	75.323763812	2457.0	3011.2	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	2	c
+15	Spectrogram 1	1	75.571339311	75.996421773	2549.4	3362.2	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	2	d
+16	Spectrogram 1	1	76.281367460	76.725134866	2438.5	2992.7	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	2	c
+17	Spectrogram 1	1	77.000737780	77.416477770	2623.2	3343.7	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	2	d
+18	Spectrogram 1	1	77.780834166	78.247957751	2457.0	3029.7	Sporophila_leucoptera-ML89186.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_leucoptera-ML89186.wav	2	c

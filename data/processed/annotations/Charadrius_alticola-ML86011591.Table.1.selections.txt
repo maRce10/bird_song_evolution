@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.165740854	1.217118491	1433.7	6081.1	Charadrius_alticola-ML86011591.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_alticola-ML86011591.wav	1	a
+2	Spectrogram 1	1	1.608651513	1.663572435	1582.1	6006.9	Charadrius_alticola-ML86011591.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_alticola-ML86011591.wav	2	a
+3	Spectrogram 1	1	2.019672605	2.067506956	1582.1	5710.3	Charadrius_alticola-ML86011591.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_alticola-ML86011591.wav	3	a

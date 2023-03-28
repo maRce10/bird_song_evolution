@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.718587979	6.895432214	2026.1	5131.0	Coccothraustes_vespertinus-ML125382.wav	E:\Escritorio\Cantos\Fringillidae\Coccothraustes_vespertinus-ML125382.wav	1	a
+2	Spectrogram 1	1	8.629282788	8.911705671	2052.4	4552.1	Coccothraustes_vespertinus-ML125382.wav	E:\Escritorio\Cantos\Fringillidae\Coccothraustes_vespertinus-ML125382.wav	1	b
+3	Spectrogram 1	1	10.436937235	10.619060402	1789.3	5183.6	Coccothraustes_vespertinus-ML125382.wav	E:\Escritorio\Cantos\Fringillidae\Coccothraustes_vespertinus-ML125382.wav	2	a
+4	Spectrogram 1	1	12.163361382	12.448423732	1684.0	4578.4	Coccothraustes_vespertinus-ML125382.wav	E:\Escritorio\Cantos\Fringillidae\Coccothraustes_vespertinus-ML125382.wav	2	b
+5	Spectrogram 1	1	14.300478634	14.490849848	1736.6	4894.2	Coccothraustes_vespertinus-ML125382.wav	E:\Escritorio\Cantos\Fringillidae\Coccothraustes_vespertinus-ML125382.wav	3	a
+6	Spectrogram 1	1	15.826241249	16.126729145	1920.8	4604.7	Coccothraustes_vespertinus-ML125382.wav	E:\Escritorio\Cantos\Fringillidae\Coccothraustes_vespertinus-ML125382.wav	3	b

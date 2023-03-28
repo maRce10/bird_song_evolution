@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	46.516881676	46.708459303	4321.4	6980.7	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	1	a
+2	Spectrogram 1	1	46.939673681	47.151069684	4349.1	7036.1	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	1	a
+3	Spectrogram 1	1	47.336041186	47.547437189	4293.7	7008.4	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	1	a
+4	Spectrogram 1	1	47.732408691	47.950410819	4349.1	7008.4	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	1	a
+5	Spectrogram 1	1	48.155200696	48.386415074	4266.0	7008.4	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	1	a
+6	Spectrogram 1	1	48.617629452	48.822419330	4266.0	6980.7	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	1	a
+7	Spectrogram 1	1	56.630761730	56.865279171	4099.7	7091.5	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	2	a
+8	Spectrogram 1	1	57.086584361	57.284768114	4099.7	7119.2	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	2	a
+9	Spectrogram 1	1	57.515982492	57.707560119	4099.7	7091.5	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	2	a
+10	Spectrogram 1	1	57.945380622	58.163382750	4099.7	7119.2	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	2	a
+11	Spectrogram 1	1	58.387991003	58.612599255	4099.7	7091.5	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	2	a
+12	Spectrogram 1	1	58.823995258	59.035391261	4044.3	7063.8	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	2	a
+13	Spectrogram 1	1	63.880019911	64.078203663	4155.2	7119.2	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	3	a
+14	Spectrogram 1	1	64.289599666	64.487783419	4210.6	7230.0	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	3	a
+15	Spectrogram 1	1	64.679361046	64.897363174	4155.2	7119.2	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	3	a
+16	Spectrogram 1	1	65.102153051	65.306942929	4155.2	7174.6	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	3	a
+17	Spectrogram 1	1	65.505126681	65.703310434	4182.9	7091.5	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	3	a
+18	Spectrogram 1	1	66.060041188	66.251618816	4016.6	6648.2	Epinecrophylla_erythrura-ML60397.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Epinecrophylla_erythrura-ML60397.wav	3	b

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	91.262185730	91.710074788	1167.9	2195.7	Pyrrhula_murina-ML77751291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_murina-ML77751291.wav	1	a
+2	Spectrogram 1	1	91.840403162	92.181826788	2289.1	2662.8	Pyrrhula_murina-ML77751291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_murina-ML77751291.wav	1	b
+3	Spectrogram 1	1	92.310319550	92.541606523	1144.5	2242.4	Pyrrhula_murina-ML77751291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_murina-ML77751291.wav	1	c
+4	Spectrogram 1	1	92.579492828	92.904395956	1915.4	2709.5	Pyrrhula_murina-ML77751291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_murina-ML77751291.wav	1	d
+5	Spectrogram 1	1	93.095299489	93.315572796	1261.3	2148.9	Pyrrhula_murina-ML77751291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_murina-ML77751291.wav	1	e
+6	Spectrogram 1	1	93.374312345	93.679023754	1471.6	2242.4	Pyrrhula_murina-ML77751291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_murina-ML77751291.wav	1	f
+7	Spectrogram 1	1	93.716910058	93.902306758	1915.4	2569.4	Pyrrhula_murina-ML77751291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_murina-ML77751291.wav	1	g
+8	Spectrogram 1	1	93.898635537	94.082196626	2359.2	3410.3	Pyrrhula_murina-ML77751291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_murina-ML77751291.wav	1	h

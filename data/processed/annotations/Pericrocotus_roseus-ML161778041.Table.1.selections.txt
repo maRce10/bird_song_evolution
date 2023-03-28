@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.201464968	3.271218182	2826.3	6797.2	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	1	a
+2	Spectrogram 1	1	3.276725015	3.315272844	3246.8	6540.3	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	1	b
+3	Spectrogram 1	1	3.318944065	3.359327505	3433.6	6633.7	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	1	b
+4	Spectrogram 1	1	3.361163116	3.396039723	3316.8	6423.5	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	1	b
+5	Spectrogram 1	1	3.396039723	3.454779272	3433.6	6446.8	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	1	b
+6	Spectrogram 1	1	10.553933980	10.620015972	2826.3	6353.4	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	2	a
+7	Spectrogram 1	1	10.640207692	10.693440408	2616.1	6213.2	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	2	b
+8	Spectrogram 1	1	10.697111629	10.754015567	2569.4	6236.6	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	2	b
+9	Spectrogram 1	1	10.785005272	10.849251654	2943.1	6283.3	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	2	a
+10	Spectrogram 1	1	10.854758486	10.891470704	2989.8	6260.0	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	2	b
+11	Spectrogram 1	1	11.750536603	11.812947373	2592.7	6353.4	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	3	a
+12	Spectrogram 1	1	11.833139093	11.890043031	2756.2	6260.0	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	3	b
+13	Spectrogram 1	1	11.899221085	11.937768914	3036.5	6213.2	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	3	b
+14	Spectrogram 1	1	11.981823575	12.038727513	2849.7	6260.0	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	3	a
+15	Spectrogram 1	1	12.044234346	12.088289007	2966.5	6213.2	Pericrocotus_roseus-ML161778041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_roseus-ML161778041.wav	3	b

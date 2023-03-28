@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.277248436	9.398398755	1611.7	5115.4	Gymnobucco_bonapartei-ML85519.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Lybiidae\Lybiidae\Gymnobucco_bonapartei-ML85519.wav	1	a
+2	Spectrogram 1	1	10.017227846	10.136542554	1565.0	5068.7	Gymnobucco_bonapartei-ML85519.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Lybiidae\Lybiidae\Gymnobucco_bonapartei-ML85519.wav	2	a
+3	Spectrogram 1	1	10.573417947	10.705581931	1658.4	5068.7	Gymnobucco_bonapartei-ML85519.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Lybiidae\Lybiidae\Gymnobucco_bonapartei-ML85519.wav	3	a

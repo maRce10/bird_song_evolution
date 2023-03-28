@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	149.559980363	149.824225366	2797.8	3711.9	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	1	a
+2	Spectrogram 1	1	149.883680492	149.939832555	2659.3	3434.9	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	1	b
+3	Spectrogram 1	1	150.005893806	150.213986746	2548.5	3490.3	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	1	a
+4	Spectrogram 1	1	150.313078622	150.593838938	2908.6	3795.0	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	1	a
+5	Spectrogram 1	1	150.676415502	150.973691130	1994.5	3351.8	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	1	c
+6	Spectrogram 1	1	151.066176882	151.161965695	2964.0	3434.9	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	1	d
+7	Spectrogram 1	1	151.191693258	151.337028010	2603.9	4072.0	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	1	e
+8	Spectrogram 1	1	151.449332136	151.465847449	2077.6	3185.6	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	1	f
+9	Spectrogram 1	1	151.485665824	151.806062891	2077.6	2991.7	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	1	c
+10	Spectrogram 1	1	157.526791048	157.791036051	2631.6	3684.2	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	2	a
+11	Spectrogram 1	1	157.853430411	157.912885537	2631.6	3407.2	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	2	b
+12	Spectrogram 1	1	157.969037600	158.190342790	2410.0	3434.9	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	2	a
+13	Spectrogram 1	1	158.279525479	158.563588857	2714.7	3822.7	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	2	a
+14	Spectrogram 1	1	158.662680734	158.956653300	1966.8	3268.7	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	2	c
+15	Spectrogram 1	1	159.055745176	159.319990179	2465.4	4099.7	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	2	g
+16	Spectrogram 1	1	159.422385118	159.452112681	2160.7	3241.0	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	2	f
+17	Spectrogram 1	1	159.468627994	159.789025060	2022.2	3074.8	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	2	c
+18	Spectrogram 1	1	159.911238374	160.228332378	2797.8	4016.6	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	2	h
+19	Spectrogram 1	1	166.380649672	166.628379363	2880.9	3767.3	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	3	a
+20	Spectrogram 1	1	166.687834489	166.760501864	2714.7	3434.9	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	3	b
+21	Spectrogram 1	1	166.810047803	167.037959118	2520.8	3490.3	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	3	a
+22	Spectrogram 1	1	167.130444869	167.401295998	2880.9	3795.0	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	3	a
+23	Spectrogram 1	1	167.483872561	167.784451252	2077.6	3296.4	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	3	c
+24	Spectrogram 1	1	167.850512503	168.151091194	2520.8	4044.3	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	3	g
+25	Spectrogram 1	1	168.246880008	168.577186262	2022.2	3324.1	Monticola_cinclorhyncha-ML173593571.wav	E:\Andean\Muscicapidae\Monticola_cinclorhyncha-ML173593571.wav	3	i

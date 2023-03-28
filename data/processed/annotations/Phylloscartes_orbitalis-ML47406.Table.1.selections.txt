@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.572656912	6.760112872	4470.6	6354.9	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	a
+2	Spectrogram 1	1	6.869665056	6.967044775	5763.8	6835.2	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	b
+3	Spectrogram 1	1	7.047917380	7.078903417	5652.9	7611.1	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	c
+4	Spectrogram 1	1	7.087510650	7.118496687	5837.7	7352.5	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	d
+5	Spectrogram 1	1	7.263098193	7.321627373	2106.0	7315.5	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	e
+6	Spectrogram 1	1	7.449014414	7.488607684	5542.1	7574.2	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	c
+7	Spectrogram 1	1	7.497214916	7.533365293	5616.0	7389.4	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	d
+8	Spectrogram 1	1	7.745103212	7.931019433	4507.6	6502.7	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	a
+9	Spectrogram 1	1	8.089392521	8.266701510	4581.4	6502.7	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	a
+10	Spectrogram 1	1	8.421631695	8.600662130	4544.5	6946.1	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	f
+11	Spectrogram 1	1	8.759035208	8.917408286	4581.4	7352.5	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	g
+12	Spectrogram 1	1	9.075781364	9.168739474	3953.3	5948.5	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	h
+13	Spectrogram 1	1	9.215218530	9.256533246	6909.1	10271.3	Phylloscartes_orbitalis-ML47406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_orbitalis-ML47406.wav	1	i

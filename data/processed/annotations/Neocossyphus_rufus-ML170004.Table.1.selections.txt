@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	54.144777321	54.593993827	6557.5	7942.2	Neocossyphus_rufus-ML170004.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_rufus-ML170004.wav	1	a
+2	Spectrogram 1	1	55.317364381	55.390031757	3161.2	3788.2	Neocossyphus_rufus-ML170004.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_rufus-ML170004.wav	1	b
+3	Spectrogram 1	1	55.667489010	56.427193395	2717.1	3657.6	Neocossyphus_rufus-ML170004.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_rufus-ML170004.wav	1	c
+4	Spectrogram 1	1	57.261931034	57.901073636	1645.9	5199.0	Neocossyphus_rufus-ML170004.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_rufus-ML170004.wav	1	d
+5	Spectrogram 1	1	57.994031961	58.093123837	3056.7	3657.6	Neocossyphus_rufus-ML170004.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_rufus-ML170004.wav	1	e
+6	Spectrogram 1	1	58.410217841	59.242589601	2717.1	3579.2	Neocossyphus_rufus-ML170004.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Neocossyphus_rufus-ML170004.wav	1	c

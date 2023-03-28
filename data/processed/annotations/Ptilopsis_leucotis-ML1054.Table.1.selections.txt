@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.434095888	25.580777291	193.9	775.6	Ptilopsis_leucotis-ML1054.wav	D:\Andean\Strigidae\Ptilopsis_leucotis-ML1054.wav	1	a
+2	Spectrogram 1	1	26.020821500	26.667553142	221.6	775.6	Ptilopsis_leucotis-ML1054.wav	D:\Andean\Strigidae\Ptilopsis_leucotis-ML1054.wav	1	b
+3	Spectrogram 1	1	31.971899068	32.118580471	221.6	747.9	Ptilopsis_leucotis-ML1054.wav	D:\Andean\Strigidae\Ptilopsis_leucotis-ML1054.wav	2	a
+4	Spectrogram 1	1	32.571959354	33.218690995	277.0	747.9	Ptilopsis_leucotis-ML1054.wav	D:\Andean\Strigidae\Ptilopsis_leucotis-ML1054.wav	2	b
+5	Spectrogram 1	1	38.098412527	38.258428603	277.0	775.6	Ptilopsis_leucotis-ML1054.wav	D:\Andean\Strigidae\Ptilopsis_leucotis-ML1054.wav	3	a
+6	Spectrogram 1	1	38.711807485	39.391875809	277.0	775.6	Ptilopsis_leucotis-ML1054.wav	D:\Andean\Strigidae\Ptilopsis_leucotis-ML1054.wav	3	b

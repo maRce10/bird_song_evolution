@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.329066816	1.437293624	2160.7	3102.5	Tringa_nebularia-ML327626621.wav	D:\Andean\Scolopacidae\Tringa_nebularia-ML327626621.wav	1	a
+2	Spectrogram 1	1	1.477377627	1.601638037	2105.3	3047.1	Tringa_nebularia-ML327626621.wav	D:\Andean\Scolopacidae\Tringa_nebularia-ML327626621.wav	1	a
+3	Spectrogram 1	1	1.645730440	1.765982449	1939.1	3047.1	Tringa_nebularia-ML327626621.wav	D:\Andean\Scolopacidae\Tringa_nebularia-ML327626621.wav	1	a
+4	Spectrogram 1	1	1.814083252	1.926318461	2049.9	3102.5	Tringa_nebularia-ML327626621.wav	D:\Andean\Scolopacidae\Tringa_nebularia-ML327626621.wav	1	a
+5	Spectrogram 1	1	5.368900590	5.467106398	1828.3	3047.1	Tringa_nebularia-ML327626621.wav	D:\Andean\Scolopacidae\Tringa_nebularia-ML327626621.wav	2	a
+6	Spectrogram 1	1	5.521219802	5.641471811	1939.1	2991.7	Tringa_nebularia-ML327626621.wav	D:\Andean\Scolopacidae\Tringa_nebularia-ML327626621.wav	2	a
+7	Spectrogram 1	1	5.695585215	5.835879225	1883.7	2991.7	Tringa_nebularia-ML327626621.wav	D:\Andean\Scolopacidae\Tringa_nebularia-ML327626621.wav	2	a
+8	Spectrogram 1	1	6.737769292	6.860025501	1828.3	2991.7	Tringa_nebularia-ML327626621.wav	D:\Andean\Scolopacidae\Tringa_nebularia-ML327626621.wav	3	a
+9	Spectrogram 1	1	6.916143106	7.040403515	1883.7	3102.5	Tringa_nebularia-ML327626621.wav	D:\Andean\Scolopacidae\Tringa_nebularia-ML327626621.wav	3	a
+10	Spectrogram 1	1	7.100529519	7.266878132	1883.7	2991.7	Tringa_nebularia-ML327626621.wav	D:\Andean\Scolopacidae\Tringa_nebularia-ML327626621.wav	3	a

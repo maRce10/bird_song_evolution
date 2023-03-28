@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.990835281	4.455005652	280.3	3106.6	Vanellus_coronatus-ML133921571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_coronatus-ML133921571.wav	1	a
+2	Spectrogram 1	1	5.303622474	5.709328638	303.7	2966.5	Vanellus_coronatus-ML133921571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_coronatus-ML133921571.wav	2	a
+3	Spectrogram 1	1	5.879671255	6.164905719	327.0	3643.9	Vanellus_coronatus-ML133921571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_coronatus-ML133921571.wav	2	b
+4	Spectrogram 1	1	6.640159295	7.010432606	256.9	3130.0	Vanellus_coronatus-ML133921571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_coronatus-ML133921571.wav	3	a
+5	Spectrogram 1	1	7.258613692	7.565107868	373.7	3737.3	Vanellus_coronatus-ML133921571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_coronatus-ML133921571.wav	3	a

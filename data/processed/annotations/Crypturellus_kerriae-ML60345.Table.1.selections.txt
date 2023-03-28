@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	227.919077849	229.451698868	831.0	1246.5	Crypturellus_kerriae-ML60345.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_kerriae-ML60345.wav	1	a
+2	Spectrogram 1	1	249.375772119	250.908393138	831.0	1246.5	Crypturellus_kerriae-ML60345.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_kerriae-ML60345.wav	2	a
+3	Spectrogram 1	1	291.972066655	293.557536675	831.0	1246.5	Crypturellus_kerriae-ML60345.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_kerriae-ML60345.wav	3	a

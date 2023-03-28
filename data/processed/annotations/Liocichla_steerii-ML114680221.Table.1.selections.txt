@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.354681581	6.683474393	4128.9	5468.6	Liocichla_steerii-ML114680221.wav	E:\Escritorio\Cantos\Leiothrichidae\Liocichla_steerii-ML114680221.wav	1	a
+2	Spectrogram 1	1	6.994590172	7.475405467	3162.5	5249.0	Liocichla_steerii-ML114680221.wav	E:\Escritorio\Cantos\Leiothrichidae\Liocichla_steerii-ML114680221.wav	1	b
+3	Spectrogram 1	1	12.545698409	12.920451507	4238.7	5666.2	Liocichla_steerii-ML114680221.wav	E:\Escritorio\Cantos\Leiothrichidae\Liocichla_steerii-ML114680221.wav	2	a
+4	Spectrogram 1	1	13.213890253	13.733595021	3096.7	5249.0	Liocichla_steerii-ML114680221.wav	E:\Escritorio\Cantos\Leiothrichidae\Liocichla_steerii-ML114680221.wav	2	b
+5	Spectrogram 1	1	19.228106653	19.571041091	4085.0	5424.7	Liocichla_steerii-ML114680221.wav	E:\Escritorio\Cantos\Leiothrichidae\Liocichla_steerii-ML114680221.wav	3	a
+6	Spectrogram 1	1	19.878621464	20.377113792	3008.8	5380.7	Liocichla_steerii-ML114680221.wav	E:\Escritorio\Cantos\Leiothrichidae\Liocichla_steerii-ML114680221.wav	3	b

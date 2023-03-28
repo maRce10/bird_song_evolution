@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.378778316	6.059789958	2032.2	2849.7	Laniarius_holomelas-ML1280.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_holomelas-ML1280.wav	1	a
+2	Spectrogram 1	1	8.171640656	8.883857683	2008.8	2756.2	Laniarius_holomelas-ML1280.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_holomelas-ML1280.wav	2	a
+3	Spectrogram 1	1	10.930332565	11.642549592	1915.4	2756.2	Laniarius_holomelas-ML1280.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_holomelas-ML1280.wav	3	a

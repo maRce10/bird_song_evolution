@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.861183051	12.939482059	285.5	3964.7	Milvago_chimango-ML138689.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Milvago_chimango-ML138689.wav	1	a
+2	Spectrogram 1	1	17.259844396	18.285112305	197.7	4085.0	Milvago_chimango-ML138689.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Milvago_chimango-ML138689.wav	2	a
+3	Spectrogram 1	1	37.550745011	38.618437799	175.7	4127.6	Milvago_chimango-ML138689.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Milvago_chimango-ML138689.wav	3	a

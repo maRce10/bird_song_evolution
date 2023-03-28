@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	40.837675872	40.875045759	2797.8	5069.3	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	1	a
+2	Spectrogram 1	1	40.889059466	40.919422499	3185.6	4293.7	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	1	b
+3	Spectrogram 1	1	41.255751480	41.283778895	2908.6	4792.3	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	1	a
+4	Spectrogram 1	1	41.304799456	41.330491253	2964.0	4127.4	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	1	b
+5	Spectrogram 1	1	41.706525739	41.729881918	3074.8	3739.6	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	1	c
+6	Spectrogram 1	1	41.743895626	41.778929894	2770.1	4321.4	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	1	b
+7	Spectrogram 1	1	41.860676522	41.884032701	3268.7	4266.0	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	1	b
+8	Spectrogram 1	1	43.474300644	43.490649969	3157.9	3795.0	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	2	c
+9	Spectrogram 1	1	43.499992441	43.532691092	2770.1	4127.4	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	2	b
+10	Spectrogram 1	1	43.614437719	43.647136370	2770.1	4127.4	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	2	b
+11	Spectrogram 1	1	43.894711870	43.918068049	3379.5	3905.8	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	2	c
+12	Spectrogram 1	1	43.925074903	43.960109172	2770.1	4210.6	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	2	b
+13	Spectrogram 1	1	44.072218832	44.093239393	3019.4	4321.4	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	2	b
+14	Spectrogram 1	1	44.473945114	44.511315001	2991.7	4266.0	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	2	b
+15	Spectrogram 1	1	44.698164435	44.723856232	3241.0	4543.0	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	2	b
+16	Spectrogram 1	1	45.240027053	45.268054468	2714.7	3462.6	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	2	d
+17	Spectrogram 1	1	47.718721202	47.756091088	3601.1	4321.4	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	3	e
+18	Spectrogram 1	1	48.634283427	48.673988932	2880.9	4155.2	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	3	b
+19	Spectrogram 1	1	48.914557578	48.930906903	2936.3	4487.6	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	3	b
+20	Spectrogram 1	1	48.982290497	49.007982295	2964.0	4792.3	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	3	b
+21	Spectrogram 1	1	49.239208469	49.262564648	2797.8	3933.5	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	3	b
+22	Spectrogram 1	1	49.276578356	49.304605771	2659.3	4182.9	Ptiliogonys_caudatus-ML205754.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_caudatus-ML205754.wav	3	b

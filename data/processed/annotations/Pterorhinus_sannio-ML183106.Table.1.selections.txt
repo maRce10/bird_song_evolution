@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	163.113635414	163.368184687	1383.6	6764.3	Pterorhinus_sannio-ML183106.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_sannio-ML183106.wav	1	a
+2	Spectrogram 1	1	166.705608501	166.917732896	1317.7	6698.5	Pterorhinus_sannio-ML183106.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_sannio-ML183106.wav	2	a
+3	Spectrogram 1	1	172.542906568	172.797455842	1471.5	6918.1	Pterorhinus_sannio-ML183106.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_sannio-ML183106.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.654231763	0.819119443	222.5	642.7	Ixobrychus_eurhythmus-ML249177801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_eurhythmus-ML249177801.wav	1	a
+2	Spectrogram 1	1	1.514129879	1.677244573	247.2	642.7	Ixobrychus_eurhythmus-ML249177801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_eurhythmus-ML249177801.wav	2	a
+3	Spectrogram 1	1	2.382390780	2.541959502	271.9	642.7	Ixobrychus_eurhythmus-ML249177801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_eurhythmus-ML249177801.wav	3	a

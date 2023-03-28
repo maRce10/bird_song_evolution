@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.770956576	1.156434863	303.7	2429.2	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	1	a
+2	Spectrogram 1	1	10.034821459	10.445998300	303.7	2756.2	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	1	a
+3	Spectrogram 1	1	10.719504323	11.119667498	303.7	2639.5	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	1	a
+4	Spectrogram 1	1	11.372981801	11.749282035	420.4	2522.7	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	1	a
+5	Spectrogram 1	1	12.006142547	12.378771559	233.6	2499.3	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	1	a
+6	Spectrogram 1	1	12.646770749	12.991865597	256.9	2148.9	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	1	a
+7	Spectrogram 1	1	13.368165831	13.772000227	256.9	2242.4	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	1	a
+8	Spectrogram 1	1	14.045506251	14.394272321	256.9	2195.7	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	1	a
+9	Spectrogram 1	1	24.425853526	24.945355158	213.4	1991.6	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	2	a
+10	Spectrogram 1	1	25.195829160	25.613285828	426.8	1920.5	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	2	a
+11	Spectrogram 1	1	25.873036644	26.253386054	426.8	1849.4	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	2	a
+12	Spectrogram 1	1	26.540967314	26.939870353	426.8	1849.4	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	2	a
+13	Spectrogram 1	1	27.153237095	27.505756060	284.5	1991.6	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	2	a
+14	Spectrogram 1	1	27.784060505	28.127302655	355.6	1849.4	Corvus_macrorhynchos-ML62185721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_macrorhynchos-ML62185721.wav	2	a

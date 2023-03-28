@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.187585442	16.222462049	2411.4	4426.5	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	1	a
+2	Spectrogram 1	1	16.261009878	16.303228928	2444.5	4789.8	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	1	b
+3	Spectrogram 1	1	16.347283590	16.391338251	2378.4	4624.7	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	1	b
+4	Spectrogram 1	1	16.448242189	16.483118796	2312.3	4492.5	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	1	b
+5	Spectrogram 1	1	16.551036399	16.596926671	2378.4	4492.5	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	1	b
+6	Spectrogram 1	1	17.200380815	18.266870744	2114.1	6474.5	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	1	c
+7	Spectrogram 1	1	19.721080443	19.754121439	2279.3	4030.1	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	2	a
+8	Spectrogram 1	1	19.798176100	19.836723929	2543.6	4690.7	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	2	b
+9	Spectrogram 1	1	19.884449812	19.924833252	2510.5	4525.6	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	2	b
+10	Spectrogram 1	1	19.978065968	20.022120629	2477.5	4492.5	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	2	b
+11	Spectrogram 1	1	20.084531400	20.124914840	2510.5	4525.6	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	2	b
+12	Spectrogram 1	1	20.526913652	21.562198197	1189.2	6639.7	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	2	c
+13	Spectrogram 1	1	22.722304282	22.751674056	2312.3	4162.2	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	3	a
+14	Spectrogram 1	1	22.799399939	22.837947768	2378.4	4624.7	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	3	b
+15	Spectrogram 1	1	22.889344873	22.929728313	2510.5	4492.5	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	3	b
+16	Spectrogram 1	1	22.986632251	23.027015690	2444.5	4657.7	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	3	b
+17	Spectrogram 1	1	23.082084017	23.118796235	2411.4	4558.6	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	3	b
+18	Spectrogram 1	1	23.183042616	23.223426056	2444.5	4657.7	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	3	b
+19	Spectrogram 1	1	23.728074424	24.842290237	1255.3	6540.6	Chloris_chloris-ML36480.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chloris_chloris-ML36480.wav	3	c

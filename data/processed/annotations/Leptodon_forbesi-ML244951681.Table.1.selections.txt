@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	36.003296124	36.148716856	346.1	1952.9	Leptodon_forbesi-ML244951681.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leptodon_forbesi-ML244951681.wav	1	a
+2	Spectrogram 1	1	36.251864119	36.397284851	420.2	1952.9	Leptodon_forbesi-ML244951681.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leptodon_forbesi-ML244951681.wav	2	a
+3	Spectrogram 1	1	36.511005645	36.669953887	445.0	1928.1	Leptodon_forbesi-ML244951681.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leptodon_forbesi-ML244951681.wav	3	a

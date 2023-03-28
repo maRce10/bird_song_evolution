@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.951849525	9.007904355	1492.7	3325.8	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	1	a
+2	Spectrogram 1	1	9.021918062	9.063959185	1440.3	3378.2	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	1	a
+3	Spectrogram 1	1	9.087315364	9.131692105	1361.8	3325.8	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	1	a
+4	Spectrogram 1	1	9.155048284	9.185411317	1387.9	3116.3	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	1	a
+5	Spectrogram 1	1	9.225116821	9.257815472	1230.8	3011.6	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	1	a
+6	Spectrogram 1	1	9.290514123	9.323212774	1361.8	3011.6	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	1	a
+7	Spectrogram 1	1	15.466296903	15.510673644	1440.3	3352.0	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+8	Spectrogram 1	1	15.545707912	15.580742181	1414.1	3483.0	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+9	Spectrogram 1	1	15.608769596	15.643803865	1440.3	3352.0	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+10	Spectrogram 1	1	15.683509370	15.706865549	1387.9	3273.5	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+11	Spectrogram 1	1	15.744235436	15.781605323	1728.4	2985.4	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+12	Spectrogram 1	1	15.804961502	15.839995771	1361.8	3221.1	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+13	Spectrogram 1	1	15.882036893	15.914735544	2068.8	4268.6	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+14	Spectrogram 1	1	15.947434195	15.989475318	2383.1	4478.1	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+15	Spectrogram 1	1	16.012831497	16.047865766	2645.0	4687.6	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+16	Spectrogram 1	1	16.073557563	16.103920596	2645.0	4635.2	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+17	Spectrogram 1	1	16.143626100	16.185667223	2304.5	4635.2	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	2	a
+18	Spectrogram 1	1	17.764653713	17.811366071	1309.4	3221.1	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	3	a
+19	Spectrogram 1	1	17.844064722	17.872092137	1230.8	3116.3	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	3	a
+20	Spectrogram 1	1	17.904953484	17.932980899	1440.3	3064.0	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	3	a
+21	Spectrogram 1	1	17.968015167	18.007720672	1257.0	3064.0	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	3	a
+22	Spectrogram 1	1	18.031076851	18.068446738	1387.9	3037.8	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	3	a
+23	Spectrogram 1	1	18.098809771	18.131508422	1466.5	2906.8	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	3	a
+24	Spectrogram 1	1	18.166542691	18.194570106	1414.1	2828.3	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	3	a
+25	Spectrogram 1	1	18.238946846	18.266974261	1387.9	2802.1	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	3	a
+26	Spectrogram 1	1	18.325364710	18.351056507	1414.1	2802.1	Chrysocolaptes_festivus-ML90822041.wav	D:\Andean\Picidae\Chrysocolaptes_festivus-ML90822041.wav	3	a

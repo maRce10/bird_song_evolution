@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	139.458430933	140.128745191	2146.8	4475.5	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	1	a
+2	Spectrogram 1	1	140.211593020	140.791527827	2037.6	4220.8	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	1	b
+3	Spectrogram 1	1	140.904502140	141.522095051	1928.5	4148.0	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	1	b
+4	Spectrogram 1	1	141.612474501	142.297852000	1746.5	3893.3	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	1	c
+5	Spectrogram 1	1	142.388231451	143.020887604	1928.5	3383.9	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	1	d
+7	Spectrogram 1	1	152.597125358	153.394224975	2328.7	4330.0	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	2	a
+8	Spectrogram 1	1	153.477072804	154.064539232	1855.7	4184.4	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	2	b
+9	Spectrogram 1	1	154.177513545	154.802638077	1855.7	4184.4	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	2	b
+10	Spectrogram 1	1	154.893017527	155.563331785	1637.4	3966.1	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	2	c
+11	Spectrogram 1	1	155.676306098	156.143266591	1710.1	2947.3	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	2	d
+13	Spectrogram 1	1	169.554027400	170.234753940	2437.9	4475.5	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	3	a
+14	Spectrogram 1	1	170.341267144	170.873833163	1892.1	4366.3	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	3	b
+15	Spectrogram 1	1	170.980346367	171.603448609	1892.1	4293.6	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	3	b
+16	Spectrogram 1	1	171.715287473	172.370343676	1892.1	4111.6	Oneillornis_salvini-ML166206.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Oneillornis_salvini-ML166206.wav	3	c

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.508356984	6.010422490	1385.1	1828.3	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	1	a
+2	Spectrogram 1	1	6.129332742	6.552124747	1329.6	1856.0	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	1	a
+3	Spectrogram 1	1	6.657822749	7.080614754	1357.3	1772.9	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	1	a
+4	Spectrogram 1	1	7.192918880	7.602498636	1329.6	1828.3	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	1	a
+5	Spectrogram 1	1	7.708196637	8.111170267	1329.6	1772.9	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	1	a
+6	Spectrogram 1	1	8.256505019	8.666084774	1329.6	1745.2	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	1	a
+7	Spectrogram 1	1	18.208595385	18.684236391	1357.3	1745.2	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	2	a
+8	Spectrogram 1	1	18.829571143	19.219332523	1357.3	1772.9	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	2	a
+9	Spectrogram 1	1	19.325030524	19.728004154	1385.1	1800.6	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	2	a
+10	Spectrogram 1	1	19.853520531	20.263100286	1329.6	1772.9	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	2	a
+11	Spectrogram 1	1	20.368798287	20.758559667	1329.6	1772.9	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	2	a
+12	Spectrogram 1	1	20.903894419	21.300261924	1357.3	1717.5	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	2	a
+13	Spectrogram 1	1	32.139543122	32.635002503	1440.5	1772.9	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	3	a
+14	Spectrogram 1	1	32.767125005	33.156886385	1357.3	1828.3	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	3	a
+15	Spectrogram 1	1	33.275796636	33.665558016	1385.1	1828.3	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	3	a
+16	Spectrogram 1	1	33.804286643	34.213866398	1385.1	1800.6	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	3	a
+17	Spectrogram 1	1	34.339382775	34.722538030	1301.9	1772.9	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	3	a
+18	Spectrogram 1	1	34.854660531	35.244421911	1329.6	1745.2	Cymbilaimus_lineatus-ML61088.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cymbilaimus_lineatus-ML61088.wav	3	a

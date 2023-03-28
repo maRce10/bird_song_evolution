@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.646955473	1.781253503	1477.9	4175.0	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	1	a
+2	Spectrogram 1	1	1.827965862	1.937739904	1644.1	4156.6	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	1	b
+3	Spectrogram 1	1	1.991459116	2.090722878	1902.8	4156.6	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	1	c
+4	Spectrogram 1	1	2.149113326	2.246041470	1939.7	4248.9	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	1	c
+5	Spectrogram 1	1	2.305599727	2.395521017	2142.9	4008.8	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	1	d
+6	Spectrogram 1	1	2.477267644	2.564853316	1791.9	4027.2	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	1	e
+7	Spectrogram 1	1	17.132381246	17.327405343	1939.7	4729.2	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	2	f
+8	Spectrogram 1	1	17.392802644	17.467365350	1847.4	4710.8	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	2	g
+9	Spectrogram 1	1	17.472319944	17.489661022	2826.5	3602.3	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	2	h
+10	Spectrogram 1	1	17.492964085	17.562328398	1958.2	3602.3	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	2	i
+11	Spectrogram 1	1	17.668026382	17.747054994	2475.5	4507.6	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	2	j
+12	Spectrogram 1	1	17.749390612	17.772746791	2493.9	3768.6	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	2	k
+13	Spectrogram 1	1	17.777418027	17.834056762	2512.4	3473.0	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	2	l
+14	Spectrogram 1	1	41.875936760	42.077423575	923.7	4655.3	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	3	f
+15	Spectrogram 1	1	42.141833295	42.303683360	1551.8	4673.8	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	3	m
+16	Spectrogram 1	1	42.411858658	42.589398269	1921.3	4452.1	Zimmerius_cinereicapilla-ML74341231.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_cinereicapilla-ML74341231.wav	3	n

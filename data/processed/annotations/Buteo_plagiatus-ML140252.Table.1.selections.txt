@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	265.667388320	267.185851310	1013.5	4152.9	Buteo_plagiatus-ML140252.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_plagiatus-ML140252.wav	1	a
+2	Spectrogram 1	1	337.619086984	339.260988502	1038.2	4251.8	Buteo_plagiatus-ML140252.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_plagiatus-ML140252.wav	2	a
+3	Spectrogram 1	1	403.647761410	405.304881377	840.5	4227.1	Buteo_plagiatus-ML140252.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_plagiatus-ML140252.wav	3	a

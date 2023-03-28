@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.776097682	8.861977309	1523.6	3822.7	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	1	a
+2	Spectrogram 1	1	8.895007934	9.033736561	2105.3	4321.4	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	1	b
+3	Spectrogram 1	1	9.086585561	9.258344813	2160.7	4155.2	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	1	c
+4	Spectrogram 1	1	9.337618314	9.436710191	1329.6	3822.7	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	1	d
+5	Spectrogram 1	1	9.463134692	9.608469444	1966.8	4155.2	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	1	e
+6	Spectrogram 1	1	9.654712320	9.866108322	1606.7	4210.6	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	1	f
+7	Spectrogram 1	1	13.030442236	13.116321862	1523.6	3822.7	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	2	a
+8	Spectrogram 1	1	13.144304062	13.262740886	2382.3	4266.0	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	2	g
+9	Spectrogram 1	1	13.301293364	13.499477117	2160.7	4127.4	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	2	c
+10	Spectrogram 1	1	13.598568993	13.691054744	1357.3	3795.0	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	2	d
+11	Spectrogram 1	1	13.725169642	13.870504394	2354.6	4266.0	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	2	h
+12	Spectrogram 1	1	13.909056873	14.127059001	1634.4	4210.6	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	2	f
+13	Spectrogram 1	1	17.079996912	17.165876538	1523.6	3822.7	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	3	a
+14	Spectrogram 1	1	17.192301038	17.324423540	2105.3	4321.4	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	3	b
+15	Spectrogram 1	1	17.370666416	17.568850168	2160.7	4182.9	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	3	c
+16	Spectrogram 1	1	17.628305294	17.734003295	1357.3	3795.0	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	3	d
+17	Spectrogram 1	1	17.768118193	17.900240695	2243.8	4099.7	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	3	i
+18	Spectrogram 1	1	17.965217674	18.170007552	1606.7	4238.3	Spelaeornis_longicaudatus-ML30025881.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Spelaeornis_longicaudatus-ML30025881.wav	3	f

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.419840824	4.759828580	1051.3	2965.2	Entomyzon_cyanotis-ML201294.wav	E:\Escritorio\Cantos\Meliphagidae\Entomyzon_cyanotis-ML201294.wav	1	a
+2	Spectrogram 1	1	5.999783925	6.419768799	1051.3	2942.9	Entomyzon_cyanotis-ML201294.wav	E:\Escritorio\Cantos\Meliphagidae\Entomyzon_cyanotis-ML201294.wav	2	a
+3	Spectrogram 1	1	7.139742870	7.559727745	1032.2	2964.9	Entomyzon_cyanotis-ML201294.wav	E:\Escritorio\Cantos\Meliphagidae\Entomyzon_cyanotis-ML201294.wav	3	a

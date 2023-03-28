@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.523120016	5.678677906	1032.2	4019.1	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	1	a
+2	Spectrogram 1	1	5.742315224	5.890802301	1010.3	3997.1	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	1	b
+3	Spectrogram 1	1	5.940297993	6.078178849	988.3	3975.1	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	1	b
+4	Spectrogram 1	1	6.138280761	6.276161618	966.3	3975.1	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	1	b
+5	Spectrogram 1	1	11.200891603	11.363613656	1004.9	4105.7	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	2	a
+6	Spectrogram 1	1	11.423622217	11.572109294	1033.6	4085.0	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	2	b
+7	Spectrogram 1	1	11.628675799	11.763021249	976.2	4063.0	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	2	b
+8	Spectrogram 1	1	11.819587755	11.953933205	1004.9	4019.5	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	2	b
+9	Spectrogram 1	1	17.506030143	17.668658846	976.2	4019.5	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	3	a
+10	Spectrogram 1	1	17.732296164	17.884318647	947.5	4019.5	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	3	b
+11	Spectrogram 1	1	17.940885153	18.082301416	918.7	4048.2	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	3	b
+12	Spectrogram 1	1	18.138867921	18.280284184	1004.9	4048.2	Automolus_leucophthalmus-ML201645.wav	E:\Escritorio\Cantos\Furnariidae\Automolus_leucophthalmus-ML201645.wav	3	b

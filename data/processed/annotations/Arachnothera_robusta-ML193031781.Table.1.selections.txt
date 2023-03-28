@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.657630367	3.743509994	1800.6	3545.7	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav		a
+2	Spectrogram 1	1	3.915269246	3.981330497	1772.9	3656.5	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav	1	a
+3	Spectrogram 1	1	4.133271373	4.192726499	1800.6	3822.7	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav	1	a
+4	Spectrogram 1	1	4.357879626	4.423940877	1856.0	3767.3	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav	1	a
+5	Spectrogram 1	1	6.167957899	6.234019150	2049.9	3822.7	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav	2	a
+6	Spectrogram 1	1	6.359535526	6.438809027	2105.3	3905.8	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav	2	a
+7	Spectrogram 1	1	6.557719279	6.650205030	2216.1	3656.5	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav	2	a
+8	Spectrogram 1	1	9.120895811	9.200169312	2049.9	3767.3	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav	3	a
+9	Spectrogram 1	1	9.371928564	9.444595940	2077.6	3795.0	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav	3	a
+10	Spectrogram 1	1	9.649385818	9.728659319	2299.2	3905.8	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav	3	a
+11	Spectrogram 1	1	9.887206321	9.959873697	2160.7	3988.9	Arachnothera_robusta-ML193031781.wav	E:\Andean\Nectariniidae\Arachnothera_robusta-ML193031781.wav	3	a

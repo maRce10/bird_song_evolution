@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.841799342	7.880738529	5615.7	8126.2	Bathilda_ruficauda-ML237742291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Bathilda_ruficauda-ML237742291.wav	1	a
+2	Spectrogram 1	1	42.857790563	42.901921642	4756.8	7069.1	Bathilda_ruficauda-ML237742291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Bathilda_ruficauda-ML237742291.wav	2	a
+3	Spectrogram 1	1	43.813098625	43.852037813	4756.8	7003.1	Bathilda_ruficauda-ML237742291.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Bathilda_ruficauda-ML237742291.wav	2	a

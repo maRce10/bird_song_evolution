@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	37.982009608	38.167277134	461.200	3105.128	Ortalis_cinereiceps-ML2309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_cinereiceps-ML2309.wav	1	a
+2	Spectrogram 1	1	38.519391409	38.711001964	395.300	2873.895	Ortalis_cinereiceps-ML2309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_cinereiceps-ML2309.wav	2	a
+3	Spectrogram 1	1	39.048418578	39.235026619	395.300	3105.128	Ortalis_cinereiceps-ML2309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Ortalis_cinereiceps-ML2309.wav	3	a

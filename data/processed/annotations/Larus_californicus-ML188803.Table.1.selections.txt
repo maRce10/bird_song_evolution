@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1038.283918038	1038.819916419	133.4	2356.1	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	1	a
+2	Spectrogram 1	1	1039.054874614	1039.605557882	311.2	2978.5	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	1	b
+3	Spectrogram 1	1	1039.656954987	1039.884570738	222.3	2356.1	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	1	c
+4	Spectrogram 1	1	1039.950652730	1040.156241150	222.3	2333.9	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	1	c
+5	Spectrogram 1	1	1040.214980699	1040.413226675	266.7	2311.7	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	1	c
+6	Spectrogram 1	1	1040.508678442	1040.692239531	222.3	2356.1	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	1	c
+7	Spectrogram 1	1	1040.802376185	1041.015307049	222.3	2311.7	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	1	c
+8	Spectrogram 1	1	1041.110758815	1041.309004792	244.5	2400.6	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	1	c
+9	Spectrogram 1	1	1041.455853663	1041.654099640	289.0	2311.7	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	1	c
+10	Spectrogram 1	1	1044.736770114	1045.206686503	311.2	2400.6	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	2	d
+11	Spectrogram 1	1	1045.412274923	1045.860163981	289.0	2022.7	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	2	e
+12	Spectrogram 1	1	1045.948273304	1046.205258829	289.0	2111.6	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	2	f
+13	Spectrogram 1	1	1046.256655934	1046.491614129	266.7	2045.0	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	2	g
+14	Spectrogram 1	1	1046.550353677	1046.733914767	222.3	1978.3	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	2	h
+15	Spectrogram 1	1	1046.858736307	1047.056982284	222.3	1822.7	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	2	h
+16	Spectrogram 1	1	1047.203831156	1047.791226642	155.6	1667.1	Larus_californicus-ML188803.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_californicus-ML188803.wav	2	

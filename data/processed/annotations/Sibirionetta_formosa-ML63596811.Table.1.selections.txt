@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.514214661	1.679102341	197.8	4845.1	Sibirionetta_formosa-ML63596811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Sibirionetta_formosa-ML63596811.wav	1	a
+2	Spectrogram 1	1	1.721654000	1.865265851	173.0	4845.1	Sibirionetta_formosa-ML63596811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Sibirionetta_formosa-ML63596811.wav	1	a
+3	Spectrogram 1	1	9.267402491	9.450020029	222.5	3905.7	Sibirionetta_formosa-ML63596811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Sibirionetta_formosa-ML63596811.wav	2	a
+4	Spectrogram 1	1	9.465976902	9.641502496	197.8	3955.2	Sibirionetta_formosa-ML63596811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Sibirionetta_formosa-ML63596811.wav	2	a
+5	Spectrogram 1	1	22.258499942	22.421614636	296.6	3831.6	Sibirionetta_formosa-ML63596811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Sibirionetta_formosa-ML63596811.wav	3	a
+6	Spectrogram 1	1	22.453528380	22.606005160	197.8	3979.9	Sibirionetta_formosa-ML63596811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Sibirionetta_formosa-ML63596811.wav	3	a

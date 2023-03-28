@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.865402386	1.096616764	1178.4	1911.7	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	1	a
+2	Spectrogram 1	1	1.347649517	1.605288395	1099.9	1911.7	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	1	a
+3	Spectrogram 1	1	1.843108898	2.107353902	1047.5	1885.5	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	1	a
+4	Spectrogram 1	1	2.292325404	2.563176532	1126.1	1885.5	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	1	a
+5	Spectrogram 1	1	6.460790282	6.705216910	1073.7	1964.1	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	2	a
+6	Spectrogram 1	1	6.956249663	7.200676291	1152.3	1859.3	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	2	a
+7	Spectrogram 1	1	7.425284544	7.663105047	1099.9	1964.1	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	2	a
+8	Spectrogram 1	1	7.907531675	8.171776679	1126.1	1911.7	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	2	a
+9	Spectrogram 1	1	8.369960431	8.647417685	1126.1	1990.3	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	2	a
+10	Spectrogram 1	1	8.852207562	9.109846441	1126.1	1885.5	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	2	a
+11	Spectrogram 1	1	14.647154853	14.884975356	1178.4	1859.3	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	3	a
+12	Spectrogram 1	1	15.149220359	15.387040862	1204.6	1859.3	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	3	a
+13	Spectrogram 1	1	15.605042990	15.856075743	1152.3	1885.5	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	3	a
+14	Spectrogram 1	1	16.093896246	16.331716749	1178.4	1833.1	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	3	a
+15	Spectrogram 1	1	16.576143377	16.827176130	1126.1	1780.8	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	3	a
+16	Spectrogram 1	1	17.058390508	17.322635511	1152.3	1859.3	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	3	a
+17	Spectrogram 1	1	17.540637639	17.804882642	1178.4	1754.6	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	3	a
+18	Spectrogram 1	1	18.029490895	18.280523648	1152.3	1780.8	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	3	a
+19	Spectrogram 1	1	18.531556401	18.782589155	1204.6	1754.6	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	3	a
+20	Spectrogram 1	1	19.013803533	19.258230161	1073.7	1780.8	Rhinopomastus_aterrimus-ML323975101.wav	D:\Andean\Phoeniculidae\Rhinopomastus_aterrimus-ML323975101.wav	3	a

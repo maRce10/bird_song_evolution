@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.398027459	10.643738216	812.6	4524.2	Sternula_lorata-ML24000.wav	E:\Escritorio\Cantos\Laridae\Sternula_lorata-ML24000.wav	1	a
+2	Spectrogram 1	1	11.110306012	11.403744758	724.8	4634.0	Sternula_lorata-ML24000.wav	E:\Escritorio\Cantos\Laridae\Sternula_lorata-ML24000.wav	2	a
+3	Spectrogram 1	1	12.726710665	13.014846301	790.6	4590.1	Sternula_lorata-ML24000.wav	E:\Escritorio\Cantos\Laridae\Sternula_lorata-ML24000.wav	3	a

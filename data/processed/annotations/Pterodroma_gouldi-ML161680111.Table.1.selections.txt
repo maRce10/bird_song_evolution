@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.896122788	9.982002414	3518.0	6814.4	Pterodroma_gouldi-ML161680111.wav	D:\Andean\Procellariidae\Pterodroma_gouldi-ML161680111.wav	1	a
+2	Spectrogram 1	1	10.024942227	10.157064729	2659.3	3434.9	Pterodroma_gouldi-ML161680111.wav	D:\Andean\Procellariidae\Pterodroma_gouldi-ML161680111.wav	1	b
+3	Spectrogram 1	1	10.216519854	10.351945419	1828.3	2548.5	Pterodroma_gouldi-ML161680111.wav	D:\Andean\Procellariidae\Pterodroma_gouldi-ML161680111.wav	1	c
+4	Spectrogram 1	1	10.365157669	10.441128107	3628.8	7340.8	Pterodroma_gouldi-ML161680111.wav	D:\Andean\Procellariidae\Pterodroma_gouldi-ML161680111.wav	2	a
+5	Spectrogram 1	1	10.480764858	10.642614922	2687.0	3462.6	Pterodroma_gouldi-ML161680111.wav	D:\Andean\Procellariidae\Pterodroma_gouldi-ML161680111.wav	2	b
+6	Spectrogram 1	1	10.711979236	10.857313988	1800.6	2437.7	Pterodroma_gouldi-ML161680111.wav	D:\Andean\Procellariidae\Pterodroma_gouldi-ML161680111.wav	2	c
+7	Spectrogram 1	1	10.867223175	10.949799739	3296.4	7590.1	Pterodroma_gouldi-ML161680111.wav	D:\Andean\Procellariidae\Pterodroma_gouldi-ML161680111.wav	3	a
+8	Spectrogram 1	1	10.999345677	11.171104929	2659.3	3573.4	Pterodroma_gouldi-ML161680111.wav	D:\Andean\Procellariidae\Pterodroma_gouldi-ML161680111.wav	3	b
+9	Spectrogram 1	1	11.227256992	11.418834620	1883.7	2548.5	Pterodroma_gouldi-ML161680111.wav	D:\Andean\Procellariidae\Pterodroma_gouldi-ML161680111.wav	3	c

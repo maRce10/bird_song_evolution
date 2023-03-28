@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.726891310	2.862316875	1191.1	6703.6	Passer_montanus-ML70906781.wav	D:\Andean\Passeridae\Passer_montanus-ML70906781.wav	1	a
+2	Spectrogram 1	1	3.912530255	4.057338566	2022.2	6205.0	Passer_montanus-ML70906781.wav	D:\Andean\Passeridae\Passer_montanus-ML70906781.wav	2	a
+3	Spectrogram 1	1	4.783715739	4.930859669	2105.3	6315.8	Passer_montanus-ML70906781.wav	D:\Andean\Passeridae\Passer_montanus-ML70906781.wav	3	a

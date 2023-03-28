@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.340515803	5.407688528	3290.3	9085.2	Lagonosticta_nitidula-ML277280.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Lagonosticta_nitidula-ML277280.wav	1	a
+2	Spectrogram 1	1	7.122360720	7.185998039	2922.0	8790.5	Lagonosticta_nitidula-ML277280.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Lagonosticta_nitidula-ML277280.wav	2	a
+3	Spectrogram 1	1	8.550664980	8.621373111	3192.1	8962.4	Lagonosticta_nitidula-ML277280.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Lagonosticta_nitidula-ML277280.wav	3	a

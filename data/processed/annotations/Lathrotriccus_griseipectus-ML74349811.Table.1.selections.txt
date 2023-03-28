@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.094747383	5.254945917	2216.1	4598.4	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	1	a
+2	Spectrogram 1	1	5.291279605	5.443220482	2077.6	3988.9	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	1	b
+3	Spectrogram 1	1	5.472948044	5.548918483	1606.7	3185.6	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	1	c
+4	Spectrogram 1	1	5.563782264	5.646358828	1662.1	2936.3	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	1	d
+5	Spectrogram 1	1	6.673611278	6.835461343	2520.8	4792.3	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	1	e
+6	Spectrogram 1	1	6.860234312	6.995659876	1911.4	3656.5	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	1	f
+7	Spectrogram 1	1	7.013826720	7.109615534	1662.1	2991.7	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	1	g
+8	Spectrogram 1	1	8.035084296	8.196934361	2271.5	4820.0	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	1	h
+9	Spectrogram 1	1	8.211798142	8.296026237	2299.2	4764.6	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	1	i
+10	Spectrogram 1	1	10.385456141	10.544278159	2271.5	4459.9	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	2	a
+11	Spectrogram 1	1	10.574892616	10.710318181	2133.0	3933.5	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	2	b
+12	Spectrogram 1	1	10.738394212	10.806106994	1939.1	3268.7	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	2	c
+13	Spectrogram 1	1	10.844092214	10.911804996	1994.5	3047.1	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	2	d
+14	Spectrogram 1	1	12.270183965	12.422124842	2299.2	4764.6	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	2	e
+15	Spectrogram 1	1	12.453503936	12.580671844	1966.8	3988.9	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	2	f
+16	Spectrogram 1	1	12.602141751	12.691324439	1772.9	3241.0	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	2	g
+17	Spectrogram 1	1	13.735200726	13.893747728	2243.8	4820.0	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	2	h
+18	Spectrogram 1	1	13.910263041	13.991188073	2299.2	4570.7	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	2	i
+19	Spectrogram 1	1	15.589953678	15.741894555	2133.0	4681.5	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	3	a
+20	Spectrogram 1	1	15.776576711	15.870713994	2382.3	3961.2	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	3	b
+21	Spectrogram 1	1	15.892183900	15.976411995	2299.2	3379.5	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	3	c
+22	Spectrogram 1	1	16.006139558	16.088716122	1994.5	3102.5	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	3	d
+23	Spectrogram 1	1	16.946239643	17.099832052	2160.7	4958.5	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	3	h
+24	Spectrogram 1	1	17.114695833	17.187363209	2326.9	4653.8	Lathrotriccus_griseipectus-ML74349811.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_griseipectus-ML74349811.wav	3	i

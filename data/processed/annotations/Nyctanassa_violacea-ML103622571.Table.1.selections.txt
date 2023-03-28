@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.764075634	3.017612604	321.4	2150.6	Nyctanassa_violacea-ML103622571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Nyctanassa_violacea-ML103622571.wav	1	a
+2	Spectrogram 1	1	4.879238615	5.161143359	370.8	2076.5	Nyctanassa_violacea-ML103622571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Nyctanassa_violacea-ML103622571.wav	2	a
+3	Spectrogram 1	1	7.517429947	7.786923789	420.2	2051.7	Nyctanassa_violacea-ML103622571.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Nyctanassa_violacea-ML103622571.wav	3	a

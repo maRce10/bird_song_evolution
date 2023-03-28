@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.750622661	1.833199225	842.3	3055.7	Lepidothrix_coeruleocapilla-ML171039681.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_coeruleocapilla-ML171039681.wav	1	a
+2	Spectrogram 1	1	1.928988038	2.019822258	1155.7	3290.7	Lepidothrix_coeruleocapilla-ML171039681.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_coeruleocapilla-ML171039681.wav	1	b
+3	Spectrogram 1	1	10.173444372	10.256020936	803.1	3134.0	Lepidothrix_coeruleocapilla-ML171039681.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_coeruleocapilla-ML171039681.wav	2	a
+4	Spectrogram 1	1	10.336945968	10.460810813	1155.7	3506.2	Lepidothrix_coeruleocapilla-ML171039681.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_coeruleocapilla-ML171039681.wav	2	b
+5	Spectrogram 1	1	22.232106428	22.309728397	763.9	2056.7	Lepidothrix_coeruleocapilla-ML171039681.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_coeruleocapilla-ML171039681.wav	3	a
+6	Spectrogram 1	1	22.426987118	22.531033588	1175.3	2977.3	Lepidothrix_coeruleocapilla-ML171039681.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_coeruleocapilla-ML171039681.wav	3	b
+7	Spectrogram 1	1	23.827762679	23.903733117	822.7	2174.2	Lepidothrix_coeruleocapilla-ML171039681.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_coeruleocapilla-ML171039681.wav	4	a
+8	Spectrogram 1	1	24.016037244	24.166326589	1410.3	3290.7	Lepidothrix_coeruleocapilla-ML171039681.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_coeruleocapilla-ML171039681.wav	4	b

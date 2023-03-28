@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.505729287	17.736943665	263.2	526.3	Sarothrura_boehmi-ML79936.wav	D:\Andean\Sarothruridae\Sarothrura_boehmi-ML79936.wav	1	a
+2	Spectrogram 1	1	19.091199307	19.362050436	277.0	526.3	Sarothrura_boehmi-ML79936.wav	D:\Andean\Sarothruridae\Sarothrura_boehmi-ML79936.wav	2	a
+3	Spectrogram 1	1	20.630426452	20.921095955	277.0	526.3	Sarothrura_boehmi-ML79936.wav	D:\Andean\Sarothruridae\Sarothrura_boehmi-ML79936.wav	3	a

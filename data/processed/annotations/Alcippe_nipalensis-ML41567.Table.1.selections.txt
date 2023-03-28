@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	52.762675787	52.833383918	2476.2	6830.2	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	1	a
+2	Spectrogram 1	1	52.865202578	52.953587742	2446.7	6808.3	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	1	a
+3	Spectrogram 1	1	53.010154247	53.077326972	2437.8	6830.2	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	1	a
+4	Spectrogram 1	1	53.186924577	53.268238928	2476.2	6808.3	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	1	a
+5	Spectrogram 1	1	53.331876246	53.427332224	2446.7	6830.2	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	1	a
+6	Spectrogram 1	1	53.473292510	53.547536048	2476.2	6808.3	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	1	a
+7	Spectrogram 1	1	53.607637960	53.681881498	2476.2	6852.2	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	1	a
+8	Spectrogram 1	1	53.734912597	53.809156135	2446.7	6852.2	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	1	a
+9	Spectrogram 1	1	53.894005893	53.975320244	2446.7	6809.6	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	1	a
+10	Spectrogram 1	1	68.224147859	68.284249771	2446.7	6969.0	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	2	a
+11	Spectrogram 1	1	68.305462211	68.372634936	2417.2	6969.0	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	2	a
+12	Spectrogram 1	1	68.446878474	68.510515792	2446.7	6969.0	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	2	a
+13	Spectrogram 1	1	68.567082298	68.623648803	2417.2	6969.0	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	2	a
+14	Spectrogram 1	1	68.683750715	68.743852627	2417.2	6957.0	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	2	a
+15	Spectrogram 1	1	68.750923440	68.821631572	2387.8	6895.2	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	2	a
+16	Spectrogram 1	1	68.867591857	68.934764582	2417.2	6839.0	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	2	a
+17	Spectrogram 1	1	68.977189461	69.044362186	2417.2	6957.0	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	2	a
+18	Spectrogram 1	1	71.916314542	71.979951860	2417.2	6969.0	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	3	a
+19	Spectrogram 1	1	72.018841333	72.078943245	2417.2	6969.0	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	3	a
+20	Spectrogram 1	1	72.121368124	72.185005442	2387.8	6932.1	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	3	a
+21	Spectrogram 1	1	72.273390607	72.329957112	2387.8	6932.1	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	3	a
+22	Spectrogram 1	1	72.386523617	72.446625529	2446.7	6932.1	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	3	a
+23	Spectrogram 1	1	72.563293946	72.634002078	2387.8	6932.1	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	3	a
+24	Spectrogram 1	1	72.683497770	72.747135089	2417.2	6932.1	Alcippe_nipalensis-ML41567.wav	E:\Escritorio\Cantos\Leiothrichidae\Alcippe_nipalensis-ML41567.wav	3	a

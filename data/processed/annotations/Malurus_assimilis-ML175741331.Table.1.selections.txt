@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.362402114	11.450787278	2184.3	10695.6	Malurus_assimilis-ML175741331.wav	E:\Escritorio\Cantos\Maluridae\Malurus_assimilis-ML175741331.wav	1	a
+2	Spectrogram 1	1	11.754832244	11.846752815	2157.0	10696.8	Malurus_assimilis-ML175741331.wav	E:\Escritorio\Cantos\Maluridae\Malurus_assimilis-ML175741331.wav	2	a
+3	Spectrogram 1	1	12.115443716	12.203828880	2157.0	10671.3	Malurus_assimilis-ML175741331.wav	E:\Escritorio\Cantos\Maluridae\Malurus_assimilis-ML175741331.wav	3	a

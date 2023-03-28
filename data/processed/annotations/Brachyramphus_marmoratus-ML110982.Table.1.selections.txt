@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	741.224211142	741.408601666	1384.3	3559.6	Brachyramphus_marmoratus-ML110982.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcidae\Alcidae\Brachyramphus_marmoratus-ML110982.wav	1	a
+2	Spectrogram 1	1	742.075244329	742.408565661	1062.9	3757.4	Brachyramphus_marmoratus-ML110982.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcidae\Alcidae\Brachyramphus_marmoratus-ML110982.wav	1	b
+3	Spectrogram 1	1	748.174304531	748.521809749	1384.3	3757.4	Brachyramphus_marmoratus-ML110982.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcidae\Alcidae\Brachyramphus_marmoratus-ML110982.wav	2	b
+4	Spectrogram 1	1	751.152920686	751.493333961	1310.1	3782.1	Brachyramphus_marmoratus-ML110982.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcidae\Alcidae\Brachyramphus_marmoratus-ML110982.wav	3	b

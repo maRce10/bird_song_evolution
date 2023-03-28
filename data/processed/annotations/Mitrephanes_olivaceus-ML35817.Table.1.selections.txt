@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.380370533	9.434089745	2090.0	6061.1	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	1	a
+2	Spectrogram 1	1	9.541528169	9.723706367	3892.7	6740.4	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	1	b
+3	Spectrogram 1	1	9.826473556	9.877857150	2403.6	5068.4	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	1	c
+4	Spectrogram 1	1	9.980624339	10.027336697	2377.4	5199.0	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	1	d
+5	Spectrogram 1	1	10.132439504	10.183823098	2272.9	5277.4	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	1	e
+6	Spectrogram 1	1	10.293597140	10.337973881	2194.5	5355.7	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	1	f
+7	Spectrogram 1	1	10.461761631	10.503802753	2220.7	5381.9	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	1	f
+8	Spectrogram 1	1	28.277166924	28.323879282	2220.7	6426.9	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	2	g
+9	Spectrogram 1	1	28.426646471	28.464016358	2325.2	5773.8	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	2	h
+10	Spectrogram 1	1	28.566783546	28.613495905	2638.7	5721.5	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	2	i
+11	Spectrogram 1	1	28.720934329	28.760639834	2272.9	5486.4	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	2	j
+12	Spectrogram 1	1	28.912454999	28.963838593	2508.1	5512.5	Mitrephanes_olivaceus-ML35817.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mitrephanes_olivaceus-ML35817.wav	2	k

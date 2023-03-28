@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	250.911667193	251.746023146	2276.9	5839.7	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	a
+2	Spectrogram 1	1	252.241201492	252.442719667	2325.3	6561.6	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	b
+3	Spectrogram 1	1	252.474316902	252.548560441	4144.3	6395.4	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	c
+4	Spectrogram 1	1	252.573308287	252.647551825	2363.0	6315.7	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	d
+5	Spectrogram 1	1	252.697047517	252.771291055	2363.0	6209.3	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	d
+6	Spectrogram 1	1	252.817251341	252.905636505	2300.9	6147.3	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	d
+7	Spectrogram 1	1	252.955132197	253.050588175	2318.6	6040.9	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	d
+8	Spectrogram 1	1	253.093013054	253.199075252	2247.7	6040.9	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	d
+9	Spectrogram 1	1	253.252106350	253.340491515	2230.0	5952.3	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	d
+10	Spectrogram 1	1	253.414735053	253.499584811	2088.2	5916.8	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	d
+11	Spectrogram 1	1	253.570292943	253.662213514	2123.7	6094.1	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	1	d
+12	Spectrogram 1	1	350.865950572	351.638147729	2436.5	4971.2	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	2	a
+13	Spectrogram 1	1	352.131626128	352.310623510	2206.0	5786.5	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	2	b
+14	Spectrogram 1	1	352.378121080	352.478117478	3446.8	5981.5	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	2	c
+15	Spectrogram 1	1	352.488117118	352.573114057	2347.8	6016.9	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	2	d
+16	Spectrogram 1	1	352.598113157	352.690609826	2365.6	5822.0	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	2	d
+17	Spectrogram 1	1	352.745607845	352.835604604	2152.9	5786.5	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	2	d
+18	Spectrogram 1	1	352.888102713	352.988099112	2046.5	5910.6	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	2	d
+19	Spectrogram 1	1	353.068096231	353.155593080	2028.8	5892.9	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	2	d
+20	Spectrogram 1	1	439.841551516	440.506527567	2312.4	5130.7	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	3	a
+21	Spectrogram 1	1	440.615912245	440.823404772	2383.3	6743.7	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	3	b
+22	Spectrogram 1	1	440.877585451	440.983647649	2401.0	5786.5	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	3	d
+23	Spectrogram 1	1	441.008395495	441.089709846	2312.4	6034.7	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	3	d
+24	Spectrogram 1	1	441.114457692	441.202842857	2276.9	5786.5	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	3	d
+25	Spectrogram 1	1	441.259409362	441.354865340	2276.9	5609.3	Urodynamis_taitensis-ML515309.wav	E:\Escritorio\Cantos\Cuculidae\Urodynamis_taitensis-ML515309.wav	3	d

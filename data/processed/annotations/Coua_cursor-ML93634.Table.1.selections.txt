@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.777441956	13.074416108	988.300	1910.700	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	1	a
+2	Spectrogram 1	1	13.314823756	13.555231404	966.300	1888.700	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	1	b
+3	Spectrogram 1	1	13.795639051	14.039582105	1076.100	1822.900	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	1	c
+4	Spectrogram 1	1	14.265848127	14.513326587	988.300	1735.000	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	1	d
+5	Spectrogram 1	1	14.732521796	14.965858630	966.300	1691.100	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	1	e
+6	Spectrogram 1	1	21.311772384	21.608746537	1016.500	1915.700	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	2	a
+7	Spectrogram 1	1	21.863295811	22.096632646	1055.600	1876.600	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	2	b
+8	Spectrogram 1	1	22.337040293	22.591589567	1153.300	1876.600	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	2	c
+9	Spectrogram 1	1	22.814320182	23.044121610	977.400	1759.300	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	2	d
+10	Spectrogram 1	1	23.263316818	23.507259872	938.300	1681.100	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	2	e
+11	Spectrogram 1	1	30.543197441	30.829565374	1094.700	1876.600	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	3	a
+12	Spectrogram 1	1	31.077043834	31.320986889	1055.600	1954.800	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	3	b
+13	Spectrogram 1	1	31.564929943	31.801802184	1094.700	1876.600	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	3	c
+14	Spectrogram 1	1	32.024532799	32.282617479	1094.700	1798.400	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	3	d
+15	Spectrogram 1	1	32.487671061	32.724543302	977.400	1798.400	Coua_cursor-ML93634.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_cursor-ML93634.wav	3	e

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.891716132	4.699984850	1433.7	6056.3	Polyboroides_typus-ML58586.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Polyboroides_typus-ML58586.wav	1	a
+2	Spectrogram 1	1	5.313611221	6.113425245	1903.4	6031.6	Polyboroides_typus-ML58586.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Polyboroides_typus-ML58586.wav	2	a
+3	Spectrogram 1	1	6.867537196	7.762043791	1433.7	6031.6	Polyboroides_typus-ML58586.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Polyboroides_typus-ML58586.wav	3	a

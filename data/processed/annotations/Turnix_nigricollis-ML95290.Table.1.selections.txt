@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.252244211	5.338078169	155.8	360.1	Turnix_nigricollis-ML95290.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_nigricollis-ML95290.wav	1	a
+2	Spectrogram 1	1	5.384790528	5.477631340	152.4	360.1	Turnix_nigricollis-ML95290.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_nigricollis-ML95290.wav	2	a
+3	Spectrogram 1	1	5.523175890	5.616016702	145.4	370.5	Turnix_nigricollis-ML95290.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_nigricollis-ML95290.wav	3	a

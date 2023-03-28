@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.225511181	17.687939937	3102.5	4210.6	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	1	a
+2	Spectrogram 1	1	17.754001188	18.084307442	2964.0	3878.1	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	1	b
+3	Spectrogram 1	1	18.163580943	18.586372948	2825.5	3795.0	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	1	c
+4	Spectrogram 1	1	25.905959322	26.368388078	3185.6	4266.0	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	2	d
+5	Spectrogram 1	1	26.405487767	26.741816748	3130.2	3878.1	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	2	e
+6	Spectrogram 1	1	26.835241464	27.208940332	2936.3	3878.1	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	2	b
+7	Spectrogram 1	1	27.302365049	27.657378973	3047.1	3767.3	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	2	f
+9	Spectrogram 1	1	41.808939094	42.244943350	3074.8	4238.3	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	3	d
+10	Spectrogram 1	1	42.320913788	42.667735355	2991.7	3988.9	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	3	g
+11	Spectrogram 1	1	42.756918044	43.130164111	2853.2	3711.9	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	3	h
+12	Spectrogram 1	1	43.258983550	43.628926555	2880.9	3878.1	Pachyramphus_castaneus-ML62573.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_castaneus-ML62573.wav	3	i

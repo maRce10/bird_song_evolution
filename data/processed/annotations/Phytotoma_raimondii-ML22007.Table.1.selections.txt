@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.430546525	7.057047840	263.500	5666.200	Phytotoma_raimondii-ML22007.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phytotoma_raimondii-ML22007.wav	1	a
+2	Spectrogram 1	1	9.093407331	9.705583564	724.800	5314.800	Phytotoma_raimondii-ML22007.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phytotoma_raimondii-ML22007.wav	2	a
+3	Spectrogram 1	1	19.979827624	20.721363363	790.600	5446.600	Phytotoma_raimondii-ML22007.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phytotoma_raimondii-ML22007.wav	3	a

@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.362191312	9.450944793	1939.1	6426.6	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	1	a
+2	Spectrogram 1	1	9.549040745	9.649472316	1662.1	6537.4	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	1	a
+3	Spectrogram 1	1	9.726547707	9.824643660	1772.9	6260.4	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	1	a
+4	Spectrogram 1	1	9.906390287	10.009157476	1662.1	6454.3	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	1	a
+5	Spectrogram 1	1	10.132945226	10.224034325	1634.4	6315.8	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	1	a
+6	Spectrogram 1	1	10.366507018	10.452924881	1634.4	5540.2	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	1	a
+7	Spectrogram 1	1	12.912801603	12.996883848	1828.3	5928.0	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	2	a
+8	Spectrogram 1	1	13.092644183	13.193075754	1828.3	5900.3	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	2	a
+9	Spectrogram 1	1	13.277157999	13.384596423	1883.7	5983.4	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	2	a
+10	Spectrogram 1	1	13.475685522	13.566774621	1745.2	6205.0	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	2	a
+11	Spectrogram 1	1	13.667206192	13.753624055	1883.7	6011.1	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	2	a
+12	Spectrogram 1	1	18.231001619	18.331433190	2160.7	5318.6	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	3	a
+13	Spectrogram 1	1	18.422522289	18.513611387	1828.3	4930.8	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	3	a
+14	Spectrogram 1	1	18.616378576	18.702796439	1579.0	5180.1	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	3	a
+15	Spectrogram 1	1	18.793885538	18.884974637	1745.2	4903.1	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	3	a
+16	Spectrogram 1	1	18.985406208	19.071824071	1800.6	4792.3	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	3	a
+17	Spectrogram 1	1	19.254002269	19.324070806	1800.6	4459.9	Pycnonotus_penicillatus-ML282125.wav	D:\Andean\Pycnonotidae\Pycnonotus_penicillatus-ML282125.wav	3	a

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.202290451	29.240785402	2507.2	9402.0	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	1	a
+2	Spectrogram 1	1	29.329323790	29.379367226	1802.1	6189.7	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	1	b
+3	Spectrogram 1	1	29.571841981	29.845156134	1997.9	7443.3	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	1	c
+4	Spectrogram 1	1	29.995286444	30.191610694	3369.1	8736.1	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	1	d
+5	Spectrogram 1	1	30.380235955	30.418730906	3486.6	10185.5	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	1	a
+6	Spectrogram 1	1	30.499570303	30.557312730	1488.7	5014.4	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	1	b
+7	Spectrogram 1	1	30.738239000	30.976907697	2037.1	7756.7	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	1	c
+8	Spectrogram 1	1	31.123188511	31.358007713	3094.8	8305.1	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	1	d
+9	Spectrogram 1	1	33.949104451	33.995298392	3447.4	9049.5	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	2	a
+10	Spectrogram 1	1	34.049191323	34.093460517	1684.5	5641.2	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	2	b
+11	Spectrogram 1	1	34.349451942	34.391796388	3134.0	9049.5	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	2	a
+12	Spectrogram 1	1	34.414893359	34.459162553	2115.5	6189.7	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	2	b
+13	Spectrogram 1	1	34.584271144	34.855660549	2037.1	7678.3	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	2	c
+14	Spectrogram 1	1	34.988468130	35.192491371	3369.1	8266.0	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	2	d
+15	Spectrogram 1	1	37.040429546	37.307969456	1919.6	7286.6	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	3	c
+16	Spectrogram 1	1	37.492745222	37.714091190	3094.8	8109.3	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	3	d
+17	Spectrogram 1	1	38.222168901	38.433891132	2193.8	7443.3	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	3	c
+18	Spectrogram 1	1	38.634064878	38.849636604	2193.8	7521.6	Polioptila_caerulea-ML94268.wav	D:\Andean\Polioptilidae\Polioptila_caerulea-ML94268.wav	3	c

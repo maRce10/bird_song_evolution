@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.661157048	0.815032473	3658.5	4276.5	Dacnis_nigripes-ML145185461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_nigripes-ML145185461.wav	1	a
+2	Spectrogram 1	1	1.830778010	1.959289355	3732.7	4202.4	Dacnis_nigripes-ML145185461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_nigripes-ML145185461.wav	2	a
+3	Spectrogram 1	1	2.155438249	2.278876777	3609.1	4152.9	Dacnis_nigripes-ML145185461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_nigripes-ML145185461.wav	2	a
+4	Spectrogram 1	1	2.442897835	2.542663220	3633.8	4152.9	Dacnis_nigripes-ML145185461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_nigripes-ML145185461.wav	2	a
+5	Spectrogram 1	1	6.545127198	6.690547929	3683.2	4177.6	Dacnis_nigripes-ML145185461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_nigripes-ML145185461.wav	2	a
+6	Spectrogram 1	1	6.869787436	6.996607841	3708.0	4177.6	Dacnis_nigripes-ML145185461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_nigripes-ML145185461.wav	3	a
+7	Spectrogram 1	1	7.774897194	7.923699804	3510.2	4152.9	Dacnis_nigripes-ML145185461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_nigripes-ML145185461.wav	4	a
+8	Spectrogram 1	1	16.101827811	16.252321359	3633.8	4227.1	Dacnis_nigripes-ML145185461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_nigripes-ML145185461.wav	5	a
+9	Spectrogram 1	1	16.414651478	16.543162823	3633.8	4202.4	Dacnis_nigripes-ML145185461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_nigripes-ML145185461.wav	5	a

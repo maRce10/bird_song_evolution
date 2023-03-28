@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+6	Spectrogram 1	1	52.560724945	52.742393385	2853.2	3739.6	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	1	a
+7	Spectrogram 1	1	52.848091386	52.933971012	2465.4	3407.2	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	1	b
+8	Spectrogram 1	1	52.985168482	53.095821077	2714.7	3434.9	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	1	c
+9	Spectrogram 1	1	53.143715484	53.229595110	2520.8	3518.0	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	1	b
+10	Spectrogram 1	1	53.260974204	53.440991112	1911.4	3213.3	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	1	d
+11	Spectrogram 1	1	61.473612412	61.650326258	2991.7	3656.5	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	2	a
+12	Spectrogram 1	1	61.748592368	61.846032713	2548.5	3351.8	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	2	b
+13	Spectrogram 1	1	61.890624058	62.004579715	2714.7	3545.7	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	2	c
+14	Spectrogram 1	1	62.050822591	62.131747623	2548.5	3545.7	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	2	b
+15	Spectrogram 1	1	62.164778249	62.354704345	1994.5	3324.1	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	2	d
+16	Spectrogram 1	1	70.556607599	70.720109195	2991.7	3767.3	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	3	a
+17	Spectrogram 1	1	70.817549540	70.910035291	2576.2	3379.5	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	3	b
+18	Spectrogram 1	1	70.966187355	71.085097606	2631.6	3434.9	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	3	c
+19	Spectrogram 1	1	71.129688950	71.210613983	2493.1	3462.6	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	3	b
+20	Spectrogram 1	1	71.240341546	71.445131423	1966.8	3268.7	Schoeniparus_brunneus-ML138574021.wav	D:\Andean\Pellorneidae\Schoeniparus_brunneus-ML138574021.wav	3	d

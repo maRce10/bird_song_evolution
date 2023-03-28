@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.039842422	9.688424893	1522.6	4737.1	Grallaricula_flavirostris-ML92671.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_flavirostris-ML92671.wav	1	a
+2	Spectrogram 1	1	56.536827501	57.162889747	1917.4	4793.5	Grallaricula_flavirostris-ML92671.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_flavirostris-ML92671.wav	2	b
+3	Spectrogram 1	1	111.273320987	111.885871098	1973.8	4455.1	Grallaricula_flavirostris-ML92671.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_flavirostris-ML92671.wav	3	a

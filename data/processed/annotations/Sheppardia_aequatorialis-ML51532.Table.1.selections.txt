@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.633461468	13.036435098	1152.3	1623.6	Sheppardia_aequatorialis-ML51532.wav	E:\Andean\Muscicapidae\Sheppardia_aequatorialis-ML51532.wav	1	a
+2	Spectrogram 1	1	15.546762630	15.890281134	1126.1	1597.4	Sheppardia_aequatorialis-ML51532.wav	E:\Andean\Muscicapidae\Sheppardia_aequatorialis-ML51532.wav	2	a
+3	Spectrogram 1	1	18.070302412	18.400608666	1204.6	1649.8	Sheppardia_aequatorialis-ML51532.wav	E:\Andean\Muscicapidae\Sheppardia_aequatorialis-ML51532.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.506667149	1.557989144	836.0	3788.2	Calidris_tenuirostris-ML217167841.wav	D:\Andean\Scolopacidae\Calidris_tenuirostris-ML217167841.wav	1	a
+2	Spectrogram 1	1	1.825596691	1.880584544	992.8	3605.3	Calidris_tenuirostris-ML217167841.wav	D:\Andean\Scolopacidae\Calidris_tenuirostris-ML217167841.wav	2	a
+3	Spectrogram 1	1	2.426797208	2.474453347	888.3	3500.8	Calidris_tenuirostris-ML217167841.wav	D:\Andean\Scolopacidae\Calidris_tenuirostris-ML217167841.wav	3	a

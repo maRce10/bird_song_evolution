@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	260.698191546	260.833617110	1828.8	3448.6	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	1	a
+2	Spectrogram 1	1	260.906284486	261.025194737	1933.3	3553.1	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	1	a
+3	Spectrogram 1	1	261.127589676	261.269621366	1907.2	3448.6	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	1	a
+4	Spectrogram 1	1	261.372016304	261.504138806	1907.2	3370.2	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	1	a
+5	Spectrogram 1	1	261.636261308	261.784899122	1802.7	3579.2	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	1	a
+6	Spectrogram 1	1	261.926930811	262.078871688	1828.8	3657.6	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	1	a
+7	Spectrogram 1	1	262.480146761	262.641996826	1854.9	3788.2	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	2	a
+8	Spectrogram 1	1	262.813756078	262.965696955	1933.3	3553.1	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	2	a
+9	Spectrogram 1	1	263.153971520	263.319124647	1933.3	3631.5	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	2	a
+10	Spectrogram 1	1	263.787310249	263.949160313	1907.2	3657.6	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	2	a
+11	Spectrogram 1	1	264.738592261	264.907048451	1907.2	3605.3	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	3	a
+12	Spectrogram 1	1	265.118444453	265.260476142	1959.4	3762.1	Calidris_subminuta-ML66802.wav	D:\Andean\Scolopacidae\Calidris_subminuta-ML66802.wav	3	a

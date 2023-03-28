@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	105.303864276	105.589579186	3316.7	4882.9	Myiotheretes_striaticollis-ML183264.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_striaticollis-ML183264.wav	1	a
+2	Spectrogram 1	1	105.649034312	105.725004750	2917.5	4790.8	Myiotheretes_striaticollis-ML183264.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_striaticollis-ML183264.wav	1	b
+3	Spectrogram 1	1	124.116414421	124.342674205	2948.2	4975.1	Myiotheretes_striaticollis-ML183264.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_striaticollis-ML183264.wav	2	c
+4	Spectrogram 1	1	124.390568612	124.471493644	2794.6	4545.1	Myiotheretes_striaticollis-ML183264.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_striaticollis-ML183264.wav	2	d
+5	Spectrogram 1	1	131.295954587	131.548638871	3193.9	4882.9	Myiotheretes_striaticollis-ML183264.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_striaticollis-ML183264.wav	3	a
+6	Spectrogram 1	1	131.608919762	131.696450920	2671.8	4852.2	Myiotheretes_striaticollis-ML183264.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_striaticollis-ML183264.wav	3	b
+7	Spectrogram 1	1	131.774072890	132.041620955	829.2	3193.9	Myiotheretes_striaticollis-ML183264.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotheretes_striaticollis-ML183264.wav	3	e

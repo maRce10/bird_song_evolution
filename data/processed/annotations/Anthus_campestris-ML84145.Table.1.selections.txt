@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	58.046483606	58.115847919	2671.1	4792.3	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	1	a
+2	Spectrogram 1	1	58.122454044	58.206682139	2147.4	6730.2	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	1	b
+3	Spectrogram 1	1	58.219894389	58.404865892	3430.6	4844.7	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	1	c
+4	Spectrogram 1	1	58.366880673	58.454411830	1728.4	2645.0	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	1	d
+5	Spectrogram 1	1	60.686515485	60.750925205	2592.6	4740.0	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	2	a
+6	Spectrogram 1	1	60.755879799	60.856623206	2016.4	7096.9	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	2	b
+7	Spectrogram 1	1	60.868183925	61.025079396	3613.9	4766.2	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	2	c
+8	Spectrogram 1	1	61.026730927	61.115913616	1754.6	2487.8	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	2	d
+9	Spectrogram 1	1	62.998806716	63.087989405	3011.6	4687.6	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	3	a
+10	Spectrogram 1	1	63.089640936	63.173869031	2252.1	6468.3	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	3	b
+11	Spectrogram 1	1	63.195338938	63.362143596	3535.3	4713.8	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	3	c
+12	Spectrogram 1	1	63.335719096	63.416644128	1885.5	2645.0	Anthus_campestris-ML84145.wav	E:\Andean\Motacillidae\Anthus_campestris-ML84145.wav	3	d

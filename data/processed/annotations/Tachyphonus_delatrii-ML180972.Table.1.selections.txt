@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.519367974	7.594107747	1810.4	6835.2	Tachyphonus_delatrii-ML180972.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_delatrii-ML180972.wav	1	a
+2	Spectrogram 1	1	8.135971105	8.234067058	1995.1	6946.1	Tachyphonus_delatrii-ML180972.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_delatrii-ML180972.wav	1	a
+3	Spectrogram 1	1	8.836656482	8.892711312	1847.4	7056.9	Tachyphonus_delatrii-ML180972.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_delatrii-ML180972.wav	1	a
+4	Spectrogram 1	1	9.340237998	9.398628446	1810.4	7093.9	Tachyphonus_delatrii-ML180972.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_delatrii-ML180972.wav	1	a
+5	Spectrogram 1	1	10.521706223	10.582432289	2438.5	11195.0	Tachyphonus_delatrii-ML180972.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_delatrii-ML180972.wav	2	b
+6	Spectrogram 1	1	12.439588503	12.504985804	1995.1	7389.4	Tachyphonus_delatrii-ML180972.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_delatrii-ML180972.wav	3	a
+7	Spectrogram 1	1	13.531012002	13.596409303	2069.0	6872.2	Tachyphonus_delatrii-ML180972.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_delatrii-ML180972.wav	3	a
+8	Spectrogram 1	1	13.603071192	13.675475348	1884.3	11047.2	Tachyphonus_delatrii-ML180972.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_delatrii-ML180972.wav	3	c
+9	Spectrogram 1	1	13.703502763	13.761893211	2106.0	10714.7	Tachyphonus_delatrii-ML180972.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tachyphonus_delatrii-ML180972.wav	3	c

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.708534661	5.322691356	1973.8	3552.8	Grallaricula_loricata-ML218455.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_loricata-ML218455.wav	1	a
+2	Spectrogram 1	1	77.429236658	78.157126075	2086.6	3496.4	Grallaricula_loricata-ML218455.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_loricata-ML218455.wav	2	a
+3	Spectrogram 1	1	137.076946722	137.725223233	2143.0	3496.4	Grallaricula_loricata-ML218455.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_loricata-ML218455.wav	3	a

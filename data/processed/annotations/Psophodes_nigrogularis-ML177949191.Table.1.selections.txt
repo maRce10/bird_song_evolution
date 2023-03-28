@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	93.619736239	93.710825338	1385.1	1662.1	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	1	a
+2	Spectrogram 1	1	93.864976120	93.996938533	2659.3	3213.3	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	1	b
+3	Spectrogram 1	1	94.030804993	94.052993363	2797.8	3988.9	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	1	c
+4	Spectrogram 1	1	94.257359931	94.270789734	1745.2	2354.6	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	1	d
+5	Spectrogram 1	1	94.282467824	94.292978105	1745.2	2410.0	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	1	d
+6	Spectrogram 1	1	94.297649340	94.309327430	1717.5	2271.5	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	1	d
+7	Spectrogram 1	1	94.319837711	94.332683609	1800.6	2299.2	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	1	d
+8	Spectrogram 1	1	94.339690463	94.350200744	1772.9	2299.2	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	1	d
+9	Spectrogram 1	1	105.059569586	105.150658684	1218.8	1662.1	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	2	a
+10	Spectrogram 1	1	105.309480703	105.448449969	2687.0	3324.1	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	2	b
+11	Spectrogram 1	1	105.479980811	105.502169182	3102.5	4210.6	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	2	c
+12	Spectrogram 1	1	105.720549457	105.733979260	1772.9	2354.6	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	2	d
+13	Spectrogram 1	1	105.742153923	105.754999822	1828.3	2354.6	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	2	d
+14	Spectrogram 1	1	105.762006675	105.771349147	1772.9	2326.9	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	2	d
+15	Spectrogram 1	1	105.779523810	105.790034091	1856.0	2326.9	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	2	d
+16	Spectrogram 1	1	105.799376562	105.812222461	1745.2	2271.5	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	2	d
+17	Spectrogram 1	1	106.011333889	106.056878438	2382.3	2880.9	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	2	e
+18	Spectrogram 1	1	106.077898999	106.112933268	2188.4	3019.4	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	2	f
+19	Spectrogram 1	1	110.856643913	110.945397394	1329.6	1662.1	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	3	a
+20	Spectrogram 1	1	111.121736547	111.259538005	2631.6	3157.9	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	3	b
+21	Spectrogram 1	1	111.289901038	111.309753790	3074.8	4210.6	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	3	c
+22	Spectrogram 1	1	111.545651200	111.564336144	1745.2	2410.0	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	3	d
+23	Spectrogram 1	1	111.569007379	111.580685469	1800.6	2382.3	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	3	d
+24	Spectrogram 1	1	111.586524514	111.597034795	1800.6	2326.9	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	3	d
+25	Spectrogram 1	1	111.605209457	111.618055356	1772.9	2354.6	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	3	d
+26	Spectrogram 1	1	111.626230019	111.637908108	1856.0	2382.3	Psophodes_nigrogularis-ML177949191.wav	D:\Andean\Psophodidae\Psophodes_nigrogularis-ML177949191.wav	3	d

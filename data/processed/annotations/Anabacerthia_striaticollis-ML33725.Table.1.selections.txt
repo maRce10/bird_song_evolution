@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.007430469	9.060461567	2306.0	10981.1	Anabacerthia_striaticollis-ML33725.wav	E:\Escritorio\Cantos\Furnariidae\Anabacerthia_striaticollis-ML33725.wav	1	a
+2	Spectrogram 1	1	10.725638068	10.775133760	2591.5	10827.3	Anabacerthia_striaticollis-ML33725.wav	E:\Escritorio\Cantos\Furnariidae\Anabacerthia_striaticollis-ML33725.wav	2	a
+3	Spectrogram 1	1	12.245590972	12.291551258	2491.6	10861.5	Anabacerthia_striaticollis-ML33725.wav	E:\Escritorio\Cantos\Furnariidae\Anabacerthia_striaticollis-ML33725.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.297244094	6.389729846	6232.7	7803.9	Euplectes_afer-ML164840.wav	D:\Andean\Ploceidae\Euplectes_afer-ML164840.wav	1	a
+2	Spectrogram 1	1	9.103053966	9.192236655	6337.4	7803.9	Euplectes_afer-ML164840.wav	D:\Andean\Ploceidae\Euplectes_afer-ML164840.wav	2	a
+3	Spectrogram 1	1	13.119327982	13.211813733	5735.1	7594.4	Euplectes_afer-ML164840.wav	D:\Andean\Ploceidae\Euplectes_afer-ML164840.wav	3	a

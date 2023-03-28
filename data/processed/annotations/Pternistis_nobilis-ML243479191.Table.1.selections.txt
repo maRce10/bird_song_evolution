@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.264534607	2.601446986	277.0	1911.4	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	1	a
+2	Spectrogram 1	1	2.885510365	3.202604369	221.6	2049.9	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	1	a
+3	Spectrogram 1	1	3.559335124	3.830186252	221.6	2049.9	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	1	a
+4	Spectrogram 1	1	4.015157754	4.299221133	304.7	2077.6	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	1	a
+5	Spectrogram 1	1	4.675770263	4.999470392	249.3	1966.8	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	1	a
+6	Spectrogram 1	1	5.171229644	5.409050147	277.0	2105.3	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	1	a
+7	Spectrogram 1	1	5.851660527	6.201785157	332.4	1939.1	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	1	a
+8	Spectrogram 1	1	6.300877033	6.584940412	360.1	1994.5	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	1	a
+9	Spectrogram 1	1	22.689789181	23.039913810	277.0	2077.6	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	2	a
+10	Spectrogram 1	1	23.310764939	23.601434442	277.0	2243.8	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	2	a
+11	Spectrogram 1	1	23.991195822	24.248834701	221.6	2105.3	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	2	a
+12	Spectrogram 1	1	24.433806203	24.724475707	277.0	2160.7	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	2	a
+13	Spectrogram 1	1	25.094418711	25.371875965	332.4	2022.2	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	2	a
+14	Spectrogram 1	1	25.550241342	25.827698595	277.0	2022.2	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	2	a
+15	Spectrogram 1	1	26.243884476	26.627039730	304.7	1939.1	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	2	a
+16	Spectrogram 1	1	26.752556107	27.003588860	277.0	2105.3	Pternistis_nobilis-ML243479191.wav	D:\Andean\Phasianidae\Pternistis_nobilis-ML243479191.wav	2	a

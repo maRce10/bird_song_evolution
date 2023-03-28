@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.394656342	1.086681649	1308.1	1962.1	Corcorax_melanorhamphos-ML233680.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corcoracidae\Corcorax_melanorhamphos-ML233680.wav	1	a
+2	Spectrogram 1	1	2.769296938	3.483349576	1167.9	1985.4	Corcorax_melanorhamphos-ML233680.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corcoracidae\Corcorax_melanorhamphos-ML233680.wav	2	a
+3	Spectrogram 1	1	5.222456252	5.668509700	794.2	1541.6	Corcorax_melanorhamphos-ML233680.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corcoracidae\Corcorax_melanorhamphos-ML233680.wav	3	b
+4	Spectrogram 1	1	5.947522556	6.641383474	1097.8	1821.9	Corcorax_melanorhamphos-ML233680.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corcoracidae\Corcorax_melanorhamphos-ML233680.wav	3	a

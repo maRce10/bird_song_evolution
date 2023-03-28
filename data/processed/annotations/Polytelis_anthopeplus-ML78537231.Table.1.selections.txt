@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.735719645	0.857171777	803.3	2410.0	Polytelis_anthopeplus-ML78537231.wav	D:\Andean\Psittaculidae\Polytelis_anthopeplus-ML78537231.wav	1	a
+2	Spectrogram 1	1	1.004315706	1.046356829	1108.0	1772.9	Polytelis_anthopeplus-ML78537231.wav	D:\Andean\Psittaculidae\Polytelis_anthopeplus-ML78537231.wav	1	b
+3	Spectrogram 1	1	1.058034919	1.240213116	914.1	2437.7	Polytelis_anthopeplus-ML78537231.wav	D:\Andean\Psittaculidae\Polytelis_anthopeplus-ML78537231.wav	1	c
+4	Spectrogram 1	1	1.277583003	1.382685810	886.4	2326.9	Polytelis_anthopeplus-ML78537231.wav	D:\Andean\Psittaculidae\Polytelis_anthopeplus-ML78537231.wav	2	a
+5	Spectrogram 1	1	1.506473560	1.548514682	997.2	1689.8	Polytelis_anthopeplus-ML78537231.wav	D:\Andean\Psittaculidae\Polytelis_anthopeplus-ML78537231.wav	2	b
+6	Spectrogram 1	1	1.571870861	1.723686026	997.2	2548.5	Polytelis_anthopeplus-ML78537231.wav	D:\Andean\Psittaculidae\Polytelis_anthopeplus-ML78537231.wav	2	c
+7	Spectrogram 1	1	10.556992978	10.671438256	720.2	2077.6	Polytelis_anthopeplus-ML78537231.wav	D:\Andean\Psittaculidae\Polytelis_anthopeplus-ML78537231.wav	3	a
+8	Spectrogram 1	1	13.975732419	14.003759835	914.1	1662.1	Polytelis_anthopeplus-ML78537231.wav	D:\Andean\Psittaculidae\Polytelis_anthopeplus-ML78537231.wav	3	b
+9	Spectrogram 1	1	14.020109160	14.192944886	886.4	2603.9	Polytelis_anthopeplus-ML78537231.wav	D:\Andean\Psittaculidae\Polytelis_anthopeplus-ML78537231.wav	3	c

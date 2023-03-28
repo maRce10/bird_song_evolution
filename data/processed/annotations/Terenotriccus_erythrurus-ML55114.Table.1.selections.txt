@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.969803429	9.191687132	3767.3	5567.9	Terenotriccus_erythrurus-ML55114.wav	E:\Andean\Oxyruncidae\Terenotriccus_erythrurus-ML55114.wav	1	a
+2	Spectrogram 1	1	9.245406344	9.404228363	5180.1	7756.3	Terenotriccus_erythrurus-ML55114.wav	E:\Andean\Oxyruncidae\Terenotriccus_erythrurus-ML55114.wav	1	b
+3	Spectrogram 1	1	58.322822173	58.547041494	4016.6	6398.9	Terenotriccus_erythrurus-ML55114.wav	E:\Andean\Oxyruncidae\Terenotriccus_erythrurus-ML55114.wav	2	a
+4	Spectrogram 1	1	58.621781267	58.715205984	4958.5	7950.2	Terenotriccus_erythrurus-ML55114.wav	E:\Andean\Oxyruncidae\Terenotriccus_erythrurus-ML55114.wav	2	b

@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	51.567355105	51.600385731	138.5	1052.6	Gulosus_aristotelis-ML63561471.wav	D:\Andean\Phalacrocoracidae\Gulosus_aristotelis-ML63561471.wav	1	a
+2	Spectrogram 1	1	51.606308362	51.629664541	221.6	1080.3	Gulosus_aristotelis-ML63561471.wav	D:\Andean\Phalacrocoracidae\Gulosus_aristotelis-ML63561471.wav	1	a
+3	Spectrogram 1	1	51.725424876	51.865561951	138.5	1024.9	Gulosus_aristotelis-ML63561471.wav	D:\Andean\Phalacrocoracidae\Gulosus_aristotelis-ML63561471.wav	1	b
+4	Spectrogram 1	1	51.991501334	52.007850660	193.9	1218.8	Gulosus_aristotelis-ML63561471.wav	D:\Andean\Phalacrocoracidae\Gulosus_aristotelis-ML63561471.wav	2	a
+5	Spectrogram 1	1	52.126967174	52.290460428	193.9	1246.5	Gulosus_aristotelis-ML63561471.wav	D:\Andean\Phalacrocoracidae\Gulosus_aristotelis-ML63561471.wav	2	b
+6	Spectrogram 1	1	52.404905706	52.425926268	221.6	1440.5	Gulosus_aristotelis-ML63561471.wav	D:\Andean\Phalacrocoracidae\Gulosus_aristotelis-ML63561471.wav	3	a
+7	Spectrogram 1	1	52.549714018	52.748241541	138.5	1468.2	Gulosus_aristotelis-ML63561471.wav	D:\Andean\Phalacrocoracidae\Gulosus_aristotelis-ML63561471.wav	3	b

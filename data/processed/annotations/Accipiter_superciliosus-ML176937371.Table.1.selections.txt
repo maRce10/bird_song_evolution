@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.487872550	10.540291651	3114.7	10283.4	Accipiter_superciliosus-ML176937371.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_superciliosus-ML176937371.wav	1	a
+2	Spectrogram 1	1	10.820987482	10.878479399	3015.8	10530.6	Accipiter_superciliosus-ML176937371.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_superciliosus-ML176937371.wav	2	a
+3	Spectrogram 1	1	11.279231881	11.350251308	2793.3	10530.6	Accipiter_superciliosus-ML176937371.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_superciliosus-ML176937371.wav	3	a

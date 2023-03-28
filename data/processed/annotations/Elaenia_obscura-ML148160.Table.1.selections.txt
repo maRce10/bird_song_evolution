@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	177.176874492	177.244587274	2142.3	3213.4	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	1	a
+2	Spectrogram 1	1	177.323860775	177.555075153	1724.3	2717.1	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	1	b
+3	Spectrogram 1	1	177.682243061	178.037322284	1201.8	3344.1	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	1	c
+4	Spectrogram 1	1	178.070352909	178.232202974	1071.1	3553.1	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	1	d
+5	Spectrogram 1	1	178.248718287	178.379189257	1619.8	3500.8	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	1	e
+6	Spectrogram 1	1	183.663147389	183.900967892	1933.3	2481.9	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	2	f
+7	Spectrogram 1	1	184.845643779	185.065297438	1828.8	3030.6	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	2	g
+8	Spectrogram 1	1	185.179254368	185.519469810	1175.7	3265.7	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	2	c
+9	Spectrogram 1	1	185.554151967	185.717653563	1149.5	3448.6	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	2	d
+10	Spectrogram 1	1	185.730865813	185.867942908	1593.7	3474.7	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	2	e
+11	Spectrogram 1	1	189.778773033	189.813455190	2429.7	3108.9	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	3	h
+12	Spectrogram 1	1	189.951358666	190.161103138	1776.5	2403.6	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	3	f
+13	Spectrogram 1	1	190.681335488	191.034763180	1175.7	3265.7	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	3	c
+14	Spectrogram 1	1	191.064490743	191.227992339	1097.3	3553.1	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	3	d
+15	Spectrogram 1	1	191.244508770	191.381585866	1645.9	3553.1	Elaenia_obscura-ML148160.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_obscura-ML148160.wav	3	e

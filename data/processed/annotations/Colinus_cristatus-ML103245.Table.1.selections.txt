@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.174382056	9.286686183	1523.6	1911.4	Colinus_cristatus-ML103245.wav	E:\Andean\Odontophoridae\Colinus_cristatus-ML103245.wav	1	a
+2	Spectrogram 1	1	9.511294435	9.643416937	1468.2	1994.5	Colinus_cristatus-ML103245.wav	E:\Andean\Odontophoridae\Colinus_cristatus-ML103245.wav	1	b
+3	Spectrogram 1	1	9.841600690	10.039784442	1551.3	3379.5	Colinus_cristatus-ML103245.wav	E:\Andean\Odontophoridae\Colinus_cristatus-ML103245.wav	1	c
+4	Spectrogram 1	1	22.564029934	22.696152435	1495.9	1883.7	Colinus_cristatus-ML103245.wav	E:\Andean\Odontophoridae\Colinus_cristatus-ML103245.wav	2	a
+5	Spectrogram 1	1	22.914154563	23.046277065	1523.6	1994.5	Colinus_cristatus-ML103245.wav	E:\Andean\Odontophoridae\Colinus_cristatus-ML103245.wav	2	b
+6	Spectrogram 1	1	23.270885318	23.462462945	1495.9	3434.9	Colinus_cristatus-ML103245.wav	E:\Andean\Odontophoridae\Colinus_cristatus-ML103245.wav	2	c
+7	Spectrogram 1	1	35.077502328	35.209624830	1523.6	1883.7	Colinus_cristatus-ML103245.wav	E:\Andean\Odontophoridae\Colinus_cristatus-ML103245.wav	3	a
+8	Spectrogram 1	1	35.447445333	35.559749459	1523.6	2022.2	Colinus_cristatus-ML103245.wav	E:\Andean\Odontophoridae\Colinus_cristatus-ML103245.wav	3	b
+9	Spectrogram 1	1	35.797569962	35.969329214	1440.5	3324.1	Colinus_cristatus-ML103245.wav	E:\Andean\Odontophoridae\Colinus_cristatus-ML103245.wav	3	c

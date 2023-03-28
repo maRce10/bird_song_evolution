@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	229.906230409	230.129457381	420.2	840.5	Capito_aurovirens-ML31818.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_aurovirens-ML31818.wav	1	a
+2	Spectrogram 1	1	230.494415764	230.714099451	420.2	840.5	Capito_aurovirens-ML31818.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_aurovirens-ML31818.wav	2	a
+3	Spectrogram 1	1	231.071971264	231.289883308	445.0	840.5	Capito_aurovirens-ML31818.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_aurovirens-ML31818.wav	3	a

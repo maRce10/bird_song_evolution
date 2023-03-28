@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	105.424967957	106.071102992	2148.9	3480.3	Urocolius_macrourus-ML28074711.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Urocolius_macrourus-ML28074711.wav	1	a
+2	Spectrogram 1	1	116.177956907	116.835105607	2219.0	3480.3	Urocolius_macrourus-ML28074711.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Urocolius_macrourus-ML28074711.wav	2	a
+3	Spectrogram 1	1	121.051487241	121.712307163	2078.9	3433.6	Urocolius_macrourus-ML28074711.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coliidae\Urocolius_macrourus-ML28074711.wav	3	a

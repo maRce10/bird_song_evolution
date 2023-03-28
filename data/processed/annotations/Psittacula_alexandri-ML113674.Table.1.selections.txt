@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	243.623600166	243.854814544	747.9	3074.8	Psittacula_alexandri-ML113674.wav	D:\Andean\Psittaculidae\Psittacula_alexandri-ML113674.wav	1	a
+2	Spectrogram 1	1	244.594700554	244.845733307	747.9	3434.9	Psittacula_alexandri-ML113674.wav	D:\Andean\Psittaculidae\Psittacula_alexandri-ML113674.wav	2	a
+3	Spectrogram 1	1	245.542679503	245.787106131	720.2	2991.7	Psittacula_alexandri-ML113674.wav	D:\Andean\Psittaculidae\Psittacula_alexandri-ML113674.wav	3	a

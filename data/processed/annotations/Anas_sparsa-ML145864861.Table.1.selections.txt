@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.742472915	2.914948667	370.8	2150.6	Anas_sparsa-ML145864861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_sparsa-ML145864861.wav	1	a
+2	Spectrogram 1	1	3.298791761	3.474649390	296.6	2101.2	Anas_sparsa-ML145864861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_sparsa-ML145864861.wav	2	a
+3	Spectrogram 1	1	3.861874362	3.998840400	247.2	2348.4	Anas_sparsa-ML145864861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_sparsa-ML145864861.wav	3	a

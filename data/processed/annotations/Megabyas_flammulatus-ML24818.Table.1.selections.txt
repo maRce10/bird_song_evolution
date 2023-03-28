@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	55.443094110	55.727157489	997.2	5374.0	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	1	a
+2	Spectrogram 1	1	55.915432053	56.176373994	997.2	5595.6	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	1	b
+3	Spectrogram 1	1	56.298587308	56.541362405	1274.2	5844.9	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	1	c
+4	Spectrogram 1	1	58.104007685	58.181629655	1080.3	2687.0	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	2	d
+5	Spectrogram 1	1	58.193190373	58.262554687	1301.9	3767.3	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	2	e
+6	Spectrogram 1	1	58.308797562	58.470647627	2216.1	4736.9	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	2	f
+7	Spectrogram 1	1	58.708468130	58.792696225	1495.9	2853.2	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	2	d
+8	Spectrogram 1	1	58.799302350	58.883530445	1551.3	3739.6	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	2	e
+9	Spectrogram 1	1	58.918212601	59.053638166	2077.6	4958.5	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	2	f
+10	Spectrogram 1	1	59.235306605	59.487990890	1080.3	5623.3	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	2	c
+11	Spectrogram 1	1	62.688186129	62.747641254	1412.8	3462.6	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	3	g
+12	Spectrogram 1	1	62.770762692	62.848384662	1385.1	3601.1	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	3	h
+13	Spectrogram 1	1	62.891324475	63.039962289	1772.9	4598.4	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	3	f
+14	Spectrogram 1	1	63.224933792	63.508997170	914.1	4266.0	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	3	a
+15	Spectrogram 1	1	63.659286516	63.903713144	1108.0	6011.1	Megabyas_flammulatus-ML24818.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Megabyas_flammulatus-ML24818.wav	3	c

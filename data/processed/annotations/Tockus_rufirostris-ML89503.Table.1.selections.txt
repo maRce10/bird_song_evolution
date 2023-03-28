@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.585062420	9.641754985	445.0	1458.5	Tockus_rufirostris-ML89503.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Tockus_rufirostris-ML89503.wav	1	a
+2	Spectrogram 1	1	9.700040657	9.758504864	445.0	1532.6	Tockus_rufirostris-ML89503.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Tockus_rufirostris-ML89503.wav	1	b
+3	Spectrogram 1	1	9.902186452	9.950020803	395.5	1532.6	Tockus_rufirostris-ML89503.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Tockus_rufirostris-ML89503.wav	2	a
+4	Spectrogram 1	1	10.010241946	10.074021081	346.1	1606.8	Tockus_rufirostris-ML89503.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Tockus_rufirostris-ML89503.wav	2	b
+5	Spectrogram 1	1	10.208665921	10.263586843	420.2	1433.7	Tockus_rufirostris-ML89503.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Tockus_rufirostris-ML89503.wav	3	a
+6	Spectrogram 1	1	10.325594335	10.385830185	445.0	1656.2	Tockus_rufirostris-ML89503.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Tockus_rufirostris-ML89503.wav	1	b

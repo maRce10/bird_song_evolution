@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.560800222	7.633204378	1135.7	5318.6	Tregellasia_leucops-ML62524741.wav	D:\Andean\Petroicidae\Tregellasia_leucops-ML62524741.wav	1	a
+2	Spectrogram 1	1	7.759327745	7.841074373	1052.6	5401.7	Tregellasia_leucops-ML62524741.wav	D:\Andean\Petroicidae\Tregellasia_leucops-ML62524741.wav	2	a
+3	Spectrogram 1	1	7.971868976	8.062958075	997.2	5318.6	Tregellasia_leucops-ML62524741.wav	D:\Andean\Petroicidae\Tregellasia_leucops-ML62524741.wav	3	a

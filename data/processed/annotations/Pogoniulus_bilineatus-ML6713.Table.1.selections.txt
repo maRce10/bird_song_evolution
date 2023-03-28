@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	221.272574136	221.365070805	988.3	1251.8	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	1	a
+2	Spectrogram 1	1	221.635061082	221.715058201	988.3	1317.7	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	1	a
+3	Spectrogram 1	1	221.995048117	222.065045596	966.3	1317.7	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	1	a
+4	Spectrogram 1	1	222.355035153	222.435032272	922.4	1339.7	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	1	a
+5	Spectrogram 1	1	223.097508413	223.192504992	922.4	1273.8	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	2	a
+6	Spectrogram 1	1	223.464995179	223.544992298	944.4	1317.7	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	2	a
+7	Spectrogram 1	1	223.821970947	223.906967886	966.3	1295.8	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	2	a
+8	Spectrogram 1	1	224.191957622	224.266954921	966.3	1273.8	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	2	a
+9	Spectrogram 1	1	224.941929595	225.019426804	966.3	1317.7	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	3	a
+10	Spectrogram 1	1	225.304416541	225.381913750	966.3	1317.7	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	3	a
+11	Spectrogram 1	1	225.671903306	225.741900785	922.4	1273.8	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	3	a
+12	Spectrogram 1	1	226.041889981	226.116887280	966.3	1295.8	Pogoniulus_bilineatus-ML6713.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_bilineatus-ML6713.wav	3	a

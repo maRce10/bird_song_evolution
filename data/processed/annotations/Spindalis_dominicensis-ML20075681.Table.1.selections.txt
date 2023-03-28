@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.367055564	1.401660028	6542.2	8814.4	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	a
+2	Spectrogram 1	1	1.490642935	1.535134388	5954.6	9245.3	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	b
+3	Spectrogram 1	1	1.564795357	1.596928073	5484.5	9323.7	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	b
+4	Spectrogram 1	1	1.656250011	1.693326222	6698.9	9402.0	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	a
+5	Spectrogram 1	1	1.742761170	1.789724371	6698.9	10538.1	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	c
+6	Spectrogram 1	1	1.831744077	1.905896499	5797.9	10107.2	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	d
+7	Spectrogram 1	1	1.942972711	1.999822901	5837.1	9872.1	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	d
+8	Spectrogram 1	1	2.056673091	2.125882019	5562.9	10185.5	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	d
+9	Spectrogram 1	1	2.192619199	2.269243369	5367.0	10812.3	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	d
+10	Spectrogram 1	1	2.331037054	2.412604718	5288.6	10812.3	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	d
+11	Spectrogram 1	1	2.484285393	2.560909563	5288.6	10890.7	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	1	d
+12	Spectrogram 1	1	11.084278064	11.131241265	5602.0	8579.4	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	b
+13	Spectrogram 1	1	11.193034950	11.230111162	5954.6	9206.2	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	b
+14	Spectrogram 1	1	11.272130867	11.316622321	6894.8	9480.4	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	a
+15	Spectrogram 1	1	11.361113774	11.400661733	6581.4	9715.4	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	a
+16	Spectrogram 1	1	11.447624933	11.519305608	6228.8	10342.2	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	d
+17	Spectrogram 1	1	11.551438325	11.623119000	5602.0	9911.3	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	d
+18	Spectrogram 1	1	11.670082200	11.731875886	5602.0	10107.2	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	d
+19	Spectrogram 1	1	11.791197823	11.865350246	5523.7	10420.6	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	d
+20	Spectrogram 1	1	11.909841699	11.991409363	5367.0	10342.2	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	d
+21	Spectrogram 1	1	12.063090038	12.142185955	5484.5	10812.3	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	d
+22	Spectrogram 1	1	12.228697115	12.300377790	5445.3	11047.4	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	d
+23	Spectrogram 1	1	12.443739139	12.512948067	5562.9	11008.2	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	d
+24	Spectrogram 1	1	12.604402721	12.673611648	5445.3	10969.0	Spindalis_dominicensis-ML20075681.wav	D:\Andean\Spindalidae\Spindalis_dominicensis-ML20075681.wav	2	d

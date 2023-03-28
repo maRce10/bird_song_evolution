@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	90.882621778	90.934727922	339.6	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	a
+2	Spectrogram 1	1	90.983831213	91.023467964	332.5	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	a
+3	Spectrogram 1	1	91.082923089	91.122559840	351.0	1459.4	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	a
+4	Spectrogram 1	1	91.182014966	91.228257841	369.5	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	a
+5	Spectrogram 1	1	91.284409904	91.330652780	461.8	1459.4	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	b
+6	Spectrogram 1	1	91.376895656	91.419835469	351.0	1459.4	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	a
+7	Spectrogram 1	1	91.459472219	91.515624282	332.5	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	a
+8	Spectrogram 1	1	91.560215627	91.604806971	332.5	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	a
+9	Spectrogram 1	1	91.631231471	91.659307503	332.5	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	a
+10	Spectrogram 1	1	91.679125878	91.703898847	554.2	1200.8	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	b
+11	Spectrogram 1	1	91.718762629	91.743535598	554.2	1126.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	c
+12	Spectrogram 1	1	91.763353973	91.793081536	609.6	1034.5	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	1	d
+13	Spectrogram 1	1	92.151463822	92.187797509	332.5	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	2	a
+14	Spectrogram 1	1	92.237343448	92.272025604	369.5	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	2	a
+15	Spectrogram 1	1	92.296798573	92.324874605	609.6	1274.7	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	2	e
+17	Spectrogram 1	1	92.340564152	92.547781932	517.3	1200.8	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	2	f
+18	Spectrogram 1	1	93.153119756	93.191104976	332.5	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	3	a
+19	Spectrogram 1	1	93.250560101	93.288545321	517.3	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	3	g
+20	Spectrogram 1	1	93.342220087	93.381856837	461.8	1440.9	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	3	h
+21	Spectrogram 1	1	93.401675213	93.428099713	572.7	1256.2	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	3	e
+22	Spectrogram 1	1	93.437652360	93.627934997	554.2	1200.8	Priotelus_temnurus-ML44010.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Priotelus_temnurus-ML44010.wav	3	f

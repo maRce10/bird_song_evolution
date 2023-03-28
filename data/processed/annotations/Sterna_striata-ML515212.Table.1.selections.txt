@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	312.184670481	312.331519352	2148.9	9903.8	Sterna_striata-ML515212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_striata-ML515212.wav	1	a
+2	Spectrogram 1	1	313.333394766	313.494928525	1681.8	9623.5	Sterna_striata-ML515212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_striata-ML515212.wav	2	a
+3	Spectrogram 1	1	314.876551949	315.019729599	1962.1	9903.8	Sterna_striata-ML515212.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_striata-ML515212.wav	3	a

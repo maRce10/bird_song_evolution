@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	83.571855952	83.639889334	280.3	2148.9	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	1	a
+2	Spectrogram 1	1	83.694963977	83.766237045	280.3	2429.2	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	1	a
+3	Spectrogram 1	1	83.831030742	83.895824440	327.0	2616.1	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	1	a
+4	Spectrogram 1	1	84.106403956	84.148519860	467.2	1214.6	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	1	b
+5	Spectrogram 1	1	84.190635763	84.258669146	1541.6	5185.5	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	1	c
+6	Spectrogram 1	1	84.456289923	84.524323305	233.6	1308.1	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	1	d
+7	Spectrogram 1	1	84.582637633	84.874209272	654.0	5372.4	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	1	e
+8	Spectrogram 1	1	97.930797198	97.995590896	140.1	2896.4	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	2	a
+9	Spectrogram 1	1	98.070103648	98.128417976	46.7	2989.8	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	2	a
+10	Spectrogram 1	1	98.215889468	98.274203795	280.3	2989.8	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	2	a
+11	Spectrogram 1	1	98.342237178	98.400551505	233.6	3083.3	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	2	a
+12	Spectrogram 1	1	98.698602514	98.743958102	327.0	1074.5	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	2	b
+13	Spectrogram 1	1	98.779594636	98.854107388	1261.3	5138.8	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	2	c
+14	Spectrogram 1	1	99.064686905	99.132720287	233.6	1494.9	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	2	d
+15	Spectrogram 1	1	99.178075875	99.472887199	747.5	5138.8	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	2	e
+16	Spectrogram 1	1	100.480434649	100.548468031	420.4	2989.8	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	3	a
+17	Spectrogram 1	1	100.610022044	100.665096687	467.2	2709.5	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav		a
+18	Spectrogram 1	1	100.713691960	100.778485658	280.3	2709.5	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	3	a
+19	Spectrogram 1	1	100.804403137	100.859477780	280.3	2803.0	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	3	a
+20	Spectrogram 1	1	100.895114313	100.943709586	233.6	2896.4	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	3	a
+21	Spectrogram 1	1	101.585167192	101.617564040	373.7	1214.6	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	3	b
+22	Spectrogram 1	1	101.675878368	101.743911750	1635.1	5278.9	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	3	c
+23	Spectrogram 1	1	101.967450007	102.038723074	186.9	1588.3	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	3	d
+24	Spectrogram 1	1	102.080838978	102.417766205	887.6	5419.1	Calocitta_formosa-ML164041.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Calocitta_formosa-ML164041.wav	3	e

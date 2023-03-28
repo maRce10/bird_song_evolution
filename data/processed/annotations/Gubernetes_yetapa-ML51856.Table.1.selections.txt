@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	106.053546335	106.367337277	1469.1	3094.8	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	1	a
+2	Spectrogram 1	1	106.383852589	106.742234875	1390.7	3310.3	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	1	b
+3	Spectrogram 1	1	106.773613969	107.103920223	1429.9	3153.6	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	1	c
+4	Spectrogram 1	1	107.123738599	107.141905443	489.7	3486.6	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	1	d
+5	Spectrogram 1	1	107.152640396	107.226959303	1390.7	2526.8	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	1	e
+6	Spectrogram 1	1	107.230262366	107.281459835	1469.1	2428.9	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	1	f
+7	Spectrogram 1	1	107.285588663	107.604334198	1429.9	3153.6	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	1	g
+8	Spectrogram 1	1	107.620849511	107.634061761	489.7	3506.2	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	1	d
+9	Spectrogram 1	1	107.656357433	107.729024809	1312.4	2585.6	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	1	h
+10	Spectrogram 1	1	107.733979403	107.788479935	1253.6	2350.5	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	1	i
+11	Spectrogram 1	1	112.425062116	112.737201527	1547.4	3114.4	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	2	a
+12	Spectrogram 1	1	112.747110714	113.102189937	1508.2	3271.1	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	2	b
+13	Spectrogram 1	1	113.140175157	113.480390598	1410.3	3153.6	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	2	c
+14	Spectrogram 1	1	113.505990181	113.522505494	450.5	3525.8	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	2	d
+15	Spectrogram 1	1	113.531588068	113.604255444	1429.9	2507.2	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	2	e
+16	Spectrogram 1	1	113.615816163	113.665362101	1234.0	2526.8	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	2	i
+17	Spectrogram 1	1	124.465871367	124.781313840	1488.7	3134.0	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	3	a
+18	Spectrogram 1	1	124.789571496	125.147953782	1429.9	3388.6	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	3	b
+19	Spectrogram 1	1	125.199151252	125.544321287	1469.1	3251.5	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	3	c
+20	Spectrogram 1	1	125.566616959	125.584783803	313.4	3604.1	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	3	d
+21	Spectrogram 1	1	125.595518757	125.668186132	1449.5	2605.1	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	3	e
+22	Spectrogram 1	1	125.681398383	125.725989727	1547.4	2507.2	Gubernetes_yetapa-ML51856.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Gubernetes_yetapa-ML51856.wav	3	f

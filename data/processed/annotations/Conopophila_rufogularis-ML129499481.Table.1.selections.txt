@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.728293756	0.905064085	2666.0	4458.3	Conopophila_rufogularis-ML129499481.wav	E:\Escritorio\Cantos\Meliphagidae\Conopophila_rufogularis-ML129499481.wav	1	a
+2	Spectrogram 1	1	3.312675968	3.478840077	2777.1	4502.2	Conopophila_rufogularis-ML129499481.wav	E:\Escritorio\Cantos\Meliphagidae\Conopophila_rufogularis-ML129499481.wav	2	a
+3	Spectrogram 1	1	6.419606882	6.568093958	2666.0	4414.4	Conopophila_rufogularis-ML129499481.wav	E:\Escritorio\Cantos\Meliphagidae\Conopophila_rufogularis-ML129499481.wav	3	a

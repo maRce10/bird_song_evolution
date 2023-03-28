@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.734537213	1.821574923	1619.8	2037.8	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	a
+2	Spectrogram 1	1	2.001867321	2.088905031	1593.7	1985.5	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	a
+3	Spectrogram 1	1	2.334475655	2.433947323	1645.9	2351.3	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	b
+4	Spectrogram 1	1	2.601805763	2.701277431	1515.3	2325.2	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	b
+5	Spectrogram 1	1	2.894003788	3.049428270	1541.4	2508.1	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	b
+6	Spectrogram 1	1	3.211069731	3.319866868	1619.8	2403.6	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	b
+7	Spectrogram 1	1	3.503267756	3.640041299	1698.2	2664.8	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	b
+8	Spectrogram 1	1	3.801682760	3.941564794	1776.5	2502.1	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	b
+9	Spectrogram 1	1	4.100097765	4.255522246	1619.8	2638.7	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	b
+10	Spectrogram 1	1	4.435814645	4.581913657	1515.3	2534.2	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	b
+11	Spectrogram 1	1	4.734229649	4.874111682	1541.4	2586.4	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	b
+12	Spectrogram 1	1	5.057512570	5.334168147	1645.9	2325.2	Coenocorypha_pusilla-ML220229321.wav	D:\Andean\Scolopacidae\Coenocorypha_pusilla-ML220229321.wav	1	c

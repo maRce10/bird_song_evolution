@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.186455622	29.663248577	1009.700	3220.200	Stagonopleura_guttata-ML128306.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Stagonopleura_guttata-ML128306.wav	1	a
+2	Spectrogram 1	1	31.148726956	31.583581965	900.600	3165.600	Stagonopleura_guttata-ML128306.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Stagonopleura_guttata-ML128306.wav	2	a
+3	Spectrogram 1	1	33.388387896	33.873814591	900.600	3138.300	Stagonopleura_guttata-ML128306.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Stagonopleura_guttata-ML128306.wav	3	a

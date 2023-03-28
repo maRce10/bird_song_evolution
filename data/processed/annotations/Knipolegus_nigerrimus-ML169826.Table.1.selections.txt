@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	85.656106046	85.808872689	5207.8	5900.3	Knipolegus_nigerrimus-ML169826.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_nigerrimus-ML169826.wav	1	a
+2	Spectrogram 1	1	85.812175752	85.878237002	5651.0	6814.4	Knipolegus_nigerrimus-ML169826.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_nigerrimus-ML169826.wav	1	b
+3	Spectrogram 1	1	85.893926549	85.910441862	1191.1	10637.2	Knipolegus_nigerrimus-ML169826.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_nigerrimus-ML169826.wav	1	c
+4	Spectrogram 1	1	109.147148681	109.295786495	5263.2	6011.1	Knipolegus_nigerrimus-ML169826.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_nigerrimus-ML169826.wav	2	a
+5	Spectrogram 1	1	109.302392620	109.371756933	5595.6	6869.8	Knipolegus_nigerrimus-ML169826.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_nigerrimus-ML169826.wav	2	b
+6	Spectrogram 1	1	109.384969184	109.403136028	1301.9	9695.4	Knipolegus_nigerrimus-ML169826.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_nigerrimus-ML169826.wav	2	c
+7	Spectrogram 1	1	134.039707289	134.193295747	5235.5	5928.0	Knipolegus_nigerrimus-ML169826.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_nigerrimus-ML169826.wav	3	a
+8	Spectrogram 1	1	134.197424575	134.262660060	5789.5	6703.6	Knipolegus_nigerrimus-ML169826.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_nigerrimus-ML169826.wav	3	b
+9	Spectrogram 1	1	134.284129967	134.294039154	1274.2	9944.7	Knipolegus_nigerrimus-ML169826.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_nigerrimus-ML169826.wav	3	c

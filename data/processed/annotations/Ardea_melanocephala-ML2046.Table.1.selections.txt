@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.296621343	5.544839356	469.7	3782.1	Ardea_melanocephala-ML2046.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_melanocephala-ML2046.wav	1	a
+2	Spectrogram 1	1	6.011527976	6.288113762	568.6	4152.9	Ardea_melanocephala-ML2046.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_melanocephala-ML2046.wav	2	a
+3	Spectrogram 1	1	6.800506661	7.091276333	716.9	4103.5	Ardea_melanocephala-ML2046.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_melanocephala-ML2046.wav	3	a

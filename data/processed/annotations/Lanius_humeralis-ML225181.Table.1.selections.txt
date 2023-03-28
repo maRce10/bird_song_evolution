@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	247.017532917	247.502134193	2078.9	3130.0	Lanius_humeralis-ML225181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_humeralis-ML225181.wav	1	a
+2	Spectrogram 1	1	247.626955734	248.096872123	2008.8	3083.3	Lanius_humeralis-ML225181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_humeralis-ML225181.wav	1	a
+3	Spectrogram 1	1	252.215982970	252.715269133	2055.5	3130.0	Lanius_humeralis-ML225181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_humeralis-ML225181.wav	2	a
+4	Spectrogram 1	1	252.825405787	253.295322176	1938.7	3130.0	Lanius_humeralis-ML225181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_humeralis-ML225181.wav	2	a
+5	Spectrogram 1	1	259.876527532	260.346443921	2008.8	3059.9	Lanius_humeralis-ML225181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_humeralis-ML225181.wav	3	a
+6	Spectrogram 1	1	260.471265462	260.933839407	1962.1	3153.3	Lanius_humeralis-ML225181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_humeralis-ML225181.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.042594671	7.112347885	287.400	1214.619	Xipholena_punicea-ML103766.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Xipholena_punicea-ML103766.wav	1	a
+2	Spectrogram 1	1	14.374626187	14.446215011	325.200	1261.335	Xipholena_punicea-ML103766.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Xipholena_punicea-ML103766.wav	2	a
+3	Spectrogram 1	1	24.982326129	25.052079343	373.729	1331.409	Xipholena_punicea-ML103766.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Xipholena_punicea-ML103766.wav	3	a

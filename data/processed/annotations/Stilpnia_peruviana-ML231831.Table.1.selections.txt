@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.746739768	18.053924584	4285.9	8128.4	Stilpnia_peruviana-ML231831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_peruviana-ML231831.wav	1	a
+2	Spectrogram 1	1	23.110539111	23.384693302	4803.1	8054.5	Stilpnia_peruviana-ML231831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_peruviana-ML231831.wav	2	a
+3	Spectrogram 1	1	28.471063312	28.768338941	4692.3	8054.5	Stilpnia_peruviana-ML231831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_peruviana-ML231831.wav	3	a

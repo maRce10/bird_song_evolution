@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	39.713864747	39.865805624	1828.3	4182.9	Emarginata_tractrac-ML72570.wav	E:\Andean\Muscicapidae\Emarginata_tractrac-ML72570.wav	1	a
+2	Spectrogram 1	1	40.202718003	40.315022130	2465.4	5318.6	Emarginata_tractrac-ML72570.wav	E:\Andean\Muscicapidae\Emarginata_tractrac-ML72570.wav	2	b
+3	Spectrogram 1	1	45.679195697	45.817924324	1856.0	3767.3	Emarginata_tractrac-ML72570.wav	E:\Andean\Muscicapidae\Emarginata_tractrac-ML72570.wav	3	a

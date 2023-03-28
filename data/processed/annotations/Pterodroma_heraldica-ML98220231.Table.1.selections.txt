@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.798521923	3.871189299	587.6	3094.8	Pterodroma_heraldica-ML98220231.wav	D:\Andean\Procellariidae\Pterodroma_heraldica-ML98220231.wav	1	a
+2	Spectrogram 1	1	3.983493425	4.069373051	587.6	3290.7	Pterodroma_heraldica-ML98220231.wav	D:\Andean\Procellariidae\Pterodroma_heraldica-ML98220231.wav	1	a
+3	Spectrogram 1	1	4.247738428	4.333618055	509.3	3173.2	Pterodroma_heraldica-ML98220231.wav	D:\Andean\Procellariidae\Pterodroma_heraldica-ML98220231.wav	1	a
+4	Spectrogram 1	1	4.379860930	6.302243329	626.8	4426.8	Pterodroma_heraldica-ML98220231.wav	D:\Andean\Procellariidae\Pterodroma_heraldica-ML98220231.wav	1	b

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.811932896	13.857893182	1876.0	6303.1	Glycichaera_fallax-ML63416131.wav	E:\Escritorio\Cantos\Meliphagidae\Glycichaera_fallax-ML63416131.wav	1	a
+2	Spectrogram 1	1	14.108907049	14.154867335	1910.7	6303.1	Glycichaera_fallax-ML63416131.wav	E:\Escritorio\Cantos\Meliphagidae\Glycichaera_fallax-ML63416131.wav	2	a
+3	Spectrogram 1	1	14.441235268	14.490730960	1847.1	6407.2	Glycichaera_fallax-ML63416131.wav	E:\Escritorio\Cantos\Meliphagidae\Glycichaera_fallax-ML63416131.wav	3	a

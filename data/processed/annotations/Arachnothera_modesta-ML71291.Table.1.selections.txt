@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.540706580	24.606767831	1606.7	4210.6	Arachnothera_modesta-ML71291.wav	E:\Andean\Nectariniidae\Arachnothera_modesta-ML71291.wav	1	a
+2	Spectrogram 1	1	24.732284208	24.811557709	1440.5	4210.6	Arachnothera_modesta-ML71291.wav	E:\Andean\Nectariniidae\Arachnothera_modesta-ML71291.wav	1	a
+3	Spectrogram 1	1	25.894962222	25.967629598	1606.7	3905.8	Arachnothera_modesta-ML71291.wav	E:\Andean\Nectariniidae\Arachnothera_modesta-ML71291.wav	2	a
+4	Spectrogram 1	1	26.212056226	26.271511352	1634.4	3961.2	Arachnothera_modesta-ML71291.wav	E:\Andean\Nectariniidae\Arachnothera_modesta-ML71291.wav	2	a
+5	Spectrogram 1	1	27.361521991	27.420977117	1717.5	4099.7	Arachnothera_modesta-ML71291.wav	E:\Andean\Nectariniidae\Arachnothera_modesta-ML71291.wav	3	a
+6	Spectrogram 1	1	27.539887368	27.599342494	1856.0	4293.7	Arachnothera_modesta-ML71291.wav	E:\Andean\Nectariniidae\Arachnothera_modesta-ML71291.wav	3	a

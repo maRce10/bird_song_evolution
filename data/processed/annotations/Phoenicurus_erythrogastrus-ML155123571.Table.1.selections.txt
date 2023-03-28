@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.977706512	1.136253514	4266.0	5263.2	Phoenicurus_erythrogastrus-ML155123571.wav	E:\Andean\Muscicapidae\Phoenicurus_erythrogastrus-ML155123571.wav	1	a
+2	Spectrogram 1	1	6.071028951	6.189939203	4404.5	5235.5	Phoenicurus_erythrogastrus-ML155123571.wav	E:\Andean\Muscicapidae\Phoenicurus_erythrogastrus-ML155123571.wav	2	a
+3	Spectrogram 1	1	11.475752107	11.601268484	4404.5	5374.0	Phoenicurus_erythrogastrus-ML155123571.wav	E:\Andean\Muscicapidae\Phoenicurus_erythrogastrus-ML155123571.wav	3	a

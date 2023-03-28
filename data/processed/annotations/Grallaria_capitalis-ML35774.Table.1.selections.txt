@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	37.945406230	38.171333134	1440.8	2161.2	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	1	a
+2	Spectrogram 1	1	38.329172478	38.493201600	971.0	2129.8	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	1	b
+3	Spectrogram 1	1	38.539624936	38.694369391	1002.3	2067.2	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	1	b
+4	Spectrogram 1	1	38.746982505	38.932675851	1033.6	2067.2	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	1	b
+5	Spectrogram 1	1	38.988383855	39.189551646	1002.3	2098.5	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	1	b
+6	Spectrogram 1	1	62.660038918	62.879776043	1628.7	2161.2	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	2	a
+7	Spectrogram 1	1	63.040710276	63.195454731	1002.3	2035.9	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	2	b
+8	Spectrogram 1	1	63.251162735	63.409002078	1033.6	2035.9	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	2	b
+9	Spectrogram 1	1	63.458520304	63.631834093	1002.3	2035.9	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	2	b
+10	Spectrogram 1	1	63.696826764	63.904184333	1033.6	2067.2	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	2	b
+11	Spectrogram 1	1	78.614761993	78.812834895	1566.1	2129.8	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	3	a
+12	Spectrogram 1	1	79.001623130	79.125418693	908.3	2004.5	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	3	b
+13	Spectrogram 1	1	79.208980699	79.360630265	845.7	2129.8	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	3	b
+14	Spectrogram 1	1	79.413243379	79.592746947	971.0	2035.9	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	3	b
+15	Spectrogram 1	1	79.663929396	79.846527852	1064.9	2035.9	Grallaria_capitalis-ML35774.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_capitalis-ML35774.wav	3	b

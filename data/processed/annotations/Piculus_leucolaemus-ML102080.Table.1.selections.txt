@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.887793695	14.030653335	1676.0	2906.8	Piculus_leucolaemus-ML102080.wav	D:\Andean\Picidae\Piculus_leucolaemus-ML102080.wav	1	a

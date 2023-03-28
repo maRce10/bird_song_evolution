@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.185437923	24.337460406	2020.5	4612.1	Geositta_saxicolina-ML31746711.wav	E:\Escritorio\Cantos\Furnariidae\Geositta_saxicolina-ML31746711.wav	1	a
+2	Spectrogram 1	1	24.857165173	25.041006316	2020.5	4634.0	Geositta_saxicolina-ML31746711.wav	E:\Escritorio\Cantos\Furnariidae\Geositta_saxicolina-ML31746711.wav	1	a
+3	Spectrogram 1	1	28.864575149	29.037810072	1844.8	4348.5	Geositta_saxicolina-ML31746711.wav	E:\Escritorio\Cantos\Furnariidae\Geositta_saxicolina-ML31746711.wav	2	a
+4	Spectrogram 1	1	29.214580401	29.398421543	1844.8	4106.9	Geositta_saxicolina-ML31746711.wav	E:\Escritorio\Cantos\Furnariidae\Geositta_saxicolina-ML31746711.wav	2	a
+5	Spectrogram 1	1	31.969954071	32.160866026	2020.5	4941.5	Geositta_saxicolina-ML31746711.wav	E:\Escritorio\Cantos\Furnariidae\Geositta_saxicolina-ML31746711.wav	3	a

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.219673753	8.542741271	1144.5	4508.1	Euphonia_imitans-ML57428.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_imitans-ML57428.wav	1	a
+2	Spectrogram 1	1	8.618001317	8.876822453	1261.3	3924.2	Euphonia_imitans-ML57428.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_imitans-ML57428.wav	1	b
+3	Spectrogram 1	1	8.882329286	8.981452274	1167.9	7848.3	Euphonia_imitans-ML57428.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_imitans-ML57428.wav	1	c
+4	Spectrogram 1	1	12.294724609	12.623298959	1121.2	4438.0	Euphonia_imitans-ML57428.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_imitans-ML57428.wav	2	a
+5	Spectrogram 1	1	12.685709729	12.946366476	1238.0	3854.1	Euphonia_imitans-ML57428.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_imitans-ML57428.wav	2	b
+6	Spectrogram 1	1	12.964722585	13.060174352	1354.8	7778.2	Euphonia_imitans-ML57428.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_imitans-ML57428.wav	2	c
+7	Spectrogram 1	1	16.713128459	17.039867198	1191.3	4391.3	Euphonia_imitans-ML57428.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_imitans-ML57428.wav	1	a
+8	Spectrogram 1	1	17.109620412	17.359263494	1238.0	4017.6	Euphonia_imitans-ML57428.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_imitans-ML57428.wav	3	b
+9	Spectrogram 1	1	17.379455214	17.469400148	1284.7	7708.2	Euphonia_imitans-ML57428.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_imitans-ML57428.wav	3	c

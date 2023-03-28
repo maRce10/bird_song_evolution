@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.868949787	16.951446816	746.7	2613.5	Gavicalis_versicolor-ML229596.wav	E:\Escritorio\Cantos\Meliphagidae\Gavicalis_versicolor-ML229596.wav	1	a
+2	Spectrogram 1	1	17.128940423	17.163939163	1120.1	3008.8	Gavicalis_versicolor-ML229596.wav	E:\Escritorio\Cantos\Meliphagidae\Gavicalis_versicolor-ML229596.wav	1	b
+3	Spectrogram 1	1	17.226436912	17.336432951	1076.1	2921.0	Gavicalis_versicolor-ML229596.wav	E:\Escritorio\Cantos\Meliphagidae\Gavicalis_versicolor-ML229596.wav	1	c
+4	Spectrogram 1	1	17.533925838	17.591423767	2481.7	3052.7	Gavicalis_versicolor-ML229596.wav	E:\Escritorio\Cantos\Meliphagidae\Gavicalis_versicolor-ML229596.wav	1	d
+5	Spectrogram 1	1	17.671420886	17.816415665	1778.9	3426.1	Gavicalis_versicolor-ML229596.wav	E:\Escritorio\Cantos\Meliphagidae\Gavicalis_versicolor-ML229596.wav	1	e
+6	Spectrogram 1	1	17.898912694	17.976409903	1603.2	2877.0	Gavicalis_versicolor-ML229596.wav	E:\Escritorio\Cantos\Meliphagidae\Gavicalis_versicolor-ML229596.wav	1	f
+7	Spectrogram 1	1	18.038907652	18.091405761	658.9	1317.7	Gavicalis_versicolor-ML229596.wav	E:\Escritorio\Cantos\Meliphagidae\Gavicalis_versicolor-ML229596.wav	1	g
+8	Spectrogram 1	1	18.113904951	18.166403060	1273.8	2042.5	Gavicalis_versicolor-ML229596.wav	E:\Escritorio\Cantos\Meliphagidae\Gavicalis_versicolor-ML229596.wav	1	h
+9	Spectrogram 1	1	18.211401440	18.268899369	768.7	1844.8	Gavicalis_versicolor-ML229596.wav	E:\Escritorio\Cantos\Meliphagidae\Gavicalis_versicolor-ML229596.wav	1	i
+10	Spectrogram 1	1	18.476391896	18.566388655	1427.5	1976.6	Gavicalis_versicolor-ML229596.wav	E:\Escritorio\Cantos\Meliphagidae\Gavicalis_versicolor-ML229596.wav	1	j

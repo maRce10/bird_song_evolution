@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	33.866880937	34.005101939	1297.1	6090.5	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	1	a
+2	Spectrogram 1	1	34.013232586	34.135192294	1691.8	4116.8	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	1	b
+3	Spectrogram 1	1	34.224629413	34.362850415	1691.8	3327.2	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	1	c
+4	Spectrogram 1	1	34.411634298	34.598639183	1466.2	3270.8	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	1	c
+5	Spectrogram 1	1	34.834427952	35.005171542	1353.5	3440.0	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	1	c
+6	Spectrogram 1	1	35.070216720	35.184045780	1635.4	3327.2	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	1	c
+7	Spectrogram 1	1	35.184045780	35.395442607	1297.1	6259.7	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	1	d
+8	Spectrogram 1	1	65.253258303	65.432132541	1015.1	3214.5	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	2	c
+9	Spectrogram 1	1	65.578484190	65.684182603	1522.6	2876.1	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	2	c
+10	Spectrogram 1	1	65.732966487	65.863056841	1127.9	6372.5	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	2	a
+11	Spectrogram 1	1	65.879318136	65.985016549	1579.0	4173.1	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	2	b
+12	Spectrogram 1	1	66.090714963	66.237066612	1748.2	3270.8	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	2	c
+13	Spectrogram 1	1	66.318373084	66.456594086	1748.2	3496.4	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	2	c
+14	Spectrogram 1	1	66.692382854	66.879387739	1240.7	3327.2	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	2	c
+15	Spectrogram 1	1	66.920040975	67.066392624	1579.0	3214.5	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	2	c
+16	Spectrogram 1	1	67.098915213	67.277789451	1184.3	6146.9	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	2	d
+17	Spectrogram 1	1	86.227150821	86.332849235	1184.3	6146.9	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	3	a
+18	Spectrogram 1	1	86.340979882	86.422286354	1353.5	4398.7	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	3	b
+19	Spectrogram 1	1	86.576768650	86.731250947	1579.0	3327.2	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	3	c
+20	Spectrogram 1	1	86.812557418	86.950778421	1522.6	3270.8	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	3	c
+21	Spectrogram 1	1	87.251612366	87.406094663	1409.8	3327.2	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	3	c
+22	Spectrogram 1	1	87.438617251	87.584968901	1409.8	3327.2	Irena_puella-ML120441911.wav	C:\Users\Carlos PC\Desktop\Marcelo\Irenidae\Irena_puella-ML120441911.wav	3	c

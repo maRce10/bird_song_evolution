@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.977243891	14.019572562	1087.1	1645.4	Crypturellus_cinnamomeus-ML135529.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_cinnamomeus-ML135529.wav	1	a
+2	Spectrogram 1	1	155.126388261	156.046090029	1087.1	1645.4	Crypturellus_cinnamomeus-ML135529.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_cinnamomeus-ML135529.wav	2	a
+3	Spectrogram 1	1	300.144188197	301.094546691	1106.7	1606.2	Crypturellus_cinnamomeus-ML135529.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_cinnamomeus-ML135529.wav	3	b

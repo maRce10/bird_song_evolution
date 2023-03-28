@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	70.341007496	70.469500258	233.6	1051.1	Metriopelia_morenoi-ML217191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Metriopelia_morenoi-ML217191.wav	1	a
+2	Spectrogram 1	1	71.508456025	71.633277565	186.9	957.7	Metriopelia_morenoi-ML217191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Metriopelia_morenoi-ML217191.wav	1	a
+3	Spectrogram 1	1	70.812759496	70.937581036	210.2	981.0	Metriopelia_morenoi-ML217191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Metriopelia_morenoi-ML217191.wav	1	a
+4	Spectrogram 1	1	71.240456834	71.361607153	280.3	934.3	Metriopelia_morenoi-ML217191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Metriopelia_morenoi-ML217191.wav	1	a
+5	Spectrogram 1	1	70.557609581	70.675088679	233.6	1027.8	Metriopelia_morenoi-ML217191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Metriopelia_morenoi-ML217191.wav	1	a
+6	Spectrogram 1	1	71.042210857	71.156018733	233.6	1004.4	Metriopelia_morenoi-ML217191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Metriopelia_morenoi-ML217191.wav	1	a

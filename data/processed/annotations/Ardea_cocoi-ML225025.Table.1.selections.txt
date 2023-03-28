@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.234023385	5.413094951	642.7	1532.6	Ardea_cocoi-ML225025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_cocoi-ML225025.wav	1	a
+2	Spectrogram 1	1	6.086829558	6.398875060	519.1	1433.7	Ardea_cocoi-ML225025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_cocoi-ML225025.wav	2	a
+3	Spectrogram 1	1	7.198571233	7.432605360	469.7	1384.3	Ardea_cocoi-ML225025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_cocoi-ML225025.wav	3	a

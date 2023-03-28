@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.259380741	6.446613052	2709.5	8595.8	Spermestes_bicolor-ML41409.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Spermestes_bicolor-ML41409.wav	1	a
+2	Spectrogram 1	1	6.920200663	7.081734422	2172.3	8128.6	Spermestes_bicolor-ML41409.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Spermestes_bicolor-ML41409.wav	2	b
+3	Spectrogram 1	1	7.195542297	7.362582889	2242.4	7988.5	Spermestes_bicolor-ML41409.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Spermestes_bicolor-ML41409.wav	3	b

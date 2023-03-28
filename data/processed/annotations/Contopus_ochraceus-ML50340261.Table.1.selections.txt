@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.065328903	31.147075531	3187.3	4310.7	Contopus_ochraceus-ML50340261.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_ochraceus-ML50340261.wav	1	a
+2	Spectrogram 1	1	31.186781035	31.317575639	3500.8	5904.4	Contopus_ochraceus-ML50340261.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_ochraceus-ML50340261.wav	1	b
+3	Spectrogram 1	1	34.593866659	34.675613286	3056.7	4310.7	Contopus_ochraceus-ML50340261.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_ochraceus-ML50340261.wav	2	a
+4	Spectrogram 1	1	34.712983173	34.850784630	3213.4	5747.6	Contopus_ochraceus-ML50340261.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_ochraceus-ML50340261.wav	2	c
+5	Spectrogram 1	1	37.292213594	37.369288986	3135.1	4310.7	Contopus_ochraceus-ML50340261.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_ochraceus-ML50340261.wav	3	a
+6	Spectrogram 1	1	37.411330108	37.549131566	3422.5	5852.1	Contopus_ochraceus-ML50340261.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_ochraceus-ML50340261.wav	3	b

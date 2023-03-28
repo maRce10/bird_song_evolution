@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.848149948	18.885224736	2534.2	3161.2	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	1	a
+2	Spectrogram 1	1	18.930163873	18.960497791	2847.7	4258.5	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	1	b
+3	Spectrogram 1	1	19.008807363	19.050376065	3108.9	4807.1	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	1	c
+4	Spectrogram 1	1	19.097562158	19.189687389	1645.9	5852.1	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	1	d
+5	Spectrogram 1	1	19.236873483	19.515496132	1436.9	5982.8	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	1	e
+6	Spectrogram 1	1	20.547973199	20.574936681	2743.2	3448.6	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	2	f
+7	Spectrogram 1	1	20.622122775	20.667061912	2717.1	4572.0	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	2	g
+8	Spectrogram 1	1	20.706383871	20.786150839	1854.9	5878.3	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	2	h
+9	Spectrogram 1	1	20.856929980	20.992870869	1515.3	6244.0	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	2	i
+10	Spectrogram 1	1	21.006352610	21.168133503	2481.9	5408.0	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	2	j
+11	Spectrogram 1	1	21.906295333	21.931011858	2351.3	2926.1	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	3	a
+12	Spectrogram 1	1	21.986062301	22.019766654	2690.9	3318.0	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	3	k
+13	Spectrogram 1	1	22.062458834	22.107397971	2847.7	3945.0	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	3	l
+14	Spectrogram 1	1	22.144472759	22.198399723	2246.8	4990.0	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	3	m
+15	Spectrogram 1	1	22.243338860	22.336587570	1672.0	6087.3	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	3	d
+16	Spectrogram 1	1	22.386020620	22.664643270	1489.2	6139.5	Sublegatus_modestus-ML143486.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_modestus-ML143486.wav	3	e

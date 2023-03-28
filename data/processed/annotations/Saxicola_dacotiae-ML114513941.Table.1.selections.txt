@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.408976290	4.475037541	1859.3	6285.0	Saxicola_dacotiae-ML114513941.wav	E:\Andean\Muscicapidae\Saxicola_dacotiae-ML114513941.wav	1	a
+2	Spectrogram 1	1	4.726070294	4.778919294	1676.0	5997.0	Saxicola_dacotiae-ML114513941.wav	E:\Andean\Muscicapidae\Saxicola_dacotiae-ML114513941.wav	2	a
+3	Spectrogram 1	1	5.241348050	5.314015426	1649.8	5708.9	Saxicola_dacotiae-ML114513941.wav	E:\Andean\Muscicapidae\Saxicola_dacotiae-ML114513941.wav	3	a

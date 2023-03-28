@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.467381614	1.726202750	1635.1	2803.0	Lanius_souzae-ML279152.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_souzae-ML279152.wav	1	a
+2	Spectrogram 1	1	1.847353069	2.119023482	1518.3	2732.9	Lanius_souzae-ML279152.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_souzae-ML279152.wav	1	a
+3	Spectrogram 1	1	4.563024676	4.825517034	1751.9	2896.4	Lanius_souzae-ML279152.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_souzae-ML279152.wav	2	a
+4	Spectrogram 1	1	4.917297578	5.192639212	1798.6	2896.4	Lanius_souzae-ML279152.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_souzae-ML279152.wav	2	a
+5	Spectrogram 1	1	8.032025258	8.301860060	1821.9	2779.6	Lanius_souzae-ML279152.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_souzae-ML279152.wav	3	a
+6	Spectrogram 1	1	8.402818659	8.679995904	1728.5	2779.6	Lanius_souzae-ML279152.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_souzae-ML279152.wav	3	a

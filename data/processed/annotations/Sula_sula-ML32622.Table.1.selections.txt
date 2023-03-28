@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.836459601	19.925213082	313.4	11243.3	Sula_sula-ML32622.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_sula-ML32622.wav	1	a
+2	Spectrogram 1	1	20.237018074	20.284898242	470.1	7991.7	Sula_sula-ML32622.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_sula-ML32622.wav	1	b
+3	Spectrogram 1	1	21.032295977	21.142070019	352.6	11752.5	Sula_sula-ML32622.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_sula-ML32622.wav	2	a
+4	Spectrogram 1	1	21.330392608	21.393454292	352.6	9010.3	Sula_sula-ML32622.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_sula-ML32622.wav	2	c
+5	Spectrogram 1	1	23.070324366	23.153238802	391.8	11243.3	Sula_sula-ML32622.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_sula-ML32622.wav	3	a
+6	Spectrogram 1	1	23.326074528	23.358773179	274.2	9558.7	Sula_sula-ML32622.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_sula-ML32622.wav	3	b

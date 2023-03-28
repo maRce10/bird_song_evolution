@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.293994365	23.612180958	1087.0	2510.4	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	1	a
+2	Spectrogram 1	1	23.753597221	24.082390033	1216.4	3338.6	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	1	b
+3	Spectrogram 1	1	24.216735483	24.503103416	1216.4	3597.4	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	1	c
+4	Spectrogram 1	1	24.644519680	24.863714888	1397.5	4632.6	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	1	d
+5	Spectrogram 1	1	36.440758339	36.748338711	1216.4	2795.1	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	2	a
+6	Spectrogram 1	1	36.889754975	37.197335347	1190.5	3312.7	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	2	b
+7	Spectrogram 1	1	37.349357830	37.600371698	1242.3	3882.0	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	2	c
+8	Spectrogram 1	1	37.748858774	37.964518576	1268.1	4580.8	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	2	d
+9	Spectrogram 1	1	42.957889202	43.272540388	1138.7	2639.8	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	3	a
+10	Spectrogram 1	1	43.417492057	43.732143243	1112.9	3286.8	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	3	b
+11	Spectrogram 1	1	43.880630320	44.138715000	1268.1	3768.5	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	3	c
+12	Spectrogram 1	1	44.276595857	44.485184845	1190.5	4580.8	Sclerurus_albigularis-ML66242.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_albigularis-ML66242.wav	3	d

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	82.594544713	82.620176411	5932.2	8016.2	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	1	a
+2	Spectrogram 1	1	82.751870306	82.788992075	6491.9	8543.3	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	1	b
+3	Spectrogram 1	1	82.886215756	82.928640635	6435.9	8786.4	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	1	c
+4	Spectrogram 1	1	83.011722690	83.052379866	6463.9	8898.4	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	1	c
+5	Spectrogram 1	1	83.130158811	83.178770651	6435.9	8702.5	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	1	d
+6	Spectrogram 1	1	83.237988100	83.280412979	6659.8	8730.5	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	1	d
+7	Spectrogram 1	1	83.332609303	83.375034182	6603.8	8842.4	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	1	c
+8	Spectrogram 1	1	83.408586235	84.508981472	6268.0	9066.2	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	1	e
+9	Spectrogram 1	1	89.000512212	89.032330871	6100.1	7919.0	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	a
+10	Spectrogram 1	1	89.127786849	89.173747134	6016.2	8310.7	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	b
+11	Spectrogram 1	1	89.253293782	89.292183255	6212.1	8506.6	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	b
+12	Spectrogram 1	1	89.362891386	89.408851672	6379.9	8590.5	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	b
+13	Spectrogram 1	1	89.461882771	89.511378463	6463.9	8786.4	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	c
+14	Spectrogram 1	1	89.553803342	89.606834441	6715.7	8982.3	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	c
+15	Spectrogram 1	1	89.642188506	89.698755012	6687.8	9094.2	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	c
+16	Spectrogram 1	1	89.732341374	89.785372473	6659.8	9122.2	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	c
+17	Spectrogram 1	1	89.818958836	89.866686824	6687.8	9150.2	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	c
+18	Spectrogram 1	1	89.902040890	89.951536582	6715.7	9066.2	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	c
+19	Spectrogram 1	1	89.985122945	90.031083231	6827.7	9010.3	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	c
+20	Spectrogram 1	1	90.066437296	90.117700692	6519.9	8870.4	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	c
+21	Spectrogram 1	1	90.149879776	91.203430937	6128.1	8758.4	Pipreola_riefferii-ML42929351.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Pipreola_riefferii-ML42929351.wav	2	e

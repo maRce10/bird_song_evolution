@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.716363911	1.036396063	1254.0	1672.0	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	1	a
+2	Spectrogram 1	1	1.366429220	1.456438263	1175.7	1619.8	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	1	b
+3	Spectrogram 1	1	1.506443287	1.563115647	1254.0	1672.0	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	1	b
+4	Spectrogram 1	1	1.616454339	1.676460368	1149.5	1567.5	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	1	b
+5	Spectrogram 1	1	1.736466396	1.786471420	1175.7	1567.5	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	1	b
+6	Spectrogram 1	1	1.856478453	1.906483477	1227.9	1645.9	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	1	b
+7	Spectrogram 1	1	2.603220142	2.896582948	1201.8	1672.0	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	2	a
+8	Spectrogram 1	1	3.283288466	3.353295499	1175.7	1593.7	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	2	b
+9	Spectrogram 1	1	3.389965850	3.453305547	1201.8	1593.7	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	2	b
+10	Spectrogram 1	1	3.496643234	3.563316599	1175.7	1567.5	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	2	b
+11	Spectrogram 1	1	3.613321623	3.669993983	1071.1	1567.5	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	2	b
+12	Spectrogram 1	1	3.730000012	3.773337699	1149.5	1645.9	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	2	b
+13	Spectrogram 1	1	3.843344732	3.890016088	1149.5	1541.4	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	2	b
+14	Spectrogram 1	1	4.436491298	4.726520436	1149.5	1698.2	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	3	a
+15	Spectrogram 1	1	5.203234996	5.286576702	1175.7	1593.7	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	3	b
+16	Spectrogram 1	1	5.323247053	5.396587755	1149.5	1567.5	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	3	b
+17	Spectrogram 1	1	5.443259110	5.506598807	1201.8	1593.7	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	3	b
+18	Spectrogram 1	1	5.559937499	5.626610864	1201.8	1567.5	Glaucidium_passerinum-ML59173671.wav	D:\Andean\Strigidae\Glaucidium_passerinum-ML59173671.wav	3	b

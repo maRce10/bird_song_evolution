@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	78.391557136	78.690761711	840.9	4227.8	Laniarius_atroflavus-ML537103.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_atroflavus-ML537103.wav	1	a
+2	Spectrogram 1	1	80.162343933	80.446863622	794.2	4157.7	Laniarius_atroflavus-ML537103.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_atroflavus-ML537103.wav	2	b
+3	Spectrogram 1	1	82.174654762	82.409612957	887.6	4204.4	Laniarius_atroflavus-ML537103.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_atroflavus-ML537103.wav	3	a

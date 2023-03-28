@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.233561792	0.364356396	1301.9	3157.9	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	1	a
+2	Spectrogram 1	1	0.406397518	0.464787966	1329.6	2770.1	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	1	b
+3	Spectrogram 1	1	0.499822235	0.562883919	1329.6	2825.5	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	1	b
+4	Spectrogram 1	1	0.784767622	0.901548518	1274.2	3268.7	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	1	a
+5	Spectrogram 1	1	0.952932112	0.994973235	1440.5	2770.1	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	1	b
+6	Spectrogram 1	1	1.046356829	1.107082895	1274.2	2853.2	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	1	b
+7	Spectrogram 1	1	1.156130871	1.209850084	1274.2	2853.2	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	1	b
+8	Spectrogram 1	1	20.955262932	21.072043828	1163.4	2354.6	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	2	a
+9	Spectrogram 1	1	21.294489896	21.439298208	1246.5	2326.9	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	2	a
+10	Spectrogram 1	1	21.651839439	21.782634042	1218.8	2216.1	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	2	a
+11	Spectrogram 1	1	22.002182127	22.125969877	1274.2	2160.7	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	2	a
+13	Spectrogram 1	1	32.595919467	32.675192968	1301.9	2243.8	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	a
+14	Spectrogram 1	1	32.939437971	33.051742098	1329.6	1966.8	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	a
+15	Spectrogram 1	1	33.282956476	33.405169790	1301.9	2105.3	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	a
+16	Spectrogram 1	1	33.603353542	33.738779107	1385.1	2188.4	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	a
+17	Spectrogram 1	1	33.936962859	34.069085361	1329.6	2105.3	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	a
+18	Spectrogram 1	1	34.257359926	34.402694677	1329.6	2105.3	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	a
+19	Spectrogram 1	1	34.432422240	34.481968178	1301.9	2049.9	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	b
+20	Spectrogram 1	1	34.693364181	34.799062182	1329.6	2022.2	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	a
+21	Spectrogram 1	1	34.842001995	34.894850996	1385.1	1911.4	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	b
+22	Spectrogram 1	1	34.937790809	34.987336747	1385.1	1939.1	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	b
+23	Spectrogram 1	1	35.036882685	35.083125561	1274.2	1939.1	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	b
+24	Spectrogram 1	1	35.324249126	35.400219565	1357.3	2049.9	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	a
+25	Spectrogram 1	1	35.462977753	35.512523691	1357.3	1911.4	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	b
+26	Spectrogram 1	1	35.565372692	35.618221693	1274.2	1883.7	Pternistis_atrifrons-ML318831831.wav	D:\Andean\Phasianidae\Pternistis_atrifrons-ML318831831.wav	3	b

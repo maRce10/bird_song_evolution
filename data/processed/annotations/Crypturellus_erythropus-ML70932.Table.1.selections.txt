@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	62.113600441	62.645430313	1038.1	1351.5	Crypturellus_erythropus-ML70932.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_erythropus-ML70932.wav	1	a
+2	Spectrogram 1	1	62.732710350	63.040396222	1028.3	1351.5	Crypturellus_erythropus-ML70932.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_erythropus-ML70932.wav	1	b
+3	Spectrogram 1	1	96.768523396	97.294309748	1047.9	1322.2	Crypturellus_erythropus-ML70932.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_erythropus-ML70932.wav	2	c
+4	Spectrogram 1	1	97.384962567	97.687138631	1047.9	1332.0	Crypturellus_erythropus-ML70932.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_erythropus-ML70932.wav	2	d
+5	Spectrogram 1	1	132.909330623	133.350507677	1067.5	1361.3	Crypturellus_erythropus-ML70932.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_erythropus-ML70932.wav	3	e
+6	Spectrogram 1	1	133.537856837	133.803771773	1067.5	1332.0	Crypturellus_erythropus-ML70932.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_erythropus-ML70932.wav	3	f

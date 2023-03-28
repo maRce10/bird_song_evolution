@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.061968399	7.135796489	902.3	6823.7	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	1	a
+2	Spectrogram 1	1	7.167437099	7.243374564	1748.2	6823.7	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	1	b
+3	Spectrogram 1	1	7.365718256	7.416343233	2481.3	4455.1	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	1	c
+4	Spectrogram 1	1	7.471186957	7.749624327	2876.1	5357.4	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	1	d
+5	Spectrogram 1	1	12.236087828	12.288822178	1297.1	7613.2	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	2	a
+6	Spectrogram 1	1	12.313029681	12.401623389	1635.4	6372.5	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	2	b
+7	Spectrogram 1	1	12.504982716	12.564045188	2255.8	5131.8	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	2	c
+8	Spectrogram 1	1	12.631545157	12.884670038	2650.5	4962.7	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	2	d
+9	Spectrogram 1	1	21.116316918	21.185926261	1015.1	6090.5	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	3	a
+10	Spectrogram 1	1	21.198582505	21.276629343	1579.0	6034.1	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	3	b
+11	Spectrogram 1	1	21.390535540	21.453816760	1748.2	4737.1	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	3	c
+12	Spectrogram 1	1	21.504441736	21.757566618	3158.1	4793.5	Euphagus_carolinus-ML12458.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Euphagus_carolinus-ML12458.wav	3	d

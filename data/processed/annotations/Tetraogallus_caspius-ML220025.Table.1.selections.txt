@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	217.876373366	218.558373799	941.8	1329.6	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	1	a
+2	Spectrogram 1	1	218.567716271	219.072209742	1495.9	1939.1	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	1	b
+3	Spectrogram 1	1	219.058196034	219.188990638	2022.2	2437.7	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	1	c
+4	Spectrogram 1	1	219.170305695	219.301100298	2548.5	2853.2	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	1	c
+5	Spectrogram 1	1	219.296429062	219.361826364	3185.6	3573.4	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	1	d
+6	Spectrogram 1	1	219.375840072	219.487949732	1911.4	4432.2	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	1	e
+7	Spectrogram 1	1	251.641650588	252.328322257	747.9	1329.6	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	2	a
+8	Spectrogram 1	1	252.332993493	252.856171907	1357.3	1828.3	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	2	b
+9	Spectrogram 1	1	252.874856851	252.963610332	1994.5	2410.0	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	2	c
+10	Spectrogram 1	1	252.958937590	253.029006128	2493.1	2936.3	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	2	c
+11	Spectrogram 1	1	253.026670510	253.082725340	3102.5	3490.3	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	2	d
+12	Spectrogram 1	1	253.087396576	253.201841854	1856.0	4432.2	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	2	e
+13	Spectrogram 1	1	276.508033262	277.157335045	803.3	1357.3	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	3	a
+14	Spectrogram 1	1	277.164341899	277.708540874	1440.5	1883.7	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	3	b
+15	Spectrogram 1	1	277.699198403	277.804301209	2049.9	2493.1	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	3	c
+16	Spectrogram 1	1	277.799629973	277.893054690	2548.5	2908.6	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	3	c
+17	Spectrogram 1	1	278.033191765	278.072897270	1911.4	3351.8	Tetraogallus_caspius-ML220025.wav	D:\Andean\Phasianidae\Tetraogallus_caspius-ML220025.wav	3	f

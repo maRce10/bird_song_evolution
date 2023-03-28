@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.834949449	6.859722418	1662.1	7202.3	Knipolegus_cabanisi-ML168094.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_cabanisi-ML168094.wav	1	a
+2	Spectrogram 1	1	31.753580450	31.775050357	1911.4	7313.1	Knipolegus_cabanisi-ML168094.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_cabanisi-ML168094.wav	2	a
+3	Spectrogram 1	1	42.149698830	42.166214143	2216.1	7423.9	Knipolegus_cabanisi-ML168094.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_cabanisi-ML168094.wav	3	a

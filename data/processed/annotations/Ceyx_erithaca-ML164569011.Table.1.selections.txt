@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.336638520	7.527714598	5758.8	6772.4	Ceyx_erithaca-ML164569011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Ceyx_erithaca-ML164569011.wav	1	a
+2	Spectrogram 1	1	7.761064144	7.928467080	5857.7	7390.3	Ceyx_erithaca-ML164569011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Ceyx_erithaca-ML164569011.wav	1	b
+3	Spectrogram 1	1	8.656361187	8.837291632	6302.7	7588.1	Ceyx_erithaca-ML164569011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Ceyx_erithaca-ML164569011.wav	2	b
+4	Spectrogram 1	1	9.226207543	9.413901743	5833.0	6846.5	Ceyx_erithaca-ML164569011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Ceyx_erithaca-ML164569011.wav	2	a
+5	Spectrogram 1	1	10.592534310	10.726118470	6129.6	7167.9	Ceyx_erithaca-ML164569011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Ceyx_erithaca-ML164569011.wav	3	b
+6	Spectrogram 1	1	11.010196179	11.191126624	5907.2	6896.0	Ceyx_erithaca-ML164569011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Ceyx_erithaca-ML164569011.wav	3	a

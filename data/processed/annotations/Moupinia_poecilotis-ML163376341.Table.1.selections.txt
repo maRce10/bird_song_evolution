@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.400415706	0.782207425	2918.5	4074.2	Moupinia_poecilotis-ML163376341.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Moupinia_poecilotis-ML163376341.wav	1	a
+2	Spectrogram 1	1	0.921887323	1.620286810	3036.1	4289.7	Moupinia_poecilotis-ML163376341.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Moupinia_poecilotis-ML163376341.wav	1	b
+3	Spectrogram 1	1	2.560798119	2.877405886	2938.1	3995.9	Moupinia_poecilotis-ML163376341.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Moupinia_poecilotis-ML163376341.wav	2	a
+4	Spectrogram 1	1	2.989149804	3.734109257	3075.2	4270.1	Moupinia_poecilotis-ML163376341.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Moupinia_poecilotis-ML163376341.wav	2	b
+5	Spectrogram 1	1	4.758428504	5.112284244	3016.5	4054.6	Moupinia_poecilotis-ML163376341.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Moupinia_poecilotis-ML163376341.wav	3	a
+6	Spectrogram 1	1	5.205404176	5.941051635	3055.7	4250.5	Moupinia_poecilotis-ML163376341.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Moupinia_poecilotis-ML163376341.wav	3	b

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.374464622	0.715888249	490.5	3924.2	Leucophaeus_pipixcan-ML97612501.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Leucophaeus_pipixcan-ML97612501.wav	1	a
+2	Spectrogram 1	1	1.139914365	1.470324326	420.4	3854.1	Leucophaeus_pipixcan-ML97612501.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Leucophaeus_pipixcan-ML97612501.wav	2	a
+3	Spectrogram 1	1	2.055844410	2.377076317	490.5	4017.6	Leucophaeus_pipixcan-ML97612501.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Leucophaeus_pipixcan-ML97612501.wav	3	a

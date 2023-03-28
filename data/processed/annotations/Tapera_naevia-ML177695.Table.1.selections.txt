@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.515465954	5.697959381	2196.2	2855.1	Tapera_naevia-ML177695.wav	E:\Escritorio\Cantos\Cuculidae\Tapera_naevia-ML177695.wav	1	a
+2	Spectrogram 1	1	6.001038743	6.211395435	2350.0	2910.0	Tapera_naevia-ML177695.wav	E:\Escritorio\Cantos\Cuculidae\Tapera_naevia-ML177695.wav	1	b
+3	Spectrogram 1	1	9.470349056	9.633861611	2360.9	2789.2	Tapera_naevia-ML177695.wav	E:\Escritorio\Cantos\Cuculidae\Tapera_naevia-ML177695.wav	2	a
+4	Spectrogram 1	1	9.963538274	10.175662669	2350.0	2931.9	Tapera_naevia-ML177695.wav	E:\Escritorio\Cantos\Cuculidae\Tapera_naevia-ML177695.wav	2	b
+5	Spectrogram 1	1	13.483032303	13.649196413	2339.0	2844.1	Tapera_naevia-ML177695.wav	E:\Escritorio\Cantos\Cuculidae\Tapera_naevia-ML177695.wav	3	a
+6	Spectrogram 1	1	13.992130851	14.202487543	2317.0	2910.0	Tapera_naevia-ML177695.wav	E:\Escritorio\Cantos\Cuculidae\Tapera_naevia-ML177695.wav	3	b

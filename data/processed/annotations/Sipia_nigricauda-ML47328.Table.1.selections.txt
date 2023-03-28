@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+2	Spectrogram 1	1	45.200766569	45.309767633	3767.3	5429.4	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	1	b
+3	Spectrogram 1	1	44.776323033	44.885324096	3767.3	5207.8	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	1	a
+4	Spectrogram 1	1	45.529421292	45.713230156	3961.2	5041.6	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	1	c
+5	Spectrogram 1	1	45.863030609	45.995153110	3988.9	5069.3	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	1	c
+7	Spectrogram 1	1	46.203246051	46.302337927	4598.4	5983.4	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	1	d
+8	Spectrogram 1	1	60.387814280	60.493512282	3961.2	5041.6	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	2	e
+9	Spectrogram 1	1	60.807303223	60.906395099	3933.5	5152.4	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	2	f
+10	Spectrogram 1	1	61.121094165	61.240004416	3961.2	4903.1	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	2	g
+11	Spectrogram 1	1	61.424975918	61.530673920	3988.9	4764.6	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	2	h
+12	Spectrogram 1	1	61.745372985	61.854374049	3988.9	4764.6	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	2	h
+13	Spectrogram 1	1	62.039345551	62.145043552	4404.5	5844.9	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	2	i
+14	Spectrogram 1	1	76.182099069	76.297706258	3933.5	4764.6	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	3	j
+16	Spectrogram 1	1	76.586885164	76.685977040	3961.2	5180.1	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	3	f
+17	Spectrogram 1	1	76.877554667	77.029195252	3905.8	4736.9	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	3	k
+19	Spectrogram 1	1	77.194648671	77.300346673	3878.1	4764.6	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	3	k
+20	Spectrogram 1	1	77.491924300	77.591016176	3795.0	4681.5	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	3	l
+21	Spectrogram 1	1	77.769381554	77.855261180	4459.9	5844.9	Sipia_nigricauda-ML47328.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Sipia_nigricauda-ML47328.wav	3	i

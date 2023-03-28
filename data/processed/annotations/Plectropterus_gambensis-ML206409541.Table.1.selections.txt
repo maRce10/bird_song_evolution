@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.368202205	16.472808368	692.2	3139.4	Plectropterus_gambensis-ML206409541.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Plectropterus_gambensis-ML206409541.wav	1	a
+2	Spectrogram 1	1	16.905416905	17.001158138	791.0	3114.7	Plectropterus_gambensis-ML206409541.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Plectropterus_gambensis-ML206409541.wav	2	a
+3	Spectrogram 1	1	17.499367150	17.596881370	865.2	3485.5	Plectropterus_gambensis-ML206409541.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Plectropterus_gambensis-ML206409541.wav	3	a

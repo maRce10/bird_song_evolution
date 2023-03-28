@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	155.706806647	155.987655113	2569.4	3830.7	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	1	a
+2	Spectrogram 1	1	156.226284530	156.553023269	2546.0	3807.4	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	1	b
+3	Spectrogram 1	1	156.751269245	157.048638210	2569.4	4017.6	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	1	b
+4	Spectrogram 1	1	157.217514413	157.491020436	2569.4	4251.2	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	1	c
+5	Spectrogram 1	1	157.666217518	157.882819604	2452.6	4087.7	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	1	d
+6	Spectrogram 1	1	163.424860109	163.687352467	2662.8	4064.3	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	2	a
+7	Spectrogram 1	1	163.907625774	164.208665961	2616.1	4064.3	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	2	b
+8	Spectrogram 1	1	164.380912506	164.667267805	2779.6	4204.4	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	2	c
+9	Spectrogram 1	1	164.825130342	165.094965144	2592.7	4321.2	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	2	e
+10	Spectrogram 1	1	165.256498902	165.493292708	2592.7	4368.0	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	2	f
+11	Spectrogram 1	1	165.643499140	165.845416338	2522.7	4508.1	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	2	g
+12	Spectrogram 1	1	165.983087155	166.069360867	2616.1	5022.0	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	2	h
+13	Spectrogram 1	1	172.412948793	172.668098708	2709.5	4064.3	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	3	a
+14	Spectrogram 1	1	172.842481743	173.138015097	2639.5	4181.1	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	3	b
+15	Spectrogram 1	1	173.308726910	173.596917820	2476.0	4227.8	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	3	c
+16	Spectrogram 1	1	173.751109135	174.013601493	2522.7	4368.0	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	3	c
+17	Spectrogram 1	1	174.170455248	174.409084665	2546.0	4508.1	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	3	c
+18	Spectrogram 1	1	174.555933536	174.735823404	2452.6	4648.3	Conopophaga_lineata-ML39063.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Conopophagidae\Conopophaga_lineata-ML39063.wav	3	

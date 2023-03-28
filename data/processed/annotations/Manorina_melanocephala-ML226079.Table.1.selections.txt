@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	37.218727971	37.402569113	2350.0	3074.7	Manorina_melanocephala-ML226079.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanocephala-ML226079.wav	1	a
+2	Spectrogram 1	1	37.455600212	37.575804036	2350.0	2942.9	Manorina_melanocephala-ML226079.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanocephala-ML226079.wav	1	b
+3	Spectrogram 1	1	37.628835134	37.773786804	2415.8	2964.9	Manorina_melanocephala-ML226079.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanocephala-ML226079.wav	1	c
+4	Spectrogram 1	1	38.038942298	38.219248034	2350.0	3008.8	Manorina_melanocephala-ML226079.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanocephala-ML226079.wav	2	a
+5	Spectrogram 1	1	38.268743726	38.399553769	2481.7	3008.8	Manorina_melanocephala-ML226079.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanocephala-ML226079.wav	2	b
+6	Spectrogram 1	1	38.445514055	38.604607351	2464.8	2964.9	Manorina_melanocephala-ML226079.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanocephala-ML226079.wav	2	c
+7	Spectrogram 1	1	38.898046097	39.078351833	2364.4	2964.4	Manorina_melanocephala-ML226079.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanocephala-ML226079.wav	3	a
+8	Spectrogram 1	1	39.113705899	39.248051349	2417.5	2895.7	Manorina_melanocephala-ML226079.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanocephala-ML226079.wav	3	b
+9	Spectrogram 1	1	39.290476228	39.442498711	2364.4	2842.6	Manorina_melanocephala-ML226079.wav	E:\Escritorio\Cantos\Meliphagidae\Manorina_melanocephala-ML226079.wav	3	c

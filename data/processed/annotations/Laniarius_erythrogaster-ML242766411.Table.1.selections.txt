@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.834807460	2.122998370	560.6	3246.8	Laniarius_erythrogaster-ML242766411.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_erythrogaster-ML242766411.wav	1	a
+2	Spectrogram 1	1	2.156039366	2.464421997	537.2	3246.8	Laniarius_erythrogaster-ML242766411.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_erythrogaster-ML242766411.wav	1	a
+3	Spectrogram 1	1	4.790460071	5.062130484	607.3	2943.1	Laniarius_erythrogaster-ML242766411.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_erythrogaster-ML242766411.wav	2	a
+4	Spectrogram 1	1	5.073144149	5.390704834	607.3	2803.0	Laniarius_erythrogaster-ML242766411.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_erythrogaster-ML242766411.wav	2	a
+5	Spectrogram 1	1	9.127138191	9.407986657	677.4	3457.0	Laniarius_erythrogaster-ML242766411.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_erythrogaster-ML242766411.wav	3	a
+6	Spectrogram 1	1	9.426342766	9.630095576	794.2	3457.0	Laniarius_erythrogaster-ML242766411.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_erythrogaster-ML242766411.wav	3	a

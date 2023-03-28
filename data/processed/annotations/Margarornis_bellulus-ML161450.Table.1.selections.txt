@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.156696607	23.206192299	6764.3	9377.8	Margarornis_bellulus-ML161450.wav	E:\Escritorio\Cantos\Furnariidae\Margarornis_bellulus-ML161450.wav	1	a
+2	Spectrogram 1	1	28.514503252	28.563998944	6852.2	9729.2	Margarornis_bellulus-ML161450.wav	E:\Escritorio\Cantos\Furnariidae\Margarornis_bellulus-ML161450.wav	2	a
+3	Spectrogram 1	1	31.654348584	31.703844276	6836.9	9553.5	Margarornis_bellulus-ML161450.wav	E:\Escritorio\Cantos\Furnariidae\Margarornis_bellulus-ML161450.wav	3	a

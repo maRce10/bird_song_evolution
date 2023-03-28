@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	46.845932674	46.900853595	1705.7	2620.3	Probosciger_aterrimus-ML201251.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Probosciger_aterrimus-ML201251.wav	1	a
+2	Spectrogram 1	1	47.125852210	47.533330016	2027.0	4672.0	Probosciger_aterrimus-ML201251.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Probosciger_aterrimus-ML201251.wav	1	b
+3	Spectrogram 1	1	48.502894277	48.563130126	1606.8	2620.3	Probosciger_aterrimus-ML201251.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Probosciger_aterrimus-ML201251.wav	2	a
+4	Spectrogram 1	1	48.823561594	49.264700610	1755.1	4869.8	Probosciger_aterrimus-ML201251.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Probosciger_aterrimus-ML201251.wav	2	b
+5	Spectrogram 1	1	53.961328073	53.994989283	1557.3	2051.7	Probosciger_aterrimus-ML201251.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Probosciger_aterrimus-ML201251.wav		a
+6	Spectrogram 1	1	54.237704324	54.723134406	1878.7	4795.6	Probosciger_aterrimus-ML201251.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Probosciger_aterrimus-ML201251.wav	3	b

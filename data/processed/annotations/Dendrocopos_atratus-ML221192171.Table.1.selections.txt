@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.853773362	0.906622363	1204.6	2278.3	Dendrocopos_atratus-ML221192171.wav	D:\Andean\Picidae\Dendrocopos_atratus-ML221192171.wav	1	a
+2	Spectrogram 1	1	2.607699572	2.663851635	1099.9	2147.4	Dendrocopos_atratus-ML221192171.wav	D:\Andean\Picidae\Dendrocopos_atratus-ML221192171.wav	2	a
+3	Spectrogram 1	1	3.489617270	3.545769334	1126.1	2173.6	Dendrocopos_atratus-ML221192171.wav	D:\Andean\Picidae\Dendrocopos_atratus-ML221192171.wav	3	a

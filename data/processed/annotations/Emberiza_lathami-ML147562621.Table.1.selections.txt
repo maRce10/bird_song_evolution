@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.479033817	1.596512914	3223.4	5932.9	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	1	a
+2	Spectrogram 1	1	1.686457848	1.813115000	3503.7	5746.1	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	1	a
+3	Spectrogram 1	1	1.864512105	2.016867809	3573.8	5932.9	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	1	b
+4	Spectrogram 1	1	2.077442968	2.323414828	2896.4	5372.4	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	1	c
+5	Spectrogram 1	1	2.382154377	2.710728727	2592.7	5979.7	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	1	d
+6	Spectrogram 1	1	8.620509139	8.739823847	3503.7	5746.1	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	2	a
+7	Spectrogram 1	1	8.820590726	8.958261543	3503.7	5722.7	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	2	a
+8	Spectrogram 1	1	9.013329870	9.171192407	3457.0	5979.7	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	2	b
+9	Spectrogram 1	1	9.222589512	9.485081870	2919.8	5325.6	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	2	c
+10	Spectrogram 1	1	9.552999473	9.872395769	2405.9	5816.2	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	2	d
+11	Spectrogram 1	1	22.299456763	22.426113915	3597.1	5816.2	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	3	a
+12	Spectrogram 1	1	22.503209573	22.640880390	3503.7	5746.1	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	3	a
+13	Spectrogram 1	1	22.695948716	22.848304421	3573.8	6119.8	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	3	b
+14	Spectrogram 1	1	22.896030304	23.164029494	3036.5	5302.3	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	3	c
+15	Spectrogram 1	1	23.220933432	23.499946288	2803.0	5956.3	Emberiza_lathami-ML147562621.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Emberizidae\Emberizidae\Emberiza_lathami-ML147562621.wav	3	d

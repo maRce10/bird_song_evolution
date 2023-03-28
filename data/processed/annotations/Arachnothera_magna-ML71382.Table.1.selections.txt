@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	137.060497185	137.107209544	1966.8	5540.2	Arachnothera_magna-ML71382.wav	E:\Andean\Nectariniidae\Arachnothera_magna-ML71382.wav	1	a
+2	Spectrogram 1	1	137.130565723	137.172606846	2105.3	5761.8	Arachnothera_magna-ML71382.wav	E:\Andean\Nectariniidae\Arachnothera_magna-ML71382.wav	1	a
+3	Spectrogram 1	1	137.221654822	137.270702798	1966.8	5983.4	Arachnothera_magna-ML71382.wav	E:\Andean\Nectariniidae\Arachnothera_magna-ML71382.wav	1	a
+4	Spectrogram 1	1	137.667757845	137.707463350	1939.1	5401.7	Arachnothera_magna-ML71382.wav	E:\Andean\Nectariniidae\Arachnothera_magna-ML71382.wav	2	a
+5	Spectrogram 1	1	137.744833236	137.786874359	2049.9	5678.7	Arachnothera_magna-ML71382.wav	E:\Andean\Nectariniidae\Arachnothera_magna-ML71382.wav	2	a
+6	Spectrogram 1	1	137.819573010	137.868620986	2022.2	6011.1	Arachnothera_magna-ML71382.wav	E:\Andean\Nectariniidae\Arachnothera_magna-ML71382.wav	2	a
+7	Spectrogram 1	1	138.172251316	138.216628057	2243.8	5706.4	Arachnothera_magna-ML71382.wav	E:\Andean\Nectariniidae\Arachnothera_magna-ML71382.wav	3	a
+8	Spectrogram 1	1	138.249326707	138.298374684	2188.4	5983.4	Arachnothera_magna-ML71382.wav	E:\Andean\Nectariniidae\Arachnothera_magna-ML71382.wav	3	a
+9	Spectrogram 1	1	138.324066481	138.368443221	2188.4	5928.0	Arachnothera_magna-ML71382.wav	E:\Andean\Nectariniidae\Arachnothera_magna-ML71382.wav	3	a
+10	Spectrogram 1	1	138.408148726	138.450189849	2077.6	5983.4	Arachnothera_magna-ML71382.wav	E:\Andean\Nectariniidae\Arachnothera_magna-ML71382.wav	3	a

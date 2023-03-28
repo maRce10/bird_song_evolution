@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.567605784	2.588855018	763.9	2306.0	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	1	a
+2	Spectrogram 1	1	2.601354568	2.620103893	900.4	2525.6	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	1	b
+3	Spectrogram 1	1	2.632603443	2.651352768	856.5	2745.3	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	1	c
+4	Spectrogram 1	1	2.665102272	2.686351507	812.6	2855.1	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	1	d
+5	Spectrogram 1	1	2.697837880	2.719934171	812.6	2986.9	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	1	e
+6	Spectrogram 1	1	2.732308095	2.752636682	768.7	3052.7	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	1	f
+7	Spectrogram 1	1	2.956806412	3.089384159	834.6	3557.9	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	1	g
+8	Spectrogram 1	1	3.759344530	3.781440821	614.9	2262.1	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	2	a
+9	Spectrogram 1	1	3.792047041	3.813259480	878.5	2613.5	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	2	b
+10	Spectrogram 1	1	3.823865700	3.847729694	834.6	2833.1	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	2	c
+11	Spectrogram 1	1	3.855684359	3.878664502	856.5	2986.9	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	2	d
+12	Spectrogram 1	1	3.891038425	3.910483161	878.5	3052.7	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	2	e
+13	Spectrogram 1	1	3.926392491	3.946721079	878.5	3052.7	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	2	f
+14	Spectrogram 1	1	4.148239254	4.284352407	814.8	3539.2	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	2	g
+15	Spectrogram 1	1	5.054187975	5.076284266	763.9	2317.0	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	3	a
+16	Spectrogram 1	1	5.087774337	5.106335222	865.7	2622.6	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	3	b
+17	Spectrogram 1	1	5.122244552	5.141689288	865.7	2826.3	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	3	c
+18	Spectrogram 1	1	5.154063211	5.177043354	865.7	2851.7	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	3	d
+19	Spectrogram 1	1	5.184953061	5.208862013	865.7	2851.7	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	3	d
+20	Spectrogram 1	1	5.222119788	5.244216079	865.7	2979.0	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	3	e
+21	Spectrogram 1	1	5.261009260	5.282221700	865.7	2979.0	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	3	f
+22	Spectrogram 1	1	5.473133655	5.609246808	763.9	3488.3	Synallaxis_cherriei-ML73008221.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_cherriei-ML73008221.wav	3	g

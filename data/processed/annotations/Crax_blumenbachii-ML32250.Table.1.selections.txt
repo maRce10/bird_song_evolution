@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	54.422459402	54.778103980	49.550	251.879	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	1	a
+2	Spectrogram 1	1	55.206766331	55.458573076	33.033	276.654	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	1	b
+3	Spectrogram 1	1	55.720763604	55.923247378	37.162	251.879	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	1	b
+4	Spectrogram 1	1	56.123135207	56.348982493	35.300	264.266	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	1	b
+5	Spectrogram 1	1	93.966899746	94.281009191	37.162	301.429	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	2	a
+6	Spectrogram 1	1	94.706744306	94.955955104	41.292	276.654	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	2	b
+7	Spectrogram 1	1	95.176610499	95.405053732	33.033	239.491	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	2	b
+8	Spectrogram 1	1	95.566002373	95.799637497	49.550	264.266	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	2	b
+9	Spectrogram 1	1	107.085896679	107.392218286	45.421	206.458	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	3	a
+10	Spectrogram 1	1	107.872468263	108.072356092	45.421	231.233	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	3	b
+11	Spectrogram 1	1	108.378677699	108.562989852	61.937	251.879	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	3	b
+12	Spectrogram 1	1	108.757685789	108.975745238	61.937	251.879	Crax_blumenbachii-ML32250.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_blumenbachii-ML32250.wav	3	b

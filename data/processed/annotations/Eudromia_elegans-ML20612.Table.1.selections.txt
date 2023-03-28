@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.569384064	13.853447443	1274.2	1994.5	Eudromia_elegans-ML20612.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_elegans-ML20612.wav	1	a
+2	Spectrogram 1	1	13.969807876	14.177677871	1329.6	1939.1	Eudromia_elegans-ML20612.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_elegans-ML20612.wav	1	b
+3	Spectrogram 1	1	14.189355960	14.338835507	1329.6	1800.6	Eudromia_elegans-ML20612.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_elegans-ML20612.wav	1	c
+4	Spectrogram 1	1	38.061583519	38.347298429	1274.2	1939.1	Eudromia_elegans-ML20612.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_elegans-ML20612.wav	2	a
+5	Spectrogram 1	1	38.460428321	38.683385042	1301.9	1966.8	Eudromia_elegans-ML20612.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_elegans-ML20612.wav	2	b
+6	Spectrogram 1	1	38.691642699	38.845235107	1329.6	1800.6	Eudromia_elegans-ML20612.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_elegans-ML20612.wav	2	c
+7	Spectrogram 1	1	84.477850339	84.771822905	1163.4	1939.1	Eudromia_elegans-ML20612.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_elegans-ML20612.wav	3	a
+8	Spectrogram 1	1	84.879172438	85.083962315	1301.9	1994.5	Eudromia_elegans-ML20612.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_elegans-ML20612.wav	3	b
+9	Spectrogram 1	1	85.115341410	85.249115442	1385.1	1800.6	Eudromia_elegans-ML20612.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_elegans-ML20612.wav	3	c

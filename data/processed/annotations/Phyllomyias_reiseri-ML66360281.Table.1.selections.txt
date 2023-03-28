@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.890872918	2.153188386	1606.7	8919.7	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	1	a
+2	Spectrogram 1	1	2.245169134	2.451274145	1828.3	9750.8	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	1	b
+3	Spectrogram 1	1	2.522814727	2.705072877	2049.9	9529.1	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	1	b
+4	Spectrogram 1	1	2.785130195	2.969091692	1994.5	9750.8	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	1	b
+5	Spectrogram 1	1	3.069589176	3.229703813	2049.9	9695.4	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	1	c
+6	Spectrogram 1	1	3.328497950	3.466469073	1772.9	9473.7	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	1	d
+7	Spectrogram 1	1	5.806036503	6.051318499	1717.5	9584.5	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	2	a
+8	Spectrogram 1	1	6.141595900	6.318744009	1994.5	9750.8	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	2	b
+9	Spectrogram 1	1	6.407318063	6.582762824	2049.9	9695.4	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	2	b
+10	Spectrogram 1	1	6.679853614	6.860408416	2105.3	9806.2	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	2	c
+11	Spectrogram 1	1	7.010302969	7.165307564	2160.7	9584.5	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	2	d
+12	Spectrogram 1	1	11.610002202	11.875724364	1606.7	9529.1	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	3	a
+13	Spectrogram 1	1	11.971111807	12.184030207	1828.3	9639.9	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	3	b
+14	Spectrogram 1	1	12.267494219	12.461675799	2271.5	9972.4	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	3	b
+15	Spectrogram 1	1	12.546843159	12.713771184	2216.1	9750.8	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	3	c
+16	Spectrogram 1	1	12.809158627	12.967569916	1939.1	9917.0	Phyllomyias_reiseri-ML66360281.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_reiseri-ML66360281.wav	3	d

@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	43.100003031	43.329804459	944.400	2503.700	Cyanolyca_armillata-ML195573.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_armillata-ML195573.wav	1	a
+2	Spectrogram 1	1	43.460614502	43.708092963	900.400	2520.700	Cyanolyca_armillata-ML195573.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_armillata-ML195573.wav	1	a
+3	Spectrogram 1	1	43.914914278	44.158857332	944.400	2546.200	Cyanolyca_armillata-ML195573.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_armillata-ML195573.wav	1	a
+4	Spectrogram 1	1	44.386891057	44.650278847	1098.100	2648.000	Cyanolyca_armillata-ML195573.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_armillata-ML195573.wav	1	a
+5	Spectrogram 1	1	47.067832217	47.308239864	789.300	2342.500	Cyanolyca_armillata-ML195573.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_armillata-ML195573.wav	2	a
+6	Spectrogram 1	1	47.474403974	47.707740808	1094.900	2724.400	Cyanolyca_armillata-ML195573.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_armillata-ML195573.wav	2	a
+7	Spectrogram 1	1	47.948148456	48.181485290	1018.500	2571.700	Cyanolyca_armillata-ML195573.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_armillata-ML195573.wav	2	a
+8	Spectrogram 1	1	48.556238388	48.764827376	789.300	2520.700	Cyanolyca_armillata-ML195573.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_armillata-ML195573.wav	2	a
+9	Spectrogram 1	1	52.007363460	52.261912734	840.200	2571.700	Cyanolyca_armillata-ML195573.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_armillata-ML195573.wav	3	a
+10	Spectrogram 1	1	52.509391195	52.742728029	916.600	2546.200	Cyanolyca_armillata-ML195573.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_armillata-ML195573.wav	3	a

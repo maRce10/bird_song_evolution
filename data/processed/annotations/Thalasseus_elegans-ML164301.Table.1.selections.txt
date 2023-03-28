@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	451.654503734	451.693393207	1164.0	4765.8	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	1	a
+2	Spectrogram 1	1	451.705767130	451.732282679	1251.8	4260.7	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	1	b
+3	Spectrogram 1	1	451.753495119	451.780010668	1098.1	3382.2	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	1	c
+4	Spectrogram 1	1	451.797687701	451.893143679	966.3	3865.3	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	1	d
+5	Spectrogram 1	1	452.651488390	452.692145566	988.3	4304.6	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	2	a
+6	Spectrogram 1	1	452.704519489	452.734570445	900.4	3931.2	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	2	b
+7	Spectrogram 1	1	452.750479775	452.780530731	1032.2	3601.8	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	2	c
+8	Spectrogram 1	1	452.794672357	452.893663741	900.4	3865.3	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	2	d
+9	Spectrogram 1	1	476.662189954	476.695776316	1054.2	4238.7	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	3	a
+10	Spectrogram 1	1	476.709917943	476.743504305	1054.2	3931.2	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	3	b
+11	Spectrogram 1	1	476.762949041	476.791232294	1076.1	3338.2	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	3	c
+12	Spectrogram 1	1	476.803606217	476.911436118	988.3	3843.4	Thalasseus_elegans-ML164301.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_elegans-ML164301.wav	3	d

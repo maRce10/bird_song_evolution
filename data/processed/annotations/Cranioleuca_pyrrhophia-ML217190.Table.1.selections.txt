@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	321.926792641	322.018713212	3228.4	7291.4	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	1	a
+2	Spectrogram 1	1	322.117704596	322.202554354	2964.9	7181.6	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	1	a
+3	Spectrogram 1	1	322.298010332	322.404072530	2986.9	8675.0	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	1	b
+4	Spectrogram 1	1	322.488922288	322.591449078	2877.0	6852.2	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	1	a
+5	Spectrogram 1	1	322.665692617	322.768219408	2481.7	8389.5	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	1	b
+6	Spectrogram 1	1	322.835392133	322.923777297	2481.7	6676.5	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	1	a
+7	Spectrogram 1	1	322.973272989	323.047516528	2481.7	8301.7	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	1	b
+8	Spectrogram 1	1	323.089941406	323.160649538	2152.3	6610.6	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	1	c
+9	Spectrogram 1	1	323.199539011	323.266711736	2415.8	6412.9	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	1	c
+10	Spectrogram 1	1	332.414644594	332.506565165	3096.7	7357.3	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	2	a
+11	Spectrogram 1	1	332.612627362	332.704547933	2899.0	7269.5	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	2	a
+12	Spectrogram 1	1	332.828287164	332.948490988	2877.0	6940.0	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	2	d
+13	Spectrogram 1	1	333.058088592	333.167686196	3030.8	6808.3	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	2	d
+14	Spectrogram 1	1	333.263142173	333.362133558	2855.1	6764.3	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	2	d
+15	Spectrogram 1	1	333.415164656	333.500014414	2613.5	6720.4	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	2	e
+16	Spectrogram 1	1	333.556580920	333.641430678	2437.8	6742.4	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	2	e
+17	Spectrogram 1	1	343.462660587	343.575793597	3513.9	7027.9	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	3	d
+18	Spectrogram 1	1	343.703068234	343.819736651	2921.0	8543.3	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	3	b
+19	Spectrogram 1	1	343.932869662	344.060144299	2701.3	6918.1	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	3	d
+20	Spectrogram 1	1	344.152064870	344.265197881	2811.2	8455.4	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	3	b
+21	Spectrogram 1	1	344.346512232	344.449039023	2767.2	6742.4	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	3	a
+22	Spectrogram 1	1	344.519747155	344.615203132	2635.5	6588.6	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	3	a
+23	Spectrogram 1	1	344.678840451	344.760154802	3030.8	6500.8	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	3	e
+24	Spectrogram 1	1	344.795508868	344.848539967	2503.7	6215.3	Cranioleuca_pyrrhophia-ML217190.wav	E:\Escritorio\Cantos\Furnariidae\Cranioleuca_pyrrhophia-ML217190.wav	3	c

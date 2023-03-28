@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.642734208	8.830110757	4436.4	5380.7	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	1	a
+2	Spectrogram 1	1	8.992739459	9.514211930	4085.0	4897.6	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	1	b
+3	Spectrogram 1	1	9.561939919	10.014471962	3777.5	4568.1	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	1	c
+4	Spectrogram 1	1	10.113463346	10.619026487	3711.6	4392.4	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	1	d
+5	Spectrogram 1	1	10.650845146	11.011456618	3645.7	4150.8	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	1	e
+6	Spectrogram 1	1	15.740062346	15.973399181	4238.7	5358.8	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	2	a
+7	Spectrogram 1	1	16.114815444	16.556741267	4041.0	4941.5	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	2	b
+8	Spectrogram 1	1	16.659268058	17.133012540	3843.4	4677.9	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	2	c
+9	Spectrogram 1	1	17.207256078	17.673929747	3689.6	4414.4	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	2	d
+10	Spectrogram 1	1	17.741102472	18.144138822	3579.8	4238.7	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	2	e
+11	Spectrogram 1	1	21.291548083	21.517814105	4172.8	5205.0	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	3	a
+12	Spectrogram 1	1	21.701655247	22.224895421	3975.1	4821.8	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	3	b
+13	Spectrogram 1	1	22.330957618	22.871874826	3865.3	4568.1	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	3	c
+14	Spectrogram 1	1	22.917835111	23.356225527	3689.6	4216.7	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	3	d
+15	Spectrogram 1	1	23.384508780	23.709766186	3645.7	4172.8	Sclerurus_obscurior-ML26014401.wav	E:\Escritorio\Cantos\Furnariidae\Sclerurus_obscurior-ML26014401.wav	3	e

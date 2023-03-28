@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.662635116	19.026991512	2769.3	5277.4	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	1	a
+2	Spectrogram 1	1	19.127423083	19.321279370	1672.0	5564.8	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	1	b
+3	Spectrogram 1	1	19.367991729	19.489443861	1567.5	5434.1	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	1	c
+4	Spectrogram 1	1	19.517900483	19.595522453	1672.0	4937.7	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	1	d
+6	Spectrogram 1	1	19.605432259	19.774714214	1985.5	4075.6	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	1	e
+7	Spectrogram 1	1	36.538180015	36.888522703	2664.8	5120.6	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	2	a
+8	Spectrogram 1	1	36.974940566	37.155950955	1750.4	5512.5	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	2	b
+9	Spectrogram 1	1	37.206166740	37.332290108	1802.7	5538.6	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	2	f
+10	Spectrogram 1	1	37.357981905	37.444399768	1854.9	5094.5	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	2	d
+11	Spectrogram 1	1	37.459581285	37.503958025	2194.5	3997.2	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	2	g
+12	Spectrogram 1	1	37.509797070	37.642927292	2011.7	3396.3	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	2	h
+13	Spectrogram 1	1	48.407401340	48.744898130	2664.8	5120.6	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	3	a
+14	Spectrogram 1	1	48.835987229	49.011158573	1619.8	5434.1	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	3	b
+15	Spectrogram 1	1	49.055535313	49.173484018	1750.4	5538.6	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	3	f
+16	Spectrogram 1	1	49.201511433	49.282090252	1881.0	5094.5	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	3	d
+17	Spectrogram 1	1	49.291432723	49.470107494	1907.2	3788.2	Colonia_colonus-ML126668.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Colonia_colonus-ML126668.wav	3	e

@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.965075382	5.100541221	4023.3	4807.1	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	1	a
+2	Spectrogram 1	1	5.280383801	5.422856494	3997.2	4807.1	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	1	a
+3	Spectrogram 1	1	5.481246942	5.637733343	3892.7	5042.2	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	1	b
+4	Spectrogram 1	1	5.689116937	5.845603338	3918.8	5277.4	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	1	c
+5	Spectrogram 1	1	10.453558551	10.598366862	3840.5	4911.6	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	2	a
+6	Spectrogram 1	1	10.666099782	10.803901239	3945.0	5016.1	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	2	b
+7	Spectrogram 1	1	10.880976630	11.007099998	3971.1	5120.6	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	2	b
+8	Spectrogram 1	1	12.642057860	12.786866171	4154.0	4781.0	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	3	a
+9	Spectrogram 1	1	12.852263473	12.997071784	4127.8	4990.0	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	3	d
+10	Spectrogram 1	1	13.071811557	13.211948633	4127.8	5329.6	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	3	e
+11	Spectrogram 1	1	13.249318519	13.384784359	4049.5	5016.1	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	3	f
+12	Spectrogram 1	1	13.431496717	13.609003679	3945.0	5199.0	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	3	c
+13	Spectrogram 1	1	13.651044802	13.809866821	3945.0	5225.1	Sinosuthora_zappeyi-ML175640.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_zappeyi-ML175640.wav	3	c

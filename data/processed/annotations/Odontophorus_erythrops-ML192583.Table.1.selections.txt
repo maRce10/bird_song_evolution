@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.238027570	18.462635823	861.9	1469.1	Odontophorus_erythrops-ML192583.wav	E:\Andean\Odontophoridae\Odontophorus_erythrops-ML192583.wav	1	a
+2	Spectrogram 1	1	18.660819575	18.928367641	822.7	1547.4	Odontophorus_erythrops-ML192583.wav	E:\Andean\Odontophoridae\Odontophorus_erythrops-ML192583.wav	2	a
+3	Spectrogram 1	1	19.116642206	19.374281084	842.3	1449.5	Odontophorus_erythrops-ML192583.wav	E:\Andean\Odontophoridae\Odontophorus_erythrops-ML192583.wav	3	a

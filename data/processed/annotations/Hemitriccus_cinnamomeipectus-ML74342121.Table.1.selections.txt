@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	50.936355144	50.950393159	1662.1	4432.2	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	1	a
+2	Spectrogram 1	1	50.959476581	50.989204144	1052.6	4515.3	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	1	b
+3	Spectrogram 1	1	51.001590629	51.032969723	1080.3	4626.1	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	1	c
+4	Spectrogram 1	1	51.041227379	51.072606473	1080.3	4543.0	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	1	d
+5	Spectrogram 1	1	51.082515661	51.111417458	1108.0	4210.6	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	1	e
+6	Spectrogram 1	1	51.122152412	51.151054209	997.2	3324.1	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	1	f
+7	Spectrogram 1	1	51.173349881	51.197297084	747.9	3047.1	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	1	g
+9	Spectrogram 1	1	55.792990395	55.808679942	1772.9	4792.3	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	2	h
+10	Spectrogram 1	1	55.816111832	55.847903809	1080.3	4709.2	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	2	c
+11	Spectrogram 1	1	55.859051645	55.887953443	1052.6	4709.2	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	2	c
+12	Spectrogram 1	1	55.898688396	55.929241724	1052.6	4709.2	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	2	c
+13	Spectrogram 1	1	55.939150912	55.973833069	1024.9	2936.3	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	2	i
+14	Spectrogram 1	1	55.979613428	56.006863694	1108.0	4266.0	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	2	e
+15	Spectrogram 1	1	56.020901710	56.047326210	1108.0	3213.3	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	2	j
+16	Spectrogram 1	1	56.070447648	56.082834133	1218.8	4986.2	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	2	k
+19	Spectrogram 1	1	62.421542368	62.433103087	969.5	1634.4	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	3	l
+20	Spectrogram 1	1	62.460353353	62.484300556	1052.6	3434.9	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	3	m
+21	Spectrogram 1	1	62.493383978	62.524763072	1052.6	4404.5	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	3	n
+22	Spectrogram 1	1	62.534672260	62.562748292	1108.0	3684.2	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	3	o
+23	Spectrogram 1	1	62.573070581	62.601559276	1052.6	3739.6	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	3	o
+24	Spectrogram 1	1	62.614771527	62.639544496	969.5	3988.9	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	3	p
+25	Spectrogram 1	1	62.654408277	62.684961606	1080.3	3157.9	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	3	j
+26	Spectrogram 1	1	62.697348090	62.727901419	969.5	2520.8	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	3	q
+27	Spectrogram 1	1	62.747719794	62.763409341	1108.0	1883.7	Hemitriccus_cinnamomeipectus-ML74342121.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cinnamomeipectus-ML74342121.wav	3	r

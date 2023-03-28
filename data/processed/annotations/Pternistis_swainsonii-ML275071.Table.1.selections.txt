@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.756942925	5.166522680	969.5	1883.7	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	1	a
+2	Spectrogram 1	1	5.397737058	5.764377000	1052.6	1800.6	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	1	a
+3	Spectrogram 1	1	5.988985253	6.362231320	1135.7	1939.1	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	1	a
+4	Spectrogram 1	1	6.570324260	6.913842765	1191.1	1856.0	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	1	a
+5	Spectrogram 1	1	7.115329580	7.432423584	1024.9	1883.7	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	1	a
+6	Spectrogram 1	1	7.637213461	7.944398278	886.4	1883.7	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	1	a
+7	Spectrogram 1	1	14.153368657	14.486977973	747.9	2022.2	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	2	a
+8	Spectrogram 1	1	14.724798476	15.098044544	831.0	1911.4	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	2	a
+9	Spectrogram 1	1	15.329258921	15.709111114	969.5	1994.5	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	2	a
+10	Spectrogram 1	1	15.917204054	16.273934808	997.2	1966.8	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	2	a
+11	Spectrogram 1	1	16.478724686	16.795818690	858.7	1994.5	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	2	a
+12	Spectrogram 1	1	17.000608568	17.301187259	914.1	1994.5	Pternistis_swainsonii-ML275071.wav	D:\Andean\Phasianidae\Pternistis_swainsonii-ML275071.wav	2	a

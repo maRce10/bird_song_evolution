@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.231992447	2.332650930	803.3	2936.3	Alophoixus_flaveolus-ML148807651.wav	D:\Andean\Pycnonotidae\Alophoixus_flaveolus-ML148807651.wav	1	a
+2	Spectrogram 1	1	2.691520304	2.779049419	1163.4	2991.7	Alophoixus_flaveolus-ML148807651.wav	D:\Andean\Pycnonotidae\Alophoixus_flaveolus-ML148807651.wav	2	a
+3	Spectrogram 1	1	3.019754487	3.137918793	914.1	2991.7	Alophoixus_flaveolus-ML148807651.wav	D:\Andean\Pycnonotidae\Alophoixus_flaveolus-ML148807651.wav	3	a

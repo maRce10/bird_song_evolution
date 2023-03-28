@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.931746503	22.095115873	104.500	1191.261	Penelope_ortoni-ML168703.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_ortoni-ML168703.wav	1	a
+2	Spectrogram 1	1	23.916317933	24.068673638	78.400	1167.903	Penelope_ortoni-ML168703.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_ortoni-ML168703.wav	2	a
+3	Spectrogram 1	1	26.945604366	27.125494234	116.790	1097.828	Penelope_ortoni-ML168703.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_ortoni-ML168703.wav	3	a

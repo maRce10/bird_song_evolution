@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.409646636	5.456003465	1606.7	2160.7	Crypturellus_soui-ML55135.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_soui-ML55135.wav	1	a
+2	Spectrogram 1	1	8.819293273	9.790910328	1856.0	2299.2	Crypturellus_soui-ML55135.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_soui-ML55135.wav	1	b
+3	Spectrogram 1	1	13.453159230	14.424776285	1717.5	2160.7	Crypturellus_soui-ML55135.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_soui-ML55135.wav	2	c
+4	Spectrogram 1	1	18.460724054	19.432341110	1856.0	2271.5	Crypturellus_soui-ML55135.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_soui-ML55135.wav	2	b
+5	Spectrogram 1	1	24.514645708	25.561002537	1717.5	2160.7	Crypturellus_soui-ML55135.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_soui-ML55135.wav	3	c
+6	Spectrogram 1	1	27.803195742	28.849552571	1856.0	2326.9	Crypturellus_soui-ML55135.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_soui-ML55135.wav	3	b

@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	163.139993101	163.156508414	1108.4	5763.8	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	1	a
+2	Spectrogram 1	1	163.809305282	163.830325843	997.6	6835.2	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	1	a
+3	Spectrogram 1	1	164.492473524	164.513494085	1219.3	6059.3	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	1	a
+4	Spectrogram 1	1	164.715529054	164.794940063	997.6	3583.9	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	1	b
+5	Spectrogram 1	1	165.188491683	165.242210895	997.6	6096.3	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	1	c
+6	Spectrogram 1	1	165.611222641	165.669613089	1440.9	4027.2	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	1	d
+7	Spectrogram 1	1	165.933540175	165.994266241	886.7	5874.6	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	1	c
+8	Spectrogram 1	1	166.156591686	166.203304045	812.8	4175.0	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	1	e
+9	Spectrogram 1	1	166.511976796	166.550514492	812.8	3546.9	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	1	f
+10	Spectrogram 1	1	218.936295537	218.958483907	1293.2	5763.8	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	2	a
+11	Spectrogram 1	1	219.147668959	219.169857329	1256.2	3620.8	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	2	g
+12	Spectrogram 1	1	219.739748102	219.768943326	702.0	4987.9	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	2	a
+13	Spectrogram 1	1	219.926597536	220.002505118	775.9	3620.8	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	2	b
+14	Spectrogram 1	1	220.483163326	220.543889392	775.9	5800.7	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	2	c
+15	Spectrogram 1	1	220.907077979	220.930434158	1404.0	5357.3	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	2	h
+16	Spectrogram 1	1	221.207204882	221.224722016	849.8	4248.9	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	2	i
+17	Spectrogram 1	1	221.264427521	221.298293981	812.8	3916.4	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	2	j
+18	Spectrogram 1	1	221.554814771	221.593352467	738.9	3990.3	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	2	e
+20	Spectrogram 1	1	263.464489596	263.484307972	1256.2	5763.8	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	3	a
+21	Spectrogram 1	1	264.110238323	264.130056699	1219.3	4987.9	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	3	a
+22	Spectrogram 1	1	264.356316483	264.438893046	1034.5	3436.1	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	3	b
+23	Spectrogram 1	1	264.906274880	264.944260100	738.9	2992.7	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	3	k
+24	Spectrogram 1	1	265.104458633	265.177126009	738.9	3546.9	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	3	b
+25	Spectrogram 1	1	265.367052105	265.396779668	1440.9	3583.9	Pseudocolopteryx_flaviventris-ML217744.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudocolopteryx_flaviventris-ML217744.wav	3	l

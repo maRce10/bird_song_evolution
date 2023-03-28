@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	49.431116469	49.543420595	4016.6	5318.6	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	1	a
+2	Spectrogram 1	1	49.589663471	49.728392097	3490.3	4543.0	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	1	b
+3	Spectrogram 1	1	49.768028848	49.886939099	3545.7	4875.4	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	1	c
+4	Spectrogram 1	1	49.946394225	50.078516727	3379.5	5013.9	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	1	d
+5	Spectrogram 1	1	50.137971852	50.256882104	4958.5	5457.1	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	1	e
+6	Spectrogram 1	1	54.478196032	54.597106284	4072.0	5346.3	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	2	a
+7	Spectrogram 1	1	54.649955284	54.795290036	3601.1	4543.0	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	2	b
+8	Spectrogram 1	1	54.834926787	54.927412538	3490.3	4820.0	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	2	c
+9	Spectrogram 1	1	55.000079914	55.132202415	3379.5	5041.6	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	2	d
+10	Spectrogram 1	1	55.191657541	55.317173918	4903.1	5401.7	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	2	e
+11	Spectrogram 1	1	58.812803398	58.918501400	3988.9	5318.6	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	3	a
+12	Spectrogram 1	1	58.951532025	59.096866777	3490.3	4515.3	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	3	b
+13	Spectrogram 1	1	59.136503527	59.255413779	3545.7	4764.6	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	3	c
+14	Spectrogram 1	1	59.321475030	59.453597531	3434.9	4736.9	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	3	d
+15	Spectrogram 1	1	59.506446532	59.651781284	4986.2	5346.3	Culicicapa_ceylonensis-ML70500.wav	D:\Andean\Stenostiridae\Culicicapa_ceylonensis-ML70500.wav	3	e

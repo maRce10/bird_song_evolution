@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.598544239	5.872979345	1463.0	3239.6	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	1	a
+2	Spectrogram 1	1	5.922027321	6.204637089	1515.3	2847.7	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	1	b
+3	Spectrogram 1	1	6.296893997	6.378640625	1985.5	2769.3	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	1	c
+4	Spectrogram 1	1	6.468561915	6.706794943	1306.3	2926.1	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	1	d
+5	Spectrogram 1	1	8.262576155	8.584891428	1645.9	2717.1	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	2	e
+6	Spectrogram 1	1	8.625764742	8.793929232	1593.7	3187.3	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	2	f
+7	Spectrogram 1	1	8.963261531	9.278569951	2873.8	4180.1	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	2	g
+8	Spectrogram 1	1	10.233132926	10.334732305	1776.5	2952.2	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	3	h
+9	Spectrogram 1	1	10.340571350	10.556616008	1802.7	3082.8	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	3	i
+10	Spectrogram 1	1	10.610335220	10.813533979	1854.9	2926.1	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	3	j
+11	Spectrogram 1	1	10.877763472	10.954838863	1645.9	3736.0	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	3	k
+12	Spectrogram 1	1	11.005054649	11.160373240	2037.8	3082.8	Turdus_viscivorus-ML14141.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_viscivorus-ML14141.wav	3	l

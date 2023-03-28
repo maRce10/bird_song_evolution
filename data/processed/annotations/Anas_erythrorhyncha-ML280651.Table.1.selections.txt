@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.318881181	2.471065668	321.4	4128.2	Anas_erythrorhyncha-ML280651.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_erythrorhyncha-ML280651.wav	1	a
+2	Spectrogram 1	1	2.591122318	2.812635293	222.5	4029.3	Anas_erythrorhyncha-ML280651.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_erythrorhyncha-ML280651.wav	2	a
+3	Spectrogram 1	1	2.969892596	3.159277735	247.2	3930.4	Anas_erythrorhyncha-ML280651.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_erythrorhyncha-ML280651.wav	3	a

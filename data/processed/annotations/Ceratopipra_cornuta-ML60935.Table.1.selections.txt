@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	163.677928653	163.851346114	979.400	4583.500	Ceratopipra_cornuta-ML60935.wav	C:\Users\pfmar\Downloads\Pipridae\Ceratopipra_cornuta-ML60935.wav	1	a
+2	Spectrogram 1	1	164.027479626	164.143452553	5097.000	5623.300	Ceratopipra_cornuta-ML60935.wav	C:\Users\pfmar\Downloads\Pipridae\Ceratopipra_cornuta-ML60935.wav	1	b
+3	Spectrogram 1	1	164.144536412	164.316870013	1468.200	2880.900	Ceratopipra_cornuta-ML60935.wav	C:\Users\pfmar\Downloads\Pipridae\Ceratopipra_cornuta-ML60935.wav	1	c
+4	Spectrogram 1	1	167.346272088	167.525108845	914.100	4238.300	Ceratopipra_cornuta-ML60935.wav	C:\Users\pfmar\Downloads\Pipridae\Ceratopipra_cornuta-ML60935.wav	2	a
+6	Spectrogram 1	1	167.727790502	167.826421683	5374.000	6066.500	Ceratopipra_cornuta-ML60935.wav	C:\Users\pfmar\Downloads\Pipridae\Ceratopipra_cornuta-ML60935.wav	2	b
+7	Spectrogram 1	1	167.821002387	167.951065483	1911.400	3241.000	Ceratopipra_cornuta-ML60935.wav	C:\Users\pfmar\Downloads\Pipridae\Ceratopipra_cornuta-ML60935.wav	2	c
+8	Spectrogram 1	1	168.149411818	168.296816660	1883.700	3213.300	Ceratopipra_cornuta-ML60935.wav	C:\Users\pfmar\Downloads\Pipridae\Ceratopipra_cornuta-ML60935.wav	2	c
+9	Spectrogram 1	1	184.930935826	185.102610354	1246.500	4099.700	Ceratopipra_cornuta-ML60935.wav	C:\Users\pfmar\Downloads\Pipridae\Ceratopipra_cornuta-ML60935.wav	3	a
+10	Spectrogram 1	1	185.318736321	185.430631326	5429.400	6038.800	Ceratopipra_cornuta-ML60935.wav	C:\Users\pfmar\Downloads\Pipridae\Ceratopipra_cornuta-ML60935.wav	3	b
+11	Spectrogram 1	1	185.427565709	185.586977771	1911.400	3157.900	Ceratopipra_cornuta-ML60935.wav	C:\Users\pfmar\Downloads\Pipridae\Ceratopipra_cornuta-ML60935.wav	3	c

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.208771543	5.766838973	3090.0	3658.5	Malacoptila_semicincta-ML24334.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_semicincta-ML24334.wav	1	a
+2	Spectrogram 1	1	7.827167892	8.456101028	3337.2	4227.1	Malacoptila_semicincta-ML24334.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_semicincta-ML24334.wav	2	a
+3	Spectrogram 1	1	9.667162873	10.195112379	3065.2	3757.4	Malacoptila_semicincta-ML24334.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_semicincta-ML24334.wav	3	a

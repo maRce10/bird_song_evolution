@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.125336313	2.265684228	519.1	3090.0	Branta_hutchinsii-ML52166491.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_hutchinsii-ML52166491.wav	1	a
+2	Spectrogram 1	1	4.499497537	4.638154514	692.2	3139.4	Branta_hutchinsii-ML52166491.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_hutchinsii-ML52166491.wav	2	a
+3	Spectrogram 1	1	8.425162554	8.553673898	568.6	3090.0	Branta_hutchinsii-ML52166491.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_hutchinsii-ML52166491.wav	3	a

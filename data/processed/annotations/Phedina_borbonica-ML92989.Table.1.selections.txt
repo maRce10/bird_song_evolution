@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.130239562	7.222034240	3270.8	9192.2	Phedina_borbonica-ML92989.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Phedina_borbonica-ML92989.wav	1	a
+2	Spectrogram 1	1	7.231869384	7.389231690	3101.7	9135.8	Phedina_borbonica-ML92989.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Phedina_borbonica-ML92989.wav	1	a
+3	Spectrogram 1	1	11.338107313	11.439737136	3214.5	8741.0	Phedina_borbonica-ML92989.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Phedina_borbonica-ML92989.wav	2	a
+4	Spectrogram 1	1	11.452850661	11.574150772	2255.8	8910.2	Phedina_borbonica-ML92989.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Phedina_borbonica-ML92989.wav	2	a
+5	Spectrogram 1	1	38.602322519	38.939995801	1635.4	6203.3	Phedina_borbonica-ML92989.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Phedina_borbonica-ML92989.wav	3	b
+6	Spectrogram 1	1	39.356350235	39.710415423	2706.9	6710.9	Phedina_borbonica-ML92989.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Phedina_borbonica-ML92989.wav	3	b

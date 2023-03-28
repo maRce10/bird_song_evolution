@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	236.494381409	236.526270976	3213.6	7069.8	Chaetura_meridionalis-ML39086.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Chaetura_meridionalis-ML39086.wav	1	a
+2	Spectrogram 1	1	236.565247114	236.590050111	2991.1	5957.5	Chaetura_meridionalis-ML39086.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Chaetura_meridionalis-ML39086.wav	1	b
+3	Spectrogram 1	1	236.815048726	236.850481579	3361.9	7391.2	Chaetura_meridionalis-ML39086.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Chaetura_meridionalis-ML39086.wav		a
+4	Spectrogram 1	1	236.852253221	236.880599503	2249.5	5957.5	Chaetura_meridionalis-ML39086.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Chaetura_meridionalis-ML39086.wav	2	b
+5	Spectrogram 1	1	237.061002967	237.089349249	2694.5	5957.5	Chaetura_meridionalis-ML39086.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Chaetura_meridionalis-ML39086.wav	3	b
+6	Spectrogram 1	1	237.107065675	237.149585098	2892.2	7292.3	Chaetura_meridionalis-ML39086.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Chaetura_meridionalis-ML39086.wav	3	a

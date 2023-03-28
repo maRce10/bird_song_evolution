@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.192934467	1.328769673	770.8	7941.7	Dryoscopus_pringlii-ML33655601.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Dryoscopus_pringlii-ML33655601.wav	1	a
+2	Spectrogram 1	1	1.593097642	1.727097237	817.5	7941.7	Dryoscopus_pringlii-ML33655601.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Dryoscopus_pringlii-ML33655601.wav	1	a
+3	Spectrogram 1	1	8.218306737	8.346799499	934.3	7801.6	Dryoscopus_pringlii-ML33655601.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Dryoscopus_pringlii-ML33655601.wav	2	a
+4	Spectrogram 1	1	8.587264526	8.717592900	794.2	7708.2	Dryoscopus_pringlii-ML33655601.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Dryoscopus_pringlii-ML33655601.wav	2	a
+5	Spectrogram 1	1	13.377842827	13.528362920	981.0	8128.6	Dryoscopus_pringlii-ML33655601.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Dryoscopus_pringlii-ML33655601.wav	3	a
+6	Spectrogram 1	1	13.746800617	13.878964601	981.0	7754.9	Dryoscopus_pringlii-ML33655601.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Dryoscopus_pringlii-ML33655601.wav	3	a

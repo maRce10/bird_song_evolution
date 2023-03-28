@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.451383516	11.927024522	1274.2	2825.5	Numenius_americanus-ML260121361.wav	D:\Andean\Scolopacidae\Numenius_americanus-ML260121361.wav	1	a
+2	Spectrogram 1	1	12.191269525	12.620667655	1329.6	2880.9	Numenius_americanus-ML260121361.wav	D:\Andean\Scolopacidae\Numenius_americanus-ML260121361.wav	1	a
+3	Spectrogram 1	1	14.126864174	14.589292930	831.0	2880.9	Numenius_americanus-ML260121361.wav	D:\Andean\Scolopacidae\Numenius_americanus-ML260121361.wav	2	a
+4	Spectrogram 1	1	14.886568559	15.249905439	1163.4	2880.9	Numenius_americanus-ML260121361.wav	D:\Andean\Scolopacidae\Numenius_americanus-ML260121361.wav	2	a
+5	Spectrogram 1	1	17.611768944	18.107228325	1108.0	2908.6	Numenius_americanus-ML260121361.wav	D:\Andean\Scolopacidae\Numenius_americanus-ML260121361.wav	3	b
+6	Spectrogram 1	1	18.457352955	18.866932710	1357.3	2880.9	Numenius_americanus-ML260121361.wav	D:\Andean\Scolopacidae\Numenius_americanus-ML260121361.wav	3	a

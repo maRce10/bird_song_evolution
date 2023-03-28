@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.767674656	9.846948157	1966.8	6094.2	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+2	Spectrogram 1	1	9.998889034	10.078162535	2049.9	6038.8	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+3	Spectrogram 1	1	10.233406474	10.322589163	2022.2	6177.3	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+4	Spectrogram 1	1	10.481136165	10.570318854	1800.6	6315.8	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+5	Spectrogram 1	1	10.732168918	10.811442419	1911.4	6066.5	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+6	Spectrogram 1	1	10.976595546	11.055869047	2188.4	6232.7	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+7	Spectrogram 1	1	11.224325237	11.310204863	2133.0	6454.3	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+8	Spectrogram 1	1	11.498479428	11.587662116	2049.9	6509.7	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+9	Spectrogram 1	1	11.762724431	11.841997932	2105.3	6565.1	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+10	Spectrogram 1	1	12.036878622	12.122758248	1911.4	6482.0	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+11	Spectrogram 1	1	12.304426688	12.383700189	1966.8	6454.3	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	1	a
+12	Spectrogram 1	1	17.906215168	17.992094794	1856.0	6592.8	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	2	a
+13	Spectrogram 1	1	18.144035671	18.229915297	1911.4	6537.4	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	2	a
+14	Spectrogram 1	1	18.381856174	18.467735800	1800.6	6426.6	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	2	a
+15	Spectrogram 1	1	18.606464427	18.692344053	1994.5	6011.1	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	2	a
+16	Spectrogram 1	1	18.883921680	18.973104369	1883.7	6343.5	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	2	a
+17	Spectrogram 1	1	21.972608996	22.051882497	1828.3	6094.2	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	3	a
+18	Spectrogram 1	1	22.210429499	22.289703000	1994.5	6011.1	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	3	a
+19	Spectrogram 1	1	22.425128564	22.507705127	1966.8	5872.6	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	3	a
+20	Spectrogram 1	1	22.649736817	22.735616443	2160.7	6011.1	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	3	a
+21	Spectrogram 1	1	22.913981820	22.976740008	2105.3	5872.6	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	3	a
+22	Spectrogram 1	1	23.174923761	23.247591137	1856.0	5955.7	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	3	a
+23	Spectrogram 1	1	23.439168764	23.528351453	1800.6	5928.0	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	3	a
+24	Spectrogram 1	1	23.693504580	23.766171956	1772.9	5817.2	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	3	a
+25	Spectrogram 1	1	23.954446521	24.033720022	1939.1	5706.4	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	3	a
+26	Spectrogram 1	1	24.208782336	24.291358900	1717.5	5540.2	Kurochkinegramma_hypogrammicum-ML177980.wav	E:\Andean\Nectariniidae\Kurochkinegramma_hypogrammicum-ML177980.wav	3	a

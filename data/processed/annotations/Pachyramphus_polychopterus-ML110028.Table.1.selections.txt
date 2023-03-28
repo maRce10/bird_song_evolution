@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.989986046	9.128714673	1856.0	4155.2	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	1	a
+2	Spectrogram 1	1	9.254231049	9.412778051	1883.7	3739.6	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	1	b
+3	Spectrogram 1	1	9.485445427	9.630780179	1856.0	3739.6	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	1	b
+4	Spectrogram 1	1	9.703447555	9.848782307	1883.7	3711.9	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	1	b
+5	Spectrogram 1	1	9.888419057	10.007329309	1966.8	3434.9	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	1	c
+6	Spectrogram 1	1	10.027147684	10.146057936	1883.7	3213.3	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	1	d
+7	Spectrogram 1	1	10.165876311	10.251755937	1883.7	2770.1	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	1	e
+8	Spectrogram 1	1	10.291392688	10.449939690	1828.3	2964.0	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	1	f
+9	Spectrogram 1	1	45.341146915	45.479875542	1856.0	4099.7	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	2	a
+10	Spectrogram 1	1	45.559149043	45.724302170	1911.4	3795.0	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	2	b
+11	Spectrogram 1	1	45.810181796	45.962122673	1856.0	3795.0	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	2	b
+12	Spectrogram 1	1	46.048002299	46.186730926	1939.1	3767.3	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	2	b
+13	Spectrogram 1	1	46.226367677	46.365096303	1966.8	3324.1	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	2	g
+14	Spectrogram 1	1	46.391520804	46.497218805	1883.7	3102.5	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	2	h
+15	Spectrogram 1	1	46.530249430	46.629341307	1883.7	2880.9	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	2	i
+16	Spectrogram 1	1	46.675584182	46.827525059	1939.1	2825.5	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	2	i
+19	Spectrogram 1	1	65.647172833	65.789204523	1828.3	4072.0	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	3	a
+20	Spectrogram 1	1	65.888296399	66.033631151	1911.4	3739.6	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	3	b
+21	Spectrogram 1	1	66.132723027	66.274754716	1883.7	3684.2	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	3	b
+22	Spectrogram 1	1	66.354028217	66.489453781	1966.8	3573.4	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	3	j
+23	Spectrogram 1	1	66.527327342	66.648000783	1828.3	3324.1	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	3	g
+24	Spectrogram 1	1	66.681031409	66.786729410	1883.7	2991.7	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	3	k
+25	Spectrogram 1	1	66.803244723	66.899033537	1856.0	2880.9	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	3	i
+26	Spectrogram 1	1	66.935367225	67.024549913	1883.7	2936.3	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	3	l
+27	Spectrogram 1	1	67.070792789	67.229339791	1883.7	2908.6	Pachyramphus_polychopterus-ML110028.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_polychopterus-ML110028.wav	3	m

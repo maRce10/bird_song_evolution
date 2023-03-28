@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.983785068	18.299510142	1097.8	3457.0	Falco_subniger-ML128321.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_subniger-ML128321.wav	1	a
+2	Spectrogram 1	1	18.393126298	18.679481597	1191.3	3410.3	Falco_subniger-ML128321.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_subniger-ML128321.wav	2	a
+3	Spectrogram 1	1	19.129206266	19.439424507	911.0	3340.2	Falco_subniger-ML128321.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_subniger-ML128321.wav	3	a

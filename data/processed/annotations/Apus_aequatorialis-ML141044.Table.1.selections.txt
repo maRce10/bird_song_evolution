@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	22.822609036	23.148838424	4894.5	6204.7	Apus_aequatorialis-ML141044.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_aequatorialis-ML141044.wav	1	a
+2	Spectrogram 1	1	23.641728479	23.975049810	4449.6	6130.5	Apus_aequatorialis-ML141044.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_aequatorialis-ML141044.wav	2	a
+3	Spectrogram 1	1	72.534435849	72.974136329	4350.7	6427.1	Apus_aequatorialis-ML141044.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_aequatorialis-ML141044.wav	3	a

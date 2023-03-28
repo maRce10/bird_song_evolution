@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.060890717	1.119281165	2095.0	5499.4	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	1	a
+2	Spectrogram 1	1	1.191685321	1.304962790	1937.9	6913.5	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	1	b
+3	Spectrogram 1	1	1.362185429	1.475462898	1806.9	6861.2	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	1	b
+4	Spectrogram 1	1	1.531517729	1.654137669	1571.3	7358.7	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	1	b
+5	Spectrogram 1	1	1.731213061	1.845658339	1833.1	7699.2	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	1	b
+6	Spectrogram 1	1	8.123287023	8.182845280	1937.9	5525.6	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	2	a
+7	Spectrogram 1	1	8.245906964	8.334660445	2016.4	6992.1	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	2	b
+8	Spectrogram 1	1	8.367359096	8.458448195	1833.1	6782.6	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	2	b
+9	Spectrogram 1	1	8.494650273	8.592746225	1964.1	6677.9	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	2	b
+10	Spectrogram 1	1	8.630116112	8.720037402	2016.4	6546.9	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	2	b
+11	Spectrogram 1	1	8.764414143	8.860174477	2435.5	6599.3	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	2	b
+12	Spectrogram 1	1	20.992647445	21.054541320	1990.3	5735.1	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	3	a
+13	Spectrogram 1	1	21.109428341	21.228544855	2016.4	7149.2	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	3	b
+14	Spectrogram 1	1	21.292774348	21.404884009	1964.1	7254.0	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	3	b
+15	Spectrogram 1	1	21.466777883	21.583558780	1885.5	7044.5	Phylloscopus_occisinensis-ML30317921.wav	D:\Andean\Phylloscopidae\Phylloscopus_occisinensis-ML30317921.wav	3	b

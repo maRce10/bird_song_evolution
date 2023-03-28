@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.245525468	15.293253457	4019.1	4656.0	Oreomystis_bairdi-ML5055.wav	E:\Escritorio\Cantos\Fringillidae\Oreomystis_bairdi-ML5055.wav	1	a
+2	Spectrogram 1	1	15.372800105	15.448811347	3691.9	4678.0	Oreomystis_bairdi-ML5055.wav	E:\Escritorio\Cantos\Fringillidae\Oreomystis_bairdi-ML5055.wav	1	b
+3	Spectrogram 1	1	15.519519479	15.606136940	3514.9	5082.6	Oreomystis_bairdi-ML5055.wav	E:\Escritorio\Cantos\Fringillidae\Oreomystis_bairdi-ML5055.wav	1	c
+4	Spectrogram 1	1	15.662703445	15.749320906	3363.1	5234.3	Oreomystis_bairdi-ML5055.wav	E:\Escritorio\Cantos\Fringillidae\Oreomystis_bairdi-ML5055.wav	1	d
+5	Spectrogram 1	1	15.805887412	15.897807983	3287.3	5257.2	Oreomystis_bairdi-ML5055.wav	E:\Escritorio\Cantos\Fringillidae\Oreomystis_bairdi-ML5055.wav	1	d
+6	Spectrogram 1	1	15.950839082	16.040991949	3287.3	5234.3	Oreomystis_bairdi-ML5055.wav	E:\Escritorio\Cantos\Fringillidae\Oreomystis_bairdi-ML5055.wav	1	d
+7	Spectrogram 1	1	16.099326158	16.187711323	3236.7	5234.3	Oreomystis_bairdi-ML5055.wav	E:\Escritorio\Cantos\Fringillidae\Oreomystis_bairdi-ML5055.wav	1	d
+8	Spectrogram 1	1	16.246045531	16.337966102	3211.4	5209.1	Oreomystis_bairdi-ML5055.wav	E:\Escritorio\Cantos\Fringillidae\Oreomystis_bairdi-ML5055.wav	1	d
+9	Spectrogram 1	1	16.390997201	16.486453179	3236.7	5209.1	Oreomystis_bairdi-ML5055.wav	E:\Escritorio\Cantos\Fringillidae\Oreomystis_bairdi-ML5055.wav	1	d
+10	Spectrogram 1	1	16.544787387	16.640243365	3186.1	5257.2	Oreomystis_bairdi-ML5055.wav	E:\Escritorio\Cantos\Fringillidae\Oreomystis_bairdi-ML5055.wav	1	d

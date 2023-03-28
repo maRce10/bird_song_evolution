@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.027727756	5.111069463	138.5	775.6	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	1	a
+2	Spectrogram 1	1	5.197744837	5.271085539	138.5	858.7	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	1	a
+3	Spectrogram 1	1	5.384430259	5.461104629	83.1	609.4	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	1	a
+4	Spectrogram 1	1	5.564448345	5.641122715	83.1	803.3	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	1	b
+5	Spectrogram 1	1	5.934485521	6.171175967	83.1	1163.4	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	1	c
+6	Spectrogram 1	1	6.341193048	6.514543797	110.8	1024.9	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	1	d
+8	Spectrogram 1	1	42.332217038	42.418892413	138.5	775.6	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	2	a
+9	Spectrogram 1	1	42.528903465	42.602244167	83.1	747.9	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	2	a
+10	Spectrogram 1	1	42.715588887	42.792263257	55.4	775.6	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	2	a
+11	Spectrogram 1	1	42.892273305	42.985616016	83.1	969.5	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	2	b
+12	Spectrogram 1	1	43.245642140	43.488999922	166.2	1191.1	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	2	c
+13	Spectrogram 1	1	43.655683335	43.789030065	166.2	1024.9	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	2	d
+14	Spectrogram 1	1	57.791445489	57.861452522	27.7	747.9	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	3	a
+15	Spectrogram 1	1	57.991465584	58.051471613	110.8	886.4	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	3	a
+16	Spectrogram 1	1	58.178151006	58.254825376	110.8	775.6	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	3	a
+17	Spectrogram 1	1	58.374837433	58.448178135	166.2	886.4	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	3	b
+18	Spectrogram 1	1	58.718205263	58.984898724	138.5	1191.1	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	3	c
+19	Spectrogram 1	1	59.158249473	59.334933890	83.1	1024.9	Ciccaba_huhula-ML222334.wav	D:\Andean\Strigidae\Ciccaba_huhula-ML222334.wav	3	d

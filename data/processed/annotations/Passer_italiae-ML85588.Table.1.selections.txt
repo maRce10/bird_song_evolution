@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.573276947	5.786324481	2576.2	6315.8	Passer_italiae-ML85588.wav	D:\Andean\Passeridae\Passer_italiae-ML85588.wav	1	a
+2	Spectrogram 1	1	5.854037263	6.034054171	2964.0	6038.8	Passer_italiae-ML85588.wav	D:\Andean\Passeridae\Passer_italiae-ML85588.wav	1	b
+3	Spectrogram 1	1	6.202510361	6.408951770	3047.1	6177.3	Passer_italiae-ML85588.wav	D:\Andean\Passeridae\Passer_italiae-ML85588.wav	1	b
+4	Spectrogram 1	1	8.331972179	8.518595212	2714.7	6260.4	Passer_italiae-ML85588.wav	D:\Andean\Passeridae\Passer_italiae-ML85588.wav	2	b
+5	Spectrogram 1	1	8.761370309	8.956250999	2880.9	6343.5	Passer_italiae-ML85588.wav	D:\Andean\Passeridae\Passer_italiae-ML85588.wav	2	b
+6	Spectrogram 1	1	9.045433688	9.270041941	1856.0	6094.2	Passer_italiae-ML85588.wav	D:\Andean\Passeridae\Passer_italiae-ML85588.wav	2	a
+7	Spectrogram 1	1	11.950339194	12.203023479	2520.8	6121.9	Passer_italiae-ML85588.wav	D:\Andean\Passeridae\Passer_italiae-ML85588.wav	3	a
+8	Spectrogram 1	1	12.487086857	12.696831329	2991.7	6648.2	Passer_italiae-ML85588.wav	D:\Andean\Passeridae\Passer_italiae-ML85588.wav	3	b
+9	Spectrogram 1	1	12.855378331	13.061819740	2631.6	6011.1	Passer_italiae-ML85588.wav	D:\Andean\Passeridae\Passer_italiae-ML85588.wav	3	b

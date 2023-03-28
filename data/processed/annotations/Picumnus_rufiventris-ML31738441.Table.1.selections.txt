@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	27.869124158	28.034277285	6315.8	7756.3	Picumnus_rufiventris-ML31738441.wav	D:\Andean\Picidae\Picumnus_rufiventris-ML31738441.wav	1	a
+2	Spectrogram 1	1	28.404220290	28.556161167	6205.0	7562.4	Picumnus_rufiventris-ML31738441.wav	D:\Andean\Picidae\Picumnus_rufiventris-ML31738441.wav	1	a
+3	Spectrogram 1	1	28.919498046	29.031802173	6094.2	6953.0	Picumnus_rufiventris-ML31738441.wav	D:\Andean\Picidae\Picumnus_rufiventris-ML31738441.wav	1	b
+4	Spectrogram 1	1	39.618740474	39.777287476	6315.8	7534.7	Picumnus_rufiventris-ML31738441.wav	D:\Andean\Picidae\Picumnus_rufiventris-ML31738441.wav	2	a
+5	Spectrogram 1	1	40.219897857	40.371838734	6454.3	7673.2	Picumnus_rufiventris-ML31738441.wav	D:\Andean\Picidae\Picumnus_rufiventris-ML31738441.wav	2	a
+6	Spectrogram 1	1	40.695538863	40.854085865	6038.8	7479.3	Picumnus_rufiventris-ML31738441.wav	D:\Andean\Picidae\Picumnus_rufiventris-ML31738441.wav	2	a
+7	Spectrogram 1	1	41.157967619	41.290090120	5983.4	7036.1	Picumnus_rufiventris-ML31738441.wav	D:\Andean\Picidae\Picumnus_rufiventris-ML31738441.wav	2	a
+8	Spectrogram 1	1	65.708732113	65.847460739	6315.8	7534.7	Picumnus_rufiventris-ML31738441.wav	D:\Andean\Picidae\Picumnus_rufiventris-ML31738441.wav	3	a
+9	Spectrogram 1	1	66.243828244	66.389162996	6038.8	7534.7	Picumnus_rufiventris-ML31738441.wav	D:\Andean\Picidae\Picumnus_rufiventris-ML31738441.wav	3	a
+10	Spectrogram 1	1	66.759106001	66.871410127	6315.8	7119.2	Picumnus_rufiventris-ML31738441.wav	D:\Andean\Picidae\Picumnus_rufiventris-ML31738441.wav	3	b

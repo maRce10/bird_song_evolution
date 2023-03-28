@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	579.488352094	579.716795326	264.3	2642.7	Onychoprion_fuscatus-ML167702.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Onychoprion_fuscatus-ML167702.wav	1	a
+2	Spectrogram 1	1	579.856976401	580.017925042	396.4	3303.3	Onychoprion_fuscatus-ML167702.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Onychoprion_fuscatus-ML167702.wav	1	b
+3	Spectrogram 1	1	580.132146658	580.443660156	330.3	2973.0	Onychoprion_fuscatus-ML167702.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Onychoprion_fuscatus-ML167702.wav	1	c
+4	Spectrogram 1	1	580.983616887	581.139373637	330.3	3237.3	Onychoprion_fuscatus-ML167702.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Onychoprion_fuscatus-ML167702.wav	2	b
+5	Spectrogram 1	1	581.269170928	581.424927677	396.4	3039.1	Onychoprion_fuscatus-ML167702.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Onychoprion_fuscatus-ML167702.wav	2	b
+6	Spectrogram 1	1	581.705289826	581.861046575	462.5	3303.3	Onychoprion_fuscatus-ML167702.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Onychoprion_fuscatus-ML167702.wav	3	b
+7	Spectrogram 1	1	581.923349275	582.458114114	264.3	2906.9	Onychoprion_fuscatus-ML167702.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Onychoprion_fuscatus-ML167702.wav	3	d

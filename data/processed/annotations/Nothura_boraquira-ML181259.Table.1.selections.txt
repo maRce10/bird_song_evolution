@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.345296295	7.688814799	2188.4	2797.8	Nothura_boraquira-ML181259.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothura_boraquira-ML181259.wav	1	a
+2	Spectrogram 1	1	7.893604677	8.111606805	1828.3	2520.8	Nothura_boraquira-ML181259.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothura_boraquira-ML181259.wav	1	b
+3	Spectrogram 1	1	10.958846715	11.295759095	2243.8	2797.8	Nothura_boraquira-ML181259.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothura_boraquira-ML181259.wav	2	a
+4	Spectrogram 1	1	11.500548972	11.698732725	1939.1	2437.7	Nothura_boraquira-ML181259.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothura_boraquira-ML181259.wav	2	c
+5	Spectrogram 1	1	14.849854389	14.896097265	2465.4	2770.1	Nothura_boraquira-ML181259.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothura_boraquira-ML181259.wav	3	d
+6	Spectrogram 1	1	14.929127890	15.160342268	2271.5	2742.4	Nothura_boraquira-ML181259.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothura_boraquira-ML181259.wav	3	e
+7	Spectrogram 1	1	15.404768896	15.616164899	1911.4	2714.7	Nothura_boraquira-ML181259.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothura_boraquira-ML181259.wav	3	f

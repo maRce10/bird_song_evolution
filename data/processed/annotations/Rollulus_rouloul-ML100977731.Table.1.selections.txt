@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.457478531	3.725854547	1994.5	2548.5	Rollulus_rouloul-ML100977731.wav	D:\Andean\Phasianidae\Rollulus_rouloul-ML100977731.wav	1	a
+2	Spectrogram 1	1	4.579395835	6.303594481	2022.2	2659.3	Rollulus_rouloul-ML100977731.wav	D:\Andean\Phasianidae\Rollulus_rouloul-ML100977731.wav	1	a
+3	Spectrogram 1	1	24.808023505	26.565252777	1883.7	2631.6	Rollulus_rouloul-ML100977731.wav	D:\Andean\Phasianidae\Rollulus_rouloul-ML100977731.wav	2	a
+4	Spectrogram 1	1	27.615626665	29.227521186	1883.7	2520.8	Rollulus_rouloul-ML100977731.wav	D:\Andean\Phasianidae\Rollulus_rouloul-ML100977731.wav	2	a
+5	Spectrogram 1	1	30.502503327	31.810516093	1800.6	2354.6	Rollulus_rouloul-ML100977731.wav	D:\Andean\Phasianidae\Rollulus_rouloul-ML100977731.wav	2	a
+6	Spectrogram 1	1	62.611871148	64.322857545	1939.1	2603.9	Rollulus_rouloul-ML100977731.wav	D:\Andean\Phasianidae\Rollulus_rouloul-ML100977731.wav	3	a
+7	Spectrogram 1	1	65.419474309	66.965307578	1911.4	2520.8	Rollulus_rouloul-ML100977731.wav	D:\Andean\Phasianidae\Rollulus_rouloul-ML100977731.wav	3	a
+8	Spectrogram 1	1	68.253501970	69.620969862	1939.1	2437.7	Rollulus_rouloul-ML100977731.wav	D:\Andean\Phasianidae\Rollulus_rouloul-ML100977731.wav	3	a

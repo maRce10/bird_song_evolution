@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	42.857059761	42.948139120	4004.0	11504.3	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	1	a
+2	Spectrogram 1	1	43.105075862	43.203161326	3947.6	10884.0	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	1	a
+3	Spectrogram 1	1	43.308252894	43.418949346	3270.8	10884.0	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	1	a
+4	Spectrogram 1	1	43.515633589	43.645947133	3496.4	11053.2	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	1	a
+5	Spectrogram 1	1	43.746832507	43.875744831	2143.0	9699.7	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	1	a
+6	Spectrogram 1	1	43.966824190	44.091532851	2763.3	9192.2	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	1	a
+7	Spectrogram 1	1	44.202229303	44.326937964	2481.3	9812.5	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	1	a
+8	Spectrogram 1	1	44.460053950	44.528713775	2988.9	8064.3	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	1	a
+9	Spectrogram 1	1	68.870295622	69.041244573	1522.6	7331.2	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	2	b
+10	Spectrogram 1	1	69.364926603	69.485431602	1917.4	6485.3	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	2	a
+11	Spectrogram 1	1	69.664787878	69.734848924	2312.1	6654.5	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	2	a
+12	Spectrogram 1	1	70.019296769	70.127190779	2312.1	5131.8	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	2	a
+13	Spectrogram 1	1	70.270115312	70.424249612	2255.8	6034.1	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	2	a
+14	Spectrogram 1	1	119.111670456	119.258798652	1748.2	6372.5	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	3	a
+15	Spectrogram 1	1	119.390513418	119.518024520	2312.1	6316.1	Progne_modesta-ML237482.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Progne_modesta-ML237482.wav	3	a

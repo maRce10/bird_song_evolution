@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	109.431037468	109.603873195	415.5	1800.6	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	1	a
+2	Spectrogram 1	1	109.659928025	109.722989709	581.7	2160.7	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	1	b
+3	Spectrogram 1	1	109.744010270	109.811743190	554.0	2216.1	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	1	b
+4	Spectrogram 1	1	109.853784312	109.926188468	609.4	2105.3	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	1	b
+5	Spectrogram 1	1	109.972900826	110.042969364	775.6	2216.1	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	1	b
+6	Spectrogram 1	1	110.103695430	110.197120147	526.3	1883.7	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	1	c
+7	Spectrogram 1	1	110.239161269	110.416668231	526.3	997.2	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	1	d
+8	Spectrogram 1	1	122.264378900	122.441885862	498.6	1939.1	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	2	a
+9	Spectrogram 1	1	122.483926984	122.553995522	554.0	2133.0	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	2	b
+10	Spectrogram 1	1	122.579687319	122.654427093	581.7	2216.1	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	2	b
+11	Spectrogram 1	1	122.687125744	122.759529899	664.8	2133.0	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	2	b
+12	Spectrogram 1	1	122.806242258	122.885653267	526.3	2133.0	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	2	b
+13	Spectrogram 1	1	122.939372479	123.056153375	526.3	1828.3	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	2	c
+14	Spectrogram 1	1	123.093523262	123.334091908	470.9	941.8	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	2	d
+15	Spectrogram 1	1	132.393450829	132.563950937	360.1	1800.6	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	3	a
+16	Spectrogram 1	1	132.608327677	132.671389361	581.7	2133.0	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	3	b
+17	Spectrogram 1	1	132.701752394	132.771820932	720.2	2160.7	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	3	b
+18	Spectrogram 1	1	132.811526437	132.876923738	720.2	2160.7	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	3	b
+19	Spectrogram 1	1	132.923636097	133.005382724	692.5	2105.3	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	3	b
+20	Spectrogram 1	1	133.056766318	133.168875979	554.0	1772.9	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	3	c
+21	Spectrogram 1	1	133.210917101	133.400102153	498.6	997.2	Scelorchilus_rubecula-ML86558.wav	D:\Andean\Rhinocryptidae\Scelorchilus_rubecula-ML86558.wav	3	d

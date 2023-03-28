@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	44.392638669	45.701425255	2101.2	3337.2	Harpia_harpyja-ML41193631.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Harpia_harpyja-ML41193631.wav	1	a
+2	Spectrogram 1	1	46.709617976	47.538177959	1755.1	3411.3	Harpia_harpyja-ML41193631.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Harpia_harpyja-ML41193631.wav	2	a
+3	Spectrogram 1	1	48.737044590	49.568986451	1804.5	3361.9	Harpia_harpyja-ML41193631.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Harpia_harpyja-ML41193631.wav	3	a

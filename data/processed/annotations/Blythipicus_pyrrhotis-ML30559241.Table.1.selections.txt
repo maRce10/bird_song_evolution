@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.703746197	0.855687074	1073.7	4111.5	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	a
+2	Spectrogram 1	1	1.027446326	1.172781078	811.8	3954.3	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+3	Spectrogram 1	1	1.318115830	1.450238331	942.8	3849.6	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+4	Spectrogram 1	1	1.575754708	1.721089460	838.0	3744.8	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+5	Spectrogram 1	1	1.859818086	2.005152838	864.2	3823.4	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+6	Spectrogram 1	1	2.117456965	2.256185591	864.2	3744.8	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+7	Spectrogram 1	1	2.361883593	2.487399969	811.8	3771.0	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+8	Spectrogram 1	1	2.612916346	2.745038848	838.0	3744.8	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+9	Spectrogram 1	1	2.870555224	3.015889976	942.8	3744.8	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+10	Spectrogram 1	1	3.121587977	3.260316604	785.6	3666.3	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+11	Spectrogram 1	1	3.359408480	3.491530982	916.6	3613.9	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+12	Spectrogram 1	1	3.590622858	3.742563735	942.8	3640.1	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+13	Spectrogram 1	1	3.835049486	3.960565863	1021.3	3535.3	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	b
+14	Spectrogram 1	1	4.079476114	4.264447617	1230.8	3797.2	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	c
+15	Spectrogram 1	1	4.429600744	4.707057997	968.9	3640.1	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	c
+16	Spectrogram 1	1	4.819362124	5.057182627	811.8	3509.1	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	c
+17	Spectrogram 1	1	5.176092878	5.400701131	733.3	3404.4	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	c
+18	Spectrogram 1	1	5.493186882	5.678158384	811.8	3352.0	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	c
+19	Spectrogram 1	1	5.757431885	5.922585013	733.3	3221.1	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	d
+20	Spectrogram 1	1	6.001858514	6.147193265	707.1	3221.1	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	d
+21	Spectrogram 1	1	6.219860641	6.345377018	785.6	3194.9	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	d
+22	Spectrogram 1	1	6.424650519	6.536954645	707.1	3168.7	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	d
+23	Spectrogram 1	1	6.603015896	6.708713897	759.4	3116.3	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	d
+24	Spectrogram 1	1	6.768169023	6.867260899	785.6	2697.3	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	d
+25	Spectrogram 1	1	6.920109900	7.045626277	785.6	3011.6	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	d
+26	Spectrogram 1	1	7.078656902	7.177748778	759.4	2671.1	Blythipicus_pyrrhotis-ML30559241.wav	D:\Andean\Picidae\Blythipicus_pyrrhotis-ML30559241.wav	1	d

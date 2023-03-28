@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.275634917	4.694185489	256.9	911.0	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	1	a
+2	Spectrogram 1	1	4.876886136	5.233982855	280.3	1051.1	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	1	a
+3	Spectrogram 1	1	5.432485419	5.772142531	280.3	1051.1	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	1	a
+4	Spectrogram 1	1	5.969791412	6.305296237	256.9	1027.8	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	1	a
+5	Spectrogram 1	1	6.499623288	6.841771772	303.7	1027.8	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	1	a
+6	Spectrogram 1	1	7.024565995	7.362562192	233.6	1074.5	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	1	a
+7	Spectrogram 1	1	7.559380616	7.897376812	303.7	1191.3	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	1	a
+8	Spectrogram 1	1	14.469089462	14.880996374	233.6	1074.5	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	2	a
+9	Spectrogram 1	1	15.076984341	15.454012039	303.7	981.0	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	2	a
+10	Spectrogram 1	1	15.640034516	15.999830053	256.9	1027.8	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	2	a
+11	Spectrogram 1	1	16.186682987	16.528001014	256.9	957.7	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	2	a
+12	Spectrogram 1	1	16.721497608	17.061432793	327.0	1004.4	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	2	a
+13	Spectrogram 1	1	17.275690825	17.631126628	303.7	1027.8	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	2	a
+14	Spectrogram 1	1	17.820470935	18.154314844	280.3	957.7	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	2	a
+15	Spectrogram 1	1	18.360268301	18.709060445	303.7	1051.1	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	2	a
+16	Spectrogram 1	1	25.501583863	25.900203456	233.6	1074.5	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	3	a
+17	Spectrogram 1	1	26.108648285	26.459931801	280.3	1051.1	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	3	a
+18	Spectrogram 1	1	26.658411140	27.003050997	327.0	981.0	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	3	a
+19	Spectrogram 1	1	27.186857956	27.518210492	327.0	1004.4	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	3	a
+20	Spectrogram 1	1	27.710046171	28.044720538	233.6	934.3	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	3	a
+21	Spectrogram 1	1	28.231018869	28.564586924	280.3	981.0	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	3	a
+22	Spectrogram 1	1	28.757528915	29.096355569	327.0	911.0	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	3	a
+23	Spectrogram 1	1	29.342170985	29.685980384	233.6	957.7	Columbina_picui-ML217380.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_picui-ML217380.wav	3	a

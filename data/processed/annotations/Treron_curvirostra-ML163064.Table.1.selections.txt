@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	61.290423971	62.392696270	443.8	1004.4	Treron_curvirostra-ML163064.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_curvirostra-ML163064.wav	1	a
+2	Spectrogram 1	1	63.481174942	64.123638755	350.4	1027.8	Treron_curvirostra-ML163064.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_curvirostra-ML163064.wav	1	b
+3	Spectrogram 1	1	64.485254102	64.692678133	420.4	957.7	Treron_curvirostra-ML163064.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_curvirostra-ML163064.wav	1	c
+4	Spectrogram 1	1	65.496010483	66.076063525	560.6	1004.4	Treron_curvirostra-ML163064.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_curvirostra-ML163064.wav	1	d
+5	Spectrogram 1	1	66.685750969	67.544816868	467.2	981.0	Treron_curvirostra-ML163064.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_curvirostra-ML163064.wav	1	e
+6	Spectrogram 1	1	68.079261618	68.679506380	373.7	981.0	Treron_curvirostra-ML163064.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_curvirostra-ML163064.wav	1	

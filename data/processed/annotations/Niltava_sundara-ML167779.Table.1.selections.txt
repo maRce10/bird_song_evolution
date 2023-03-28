@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	77.754232065	78.130781195	6808.8	7280.2	Niltava_sundara-ML167779.wav	E:\Andean\Muscicapidae\Niltava_sundara-ML167779.wav	1	a
+2	Spectrogram 1	1	78.229873071	78.712120202	4111.5	8144.4	Niltava_sundara-ML167779.wav	E:\Andean\Muscicapidae\Niltava_sundara-ML167779.wav	1	b
+3	Spectrogram 1	1	81.684876489	82.180335871	6992.1	7411.1	Niltava_sundara-ML167779.wav	E:\Andean\Muscicapidae\Niltava_sundara-ML167779.wav	2	a
+4	Spectrogram 1	1	82.266215497	82.847554504	3404.4	7908.7	Niltava_sundara-ML167779.wav	E:\Andean\Muscicapidae\Niltava_sundara-ML167779.wav	2	b
+5	Spectrogram 1	1	86.136531862	86.513080991	6704.0	7201.6	Niltava_sundara-ML167779.wav	E:\Andean\Muscicapidae\Niltava_sundara-ML167779.wav	3	a
+6	Spectrogram 1	1	86.605566742	87.180299625	4137.6	7620.6	Niltava_sundara-ML167779.wav	E:\Andean\Muscicapidae\Niltava_sundara-ML167779.wav	3	b

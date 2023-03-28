@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.797475907	5.846523883	890.4	4792.3	Dendrocopos_major-ML71618.wav	D:\Andean\Picidae\Dendrocopos_major-ML71618.wav	1	a
+2	Spectrogram 1	1	6.358024208	6.407072184	890.4	4870.9	Dendrocopos_major-ML71618.wav	D:\Andean\Picidae\Dendrocopos_major-ML71618.wav	2	a
+3	Spectrogram 1	1	7.014332844	7.065716438	916.6	4792.3	Dendrocopos_major-ML71618.wav	D:\Andean\Picidae\Dendrocopos_major-ML71618.wav	3	a

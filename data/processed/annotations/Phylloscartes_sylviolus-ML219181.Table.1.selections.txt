@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.779540906	10.825783781	2069.0	6502.7	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	1	a
+2	Spectrogram 1	1	10.875329719	10.933133314	1995.1	5948.5	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	1	b
+3	Spectrogram 1	1	10.974421596	11.032225190	2106.0	5800.7	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	1	c
+4	Spectrogram 1	1	11.103241035	11.157741567	1773.5	5505.1	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	1	d
+5	Spectrogram 1	1	17.080711396	17.122825443	1907.2	6531.4	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	2	a
+6	Spectrogram 1	1	17.167416788	17.218614257	2403.6	5486.4	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	2	d
+7	Spectrogram 1	1	17.266508664	17.320183430	2116.2	5225.1	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	2	e
+8	Spectrogram 1	1	17.364774775	17.425881432	1854.9	5146.7	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	2	f
+9	Spectrogram 1	1	17.476253135	17.529102136	1828.8	3579.2	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	2	g
+10	Spectrogram 1	1	26.394909171	26.441977812	1881.0	6583.6	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	3	a
+11	Spectrogram 1	1	26.487807805	26.538179509	2299.1	5852.1	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	3	c
+12	Spectrogram 1	1	26.583596619	26.640574448	2325.2	6035.0	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	3	b
+13	Spectrogram 1	1	26.689294620	26.740492089	1802.7	5355.7	Phylloscartes_sylviolus-ML219181.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_sylviolus-ML219181.wav	3	d

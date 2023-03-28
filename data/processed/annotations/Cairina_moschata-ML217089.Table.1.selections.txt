@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.057670686	14.201282537	568.6	1903.4	Cairina_moschata-ML217089.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cairina_moschata-ML217089.wav	1	a
+2	Spectrogram 1	1	21.380883938	21.522722802	766.3	2002.3	Cairina_moschata-ML217089.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cairina_moschata-ML217089.wav	2	a
+3	Spectrogram 1	1	22.694666421	22.817002441	568.6	2200.1	Cairina_moschata-ML217089.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cairina_moschata-ML217089.wav	1	a

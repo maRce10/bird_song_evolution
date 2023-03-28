@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	81.157249632	81.622981450	1057.7	7090.7	Vireo_solitarius-ML137666.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_solitarius-ML137666.wav	1	a
+2	Spectrogram 1	1	82.983843217	83.439665848	1096.9	6385.5	Vireo_solitarius-ML137666.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_solitarius-ML137666.wav	2	b
+3	Spectrogram 1	1	84.589131613	84.876498054	2899.0	7874.2	Vireo_solitarius-ML137666.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_solitarius-ML137666.wav	3	c

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.277865415	2.644873477	1507.9	4869.8	Dendrocygna_javanica-ML127811241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Dendrocygna_javanica-ML127811241.wav	1	a
+2	Spectrogram 1	1	6.402614827	6.810401562	1557.3	4696.7	Dendrocygna_javanica-ML127811241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Dendrocygna_javanica-ML127811241.wav	2	a
+3	Spectrogram 1	1	7.763678657	8.141324634	1606.8	4449.6	Dendrocygna_javanica-ML127811241.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Dendrocygna_javanica-ML127811241.wav	3	a

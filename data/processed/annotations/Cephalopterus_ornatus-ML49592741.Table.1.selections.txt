@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.350525314	2.351045377	0.0	527.1	Cephalopterus_ornatus-ML49592741.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cephalopterus_ornatus-ML49592741.wav	1	a
+2	Spectrogram 1	1	24.306681368	25.222351673	65.9	505.1	Cephalopterus_ornatus-ML49592741.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cephalopterus_ornatus-ML49592741.wav	2	a
+3	Spectrogram 1	1	25.438011475	26.456208570	22.0	483.2	Cephalopterus_ornatus-ML49592741.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cephalopterus_ornatus-ML49592741.wav	3	a

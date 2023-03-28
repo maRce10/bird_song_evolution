@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.702065187	8.756863989	450.200	724.800	Cuculus_lepidus-ML70460.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_lepidus-ML70460.wav	1	a
+2	Spectrogram 1	1	8.991968526	9.133384790	362.400	669.800	Cuculus_lepidus-ML70460.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_lepidus-ML70460.wav	1	b
+3	Spectrogram 1	1	9.250053207	9.372024734	384.300	669.800	Cuculus_lepidus-ML70460.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_lepidus-ML70460.wav	1	b
+4	Spectrogram 1	1	13.010672390	13.067238895	428.300	759.900	Cuculus_lepidus-ML70460.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_lepidus-ML70460.wav	2	a
+5	Spectrogram 1	1	13.302343433	13.438456586	359.200	690.800	Cuculus_lepidus-ML70460.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_lepidus-ML70460.wav	2	b
+6	Spectrogram 1	1	13.555125003	13.680631937	373.000	649.300	Cuculus_lepidus-ML70460.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_lepidus-ML70460.wav	2	b
+7	Spectrogram 1	1	17.059191058	17.112222157	428.300	732.200	Cuculus_lepidus-ML70460.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_lepidus-ML70460.wav	3	a
+8	Spectrogram 1	1	17.349094398	17.486975254	359.200	677.000	Cuculus_lepidus-ML70460.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_lepidus-ML70460.wav	3	b
+9	Spectrogram 1	1	17.600108265	17.739756825	386.800	663.200	Cuculus_lepidus-ML70460.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_lepidus-ML70460.wav	3	b

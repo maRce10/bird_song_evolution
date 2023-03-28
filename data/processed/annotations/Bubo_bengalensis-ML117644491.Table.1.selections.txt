@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.240864270	5.387850554	215.5	489.7	Bubo_bengalensis-ML117644491.wav	D:\Andean\Strigidae\Bubo_bengalensis-ML117644491.wav	1	a
+2	Spectrogram 1	1	5.500154680	5.865143091	244.8	636.6	Bubo_bengalensis-ML117644491.wav	D:\Andean\Strigidae\Bubo_bengalensis-ML117644491.wav	1	b
+3	Spectrogram 1	1	23.933574944	24.098728071	186.1	538.7	Bubo_bengalensis-ML117644491.wav	D:\Andean\Strigidae\Bubo_bengalensis-ML117644491.wav	2	a
+4	Spectrogram 1	1	24.220941385	24.542989983	195.9	685.6	Bubo_bengalensis-ML117644491.wav	D:\Andean\Strigidae\Bubo_bengalensis-ML117644491.wav	2	b
+5	Spectrogram 1	1	52.744342649	52.929314151	215.5	538.7	Bubo_bengalensis-ML117644491.wav	D:\Andean\Strigidae\Bubo_bengalensis-ML117644491.wav	3	a
+6	Spectrogram 1	1	53.025102965	53.395045970	235.1	626.8	Bubo_bengalensis-ML117644491.wav	D:\Andean\Strigidae\Bubo_bengalensis-ML117644491.wav	3	b

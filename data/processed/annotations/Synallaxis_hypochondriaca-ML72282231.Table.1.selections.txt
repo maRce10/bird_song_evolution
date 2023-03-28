@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	48.902333668	48.951829360	2789.2	7247.5	Synallaxis_hypochondriaca-ML72282231.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_hypochondriaca-ML72282231.wav	1	a
+2	Spectrogram 1	1	49.004860459	49.068497777	2833.1	7291.4	Synallaxis_hypochondriaca-ML72282231.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_hypochondriaca-ML72282231.wav	1	a
+3	Spectrogram 1	1	50.542762322	50.606399640	2745.3	7071.8	Synallaxis_hypochondriaca-ML72282231.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_hypochondriaca-ML72282231.wav	2	a
+4	Spectrogram 1	1	50.684178585	50.747815904	2657.4	7005.9	Synallaxis_hypochondriaca-ML72282231.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_hypochondriaca-ML72282231.wav	2	a
+5	Spectrogram 1	1	51.872075197	51.925106295	2547.6	7562.4	Synallaxis_hypochondriaca-ML72282231.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_hypochondriaca-ML72282231.wav	3	a
+6	Spectrogram 1	1	51.981672801	52.038239306	2547.6	7423.2	Synallaxis_hypochondriaca-ML72282231.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_hypochondriaca-ML72282231.wav	3	a

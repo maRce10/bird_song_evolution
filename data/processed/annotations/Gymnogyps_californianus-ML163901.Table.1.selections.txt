@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.026375574	15.393105600	98.9	5438.3	Gymnogyps_californianus-ML163901.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Gymnogyps_californianus-ML163901.wav	1	a
+2	Spectrogram 1	1	58.862289720	59.170555539	148.3	4597.9	Gymnogyps_californianus-ML163901.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Gymnogyps_californianus-ML163901.wav	2	a
+3	Spectrogram 1	1	231.525857129	231.821721450	74.2	4424.8	Gymnogyps_californianus-ML163901.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Gymnogyps_californianus-ML163901.wav	3	a

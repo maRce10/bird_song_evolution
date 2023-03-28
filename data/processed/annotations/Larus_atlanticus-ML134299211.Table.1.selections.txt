@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.613857327	2.672596876	577.9	3489.8	Larus_atlanticus-ML134299211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_atlanticus-ML134299211.wav	1	a
+2	Spectrogram 1	1	2.762541810	2.821281358	577.9	3689.8	Larus_atlanticus-ML134299211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_atlanticus-ML134299211.wav	1	a
+3	Spectrogram 1	1	2.911226292	2.973637062	577.9	3756.5	Larus_atlanticus-ML134299211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_atlanticus-ML134299211.wav	1	a
+4	Spectrogram 1	1	4.955846486	5.012750424	533.5	3534.2	Larus_atlanticus-ML134299211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_atlanticus-ML134299211.wav	2	a
+5	Spectrogram 1	1	5.100859747	5.161434906	555.7	3689.8	Larus_atlanticus-ML134299211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_atlanticus-ML134299211.wav	2	a
+6	Spectrogram 1	1	5.275242782	5.330311109	577.9	3578.7	Larus_atlanticus-ML134299211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_atlanticus-ML134299211.wav	2	a
+7	Spectrogram 1	1	6.874142530	6.949402576	489.0	3756.5	Larus_atlanticus-ML134299211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_atlanticus-ML134299211.wav	3	a
+8	Spectrogram 1	1	7.030169456	7.096251448	577.9	3889.9	Larus_atlanticus-ML134299211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_atlanticus-ML134299211.wav	3	a
+9	Spectrogram 1	1	7.178853938	7.239429098	577.9	3912.1	Larus_atlanticus-ML134299211.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_atlanticus-ML134299211.wav	3	a

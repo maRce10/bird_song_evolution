@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.667989317	1.712987696	1405.6	2635.5	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	1	a
+2	Spectrogram 1	1	1.725487246	1.746736481	1493.4	2481.7	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	1	b
+3	Spectrogram 1	1	1.760485986	1.784235131	1449.5	2459.8	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	1	b
+4	Spectrogram 1	1	1.799234590	1.822983735	1471.5	2459.8	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	1	b
+5	Spectrogram 1	1	1.835483285	1.857982475	1537.4	2503.7	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	1	b
+6	Spectrogram 1	1	1.871731979	1.897981034	1537.4	2437.8	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	1	c
+7	Spectrogram 1	1	1.907980674	2.036726037	966.3	2459.8	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	1	d
+8	Spectrogram 1	1	5.651635862	5.695384287	922.4	2459.8	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	2	a
+9	Spectrogram 1	1	5.716633522	5.739132711	1054.2	2350.0	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	2	b
+10	Spectrogram 1	1	5.749132351	5.774131451	1076.1	2393.9	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	2	b
+11	Spectrogram 1	1	5.789130911	5.811630100	1142.0	2459.8	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	2	b
+12	Spectrogram 1	1	5.826629560	5.850378705	1120.1	2437.8	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	2	b
+13	Spectrogram 1	1	5.859128390	5.885377444	1493.4	2218.2	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	2	c
+14	Spectrogram 1	1	5.897876994	6.000373303	878.5	2371.9	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	2	d
+15	Spectrogram 1	1	9.402860526	9.440359175	1251.8	2525.6	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	3	a
+16	Spectrogram 1	1	9.452858725	9.475357915	1317.7	2437.8	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	3	b
+17	Spectrogram 1	1	9.489107419	9.511606609	1229.9	2525.6	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	3	b
+18	Spectrogram 1	1	9.525356114	9.546605349	1229.9	2415.8	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	3	b
+19	Spectrogram 1	1	9.564104718	9.585353953	1142.0	2262.1	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	3	b
+20	Spectrogram 1	1	9.597853503	9.621602648	1405.6	2196.2	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	3	c
+21	Spectrogram 1	1	9.632852243	9.754097876	966.3	2415.8	Thalasseus_albididorsalis-ML279528.wav	E:\Escritorio\Cantos\Laridae\Thalasseus_albididorsalis-ML279528.wav	3	d

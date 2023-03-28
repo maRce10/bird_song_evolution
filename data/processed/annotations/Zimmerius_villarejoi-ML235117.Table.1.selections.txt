@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	223.121856552	223.441836207	3736.0	5930.5	Zimmerius_villarejoi-ML235117.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_villarejoi-ML235117.wav	1	a
+2	Spectrogram 1	1	223.591868650	223.804916184	3787.1	5320.4	Zimmerius_villarejoi-ML235117.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_villarejoi-ML235117.wav	1	b
+3	Spectrogram 1	1	231.463553449	231.783950516	3787.1	5634.4	Zimmerius_villarejoi-ML235117.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_villarejoi-ML235117.wav	2	a
+4	Spectrogram 1	1	231.894603111	232.119211363	3722.9	5505.1	Zimmerius_villarejoi-ML235117.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_villarejoi-ML235117.wav	2	b
+5	Spectrogram 1	1	238.047521628	238.372873289	3620.8	5523.6	Zimmerius_villarejoi-ML235117.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_villarejoi-ML235117.wav	3	a
+6	Spectrogram 1	1	238.504995790	238.732907106	3620.8	5283.4	Zimmerius_villarejoi-ML235117.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_villarejoi-ML235117.wav	3	b

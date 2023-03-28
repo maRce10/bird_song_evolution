@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.598391545	17.652110757	775.6	2437.7	Pternistis_adspersus-ML221465.wav	D:\Andean\Phasianidae\Pternistis_adspersus-ML221465.wav	1	a
+2	Spectrogram 1	1	17.913699964	17.979097266	775.6	2437.7	Pternistis_adspersus-ML221465.wav	D:\Andean\Phasianidae\Pternistis_adspersus-ML221465.wav	2	a
+3	Spectrogram 1	1	18.222001530	18.296741303	747.9	2437.7	Pternistis_adspersus-ML221465.wav	D:\Andean\Phasianidae\Pternistis_adspersus-ML221465.wav	3	a

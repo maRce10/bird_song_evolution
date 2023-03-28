@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.330562548	5.426946056	346.1	3386.6	Terathopius_ecaudatus-ML135449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Terathopius_ecaudatus-ML135449.wav	1	a
+2	Spectrogram 1	1	5.599421808	5.702569071	445.0	3559.6	Terathopius_ecaudatus-ML135449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Terathopius_ecaudatus-ML135449.wav	2	a
+3	Spectrogram 1	1	5.881808578	5.991719596	445.0	3708.0	Terathopius_ecaudatus-ML135449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Terathopius_ecaudatus-ML135449.wav	3	a

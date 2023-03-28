@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.472524626	3.822867314	2049.9	3130.2	Aechmophorus_clarkii-ML521971.wav	D:\Andean\Podicipedidae\Aechmophorus_clarkii-ML521971.wav	1	a
+2	Spectrogram 1	1	6.279937368	6.723704773	1939.1	3074.8	Aechmophorus_clarkii-ML521971.wav	D:\Andean\Podicipedidae\Aechmophorus_clarkii-ML521971.wav	2	a
+3	Spectrogram 1	1	7.923260060	8.254917805	2216.1	3130.2	Aechmophorus_clarkii-ML521971.wav	D:\Andean\Podicipedidae\Aechmophorus_clarkii-ML521971.wav	3	a

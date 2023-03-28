@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.446292220	1.751825505	2770.1	3628.8	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	1	a
+2	Spectrogram 1	1	1.817886755	1.916978632	1579.0	2659.3	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	1	b
+3	Spectrogram 1	1	1.989646008	2.075525634	1468.2	2382.3	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	1	b
+4	Spectrogram 1	1	2.144889947	2.230769573	1357.3	2188.4	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	1	b
+5	Spectrogram 1	1	2.300133887	2.382710450	1274.2	2216.1	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	1	b
+6	Spectrogram 1	1	2.392619638	2.435559451	2714.7	3795.0	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	1	c
+7	Spectrogram 1	1	2.508226827	2.584197265	2049.9	2603.9	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	1	d
+8	Spectrogram 1	1	5.677295648	6.004298839	1939.1	3379.5	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	2	e
+9	Spectrogram 1	1	6.060450902	6.215694842	1412.8	2077.6	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	2	b
+10	Spectrogram 1	1	6.294968343	6.377544906	1274.2	2077.6	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	2	b
+11	Spectrogram 1	1	6.466727595	6.559213346	1218.8	2105.3	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	2	b
+12	Spectrogram 1	1	9.923563040	10.230747857	2382.3	3241.0	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	3	a
+13	Spectrogram 1	1	10.326536670	10.471871422	1385.1	2188.4	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	3	b
+14	Spectrogram 1	1	10.561054111	10.679964362	1495.9	2105.3	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	3	b
+15	Spectrogram 1	1	10.752631738	10.901269553	1163.4	1994.5	Pseudopodoces_humilis-ML112858771.wav	D:\Andean\Paridae\Pseudopodoces_humilis-ML112858771.wav	3	b

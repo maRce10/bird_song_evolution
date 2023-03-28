@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.548182175	19.680304677	221.6	2105.3	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	1	a
+2	Spectrogram 1	1	20.165854870	20.317795747	221.6	2160.7	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	1	a
+3	Spectrogram 1	1	20.525888687	20.565525438	193.9	2631.6	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	1	b
+4	Spectrogram 1	1	20.707557127	20.885922505	221.6	2299.2	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	1	c
+5	Spectrogram 1	1	21.070894007	21.094015445	249.3	3019.4	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	1	b
+6	Spectrogram 1	1	21.226137946	21.368169636	277.0	2714.7	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	1	c
+7	Spectrogram 1	1	21.559747263	21.629111576	221.6	2991.7	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	1	d
+8	Spectrogram 1	1	21.698475890	21.840507579	221.6	3130.2	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	1	e
+9	Spectrogram 1	1	22.045297457	22.263299584	249.3	3157.9	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	1	f
+10	Spectrogram 1	1	41.415118482	41.491088920	249.3	1246.5	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	2	g
+11	Spectrogram 1	1	41.570362421	41.626514485	249.3	1108.0	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	2	g
+12	Spectrogram 1	1	41.715697173	41.775152299	166.2	1080.3	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	2	g
+13	Spectrogram 1	1	41.887456425	41.950214614	138.5	1024.9	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	2	g
+14	Spectrogram 1	1	42.072427928	42.125276928	221.6	1108.0	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	2	g
+15	Spectrogram 1	1	42.244187180	42.313551493	387.8	1135.7	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	2	g
+16	Spectrogram 1	1	42.419249495	42.472098495	166.2	969.5	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	2	g
+17	Spectrogram 1	1	42.617433247	42.680191435	360.1	1052.6	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	2	g
+18	Spectrogram 1	1	45.748016350	45.847108226	55.4	1301.9	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	3	a
+19	Spectrogram 1	1	46.378901295	46.431750296	221.6	1246.5	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	3	g
+20	Spectrogram 1	1	46.643146298	46.705904487	193.9	1080.3	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	3	g
+21	Spectrogram 1	1	46.894179052	47.022998491	249.3	2714.7	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	3	h
+22	Spectrogram 1	1	47.204666930	47.326880244	387.8	3379.5	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	3	i
+23	Spectrogram 1	1	47.568003810	47.650580374	277.0	2410.0	Stercorarius_maccormicki-ML253537511.wav	D:\Andean\Stercorariidae\Stercorarius_maccormicki-ML253537511.wav	3	a

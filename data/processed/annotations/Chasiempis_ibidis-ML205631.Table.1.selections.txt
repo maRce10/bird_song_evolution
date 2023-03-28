@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.383155255	0.660612508	1994.5	3213.3	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	a
+2	Spectrogram 1	1	0.753098259	1.083404514	1800.6	3545.7	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	a
+3	Spectrogram 1	1	2.127172277	2.417841780	1828.3	3213.3	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	a
+4	Spectrogram 1	1	2.530145907	2.820815411	1883.7	3518.0	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	a
+5	Spectrogram 1	1	3.950462800	4.234526178	1745.2	3296.4	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	a
+6	Spectrogram 1	1	4.327011929	4.663924309	1800.6	3628.8	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	a
+7	Spectrogram 1	1	5.899269699	6.170120828	1856.0	3213.3	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	a
+8	Spectrogram 1	1	6.275818829	6.586306708	1828.3	3518.0	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	a
+9	Spectrogram 1	1	7.900010344	8.075181688	1717.5	4958.5	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	b
+10	Spectrogram 1	1	8.093866631	8.166270787	4155.2	5928.0	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	c
+11	Spectrogram 1	1	8.229332471	8.483914824	1772.9	5374.0	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	d
+12	Spectrogram 1	1	9.397141432	9.574648394	1412.8	4459.9	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	b
+13	Spectrogram 1	1	9.614353898	9.705442997	4293.7	5623.3	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	c
+14	Spectrogram 1	1	9.747484120	10.009073327	1856.0	5374.0	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	d
+15	Spectrogram 1	1	11.505028130	11.675528238	1634.4	5290.9	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	b
+16	Spectrogram 1	1	11.701220036	11.778295427	4321.4	5429.4	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	c
+17	Spectrogram 1	1	11.820336550	12.086596993	1689.8	5429.4	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	d
+18	Spectrogram 1	1	13.135159288	13.319673104	1772.9	4764.6	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	b
+20	Spectrogram 1	1	13.336022429	13.427111528	4293.7	5900.3	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	c
+21	Spectrogram 1	1	13.477327314	13.743587757	1745.2	5346.3	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	d
+22	Spectrogram 1	1	14.995459118	15.161287991	1551.3	4764.6	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	b
+23	Spectrogram 1	1	15.191651024	15.280404505	4293.7	5789.5	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	c
+24	Spectrogram 1	1	15.315438774	15.581699217	1717.5	5374.0	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	d
+25	Spectrogram 1	1	16.969300712	17.149143292	1523.6	5013.9	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	b
+26	Spectrogram 1	1	17.172499471	17.261252952	4238.3	5623.3	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	c
+27	Spectrogram 1	1	17.300958457	17.562547664	1745.2	5457.1	Chasiempis_ibidis-ML205631.wav	E:\Andean\Monarchidae\Chasiempis_ibidis-ML205631.wav	1	d

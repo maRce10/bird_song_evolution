@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.319979655	0.775425150	332.4	2437.7	Tinamotis_pentlandii-ML210229.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_pentlandii-ML210229.wav	1	a
+2	Spectrogram 1	1	1.300939182	1.758720295	387.8	2382.3	Tinamotis_pentlandii-ML210229.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_pentlandii-ML210229.wav	2	b
+3	Spectrogram 1	1	2.225843880	2.690631846	332.4	2410.0	Tinamotis_pentlandii-ML210229.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamotis_pentlandii-ML210229.wav	3	c

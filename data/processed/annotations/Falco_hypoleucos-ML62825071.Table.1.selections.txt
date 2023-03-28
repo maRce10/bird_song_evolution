@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.668191844	0.742435382	900.4	3096.1	Falco_hypoleucos-ML62825071.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_hypoleucos-ML62825071.wav	1	a
+2	Spectrogram 1	1	1.757097071	1.824269796	966.3	3045.7	Falco_hypoleucos-ML62825071.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_hypoleucos-ML62825071.wav	2	a
+3	Spectrogram 1	1	2.114173136	2.181345861	768.7	3008.8	Falco_hypoleucos-ML62825071.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_hypoleucos-ML62825071.wav	3	a

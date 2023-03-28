@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	265.632127224	265.807298568	1536.9	2166.5	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	1	a
+2	Spectrogram 1	1	265.870360252	265.928750700	1796.2	2425.8	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	1	b
+3	Spectrogram 1	1	265.977798676	266.192675525	1814.7	2722.1	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	1	c
+4	Spectrogram 1	1	266.260408445	266.442586643	1555.5	2407.3	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	1	d
+5	Spectrogram 1	1	266.512655181	266.571045629	2074.0	2629.5	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	1	b
+6	Spectrogram 1	1	266.631771695	266.848984161	1870.3	2944.3	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	1	c
+7	Spectrogram 1	1	266.916717081	267.166628199	1722.1	2499.9	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	1	d
+8	Spectrogram 1	1	267.218011793	267.276402241	1999.9	2536.9	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	1	b
+9	Spectrogram 1	1	267.332457071	267.549669538	1851.7	2759.1	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	1	c
+10	Spectrogram 1	1	267.615066840	267.871984811	1648.1	2499.9	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	1	d
+11	Spectrogram 1	1	269.525792159	269.658922381	1518.4	2203.6	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	a
+12	Spectrogram 1	1	269.739501199	269.994083553	1592.5	2425.8	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	e
+13	Spectrogram 1	1	270.043131553	270.117871326	1666.6	2351.7	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	f
+14	Spectrogram 1	1	270.176261774	270.246330312	1499.9	2055.4	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	f
+15	Spectrogram 1	1	270.281364581	270.330412557	1518.4	1833.2	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	g
+16	Spectrogram 1	1	270.384131769	270.652727830	1611.0	2370.2	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	e
+17	Spectrogram 1	1	270.711820626	270.746502783	1981.4	2648.0	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	b
+18	Spectrogram 1	1	270.748154314	270.865413034	1722.1	2425.8	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	h
+19	Spectrogram 1	1	270.873670691	270.947989598	2018.4	2462.8	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	b
+20	Spectrogram 1	1	271.005793192	271.128006506	1648.1	2185.1	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	f
+21	Spectrogram 1	1	271.180577628	271.418810656	1759.2	2481.3	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	e
+22	Spectrogram 1	1	271.486543576	271.561283349	1777.7	2462.8	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	f
+23	Spectrogram 1	1	271.622009415	271.860242443	1574.0	2370.2	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	2	e
+24	Spectrogram 1	1	273.606299607	273.683374998	1666.6	2092.5	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	f
+25	Spectrogram 1	1	273.762786008	273.996347800	1611.0	2240.6	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	e
+26	Spectrogram 1	1	274.057073866	274.127142404	1666.6	2296.2	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	f
+27	Spectrogram 1	1	274.185532852	274.262608243	1388.8	1999.9	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	f
+28	Spectrogram 1	1	274.285964422	274.339683635	1499.9	1833.2	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	
+29	Spectrogram 1	1	274.402745318	274.673676997	1592.5	2444.3	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	e
+30	Spectrogram 1	1	274.746081153	274.855855195	1722.1	2425.8	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	h
+31	Spectrogram 1	1	274.876875757	274.956286766	1962.9	2351.7	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	g
+32	Spectrogram 1	1	275.012341596	275.129122492	1592.5	2166.5	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	f
+33	Spectrogram 1	1	275.199191030	275.287944511	1666.6	2425.8	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	i
+34	Spectrogram 1	1	275.308965072	275.430417204	1759.2	2462.8	Sheppardia_gunningi-ML58665.wav	E:\Andean\Muscicapidae\Sheppardia_gunningi-ML58665.wav	3	j

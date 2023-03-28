@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.788311618	4.988062090	1313.7	5512.5	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	1	a
+2	Spectrogram 1	1	5.023416156	5.270894617	2163.8	4610.9	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	1	b
+3	Spectrogram 1	1	5.391098440	5.603222835	953.1	5544.5	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	1	a
+4	Spectrogram 1	1	5.650950824	5.884293972	2112.3	4739.7	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	1	b
+5	Spectrogram 1	1	5.886793882	5.962066603	2163.8	4842.8	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	1	c
+6	Spectrogram 1	1	5.990349856	6.027471625	1751.6	2730.5	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	1	d
+7	Spectrogram 1	1	6.059210307	6.141784698	2083.2	5127.9	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	1	e
+8	Spectrogram 1	1	6.144284608	6.211782178	2083.2	5127.9	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	1	c
+9	Spectrogram 1	1	8.034397349	8.251824853	1288.0	5672.7	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	2	a
+10	Spectrogram 1	1	8.283643513	8.524051160	2215.3	4404.8	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	2	b
+11	Spectrogram 1	1	8.621274841	8.833399236	953.1	5288.2	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	2	a
+12	Spectrogram 1	1	18.578839883	18.792731981	1133.4	5736.8	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	3	a
+13	Spectrogram 1	1	18.826318344	19.063190585	2215.3	4533.6	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	3	b
+14	Spectrogram 1	1	19.130363310	19.353093925	1107.7	5435.2	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	3	a
+15	Spectrogram 1	1	19.393751100	19.716998794	2189.5	4688.2	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	3	b
+16	Spectrogram 1	1	19.721998614	19.791484341	2266.8	3915.4	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	3	c
+17	Spectrogram 1	1	19.816232187	19.856889363	1674.4	2859.3	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	3	d
+18	Spectrogram 1	1	19.886005439	19.966122882	2086.5	4920.0	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	3	e
+19	Spectrogram 1	1	19.971122702	20.048619911	2083.2	4198.5	Pyrrhula_nipalensis-ML12997.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_nipalensis-ML12997.wav	3	c

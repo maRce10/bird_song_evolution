@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.118973641	16.014103590	1463.0	2168.4	Amaurolimnas_concolor-ML57927.wav	D:\Andean\Rallidae\Amaurolimnas_concolor-ML57927.wav	1	a
+2	Spectrogram 1	1	16.291560843	17.071083603	1463.0	2063.9	Amaurolimnas_concolor-ML57927.wav	D:\Andean\Rallidae\Amaurolimnas_concolor-ML57927.wav	2	a
+3	Spectrogram 1	1	17.530209296	18.339459619	1463.0	2116.2	Amaurolimnas_concolor-ML57927.wav	D:\Andean\Rallidae\Amaurolimnas_concolor-ML57927.wav	3	a

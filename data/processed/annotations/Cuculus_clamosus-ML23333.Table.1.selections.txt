@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.008177062	10.199089017	966.300	1312.500	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	1	a
+2	Spectrogram 1	1	10.488992357	10.800108136	944.400	1405.600	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	1	b
+3	Spectrogram 1	1	11.171325827	11.648605716	1076.100	1537.400	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	1	c
+4	Spectrogram 1	1	12.041035846	12.493567889	1186.000	1601.200	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	1	c
+5	Spectrogram 1	1	14.718267723	14.905644272	1023.700	1365.000	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	2	a
+6	Spectrogram 1	1	15.216760051	15.524340424	1023.700	1365.000	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	2	b
+7	Spectrogram 1	1	15.899093522	16.372838004	1155.000	1548.700	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	2	c
+8	Spectrogram 1	1	16.761732728	17.224870990	1207.500	1601.000	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	2	c
+9	Spectrogram 1	1	19.565309857	19.749150999	918.700	1338.700	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	3	a
+10	Spectrogram 1	1	20.053195965	20.350170118	997.500	1391.200	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	3	b
+11	Spectrogram 1	1	20.731994029	21.209273918	1128.700	1548.700	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	3	c
+12	Spectrogram 1	1	21.594633235	22.068377717	1181.200	1601.200	Cuculus_clamosus-ML23333.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_clamosus-ML23333.wav	3	c

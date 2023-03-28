@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.437586835	5.479855624	3879.5	6096.3	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	1	a
+2	Spectrogram 1	1	5.503176335	5.541072491	3288.3	5763.8	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	1	b
+3	Spectrogram 1	1	5.571680924	5.618322347	2808.0	5800.7	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	1	c
+4	Spectrogram 1	1	5.653303414	5.692657114	3399.1	5726.8	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	1	d
+5	Spectrogram 1	1	6.578844144	6.622570477	3916.4	5985.4	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	2	a
+6	Spectrogram 1	1	6.647348489	6.686702189	3288.3	5911.5	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	2	b
+7	Spectrogram 1	1	6.715853078	6.755206779	3029.7	5837.7	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	2	c
+8	Spectrogram 1	1	6.819338735	6.857234890	3731.7	5800.7	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	2	d
+11	Spectrogram 1	1	7.734511343	7.781152765	3916.4	5911.5	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	3	a
+12	Spectrogram 1	1	7.803015932	7.840912088	2918.8	5800.7	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	3	c
+13	Spectrogram 1	1	7.870062977	7.909416678	2992.7	5689.9	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	3	c
+14	Spectrogram 1	1	8.001241978	8.037680590	3620.8	5689.9	Todirostrum_cinereum-ML199435.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_cinereum-ML199435.wav	3	d

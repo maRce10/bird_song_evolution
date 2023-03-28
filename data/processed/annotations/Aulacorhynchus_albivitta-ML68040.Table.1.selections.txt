@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.212969717	4.318667718	249.3	2160.7	Aulacorhynchus_albivitta-ML68040.wav	D:\Andean\Ramphastidae\Aulacorhynchus_albivitta-ML68040.wav	1	a
+2	Spectrogram 1	1	4.787702599	4.893400601	249.3	2105.3	Aulacorhynchus_albivitta-ML68040.wav	D:\Andean\Ramphastidae\Aulacorhynchus_albivitta-ML68040.wav	2	a
+3	Spectrogram 1	1	5.369041607	5.468133483	249.3	2105.3	Aulacorhynchus_albivitta-ML68040.wav	D:\Andean\Ramphastidae\Aulacorhynchus_albivitta-ML68040.wav	3	a

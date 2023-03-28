@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	46.253427015	46.333806012	1882.3	8013.3	Ibidorhyncha_struthersii-ML77304.wav	C:\Users\Carlos PC\Desktop\Marcelo\Ibidorhynchidae\Ibidorhyncha_struthersii-ML77304.wav	1	a
+2	Spectrogram 1	1	46.375381355	46.480705558	1936.1	10003.2	Ibidorhyncha_struthersii-ML77304.wav	C:\Users\Carlos PC\Desktop\Marcelo\Ibidorhynchidae\Ibidorhyncha_struthersii-ML77304.wav	1	a
+3	Spectrogram 1	1	88.472871039	88.567108483	2097.4	6937.7	Ibidorhyncha_struthersii-ML77304.wav	C:\Users\Carlos PC\Desktop\Marcelo\Ibidorhynchidae\Ibidorhyncha_struthersii-ML77304.wav	2	a
+4	Spectrogram 1	1	88.611455516	88.722323098	1721.0	5539.4	Ibidorhyncha_struthersii-ML77304.wav	C:\Users\Carlos PC\Desktop\Marcelo\Ibidorhynchidae\Ibidorhyncha_struthersii-ML77304.wav	2	a
+5	Spectrogram 1	1	95.178898801	95.259277798	1828.5	8013.3	Ibidorhyncha_struthersii-ML77304.wav	C:\Users\Carlos PC\Desktop\Marcelo\Ibidorhynchidae\Ibidorhyncha_struthersii-ML77304.wav	3	a
+6	Spectrogram 1	1	95.300853141	95.414492413	2258.8	8174.6	Ibidorhyncha_struthersii-ML77304.wav	C:\Users\Carlos PC\Desktop\Marcelo\Ibidorhynchidae\Ibidorhyncha_struthersii-ML77304.wav	3	a

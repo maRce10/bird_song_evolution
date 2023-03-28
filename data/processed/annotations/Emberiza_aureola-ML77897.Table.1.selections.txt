@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.078676537	16.119925051	2569.6	3579.8	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	1	a
+2	Spectrogram 1	1	16.129924691	16.416164382	2547.6	3579.8	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	1	b
+3	Spectrogram 1	1	16.451163122	16.669905244	1778.9	2459.8	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	1	c
+4	Spectrogram 1	1	16.697404254	16.792400833	4019.1	5534.5	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	1	d
+5	Spectrogram 1	1	16.782401193	16.909896601	2240.1	3008.8	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	1	e
+6	Spectrogram 1	1	16.946145296	17.032392190	4150.8	5534.5	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	1	d
+7	Spectrogram 1	1	17.021142595	17.149887958	2086.4	3030.8	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	1	e
+8	Spectrogram 1	1	17.187748489	17.525236335	2328.0	5358.8	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	1	f
+9	Spectrogram 1	1	26.647703317	26.692701696	2459.8	3470.0	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	2	a
+10	Spectrogram 1	1	26.700201426	26.980191342	2591.5	3579.8	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	2	b
+11	Spectrogram 1	1	27.015190082	27.236432114	1647.2	2371.9	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	2	c
+12	Spectrogram 1	1	27.276430674	27.361427613	3623.8	5556.4	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	2	d
+13	Spectrogram 1	1	27.356427793	27.473923561	2174.3	3052.7	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	2	e
+14	Spectrogram 1	1	27.515172076	27.608918699	4063.0	5622.3	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	2	d
+15	Spectrogram 1	1	27.595169195	27.725164513	2064.4	3096.7	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	2	e
+16	Spectrogram 1	1	27.756829563	28.106816959	2486.6	4941.5	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	2	f
+17	Spectrogram 1	1	36.329671395	36.373419819	2613.5	3382.2	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	3	a
+18	Spectrogram 1	1	36.378419639	36.669659150	2679.4	3557.9	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	3	b
+19	Spectrogram 1	1	36.707157800	36.922150057	1691.1	2415.8	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	3	c
+20	Spectrogram 1	1	36.960898662	37.050895421	4085.0	5666.2	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	3	d
+21	Spectrogram 1	1	37.038395871	37.167141234	2196.2	2964.9	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	3	e
+22	Spectrogram 1	1	37.207139794	37.289636823	3799.5	5754.1	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	3	d
+23	Spectrogram 1	1	37.282137093	37.407132591	2262.1	3052.7	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	3	e
+24	Spectrogram 1	1	37.444631072	37.784618828	2547.6	4831.7	Emberiza_aureola-ML77897.wav	E:\Escritorio\Cantos\Emberizidae\Emberizidae\Emberiza_aureola-ML77897.wav	3	f

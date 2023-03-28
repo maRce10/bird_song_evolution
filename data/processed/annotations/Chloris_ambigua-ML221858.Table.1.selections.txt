@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.735681149	5.690240926	3338.2	4963.4	Chloris_ambigua-ML221858.wav	E:\Escritorio\Cantos\Fringillidae\Chloris_ambigua-ML221858.wav	1	a
+2	Spectrogram 1	1	9.773635148	10.752942771	3315.2	4960.0	Chloris_ambigua-ML221858.wav	E:\Escritorio\Cantos\Fringillidae\Chloris_ambigua-ML221858.wav	2	a
+3	Spectrogram 1	1	30.584822543	31.529788512	3263.8	5011.4	Chloris_ambigua-ML221858.wav	E:\Escritorio\Cantos\Fringillidae\Chloris_ambigua-ML221858.wav	3	a

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.868095590	13.324163039	1044.500	1682.800	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	1	a
+2	Spectrogram 1	1	13.539822841	13.893363499	1073.500	1682.800	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	1	b
+3	Spectrogram 1	1	14.066598422	14.349430948	406.200	1160.500	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	1	c
+4	Spectrogram 1	1	14.483776398	14.759538112	319.100	1189.500	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	1	d
+5	Spectrogram 1	1	19.700440062	20.149436698	986.400	1682.800	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	2	a
+6	Spectrogram 1	1	20.375702720	20.750455817	899.400	1682.800	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	2	b
+7	Spectrogram 1	1	20.913084520	21.185310827	522.200	1073.500	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	2	c
+8	Spectrogram 1	1	21.340868716	21.595417990	377.200	986.400	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	2	d
+9	Spectrogram 1	1	26.582136173	27.024061995	1015.500	1653.700	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	3	a
+10	Spectrogram 1	1	27.229115577	27.596797862	986.400	1682.800	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	3	b
+11	Spectrogram 1	1	27.748820345	28.035188278	464.200	1073.500	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	3	c
+12	Spectrogram 1	1	28.169533728	28.420547595	493.200	1102.500	Coua_verreauxi-ML93643.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_verreauxi-ML93643.wav	3	d

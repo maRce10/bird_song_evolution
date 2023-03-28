@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.259933164	2.159382503	233.6	584.0	Zentrygon_albifacies-ML47802741.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_albifacies-ML47802741.wav	1	a
+2	Spectrogram 1	1	6.913835326	7.884873489	163.5	654.0	Zentrygon_albifacies-ML47802741.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_albifacies-ML47802741.wav	2	a
+3	Spectrogram 1	1	10.847656500	11.739763395	186.9	584.0	Zentrygon_albifacies-ML47802741.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Zentrygon_albifacies-ML47802741.wav	3	a

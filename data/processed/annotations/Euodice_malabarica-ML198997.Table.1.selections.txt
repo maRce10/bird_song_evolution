@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.721395081	0.758107299	2382.5	6026.4	Euodice_malabarica-ML198997.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Euodice_malabarica-ML198997.wav	1	a
+2	Spectrogram 1	1	1.457475050	1.488680435	2265.7	6143.2	Euodice_malabarica-ML198997.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Euodice_malabarica-ML198997.wav	2	a
+3	Spectrogram 1	1	1.892514832	1.925555828	3130.0	7030.8	Euodice_malabarica-ML198997.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Euodice_malabarica-ML198997.wav	3	a

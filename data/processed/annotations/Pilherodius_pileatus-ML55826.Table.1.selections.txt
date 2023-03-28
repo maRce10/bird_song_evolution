@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	147.967165362	148.165739772	271.9	642.7	Pilherodius_pileatus-ML55826.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Pilherodius_pileatus-ML55826.wav	1	a
+2	Spectrogram 1	1	148.463601388	148.633808025	197.8	667.4	Pilherodius_pileatus-ML55826.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Pilherodius_pileatus-ML55826.wav	2	a
+3	Spectrogram 1	1	148.967129357	149.128471066	247.2	667.4	Pilherodius_pileatus-ML55826.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Pilherodius_pileatus-ML55826.wav	3	a

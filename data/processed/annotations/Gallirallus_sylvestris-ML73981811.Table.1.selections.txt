@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.924235152	0.998380856	2105.3	3324.1	Gallirallus_sylvestris-ML73981811.wav	D:\Andean\Rallidae\Gallirallus_sylvestris-ML73981811.wav	1	a
+2	Spectrogram 1	1	0.999704887	1.149320326	1883.7	2520.8	Gallirallus_sylvestris-ML73981811.wav	D:\Andean\Rallidae\Gallirallus_sylvestris-ML73981811.wav	1	b
+3	Spectrogram 1	1	1.420746565	1.490920179	2243.8	3324.1	Gallirallus_sylvestris-ML73981811.wav	D:\Andean\Rallidae\Gallirallus_sylvestris-ML73981811.wav	2	a
+4	Spectrogram 1	1	1.496216300	1.623323222	1939.1	2465.4	Gallirallus_sylvestris-ML73981811.wav	D:\Andean\Rallidae\Gallirallus_sylvestris-ML73981811.wav	2	b
+5	Spectrogram 1	1	1.902693644	1.986107562	2133.0	3296.4	Gallirallus_sylvestris-ML73981811.wav	D:\Andean\Rallidae\Gallirallus_sylvestris-ML73981811.wav	3	a
+6	Spectrogram 1	1	1.995375775	2.098650149	1800.6	2382.3	Gallirallus_sylvestris-ML73981811.wav	D:\Andean\Rallidae\Gallirallus_sylvestris-ML73981811.wav	3	b

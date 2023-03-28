@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	261.869985020	262.286668693	1261.3	1728.5	Telophorus_nigrifrons-ML8957.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_nigrifrons-ML8957.wav	1	a
+2	Spectrogram 1	1	266.891973849	267.270109693	1284.7	1728.5	Telophorus_nigrifrons-ML8957.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_nigrifrons-ML8957.wav	2	a
+3	Spectrogram 1	1	286.411016371	286.807508324	1238.0	1658.4	Telophorus_nigrifrons-ML8957.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Telophorus_nigrifrons-ML8957.wav	3	a

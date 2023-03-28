@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.627134885	5.698000590	1728.5	5839.5	Cisticola_galactotes-ML80688.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_galactotes-ML80688.wav	1	a
+2	Spectrogram 1	1	6.020439550	6.096620183	1728.5	5886.2	Cisticola_galactotes-ML80688.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_galactotes-ML80688.wav	1	a
+3	Spectrogram 1	1	7.286443372	7.360852363	1541.6	5512.5	Cisticola_galactotes-ML80688.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_galactotes-ML80688.wav	2	a
+4	Spectrogram 1	1	7.713409248	7.787818238	1541.6	5676.0	Cisticola_galactotes-ML80688.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_galactotes-ML80688.wav	2	b
+5	Spectrogram 1	1	8.818914252	8.888008315	1565.0	5792.8	Cisticola_galactotes-ML80688.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_galactotes-ML80688.wav	3	a
+6	Spectrogram 1	1	9.306763586	9.386487505	1494.9	5839.5	Cisticola_galactotes-ML80688.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_galactotes-ML80688.wav	3	a

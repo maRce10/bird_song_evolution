@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.977435030	17.021489692	700.7	4204.4	Sternula_superciliaris-ML91487.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_superciliaris-ML91487.wav	1	a
+2	Spectrogram 1	1	19.109937276	19.193594955	822.8	3831.7	Sternula_superciliaris-ML91487.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_superciliaris-ML91487.wav	2	b
+3	Spectrogram 1	1	22.236501539	22.388857243	658.2	4278.4	Sternula_superciliaris-ML91487.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_superciliaris-ML91487.wav	3	c

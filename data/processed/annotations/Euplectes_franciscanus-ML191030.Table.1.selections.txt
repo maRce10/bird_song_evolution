@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.108840848	7.161689849	3823.4	7961.0	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	1	a
+2	Spectrogram 1	1	7.262433256	7.330146038	3849.6	8039.6	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	1	a
+3	Spectrogram 1	1	7.420980258	7.483738447	3928.1	8013.4	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	1	a
+4	Spectrogram 1	1	7.574572667	7.637330855	3771.0	8039.6	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	1	a
+5	Spectrogram 1	1	7.860287576	7.921394233	3849.6	8118.2	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	1	a
+6	Spectrogram 1	1	8.238488237	8.378868395	4347.1	7515.9	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	1	b
+7	Spectrogram 1	1	11.928283423	11.984435486	3849.6	8249.1	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	2	a
+8	Spectrogram 1	1	12.190876895	12.243725895	3823.4	8275.3	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	2	a
+9	Spectrogram 1	1	15.327590989	15.383743052	4085.3	8196.7	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	3	a
+10	Spectrogram 1	1	15.887460090	15.940309091	3849.6	7830.1	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	3	a
+11	Spectrogram 1	1	16.143447437	16.199599500	4006.7	8301.5	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	3	a
+12	Spectrogram 1	1	16.572845567	16.723134913	4268.6	7830.1	Euplectes_franciscanus-ML191030.wav	D:\Andean\Ploceidae\Euplectes_franciscanus-ML191030.wav	3	b

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.251787407	9.283318249	1440.3	4006.7	Dryobates_nuttallii-ML189630311.wav	D:\Andean\Picidae\Dryobates_nuttallii-ML189630311.wav	1	a
+2	Spectrogram 1	1	9.299667574	9.333534034	1492.7	4137.6	Dryobates_nuttallii-ML189630311.wav	D:\Andean\Picidae\Dryobates_nuttallii-ML189630311.wav	1	a
+3	Spectrogram 1	1	9.583445151	9.624318465	1466.5	3954.3	Dryobates_nuttallii-ML189630311.wav	D:\Andean\Picidae\Dryobates_nuttallii-ML189630311.wav	2	a
+4	Spectrogram 1	1	9.639499982	9.671030824	1466.5	4242.4	Dryobates_nuttallii-ML189630311.wav	D:\Andean\Picidae\Dryobates_nuttallii-ML189630311.wav	2	a
+5	Spectrogram 1	1	10.620459532	10.651990374	1309.4	4032.9	Dryobates_nuttallii-ML189630311.wav	D:\Andean\Picidae\Dryobates_nuttallii-ML189630311.wav	3	a
+6	Spectrogram 1	1	10.674178745	10.706877395	1361.8	4085.3	Dryobates_nuttallii-ML189630311.wav	D:\Andean\Picidae\Dryobates_nuttallii-ML189630311.wav	3	a

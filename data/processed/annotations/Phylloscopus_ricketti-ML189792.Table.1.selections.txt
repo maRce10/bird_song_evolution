@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	54.504664935	54.564120060	6389.8	7227.8	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	1	a
+2	Spectrogram 1	1	54.762303813	54.841577314	6389.8	7384.9	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	1	a
+3	Spectrogram 1	1	55.000124316	55.138852943	5420.8	7280.2	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	1	b
+4	Spectrogram 1	1	55.221429506	55.363461196	5316.1	7384.9	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	1	c
+5	Spectrogram 1	1	55.416310196	55.568251073	5289.9	7437.3	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	1	c
+6	Spectrogram 1	1	55.617797011	55.733404200	4425.7	7306.4	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	1	b
+7	Spectrogram 1	1	55.782950138	55.891951202	4399.5	7411.1	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	1	b
+8	Spectrogram 1	1	55.941497140	56.090134955	3404.4	7201.6	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	1	b
+9	Spectrogram 1	1	60.883395358	60.919729046	6442.2	7280.2	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	2	a
+10	Spectrogram 1	1	61.177367924	61.233519987	6285.0	7201.6	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	2	a
+11	Spectrogram 1	1	61.385460864	61.527492553	5420.8	7306.4	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	2	b
+12	Spectrogram 1	1	61.613372179	61.752100806	5316.1	7358.7	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	2	c
+13	Spectrogram 1	1	61.814858994	61.963496809	5316.1	7411.1	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	2	c
+14	Spectrogram 1	1	62.016345809	62.135256061	4373.3	7358.7	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	2	b
+15	Spectrogram 1	1	62.188105062	62.307015313	4451.9	7306.4	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	2	b
+16	Spectrogram 1	1	62.343349001	62.488683753	3483.0	7306.4	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	2	b
+17	Spectrogram 1	1	71.547056004	71.596601942	6337.4	7280.2	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	3	a
+18	Spectrogram 1	1	71.821210194	71.870756133	6363.6	7254.0	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	3	a
+19	Spectrogram 1	1	72.032606197	72.181244012	5342.3	7306.4	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	3	b
+20	Spectrogram 1	1	72.257214450	72.422367577	5342.3	7411.1	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	3	c
+21	Spectrogram 1	1	72.468610453	72.607339079	5316.1	7437.3	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	3	c
+22	Spectrogram 1	1	72.660188080	72.789007519	4242.4	7384.9	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	3	b
+23	Spectrogram 1	1	72.825341207	72.944251459	4373.3	7358.7	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	3	b
+24	Spectrogram 1	1	72.997100459	73.129222961	3613.9	7280.2	Phylloscopus_ricketti-ML189792.wav	D:\Andean\Phylloscopidae\Phylloscopus_ricketti-ML189792.wav	3	b

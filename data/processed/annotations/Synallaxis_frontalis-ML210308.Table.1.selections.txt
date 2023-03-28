@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	285.659185736	285.772318746	2161.0	7379.3	Synallaxis_frontalis-ML210308.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_frontalis-ML210308.wav	1	a
+2	Spectrogram 1	1	285.899593383	286.097576152	1186.0	7598.9	Synallaxis_frontalis-ML210308.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_frontalis-ML210308.wav	1	b
+3	Spectrogram 1	1	287.759217246	287.872350256	2051.2	7401.2	Synallaxis_frontalis-ML210308.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_frontalis-ML210308.wav	2	a
+4	Spectrogram 1	1	287.999624893	288.190536849	1054.2	7555.0	Synallaxis_frontalis-ML210308.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_frontalis-ML210308.wav	2	b
+5	Spectrogram 1	1	289.591140214	289.700737818	2161.0	7467.1	Synallaxis_frontalis-ML210308.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_frontalis-ML210308.wav	3	a
+6	Spectrogram 1	1	289.831547861	290.025995223	1142.0	7467.1	Synallaxis_frontalis-ML210308.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_frontalis-ML210308.wav	3	b

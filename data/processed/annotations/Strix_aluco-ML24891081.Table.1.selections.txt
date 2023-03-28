@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.220314099	2.997424033	526.3	886.4	Strix_aluco-ML24891081.wav	D:\Andean\Strigidae\Strix_aluco-ML24891081.wav	1	a
+2	Spectrogram 1	1	7.808104580	8.807245924	498.6	858.7	Strix_aluco-ML24891081.wav	D:\Andean\Strigidae\Strix_aluco-ML24891081.wav	1	a
+3	Spectrogram 1	1	19.131706483	19.797800712	526.3	886.4	Strix_aluco-ML24891081.wav	D:\Andean\Strigidae\Strix_aluco-ML24891081.wav	2	a
+4	Spectrogram 1	1	24.127413204	24.312439379	443.2	775.6	Strix_aluco-ML24891081.wav	D:\Andean\Strigidae\Strix_aluco-ML24891081.wav	2	b
+5	Spectrogram 1	1	24.793507434	25.644627838	498.6	886.4	Strix_aluco-ML24891081.wav	D:\Andean\Strigidae\Strix_aluco-ML24891081.wav	2	a
+6	Spectrogram 1	1	43.111098747	43.740187742	470.9	886.4	Strix_aluco-ML24891081.wav	D:\Andean\Strigidae\Strix_aluco-ML24891081.wav	3	a
+7	Spectrogram 1	1	48.032794999	48.217821174	443.2	747.9	Strix_aluco-ML24891081.wav	D:\Andean\Strigidae\Strix_aluco-ML24891081.wav	3	b
+8	Spectrogram 1	1	48.698889228	49.661025338	526.3	886.4	Strix_aluco-ML24891081.wav	D:\Andean\Strigidae\Strix_aluco-ML24891081.wav	3	a

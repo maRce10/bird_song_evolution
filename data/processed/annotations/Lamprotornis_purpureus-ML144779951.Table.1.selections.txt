@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	157.541252114	157.825315493	1246.5	5069.3	Lamprotornis_purpureus-ML144779951.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpureus-ML144779951.wav	1	a
+2	Spectrogram 1	1	158.162227506	158.360411624	747.9	3407.2	Lamprotornis_purpureus-ML144779951.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpureus-ML144779951.wav	1	b
+3	Spectrogram 1	1	159.860388293	159.902429416	858.7	3047.1	Lamprotornis_purpureus-ML144779951.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpureus-ML144779951.wav	2	c
+4	Spectrogram 1	1	159.921114359	160.028552784	747.9	3878.1	Lamprotornis_purpureus-ML144779951.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpureus-ML144779951.wav	2	d
+5	Spectrogram 1	1	160.769801924	160.901924426	886.4	3656.5	Lamprotornis_purpureus-ML144779951.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpureus-ML144779951.wav	3	e
+6	Spectrogram 1	1	160.920091270	161.078638272	720.2	2742.4	Lamprotornis_purpureus-ML144779951.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpureus-ML144779951.wav	3	f

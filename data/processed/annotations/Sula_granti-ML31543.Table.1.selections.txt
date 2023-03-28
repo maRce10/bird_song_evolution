@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	62.951162006	63.009552454	193.9	2964.0	Sula_granti-ML31543.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_granti-ML31543.wav	1	a
+2	Spectrogram 1	1	63.262102455	63.301807960	138.5	2964.0	Sula_granti-ML31543.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_granti-ML31543.wav	1	a
+3	Spectrogram 1	1	63.540040988	63.593760200	193.9	2742.4	Sula_granti-ML31543.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_granti-ML31543.wav	1	a
+4	Spectrogram 1	1	63.787616488	63.836664464	83.1	2742.4	Sula_granti-ML31543.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_granti-ML31543.wav	1	a
+5	Spectrogram 1	1	64.004828955	64.053876931	166.2	2659.3	Sula_granti-ML31543.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_granti-ML31543.wav	1	a
+6	Spectrogram 1	1	64.259411308	64.303788049	83.1	2659.3	Sula_granti-ML31543.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_granti-ML31543.wav	1	a
+7	Spectrogram 1	1	64.780254105	64.824327579	221.6	2548.5	Sula_granti-ML31543.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_granti-ML31543.wav	2	a
+8	Spectrogram 1	1	65.249713307	65.289418812	83.1	2770.1	Sula_granti-ML31543.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_granti-ML31543.wav	3	a
+9	Spectrogram 1	1	65.511302514	65.555679255	193.9	2770.1	Sula_granti-ML31543.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_granti-ML31543.wav	3	a

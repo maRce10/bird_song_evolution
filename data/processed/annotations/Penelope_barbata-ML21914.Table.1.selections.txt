@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	72.319716779	72.446373931	373.729	2359.163	Penelope_barbata-ML21914.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_barbata-ML21914.wav	1	a
+2	Spectrogram 1	1	72.593222803	72.734564842	397.087	2405.879	Penelope_barbata-ML21914.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_barbata-ML21914.wav	2	a
+3	Spectrogram 1	1	72.868564437	73.006235254	350.371	2452.595	Penelope_barbata-ML21914.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_barbata-ML21914.wav	3	a

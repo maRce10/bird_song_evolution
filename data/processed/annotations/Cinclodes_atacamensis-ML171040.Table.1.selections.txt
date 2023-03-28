@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.974697833	17.155003569	1273.8	5995.7	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	1	a
+2	Spectrogram 1	1	17.181503426	17.206502525	1273.8	8169.9	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	1	b
+3	Spectrogram 1	1	17.234001535	17.271500184	535.4	8517.1	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	1	b
+4	Spectrogram 1	1	17.288999554	17.326498204	506.7	8499.4	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	1	b
+5	Spectrogram 1	1	17.348997393	17.386496043	506.7	8488.4	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	1	b
+6	Spectrogram 1	1	17.418994873	17.458993432	506.7	8545.8	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	1	b
+7	Spectrogram 1	1	17.473992892	17.508991631	478.0	8488.4	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	1	b
+8	Spectrogram 1	1	19.115768983	19.263263671	1569.0	5732.1	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	2	a
+9	Spectrogram 1	1	19.293262590	19.325761420	1023.5	8316.1	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	2	b
+10	Spectrogram 1	1	19.348260610	19.383259349	1023.5	8287.4	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	2	b
+11	Spectrogram 1	1	19.775745214	19.960738552	1310.6	5760.8	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	3	a
+12	Spectrogram 1	1	19.973238102	20.010736751	1224.5	8804.2	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	3	b
+13	Spectrogram 1	1	20.030736031	20.073234501	1224.5	8804.2	Cinclodes_atacamensis-ML171040.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_atacamensis-ML171040.wav	3	b

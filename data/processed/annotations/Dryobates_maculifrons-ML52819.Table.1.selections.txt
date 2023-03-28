@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.565965902	7.645239403	890.4	3535.3	Dryobates_maculifrons-ML52819.wav	D:\Andean\Picidae\Dryobates_maculifrons-ML52819.wav	1	a
+2	Spectrogram 1	1	9.369438050	9.475136051	995.1	3561.5	Dryobates_maculifrons-ML52819.wav	D:\Andean\Picidae\Dryobates_maculifrons-ML52819.wav	2	a
+3	Spectrogram 1	1	11.397518451	11.470185827	995.1	3640.1	Dryobates_maculifrons-ML52819.wav	D:\Andean\Picidae\Dryobates_maculifrons-ML52819.wav	3	a

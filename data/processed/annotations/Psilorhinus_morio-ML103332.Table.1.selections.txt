@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.007788143	7.601736449	736.900	2723.300	Psilorhinus_morio-ML103332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Psilorhinus_morio-ML103332.wav	1	a
+2	Spectrogram 1	1	8.676500050	9.305802422	793.600	2789.200	Psilorhinus_morio-ML103332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Psilorhinus_morio-ML103332.wav	2	a
+3	Spectrogram 1	1	9.963388046	10.642186110	736.900	2811.200	Psilorhinus_morio-ML103332.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Psilorhinus_morio-ML103332.wav	1	a

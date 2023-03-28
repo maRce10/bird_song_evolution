@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.813000983	3.167598145	889.9	4301.2	Stictonetta_naevosa-ML184685051.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Stictonetta_naevosa-ML184685051.wav	1	a
+2	Spectrogram 1	1	4.271593104	4.455885576	667.4	5339.5	Stictonetta_naevosa-ML184685051.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Stictonetta_naevosa-ML184685051.wav	2	b
+3	Spectrogram 1	1	4.667368093	5.167350091	664.2	5278.8	Stictonetta_naevosa-ML184685051.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Stictonetta_naevosa-ML184685051.wav	2	a
+4	Spectrogram 1	1	6.878764812	7.154576676	642.7	4597.9	Stictonetta_naevosa-ML184685051.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Stictonetta_naevosa-ML184685051.wav	3	a

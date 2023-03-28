@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	102.273445051	102.303808084	1828.3	3102.5	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	1	a
+2	Spectrogram 1	1	102.555623808	102.595260559	2017.5	3134.0	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	1	b
+3	Spectrogram 1	1	102.824823405	102.862808624	2017.5	3114.4	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	1	b
+4	Spectrogram 1	1	105.265782752	105.323586347	1077.3	3231.9	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	1	c
+5	Spectrogram 1	1	105.338450128	105.383041472	1253.6	2683.5	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	1	d
+6	Spectrogram 1	1	105.396253723	105.437542004	1292.8	2428.9	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	1	e
+7	Spectrogram 1	1	108.397128785	108.418149346	1175.3	2722.7	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	2	f
+8	Spectrogram 1	1	108.705430350	108.740464619	1743.3	2820.6	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	2	g
+9	Spectrogram 1	1	108.988040119	109.017235343	1958.8	2977.3	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	2	h
+11	Spectrogram 1	1	111.795452038	111.856178104	1253.6	3251.5	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	2	i
+12	Spectrogram 1	1	111.872527429	111.913400743	1273.2	2644.3	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	2	j
+13	Spectrogram 1	1	111.933253495	111.967119955	1214.4	2389.7	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	2	k
+14	Spectrogram 1	1	114.581018339	114.600871092	1096.9	3271.1	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	3	l
+15	Spectrogram 1	1	114.868299344	114.897494568	2017.5	2996.9	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	3	h
+16	Spectrogram 1	1	115.142734449	115.174265291	2233.0	3212.4	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	3	m
+17	Spectrogram 1	1	115.498916182	115.531614833	1997.9	2938.1	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	3	h
+18	Spectrogram 1	1	118.192634192	118.244017787	1234.0	3329.9	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	3	i
+19	Spectrogram 1	1	118.263870539	118.301240426	1351.5	2761.8	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	3	n
+20	Spectrogram 1	1	118.322260987	118.361966492	1371.1	2624.7	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	3	o
+21	Spectrogram 1	1	118.388826098	118.415685704	1704.1	2683.5	Hemitriccus_striaticollis-ML168690.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_striaticollis-ML168690.wav	3	p

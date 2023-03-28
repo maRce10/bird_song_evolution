@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.932664495	4.976989141	247.2	2620.3	Chenonetta_jubata-ML62986891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chenonetta_jubata-ML62986891.wav	1	a
+2	Spectrogram 1	1	5.046135587	5.083368289	197.8	2595.6	Chenonetta_jubata-ML62986891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chenonetta_jubata-ML62986891.wav	2	a
+3	Spectrogram 1	1	5.156060707	5.196839381	123.6	2397.8	Chenonetta_jubata-ML62986891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chenonetta_jubata-ML62986891.wav	3	a

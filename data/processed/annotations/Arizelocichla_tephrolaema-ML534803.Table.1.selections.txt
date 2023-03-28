@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	65.411149685	65.665485501	1080.3	1994.5	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	1	a
+2	Spectrogram 1	1	65.876881503	65.979276442	1246.5	2410.0	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	1	b
+3	Spectrogram 1	1	66.121308131	66.276552071	1634.4	2770.1	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	1	c
+4	Spectrogram 1	1	66.441705198	66.530887886	1191.1	1800.6	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	1	d
+5	Spectrogram 1	1	66.682828763	66.745586952	1301.9	1966.8	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	1	e
+6	Spectrogram 1	1	74.026233996	74.277266749	1163.4	1994.5	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	2	a
+7	Spectrogram 1	1	74.482056627	74.607573004	1108.0	2326.9	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	2	b
+8	Spectrogram 1	1	74.739695505	74.894939445	1579.0	2742.4	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	2	c
+9	Spectrogram 1	1	75.066698697	75.152578323	1218.8	1772.9	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	2	d
+10	Spectrogram 1	1	75.301216137	75.363974326	1329.6	1966.8	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	2	e
+11	Spectrogram 1	1	84.281716075	84.496415140	1191.1	1994.5	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	3	a
+12	Spectrogram 1	1	84.687992767	84.830024457	1191.1	2382.3	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	3	b
+13	Spectrogram 1	1	84.958843896	85.114087835	1579.0	2770.1	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	3	c
+14	Spectrogram 1	1	85.289150150	85.371726713	1163.4	1772.9	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	3	d
+15	Spectrogram 1	1	85.536879841	85.616153342	1191.1	1994.5	Arizelocichla_tephrolaema-ML534803.wav	D:\Andean\Pycnonotidae\Arizelocichla_tephrolaema-ML534803.wav	3	e

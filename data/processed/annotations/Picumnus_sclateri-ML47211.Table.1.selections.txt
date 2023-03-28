@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.211183549	5.442397927	5013.9	7063.8	Picumnus_sclateri-ML47211.wav	D:\Andean\Picidae\Picumnus_sclateri-ML47211.wav	1	a
+2	Spectrogram 1	1	6.017130810	6.254951313	5097.0	6121.9	Picumnus_sclateri-ML47211.wav	D:\Andean\Picidae\Picumnus_sclateri-ML47211.wav	1	b
+3	Spectrogram 1	1	6.783441319	6.994837322	5290.9	5789.5	Picumnus_sclateri-ML47211.wav	D:\Andean\Picidae\Picumnus_sclateri-ML47211.wav	1	c
+4	Spectrogram 1	1	15.747349261	16.024806515	4958.5	7063.8	Picumnus_sclateri-ML47211.wav	D:\Andean\Picidae\Picumnus_sclateri-ML47211.wav	2	a
+5	Spectrogram 1	1	16.559902647	16.777904774	4958.5	5928.0	Picumnus_sclateri-ML47211.wav	D:\Andean\Picidae\Picumnus_sclateri-ML47211.wav	2	b
+6	Spectrogram 1	1	17.372456032	17.570639784	5401.7	6094.2	Picumnus_sclateri-ML47211.wav	D:\Andean\Picidae\Picumnus_sclateri-ML47211.wav	2	c
+7	Spectrogram 1	1	25.978622695	26.216443198	4709.2	7008.4	Picumnus_sclateri-ML47211.wav	D:\Andean\Picidae\Picumnus_sclateri-ML47211.wav	3	a
+8	Spectrogram 1	1	26.758145454	26.982753707	4875.4	6011.1	Picumnus_sclateri-ML47211.wav	D:\Andean\Picidae\Picumnus_sclateri-ML47211.wav	3	b
+9	Spectrogram 1	1	27.570698840	27.768882592	5235.5	5955.7	Picumnus_sclateri-ML47211.wav	D:\Andean\Picidae\Picumnus_sclateri-ML47211.wav	3	c

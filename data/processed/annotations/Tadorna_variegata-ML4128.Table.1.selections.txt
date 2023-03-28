@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.980700033	15.216507145	247.2	2323.7	Tadorna_variegata-ML4128.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Tadorna_variegata-ML4128.wav	1	a
+2	Spectrogram 1	1	20.910682878	21.118122217	296.6	2743.9	Tadorna_variegata-ML4128.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Tadorna_variegata-ML4128.wav	2	a
+3	Spectrogram 1	1	23.469521908	23.710647978	370.8	2298.9	Tadorna_variegata-ML4128.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Tadorna_variegata-ML4128.wav	3	a

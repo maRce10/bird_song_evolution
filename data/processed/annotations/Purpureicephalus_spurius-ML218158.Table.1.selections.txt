@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.366085916	6.375169338	609.4	2326.9	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	1	a
+2	Spectrogram 1	1	6.385078525	6.395813479	692.5	2410.0	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	1	a
+3	Spectrogram 1	1	6.406548432	6.419760682	803.3	2382.3	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	1	a
+4	Spectrogram 1	1	6.431321401	6.467640849	554.0	3102.5	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	1	b
+5	Spectrogram 1	1	7.685710041	7.694793463	692.5	2465.4	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	2	a
+6	Spectrogram 1	1	7.701399589	7.709657245	637.1	2326.9	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	2	a
+7	Spectrogram 1	1	7.712134542	7.719566433	637.1	2354.6	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	2	a
+8	Spectrogram 1	1	7.726172558	7.733604448	581.7	2603.9	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	2	a
+9	Spectrogram 1	1	7.745990933	7.793104020	554.0	2880.9	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	2	b
+10	Spectrogram 1	1	9.521254875	9.531989828	498.6	2687.0	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	3	a
+11	Spectrogram 1	1	9.541899015	9.553459734	609.4	2631.6	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	3	a
+12	Spectrogram 1	1	9.566671984	9.578232703	554.0	2548.5	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	3	a
+13	Spectrogram 1	1	9.590619188	9.623649813	692.5	2964.0	Purpureicephalus_spurius-ML218158.wav	D:\Andean\Psittaculidae\Purpureicephalus_spurius-ML218158.wav	3	b

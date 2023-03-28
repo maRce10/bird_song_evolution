@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	95.658844271	95.724926263	420.4	3924.2	Gygis_alba-ML32584.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Gygis_alba-ML32584.wav	1	a
+2	Spectrogram 1	1	95.884624411	95.945199570	467.2	3970.9	Gygis_alba-ML32584.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Gygis_alba-ML32584.wav	2	a
+3	Spectrogram 1	1	96.112240162	96.165472878	420.4	3947.5	Gygis_alba-ML32584.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Gygis_alba-ML32584.wav	3	a

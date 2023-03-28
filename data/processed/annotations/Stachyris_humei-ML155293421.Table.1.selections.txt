@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.997419828	3.032342347	2271.5	3157.9	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	1	a
+2	Spectrogram 1	1	3.063384585	3.185613400	2105.3	2880.9	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	1	b
+3	Spectrogram 1	1	3.237997178	3.484394947	2037.1	2820.6	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	1	c
+4	Spectrogram 1	1	3.536778724	3.748253975	2663.9	3153.6	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	1	d
+5	Spectrogram 1	1	3.808398312	4.085838320	1018.6	3114.4	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	1	e
+6	Spectrogram 1	1	4.145982657	4.405961406	1488.7	2722.7	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	1	f
+7	Spectrogram 1	1	10.539552189	10.570594427	2409.3	3329.9	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	2	g
+8	Spectrogram 1	1	10.599696526	10.708344361	2213.4	2801.0	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	2	h
+9	Spectrogram 1	1	10.768488698	11.020706887	2037.1	2918.5	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	2	i
+10	Spectrogram 1	1	11.090551924	11.303967315	2703.1	3212.4	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	2	j
+11	Spectrogram 1	1	11.366051792	11.647372080	1155.7	3231.9	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	2	k
+12	Spectrogram 1	1	11.724977676	11.998537404	1273.2	2899.0	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	2	l
+14	Spectrogram 1	1	18.555098743	18.595841682	2546.4	3525.8	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	3	m
+15	Spectrogram 1	1	18.615243081	18.741352175	2213.4	2996.9	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	3	n
+16	Spectrogram 1	1	18.801496512	19.040133722	2095.9	2820.6	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	3	o
+17	Spectrogram 1	1	19.110905947	19.318500918	2526.8	3271.1	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	3	p
+18	Spectrogram 1	1	19.382525535	19.685187362	999.0	3251.5	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	3	q
+19	Spectrogram 1	1	19.741451419	20.001430168	1390.7	2820.6	Stachyris_humei-ML155293421.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Stachyris_humei-ML155293421.wav	3	r

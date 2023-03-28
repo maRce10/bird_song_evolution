@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	72.384052257	72.456456413	1728.4	5735.1	Euplectes_jacksoni-ML14428.wav	D:\Andean\Ploceidae\Euplectes_jacksoni-ML14428.wav	1	a
+2	Spectrogram 1	1	73.252902124	73.322970662	1859.3	5944.6	Euplectes_jacksoni-ML14428.wav	D:\Andean\Ploceidae\Euplectes_jacksoni-ML14428.wav	2	a
+3	Spectrogram 1	1	77.332524447	77.400257367	1833.1	6127.9	Euplectes_jacksoni-ML14428.wav	D:\Andean\Ploceidae\Euplectes_jacksoni-ML14428.wav	3	a

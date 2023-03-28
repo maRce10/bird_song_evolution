@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.473862731	0.521757138	2520.8	5180.1	Sitta_pygmaea-ML139302561.wav	D:\Andean\Sittidae\Sitta_pygmaea-ML139302561.wav	1	a
+2	Spectrogram 1	1	0.609288295	0.754623047	2742.4	6094.2	Sitta_pygmaea-ML139302561.wav	D:\Andean\Sittidae\Sitta_pygmaea-ML139302561.wav	1	b
+3	Spectrogram 1	1	1.326052867	1.364038086	2188.4	4820.0	Sitta_pygmaea-ML139302561.wav	D:\Andean\Sittidae\Sitta_pygmaea-ML139302561.wav	2	a
+4	Spectrogram 1	1	1.438356993	1.509372838	2770.1	6094.2	Sitta_pygmaea-ML139302561.wav	D:\Andean\Sittidae\Sitta_pygmaea-ML139302561.wav	2	b
+5	Spectrogram 1	1	1.978407719	2.019696001	2770.1	5069.3	Sitta_pygmaea-ML139302561.wav	D:\Andean\Sittidae\Sitta_pygmaea-ML139302561.wav	3	a
+6	Spectrogram 1	1	2.110530221	2.252561910	3185.6	5928.0	Sitta_pygmaea-ML139302561.wav	D:\Andean\Sittidae\Sitta_pygmaea-ML139302561.wav	3	b

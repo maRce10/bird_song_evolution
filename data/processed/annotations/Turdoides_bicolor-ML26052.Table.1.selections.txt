@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	74.884489581	75.035009674	677.4	4204.4	Turdoides_bicolor-ML26052.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Leiothrichidae\Leiothrichidae\Turdoides_bicolor-ML26052.wav	1	a
+2	Spectrogram 1	1	78.213192293	78.349027499	560.6	3900.8	Turdoides_bicolor-ML26052.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Leiothrichidae\Leiothrichidae\Turdoides_bicolor-ML26052.wav	2	a
+3	Spectrogram 1	1	84.833135008	84.967134604	537.2	3784.0	Turdoides_bicolor-ML26052.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Leiothrichidae\Leiothrichidae\Turdoides_bicolor-ML26052.wav	3	a

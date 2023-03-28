@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.651573194	6.768247967	1260.7	11123.9	Cyanerpes_lucidus-ML16255.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanerpes_lucidus-ML16255.wav	1	a
+2	Spectrogram 1	1	11.059441546	11.201480400	1952.9	11247.5	Cyanerpes_lucidus-ML16255.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanerpes_lucidus-ML16255.wav	2	a
+3	Spectrogram 1	1	15.760562494	15.909365103	1300.3	11188.2	Cyanerpes_lucidus-ML16255.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanerpes_lucidus-ML16255.wav	3	a

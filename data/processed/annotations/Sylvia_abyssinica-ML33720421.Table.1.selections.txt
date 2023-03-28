@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.011300252	1.130210504	1123.4	2612.6	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	1	a
+2	Spectrogram 1	1	1.183059505	1.263984537	1201.8	1645.9	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	1	b
+3	Spectrogram 1	1	1.331697319	1.531532603	1802.7	2638.7	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	1	c
+4	Spectrogram 1	1	1.625669885	1.688428073	1097.3	1619.8	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	1	d
+5	Spectrogram 1	1	1.716504105	1.850278138	1123.4	2116.2	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	1	e
+6	Spectrogram 1	1	1.889914888	1.975794515	1332.4	2063.9	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	1	f
+7	Spectrogram 1	1	2.051764953	2.264812487	1724.3	3265.7	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	1	g
+8	Spectrogram 1	1	6.825123088	6.942381808	1123.4	2455.8	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	2	a
+9	Spectrogram 1	1	6.990276215	7.069549716	1227.9	1724.3	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	2	b
+10	Spectrogram 1	1	7.129004842	7.315627875	1750.4	2769.3	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	2	c
+11	Spectrogram 1	1	12.882284135	12.994588262	914.4	1515.3	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	3	h
+12	Spectrogram 1	1	13.052391856	13.154786795	914.4	1724.3	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	3	i
+13	Spectrogram 1	1	13.219196514	13.407471079	1828.8	2769.3	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	3	c
+14	Spectrogram 1	1	13.498305299	13.562715019	1018.9	1436.9	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	3	d
+15	Spectrogram 1	1	13.595745644	13.709701302	1175.7	1959.4	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	3	e
+16	Spectrogram 1	1	13.760898771	13.843475335	1149.5	2063.9	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	3	f
+17	Spectrogram 1	1	13.896324335	14.077992775	2063.9	3291.8	Sylvia_abyssinica-ML33720421.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sylvia_abyssinica-ML33720421.wav	3	g

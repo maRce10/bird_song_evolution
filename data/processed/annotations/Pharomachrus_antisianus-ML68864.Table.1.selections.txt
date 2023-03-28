@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	246.360265170	246.736814300	966.6	1854.9	Pharomachrus_antisianus-ML68864.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_antisianus-ML68864.wav	1	a
+2	Spectrogram 1	1	247.139787930	247.483306434	757.6	1802.7	Pharomachrus_antisianus-ML68864.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_antisianus-ML68864.wav	1	b
+3	Spectrogram 1	1	249.438719459	249.828480839	940.5	1802.7	Pharomachrus_antisianus-ML68864.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_antisianus-ML68864.wav	2	a
+4	Spectrogram 1	1	250.231454469	250.561760723	757.6	1828.8	Pharomachrus_antisianus-ML68864.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_antisianus-ML68864.wav	2	c
+5	Spectrogram 1	1	252.371838996	252.847480002	966.6	1802.7	Pharomachrus_antisianus-ML68864.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_antisianus-ML68864.wav	3	d
+6	Spectrogram 1	1	253.283484257	253.607184386	757.6	1802.7	Pharomachrus_antisianus-ML68864.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Pharomachrus_antisianus-ML68864.wav	3	c

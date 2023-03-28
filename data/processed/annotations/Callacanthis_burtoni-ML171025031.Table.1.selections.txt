@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	47.684003426	47.828955096	2130.3	5073.3	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	1	a
+2	Spectrogram 1	1	47.862541458	48.005725425	2218.2	5095.2	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	1	a
+3	Spectrogram 1	1	48.051685711	48.198405084	2218.2	5117.2	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	1	a
+4	Spectrogram 1	1	48.240829963	48.389317039	2178.1	5055.4	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	1	a
+5	Spectrogram 1	1	48.456489764	48.564319665	2205.0	4356.2	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	1	b
+6	Spectrogram 1	1	385.394780290	385.541499663	2231.9	5028.5	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	2	a
+7	Spectrogram 1	1	385.568015213	385.718269992	2258.8	4974.7	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	2	a
+8	Spectrogram 1	1	385.748320948	385.898575728	2016.8	4894.0	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	2	a
+9	Spectrogram 1	1	385.948071420	386.098326200	2151.2	4894.0	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	2	a
+10	Spectrogram 1	1	435.222834798	435.364251061	2285.7	5109.1	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	3	a
+11	Spectrogram 1	1	435.396069720	435.541021390	2258.8	5136.0	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	3	a
+12	Spectrogram 1	1	435.574607753	435.724862532	2178.1	5082.3	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	3	a
+13	Spectrogram 1	1	435.760216598	435.903400565	2178.1	4410.0	Callacanthis_burtoni-ML171025031.wav	E:\Escritorio\Cantos\Fringillidae\Callacanthis_burtoni-ML171025031.wav	3	a

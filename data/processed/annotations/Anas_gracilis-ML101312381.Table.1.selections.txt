@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.858996881	1.083891733	346.1	2645.0	Anas_gracilis-ML101312381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_gracilis-ML101312381.wav	1	a
+2	Spectrogram 1	1	1.300331892	1.565809275	346.1	2620.3	Anas_gracilis-ML101312381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_gracilis-ML101312381.wav	2	a
+3	Spectrogram 1	1	1.772103801	2.046035877	346.1	2620.3	Anas_gracilis-ML101312381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_gracilis-ML101312381.wav	3	b

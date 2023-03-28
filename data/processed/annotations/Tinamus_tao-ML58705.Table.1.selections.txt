@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.796123904	8.318007786	886.4	1329.6	Tinamus_tao-ML58705.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_tao-ML58705.wav	1	a
+2	Spectrogram 1	1	9.394806174	10.081843183	941.8	1329.6	Tinamus_tao-ML58705.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_tao-ML58705.wav	1	a
+3	Spectrogram 1	1	10.848153692	11.462523325	969.5	1329.6	Tinamus_tao-ML58705.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_tao-ML58705.wav	1	a

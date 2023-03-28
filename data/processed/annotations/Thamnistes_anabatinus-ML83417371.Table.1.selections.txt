@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	172.621276206	172.992889979	2797.8	5013.9	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	1	a
+2	Spectrogram 1	1	173.116427205	173.419720960	2714.7	6011.1	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	1	b
+3	Spectrogram 1	1	173.508811016	173.728359101	2714.7	6038.8	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	1	b
+4	Spectrogram 1	1	173.845139997	174.064688082	2853.2	5983.4	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	1	c
+5	Spectrogram 1	1	174.181468978	174.387003355	2825.5	5651.0	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	1	d
+6	Spectrogram 1	1	180.182744470	180.579111975	2603.9	5263.2	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	2	e
+7	Spectrogram 1	1	180.684809977	180.942448855	2548.5	6205.0	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	2	f
+8	Spectrogram 1	1	181.048146856	181.299179609	2742.4	6232.7	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	2	g
+9	Spectrogram 1	1	181.398271486	181.609667488	2880.9	6066.5	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	2	h
+10	Spectrogram 1	1	181.741789990	181.939973742	2908.6	5761.8	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	2	i
+11	Spectrogram 1	1	188.804767989	189.154892618	2880.9	5207.8	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	3	j
+12	Spectrogram 1	1	189.296924308	189.541350936	2936.3	6177.3	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	3	k
+13	Spectrogram 1	1	189.680079562	189.878263315	2964.0	6177.3	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	3	l
+14	Spectrogram 1	1	190.003779691	190.221781819	3074.8	6121.9	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	3	m
+15	Spectrogram 1	1	190.347298196	190.545481948	3185.6	5872.6	Thamnistes_anabatinus-ML83417371.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Thamnistes_anabatinus-ML83417371.wav	3	n

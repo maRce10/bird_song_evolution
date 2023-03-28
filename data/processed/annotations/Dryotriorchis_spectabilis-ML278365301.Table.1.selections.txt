@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.595210437	1.051763897	346.1	1483.2	Dryotriorchis_spectabilis-ML278365301.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Dryotriorchis_spectabilis-ML278365301.wav	1	a
+2	Spectrogram 1	1	4.351846667	4.815163882	321.4	1334.9	Dryotriorchis_spectabilis-ML278365301.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Dryotriorchis_spectabilis-ML278365301.wav	2	a
+3	Spectrogram 1	1	5.517839149	5.899991305	370.8	1557.3	Dryotriorchis_spectabilis-ML278365301.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Dryotriorchis_spectabilis-ML278365301.wav	3	a

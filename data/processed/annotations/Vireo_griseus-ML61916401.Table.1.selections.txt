@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	185.107831783	185.155726190	1191.1	4736.9	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	1	a
+2	Spectrogram 1	1	185.277939504	185.416668130	1440.5	5595.6	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	1	b
+3	Spectrogram 1	1	185.517411538	185.606594227	2105.3	4709.2	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	1	c
+4	Spectrogram 1	1	185.656140165	185.694125384	914.1	2797.8	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	1	d
+5	Spectrogram 1	1	185.710640110	185.860929455	1274.2	3656.5	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	1	e
+6	Spectrogram 1	1	185.884050893	185.984794301	1828.3	3102.5	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	1	f
+7	Spectrogram 1	1	186.085537708	186.118568334	1745.2	6205.0	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	1	g
+8	Spectrogram 1	1	188.464745358	188.539064265	1135.7	5872.6	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	2	h
+9	Spectrogram 1	1	188.682747485	188.790097018	1163.4	3379.5	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	2	i
+10	Spectrogram 1	1	188.821476112	189.018008333	1745.2	4764.6	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	2	j
+11	Spectrogram 1	1	189.039477942	189.097281537	2299.2	4099.7	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	2	k
+12	Spectrogram 1	1	189.107190725	189.163342788	2548.5	4404.5	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	2	l
+13	Spectrogram 1	1	189.188115757	189.315283665	1329.6	2299.2	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	2	m
+14	Spectrogram 1	1	189.391254103	189.435845447	2880.9	9335.2	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	2	n
+15	Spectrogram 1	1	191.290413545	191.341611014	914.1	4653.8	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	3	a
+16	Spectrogram 1	1	191.463824328	191.604204486	1385.1	6149.6	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	3	b
+17	Spectrogram 1	1	191.714857081	191.805691301	1606.7	4653.8	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	3	c
+18	Spectrogram 1	1	191.850282645	191.888267865	969.5	2742.4	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	3	d
+19	Spectrogram 1	1	191.903131646	192.058375586	1329.6	3601.1	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	3	e
+20	Spectrogram 1	1	192.084800086	192.205361869	1495.9	3102.5	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	3	f
+21	Spectrogram 1	1	192.286286901	192.324272120	1939.1	6094.2	Vireo_griseus-ML61916401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_griseus-ML61916401.wav	3	g

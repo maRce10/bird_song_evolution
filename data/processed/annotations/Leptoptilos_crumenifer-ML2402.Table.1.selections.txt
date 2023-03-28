@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.373699481	24.841413137	177.8	1844.9	Leptoptilos_crumenifer-ML2402.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Leptoptilos_crumenifer-ML2402.wav	1	a
+2	Spectrogram 1	1	25.209914805	25.651053821	222.3	1756.0	Leptoptilos_crumenifer-ML2402.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Leptoptilos_crumenifer-ML2402.wav	2	a
+3	Spectrogram 1	1	26.010964954	26.492851751	177.8	1667.1	Leptoptilos_crumenifer-ML2402.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Leptoptilos_crumenifer-ML2402.wav	3	a

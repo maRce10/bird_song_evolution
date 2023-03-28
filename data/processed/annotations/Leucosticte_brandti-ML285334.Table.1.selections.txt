@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.906831788	0.982843030	1619.7	5114.7	Leucosticte_brandti-ML285334.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_brandti-ML285334.wav	1	a
+2	Spectrogram 1	1	1.094208337	1.173754985	1534.4	4944.2	Leucosticte_brandti-ML285334.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_brandti-ML285334.wav	1	a
+3	Spectrogram 1	1	2.678102789	2.761184843	1761.7	5540.9	Leucosticte_brandti-ML285334.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_brandti-ML285334.wav	2	a
+4	Spectrogram 1	1	2.983883155	3.075803727	1392.3	5739.8	Leucosticte_brandti-ML285334.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_brandti-ML285334.wav	2	a
+5	Spectrogram 1	1	5.906693418	5.984472363	1363.9	5057.9	Leucosticte_brandti-ML285334.wav	E:\Escritorio\Cantos\Fringillidae\Leucosticte_brandti-ML285334.wav	3	a

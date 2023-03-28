@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.183213407	13.407821660	2455.8	4415.2	Zimmerius_chrysops-ML201053.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_chrysops-ML201053.wav	1	a
+2	Spectrogram 1	1	19.229383328	19.465552300	2429.7	4415.2	Zimmerius_chrysops-ML201053.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_chrysops-ML201053.wav	2	a
+3	Spectrogram 1	1	21.781240446	22.000894105	2429.7	4415.2	Zimmerius_chrysops-ML201053.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_chrysops-ML201053.wav	3	a

@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	24.297256129	24.323680629	941.8	2520.8	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	1	a
+2	Spectrogram 1	1	24.331938286	24.407908724	1246.5	3213.3	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	1	b
+3	Spectrogram 1	1	24.435984756	24.500394475	2548.5	3241.0	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	1	c
+4	Spectrogram 1	1	24.908322621	25.121370155	1246.5	3518.0	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	1	d
+5	Spectrogram 1	1	25.360842189	25.458282534	1246.5	3545.7	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	1	e
+6	Spectrogram 1	1	25.524343785	25.694451506	1191.1	3518.0	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	1	d
+7	Spectrogram 1	1	25.750603569	25.869513821	1163.4	3351.8	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	1	e
+8	Spectrogram 1	1	26.120546574	26.222941513	1108.0	3434.9	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	1	e
+9	Spectrogram 1	1	26.274138982	26.444246703	1135.7	3407.2	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	1	d
+10	Spectrogram 1	1	36.627672600	36.655748631	886.4	2659.3	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	2	a
+11	Spectrogram 1	1	36.667309350	36.738325195	1191.1	3213.3	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	2	b
+12	Spectrogram 1	1	37.235436108	37.460044360	1274.2	3490.3	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	2	d
+13	Spectrogram 1	1	37.697864863	37.803562865	1218.8	3518.0	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	2	e
+14	Spectrogram 1	1	37.863017990	38.049641024	1218.8	3545.7	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	2	d
+15	Spectrogram 1	1	38.105793087	38.219748745	1218.8	3351.8	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	2	e
+16	Spectrogram 1	1	38.467478349	38.573176350	1135.7	3434.9	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	2	e
+17	Spectrogram 1	1	38.626025351	38.792830009	1163.4	3462.6	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	2	d
+18	Spectrogram 1	1	67.020108888	67.041578794	831.0	2576.2	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	3	a
+19	Spectrogram 1	1	67.053139513	67.124155358	1218.8	3268.7	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	3	b
+20	Spectrogram 1	1	67.616311677	67.835965336	1191.1	3656.5	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	3	d
+21	Spectrogram 1	1	68.073785839	68.176180777	1218.8	3573.4	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	3	e
+22	Spectrogram 1	1	68.235635903	68.417304343	1218.8	3711.9	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	3	d
+23	Spectrogram 1	1	68.471804875	68.589063595	1080.3	3462.6	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	3	e
+24	Spectrogram 1	1	68.833673511	68.934416918	1163.4	3518.0	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	3	e
+25	Spectrogram 1	1	68.983962857	69.157373640	1218.8	3518.0	Francolinus_francolinus-ML83642.wav	D:\Andean\Phasianidae\Francolinus_francolinus-ML83642.wav	3	d

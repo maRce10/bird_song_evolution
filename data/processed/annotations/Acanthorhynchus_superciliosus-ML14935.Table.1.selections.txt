@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.677083856	9.723044142	3909.3	5358.8	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	1	a
+2	Spectrogram 1	1	9.753667558	9.804930953	4809.7	5512.5	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	1	b
+3	Spectrogram 1	1	9.841527129	9.857776544	3865.3	4743.8	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	1	c
+4	Spectrogram 1	1	9.861526409	9.914024518	4392.4	5110.9	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	1	d
+5	Spectrogram 1	1	9.967772582	9.982772042	3909.3	4612.1	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	1	c
+6	Spectrogram 1	1	9.985271952	10.042769882	4348.5	4855.4	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	1	e
+7	Spectrogram 1	1	10.114017316	10.132766640	3865.3	4480.3	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	1	c
+8	Spectrogram 1	1	10.135266550	10.196514345	4194.8	4765.8	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	1	f
+9	Spectrogram 1	1	10.795208787	10.838957211	3665.4	5339.3	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	2	a
+10	Spectrogram 1	1	10.865206266	10.918792070	4675.5	5403.0	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	2	b
+11	Spectrogram 1	1	10.963952710	10.978952170	3954.0	4588.9	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	2	c
+12	Spectrogram 1	1	10.978952170	11.032700234	4415.8	5147.4	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	2	d
+13	Spectrogram 1	1	11.083948388	11.100197803	3896.3	4502.4	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	2	c
+14	Spectrogram 1	1	11.102697713	11.163945507	4213.7	4891.9	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	2	e
+15	Spectrogram 1	1	11.222693391	11.238942806	3809.7	4473.5	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	2	c
+16	Spectrogram 1	1	11.242692671	11.302690510	4069.4	4526.8	Acanthorhynchus_superciliosus-ML14935.wav	E:\Escritorio\Cantos\Meliphagidae\Acanthorhynchus_superciliosus-ML14935.wav	2	f

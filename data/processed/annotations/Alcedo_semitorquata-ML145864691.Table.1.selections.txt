@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.917954535	5.983901146	5017.3	6525.2	Alcedo_semitorquata-ML145864691.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_semitorquata-ML145864691.wav	1	a
+2	Spectrogram 1	1	6.925754025	7.017064717	4992.5	6500.4	Alcedo_semitorquata-ML145864691.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_semitorquata-ML145864691.wav	2	b
+3	Spectrogram 1	1	8.335712794	8.420259731	5190.3	6401.6	Alcedo_semitorquata-ML145864691.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_semitorquata-ML145864691.wav	3	a

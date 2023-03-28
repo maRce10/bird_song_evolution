@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.062392201	2.221485498	922.4	2437.8	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	1	a
+2	Spectrogram 1	1	2.391185013	2.518459650	944.4	2481.7	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	1	b
+3	Spectrogram 1	1	2.659875914	2.783615144	966.3	2481.7	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	1	b
+4	Spectrogram 1	1	2.974527100	3.105337143	922.4	2393.9	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	1	b
+5	Spectrogram 1	1	3.292713692	3.419988329	966.3	2328.0	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	1	c
+6	Spectrogram 1	1	18.795131651	18.964831167	846.1	2307.6	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	2	a
+7	Spectrogram 1	1	19.138066089	19.272411539	948.7	2333.2	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	2	b
+8	Spectrogram 1	1	19.431504835	19.576456505	1025.6	2384.5	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	2	b
+9	Spectrogram 1	1	19.707266549	19.838076592	974.3	2230.6	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	2	c
+10	Spectrogram 1	1	19.997169889	20.142121558	794.8	2179.4	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	2	c
+11	Spectrogram 1	1	32.035857671	32.198486373	1076.9	2384.5	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	3	a
+12	Spectrogram 1	1	32.350508856	32.491925120	948.7	2281.9	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	3	b
+13	Spectrogram 1	1	32.643947603	32.781828459	846.1	2256.3	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	3	b
+14	Spectrogram 1	1	32.972740415	33.121227491	820.5	2153.7	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	3	c
+15	Spectrogram 1	1	33.301533227	33.446484897	871.7	2025.5	Thripadectes_melanorhynchus-ML184145561.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_melanorhynchus-ML184145561.wav	3	d

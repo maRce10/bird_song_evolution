@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.437083616	14.510508052	981.0	3433.6	Hydrocoloeus_minutus-ML43198061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Hydrocoloeus_minutus-ML43198061.wav	1	a
+2	Spectrogram 1	1	14.604124208	14.681219865	887.6	3457.0	Hydrocoloeus_minutus-ML43198061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Hydrocoloeus_minutus-ML43198061.wav	2	a
+3	Spectrogram 1	1	14.785849686	14.862945344	887.6	3480.3	Hydrocoloeus_minutus-ML43198061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Hydrocoloeus_minutus-ML43198061.wav	3	

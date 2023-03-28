@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	54.966342475	55.064438428	6725.7	7972.3	Zeledonia_coronata-ML165386.wav	C:\Users\pfmar\Downloads\Andean\Zeledoniidae\Zeledonia_coronata-ML165386.wav	1	a
+2	Spectrogram 1	1	55.111150787	55.239609772	6919.6	9274.2	Zeledonia_coronata-ML165386.wav	C:\Users\pfmar\Downloads\Andean\Zeledoniidae\Zeledonia_coronata-ML165386.wav	1	b
+3	Spectrogram 1	1	55.260630334	55.519883923	7972.3	9357.3	Zeledonia_coronata-ML165386.wav	C:\Users\pfmar\Downloads\Andean\Zeledoniidae\Zeledonia_coronata-ML165386.wav	1	c
+4	Spectrogram 1	1	58.300278931	58.480121511	6698.0	8803.3	Zeledonia_coronata-ML165386.wav	C:\Users\pfmar\Downloads\Andean\Zeledoniidae\Zeledonia_coronata-ML165386.wav	2	d
+5	Spectrogram 1	1	58.519827016	58.568874992	8083.1	9717.4	Zeledonia_coronata-ML165386.wav	C:\Users\pfmar\Downloads\Andean\Zeledoniidae\Zeledonia_coronata-ML165386.wav	2	e
+6	Spectrogram 1	1	58.615587351	58.765066898	5534.6	8110.8	Zeledonia_coronata-ML165386.wav	C:\Users\pfmar\Downloads\Andean\Zeledoniidae\Zeledonia_coronata-ML165386.wav	2	f
+7	Spectrogram 1	1	61.585479395	61.692917820	6559.5	8803.3	Zeledonia_coronata-ML165386.wav	C:\Users\pfmar\Downloads\Andean\Zeledoniidae\Zeledonia_coronata-ML165386.wav	3	g
+8	Spectrogram 1	1	61.734958942	61.917137140	7445.9	9662.0	Zeledonia_coronata-ML165386.wav	C:\Users\pfmar\Downloads\Andean\Zeledoniidae\Zeledonia_coronata-ML165386.wav	3	h
+9	Spectrogram 1	1	61.954507027	62.036253654	4371.1	9468.1	Zeledonia_coronata-ML165386.wav	C:\Users\pfmar\Downloads\Andean\Zeledoniidae\Zeledonia_coronata-ML165386.wav	3	i

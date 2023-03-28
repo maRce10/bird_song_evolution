@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.992425512	2.526978698	235.5	592.1	Ninox_strenua-ML97435451.wav	D:\Andean\Strigidae\Ninox_strenua-ML97435451.wav	1	a
+2	Spectrogram 1	1	2.842851035	3.255914861	214.7	592.1	Ninox_strenua-ML97435451.wav	D:\Andean\Strigidae\Ninox_strenua-ML97435451.wav	1	a
+3	Spectrogram 1	1	14.845999852	15.477744526	187.0	609.4	Ninox_strenua-ML97435451.wav	D:\Andean\Strigidae\Ninox_strenua-ML97435451.wav	2	a
+4	Spectrogram 1	1	15.696425375	16.230978561	190.4	599.0	Ninox_strenua-ML97435451.wav	D:\Andean\Strigidae\Ninox_strenua-ML97435451.wav	2	a
+5	Spectrogram 1	1	27.067829517	27.626680575	183.5	599.0	Ninox_strenua-ML97435451.wav	D:\Andean\Strigidae\Ninox_strenua-ML97435451.wav	3	a
+6	Spectrogram 1	1	27.893957168	28.307020994	200.8	599.0	Ninox_strenua-ML97435451.wav	D:\Andean\Strigidae\Ninox_strenua-ML97435451.wav	3	a

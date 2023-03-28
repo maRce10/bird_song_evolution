@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.510351134	23.629918559	1291.7	8707.6	Dacnis_venusta-ML184562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_venusta-ML184562.wav	1	a
+2	Spectrogram 1	1	26.703634542	26.792114437	1093.9	9152.6	Dacnis_venusta-ML184562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_venusta-ML184562.wav	2	a
+3	Spectrogram 1	1	29.494220602	29.582700497	1093.9	8361.5	Dacnis_venusta-ML184562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_venusta-ML184562.wav	3	a
+4	Spectrogram 1	1	30.622937095	30.720982383	1093.9	8114.3	Dacnis_venusta-ML184562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_venusta-ML184562.wav	4	a
+6	Spectrogram 1	1	65.015315113	65.103795008	1192.8	7619.9	Dacnis_venusta-ML184562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_venusta-ML184562.wav	5	a

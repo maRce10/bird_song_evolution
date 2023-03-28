@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.684497642	4.764494761	5754.100	7269.500	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	1	a
+2	Spectrogram 1	1	4.841991970	4.905739674	6193.300	7335.400	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	1	b
+3	Spectrogram 1	1	5.023235443	5.106982427	6127.400	7269.500	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	1	b
+4	Spectrogram 1	1	5.246977385	5.328224459	5754.100	7335.400	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	1	c
+5	Spectrogram 1	1	12.868006753	12.956753557	5622.300	6896.100	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	2	a
+6	Spectrogram 1	1	13.034250766	13.117997750	5490.500	6962.000	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	2	a
+7	Spectrogram 1	1	13.189245184	13.282991808	5863.900	6940.000	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	2	d
+8	Spectrogram 1	1	13.355489197	13.447985866	5666.200	7027.900	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	2	d
+9	Spectrogram 1	1	13.530482895	13.621729609	5732.100	6962.000	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	2	d
+10	Spectrogram 1	1	13.769610443	13.861390987	5816.155	6937.341	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	2	d
+11	Spectrogram 1	1	19.475552233	19.599297776	6215.300	7642.800	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	3	e
+12	Spectrogram 1	1	19.678044940	19.788040979	6237.300	7642.800	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	3	e
+13	Spectrogram 1	1	19.953035037	20.064281030	6259.200	7686.800	Estrilda_atricapilla-ML1561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_atricapilla-ML1561.wav	3	e

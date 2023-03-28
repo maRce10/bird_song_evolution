@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.515252901	11.614244285	834.6	3096.7	Synallaxis_gujanensis-ML66129.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_gujanensis-ML66129.wav	1	a
+2	Spectrogram 1	1	12.235654407	12.461920428	812.6	2350.0	Synallaxis_gujanensis-ML66129.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_gujanensis-ML66129.wav	1	b
+3	Spectrogram 1	1	13.897295501	14.003357698	878.5	3118.6	Synallaxis_gujanensis-ML66129.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_gujanensis-ML66129.wav	2	a
+4	Spectrogram 1	1	14.731651454	14.950846662	724.8	2371.9	Synallaxis_gujanensis-ML66129.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_gujanensis-ML66129.wav	2	b
+5	Spectrogram 1	1	16.428646614	16.541779624	834.6	3162.5	Synallaxis_gujanensis-ML66129.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_gujanensis-ML66129.wav	3	a
+6	Spectrogram 1	1	17.255931754	17.468056149	812.6	2306.0	Synallaxis_gujanensis-ML66129.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_gujanensis-ML66129.wav	3	b

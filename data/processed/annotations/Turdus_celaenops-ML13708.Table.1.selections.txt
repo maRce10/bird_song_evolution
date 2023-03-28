@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.888868721	11.523056729	2116.2	4180.1	Turdus_celaenops-ML13708.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_celaenops-ML13708.wav	1	a
+2	Spectrogram 1	1	15.546186905	16.147344288	2063.9	4232.3	Turdus_celaenops-ML13708.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_celaenops-ML13708.wav	2	a
+3	Spectrogram 1	1	20.513083795	21.074604427	2049.4	4228.4	Turdus_celaenops-ML13708.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_celaenops-ML13708.wav	3	a

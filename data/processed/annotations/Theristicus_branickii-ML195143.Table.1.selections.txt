@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	28.253328497	28.324344342	249.3	1689.8	Theristicus_branickii-ML195143.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Theristicus_branickii-ML195143.wav	1	a
+2	Spectrogram 1	1	31.111170006	31.180534319	581.7	1662.1	Theristicus_branickii-ML195143.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Theristicus_branickii-ML195143.wav	2	b
+3	Spectrogram 1	1	34.993802055	35.061514837	277.0	1772.9	Theristicus_branickii-ML195143.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Theristicus_branickii-ML195143.wav	3	a

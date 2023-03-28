@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	99.054509899	99.235217448	2008.8	2803.0	Oreopholus_ruficollis-ML22008.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Oreopholus_ruficollis-ML22008.wav	1	a
+2	Spectrogram 1	1	99.904898365	100.030684992	1938.7	2803.0	Oreopholus_ruficollis-ML22008.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Oreopholus_ruficollis-ML22008.wav	2	a
+3	Spectrogram 1	1	100.346305182	100.477406737	1985.4	2756.2	Oreopholus_ruficollis-ML22008.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Oreopholus_ruficollis-ML22008.wav	3	

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	27.310454473	27.442576975	1440.5	3711.9	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	1	a
+2	Spectrogram 1	1	27.504460065	27.560514896	1634.4	2687.0	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	1	b
+3	Spectrogram 1	1	27.565186131	27.604891636	1911.4	3379.5	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	1	c
+4	Spectrogram 1	1	27.712330060	27.854802754	1246.5	3739.6	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	1	d
+5	Spectrogram 1	1	28.478412739	28.541474423	803.3	2991.7	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	2	e
+6	Spectrogram 1	1	28.546145659	28.686282734	1440.5	3241.0	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	2	f
+7	Spectrogram 1	1	28.786714304	28.952543177	1301.9	3185.6	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	2	g
+8	Spectrogram 1	1	29.127714521	29.298214629	1108.0	2964.0	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	2	h
+9	Spectrogram 1	1	30.215820384	30.311580719	1689.8	2659.3	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	3	i
+10	Spectrogram 1	1	30.393327346	30.463395884	1440.5	2022.2	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	3	b
+11	Spectrogram 1	1	30.470402737	30.519450714	1634.4	2520.8	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	3	c
+12	Spectrogram 1	1	30.636231610	30.767026214	1135.7	2964.0	Lamprotornis_bicolor-ML87763.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_bicolor-ML87763.wav	3	f

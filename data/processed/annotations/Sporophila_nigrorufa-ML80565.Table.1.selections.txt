@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	35.554859174	35.793092202	2734.1	6133.2	Sporophila_nigrorufa-ML80565.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_nigrorufa-ML80565.wav	1	a
+2	Spectrogram 1	1	37.753583288	37.879706656	3436.1	5874.6	Sporophila_nigrorufa-ML80565.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_nigrorufa-ML80565.wav	2	b
+3	Spectrogram 1	1	37.884377892	38.005830024	6059.3	7500.3	Sporophila_nigrorufa-ML80565.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_nigrorufa-ML80565.wav	2	c
+4	Spectrogram 1	1	39.427631181	39.544412077	2623.2	3879.5	Sporophila_nigrorufa-ML80565.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_nigrorufa-ML80565.wav	3	d
+5	Spectrogram 1	1	40.149337119	40.398080427	2512.4	6724.4	Sporophila_nigrorufa-ML80565.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sporophila_nigrorufa-ML80565.wav	3	e

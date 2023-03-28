@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.076752339	10.545787220	2216.1	3434.9	Schiffornis_virescens-ML133277.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_virescens-ML133277.wav	1	a
+2	Spectrogram 1	1	10.796819973	10.981791475	1994.5	3351.8	Schiffornis_virescens-ML133277.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_virescens-ML133277.wav	1	b
+3	Spectrogram 1	1	21.796897192	22.279144323	2271.5	3545.7	Schiffornis_virescens-ML133277.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_virescens-ML133277.wav	2	c
+4	Spectrogram 1	1	22.530177077	22.721754704	1856.0	3601.1	Schiffornis_virescens-ML133277.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_virescens-ML133277.wav	2	d
+5	Spectrogram 1	1	31.704845172	32.160667802	2160.7	3407.2	Schiffornis_virescens-ML133277.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_virescens-ML133277.wav	3	a
+6	Spectrogram 1	1	32.405094430	32.576853683	1994.5	3213.3	Schiffornis_virescens-ML133277.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_virescens-ML133277.wav	3	e

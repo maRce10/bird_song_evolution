@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	38.918138679	39.170748177	831.000	3628.800	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	1	a
+2	Spectrogram 1	1	40.436821575	40.702668252	1329.600	3573.400	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	1	b
+3	Spectrogram 1	1	41.164867151	41.398723979	1385.100	3684.200	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	1	b
+4	Spectrogram 1	1	46.634364899	46.913448755	831.000	3601.100	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	2	a
+5	Spectrogram 1	1	49.628616814	49.890051098	775.600	3573.400	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	3	a
+6	Spectrogram 1	1	55.392226066	55.655866546	775.600	3573.400	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	4	a
+7	Spectrogram 1	1	58.352280494	58.619230269	1191.100	3739.600	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	5	b
+8	Spectrogram 1	1	59.425597073	59.681515866	1191.100	3850.400	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	5	b
+9	Spectrogram 1	1	60.656657451	60.927623919	1246.500	3683.709	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	5	b
+11	Spectrogram 1	1	61.796866343	62.043960350	1194.800	3819.600	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	5	b
+12	Spectrogram 1	1	62.522706733	62.774213133	1194.800	3917.500	Chiroxiphia_boliviana-ML31741031.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chiroxiphia_boliviana-ML31741031.wav	5	b

@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	54.319904987	54.553466779	4238.3	8476.5	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	a
+2	Spectrogram 1	1	54.566595024	54.599625649	3351.8	5346.3	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	b
+3	Spectrogram 1	1	54.725142025	54.758172651	3822.7	6537.4	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	c
+4	Spectrogram 1	1	55.128115656	55.354375440	4349.1	8504.2	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	a
+5	Spectrogram 1	1	55.385754534	55.425391284	3324.1	5318.6	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	b
+6	Spectrogram 1	1	55.734228068	55.940669477	3573.4	7645.5	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	d
+7	Spectrogram 1	1	55.948927133	55.975351633	5623.3	6343.5	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	e
+8	Spectrogram 1	1	56.031503697	56.183444574	3518.0	6648.2	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	f
+9	Spectrogram 1	1	56.185096105	56.213172136	5789.5	6703.6	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	g
+10	Spectrogram 1	1	56.246939770	56.277302803	4072.0	6759.0	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	h
+11	Spectrogram 1	1	56.281974039	56.388244655	3241.0	5844.9	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	i
+12	Spectrogram 1	1	56.384741228	56.422111115	5900.3	7174.6	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	j
+13	Spectrogram 1	1	56.428196099	56.668764745	2797.8	7673.2	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	1	k
+14	Spectrogram 1	1	64.640004987	64.843203746	3988.9	10083.2	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	2	l
+15	Spectrogram 1	1	64.868895543	64.908601048	3573.4	5789.5	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	2	m
+16	Spectrogram 1	1	64.978669586	65.014265732	3822.7	6703.6	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	2	c
+17	Spectrogram 1	1	65.256731412	65.301108152	3241.0	4543.0	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	2	n
+18	Spectrogram 1	1	65.544012416	65.574375449	3407.2	4238.3	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	2	o
+19	Spectrogram 1	1	65.779909826	65.812608477	3241.0	4764.6	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	2	p
+20	Spectrogram 1	1	65.894355104	65.934060609	3518.0	6592.8	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	2	q
+21	Spectrogram 1	1	66.039163416	66.240026557	3905.8	7950.2	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	3	r
+22	Spectrogram 1	1	66.257240369	66.295225588	3324.1	5235.5	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	3	b
+23	Spectrogram 1	1	66.389362871	66.420741965	3822.7	6703.6	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	3	c
+24	Spectrogram 1	1	66.649479046	66.686638500	3241.0	4792.3	Empidonomus_varius-ML216492.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonomus_varius-ML216492.wav	3	p

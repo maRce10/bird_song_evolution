@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.726377174	0.824473126	1163.4	3490.3	Aprosmictus_erythropterus-ML189000.wav	D:\Andean\Psittaculidae\Aprosmictus_erythropterus-ML189000.wav	1	a
+2	Spectrogram 1	1	1.763391531	1.812439507	1080.3	3462.6	Aprosmictus_erythropterus-ML189000.wav	D:\Andean\Psittaculidae\Aprosmictus_erythropterus-ML189000.wav	2	b
+3	Spectrogram 1	1	1.912871078	1.971261526	831.0	3601.1	Aprosmictus_erythropterus-ML189000.wav	D:\Andean\Psittaculidae\Aprosmictus_erythropterus-ML189000.wav	2	b
+4	Spectrogram 1	1	2.384665898	2.450063200	1052.6	3656.5	Aprosmictus_erythropterus-ML189000.wav	D:\Andean\Psittaculidae\Aprosmictus_erythropterus-ML189000.wav	3	b
+5	Spectrogram 1	1	2.557501624	2.625234544	1052.6	3656.5	Aprosmictus_erythropterus-ML189000.wav	D:\Andean\Psittaculidae\Aprosmictus_erythropterus-ML189000.wav	3	b

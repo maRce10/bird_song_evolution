@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.219937414	7.414384776	944.4	2042.5	Epthianura_albifrons-ML130928231.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_albifrons-ML130928231.wav	1	a
+2	Spectrogram 1	1	8.722485212	8.899255541	900.4	1910.7	Epthianura_albifrons-ML130928231.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_albifrons-ML130928231.wav	2	a
+3	Spectrogram 1	1	20.976114013	21.159955155	1098.1	2020.5	Epthianura_albifrons-ML130928231.wav	E:\Escritorio\Cantos\Meliphagidae\Epthianura_albifrons-ML130928231.wav	3	a

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.547107222	17.608213879	415.5	2797.8	Pterocles_exustus-ML21726131.wav	D:\Andean\Pteroclidae\Pterocles_exustus-ML21726131.wav	1	a
+2	Spectrogram 1	1	17.920353289	17.961641571	443.2	2825.5	Pterocles_exustus-ML21726131.wav	D:\Andean\Pteroclidae\Pterocles_exustus-ML21726131.wav	1	b
+3	Spectrogram 1	1	17.979808415	18.044218134	470.9	3019.4	Pterocles_exustus-ML21726131.wav	D:\Andean\Pteroclidae\Pterocles_exustus-ML21726131.wav	1	c
+4	Spectrogram 1	1	18.841907738	18.903014395	332.4	2880.9	Pterocles_exustus-ML21726131.wav	D:\Andean\Pteroclidae\Pterocles_exustus-ML21726131.wav	2	a
+5	Spectrogram 1	1	19.225062993	19.256442087	498.6	3074.8	Pterocles_exustus-ML21726131.wav	D:\Andean\Pteroclidae\Pterocles_exustus-ML21726131.wav	2	b
+6	Spectrogram 1	1	19.274608931	19.348927838	554.0	2991.7	Pterocles_exustus-ML21726131.wav	D:\Andean\Pteroclidae\Pterocles_exustus-ML21726131.wav	2	c
+7	Spectrogram 1	1	20.813805376	20.883169689	470.9	2714.7	Pterocles_exustus-ML21726131.wav	D:\Andean\Pteroclidae\Pterocles_exustus-ML21726131.wav	3	a
+8	Spectrogram 1	1	21.205218287	21.239900444	581.7	2576.2	Pterocles_exustus-ML21726131.wav	D:\Andean\Pteroclidae\Pterocles_exustus-ML21726131.wav	3	b
+9	Spectrogram 1	1	21.258067288	21.327431601	443.2	3019.4	Pterocles_exustus-ML21726131.wav	D:\Andean\Pteroclidae\Pterocles_exustus-ML21726131.wav	3	c

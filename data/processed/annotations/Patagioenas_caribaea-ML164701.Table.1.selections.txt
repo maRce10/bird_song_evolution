@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.593354868	10.920093607	233.6	747.5	Patagioenas_caribaea-ML164701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_caribaea-ML164701.wav	1	a
+2	Spectrogram 1	1	11.035737094	11.476283708	163.5	794.2	Patagioenas_caribaea-ML164701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_caribaea-ML164701.wav	1	b
+3	Spectrogram 1	1	15.036988510	15.393097024	186.9	677.4	Patagioenas_caribaea-ML164701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_caribaea-ML164701.wav	2	a
+4	Spectrogram 1	1	15.510576121	16.009862284	93.4	677.4	Patagioenas_caribaea-ML164701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_caribaea-ML164701.wav	2	b
+5	Spectrogram 1	1	16.688930045	17.090928831	140.1	724.1	Patagioenas_caribaea-ML164701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_caribaea-ML164701.wav	3	a
+6	Spectrogram 1	1	17.226764037	17.707694092	163.5	747.5	Patagioenas_caribaea-ML164701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Patagioenas_caribaea-ML164701.wav	3	b

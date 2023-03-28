@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.409341229	0.840709790	5963.400	9442.000	Pipreola_arcuata-ML31744471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_arcuata-ML31744471.wav	1	a
+2	Spectrogram 1	1	2.787627788	3.213362903	6274.000	8013.300	Pipreola_arcuata-ML31744471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_arcuata-ML31744471.wav	1	b
+3	Spectrogram 1	1	4.579835062	8.327376172	5444.114	7789.477	Pipreola_arcuata-ML31744471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_arcuata-ML31744471.wav	1	c
+4	Spectrogram 1	1	9.824850159	10.369998782	6699.379	9540.240	Pipreola_arcuata-ML31744471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_arcuata-ML31744471.wav	1	d
+5	Spectrogram 1	1	94.612148452	95.562264623	5972.647	8152.843	Pipreola_arcuata-ML31744471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_arcuata-ML31744471.wav	2	a
+6	Spectrogram 1	1	98.091558202	98.501717642	6336.100	9474.173	Pipreola_arcuata-ML31744471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_arcuata-ML31744471.wav	2	b
+7	Spectrogram 1	1	106.908773416	110.763893665	5280.100	8218.909	Pipreola_arcuata-ML31744471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_arcuata-ML31744471.wav	2	c
+8	Spectrogram 1	1	114.757969363	115.297553862	6211.800	9540.240	Pipreola_arcuata-ML31744471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Pipreola_arcuata-ML31744471.wav	3	d

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.954776092	7.287556636	117.7	401.7	Scotopelia_ussheri-ML42040901.wav	D:\Andean\Strigidae\Scotopelia_ussheri-ML42040901.wav	1	a
+2	Spectrogram 1	1	9.936489766	10.349137640	97.0	401.7	Scotopelia_ussheri-ML42040901.wav	D:\Andean\Strigidae\Scotopelia_ussheri-ML42040901.wav	1	a
+3	Spectrogram 1	1	10.934831398	11.334168050	103.9	401.7	Scotopelia_ussheri-ML42040901.wav	D:\Andean\Strigidae\Scotopelia_ussheri-ML42040901.wav	1	a
+4	Spectrogram 1	1	12.931514661	13.304228870	110.8	408.6	Scotopelia_ussheri-ML42040901.wav	D:\Andean\Strigidae\Scotopelia_ussheri-ML42040901.wav	1	a
+5	Spectrogram 1	1	15.194422360	15.513891682	110.8	387.8	Scotopelia_ussheri-ML42040901.wav	D:\Andean\Strigidae\Scotopelia_ussheri-ML42040901.wav	1	a
+6	Spectrogram 1	1	16.072962996	16.432365983	117.7	401.7	Scotopelia_ussheri-ML42040901.wav	D:\Andean\Strigidae\Scotopelia_ussheri-ML42040901.wav	1	a

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.889968050	7.953029734	692.5	1828.3	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	1	a
+2	Spectrogram 1	1	8.177249055	8.237975121	720.2	1662.1	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	1	b
+3	Spectrogram 1	1	8.366434106	8.560290394	720.2	2077.6	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	1	c
+4	Spectrogram 1	1	8.782174097	8.943331733	886.4	2133.0	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	1	c
+5	Spectrogram 1	1	9.011064653	9.204920940	803.3	2216.1	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	1	c
+6	Spectrogram 1	1	19.753732293	19.819129594	747.9	1856.0	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	2	a
+7	Spectrogram 1	1	20.024663972	20.097068127	803.3	1772.9	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	2	b
+8	Spectrogram 1	1	20.225527113	20.398362839	941.8	2410.0	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	2	c
+9	Spectrogram 1	1	20.634260249	20.814102829	775.6	2326.9	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	2	c
+10	Spectrogram 1	1	20.856143952	21.059342711	637.1	2216.1	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	2	c
+11	Spectrogram 1	1	31.048149712	31.106540160	914.1	1828.3	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	3	a
+12	Spectrogram 1	1	31.330759481	31.391485547	747.9	1579.0	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	3	b
+13	Spectrogram 1	1	31.522280150	31.706793966	637.1	2216.1	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	3	c
+14	Spectrogram 1	1	31.942691376	32.106184631	831.0	2105.3	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	3	c
+15	Spectrogram 1	1	32.176253168	32.381787546	720.2	2188.4	Francolinus_pintadeanus-ML203912731.wav	D:\Andean\Phasianidae\Francolinus_pintadeanus-ML203912731.wav	3	c

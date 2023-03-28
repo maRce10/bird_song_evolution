@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.407123175	1.698901225	1892.0	4484.7	Euphonia_concinna-ML516238.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_concinna-ML516238.wav	1	a
+2	Spectrogram 1	1	1.713019517	2.000091469	2055.5	4531.5	Euphonia_concinna-ML516238.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_concinna-ML516238.wav	1	a
+3	Spectrogram 1	1	5.233946492	5.539842835	2242.4	4438.0	Euphonia_concinna-ML516238.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_concinna-ML516238.wav	2	a
+4	Spectrogram 1	1	5.572785518	5.855151372	2289.1	4508.1	Euphonia_concinna-ML516238.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_concinna-ML516238.wav	2	a
+5	Spectrogram 1	1	14.929055777	15.202009436	2405.9	4461.4	Euphonia_concinna-ML516238.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_concinna-ML516238.wav	3	a
+6	Spectrogram 1	1	15.234952119	15.536142364	2382.5	4531.5	Euphonia_concinna-ML516238.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_concinna-ML516238.wav	3	a

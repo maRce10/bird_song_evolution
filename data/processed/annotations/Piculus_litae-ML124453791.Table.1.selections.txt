@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.803472148	3.025605288	1780.8	3221.1	Piculus_litae-ML124453791.wav	D:\Andean\Picidae\Piculus_litae-ML124453791.wav	1	a
+2	Spectrogram 1	1	15.714461568	16.652531330	1859.3	3247.3	Piculus_litae-ML124453791.wav	D:\Andean\Picidae\Piculus_litae-ML124453791.wav	2	a
+3	Spectrogram 1	1	28.372499305	29.343599692	1806.9	3299.6	Piculus_litae-ML124453791.wav	D:\Andean\Picidae\Piculus_litae-ML124453791.wav	3	a

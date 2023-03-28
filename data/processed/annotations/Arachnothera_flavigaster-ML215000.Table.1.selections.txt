@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	67.911713325	67.977774575	1329.6	5817.2	Arachnothera_flavigaster-ML215000.wav	E:\Andean\Nectariniidae\Arachnothera_flavigaster-ML215000.wav	1	a
+2	Spectrogram 1	1	68.010805201	68.057048076	1163.4	5761.8	Arachnothera_flavigaster-ML215000.wav	E:\Andean\Nectariniidae\Arachnothera_flavigaster-ML215000.wav	1	a
+3	Spectrogram 1	1	75.013297789	75.066146790	1329.6	6565.1	Arachnothera_flavigaster-ML215000.wav	E:\Andean\Nectariniidae\Arachnothera_flavigaster-ML215000.wav	2	a
+4	Spectrogram 1	1	75.105783540	75.152026416	1108.0	6537.4	Arachnothera_flavigaster-ML215000.wav	E:\Andean\Nectariniidae\Arachnothera_flavigaster-ML215000.wav	2	a
+5	Spectrogram 1	1	83.952892169	83.999135044	1163.4	5789.5	Arachnothera_flavigaster-ML215000.wav	E:\Andean\Nectariniidae\Arachnothera_flavigaster-ML215000.wav	3	a
+6	Spectrogram 1	1	84.032165670	84.091620795	1218.8	5761.8	Arachnothera_flavigaster-ML215000.wav	E:\Andean\Nectariniidae\Arachnothera_flavigaster-ML215000.wav	3	a

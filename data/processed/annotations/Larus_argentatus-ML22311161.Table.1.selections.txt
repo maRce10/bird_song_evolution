@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.393910155	6.593991743	1022.5	4023.2	Larus_argentatus-ML22311161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_argentatus-ML22311161.wav	1	a
+2	Spectrogram 1	1	6.698621564	6.902374373	844.7	3978.8	Larus_argentatus-ML22311161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_argentatus-ML22311161.wav	2	a
+3	Spectrogram 1	1	7.019853470	7.229113112	755.7	4001.0	Larus_argentatus-ML22311161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_argentatus-ML22311161.wav	3	a

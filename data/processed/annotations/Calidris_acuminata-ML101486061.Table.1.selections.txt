@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.557033154	1.655111429	1567.5	4807.1	Calidris_acuminata-ML101486061.wav	D:\Andean\Scolopacidae\Calidris_acuminata-ML101486061.wav	1	a
+2	Spectrogram 1	1	1.691436717	1.767719820	1776.5	4206.2	Calidris_acuminata-ML101486061.wav	D:\Andean\Scolopacidae\Calidris_acuminata-ML101486061.wav	1	b
+3	Spectrogram 1	1	2.497858095	2.583222520	1724.3	4624.2	Calidris_acuminata-ML101486061.wav	D:\Andean\Scolopacidae\Calidris_acuminata-ML101486061.wav	2	a
+4	Spectrogram 1	1	2.603201428	2.686749588	1567.5	4127.8	Calidris_acuminata-ML101486061.wav	D:\Andean\Scolopacidae\Calidris_acuminata-ML101486061.wav	2	b
+5	Spectrogram 1	1	3.489538437	3.571270334	1332.4	4807.1	Calidris_acuminata-ML101486061.wav	D:\Andean\Scolopacidae\Calidris_acuminata-ML101486061.wav	3	a

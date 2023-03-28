@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.352563459	16.530928836	2410.0	4404.5	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	1	a
+2	Spectrogram 1	1	16.583777837	16.755537089	2216.1	4432.2	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	1	b
+3	Spectrogram 1	1	16.821598340	16.990054529	2326.9	4321.4	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	1	a
+4	Spectrogram 1	1	17.056115780	17.231178095	2465.4	4404.5	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	1	c
+5	Spectrogram 1	1	18.317885671	18.496251048	2437.7	4349.1	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	2	a
+6	Spectrogram 1	1	18.549099927	18.717556117	2299.2	4349.1	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	2	b
+7	Spectrogram 1	1	18.786920430	18.952073557	2465.4	4266.0	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	2	a
+8	Spectrogram 1	1	19.024740933	19.193197123	2465.4	4321.4	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	2	a
+9	Spectrogram 1	1	20.420547797	20.595610112	2493.1	4349.1	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	3	a
+10	Spectrogram 1	1	20.658368300	20.816915302	2437.7	4321.4	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	3	b
+11	Spectrogram 1	1	20.906097991	21.064644993	2465.4	4349.1	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	3	a
+12	Spectrogram 1	1	21.134009306	21.295859371	2437.7	4321.4	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	3	a
+13	Spectrogram 1	1	21.378435934	21.540285999	2437.7	4321.4	Pteruthius_xanthochlorus-ML151150551.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_xanthochlorus-ML151150551.wav	3	a

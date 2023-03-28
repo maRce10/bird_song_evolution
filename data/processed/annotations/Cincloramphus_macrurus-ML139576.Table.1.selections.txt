@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.010753300	17.155766561	3083.3	7614.7	Cincloramphus_macrurus-ML139576.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Cincloramphus_macrurus-ML139576.wav	1	a
+2	Spectrogram 1	1	39.124561104	39.269574364	2032.2	7848.3	Cincloramphus_macrurus-ML139576.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Cincloramphus_macrurus-ML139576.wav	2	a
+3	Spectrogram 1	1	41.004857816	41.160884742	2148.9	7708.2	Cincloramphus_macrurus-ML139576.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Cincloramphus_macrurus-ML139576.wav	3	a

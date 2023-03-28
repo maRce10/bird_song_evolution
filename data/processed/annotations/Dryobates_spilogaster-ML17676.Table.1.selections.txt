@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.388567552	8.433158896	1492.7	3771.0	Dryobates_spilogaster-ML17676.wav	D:\Andean\Picidae\Dryobates_spilogaster-ML17676.wav	1	a
+2	Spectrogram 1	1	12.903941124	12.963396249	1623.6	3718.6	Dryobates_spilogaster-ML17676.wav	D:\Andean\Picidae\Dryobates_spilogaster-ML17676.wav	2	a
+3	Spectrogram 1	1	18.391082358	18.445582890	1414.1	3666.3	Dryobates_spilogaster-ML17676.wav	D:\Andean\Picidae\Dryobates_spilogaster-ML17676.wav	3	a

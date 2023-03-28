@@ -1,0 +1,29 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	166.634214018	166.996952409	1305.9	2334.8	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	1	a
+2	Spectrogram 1	1	167.016043903	167.331053558	1503.8	2611.8	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	1	b
+3	Spectrogram 1	1	167.445602523	167.617425971	1543.3	2255.7	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	1	c
+4	Spectrogram 1	1	167.665154707	167.922889879	1780.8	2572.2	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	1	b
+5	Spectrogram 1	1	168.027893097	168.276082522	1741.2	2532.7	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	1	a
+6	Spectrogram 1	1	168.361994247	168.581546430	1939.1	2532.7	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	1	c
+7	Spectrogram 1	1	168.677003901	168.953830568	1741.2	2651.4	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	1	c
+8	Spectrogram 1	1	169.039742292	169.287931717	1582.9	2730.5	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	1	c
+9	Spectrogram 1	1	169.392934935	169.641124360	1662.1	2651.4	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	1	c
+10	Spectrogram 1	1	205.310013218	205.558202643	1424.6	2216.1	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	2	a
+11	Spectrogram 1	1	205.644114367	205.968669769	1345.5	2453.5	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	2	b
+12	Spectrogram 1	1	206.049808619	206.269360803	1464.2	2136.9	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	2	a
+13	Spectrogram 1	1	206.288452297	206.555733217	1503.8	2651.4	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	2	b
+14	Spectrogram 1	1	206.689373676	206.880288619	1662.1	2572.2	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav		
+15	Spectrogram 1	1	207.009156205	207.305074365	1701.6	2691.0	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	2	b
+16	Spectrogram 1	1	207.314620113	207.591446779	1741.2	2809.7	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	2	c
+17	Spectrogram 1	1	207.677358503	207.916002181	1662.1	2770.1	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	2	c
+18	Spectrogram 1	1	207.992368158	208.250103330	1582.9	2809.7	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	2	c
+19	Spectrogram 1	1	298.331505984	298.589241156	1424.6	2374.4	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	3	a
+20	Spectrogram 1	1	298.675152880	299.037891270	1582.9	2691.0	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	3	b
+21	Spectrogram 1	1	299.133348742	299.295626443	1503.8	2136.9	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	3	a
+22	Spectrogram 1	1	299.343355178	299.562907362	1662.1	2770.1	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	3	b
+23	Spectrogram 1	1	299.677456327	299.954282994	1424.6	2572.2	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	3	b
+24	Spectrogram 1	1	299.973374488	300.269292649	1543.3	2611.8	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	3	b
+26	Spectrogram 1	1	300.336112878	300.632031039	1543.3	2611.8	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	3	c
+27	Spectrogram 1	1	300.679759775	300.908857705	1820.4	2730.5	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	3	c
+28	Spectrogram 1	1	301.023406671	301.242958855	1622.5	2770.1	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	3	c
+29	Spectrogram 1	1	301.357507820	301.586605751	1622.5	2770.1	Hylopezus_ochroleucus-ML91034.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Hylopezus_ochroleucus-ML91034.wav	3	c

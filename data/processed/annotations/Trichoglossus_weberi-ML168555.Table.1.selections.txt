@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	98.199859685	98.272527061	1301.9	1883.7	Trichoglossus_weberi-ML168555.wav	D:\Andean\Psittaculidae\Trichoglossus_weberi-ML168555.wav	1	a
+2	Spectrogram 1	1	98.351800562	98.480620001	1357.3	1966.8	Trichoglossus_weberi-ML168555.wav	D:\Andean\Psittaculidae\Trichoglossus_weberi-ML168555.wav	1	b
+3	Spectrogram 1	1	99.078474321	99.137929447	1357.3	1717.5	Trichoglossus_weberi-ML168555.wav	D:\Andean\Psittaculidae\Trichoglossus_weberi-ML168555.wav	2	a
+4	Spectrogram 1	1	99.210596823	99.342719324	1329.6	1772.9	Trichoglossus_weberi-ML168555.wav	D:\Andean\Psittaculidae\Trichoglossus_weberi-ML168555.wav	2	b
+5	Spectrogram 1	1	100.095817584	100.158575772	1218.8	1551.3	Trichoglossus_weberi-ML168555.wav	D:\Andean\Psittaculidae\Trichoglossus_weberi-ML168555.wav	3	a
+6	Spectrogram 1	1	100.254364586	100.406305463	1385.1	1883.7	Trichoglossus_weberi-ML168555.wav	D:\Andean\Psittaculidae\Trichoglossus_weberi-ML168555.wav	3	b

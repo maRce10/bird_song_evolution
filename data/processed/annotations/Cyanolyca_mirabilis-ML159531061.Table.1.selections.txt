@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	40.775723132	41.074054330	1378.125	4524.200	Cyanolyca_mirabilis-ML159531061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_mirabilis-ML159531061.wav	1	a
+2	Spectrogram 1	1	41.101805849	41.391615015	1611.706	4634.000	Cyanolyca_mirabilis-ML159531061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_mirabilis-ML159531061.wav	1	a
+3	Spectrogram 1	1	41.469488134	41.775257692	1448.199	4432.700	Cyanolyca_mirabilis-ML159531061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_mirabilis-ML159531061.wav	1	a
+4	Spectrogram 1	1	46.587326225	46.851883934	1471.557	4742.200	Cyanolyca_mirabilis-ML159531061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_mirabilis-ML159531061.wav	2	a
+5	Spectrogram 1	1	46.908926542	47.173115840	1308.051	4790.300	Cyanolyca_mirabilis-ML159531061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_mirabilis-ML159531061.wav	2	a
+6	Spectrogram 1	1	50.449589492	50.718765256	1191.261	4546.400	Cyanolyca_mirabilis-ML159531061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_mirabilis-ML159531061.wav	3	a
+7	Spectrogram 1	1	50.756662393	51.034490329	1284.693	4489.600	Cyanolyca_mirabilis-ML159531061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_mirabilis-ML159531061.wav	3	a
+8	Spectrogram 1	1	51.090758315	51.377749567	1331.409	4518.000	Cyanolyca_mirabilis-ML159531061.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanolyca_mirabilis-ML159531061.wav	3	a

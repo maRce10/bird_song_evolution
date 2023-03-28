@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.491895056	4.526577212	3902.0	4216.2	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	1	a
+2	Spectrogram 1	1	4.567865494	4.614108370	3980.5	4609.0	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	1	a
+3	Spectrogram 1	1	4.666957370	4.726412496	3875.8	4425.7	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	1	a
+4	Spectrogram 1	1	4.784216091	4.833762029	4163.8	4923.3	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	1	a
+5	Spectrogram 1	1	4.913035530	4.965378037	4006.7	4609.0	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	1	a
+6	Spectrogram 1	1	5.105758195	5.213107728	3771.0	5001.8	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	1	b
+7	Spectrogram 1	1	9.123355968	9.159689656	3875.8	4268.6	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	2	a
+8	Spectrogram 1	1	9.220796313	9.270342251	4006.7	4478.1	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	2	a
+9	Spectrogram 1	1	9.324842783	9.384297909	3875.8	4478.1	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	2	a
+10	Spectrogram 1	1	9.443753035	9.496602035	3980.5	4687.6	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	2	a
+11	Spectrogram 1	1	9.570920942	9.635330662	3928.1	4635.2	Tarsiger_johnstoniae-ML38740001.wav	E:\Andean\Muscicapidae\Tarsiger_johnstoniae-ML38740001.wav	2	a

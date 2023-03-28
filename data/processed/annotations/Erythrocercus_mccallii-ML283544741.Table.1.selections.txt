@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.444123329	3.570246697	4990.0	7289.0	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	1	a
+2	Spectrogram 1	1	3.607616584	3.694034447	4441.4	7132.3	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	1	b
+3	Spectrogram 1	1	3.729068716	3.806144107	3892.7	6949.4	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	1	b
+4	Spectrogram 1	1	3.843513994	3.918253767	4075.6	6583.6	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	1	b
+5	Spectrogram 1	1	4.140137470	4.268596456	5146.7	7367.4	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	2	a
+6	Spectrogram 1	1	4.305966342	4.397055441	4676.5	7158.4	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	2	b
+7	Spectrogram 1	1	4.427418474	4.511500719	4493.6	7289.0	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	2	b
+8	Spectrogram 1	1	4.525514427	4.604925436	4310.7	7027.8	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	2	b
+9	Spectrogram 1	1	4.628281616	4.707692625	4258.5	6975.5	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	2	b
+10	Spectrogram 1	1	4.735720040	4.815131049	4206.2	6949.4	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	2	b
+11	Spectrogram 1	1	5.095405200	5.200508006	5460.2	7001.7	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	3	a
+12	Spectrogram 1	1	5.235542275	5.317288903	4598.1	7053.9	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	3	b
+13	Spectrogram 1	1	5.354658789	5.431734181	4154.0	7027.8	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	3	b
+14	Spectrogram 1	1	5.459761596	5.534501369	4206.2	7001.7	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	3	b
+15	Spectrogram 1	1	5.590556199	5.674638445	4101.7	7106.2	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	3	b
+16	Spectrogram 1	1	5.707337095	5.793754959	3918.8	6897.2	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	3	b
+17	Spectrogram 1	1	5.840467317	5.929220798	4101.7	6792.7	Erythrocercus_mccallii-ML283544741.wav	D:\Andean\Scotocercidae\Erythrocercus_mccallii-ML283544741.wav	3	b

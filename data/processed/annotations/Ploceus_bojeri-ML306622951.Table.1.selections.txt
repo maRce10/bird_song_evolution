@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.567721928	8.726543947	3378.2	6573.1	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	1	a
+2	Spectrogram 1	1	8.766249452	8.897044055	2304.5	5447.0	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	1	b
+3	Spectrogram 1	1	8.985797536	9.135277083	3483.0	7123.0	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	1	a
+4	Spectrogram 1	1	9.821948752	9.964421446	3430.6	7201.6	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	2	a
+5	Spectrogram 1	1	10.356808941	10.485267927	3561.5	7175.4	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	2	a
+6	Spectrogram 1	1	10.620733767	10.751528370	2226.0	5708.9	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	2	b
+7	Spectrogram 1	1	10.879987356	11.001439488	3483.0	7201.6	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	2	a
+8	Spectrogram 1	1	11.249014988	11.375138355	3483.0	7306.4	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	2	a
+9	Spectrogram 1	1	12.082830586	12.222967661	3378.2	7201.6	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	3	a
+10	Spectrogram 1	1	12.321063614	12.479885632	2042.6	5839.8	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	3	b
+11	Spectrogram 1	1	12.568639113	12.694762481	3325.8	6861.2	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	3	a
+12	Spectrogram 1	1	12.820885849	12.984379103	2173.6	5735.1	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	3	b
+13	Spectrogram 1	1	13.077803820	13.227283367	3325.8	7201.6	Ploceus_bojeri-ML306622951.wav	D:\Andean\Ploceidae\Ploceus_bojeri-ML306622951.wav	3	a

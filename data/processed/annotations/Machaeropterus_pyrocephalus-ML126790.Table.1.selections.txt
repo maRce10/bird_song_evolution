@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.831016501	25.925979549	3310.3	3858.8	Machaeropterus_pyrocephalus-ML126790.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_pyrocephalus-ML126790.wav	1	a
+2	Spectrogram 1	1	33.642642222	33.749991754	3290.7	3800.0	Machaeropterus_pyrocephalus-ML126790.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_pyrocephalus-ML126790.wav	2	a
+3	Spectrogram 1	1	43.499179248	43.608180312	3310.3	3702.1	Machaeropterus_pyrocephalus-ML126790.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_pyrocephalus-ML126790.wav	3	a
+4	Spectrogram 1	1	55.915833010	56.034743261	3290.7	3702.1	Machaeropterus_pyrocephalus-ML126790.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_pyrocephalus-ML126790.wav	4	a
+5	Spectrogram 1	1	76.277582219	76.379977158	3290.7	3741.2	Machaeropterus_pyrocephalus-ML126790.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_pyrocephalus-ML126790.wav	5	a

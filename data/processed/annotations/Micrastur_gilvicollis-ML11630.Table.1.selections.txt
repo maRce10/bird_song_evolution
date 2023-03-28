@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	139.407284711	139.645924655	351.4	1405.6	Micrastur_gilvicollis-ML11630.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_gilvicollis-ML11630.wav	1	a
+2	Spectrogram 1	1	139.946434214	140.142649280	483.2	1647.2	Micrastur_gilvicollis-ML11630.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_gilvicollis-ML11630.wav	1	b
+3	Spectrogram 1	1	140.423714103	140.635838498	483.2	1625.2	Micrastur_gilvicollis-ML11630.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_gilvicollis-ML11630.wav	1	b
+4	Spectrogram 1	1	143.397695843	143.636335787	307.5	1449.5	Micrastur_gilvicollis-ML11630.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_gilvicollis-ML11630.wav	2	a
+5	Spectrogram 1	1	143.952754676	144.170182181	439.2	1603.2	Micrastur_gilvicollis-ML11630.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_gilvicollis-ML11630.wav	2	b
+6	Spectrogram 1	1	144.435337675	144.659835993	417.3	1581.3	Micrastur_gilvicollis-ML11630.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_gilvicollis-ML11630.wav	2	b
+7	Spectrogram 1	1	147.093077988	147.331717932	307.5	1449.5	Micrastur_gilvicollis-ML11630.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_gilvicollis-ML11630.wav	3	a
+8	Spectrogram 1	1	147.646369118	147.856725809	439.2	1581.3	Micrastur_gilvicollis-ML11630.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_gilvicollis-ML11630.wav	3	b
+9	Spectrogram 1	1	148.136022929	148.362288951	461.2	1669.1	Micrastur_gilvicollis-ML11630.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Micrastur_gilvicollis-ML11630.wav	3	b

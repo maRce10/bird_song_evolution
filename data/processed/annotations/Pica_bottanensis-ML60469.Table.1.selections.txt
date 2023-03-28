@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.242073832	12.365813063	724.9	2591.5	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	1	a
+2	Spectrogram 1	1	12.418844161	12.514300139	747.1	2635.9	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	1	a
+3	Spectrogram 1	1	12.590311381	12.698141281	708.7	2553.5	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	1	a
+4	Spectrogram 1	1	12.763546303	12.874911610	664.8	2597.4	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	1	a
+5	Spectrogram 1	1	12.943852039	13.051681940	815.5	2586.5	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	1	a
+6	Spectrogram 1	1	13.140067104	13.249664708	785.3	2646.9	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	1	a
+7	Spectrogram 1	1	13.353959202	13.468859916	790.6	2668.4	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	1	a
+8	Spectrogram 1	1	15.535616522	15.631072500	634.3	2643.0	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	2	a
+9	Spectrogram 1	1	15.701780631	15.804307422	634.3	2582.6	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	2	a
+10	Spectrogram 1	1	15.867944741	15.977542345	604.1	2597.7	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	2	a
+11	Spectrogram 1	1	16.034108850	16.150777267	634.3	2612.8	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	2	a
+12	Spectrogram 1	1	16.230323916	16.338153816	724.9	2597.7	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	2	a
+13	Spectrogram 1	1	20.527121144	20.634951044	724.9	2597.7	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	3	a
+14	Spectrogram 1	1	20.689749846	20.783438121	604.1	2597.7	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	3	a
+15	Spectrogram 1	1	20.848843143	20.951369933	694.7	2643.0	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	3	a
+16	Spectrogram 1	1	21.018542658	21.122837153	664.5	2597.7	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	3	a
+17	Spectrogram 1	1	21.188242174	21.285465855	694.7	2643.0	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	3	a
+18	Spectrogram 1	1	21.357941690	21.467539294	664.5	2658.1	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	3	a
+19	Spectrogram 1	1	21.555924459	21.667289766	664.5	2627.9	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	3	a
+20	Spectrogram 1	1	21.766281151	21.872343348	694.7	2567.5	Pica_bottanensis-ML60469.wav	E:\Escritorio\Cantos\Corvidae\Pica_bottanensis-ML60469.wav	3	a

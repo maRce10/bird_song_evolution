@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.252578354	8.722902681	555.7	3267.5	Larus_canus-ML205681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_canus-ML205681.wav	1	a
+2	Spectrogram 1	1	8.981124303	9.397807976	622.4	2689.6	Larus_canus-ML205681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_canus-ML205681.wav	1	b
+3	Spectrogram 1	1	9.652957890	9.884244863	533.5	2734.0	Larus_canus-ML205681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_canus-ML205681.wav	1	c
+4	Spectrogram 1	1	18.327993463	19.381947467	555.7	3356.4	Larus_canus-ML205681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_canus-ML205681.wav	2	a
+5	Spectrogram 1	1	19.565262107	20.011764788	644.6	2711.8	Larus_canus-ML205681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_canus-ML205681.wav	2	b
+6	Spectrogram 1	1	20.167521537	20.556913411	666.8	2867.4	Larus_canus-ML205681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_canus-ML205681.wav	2	b
+7	Spectrogram 1	1	20.717862052	21.081294467	577.9	3067.4	Larus_canus-ML205681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_canus-ML205681.wav	2	b
+8	Spectrogram 1	1	21.346080941	21.673170114	422.3	3289.7	Larus_canus-ML205681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_canus-ML205681.wav	2	c

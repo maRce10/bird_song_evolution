@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	44.431321570	44.672445135	5761.8	6592.8	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	1	a
+2	Spectrogram 1	1	44.748415574	44.923477889	4376.8	5623.3	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	1	b
+3	Spectrogram 1	1	46.013488527	46.254612093	5678.7	6537.4	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	1	a
+4	Spectrogram 1	1	46.350400907	46.522160159	4376.8	5761.8	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	1	b
+5	Spectrogram 1	1	47.172863479	47.466836046	5290.9	6482.0	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	1	c
+6	Spectrogram 1	1	47.526291171	47.721171861	6232.7	7063.8	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	1	a
+7	Spectrogram 1	1	47.754202487	47.962295427	4570.7	5152.4	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	1	d
+8	Spectrogram 1	1	50.052063733	50.266940582	5775.0	6521.1	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	2	a
+9	Spectrogram 1	1	50.360365299	50.565899676	4310.5	5609.2	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	2	b
+10	Spectrogram 1	1	51.696338750	51.915886834	5719.7	6493.4	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	2	a
+11	Spectrogram 1	1	51.990626608	52.158791098	4421.1	5664.5	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	2	b
+12	Spectrogram 1	1	53.135079390	53.340613767	5664.5	6465.8	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	2	a
+13	Spectrogram 1	1	53.779709936	54.022614200	4973.7	5526.3	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	2	d
+14	Spectrogram 1	1	54.055312851	54.270189700	4338.2	4863.2	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	2	d
+15	Spectrogram 1	1	54.293545879	54.545792614	5885.5	6659.2	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	2	a
+16	Spectrogram 1	1	56.609167164	56.824044012	5747.4	6548.7	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	3	a
+17	Spectrogram 1	1	56.917468729	57.090304455	4476.3	5581.6	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	3	b
+18	Spectrogram 1	1	57.940469379	58.141332520	5802.6	6493.4	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	3	a
+19	Spectrogram 1	1	58.244099709	58.398250492	4448.7	5636.8	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	3	b
+20	Spectrogram 1	1	60.037854340	60.248059953	5830.3	6355.3	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	3	a
+21	Spectrogram 1	1	61.009471395	61.229019480	5913.2	6355.3	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	3	d
+22	Spectrogram 1	1	61.261718131	61.485937451	4807.9	5332.9	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	3	d
+23	Spectrogram 1	1	61.574690932	61.775554074	6742.1	7460.5	Ficedula_dumetoria-ML71125.wav	E:\Andean\Muscicapidae\Ficedula_dumetoria-ML71125.wav	3	e

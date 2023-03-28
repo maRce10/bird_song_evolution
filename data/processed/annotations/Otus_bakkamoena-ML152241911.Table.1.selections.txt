@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.703509707	1.788672758	193.9	1329.6	Otus_bakkamoena-ML152241911.wav	D:\Andean\Strigidae\Otus_bakkamoena-ML152241911.wav	1	a
+2	Spectrogram 1	1	1.816046596	1.873835810	277.0	1717.5	Otus_bakkamoena-ML152241911.wav	D:\Andean\Strigidae\Otus_bakkamoena-ML152241911.wav	1	b
+3	Spectrogram 1	1	6.218468538	6.300590052	249.3	1412.8	Otus_bakkamoena-ML152241911.wav	D:\Andean\Strigidae\Otus_bakkamoena-ML152241911.wav	2	a
+4	Spectrogram 1	1	6.327963890	6.388794641	277.0	1634.4	Otus_bakkamoena-ML152241911.wav	D:\Andean\Strigidae\Otus_bakkamoena-ML152241911.wav	2	b
+5	Spectrogram 1	1	10.367403611	10.457128969	249.3	1218.8	Otus_bakkamoena-ML152241911.wav	D:\Andean\Strigidae\Otus_bakkamoena-ML152241911.wav	3	a
+6	Spectrogram 1	1	10.489065113	10.542292020	221.6	1717.5	Otus_bakkamoena-ML152241911.wav	D:\Andean\Strigidae\Otus_bakkamoena-ML152241911.wav	3	b

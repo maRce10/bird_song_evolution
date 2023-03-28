@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	29.027743756	29.181894539	1800.6	3601.1	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	1	a
+2	Spectrogram 1	1	29.254298695	29.401442624	2133.0	3878.1	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	1	b
+3	Spectrogram 1	1	29.464504308	29.606977001	2105.3	3601.1	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	1	c
+4	Spectrogram 1	1	29.670038685	29.812511378	2133.0	3878.1	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	1	b
+5	Spectrogram 1	1	29.884915533	30.018045755	2160.7	3988.9	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	1	b
+6	Spectrogram 1	1	30.099792382	30.235258222	2160.7	3905.8	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	1	b
+7	Spectrogram 1	1	30.319340467	30.468820014	2077.6	3767.3	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	1	d
+8	Spectrogram 1	1	33.459746484	33.609226031	1911.4	3739.6	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	2	e
+9	Spectrogram 1	1	33.683965804	33.826438497	2022.2	3961.2	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	2	d
+10	Spectrogram 1	1	33.891835799	34.024966021	2105.3	3795.0	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	2	b
+11	Spectrogram 1	1	34.097370176	34.244514105	2105.3	3767.3	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	2	b
+12	Spectrogram 1	1	34.309911407	34.452384100	2105.3	3739.6	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	2	b
+13	Spectrogram 1	1	34.527123874	34.662589713	2105.3	3795.0	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	2	b
+14	Spectrogram 1	1	34.742000723	34.886809034	2077.6	3850.4	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	2	b
+15	Spectrogram 1	1	36.928265747	37.080080911	1994.5	3739.6	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	3	e
+16	Spectrogram 1	1	37.152485067	37.299628996	2077.6	3767.3	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	3	d
+17	Spectrogram 1	1	37.358019444	37.502827755	2160.7	3795.0	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	3	d
+18	Spectrogram 1	1	37.568225057	37.722375840	2077.6	3878.1	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	3	b
+19	Spectrogram 1	1	37.783101906	37.937252689	2077.6	3933.5	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	3	b
+20	Spectrogram 1	1	38.002649991	38.154465155	2022.2	3905.8	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	3	c
+21	Spectrogram 1	1	38.208184368	38.357663915	2077.6	3850.4	Vireo_nanus-ML52502701.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_nanus-ML52502701.wav	3	b

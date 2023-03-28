@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.061646653	2.149841197	1828.3	6454.3	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	1	a
+2	Spectrogram 1	1	2.221034384	2.256099685	1717.5	5180.1	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	1	b
+3	Spectrogram 1	1	2.267788118	2.333668380	2770.1	4349.1	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	1	c
+4	Spectrogram 1	1	2.342169059	2.364483342	1717.5	2853.2	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	1	d
+5	Spectrogram 1	1	2.361295587	2.406986737	3019.4	3739.6	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	1	e
+6	Spectrogram 1	1	2.406986737	2.431426189	1745.2	2797.8	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	1	d
+7	Spectrogram 1	1	2.423988095	2.496243866	3130.2	5207.8	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	1	f
+8	Spectrogram 1	1	3.846035115	3.900226943	2022.2	5651.0	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	2	g
+9	Spectrogram 1	1	3.904477283	4.030924883	3130.2	4044.3	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	2	h
+10	Spectrogram 1	1	4.072365693	4.088304466	1745.2	2797.8	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	2	d
+11	Spectrogram 1	1	4.081928957	4.160560237	3130.2	3711.9	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	2	e
+12	Spectrogram 1	1	4.160560237	4.204126217	1717.5	2936.3	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	2	i
+13	Spectrogram 1	1	4.202001047	4.258318046	3241.0	5124.7	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	2	f
+14	Spectrogram 1	1	5.099708809	5.186840768	1939.1	6315.8	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	3	a
+15	Spectrogram 1	1	5.295224425	5.322851632	2022.2	5263.2	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	3	b
+16	Spectrogram 1	1	5.328164557	5.374918291	2853.2	4099.7	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	3	c
+17	Spectrogram 1	1	5.392982234	5.408921007	1800.6	2770.1	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	3	d
+18	Spectrogram 1	1	5.406795837	5.458862496	2908.6	3656.5	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	3	e
+19	Spectrogram 1	1	5.483301948	5.499240721	1662.1	2880.9	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	3	d
+20	Spectrogram 1	1	5.498178136	5.575746832	3157.9	5207.8	Tringa_ochropus-ML31372231.wav	D:\Andean\Scolopacidae\Tringa_ochropus-ML31372231.wav	3	f

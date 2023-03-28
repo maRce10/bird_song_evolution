@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.312029047	2.592057181	443.2	997.2	Otus_thilohoffmanni-ML282073.wav	D:\Andean\Strigidae\Otus_thilohoffmanni-ML282073.wav	1	a
+2	Spectrogram 1	1	22.050936574	22.310962698	526.3	1024.9	Otus_thilohoffmanni-ML282073.wav	D:\Andean\Strigidae\Otus_thilohoffmanni-ML282073.wav	2	a
+3	Spectrogram 1	1	44.414717134	44.661408585	415.5	997.2	Otus_thilohoffmanni-ML282073.wav	D:\Andean\Strigidae\Otus_thilohoffmanni-ML282073.wav	3	a

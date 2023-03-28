@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	48.980584850	49.137071251	2272.9	3709.8	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	1	a
+2	Spectrogram 1	1	49.207139788	49.354283717	2220.7	3474.7	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	1	b
+3	Spectrogram 1	1	49.774694943	49.935852580	2351.3	3500.8	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	1	b
+4	Spectrogram 1	1	49.996578646	50.136715721	2325.2	3448.6	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	1	b
+5	Spectrogram 1	1	50.388962457	50.543113240	2351.3	3422.5	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	1	b
+6	Spectrogram 1	1	50.606174923	50.753318853	2325.2	3370.2	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	1	b
+8	Spectrogram 1	1	52.637022615	52.795844634	1541.4	4310.7	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	2	c
+9	Spectrogram 1	1	52.814529577	52.861241936	2481.9	5199.0	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	2	d
+10	Spectrogram 1	1	52.926639238	53.034077662	2220.7	3344.1	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	2	e
+11	Spectrogram 1	1	53.057438610	53.098311924	3318.0	4807.1	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	2	f
+12	Spectrogram 1	1	53.119332485	53.150863327	3736.0	4728.7	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	2	g
+13	Spectrogram 1	1	53.230274336	53.342383997	2116.2	3239.6	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	2	h
+14	Spectrogram 1	1	53.543247138	53.653021180	2168.4	3291.8	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	2	h
+15	Spectrogram 1	1	56.362990192	56.515973166	2272.9	3657.6	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	3	i
+16	Spectrogram 1	1	56.598887602	56.744863722	2325.2	3396.3	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	3	b
+17	Spectrogram 1	1	56.964411807	57.122066017	2403.6	3448.6	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	3	b
+18	Spectrogram 1	1	57.171113993	57.312418877	2377.4	3474.7	Turdus_torquatus-ML204596.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_torquatus-ML204596.wav	3	b

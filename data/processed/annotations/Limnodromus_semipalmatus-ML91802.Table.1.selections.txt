@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.795039764	20.072497017	313.5	2168.4	Limnodromus_semipalmatus-ML91802.wav	D:\Andean\Scolopacidae\Limnodromus_semipalmatus-ML91802.wav	1	a
+2	Spectrogram 1	1	20.462258397	20.733109526	261.3	1959.4	Limnodromus_semipalmatus-ML91802.wav	D:\Andean\Scolopacidae\Limnodromus_semipalmatus-ML91802.wav	2	a
+3	Spectrogram 1	1	21.235175032	21.512632286	287.4	1881.0	Limnodromus_semipalmatus-ML91802.wav	D:\Andean\Scolopacidae\Limnodromus_semipalmatus-ML91802.wav	3	a

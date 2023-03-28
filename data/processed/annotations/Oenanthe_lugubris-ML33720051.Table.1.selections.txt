@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.229095472	1.387917490	2461.6	3640.1	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	1	a
+2	Spectrogram 1	1	1.432294231	1.682205348	2592.6	4556.7	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	1	b
+3	Spectrogram 1	1	1.728917707	1.927445230	2802.1	4163.8	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	1	c
+4	Spectrogram 1	1	6.068726215	6.236890705	2304.5	3509.1	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	2	a
+5	Spectrogram 1	1	6.274260592	6.533514181	2697.3	4792.3	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	2	b
+6	Spectrogram 1	1	6.570884068	6.741384176	2592.6	4006.7	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	2	c
+7	Spectrogram 1	1	6.848822601	6.890863723	2383.1	3037.8	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	2	d
+8	Spectrogram 1	1	6.907213049	6.963267879	2409.3	3142.5	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	2	d
+9	Spectrogram 1	1	7.019322709	7.145446077	2042.6	2828.3	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	2	a
+10	Spectrogram 1	1	10.693496281	10.828962120	2540.2	3561.5	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	3	a
+11	Spectrogram 1	1	10.873338861	11.125585596	2671.1	4687.6	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	3	b
+12	Spectrogram 1	1	11.162955483	11.338126827	2671.1	4059.1	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	3	c
+13	Spectrogram 1	1	11.454907723	11.611394124	2068.8	2802.1	Oenanthe_lugubris-ML33720051.wav	E:\Andean\Muscicapidae\Oenanthe_lugubris-ML33720051.wav	3	a

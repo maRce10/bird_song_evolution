@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.208541478	6.522430941	280.3	700.7	Macropygia_unchall-ML70420.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_unchall-ML70420.wav	1	a
+2	Spectrogram 1	1	8.110671887	8.479629676	303.7	700.7	Macropygia_unchall-ML70420.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_unchall-ML70420.wav	2	b
+3	Spectrogram 1	1	10.448162904	10.780408476	303.7	700.7	Macropygia_unchall-ML70420.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_unchall-ML70420.wav	3	a

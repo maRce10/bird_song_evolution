@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	27.212174333	27.775719511	219.600	1424.841	Coua_reynaudii-ML95420.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_reynaudii-ML95420.wav	1	a
+2	Spectrogram 1	1	31.123495453	31.696231319	219.600	1317.700	Coua_reynaudii-ML95420.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_reynaudii-ML95420.wav	2	a
+3	Spectrogram 1	1	34.800318298	35.401337417	241.600	1251.800	Coua_reynaudii-ML95420.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coua_reynaudii-ML95420.wav	3	a

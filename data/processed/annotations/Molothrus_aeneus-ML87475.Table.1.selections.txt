@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.119668809	10.616215769	3270.8	4906.3	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	1	a
+2	Spectrogram 1	1	10.777258026	11.797192322	7162.0	10545.7	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	1	b
+3	Spectrogram 1	1	11.971654767	12.723185301	6034.1	8628.3	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	1	d
+4	Spectrogram 1	1	12.736605489	12.911067935	6541.7	10038.1	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	1	d
+5	Spectrogram 1	1	96.582795049	97.119602573	3552.8	4737.1	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	2	a
+6	Spectrogram 1	1	97.213543890	98.340839691	7049.2	10771.2	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	2	b
+7	Spectrogram 1	1	98.461621384	99.213151918	5808.6	8628.3	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	2	c
+8	Spectrogram 1	1	99.226572106	99.387614363	6823.7	9868.9	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	2	d
+9	Spectrogram 1	1	99.615757561	100.863835055	5075.4	8628.3	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	2	e
+10	Spectrogram 1	1	100.971196560	101.803248222	5583.0	9192.2	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	2	c
+11	Spectrogram 1	1	101.856928975	102.031391420	6485.3	9756.1	Molothrus_aeneus-ML87475.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_aeneus-ML87475.wav	2	d

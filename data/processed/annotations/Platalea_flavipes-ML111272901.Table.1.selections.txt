@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	26.962622418	27.226969820	1523.6	4847.7	Platalea_flavipes-ML111272901.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Platalea_flavipes-ML111272901.wav	1	a

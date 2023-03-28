@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.628477395	4.676311746	939.3	4474.3	Charadrius_asiaticus-ML41716.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_asiaticus-ML41716.wav	1	a
+2	Spectrogram 1	1	5.691462976	5.737525685	988.8	4573.2	Charadrius_asiaticus-ML41716.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_asiaticus-ML41716.wav	2	a
+3	Spectrogram 1	1	6.770279427	6.830515277	885.9	4552.7	Charadrius_asiaticus-ML41716.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_asiaticus-ML41716.wav	3	a

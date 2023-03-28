@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	59.978802912	60.125083726	5872.6	7063.8	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	1	a
+2	Spectrogram 1	1	60.268775135	60.391958978	5761.8	7534.7	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	1	b
+3	Spectrogram 1	1	60.522841812	60.684520606	6011.1	7562.4	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	1	b
+4	Spectrogram 1	1	60.784607479	60.900092333	6038.8	7645.5	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	1	b
+5	Spectrogram 1	1	67.645697112	67.791977926	6149.6	7230.0	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	2	a
+6	Spectrogram 1	1	67.938258740	68.053743593	5651.0	7534.7	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	2	b
+7	Spectrogram 1	1	68.176927437	68.315509261	5817.2	7756.3	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	2	b
+8	Spectrogram 1	1	68.461790075	68.584973918	5761.8	7784.0	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	2	b
+9	Spectrogram 1	1	79.541597473	79.687878287	5789.5	6897.6	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	3	a
+10	Spectrogram 1	1	79.795664151	79.911149004	5761.8	7396.2	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	3	b
+11	Spectrogram 1	1	80.065128808	80.196011642	5817.2	7645.5	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	3	b
+12	Spectrogram 1	1	80.334593466	80.442379329	5706.4	7645.5	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	3	b
+13	Spectrogram 1	1	80.588660143	80.704144997	5540.2	7617.8	Polioptila_guianensis-ML221708.wav	D:\Andean\Polioptilidae\Polioptila_guianensis-ML221708.wav	3	b

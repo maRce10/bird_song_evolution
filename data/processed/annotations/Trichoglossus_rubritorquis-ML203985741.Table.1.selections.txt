@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.482247131	0.561520632	1939.1	2410.0	Trichoglossus_rubritorquis-ML203985741.wav	D:\Andean\Psittaculidae\Trichoglossus_rubritorquis-ML203985741.wav	1	a
+2	Spectrogram 1	1	0.587945132	0.766310510	2049.9	2825.5	Trichoglossus_rubritorquis-ML203985741.wav	D:\Andean\Psittaculidae\Trichoglossus_rubritorquis-ML203985741.wav	1	b
+3	Spectrogram 1	1	1.000827950	1.053676951	2160.7	2493.1	Trichoglossus_rubritorquis-ML203985741.wav	D:\Andean\Psittaculidae\Trichoglossus_rubritorquis-ML203985741.wav	2	a
+4	Spectrogram 1	1	1.060283076	1.208920890	2216.1	2853.2	Trichoglossus_rubritorquis-ML203985741.wav	D:\Andean\Psittaculidae\Trichoglossus_rubritorquis-ML203985741.wav	2	b
+5	Spectrogram 1	1	1.410407705	1.608591458	2216.1	3379.5	Trichoglossus_rubritorquis-ML203985741.wav	D:\Andean\Psittaculidae\Trichoglossus_rubritorquis-ML203985741.wav	3	c

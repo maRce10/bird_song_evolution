@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	214.520468884	214.591484728	914.4	2438.5	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	1	a
+2	Spectrogram 1	1	214.987852233	215.052261953	849.8	2383.1	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	1	a
+3	Spectrogram 1	1	215.318158487	215.379265144	942.2	2364.6	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	1	b
+4	Spectrogram 1	1	215.589009616	215.641858616	1126.9	2272.3	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	1	c
+5	Spectrogram 1	1	215.820223994	215.868118400	1219.3	2142.9	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	1	d
+6	Spectrogram 1	1	216.096029716	216.143924123	886.7	2253.8	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	1	e
+7	Spectrogram 1	1	218.122802189	218.183084059	1108.4	2438.5	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	f
+8	Spectrogram 1	1	218.542292111	218.602573002	1053.0	2383.1	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	g
+9	Spectrogram 1	1	218.804884033	218.860211880	942.2	2346.1	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	b
+10	Spectrogram 1	1	219.016279775	219.056744101	1163.8	2069.0	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	d
+11	Spectrogram 1	1	219.165743816	219.210335160	1182.3	1865.8	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	h
+12	Spectrogram 1	1	219.243365786	219.340806131	1182.3	2309.2	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	i
+13	Spectrogram 1	1	219.357321443	219.428337288	1182.3	2309.2	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	j
+14	Spectrogram 1	1	219.454761788	219.481186289	1293.2	1828.9	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	k
+15	Spectrogram 1	1	219.499353133	219.530732227	1311.6	1921.3	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	l
+16	Spectrogram 1	1	219.541467180	219.573672040	1311.6	1921.3	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	l
+17	Spectrogram 1	1	219.595141946	219.624869509	1256.2	1995.1	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	m
+18	Spectrogram 1	1	219.672763916	219.705794541	1219.3	1847.4	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	n
+19	Spectrogram 1	1	219.745431292	219.776810386	1108.4	1884.3	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	o
+20	Spectrogram 1	1	219.826356324	219.851129293	1108.4	1588.7	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	p
+21	Spectrogram 1	1	219.862690012	219.989857920	1126.9	2346.1	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	2	q
+22	Spectrogram 1	1	222.877784217	222.938065109	868.3	2438.5	Piprites_griseiceps-ML165886.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Piprites_griseiceps-ML165886.wav	3	a

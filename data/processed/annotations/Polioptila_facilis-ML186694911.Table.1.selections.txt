@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.263690415	0.327207084	5512.5	7146.9	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	1	a
+2	Spectrogram 1	1	0.381100016	0.456165171	5041.6	6869.8	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	1	a
+3	Spectrogram 1	1	0.511982850	0.602445985	4736.9	6731.3	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	1	a
+4	Spectrogram 1	1	0.656338916	0.744877304	4681.5	6786.7	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	1	a
+5	Spectrogram 1	1	0.802619730	0.898857108	4376.8	6648.2	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	1	a
+6	Spectrogram 1	1	0.946975797	1.048987418	4266.0	6648.2	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	1	a
+7	Spectrogram 1	1	1.110579339	1.202967222	4321.4	6620.5	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	1	a
+8	Spectrogram 1	1	1.262634396	1.360796521	4321.4	6592.8	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	1	a
+9	Spectrogram 1	1	1.414689453	1.514776326	4238.3	6565.1	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	1	a
+10	Spectrogram 1	1	5.673123738	5.732790912	5567.9	7174.6	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	2	a
+11	Spectrogram 1	1	5.786683844	5.869447989	5013.9	6786.7	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	2	a
+12	Spectrogram 1	1	5.929115163	6.017653551	4653.8	6759.0	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	2	a
+13	Spectrogram 1	1	6.065772239	6.156235375	4709.2	6759.0	Polioptila_facilis-ML186694911.wav	D:\Andean\Polioptilidae\Polioptila_facilis-ML186694911.wav	2	a

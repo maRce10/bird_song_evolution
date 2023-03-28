@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.119302127	13.519077784	747.5	5979.7	Sterna_forsteri-ML129069.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_forsteri-ML129069.wav	1	a
+2	Spectrogram 1	1	13.913661549	14.292669639	887.6	5979.7	Sterna_forsteri-ML129069.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_forsteri-ML129069.wav	2	a
+3	Spectrogram 1	1	14.874161503	15.279129051	840.9	6213.2	Sterna_forsteri-ML129069.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_forsteri-ML129069.wav	3	a

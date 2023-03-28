@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.640465213	3.772629197	1239.700	2242.373	Snowornis_cryptolophus-ML25510711.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Snowornis_cryptolophus-ML25510711.wav	1	a
+2	Spectrogram 1	1	4.057148886	4.154436263	1705.138	2172.299	Snowornis_cryptolophus-ML25510711.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Snowornis_cryptolophus-ML25510711.wav	1	b
+3	Spectrogram 1	1	4.334326131	4.444462785	1541.631	2055.508	Snowornis_cryptolophus-ML25510711.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Snowornis_cryptolophus-ML25510711.wav	1	c
+4	Spectrogram 1	1	4.486681835	4.549092606	1564.989	2102.225	Snowornis_cryptolophus-ML25510711.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Snowornis_cryptolophus-ML25510711.wav	1	d
+5	Spectrogram 1	1	4.913264377	5.034414696	1074.470	2265.731	Snowornis_cryptolophus-ML25510711.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Snowornis_cryptolophus-ML25510711.wav	1	e
+6	Spectrogram 1	1	5.331783661	5.449262758	1291.500	2172.299	Snowornis_cryptolophus-ML25510711.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Snowornis_cryptolophus-ML25510711.wav	1	f

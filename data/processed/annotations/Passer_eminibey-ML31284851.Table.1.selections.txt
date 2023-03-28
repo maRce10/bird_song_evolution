@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.485967733	16.541294030	5124.7	7230.0	Passer_eminibey-ML31284851.wav	D:\Andean\Passeridae\Passer_eminibey-ML31284851.wav	1	a
+2	Spectrogram 1	1	16.563589703	16.618090235	2354.6	6205.0	Passer_eminibey-ML31284851.wav	D:\Andean\Passeridae\Passer_eminibey-ML31284851.wav	1	b
+3	Spectrogram 1	1	16.680022657	16.742780845	2133.0	6426.6	Passer_eminibey-ML31284851.wav	D:\Andean\Passeridae\Passer_eminibey-ML31284851.wav	1	b
+4	Spectrogram 1	1	16.793978315	16.854259206	2326.9	5789.5	Passer_eminibey-ML31284851.wav	D:\Andean\Passeridae\Passer_eminibey-ML31284851.wav	1	b
+5	Spectrogram 1	1	19.278958957	19.328504895	5041.6	6537.4	Passer_eminibey-ML31284851.wav	D:\Andean\Passeridae\Passer_eminibey-ML31284851.wav	2	a
+6	Spectrogram 1	1	19.381353896	19.440809021	2659.3	5567.9	Passer_eminibey-ML31284851.wav	D:\Andean\Passeridae\Passer_eminibey-ML31284851.wav	2	b
+7	Spectrogram 1	1	19.493658022	19.558893507	2437.7	5983.4	Passer_eminibey-ML31284851.wav	D:\Andean\Passeridae\Passer_eminibey-ML31284851.wav	2	b
+8	Spectrogram 1	1	22.089708111	22.145034408	4875.4	6786.7	Passer_eminibey-ML31284851.wav	D:\Andean\Passeridae\Passer_eminibey-ML31284851.wav	3	a
+9	Spectrogram 1	1	22.191277284	22.258164300	2576.2	6343.5	Passer_eminibey-ML31284851.wav	D:\Andean\Passeridae\Passer_eminibey-ML31284851.wav	3	b

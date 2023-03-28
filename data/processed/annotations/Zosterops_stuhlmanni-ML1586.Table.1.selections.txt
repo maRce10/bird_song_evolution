@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	Peak Freq (Hz)	song	element
+1	Spectrogram 1	1	16.647245037	16.928005353	2512.4	3731.7	Zosterops_stuhlmanni-ML1586.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_stuhlmanni-ML1586.wav	3273.047	1	a
+2	Spectrogram 1	1	17.885893491	18.321897746	2401.6	7722.0	Zosterops_stuhlmanni-ML1586.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_stuhlmanni-ML1586.wav	5512.500	2	b
+3	Spectrogram 1	1	20.335274542	20.563185857	2660.2	3990.3	Zosterops_stuhlmanni-ML1586.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_stuhlmanni-ML1586.wav	3445.312	3	c
+4	Spectrogram 1	1	20.625944045	20.774581860	2364.6	4598.1	Zosterops_stuhlmanni-ML1586.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_stuhlmanni-ML1586.wav	2928.516	3	d
+5	Spectrogram 1	1	20.865416080	21.147827927	2660.2	5251.2	Zosterops_stuhlmanni-ML1586.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_stuhlmanni-ML1586.wav	3531.445	3	e
+6	Spectrogram 1	1	21.152782513	21.365830047	2612.6	5408.0	Zosterops_stuhlmanni-ML1586.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_stuhlmanni-ML1586.wav	3531.445	3	f
+7	Spectrogram 1	1	21.392774560	21.569488406	2455.8	5329.6	Zosterops_stuhlmanni-ML1586.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_stuhlmanni-ML1586.wav	3531.445	3	g

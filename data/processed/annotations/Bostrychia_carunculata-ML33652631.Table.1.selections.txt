@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.511260161	11.788567462	277.0	1772.9	Bostrychia_carunculata-ML33652631.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_carunculata-ML33652631.wav	1	a
+2	Spectrogram 1	1	11.933620512	12.441306187	277.0	2216.1	Bostrychia_carunculata-ML33652631.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_carunculata-ML33652631.wav	1	b
+3	Spectrogram 1	1	12.616223100	13.136707573	387.8	2105.3	Bostrychia_carunculata-ML33652631.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_carunculata-ML33652631.wav	1	c
+4	Spectrogram 1	1	13.279627490	13.524937794	470.9	2133.0	Bostrychia_carunculata-ML33652631.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_carunculata-ML33652631.wav	1	d
+5	Spectrogram 1	1	13.687055909	14.207540382	332.4	2105.3	Bostrychia_carunculata-ML33652631.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_carunculata-ML33652631.wav	1	c
+6	Spectrogram 1	1	14.412321158	14.753622452	277.0	1883.7	Bostrychia_carunculata-ML33652631.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_carunculata-ML33652631.wav	1	e
+7	Spectrogram 1	1	14.898675502	15.419159975	360.1	1939.1	Bostrychia_carunculata-ML33652631.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Bostrychia_carunculata-ML33652631.wav	1	f

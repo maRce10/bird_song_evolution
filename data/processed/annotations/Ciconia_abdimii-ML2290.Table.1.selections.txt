@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.769320721	4.857902853	1933.8	3223.0	Ciconia_abdimii-ML2290.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Ciconia_abdimii-ML2290.wav	1	a
+2	Spectrogram 1	1	6.211732464	6.305629524	1733.8	3178.6	Ciconia_abdimii-ML2290.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Ciconia_abdimii-ML2290.wav	2	a
+3	Spectrogram 1	1	7.581909463	7.666948309	1778.2	3178.6	Ciconia_abdimii-ML2290.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Ciconia_abdimii-ML2290.wav	3	a

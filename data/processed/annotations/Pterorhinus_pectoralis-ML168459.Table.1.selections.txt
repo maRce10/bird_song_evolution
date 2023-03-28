@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	130.378299116	130.735375181	571.0	2942.9	Pterorhinus_pectoralis-ML168459.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_pectoralis-ML168459.wav	1	a
+2	Spectrogram 1	1	134.568389049	134.921929707	571.0	2986.9	Pterorhinus_pectoralis-ML168459.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_pectoralis-ML168459.wav	2	a
+3	Spectrogram 1	1	138.387590846	138.726989878	571.0	2964.9	Pterorhinus_pectoralis-ML168459.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_pectoralis-ML168459.wav	3	a

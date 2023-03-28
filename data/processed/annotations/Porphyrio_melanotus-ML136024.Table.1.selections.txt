@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.467944116	5.619884993	1246.5	2797.8	Porphyrio_melanotus-ML136024.wav	D:\Andean\Rallidae\Porphyrio_melanotus-ML136024.wav	1	a
+2	Spectrogram 1	1	7.727238894	7.813118520	1246.5	2880.9	Porphyrio_melanotus-ML136024.wav	D:\Andean\Rallidae\Porphyrio_melanotus-ML136024.wav	2	b
+3	Spectrogram 1	1	9.289587476	9.434922228	1274.2	2714.7	Porphyrio_melanotus-ML136024.wav	D:\Andean\Rallidae\Porphyrio_melanotus-ML136024.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	300.146393700	300.275275342	831.0	1218.8	Glaucidium_costaricanum-ML205706.wav	D:\Andean\Strigidae\Glaucidium_costaricanum-ML205706.wav	1	a
+2	Spectrogram 1	1	300.416431427	300.551450290	858.7	1191.1	Glaucidium_costaricanum-ML205706.wav	D:\Andean\Strigidae\Glaucidium_costaricanum-ML205706.wav	2	a
+3	Spectrogram 1	1	300.809213574	300.938095216	803.3	1274.2	Glaucidium_costaricanum-ML205706.wav	D:\Andean\Strigidae\Glaucidium_costaricanum-ML205706.wav	3	a

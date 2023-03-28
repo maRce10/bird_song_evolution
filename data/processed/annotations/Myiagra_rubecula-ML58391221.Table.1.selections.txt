@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	51.495320926	51.792596555	1579.0	4266.0	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	1	a
+2	Spectrogram 1	1	51.898294556	52.195570185	1551.3	4321.4	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	1	a
+3	Spectrogram 1	1	52.525876439	52.836364318	1495.9	4321.4	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	1	a
+4	Spectrogram 1	1	52.928850069	53.229428760	1579.0	4321.4	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	1	a
+5	Spectrogram 1	1	53.586159515	53.886738206	1634.4	4321.4	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	1	a
+6	Spectrogram 1	1	53.992436207	54.299621024	1523.6	4293.7	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	1	a
+7	Spectrogram 1	1	58.399902944	58.716996947	1495.9	4210.6	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	2	a
+8	Spectrogram 1	1	58.796270448	59.100152202	1551.3	4404.5	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	2	a
+9	Spectrogram 1	1	59.460186019	59.773976961	1551.3	4321.4	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	2	a
+10	Spectrogram 1	1	59.869765775	60.170344466	1606.7	4404.5	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	2	a
+11	Spectrogram 1	1	63.447719084	63.751600838	1662.1	4321.4	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	3	a
+12	Spectrogram 1	1	63.860601902	64.171089781	1662.1	4182.9	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	3	a
+13	Spectrogram 1	1	64.451850097	64.768944101	1551.3	4321.4	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	3	a
+14	Spectrogram 1	1	64.851520664	65.165311606	1523.6	4321.4	Myiagra_rubecula-ML58391221.wav	E:\Andean\Monarchidae\Myiagra_rubecula-ML58391221.wav	3	a

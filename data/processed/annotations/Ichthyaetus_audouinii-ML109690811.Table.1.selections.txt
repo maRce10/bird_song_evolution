@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	20.027352233	20.379789525	584.0	4064.3	Ichthyaetus_audouinii-ML109690811.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Ichthyaetus_audouinii-ML109690811.wav	1	a
+2	Spectrogram 1	1	21.350396055	21.726696289	630.7	4204.4	Ichthyaetus_audouinii-ML109690811.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Ichthyaetus_audouinii-ML109690811.wav	2	a
+3	Spectrogram 1	1	22.158949087	23.005165709	645.7	4233.0	Ichthyaetus_audouinii-ML109690811.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Ichthyaetus_audouinii-ML109690811.wav	3	b

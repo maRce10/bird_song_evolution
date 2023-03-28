@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.159291196	5.232715631	2008.8	5535.9	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	a
+2	Spectrogram 1	1	5.254742962	5.318989343	1635.1	4928.5	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	b
+3	Spectrogram 1	1	5.462166993	5.605344643	1004.4	7381.1	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	c
+4	Spectrogram 1	1	5.614522697	5.965124378	1121.2	5535.9	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	d
+5	Spectrogram 1	1	6.240466012	6.357945110	1004.4	5185.5	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	e
+6	Spectrogram 1	1	6.403835382	6.471752985	1354.8	4484.7	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	f
+7	Spectrogram 1	1	6.526821312	6.578218417	1261.3	4811.8	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	g
+8	Spectrogram 1	1	6.648103469	6.716021072	1354.8	4134.4	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	h
+9	Spectrogram 1	1	6.780267454	6.840842613	1284.7	4087.7	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	h
+10	Spectrogram 1	1	6.961992932	7.057444699	1378.1	5489.1	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	e
+11	Spectrogram 1	1	7.112077295	7.187337342	1027.8	5395.7	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	i
+12	Spectrogram 1	1	7.238734447	7.284624719	1331.4	5489.1	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	g
+13	Spectrogram 1	1	7.332350602	7.389254540	1354.8	5395.7	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	g
+14	Spectrogram 1	1	7.459007754	7.519582914	1261.3	4484.7	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	f
+15	Spectrogram 1	1	7.850824653	7.940769587	1121.2	5419.1	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	e
+16	Spectrogram 1	1	7.994002303	8.054577462	1167.9	4087.7	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	f
+19	Spectrogram 1	1	8.109645789	8.173892170	1121.2	4040.9	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	f
+20	Spectrogram 1	1	8.234467330	8.289535657	1214.6	4881.8	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	g
+21	Spectrogram 1	1	8.403967908	8.457200624	1097.8	4064.3	Lanius_tephronotus-ML123740141.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_tephronotus-ML123740141.wav	1	f

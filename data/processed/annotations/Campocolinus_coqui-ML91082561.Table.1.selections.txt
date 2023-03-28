@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.063586138	1.162678015	803.3	3324.1	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	1	a
+2	Spectrogram 1	1	1.393892393	1.532621019	415.5	3434.9	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	1	a
+3	Spectrogram 1	1	1.565651645	1.651531271	858.7	3351.8	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	1	a
+4	Spectrogram 1	1	1.816684398	2.087535526	637.1	3601.1	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	1	b
+5	Spectrogram 1	1	2.213051903	2.431054031	581.7	3324.1	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	1	b
+6	Spectrogram 1	1	5.099928564	5.232051066	914.1	3379.5	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	2	a
+7	Spectrogram 1	1	5.436840943	5.568963445	415.5	3407.2	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	2	a
+8	Spectrogram 1	1	5.608600196	5.701085947	914.1	3407.2	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	2	a
+9	Spectrogram 1	1	5.853026824	6.110665702	803.3	3407.2	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	2	b
+10	Spectrogram 1	1	6.236182079	6.467396456	720.2	3434.9	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	2	b
+12	Spectrogram 1	1	10.560063682	10.678973934	886.4	3324.1	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	3	a
+13	Spectrogram 1	1	10.896976062	11.055523064	415.5	3324.1	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	3	a
+14	Spectrogram 1	1	11.095159814	11.181039440	914.1	3379.5	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	3	a
+15	Spectrogram 1	1	11.326374192	11.603831446	747.9	3379.5	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	3	b
+16	Spectrogram 1	1	11.729347822	11.960562200	747.9	3268.7	Campocolinus_coqui-ML91082561.wav	D:\Andean\Phasianidae\Campocolinus_coqui-ML91082561.wav	3	b

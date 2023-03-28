@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	220.192797220	220.217338381	6281.0	7389.4	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	1	a
+2	Spectrogram 1	1	220.262089912	220.279413085	4359.8	6281.0	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	1	b
+3	Spectrogram 1	1	220.314059431	220.332826202	2918.8	6428.8	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	1	c
+4	Spectrogram 1	1	220.355923766	220.380464928	3473.0	6650.5	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	1	d
+5	Spectrogram 1	1	220.405006090	220.680733262	4175.0	8460.9	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	1	e
+6	Spectrogram 1	1	220.683620457	220.722597597	1440.9	2918.8	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	1	f
+8	Spectrogram 1	1	220.875618959	220.900160121	5800.7	7167.8	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	2	a
+9	Spectrogram 1	1	220.923257434	220.947798596	1145.4	6946.1	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	2 	h
+10	Spectrogram 1	1	220.965121769	221.213420583	5431.2	7389.4	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	2	g
+11	Spectrogram 1	1	221.242292538	221.279826080	1108.4	2734.1	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	2	f
+12	Spectrogram 1	1	222.654028350	222.678569512	997.6	7130.8	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	3	h
+13	Spectrogram 1	1	222.700223479	222.718990249	3916.4	5172.6	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	3	i
+14	Spectrogram 1	1	222.723321043	222.737757020	923.7	4138.1	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	3	j
+15	Spectrogram 1	1	222.768072573	223.110205242	1108.4	4692.3	Corapipo_altera-ML74200.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_altera-ML74200.wav	3	k

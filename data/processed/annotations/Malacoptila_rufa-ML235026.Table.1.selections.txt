@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	262.435044961	267.160382209	3150.9	4572.3	Malacoptila_rufa-ML235026.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_rufa-ML235026.wav	1	a
+2	Spectrogram 1	1	328.385015939	331.521878206	3459.9	4621.7	Malacoptila_rufa-ML235026.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_rufa-ML235026.wav	2	a
+3	Spectrogram 1	1	407.965236844	412.309740973	3274.5	4621.7	Malacoptila_rufa-ML235026.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_rufa-ML235026.wav	3	a

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	140.073385518	140.239214390	1773.5	2438.5	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	1	a
+2	Spectrogram 1	1	140.344317197	140.598899550	2069.0	3399.1	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	1	b
+3	Spectrogram 1	1	140.718016064	140.879173701	1810.4	2512.4	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	1	c
+4	Spectrogram 1	1	140.972598417	141.224845153	1958.2	3325.2	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	1	b
+5	Spectrogram 1	1	141.428043912	141.598544021	1773.5	2401.6	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	1	c
+6	Spectrogram 1	1	141.696639973	141.955893563	1958.2	3362.2	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	1	b
+7	Spectrogram 1	1	142.253776593	142.536386361	3362.2	8793.4	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	1	d
+8	Spectrogram 1	1	142.571420630	142.704550851	1995.1	5431.2	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	1	e
+9	Spectrogram 1	1	144.432183609	144.583998774	1847.4	2438.5	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	2	a
+10	Spectrogram 1	1	144.672752255	144.922663373	1958.2	3325.2	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	2	b
+11	Spectrogram 1	1	145.030101797	145.186588198	1773.5	2364.6	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	2	c
+12	Spectrogram 1	1	145.294026622	145.539266504	1884.3	3325.2	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	2	b
+13	Spectrogram 1	1	145.704549637	145.859246159	1699.6	2364.6	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	2	c
+14	Spectrogram 1	1	146.013396942	146.263308060	1995.1	3325.2	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	2	b
+15	Spectrogram 1	1	146.461835583	146.749116588	3362.2	8904.3	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	2	d
+16	Spectrogram 1	1	146.774808385	146.926623550	1995.1	5468.2	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	2	e
+17	Spectrogram 1	1	147.015377031	147.202226465	2032.1	3288.3	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	2	f
+22	Spectrogram 1	1	148.928295566	149.159509944	1884.3	2918.8	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	3	g
+23	Spectrogram 1	1	149.251995695	149.486513136	1958.2	2955.8	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	3	g
+24	Spectrogram 1	1	149.588908074	149.783788764	2771.0	3879.5	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	3	h
+25	Spectrogram 1	1	149.906002078	150.104185831	1736.5	3066.6	Turdus_fuscater-ML69629.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_fuscater-ML69629.wav	3	i

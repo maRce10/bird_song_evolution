@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.049714851	3.294391965	2565.3	3264.9	Falco_longipennis-ML114168221.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_longipennis-ML114168221.wav	1	a
+2	Spectrogram 1	1	3.444460595	3.617365756	2631.9	3431.5	Falco_longipennis-ML114168221.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_longipennis-ML114168221.wav	1	b
+3	Spectrogram 1	1	3.754384940	3.907715932	2498.7	3464.8	Falco_longipennis-ML114168221.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_longipennis-ML114168221.wav	1	b
+4	Spectrogram 1	1	4.031685670	4.194803746	2498.7	3431.5	Falco_longipennis-ML114168221.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_longipennis-ML114168221.wav	1	b
+5	Spectrogram 1	1	4.348134738	4.530826983	2532.0	3398.2	Falco_longipennis-ML114168221.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_longipennis-ML114168221.wav	1	b
+6	Spectrogram 1	1	4.667846167	4.821177159	2465.4	3431.5	Falco_longipennis-ML114168221.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_longipennis-ML114168221.wav	1	b
+7	Spectrogram 1	1	4.964721066	5.111527334	2432.0	3398.2	Falco_longipennis-ML114168221.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_longipennis-ML114168221.wav	1	b
+8	Spectrogram 1	1	5.261595965	5.408402233	2565.3	3364.9	Falco_longipennis-ML114168221.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_longipennis-ML114168221.wav	1	b

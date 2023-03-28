@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	139.753377268	139.907568583	770.8	4017.6	Xema_sabini-ML132152.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Xema_sabini-ML132152.wav	1	a
+2	Spectrogram 1	1	139.953458856	140.109485782	700.7	3924.2	Xema_sabini-ML132152.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Xema_sabini-ML132152.wav	2	a
+3	Spectrogram 1	1	140.160882887	140.315074202	794.2	3994.2	Xema_sabini-ML132152.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Xema_sabini-ML132152.wav	3	a

@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	75.103818060	75.850310195	193.9	1440.5	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	1	a
+2	Spectrogram 1	1	75.989038822	76.081524573	166.2	1329.6	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	1	b
+3	Spectrogram 1	1	76.160798074	76.279708325	138.5	1301.9	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	1	b
+4	Spectrogram 1	1	76.345769576	76.418436952	110.8	1440.5	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	1	b
+5	Spectrogram 1	1	76.477892078	76.735530956	110.8	1301.9	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	1	c
+6	Spectrogram 1	1	77.032806585	77.772692594	193.9	1440.5	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	2	a
+7	Spectrogram 1	1	77.891602846	77.990694722	83.1	1329.6	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	2	b
+8	Spectrogram 1	1	78.069968223	78.175666224	55.4	1357.3	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	2	b
+9	Spectrogram 1	1	78.228515225	78.327607101	166.2	1385.1	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	2	b
+10	Spectrogram 1	1	78.347425476	78.578639854	110.8	1329.6	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	2	c
+11	Spectrogram 1	1	78.849490983	79.556346367	277.0	1523.6	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	3	a
+12	Spectrogram 1	1	79.701681118	79.800772995	138.5	1412.8	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	3	b
+13	Spectrogram 1	1	79.886652621	79.979138372	221.6	1412.8	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	3	b
+14	Spectrogram 1	1	80.045199623	80.382112002	138.5	1523.6	Pachyptila_belcheri-ML127176731.wav	D:\Andean\Procellariidae\Pachyptila_belcheri-ML127176731.wav	3	c

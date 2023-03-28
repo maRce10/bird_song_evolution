@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.575157885	18.618097698	6581.4	9950.5	Sylviparus_modestus-ML170914741.wav	D:\Andean\Paridae\Sylviparus_modestus-ML170914741.wav	1	a
+2	Spectrogram 1	1	18.661037511	18.700674262	6503.1	9676.3	Sylviparus_modestus-ML170914741.wav	D:\Andean\Paridae\Sylviparus_modestus-ML170914741.wav	1	a
+3	Spectrogram 1	1	20.167234030	20.210173843	6503.1	9911.3	Sylviparus_modestus-ML170914741.wav	D:\Andean\Paridae\Sylviparus_modestus-ML170914741.wav	2	a
+4	Spectrogram 1	1	20.289447344	20.338993283	6111.3	9597.9	Sylviparus_modestus-ML170914741.wav	D:\Andean\Paridae\Sylviparus_modestus-ML170914741.wav	2	a
+5	Spectrogram 1	1	21.471943734	21.521489672	6228.8	9480.4	Sylviparus_modestus-ML170914741.wav	D:\Andean\Paridae\Sylviparus_modestus-ML170914741.wav	3	a
+6	Spectrogram 1	1	21.544611110	21.590853986	6346.4	9715.4	Sylviparus_modestus-ML170914741.wav	D:\Andean\Paridae\Sylviparus_modestus-ML170914741.wav	3	a

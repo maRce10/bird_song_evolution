@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.127996646	6.343171058	957.7	2078.9	Laniarius_turatii-ML140947.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_turatii-ML140947.wav	1	a
+2	Spectrogram 1	1	7.635160977	8.771404121	981.0	1915.4	Laniarius_turatii-ML140947.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_turatii-ML140947.wav	2	a
+3	Spectrogram 1	1	12.660616161	13.954721842	981.0	1985.4	Laniarius_turatii-ML140947.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_turatii-ML140947.wav	3	a

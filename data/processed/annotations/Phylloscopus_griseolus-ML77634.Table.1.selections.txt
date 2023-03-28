@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.760339126	13.780157501	3142.5	4268.6	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	1	a
+2	Spectrogram 1	1	13.874294784	13.963477472	3194.9	3823.4	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	1	b
+3	Spectrogram 1	1	13.966780535	14.032841786	3142.5	5316.1	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	1	c
+4	Spectrogram 1	1	14.095599974	14.191388788	3116.3	3771.0	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	1	b
+5	Spectrogram 1	1	14.197994913	14.259101570	2933.0	5289.9	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	1	c
+6	Spectrogram 1	1	14.310299039	14.409390915	3142.5	3718.6	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	1	b
+7	Spectrogram 1	1	14.409390915	14.468846041	3142.5	5394.7	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	1	c
+8	Spectrogram 1	1	14.534907292	14.622438449	3116.3	3666.3	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	1	b
+9	Spectrogram 1	1	14.629044574	14.703363482	2645.0	5211.3	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	1	c
+10	Spectrogram 1	1	25.478947131	25.516932350	3168.7	4137.6	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	a
+11	Spectrogram 1	1	25.617675757	25.673827820	4085.3	6154.1	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	d
+12	Spectrogram 1	1	25.673827820	25.718419165	3090.1	4425.7	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	e
+13	Spectrogram 1	1	25.767965103	25.829071760	4006.7	6520.7	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	d
+14	Spectrogram 1	1	25.834026354	25.873663104	3613.9	4556.7	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	e
+15	Spectrogram 1	1	25.913299855	25.977709574	4190.0	6389.8	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	d
+16	Spectrogram 1	1	25.984315699	26.022300919	3221.1	4582.8	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	e
+17	Spectrogram 1	1	26.063589200	26.129650451	4006.7	6311.2	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	d
+18	Spectrogram 1	1	26.132953514	26.169287202	3430.6	4451.9	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	e
+19	Spectrogram 1	1	26.203969358	26.268379078	4137.6	6180.3	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	d
+20	Spectrogram 1	1	26.273333672	26.314621954	3378.2	4321.0	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	e
+21	Spectrogram 1	1	26.350955642	26.428577611	4111.5	6180.3	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	d
+22	Spectrogram 1	1	26.430229143	26.466562830	3404.4	4294.8	Phylloscopus_griseolus-ML77634.wav	D:\Andean\Phylloscopidae\Phylloscopus_griseolus-ML77634.wav	2	e

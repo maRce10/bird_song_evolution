@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.889824143	3.969235152	2344.6	7452.3	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	1	a
+2	Spectrogram 1	1	4.249509303	4.285131155	3544.7	7731.5	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	1	b
+3	Spectrogram 1	1	4.289802391	4.418261377	2791.1	7173.2	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	1	c
+4	Spectrogram 1	1	5.046542598	5.196022145	1814.2	7508.2	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	2	a
+5	Spectrogram 1	1	5.913056847	6.011152799	1953.8	7424.4	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	2	a
+6	Spectrogram 1	1	6.641769849	6.674468500	3433.1	8038.5	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	2	b
+7	Spectrogram 1	1	6.681475354	6.812269958	2595.8	7145.3	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	2	c
+8	Spectrogram 1	1	7.023804307	7.132805371	2567.8	7954.7	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	3	a
+9	Spectrogram 1	1	7.512657563	7.651386190	2093.4	6838.3	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	3	a
+10	Spectrogram 1	1	8.060966256	8.156755070	2121.3	7201.1	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	3	a
+11	Spectrogram 1	1	8.601199087	8.639152879	3237.7	7954.7	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	3	b
+12	Spectrogram 1	1	8.643824114	8.781625572	2456.2	7061.6	Passer_iagoensis-ML145246761.wav	D:\Andean\Passeridae\Passer_iagoensis-ML145246761.wav	3	c

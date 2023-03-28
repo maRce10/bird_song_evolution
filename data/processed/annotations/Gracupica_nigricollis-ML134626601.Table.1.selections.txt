@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.067160868	9.224118582	1966.8	7340.8	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	1	a
+2	Spectrogram 1	1	9.229680075	9.445960390	1689.8	4543.0	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	1	b
+3	Spectrogram 1	1	9.659768929	9.800660105	1717.5	3407.2	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	1	c
+4	Spectrogram 1	1	9.885936343	10.245579609	1551.3	4459.9	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	1	d
+5	Spectrogram 1	1	13.930756489	14.048783747	1800.6	7146.9	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	2	a
+6	Spectrogram 1	1	14.084624484	14.331801986	1634.4	4598.4	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	2	b
+7	Spectrogram 1	1	14.523364550	14.665491614	1745.2	3656.5	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	2	c
+8	Spectrogram 1	1	14.765377405	15.085472270	1551.3	4764.6	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	2	d
+9	Spectrogram 1	1	15.754884217	15.914313706	1689.8	7285.4	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	3	a
+10	Spectrogram 1	1	15.922964919	16.163962983	1662.1	4487.6	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	3	b
+11	Spectrogram 1	1	16.381479185	16.527313911	1689.8	3656.5	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	3	c
+12	Spectrogram 1	1	16.617533700	16.916618477	1551.3	4487.6	Gracupica_nigricollis-ML134626601.wav	D:\Andean\Sturnidae\Gracupica_nigricollis-ML134626601.wav	3	d

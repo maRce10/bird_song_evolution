@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	43.013115587	43.225948701	498.6	2797.8	Scolopax_rusticola-ML41596.wav	D:\Andean\Scolopacidae\Scolopax_rusticola-ML41596.wav	1	a
+2	Spectrogram 1	1	43.260830179	43.493373363	443.2	2659.3	Scolopax_rusticola-ML41596.wav	D:\Andean\Scolopacidae\Scolopax_rusticola-ML41596.wav	1	b
+3	Spectrogram 1	1	43.495622453	43.581949706	1772.9	12520.9	Scolopax_rusticola-ML41596.wav	D:\Andean\Scolopacidae\Scolopax_rusticola-ML41596.wav	1	c
+5	Spectrogram 1	1	44.703767795	44.923696749	277.0	3379.5	Scolopax_rusticola-ML41596.wav	D:\Andean\Scolopacidae\Scolopax_rusticola-ML41596.wav	2	a
+6	Spectrogram 1	1	44.950417089	45.162124399	387.8	3434.9	Scolopax_rusticola-ML41596.wav	D:\Andean\Scolopacidae\Scolopax_rusticola-ML41596.wav	2	b
+7	Spectrogram 1	1	45.159501867	45.247884531	1994.5	12742.5	Scolopax_rusticola-ML41596.wav	D:\Andean\Scolopacidae\Scolopax_rusticola-ML41596.wav	2	c
+8	Spectrogram 1	1	46.641061261	46.873322679	332.4	3601.1	Scolopax_rusticola-ML41596.wav	D:\Andean\Scolopacidae\Scolopax_rusticola-ML41596.wav	3	a
+9	Spectrogram 1	1	46.895932198	47.109694919	387.8	3878.1	Scolopax_rusticola-ML41596.wav	D:\Andean\Scolopacidae\Scolopax_rusticola-ML41596.wav	3	b
+10	Spectrogram 1	1	47.111750330	47.198077582	1994.5	12188.4	Scolopax_rusticola-ML41596.wav	D:\Andean\Scolopacidae\Scolopax_rusticola-ML41596.wav	3	c

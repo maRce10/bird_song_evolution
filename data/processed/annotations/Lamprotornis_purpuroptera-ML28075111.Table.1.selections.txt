@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	33.641531432	33.783563121	775.6	2160.7	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	a
+2	Spectrogram 1	1	33.806684559	33.978443811	997.2	2077.6	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	b
+3	Spectrogram 1	1	34.212961251	34.259204127	1717.5	2770.1	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	c
+4	Spectrogram 1	1	34.321962315	34.394629691	1745.2	2908.6	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	d
+5	Spectrogram 1	1	34.421054192	34.596116506	1634.4	2964.0	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	e
+6	Spectrogram 1	1	34.615934881	34.833937009	1218.8	3434.9	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	f
+7	Spectrogram 1	1	34.850452322	34.916513573	1523.6	2936.3	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	g
+8	Spectrogram 1	1	35.008999324	35.058545262	1689.8	3185.6	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	h
+9	Spectrogram 1	1	35.114697325	35.451609705	720.2	3545.7	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	i
+10	Spectrogram 1	1	35.682824082	35.765400646	997.2	2437.7	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	j
+11	Spectrogram 1	1	35.785219021	35.867795585	803.3	2216.1	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	k
+12	Spectrogram 1	1	35.894220085	36.224526339	775.6	2825.5	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	1	l
+13	Spectrogram 1	1	37.063504225	37.459871730	1856.0	4958.5	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	2	m
+14	Spectrogram 1	1	38.435360646	38.613726023	720.2	3102.5	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	3	n
+15	Spectrogram 1	1	38.643453586	39.013396590	664.8	4626.1	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	3	o
+16	Spectrogram 1	1	39.023305778	39.208277280	1246.5	2410.0	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	3	e
+17	Spectrogram 1	1	39.244610968	39.492340659	1274.2	3434.9	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	3	f
+18	Spectrogram 1	1	39.505552909	39.565008035	1246.5	2964.0	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	3	g
+19	Spectrogram 1	1	39.594735598	39.849071413	1412.8	3628.8	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	3	f
+20	Spectrogram 1	1	39.868889789	39.938254102	1495.9	3213.3	Lamprotornis_purpuroptera-ML28075111.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Lamprotornis_purpuroptera-ML28075111.wav	3	g

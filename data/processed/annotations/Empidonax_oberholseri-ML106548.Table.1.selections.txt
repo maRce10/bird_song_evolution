@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.500138474	19.561245131	3850.4	6454.3	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	1	a
+2	Spectrogram 1	1	19.574457381	19.627306382	2687.0	5374.0	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	1	b
+3	Spectrogram 1	1	20.172311701	20.259842859	2964.0	7063.8	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	1	c
+4	Spectrogram 1	1	20.266448984	20.380404641	3351.8	6011.1	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	1	d
+5	Spectrogram 1	1	21.163230011	21.225988200	3795.0	6565.1	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	1	a
+6	Spectrogram 1	1	21.242503512	21.297004044	2770.1	5457.1	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	1	b
+7	Spectrogram 1	1	22.010086480	22.247383484	1246.5	6592.8	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	1	e
+8	Spectrogram 1	1	23.710465761	23.778178543	4016.6	6371.2	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	2	a
+9	Spectrogram 1	1	23.789738968	23.845891031	2354.6	5207.8	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	2	b
+10	Spectrogram 1	1	24.310542222	24.400805538	2936.3	6953.0	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	2	c
+11	Spectrogram 1	1	24.404934558	24.519715790	3130.2	5734.1	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	2	f
+12	Spectrogram 1	1	25.269511370	25.330617643	3933.5	6454.3	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	2	a
+13	Spectrogram 1	1	25.343829894	25.401633488	2742.4	5651.0	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	2	g
+14	Spectrogram 1	1	27.905276078	27.974640137	3656.5	6454.3	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	3	h
+15	Spectrogram 1	1	27.981246516	28.039049856	2687.0	5401.7	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	3	i
+16	Spectrogram 1	1	28.598308575	28.688101646	2770.1	6869.8	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	3	j
+17	Spectrogram 1	1	28.695775303	28.810314960	2908.6	6094.2	Empidonax_oberholseri-ML106548.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_oberholseri-ML106548.wav	3	k

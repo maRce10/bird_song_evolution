@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.756962460	11.344344069	214.7	664.8	Turnix_suscitator-ML107151831.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_suscitator-ML107151831.wav	1	a

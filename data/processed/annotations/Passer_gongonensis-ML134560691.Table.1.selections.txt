@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.410989536	3.516687538	1606.7	3545.7	Passer_gongonensis-ML134560691.wav	D:\Andean\Passeridae\Passer_gongonensis-ML134560691.wav	1	a
+2	Spectrogram 1	1	4.064995920	4.190512296	1301.9	3462.6	Passer_gongonensis-ML134560691.wav	D:\Andean\Passeridae\Passer_gongonensis-ML134560691.wav	2	a
+3	Spectrogram 1	1	4.996459556	5.088945308	1662.1	3988.9	Passer_gongonensis-ML134560691.wav	D:\Andean\Passeridae\Passer_gongonensis-ML134560691.wav	3	a

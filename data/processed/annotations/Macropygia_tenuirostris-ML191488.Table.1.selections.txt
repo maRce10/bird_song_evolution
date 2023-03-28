@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.413574150	7.758668998	327.0	840.9	Macropygia_tenuirostris-ML191488.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_tenuirostris-ML191488.wav	1	a
+2	Spectrogram 1	1	11.291945018	11.646217920	373.7	840.9	Macropygia_tenuirostris-ML191488.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_tenuirostris-ML191488.wav	2	a
+3	Spectrogram 1	1	14.072687064	14.423288744	327.0	817.5	Macropygia_tenuirostris-ML191488.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_tenuirostris-ML191488.wav		a

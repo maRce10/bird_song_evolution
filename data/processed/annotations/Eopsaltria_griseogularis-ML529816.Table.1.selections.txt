@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.368979640	2.560557268	1495.9	3130.2	Eopsaltria_griseogularis-ML529816.wav	D:\Andean\Petroicidae\Eopsaltria_griseogularis-ML529816.wav	1	a
+2	Spectrogram 1	1	2.963530898	3.168320776	1301.9	3324.1	Eopsaltria_griseogularis-ML529816.wav	D:\Andean\Petroicidae\Eopsaltria_griseogularis-ML529816.wav	1	a
+3	Spectrogram 1	1	3.558082155	3.756265908	1329.6	3351.8	Eopsaltria_griseogularis-ML529816.wav	D:\Andean\Petroicidae\Eopsaltria_griseogularis-ML529816.wav	1	
+4	Spectrogram 1	1	6.497807817	6.695991570	1357.3	3157.9	Eopsaltria_griseogularis-ML529816.wav	D:\Andean\Petroicidae\Eopsaltria_griseogularis-ML529816.wav	2	a
+5	Spectrogram 1	1	7.098965200	7.323573453	1301.9	3324.1	Eopsaltria_griseogularis-ML529816.wav	D:\Andean\Petroicidae\Eopsaltria_griseogularis-ML529816.wav	2	a
+6	Spectrogram 1	1	7.680304207	7.885094085	1246.5	3351.8	Eopsaltria_griseogularis-ML529816.wav	D:\Andean\Petroicidae\Eopsaltria_griseogularis-ML529816.wav	2	a
+7	Spectrogram 1	1	9.800869731	9.972628983	1495.9	3102.5	Eopsaltria_griseogularis-ML529816.wav	D:\Andean\Petroicidae\Eopsaltria_griseogularis-ML529816.wav	3	a
+8	Spectrogram 1	1	10.402027114	10.606816991	1357.3	3351.8	Eopsaltria_griseogularis-ML529816.wav	D:\Andean\Petroicidae\Eopsaltria_griseogularis-ML529816.wav	3	a
+9	Spectrogram 1	1	11.023002872	11.221186624	1329.6	3379.5	Eopsaltria_griseogularis-ML529816.wav	D:\Andean\Petroicidae\Eopsaltria_griseogularis-ML529816.wav	3	a

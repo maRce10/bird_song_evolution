@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	289.062600279	289.229596960	2663.9	9597.9	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	1	a
+2	Spectrogram 1	1	289.340538812	289.389586788	1057.7	7325.8	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	1	b
+3	Spectrogram 1	1	289.535562908	289.586946502	1841.2	7247.4	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	1	c
+4	Spectrogram 1	1	289.630155434	289.678035601	1762.9	7404.1	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	1	c
+5	Spectrogram 1	1	289.933785011	290.085600176	901.0	4975.2	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	2	d
+6	Spectrogram 1	1	290.121802254	290.156836522	1762.9	8971.1	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	2	e
+7	Spectrogram 1	1	290.169682421	290.204716690	1880.4	9010.3	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	2	d
+8	Spectrogram 1	1	290.216394779	290.257268093	1997.9	9010.3	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	2	e
+9	Spectrogram 1	1	290.266610565	290.310987305	2076.3	9323.7	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	2	f
+10	Spectrogram 1	1	290.346021574	290.423096966	1567.0	5053.6	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	2	g
+11	Spectrogram 1	1	290.434775055	290.499004548	1332.0	5915.4	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	2	h
+12	Spectrogram 1	1	290.511850447	290.573744321	1410.3	5719.6	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	2	h
+13	Spectrogram 1	1	291.628744656	291.819097517	2076.3	9441.2	Vireo_atricapilla-ML38329.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_atricapilla-ML38329.wav	3	i

@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.436832188	1.654834316	2797.8	4044.3	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	1	a
+2	Spectrogram 1	1	1.744017004	1.965322194	2908.6	3988.9	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	1	a
+3	Spectrogram 1	1	2.051201821	2.275810073	2742.4	3905.8	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	1	a
+4	Spectrogram 1	1	2.384811137	2.606116328	2742.4	3878.1	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	1	a
+5	Spectrogram 1	1	2.701905141	2.926513394	2659.3	3878.1	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	1	a
+6	Spectrogram 1	1	3.085060396	3.309668649	2742.4	3988.9	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	1	a
+7	Spectrogram 1	1	6.980955753	7.208867069	2880.9	4044.3	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	2	a
+8	Spectrogram 1	1	7.294746695	7.519354947	2908.6	4099.7	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	2	a
+9	Spectrogram 1	1	7.598628448	7.839752014	2742.4	3961.2	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	2	a
+10	Spectrogram 1	1	7.945450015	8.163452143	2742.4	3988.9	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	2	a
+11	Spectrogram 1	1	8.298877707	8.540001273	2742.4	3961.2	Poecile_hyrcanus-ML190820631.wav	D:\Andean\Paridae\Poecile_hyrcanus-ML190820631.wav	2	a

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.132840720	18.168462739	3473.0	7093.9	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	1	a
+2	Spectrogram 1	1	18.206061621	18.313161468	3583.9	7278.6	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	1	b
+3	Spectrogram 1	1	18.809585340	18.830532220	3953.3	6022.4	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	2	c
+4	Spectrogram 1	1	18.918347987	18.939294867	3805.6	4544.5	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	2	d
+5	Spectrogram 1	1	18.940906166	18.968298240	4285.9	6133.2	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	2	e
+6	Spectrogram 1	1	19.014220246	19.139901527	3768.6	7167.8	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	2	f
+7	Spectrogram 1	1	19.224494697	19.238996383	5320.4	7241.6	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	2	g
+8	Spectrogram 1	1	19.268805405	19.400931880	3583.9	6798.3	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	2	h
+9	Spectrogram 1	1	19.413016619	19.459744274	4285.9	5985.4	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	2	i
+10	Spectrogram 1	1	19.495998490	19.511305826	6354.9	8497.8	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	2	j
+11	Spectrogram 1	1	23.728159750	23.746689683	3916.4	6096.3	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	3	c
+12	Spectrogram 1	1	23.849812785	23.955352835	3546.9	7204.7	Tyrannus_tyrannus-ML257713741.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tyrannus_tyrannus-ML257713741.wav	3	k

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.058616507	0.103601268	5983.4	8310.3	Myzornis_pyrrhoura-ML44574571.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Myzornis_pyrrhoura-ML44574571.wav	1	a
+2	Spectrogram 1	1	0.110417141	0.148586029	5983.4	8144.1	Myzornis_pyrrhoura-ML44574571.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Myzornis_pyrrhoura-ML44574571.wav	1	a
+3	Spectrogram 1	1	1.337274260	1.376806323	5928.0	8310.3	Myzornis_pyrrhoura-ML44574571.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Myzornis_pyrrhoura-ML44574571.wav	2	a
+4	Spectrogram 1	1	1.389074894	1.423154258	5706.4	8144.1	Myzornis_pyrrhoura-ML44574571.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Myzornis_pyrrhoura-ML44574571.wav	2	a
+5	Spectrogram 1	1	1.434059655	1.469502194	5540.2	7867.1	Myzornis_pyrrhoura-ML44574571.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Myzornis_pyrrhoura-ML44574571.wav	2	a
+6	Spectrogram 1	1	2.865547592	2.899626956	6149.6	8476.5	Myzornis_pyrrhoura-ML44574571.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Myzornis_pyrrhoura-ML44574571.wav	3	a
+7	Spectrogram 1	1	2.915985051	2.950064415	6094.2	8254.9	Myzornis_pyrrhoura-ML44574571.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Myzornis_pyrrhoura-ML44574571.wav	3	a
+8	Spectrogram 1	1	2.959606637	2.997775526	5761.8	8033.3	Myzornis_pyrrhoura-ML44574571.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Myzornis_pyrrhoura-ML44574571.wav	3	a

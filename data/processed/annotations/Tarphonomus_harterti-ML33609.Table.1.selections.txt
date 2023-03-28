@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	255.621189620	255.660079093	2086.4	5708.9	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	1	a
+2	Spectrogram 1	1	255.889880521	255.946447026	2042.6	5735.1	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	1	a
+3	Spectrogram 1	1	256.140894388	256.197460893	1990.3	5735.1	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	1	a
+4	Spectrogram 1	1	256.388372849	256.437868541	2121.2	5708.9	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	1	a
+5	Spectrogram 1	1	256.618174276	256.681811595	2095.0	5708.9	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	1	a
+6	Spectrogram 1	1	256.865652737	256.915148429	2095.0	5682.7	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	1	a
+7	Spectrogram 1	1	257.113131198	257.169697703	2095.0	5735.1	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	1	a
+8	Spectrogram 1	1	257.378286692	257.438388604	2068.8	5735.1	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	1	a
+9	Spectrogram 1	1	257.696473284	257.745968976	2095.0	5708.9	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	1	a
+10	Spectrogram 1	1	260.120808174	260.173839272	2095.0	5735.1	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	2	a
+11	Spectrogram 1	1	260.400104891	260.453135990	2121.2	5735.1	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	2	a
+12	Spectrogram 1	1	260.644047945	260.707685264	2147.4	5735.1	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	2	a
+13	Spectrogram 1	1	260.884455593	260.944557505	2121.2	5735.1	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	2	a
+14	Spectrogram 1	1	261.124863240	261.181429746	2095.0	5708.9	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	2	a
+15	Spectrogram 1	1	261.368806295	261.425372800	2121.2	5708.9	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	2	a
+16	Spectrogram 1	1	261.619820120	261.679922032	2121.2	5682.7	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	2	a
+17	Spectrogram 1	1	261.962754558	262.022856470	2095.0	5708.9	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	2	a
+18	Spectrogram 1	1	266.421609186	266.471104878	2068.8	5656.5	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	3	a
+19	Spectrogram 1	1	266.683229273	266.736260372	2121.2	5656.5	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	3	a
+20	Spectrogram 1	1	266.937778547	266.987274239	2095.0	5708.9	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	3	a
+21	Spectrogram 1	1	267.178186194	267.238288106	2095.0	5761.3	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	3	a
+22	Spectrogram 1	1	267.422129248	267.485766567	2121.2	5787.5	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	3	a
+23	Spectrogram 1	1	267.683749336	267.740315841	2121.2	5761.3	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	3	a
+24	Spectrogram 1	1	268.037289994	268.093856499	2095.0	5761.3	Tarphonomus_harterti-ML33609.wav	E:\Escritorio\Cantos\Furnariidae\Tarphonomus_harterti-ML33609.wav	3	a

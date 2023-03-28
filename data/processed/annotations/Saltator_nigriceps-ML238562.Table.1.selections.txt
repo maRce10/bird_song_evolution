@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	41.037596530	41.097772643	1382.2	6318.8	Saltator_nigriceps-ML238562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_nigriceps-ML238562.wav	1	a
+2	Spectrogram 1	1	41.245100370	41.554281092	1678.4	8161.8	Saltator_nigriceps-ML238562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_nigriceps-ML238562.wav	1	b
+3	Spectrogram 1	1	41.618607282	41.832336238	1513.9	3488.5	Saltator_nigriceps-ML238562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_nigriceps-ML238562.wav	1	c
+4	Spectrogram 1	1	51.127004858	51.183030895	1941.7	6285.9	Saltator_nigriceps-ML238562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_nigriceps-ML238562.wav	2	a
+5	Spectrogram 1	1	51.359409159	51.670664919	1777.2	8030.1	Saltator_nigriceps-ML238562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_nigriceps-ML238562.wav	2	b
+6	Spectrogram 1	1	51.737066148	51.952870142	1481.0	3554.3	Saltator_nigriceps-ML238562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_nigriceps-ML238562.wav	2	c
+7	Spectrogram 1	1	60.392999621	60.449025658	1875.9	6154.3	Saltator_nigriceps-ML238562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_nigriceps-ML238562.wav	3	a
+8	Spectrogram 1	1	60.606728576	60.922134413	1711.3	7964.3	Saltator_nigriceps-ML238562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_nigriceps-ML238562.wav	3	b
+9	Spectrogram 1	1	60.986460604	61.200189559	1579.7	3488.5	Saltator_nigriceps-ML238562.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_nigriceps-ML238562.wav	3	c

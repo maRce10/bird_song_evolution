@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	37.560681912	37.798502415	2802.1	7830.1	Anthus_novaeseelandiae-ML78598.wav	E:\Andean\Motacillidae\Anthus_novaeseelandiae-ML78598.wav	1	a
+2	Spectrogram 1	1	40.551659084	40.810949493	3011.6	7725.4	Anthus_novaeseelandiae-ML78598.wav	E:\Andean\Motacillidae\Anthus_novaeseelandiae-ML78598.wav	2	a
+3	Spectrogram 1	1	44.283146537	44.529224696	2880.6	7175.4	Anthus_novaeseelandiae-ML78598.wav	E:\Andean\Motacillidae\Anthus_novaeseelandiae-ML78598.wav	3	a

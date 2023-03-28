@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.062044388	13.253622015	1108.0	2105.3	Pitta_angolensis-ML278796.wav	D:\Andean\Pittidae\Pitta_angolensis-ML278796.wav	1	a
+2	Spectrogram 1	1	23.613832020	23.812015773	1135.7	2133.0	Pitta_angolensis-ML278796.wav	D:\Andean\Pittidae\Pitta_angolensis-ML278796.wav	2	a
+3	Spectrogram 1	1	38.406240044	38.584605421	1163.4	2133.0	Pitta_angolensis-ML278796.wav	D:\Andean\Pittidae\Pitta_angolensis-ML278796.wav	3	a

@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.966248588	24.192935513	3101.7	6034.1	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	1	a
+2	Spectrogram 1	1	24.410554962	24.555634594	3101.7	5921.4	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	1	a
+3	Spectrogram 1	1	24.700714226	24.909266197	3158.1	5977.7	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	1	a
+4	Spectrogram 1	1	25.226627892	25.362640047	3214.5	6372.5	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	1	a
+5	Spectrogram 1	1	25.752541559	25.906688668	3045.3	5977.7	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	1	a
+6	Spectrogram 1	1	26.278455225	26.432602334	3101.7	5865.0	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	1	a
+7	Spectrogram 1	1	33.386467489	33.558749552	2819.7	5639.4	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	2	a
+8	Spectrogram 1	1	33.744632830	33.835307600	2086.6	6034.1	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	2	a
+9	Spectrogram 1	1	33.848908816	33.957718540	2706.9	6259.7	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	2	b
+10	Spectrogram 1	1	34.402024913	34.587908192	2819.7	5808.6	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	2	a
+11	Spectrogram 1	1	35.141024290	35.322373830	2988.9	5639.4	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	2	a
+12	Spectrogram 1	1	35.562661970	35.657870479	2819.7	5188.2	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	2	a
+13	Spectrogram 1	1	35.644269264	35.744011511	2650.5	6090.5	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	2	b
+14	Spectrogram 1	1	35.970698436	36.142980499	2988.9	5921.4	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	2	a
+15	Spectrogram 1	1	51.869836270	52.119191888	2706.9	5808.6	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	3	a
+16	Spectrogram 1	1	52.323210121	52.481890968	3101.7	6090.5	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	3	a
+17	Spectrogram 1	1	53.973490936	54.073233183	3270.8	6316.1	Tachycineta_euchrysea-ML195101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_euchrysea-ML195101.wav	3	a

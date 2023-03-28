@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	83.126864883	83.391109886	3456.8	3875.8	Swynnertonia_swynnertoni-ML101162.wav	E:\Andean\Muscicapidae\Swynnertonia_swynnertoni-ML101162.wav	1	a
+2	Spectrogram 1	1	83.510020138	83.794083516	3299.6	3797.2	Swynnertonia_swynnertoni-ML101162.wav	E:\Andean\Muscicapidae\Swynnertonia_swynnertoni-ML101162.wav	1	b
+3	Spectrogram 1	1	88.206975072	88.484432325	3430.6	3980.5	Swynnertonia_swynnertoni-ML101162.wav	E:\Andean\Muscicapidae\Swynnertonia_swynnertoni-ML101162.wav	2	a
+4	Spectrogram 1	1	88.609948702	88.917133518	3273.5	3797.2	Swynnertonia_swynnertoni-ML101162.wav	E:\Andean\Muscicapidae\Swynnertonia_swynnertoni-ML101162.wav	2	b
+5	Spectrogram 1	1	94.885351625	95.103353752	3430.6	3954.3	Swynnertonia_swynnertoni-ML101162.wav	E:\Andean\Muscicapidae\Swynnertonia_swynnertoni-ML101162.wav	3	a
+6	Spectrogram 1	1	95.314749755	95.572388633	3273.5	3875.8	Swynnertonia_swynnertoni-ML101162.wav	E:\Andean\Muscicapidae\Swynnertonia_swynnertoni-ML101162.wav	3	b

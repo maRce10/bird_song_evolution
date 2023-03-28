@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.309444102	7.506726077	4963.9	8307.9	Stilpnia_preciosa-ML23764.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_preciosa-ML23764.wav	1	a
+2	Spectrogram 1	1	12.278694687	12.468240114	4859.4	8360.2	Stilpnia_preciosa-ML23764.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_preciosa-ML23764.wav	2	b
+3	Spectrogram 1	1	15.765399142	15.982022487	2455.8	8255.7	Stilpnia_preciosa-ML23764.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_preciosa-ML23764.wav	3	c

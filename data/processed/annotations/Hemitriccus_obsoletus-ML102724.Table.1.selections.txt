@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.468180678	13.493872475	2049.9	6038.8	Hemitriccus_obsoletus-ML102724.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_obsoletus-ML102724.wav	1	a
+2	Spectrogram 1	1	14.097629707	14.105804370	803.3	7313.1	Hemitriccus_obsoletus-ML102724.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_obsoletus-ML102724.wav	1	b
+3	Spectrogram 1	1	14.108139988	14.137335212	2410.0	5706.4	Hemitriccus_obsoletus-ML102724.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_obsoletus-ML102724.wav	1	c
+4	Spectrogram 1	1	14.600955370	14.634821829	2105.3	7313.1	Hemitriccus_obsoletus-ML102724.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_obsoletus-ML102724.wav	1	d
+5	Spectrogram 1	1	30.890299715	30.919494939	1994.5	6121.9	Hemitriccus_obsoletus-ML102724.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_obsoletus-ML102724.wav	2	a
+6	Spectrogram 1	1	31.399464422	31.412310321	1108.0	6454.3	Hemitriccus_obsoletus-ML102724.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_obsoletus-ML102724.wav	2	b
+7	Spectrogram 1	1	31.415813748	31.447344590	2687.0	6260.4	Hemitriccus_obsoletus-ML102724.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_obsoletus-ML102724.wav	2	c
+8	Spectrogram 1	1	31.859581153	31.884105141	2354.6	7700.9	Hemitriccus_obsoletus-ML102724.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_obsoletus-ML102724.wav	2	d
+9	Spectrogram 1	1	32.284414195	32.321784082	2354.6	7285.4	Hemitriccus_obsoletus-ML102724.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_obsoletus-ML102724.wav	2	e

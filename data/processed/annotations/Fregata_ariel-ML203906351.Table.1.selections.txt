@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.432742050	1.517180151	911.0	4134.4	Fregata_ariel-ML203906351.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fregatidae\Fregatidae\Fregata_ariel-ML203906351.wav	1	a
+2	Spectrogram 1	1	1.544714314	1.636494859	934.3	4134.4	Fregata_ariel-ML203906351.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fregatidae\Fregatidae\Fregata_ariel-ML203906351.wav	1	a
+3	Spectrogram 1	1	16.653108909	16.719190902	1004.4	3830.7	Fregata_ariel-ML203906351.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fregatidae\Fregatidae\Fregata_ariel-ML203906351.wav	2	a
+4	Spectrogram 1	1	16.799957781	16.873382217	1027.8	3784.0	Fregata_ariel-ML203906351.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fregatidae\Fregatidae\Fregata_ariel-ML203906351.wav	2	a
+5	Spectrogram 1	1	17.020231088	17.093655524	1004.4	3737.3	Fregata_ariel-ML203906351.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fregatidae\Fregatidae\Fregata_ariel-ML203906351.wav	3	a
+6	Spectrogram 1	1	17.119354077	17.187271680	1051.1	3877.4	Fregata_ariel-ML203906351.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fregatidae\Fregatidae\Fregata_ariel-ML203906351.wav	3	a

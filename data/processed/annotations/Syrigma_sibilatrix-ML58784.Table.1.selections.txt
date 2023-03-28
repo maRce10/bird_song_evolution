@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.362302885	5.523644594	1507.9	5240.6	Syrigma_sibilatrix-ML58784.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Syrigma_sibilatrix-ML58784.wav	1	a
+2	Spectrogram 1	1	5.651299572	5.841009053	1507.9	5191.1	Syrigma_sibilatrix-ML58784.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Syrigma_sibilatrix-ML58784.wav	1	a
+3	Spectrogram 1	1	6.316169250	6.559068305	1507.9	5092.3	Syrigma_sibilatrix-ML58784.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Syrigma_sibilatrix-ML58784.wav	2	a
+4	Spectrogram 1	1	6.947560262	7.254286807	1211.3	5042.8	Syrigma_sibilatrix-ML58784.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Syrigma_sibilatrix-ML58784.wav	3	a

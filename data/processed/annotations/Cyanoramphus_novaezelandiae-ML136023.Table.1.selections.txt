@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.103294715	6.147671456	692.5	2880.9	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	1	a
+2	Spectrogram 1	1	6.171027635	6.222411229	554.0	2880.9	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	1	a
+3	Spectrogram 1	1	6.245767408	6.285472913	609.4	3019.4	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	1	a
+4	Spectrogram 1	1	6.315835946	6.362548304	609.4	3047.1	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	1	a
+5	Spectrogram 1	1	6.392911337	6.437288078	609.4	2991.7	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	1	a
+6	Spectrogram 1	1	6.472322347	6.507356616	609.4	3157.9	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	1	a
+7	Spectrogram 1	1	6.946452785	6.983822672	581.7	2991.7	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	2	a
+8	Spectrogram 1	1	7.009514469	7.056226827	637.1	3019.4	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	2	a
+9	Spectrogram 1	1	7.081918624	7.133302219	637.1	3157.9	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	2	a
+10	Spectrogram 1	1	7.156658398	7.198699520	664.8	3157.9	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	2	a
+11	Spectrogram 1	1	7.682172430	7.724213553	664.8	2825.5	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	3	a
+12	Spectrogram 1	1	7.749905350	7.796617708	581.7	2908.6	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	3	a
+13	Spectrogram 1	1	7.822309505	7.871357482	609.4	3241.0	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	3	a
+14	Spectrogram 1	1	7.894713661	7.939090402	609.4	3407.2	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	3	a
+15	Spectrogram 1	1	7.964782199	8.011494557	692.5	3268.7	Cyanoramphus_novaezelandiae-ML136023.wav	D:\Andean\Psittaculidae\Cyanoramphus_novaezelandiae-ML136023.wav	3	a

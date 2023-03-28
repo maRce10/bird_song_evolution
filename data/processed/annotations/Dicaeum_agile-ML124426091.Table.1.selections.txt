@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.980465595	3.042876365	2756.2	6563.6	Dicaeum_agile-ML124426091.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_agile-ML124426091.wav	1	a
+2	Spectrogram 1	1	3.235615509	3.290683836	2896.4	6820.6	Dicaeum_agile-ML124426091.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_agile-ML124426091.wav	2	a
+3	Spectrogram 1	1	3.448546373	3.505450311	2943.1	6587.0	Dicaeum_agile-ML124426091.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Dicaeidae\Dicaeidae\Dicaeum_agile-ML124426091.wav	3	a

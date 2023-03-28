@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	68.575711809	68.762561242	1246.5	2105.3	Criniger_ndussumensis-ML24117941.wav	D:\Andean\Pycnonotidae\Criniger_ndussumensis-ML24117941.wav	1	a
+2	Spectrogram 1	1	68.884013374	69.105897077	1329.6	2797.8	Criniger_ndussumensis-ML24117941.wav	D:\Andean\Pycnonotidae\Criniger_ndussumensis-ML24117941.wav	1	b
+3	Spectrogram 1	1	74.842992226	75.032177278	1246.5	2077.6	Criniger_ndussumensis-ML24117941.wav	D:\Andean\Pycnonotidae\Criniger_ndussumensis-ML24117941.wav	2	a
+4	Spectrogram 1	1	75.153629410	75.366170641	1218.8	2991.7	Criniger_ndussumensis-ML24117941.wav	D:\Andean\Pycnonotidae\Criniger_ndussumensis-ML24117941.wav	2	b
+5	Spectrogram 1	1	80.678909866	80.863423682	1246.5	2133.0	Criniger_ndussumensis-ML24117941.wav	D:\Andean\Pycnonotidae\Criniger_ndussumensis-ML24117941.wav	3	a
+6	Spectrogram 1	1	81.005896375	81.218437606	1274.2	3074.8	Criniger_ndussumensis-ML24117941.wav	D:\Andean\Pycnonotidae\Criniger_ndussumensis-ML24117941.wav	3	b

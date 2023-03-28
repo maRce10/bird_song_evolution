@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	48.942721639	49.841934538	4598.4	7673.2	Heterocercus_flavivertex-ML47136021.wav	C:\Users\pfmar\Downloads\Pipridae\Heterocercus_flavivertex-ML47136021.wav	1	a
+2	Spectrogram 1	1	50.094168839	50.175915467	2115.5	6777.3	Heterocercus_flavivertex-ML47136021.wav	C:\Users\pfmar\Downloads\Pipridae\Heterocercus_flavivertex-ML47136021.wav	1	b
+3	Spectrogram 1	1	50.365101054	50.938495254	3173.2	6346.4	Heterocercus_flavivertex-ML47136021.wav	C:\Users\pfmar\Downloads\Pipridae\Heterocercus_flavivertex-ML47136021.wav	1	c
+4	Spectrogram 1	1	79.068931122	79.109804436	5484.5	8305.1	Heterocercus_flavivertex-ML47136021.wav	C:\Users\pfmar\Downloads\Pipridae\Heterocercus_flavivertex-ML47136021.wav	2	d
+5	Spectrogram 1	1	79.311836317	80.157330005	2624.7	6738.1	Heterocercus_flavivertex-ML47136021.wav	C:\Users\pfmar\Downloads\Pipridae\Heterocercus_flavivertex-ML47136021.wav	2	e
+6	Spectrogram 1	1	110.087918249	110.129959371	5406.2	8187.6	Heterocercus_flavivertex-ML47136021.wav	C:\Users\pfmar\Downloads\Pipridae\Heterocercus_flavivertex-ML47136021.wav	3	d
+7	Spectrogram 1	1	110.355347193	111.203176499	1214.4	6659.8	Heterocercus_flavivertex-ML47136021.wav	C:\Users\pfmar\Downloads\Pipridae\Heterocercus_flavivertex-ML47136021.wav	3	e

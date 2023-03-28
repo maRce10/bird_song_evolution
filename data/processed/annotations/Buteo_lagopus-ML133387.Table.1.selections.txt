@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.467899259	15.753012703	642.7	3090.0	Buteo_lagopus-ML133387.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_lagopus-ML133387.wav	1	a
+2	Spectrogram 1	1	46.819020859	48.170080914	568.6	2966.4	Buteo_lagopus-ML133387.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_lagopus-ML133387.wav	2	a
+3	Spectrogram 1	1	64.687024751	66.093885784	667.4	2966.4	Buteo_lagopus-ML133387.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_lagopus-ML133387.wav	3	a

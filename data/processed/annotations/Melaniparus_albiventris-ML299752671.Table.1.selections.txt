@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.480545516	1.580977087	2252.1	4766.2	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	1	a
+2	Spectrogram 1	1	1.681408658	1.758484049	2147.4	3037.8	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	1	b
+3	Spectrogram 1	1	1.854244384	2.136854152	2147.4	4530.5	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	1	c
+4	Spectrogram 1	1	2.216265162	2.300347407	2199.8	3116.3	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	1	b
+5	Spectrogram 1	1	2.386765270	2.667039421	2173.6	4451.9	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	1	c
+6	Spectrogram 1	1	6.638690878	6.753136156	2226.0	4687.6	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	2	a
+7	Spectrogram 1	1	6.825540312	6.918965028	2147.4	3064.0	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	2	b
+8	Spectrogram 1	1	7.010054127	7.276314570	2330.7	4451.9	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	2	c
+9	Spectrogram 1	1	7.365068051	7.444479061	2278.3	3142.5	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	2	b
+10	Spectrogram 1	1	7.530896924	7.811171075	2304.5	4661.4	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	2	c
+11	Spectrogram 1	1	7.895253320	7.976999947	2199.8	3221.1	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	2	b
+12	Spectrogram 1	1	14.358425821	14.463528628	2304.5	4792.3	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	3	a
+13	Spectrogram 1	1	14.559288963	14.643371208	2173.6	3064.0	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	3	b
+14	Spectrogram 1	1	14.729789071	15.000720750	2278.3	4609.0	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	3	c
+15	Spectrogram 1	1	15.089474231	15.171220858	2147.4	3116.3	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	3	b
+16	Spectrogram 1	1	15.238953778	15.516892311	2226.0	4399.5	Melaniparus_albiventris-ML299752671.wav	E:\Andean\Paridae\Melaniparus_albiventris-ML299752671.wav	3	c

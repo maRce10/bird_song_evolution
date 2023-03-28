@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	131.034612913	131.111688304	387.8	886.4	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	1	a
+2	Spectrogram 1	1	131.154897236	131.234308245	664.8	1108.0	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	1	b
+3	Spectrogram 1	1	131.270507385	131.306709463	692.5	1246.5	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	1	c
+4	Spectrogram 1	1	131.314884125	131.346414967	720.2	1274.2	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	1	c
+5	Spectrogram 1	1	131.349918394	131.415315696	526.3	886.4	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	2	a
+6	Spectrogram 1	1	131.459692437	131.521586312	720.2	1108.0	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	2	b
+7	Spectrogram 1	1	131.569466479	131.606836366	747.9	1329.6	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	2	c
+8	Spectrogram 1	1	131.619682264	131.648877488	720.2	1329.6	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	2	c
+9	Spectrogram 1	1	131.652964820	131.730040211	470.9	914.1	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	3	a
+10	Spectrogram 1	1	131.762738862	131.832807400	664.8	1108.0	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	3	b
+11	Spectrogram 1	1	131.867841668	131.907547173	886.4	1357.3	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	3	c
+12	Spectrogram 1	1	131.914554027	131.949588296	886.4	1329.6	Odontophorus_capueira-ML101458.wav	E:\Andean\Odontophoridae\Odontophorus_capueira-ML101458.wav	3	c

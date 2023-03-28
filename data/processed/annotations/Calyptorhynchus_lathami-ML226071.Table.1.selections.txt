@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	114.825925216	115.430055355	568.6	4449.6	Calyptorhynchus_lathami-ML226071.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_lathami-ML226071.wav	1	a
+2	Spectrogram 1	1	126.163012801	126.846866859	667.4	4746.2	Calyptorhynchus_lathami-ML226071.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_lathami-ML226071.wav	2	a
+3	Spectrogram 1	1	150.661677987	151.326043975	642.7	5561.9	Calyptorhynchus_lathami-ML226071.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_lathami-ML226071.wav	3	a

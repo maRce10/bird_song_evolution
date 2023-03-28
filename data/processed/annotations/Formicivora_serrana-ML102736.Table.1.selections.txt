@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	158.959772216	159.027752106	1018.9	3945.0	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	1	a
+2	Spectrogram 1	1	159.221504830	159.274056233	1045.0	3918.8	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	1	a
+3	Spectrogram 1	1	159.473751566	159.528638587	1018.9	3945.0	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	1	a
+4	Spectrogram 1	1	159.721327065	159.773878469	1018.9	3918.8	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	1	a
+5	Spectrogram 1	1	159.973573801	160.035467676	992.8	3971.1	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	1	a
+6	Spectrogram 1	1	160.200260476	160.259818733	1018.9	3945.0	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	1	a
+7	Spectrogram 1	1	160.453675020	160.509729850	1045.0	3945.0	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	1	a
+8	Spectrogram 1	1	160.695411475	160.753801923	1018.9	3945.0	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	1	a
+9	Spectrogram 1	1	161.395001701	161.454559958	1071.1	3945.0	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	2	a
+10	Spectrogram 1	1	161.670604616	161.734834109	992.8	3918.8	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	2	a
+11	Spectrogram 1	1	161.922851352	161.983577418	1071.1	3971.1	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	2	a
+12	Spectrogram 1	1	162.170426851	162.227649490	1018.9	3918.8	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	2	a
+13	Spectrogram 1	1	162.448364979	162.510258854	1018.9	3945.0	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	2	a
+14	Spectrogram 1	1	162.707618569	162.766009017	1045.0	3918.8	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	2	a
+15	Spectrogram 1	1	163.285240793	163.344799050	1018.9	3971.1	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	3	a
+16	Spectrogram 1	1	163.552669045	163.606388257	966.6	3971.1	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	3	a
+17	Spectrogram 1	1	163.802580162	163.860970610	992.8	3945.0	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	3	a
+18	Spectrogram 1	1	164.055464270	164.115022527	1018.9	3918.8	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	3	a
+19	Spectrogram 1	1	164.313550051	164.369604881	992.8	3918.8	Formicivora_serrana-ML102736.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Formicivora_serrana-ML102736.wav	3	a

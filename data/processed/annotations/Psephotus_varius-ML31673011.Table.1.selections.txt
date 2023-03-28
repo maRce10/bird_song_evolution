@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	28.766598850	28.859084601	2133.0	5318.6	Psephotus_varius-ML31673011.wav	D:\Andean\Psittaculidae\Psephotus_varius-ML31673011.wav	1	a
+2	Spectrogram 1	1	31.283620341	31.395924467	2382.3	5651.0	Psephotus_varius-ML31673011.wav	D:\Andean\Psittaculidae\Psephotus_varius-ML31673011.wav	2	a
+3	Spectrogram 1	1	32.380149271	32.505753481	2382.3	5761.8	Psephotus_varius-ML31673011.wav	D:\Andean\Psittaculidae\Psephotus_varius-ML31673011.wav	3	a

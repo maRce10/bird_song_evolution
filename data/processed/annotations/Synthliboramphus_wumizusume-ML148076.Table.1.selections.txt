@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	682.887470382	682.993849531	2412.2	9124.3	Synthliboramphus_wumizusume-ML148076.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcidae\Alcidae\Synthliboramphus_wumizusume-ML148076.wav	1	a
+2	Spectrogram 1	1	683.073633892	683.165829154	1922.7	9194.2	Synthliboramphus_wumizusume-ML148076.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcidae\Alcidae\Synthliboramphus_wumizusume-ML148076.wav	2	a
+3	Spectrogram 1	1	683.242067543	683.332489820	1957.7	8879.6	Synthliboramphus_wumizusume-ML148076.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcidae\Alcidae\Synthliboramphus_wumizusume-ML148076.wav	3	a

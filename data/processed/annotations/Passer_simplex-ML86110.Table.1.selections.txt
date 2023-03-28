@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.210486560	13.301575658	1634.4	4016.6	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	1	a
+2	Spectrogram 1	1	14.015106934	14.029120641	2770.1	4210.6	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	1	b
+3	Spectrogram 1	1	14.036127495	14.067658337	2714.7	3656.5	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	1	c
+4	Spectrogram 1	1	14.068826146	14.154076200	2049.9	3961.2	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	1	c
+5	Spectrogram 1	1	14.770522105	14.856401731	1800.6	3905.8	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	1	a
+6	Spectrogram 1	1	16.926257906	17.020395189	1800.6	4044.3	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	2	a
+7	Spectrogram 1	1	17.831297043	17.847812355	2742.4	4238.3	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	2	b
+8	Spectrogram 1	1	17.852766949	17.884146043	2714.7	3878.1	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	2	c
+9	Spectrogram 1	1	17.890752168	17.974980263	1994.5	3711.9	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	2	c
+10	Spectrogram 1	1	18.764120434	18.856606185	1828.3	4016.6	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	2	a
+11	Spectrogram 1	1	19.888380420	19.906547264	2576.2	4266.0	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	3	b
+12	Spectrogram 1	1	19.914804921	19.946184015	2659.3	3795.0	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	3	c
+13	Spectrogram 1	1	19.949487077	20.033715172	2022.2	3767.3	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	3	c
+15	Spectrogram 1	1	20.635698320	20.723229478	1828.3	4155.2	Passer_simplex-ML86110.wav	D:\Andean\Passeridae\Passer_simplex-ML86110.wav	3	a

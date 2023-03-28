@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.648622063	6.700498023	2007.5	5331.5	Ramphocelus_bresilius-ML189449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Ramphocelus_bresilius-ML189449.wav	1	a
+2	Spectrogram 1	1	7.078155013	7.125880896	1843.0	5331.5	Ramphocelus_bresilius-ML189449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Ramphocelus_bresilius-ML189449.wav	2	a
+3	Spectrogram 1	1	10.331255827	10.376906671	1941.7	5759.3	Ramphocelus_bresilius-ML189449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Ramphocelus_bresilius-ML189449.wav	3	a
+4	Spectrogram 1	1	11.294073645	11.348024644	1875.9	5726.4	Ramphocelus_bresilius-ML189449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Ramphocelus_bresilius-ML189449.wav	4	a
+5	Spectrogram 1	1	14.377021914	14.426822836	1908.8	5430.2	Ramphocelus_bresilius-ML189449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Ramphocelus_bresilius-ML189449.wav	5	a

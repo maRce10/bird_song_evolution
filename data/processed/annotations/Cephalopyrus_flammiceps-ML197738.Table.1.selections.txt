@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.966729042	6.163261263	5394.7	9977.5	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	1	a
+2	Spectrogram 1	1	6.245837827	6.450627704	5368.5	9741.8	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	1	a
+3	Spectrogram 1	1	6.533204268	6.737994145	5237.5	9977.5	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	1	a
+4	Spectrogram 1	1	6.832131428	7.046830493	5263.7	10160.8	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	1	a
+5	Spectrogram 1	1	7.139316244	7.360621435	5289.9	10029.9	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	1	a
+6	Spectrogram 1	1	7.477880155	7.699185345	5263.7	10082.2	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	1	a
+7	Spectrogram 1	1	9.623889359	9.823724643	5342.3	9925.1	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	2	a
+8	Spectrogram 1	1	9.902998144	10.116045678	5394.7	10108.4	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	2	a
+9	Spectrogram 1	1	10.198622241	10.413321307	5289.9	10029.9	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	2	a
+10	Spectrogram 1	1	10.497549401	10.715551529	5263.7	10082.2	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	2	a
+11	Spectrogram 1	1	10.803082686	11.030994002	5289.9	10082.2	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	2	a
+12	Spectrogram 1	1	13.404409969	13.610851378	5316.1	9820.4	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	3	a
+13	Spectrogram 1	1	13.686821816	13.904823944	5342.3	9846.6	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	3	a
+14	Spectrogram 1	1	13.990703570	14.205402635	5263.7	9925.1	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	3	a
+15	Spectrogram 1	1	14.286327667	14.494420607	5289.9	10029.9	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	3	a
+16	Spectrogram 1	1	14.588557890	14.814817674	5342.3	10029.9	Cephalopyrus_flammiceps-ML197738.wav	E:\Andean\Paridae\Cephalopyrus_flammiceps-ML197738.wav	3	a

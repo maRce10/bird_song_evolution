@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.276171127	14.304198542	1126.1	3221.1	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	1	a
+2	Spectrogram 1	1	14.486376740	14.533089098	864.2	3142.5	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	1	a
+3	Spectrogram 1	1	14.701253589	14.768986508	1021.3	3509.1	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	1	a
+4	Spectrogram 1	1	14.860075607	15.002548301	890.4	5263.7	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	1	b
+5	Spectrogram 1	1	15.067945602	15.219760767	942.8	5420.8	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	1	b
+6	Spectrogram 1	1	15.292164923	15.427630762	890.4	5394.7	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	1	b
+7	Spectrogram 1	1	15.500034918	15.663528173	864.2	5289.9	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	1	b
+8	Spectrogram 1	1	16.955988731	16.991023000	838.0	3640.1	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	2	a
+9	Spectrogram 1	1	17.121817603	17.184879287	864.2	3771.0	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	2	a
+10	Spectrogram 1	1	17.280639622	17.448804113	838.0	5394.7	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	2	b
+11	Spectrogram 1	1	17.511865796	17.680030287	890.4	5420.8	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	2	b
+12	Spectrogram 1	1	17.738420735	17.901913989	916.6	5211.3	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	2	b
+13	Spectrogram 1	1	17.974318145	18.142482635	916.6	5106.6	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	2	b
+14	Spectrogram 1	1	18.212551173	18.371373192	968.9	5054.2	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	2	b
+15	Spectrogram 1	1	19.820139288	19.864516029	1178.4	3954.3	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	3	a
+16	Spectrogram 1	1	19.953269510	20.006988722	1178.4	4111.5	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	3	a
+17	Spectrogram 1	1	20.112091528	20.254564222	1126.1	5001.8	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	3	b
+18	Spectrogram 1	1	20.333975231	20.495132867	1047.5	4897.1	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	3	b
+19	Spectrogram 1	1	20.560530169	20.717016570	1230.8	4740.0	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	3	b
+20	Spectrogram 1	1	20.787085108	20.955249598	942.8	4740.0	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	3	b
+21	Spectrogram 1	1	21.015975664	21.172462065	916.6	4766.2	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	3	b
+22	Spectrogram 1	1	21.247201838	21.424708800	968.9	4870.9	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	3	b
+23	Spectrogram 1	1	21.494777338	21.653599357	916.6	4949.5	Melaniparus_niger-ML216050951.wav	E:\Andean\Paridae\Melaniparus_niger-ML216050951.wav	3	b

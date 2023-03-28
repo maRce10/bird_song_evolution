@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	102.264356461	102.372576540	346.1	4276.5	Anas_flavirostris-ML171465.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_flavirostris-ML171465.wav	1	a
+2	Spectrogram 1	1	102.915367876	103.052333914	247.2	4597.9	Anas_flavirostris-ML171465.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_flavirostris-ML171465.wav	2	a
+3	Spectrogram 1	1	103.540432590	103.680780506	296.6	4647.3	Anas_flavirostris-ML171465.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_flavirostris-ML171465.wav	3	a

@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.925568241	14.243754834	373.4	1032.2	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	1	a
+2	Spectrogram 1	1	14.431131383	14.675074437	395.3	1054.2	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	1	b
+3	Spectrogram 1	1	14.851844766	15.099323227	395.3	1032.2	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	1	b
+4	Spectrogram 1	1	15.269022743	15.505894984	395.3	1098.1	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	1	c
+5	Spectrogram 1	1	15.664988280	15.888887309	395.3	1120.1	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	1	c
+6	Spectrogram 1	1	16.064715541	16.287207528	356.2	932.9	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	1	d
+7	Spectrogram 1	1	16.462201226	16.692192943	390.1	882.0	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	1	e
+8	Spectrogram 1	1	27.418347890	27.738336366	407.1	1051.6	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	2	a
+9	Spectrogram 1	1	27.925829614	28.178320520	441.0	1136.4	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	2	b
+10	Spectrogram 1	1	28.356967271	28.596958628	424.0	1102.5	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	2	b
+11	Spectrogram 1	1	28.766952506	29.011943683	474.9	1102.5	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	2	c
+12	Spectrogram 1	1	29.181937561	29.431928557	441.0	1102.5	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	2	c
+13	Spectrogram 1	1	29.606922255	29.806915053	424.0	1017.7	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	2	d
+14	Spectrogram 1	1	30.031906950	30.296897407	458.0	1000.7	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	2	e
+15	Spectrogram 1	1	43.907963902	44.222952558	458.0	966.8	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	3	a
+16	Spectrogram 1	1	44.417945535	44.682935992	458.0	1068.6	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	3	b
+17	Spectrogram 1	1	44.842930230	45.102920867	508.8	1017.7	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	3	b
+18	Spectrogram 1	1	45.257915285	45.497906642	441.0	1068.6	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	3	c
+19	Spectrogram 1	1	45.667900520	45.877892957	407.1	1000.7	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	3	d
+20	Spectrogram 1	1	46.092885214	46.312877292	491.9	932.9	Coccyzus_melacoryphus-ML64651.wav	E:\Escritorio\Cantos\Cuculidae\Coccyzus_melacoryphus-ML64651.wav	3	e

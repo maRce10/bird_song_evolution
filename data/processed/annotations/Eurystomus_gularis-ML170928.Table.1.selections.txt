@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.950957878	8.140025800	934.3	3293.5	Eurystomus_gularis-ML170928.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Eurystomus_gularis-ML170928.wav	1	a
+2	Spectrogram 1	1	8.234559761	8.397011325	1074.5	3620.5	Eurystomus_gularis-ML170928.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Eurystomus_gularis-ML170928.wav	1	b
+3	Spectrogram 1	1	10.159126763	10.305975634	981.0	3784.0	Eurystomus_gularis-ML170928.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Eurystomus_gularis-ML170928.wav	2	a
+4	Spectrogram 1	1	10.381235681	10.551947494	981.0	3900.8	Eurystomus_gularis-ML170928.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Eurystomus_gularis-ML170928.wav	2	b
+5	Spectrogram 1	1	14.494508661	14.639521922	887.6	3573.8	Eurystomus_gularis-ML170928.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Eurystomus_gularis-ML170928.wav	3	a
+6	Spectrogram 1	1	14.780863961	14.986452381	1027.8	3620.5	Eurystomus_gularis-ML170928.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Eurystomus_gularis-ML170928.wav	3	b

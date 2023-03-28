@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.802239381	9.444060243	1483.2	1829.3	Melanitta_americana-ML141084.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Melanitta_americana-ML141084.wav	1	a
+2	Spectrogram 1	1	11.543810390	12.159036465	1433.7	1854.0	Melanitta_americana-ML141084.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Melanitta_americana-ML141084.wav	2	a
+3	Spectrogram 1	1	15.109618531	15.746120435	1507.9	1829.3	Melanitta_americana-ML141084.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Melanitta_americana-ML141084.wav	3	a

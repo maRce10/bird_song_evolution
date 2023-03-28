@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	273.935574847	274.057026979	969.5	3213.3	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	1	a
+2	Spectrogram 1	1	274.299931243	274.402698431	997.2	3185.6	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	1	a
+3	Spectrogram 1	1	274.570862922	274.708664379	997.2	3130.2	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	1	a
+4	Spectrogram 1	1	274.848801455	275.021637181	997.2	3213.3	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	1	b
+5	Spectrogram 1	1	275.140753695	275.360301779	997.2	3268.7	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	1	c
+6	Spectrogram 1	1	275.488760765	275.717651321	997.2	3379.5	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	1	c
+7	Spectrogram 1	1	275.848445925	276.119377604	941.8	3518.0	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	1	d
+8	Spectrogram 1	1	276.238494118	276.560809391	858.7	3268.7	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	1	d
+9	Spectrogram 1	1	286.901960555	287.028083923	886.4	3268.7	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	2	a
+10	Spectrogram 1	1	287.263981333	287.378426611	941.8	3185.6	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	2	a
+11	Spectrogram 1	1	287.551262337	287.686728177	969.5	3047.1	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	2	a
+12	Spectrogram 1	1	287.829200870	287.997365360	1080.3	3241.0	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	2	b
+13	Spectrogram 1	1	288.142173671	288.343036813	1163.4	3241.0	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	2	c
+14	Spectrogram 1	1	288.476166936	288.705057492	1052.6	3213.3	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	2	c
+15	Spectrogram 1	1	288.835852096	289.088098831	1108.0	3213.3	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	2	d
+16	Spectrogram 1	1	289.223564671	289.524859383	914.1	3213.3	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	2	d
+17	Spectrogram 1	1	294.153105560	294.274557692	1080.3	3268.7	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	3	a
+18	Spectrogram 1	1	294.508119484	294.624900381	997.2	3074.8	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	3	a
+19	Spectrogram 1	1	294.779051163	294.923859475	1080.3	3047.1	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	3	a
+20	Spectrogram 1	1	295.078010257	295.262524073	1024.9	3213.3	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	3	b
+21	Spectrogram 1	1	295.388647441	295.601188672	1024.9	3213.3	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	3	c
+22	Spectrogram 1	1	295.731983276	295.963209450	1135.7	3157.9	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	3	c
+23	Spectrogram 1	1	296.086997200	296.367271350	831.0	3102.5	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	3	d
+24	Spectrogram 1	1	296.507408426	296.829723699	858.7	3074.8	Hypocnemis_peruviana-ML34317.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_peruviana-ML34317.wav	3	d

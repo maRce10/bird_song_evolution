@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.953277781	17.289661469	1735.000	8626.300	Spinus_dominicensis-ML12755.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Spinus_dominicensis-ML12755.wav	1	a
+2	Spectrogram 1	1	21.556267808	21.791888558	1383.900	8603.200	Spinus_dominicensis-ML12755.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Spinus_dominicensis-ML12755.wav	2	b
+3	Spectrogram 1	1	21.873202909	23.534844003	1453.100	8626.300	Spinus_dominicensis-ML12755.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Spinus_dominicensis-ML12755.wav	2	a
+4	Spectrogram 1	1	28.464261949	29.745547782	1706.800	8626.300	Spinus_dominicensis-ML12755.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Spinus_dominicensis-ML12755.wav	3	a

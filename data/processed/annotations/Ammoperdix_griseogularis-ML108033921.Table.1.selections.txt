@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.427418080	0.481137292	392.8	3509.1	Ammoperdix_griseogularis-ML108033921.wav	D:\Andean\Phasianidae\Ammoperdix_griseogularis-ML108033921.wav	1	a
+2	Spectrogram 1	1	0.801116947	0.864178631	419.0	3587.7	Ammoperdix_griseogularis-ML108033921.wav	D:\Andean\Phasianidae\Ammoperdix_griseogularis-ML108033921.wav	2	a
+3	Spectrogram 1	1	1.160802107	1.219192555	314.3	3666.3	Ammoperdix_griseogularis-ML108033921.wav	D:\Andean\Phasianidae\Ammoperdix_griseogularis-ML108033921.wav	3	a

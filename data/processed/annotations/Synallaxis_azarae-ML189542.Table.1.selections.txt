@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.212873939	4.285371328	1559.3	5270.9	Synallaxis_azarae-ML189542.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_azarae-ML189542.wav	1	a
+2	Spectrogram 1	1	4.417866556	4.587860434	1032.2	5249.0	Synallaxis_azarae-ML189542.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_azarae-ML189542.wav	1	b
+3	Spectrogram 1	1	5.292835045	5.365332434	1186.0	5095.2	Synallaxis_azarae-ML189542.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_azarae-ML189542.wav	2	a
+4	Spectrogram 1	1	5.515327032	5.685320910	922.4	5095.2	Synallaxis_azarae-ML189542.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_azarae-ML189542.wav	2	b
+5	Spectrogram 1	1	6.989841758	7.064839057	1449.5	5249.0	Synallaxis_azarae-ML189542.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_azarae-ML189542.wav	3	a
+6	Spectrogram 1	1	7.207333925	7.372327983	1076.1	5227.0	Synallaxis_azarae-ML189542.wav	E:\Escritorio\Cantos\Furnariidae\Synallaxis_azarae-ML189542.wav	3	b

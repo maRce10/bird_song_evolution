@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.126019879	11.278375584	261.300	7680.900	Chamaepetes_unicolor-ML72686.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Chamaepetes_unicolor-ML72686.wav	1	a
+2	Spectrogram 1	1	15.701428797	15.837264004	130.600	8292.108	Chamaepetes_unicolor-ML72686.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Chamaepetes_unicolor-ML72686.wav	2	a
+3	Spectrogram 1	1	16.764247385	16.901918202	182.900	8081.886	Chamaepetes_unicolor-ML72686.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Chamaepetes_unicolor-ML72686.wav	3	a

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.897263634	6.936969139	1717.5	3047.1	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	1	a
+2	Spectrogram 1	1	7.098126775	7.144839134	1274.2	2326.9	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	1	b
+3	Spectrogram 1	1	7.230089188	7.279137164	2077.6	2770.1	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	1	c
+4	Spectrogram 1	1	7.442630419	7.513866765	1717.5	2326.9	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	1	d
+5	Spectrogram 1	1	7.517370192	7.622472999	1301.9	2797.8	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	1	e
+6	Spectrogram 1	1	13.436696510	13.460052689	1634.4	2825.5	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	2	a
+7	Spectrogram 1	1	13.476402015	13.514939710	1163.4	2160.7	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	2	g
+8	Spectrogram 1	1	13.592015102	13.631720607	1994.5	3019.4	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	2	c
+9	Spectrogram 1	1	13.695950099	13.739159031	1052.6	2271.5	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	2	b
+10	Spectrogram 1	1	13.817402231	13.959874925	1301.9	2382.3	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	2	f
+11	Spectrogram 1	1	21.238488341	21.274690419	1440.5	3074.8	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	3	a
+12	Spectrogram 1	1	21.442854909	21.490735076	1329.6	1994.5	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	3	h
+13	Spectrogram 1	1	21.598173501	21.653060522	2354.6	2714.7	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	3	c
+14	Spectrogram 1	1	21.803707878	21.862098326	1662.1	2410.0	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	3	d
+15	Spectrogram 1	1	21.869105180	21.956690852	1440.5	2548.5	Pycnonotus_leucogenys-ML179500.wav	D:\Andean\Pycnonotidae\Pycnonotus_leucogenys-ML179500.wav	3	e

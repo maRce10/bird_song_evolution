@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	21.507791017	21.678709305	1142.5	3827.3	Cursorius_rufus-ML61133.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_rufus-ML61133.wav	1	a
+2	Spectrogram 1	1	27.006065906	27.194076022	1256.7	3313.2	Cursorius_rufus-ML61133.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_rufus-ML61133.wav	2	a
+3	Spectrogram 1	1	29.103445876	29.200299572	971.1	2856.2	Cursorius_rufus-ML61133.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_rufus-ML61133.wav	3	a

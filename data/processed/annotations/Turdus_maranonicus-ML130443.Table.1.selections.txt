@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	121.397940760	121.645670451	1985.5	2847.7	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	1	a
+2	Spectrogram 1	1	122.081674706	122.329404397	2063.9	2743.2	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	1	b
+3	Spectrogram 1	1	122.755499465	122.976804655	2011.7	2795.4	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	1	b
+4	Spectrogram 1	1	123.561446725	123.815696866	1724.3	3344.1	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	1	c
+5	Spectrogram 1	1	124.266471125	124.484851400	2194.5	3579.2	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	1	d
+6	Spectrogram 1	1	130.889467405	131.170227721	1881.0	2847.7	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	2	e
+7	Spectrogram 1	1	131.711929978	131.868825448	1933.3	2952.2	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	2	f
+8	Spectrogram 1	1	131.882037698	131.916719855	2037.8	2534.2	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	2	g
+9	Spectrogram 1	1	131.923325980	131.959659668	2116.2	2586.4	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	2	h
+10	Spectrogram 1	1	132.633483991	132.830016212	1854.9	3370.2	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	2	i
+11	Spectrogram 1	1	133.375021532	133.624402753	1933.3	3056.7	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	2	j
+12	Spectrogram 1	1	134.174709685	134.424090906	1672.0	3187.3	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	2	k
+13	Spectrogram 1	1	134.855140568	135.114430978	1881.0	3265.7	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	2	l
+14	Spectrogram 1	1	135.575959552	135.876538243	1724.3	2769.3	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	2	m
+15	Spectrogram 1	1	144.239437215	144.338529091	2116.2	2612.6	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	3	n
+16	Spectrogram 1	1	144.890140535	145.121354913	1959.4	3239.6	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	3	o
+17	Spectrogram 1	1	145.571874168	145.606556325	2481.9	3135.1	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	3	p
+18	Spectrogram 1	1	145.609859388	145.826209984	1567.5	3004.4	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	3	q
+19	Spectrogram 1	1	146.341487741	146.574353650	2534.2	4467.5	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	3	r
+20	Spectrogram 1	1	146.997144699	147.117706482	1907.2	3213.4	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	3	s
+21	Spectrogram 1	1	147.730424583	147.913744554	1619.8	3135.1	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	3	t
+22	Spectrogram 1	1	148.460401405	148.708131095	1933.3	3108.9	Turdus_maranonicus-ML130443.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_maranonicus-ML130443.wav	3	u

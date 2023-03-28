@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	20.914382218	21.010171031	1507.2	2735.3	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	1	a
+2	Spectrogram 1	1	21.234779284	21.344606114	1507.2	2902.8	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	1	b
+3	Spectrogram 1	1	21.467447645	21.511213224	1842.2	3377.3	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	1	c
+4	Spectrogram 1	1	21.609479335	21.649116085	2009.6	3014.4	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	1	c
+5	Spectrogram 1	1	21.778761290	21.895194244	1590.9	3014.4	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	1	a
+6	Spectrogram 1	1	39.700380453	39.825071064	1535.1	2930.7	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	2	a
+7	Spectrogram 1	1	40.046376254	40.152900021	1702.6	3042.3	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	2	b
+8	Spectrogram 1	1	40.268507210	40.313098555	2009.6	3377.3	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	2	c
+9	Spectrogram 1	1	40.408061603	40.448524119	1981.7	3154.0	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	2	c
+10	Spectrogram 1	1	40.574866261	40.683867325	1590.9	3014.4	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	2	a
+11	Spectrogram 1	1	40.891297205	41.002775566	1479.3	2679.5	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	2	a
+12	Spectrogram 1	1	46.440092433	46.552396559	1423.5	2651.6	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	3	a
+13	Spectrogram 1	1	46.767921390	46.871142095	1479.3	2958.6	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	3	b
+14	Spectrogram 1	1	46.991703877	47.033817925	1674.7	3293.5	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	3	c
+15	Spectrogram 1	1	47.137038629	47.179152677	2037.5	3042.3	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	3	c
+16	Spectrogram 1	1	47.313465262	47.362185435	1898.0	3098.2	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	3	c
+17	Spectrogram 1	1	47.453845420	47.495959468	2009.6	2930.7	Pycnonotus_flavescens-ML176973.wav	D:\Andean\Pycnonotidae\Pycnonotus_flavescens-ML176973.wav	3	c

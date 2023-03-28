@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.078366017	5.328357013	1757.0	2745.3	Falcunculus_frontatus-ML128346.wav	E:\Escritorio\Cantos\Falcunculidae\Falcunculus_frontatus-ML128346.wav	1	a
+2	Spectrogram 1	1	6.897050330	7.150791192	1757.0	2723.3	Falcunculus_frontatus-ML128346.wav	E:\Escritorio\Cantos\Falcunculidae\Falcunculus_frontatus-ML128346.wav	2	a
+3	Spectrogram 1	1	8.381996798	8.649980202	1713.0	2723.3	Falcunculus_frontatus-ML128346.wav	E:\Escritorio\Cantos\Falcunculidae\Falcunculus_frontatus-ML128346.wav	3	a

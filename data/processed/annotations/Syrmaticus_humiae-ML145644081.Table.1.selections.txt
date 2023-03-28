@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.682000433	0.731048410	249.3	609.4	Syrmaticus_humiae-ML145644081.wav	D:\Andean\Phasianidae\Syrmaticus_humiae-ML145644081.wav	1	a
+2	Spectrogram 1	1	0.794110093	0.843158070	228.5	644.0	Syrmaticus_humiae-ML145644081.wav	D:\Andean\Phasianidae\Syrmaticus_humiae-ML145644081.wav	1	a
+3	Spectrogram 1	1	1.020665032	1.065041772	270.1	678.7	Syrmaticus_humiae-ML145644081.wav	D:\Andean\Phasianidae\Syrmaticus_humiae-ML145644081.wav	2	a
+4	Spectrogram 1	1	1.137445928	1.179487051	297.8	637.1	Syrmaticus_humiae-ML145644081.wav	D:\Andean\Phasianidae\Syrmaticus_humiae-ML145644081.wav	2	a
+5	Spectrogram 1	1	1.478446145	1.522822885	311.6	609.4	Syrmaticus_humiae-ML145644081.wav	D:\Andean\Phasianidae\Syrmaticus_humiae-ML145644081.wav	3	a
+6	Spectrogram 1	1	1.590555805	1.625590074	297.8	609.4	Syrmaticus_humiae-ML145644081.wav	D:\Andean\Phasianidae\Syrmaticus_humiae-ML145644081.wav	3	a

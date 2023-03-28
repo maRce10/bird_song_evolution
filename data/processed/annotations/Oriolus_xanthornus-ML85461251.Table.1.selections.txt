@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.896994764	2.967063301	1052.6	2797.8	Oriolus_xanthornus-ML85461251.wav	E:\Andean\Oriolidae\Oriolus_xanthornus-ML85461251.wav	1	a
+2	Spectrogram 1	1	3.093186669	3.235659362	1246.5	1772.9	Oriolus_xanthornus-ML85461251.wav	E:\Andean\Oriolidae\Oriolus_xanthornus-ML85461251.wav	1	b
+3	Spectrogram 1	1	3.280036103	3.375796438	831.0	1412.8	Oriolus_xanthornus-ML85461251.wav	E:\Andean\Oriolidae\Oriolus_xanthornus-ML85461251.wav	1	c
+4	Spectrogram 1	1	5.685735197	5.781524011	1080.3	1994.5	Oriolus_xanthornus-ML85461251.wav	E:\Andean\Oriolidae\Oriolus_xanthornus-ML85461251.wav	2	d
+5	Spectrogram 1	1	5.940071013	6.042465951	692.5	1274.2	Oriolus_xanthornus-ML85461251.wav	E:\Andean\Oriolidae\Oriolus_xanthornus-ML85461251.wav	2	e
+6	Spectrogram 1	1	6.148163953	6.419015081	941.8	1883.7	Oriolus_xanthornus-ML85461251.wav	E:\Andean\Oriolidae\Oriolus_xanthornus-ML85461251.wav	2	f
+7	Spectrogram 1	1	8.636463272	8.712433710	969.5	2797.8	Oriolus_xanthornus-ML85461251.wav	E:\Andean\Oriolidae\Oriolus_xanthornus-ML85461251.wav	3	a
+8	Spectrogram 1	1	8.834647024	8.986587901	1274.2	1772.9	Oriolus_xanthornus-ML85461251.wav	E:\Andean\Oriolidae\Oriolus_xanthornus-ML85461251.wav	3	b
+9	Spectrogram 1	1	9.029527714	9.135225715	720.2	1357.3	Oriolus_xanthornus-ML85461251.wav	E:\Andean\Oriolidae\Oriolus_xanthornus-ML85461251.wav	3	c

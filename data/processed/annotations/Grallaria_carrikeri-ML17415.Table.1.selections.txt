@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.292027090	6.511808304	877.3	4147.2	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	1	a
+2	Spectrogram 1	1	6.951370731	7.066494224	877.3	3708.5	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	1	b
+3	Spectrogram 1	1	7.411864702	7.563618397	996.9	4107.3	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	1	a
+4	Spectrogram 1	1	7.919454648	8.081674115	837.4	4147.2	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	1	a
+5	Spectrogram 1	1	8.536935200	8.683456009	877.3	4147.2	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	1	a
+6	Spectrogram 1	1	22.125987318	22.324836988	1036.8	4266.8	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	2	a
+7	Spectrogram 1	1	22.748700757	22.874290022	877.3	3868.0	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	2	b
+8	Spectrogram 1	1	23.219660500	23.345249765	957.0	4187.0	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	2	a
+9	Spectrogram 1	1	23.727250446	23.868538369	877.3	4266.8	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	2	a
+10	Spectrogram 1	1	24.323799454	24.491251807	917.2	4187.0	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	2	a
+11	Spectrogram 1	1	25.140129676	25.312814915	957.0	4027.5	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	2	a
+12	Spectrogram 1	1	129.374100693	129.609580565	917.2	4346.5	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	3	a
+13	Spectrogram 1	1	130.002047018	130.153800713	877.3	4067.4	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	3	b
+14	Spectrogram 1	1	130.478239647	130.645692001	797.5	4426.3	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	3	a
+15	Spectrogram 1	1	131.011994023	131.137583288	917.2	4386.4	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	3	a
+16	Spectrogram 1	1	131.571912829	131.734132296	917.2	4426.3	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	3	a
+17	Spectrogram 1	1	132.241722242	132.398708823	877.3	4346.5	Grallaria_carrikeri-ML17415.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_carrikeri-ML17415.wav	3	a

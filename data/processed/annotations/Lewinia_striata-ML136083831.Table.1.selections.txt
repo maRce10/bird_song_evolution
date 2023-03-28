@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.032266990	19.090657438	1024.9	5263.2	Lewinia_striata-ML136083831.wav	D:\Andean\Rallidae\Lewinia_striata-ML136083831.wav	1	a
+2	Spectrogram 1	1	22.969257893	23.013634634	997.2	5401.7	Lewinia_striata-ML136083831.wav	D:\Andean\Rallidae\Lewinia_striata-ML136083831.wav	2	a
+3	Spectrogram 1	1	27.104088165	27.155471759	831.0	5346.3	Lewinia_striata-ML136083831.wav	D:\Andean\Rallidae\Lewinia_striata-ML136083831.wav	3	a

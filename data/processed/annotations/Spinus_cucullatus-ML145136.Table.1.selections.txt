@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.898601687	4.948097379	2168.4	9192.6	Spinus_cucullatus-ML145136.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_cucullatus-ML145136.wav	1	a
+2	Spectrogram 1	1	5.004663885	5.057694984	2107.3	9224.1	Spinus_cucullatus-ML145136.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_cucullatus-ML145136.wav	1	a
+3	Spectrogram 1	1	5.446589708	5.497853103	2137.8	9070.4	Spinus_cucullatus-ML145136.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_cucullatus-ML145136.wav	2	a
+4	Spectrogram 1	1	5.568561235	5.619824630	2137.8	9101.0	Spinus_cucullatus-ML145136.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_cucullatus-ML145136.wav	2	a
+5	Spectrogram 1	1	6.019324599	6.067052587	2107.3	9070.4	Spinus_cucullatus-ML145136.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_cucullatus-ML145136.wav	3	a
+6	Spectrogram 1	1	6.137760719	6.194327224	2107.3	9162.0	Spinus_cucullatus-ML145136.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_cucullatus-ML145136.wav	3	a

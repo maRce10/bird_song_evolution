@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.383200725	7.434597830	1238.0	3690.6	Emblema_pictum-ML59916891.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Emblema_pictum-ML59916891.wav	1	a
+2	Spectrogram 1	1	7.447447107	7.500679823	1238.0	3620.5	Emblema_pictum-ML59916891.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Emblema_pictum-ML59916891.wav	2	a
+3	Spectrogram 1	1	7.513529099	7.559419371	1191.3	3573.8	Emblema_pictum-ML59916891.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Emblema_pictum-ML59916891.wav		a

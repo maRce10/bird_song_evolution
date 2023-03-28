@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.395965537	0.841426767	3755.500	5446.600	Lagonosticta_larvata-ML276955.wav	C:\Users\User\Downloads\Lagonosticta_larvata-ML276955.wav	1	a
+2	Spectrogram 1	1	1.011126283	1.414162633	3799.500	5380.700	Lagonosticta_larvata-ML276955.wav	C:\Users\User\Downloads\Lagonosticta_larvata-ML276955.wav	1	a
+3	Spectrogram 1	1	1.594468369	1.993969312	3711.600	5314.800	Lagonosticta_larvata-ML276955.wav	C:\Users\User\Downloads\Lagonosticta_larvata-ML276955.wav	1	a
+4	Spectrogram 1	1	19.448576662	19.855148419	3756.000	5457.300	Lagonosticta_larvata-ML276955.wav	C:\Users\User\Downloads\Lagonosticta_larvata-ML276955.wav	2	a
+5	Spectrogram 1	1	19.993029276	20.394993844	3778.100	5500.895	Lagonosticta_larvata-ML276955.wav	C:\Users\User\Downloads\Lagonosticta_larvata-ML276955.wav	2	a
+6	Spectrogram 1	1	20.555158923	20.961730680	3711.800	5435.200	Lagonosticta_larvata-ML276955.wav	C:\Users\User\Downloads\Lagonosticta_larvata-ML276955.wav	2	a
+7	Spectrogram 1	1	24.884267395	25.329199490	3774.900	5524.105	Lagonosticta_larvata-ML276955.wav	C:\Users\User\Downloads\Lagonosticta_larvata-ML276955.wav	3	a
+8	Spectrogram 1	1	25.428720009	25.870559324	3714.900	5482.500	Lagonosticta_larvata-ML276955.wav	C:\Users\User\Downloads\Lagonosticta_larvata-ML276955.wav	3	a

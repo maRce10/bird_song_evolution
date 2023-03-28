@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.305877634	1.410631208	2277.2	3110.3	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	1	a
+2	Spectrogram 1	1	1.456176241	1.606474847	2332.7	3193.6	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	1	a
+3	Spectrogram 1	1	1.683901402	1.811427493	2249.4	3165.9	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	1	a
+4	Spectrogram 1	1	1.907072061	2.039152655	2166.1	3054.8	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	1	a
+5	Spectrogram 1	1	4.767300096	4.867499167	2388.3	3165.9	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	2	a
+6	Spectrogram 1	1	4.931262212	5.090669826	2360.5	3193.6	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	2	a
+7	Spectrogram 1	1	5.158987374	5.313840484	2332.7	3193.6	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	2	a
+8	Spectrogram 1	1	5.382158033	5.541565646	2221.7	3082.6	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	2	a
+9	Spectrogram 1	1	6.716627482	6.839599070	2249.4	3221.4	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	3	a
+10	Spectrogram 1	1	6.876035096	7.017224696	2305.0	3110.3	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	3	a
+11	Spectrogram 1	1	7.103760258	7.276831381	2277.2	3082.6	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	3	a
+12	Spectrogram 1	1	7.326930916	7.481784027	2138.4	3054.8	Tringa_melanoleuca-ML225809.wav	D:\Andean\Scolopacidae\Tringa_melanoleuca-ML225809.wav	3	a

@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.390081870	1.593280629	2407.3	7962.5	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	1	a
+2	Spectrogram 1	1	1.628314898	1.847862982	2333.2	8110.6	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	1	a
+3	Spectrogram 1	1	1.952965789	2.018363091	5073.8	6851.5	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	1	b
+4	Spectrogram 1	1	2.109452190	2.170178256	2814.7	7666.2	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	1	c
+5	Spectrogram 1	1	2.228568704	2.296301623	5259.0	6888.5	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	1	b
+6	Spectrogram 1	1	2.352356454	2.574240156	2481.3	7962.5	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	1	a
+7	Spectrogram 1	1	2.613945661	2.845171835	2518.4	7925.5	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	1	a
+8	Spectrogram 1	1	2.926918462	2.992315764	4888.6	6481.1	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	1	b
+9	Spectrogram 1	1	58.604647383	58.819524232	2259.1	7999.5	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	2	a
+10	Spectrogram 1	1	58.845216029	59.062428496	2222.1	8406.9	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	2	a
+11	Spectrogram 1	1	59.123154562	59.307668377	2296.2	8258.8	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	2	a
+12	Spectrogram 1	1	59.377736915	59.625312415	2222.1	8110.6	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	2	a
+13	Spectrogram 1	1	59.674360391	59.903250948	2407.3	7925.5	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	2	a
+14	Spectrogram 1	1	59.973319485	60.045723641	4999.7	6851.5	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	2	b
+15	Spectrogram 1	1	60.101778471	60.185860716	2962.8	7962.5	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	2	c
+16	Spectrogram 1	1	60.239579928	60.304977230	5073.8	6999.6	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	2	b
+17	Spectrogram 1	1	68.797568307	68.865301227	4629.4	6777.4	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	3	b
+18	Spectrogram 1	1	68.935369765	69.000767066	3110.9	7666.2	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	3	c
+19	Spectrogram 1	1	69.038136953	69.105869873	4184.9	6555.2	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	3	b
+20	Spectrogram 1	1	69.150246613	69.379137170	2740.6	8999.5	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	3	a
+21	Spectrogram 1	1	69.395486495	69.612698962	2518.4	8592.1	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	3	a
+22	Spectrogram 1	1	69.664082556	69.888301877	2333.2	8703.2	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	3	a
+23	Spectrogram 1	1	69.909322438	70.140548612	2370.2	8481.0	Euplectes_hordeaceus-ML28226311.wav	D:\Andean\Ploceidae\Euplectes_hordeaceus-ML28226311.wav	3	a

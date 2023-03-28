@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	33.064837123	38.940300010	1135.7	1551.3	Crypturellus_strigulosus-ML88599.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_strigulosus-ML88599.wav	1	a
+2	Spectrogram 1	1	75.617506472	81.325198544	1108.0	1551.3	Crypturellus_strigulosus-ML88599.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_strigulosus-ML88599.wav	2	a
+3	Spectrogram 1	1	116.734028990	121.596137051	1163.4	1523.6	Crypturellus_strigulosus-ML88599.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_strigulosus-ML88599.wav	3	a

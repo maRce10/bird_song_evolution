@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.148995030	11.286812144	1414.0	4127.2	Pachysylvia_aurantiifrons-ML70354.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_aurantiifrons-ML70354.wav	1	a
+3	Spectrogram 1	1	11.326501992	11.424597944	2445.8	4700.4	Pachysylvia_aurantiifrons-ML70354.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_aurantiifrons-ML70354.wav	1	b
+4	Spectrogram 1	1	11.437443843	11.534371987	1834.3	4280.1	Pachysylvia_aurantiifrons-ML70354.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_aurantiifrons-ML70354.wav	1	c
+8	Spectrogram 1	1	12.409061005	12.556204934	1949.0	5311.9	Pachysylvia_aurantiifrons-ML70354.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_aurantiifrons-ML70354.wav	2	d
+9	Spectrogram 1	1	12.571386450	12.619266618	2675.0	4012.6	Pachysylvia_aurantiifrons-ML70354.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_aurantiifrons-ML70354.wav	2	e
+10	Spectrogram 1	1	12.671818021	12.851660601	2560.4	6152.6	Pachysylvia_aurantiifrons-ML70354.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_aurantiifrons-ML70354.wav	2	f
+12	Spectrogram 1	1	17.689677810	17.820472414	1719.7	4318.3	Pachysylvia_aurantiifrons-ML70354.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_aurantiifrons-ML70354.wav	3	g
+13	Spectrogram 1	1	17.866016963	17.959441680	2713.3	4662.2	Pachysylvia_aurantiifrons-ML70354.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_aurantiifrons-ML70354.wav	3	b
+14	Spectrogram 1	1	17.973455388	18.069215722	1910.7	4012.6	Pachysylvia_aurantiifrons-ML70354.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pachysylvia_aurantiifrons-ML70354.wav	3	c

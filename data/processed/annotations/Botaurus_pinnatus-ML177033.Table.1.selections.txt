@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	34.727256847	34.883279598	49.4	271.9	Botaurus_pinnatus-ML177033.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_pinnatus-ML177033.wav	1	a
+2	Spectrogram 1	1	36.932641588	37.182632587	74.2	346.1	Botaurus_pinnatus-ML177033.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_pinnatus-ML177033.wav	2	a
+3	Spectrogram 1	1	39.196931071	39.407916382	74.2	370.8	Botaurus_pinnatus-ML177033.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_pinnatus-ML177033.wav	3	a

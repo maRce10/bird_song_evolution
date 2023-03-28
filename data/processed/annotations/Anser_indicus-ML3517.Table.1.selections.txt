@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.765174293	8.863248740	123.6	2027.0	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	1	b
+2	Spectrogram 1	1	8.925473341	9.087803460	148.3	2249.5	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	1	c
+3	Spectrogram 1	1	9.165926775	9.255546528	123.6	2150.6	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	1	b
+4	Spectrogram 1	1	9.399276321	9.490587013	148.3	2175.3	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	1	b
+5	Spectrogram 1	1	9.639389623	9.742536886	123.6	2150.6	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	1	b
+6	Spectrogram 1	1	10.418351275	10.533335110	123.6	2175.3	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	2	a
+7	Spectrogram 1	1	10.584063272	10.721029310	148.3	2200.1	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	2	a
+8	Spectrogram 1	1	10.798812492	10.883359429	98.9	2175.3	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	2	b
+9	Spectrogram 1	1	11.106563343	11.257056891	123.6	2348.4	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	2	c
+10	Spectrogram 1	1	11.515322007	11.613396454	148.3	2249.5	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	2	b
+11	Spectrogram 1	1	20.260092440	20.361548765	123.6	2200.1	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	3	b
+12	Spectrogram 1	1	20.593207372	20.682827126	148.3	2224.8	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	3	b
+13	Spectrogram 1	1	20.819793164	20.941540753	197.8	2373.1	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	3	a
+14	Spectrogram 1	1	21.050606302	21.195181564	148.3	2373.1	Anser_indicus-ML3517.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_indicus-ML3517.wav	3	a

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	39.534983873	39.567682524	2271.5	2742.4	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	1	a
+2	Spectrogram 1	1	39.572353760	39.602716793	3490.3	4792.3	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	1	b
+3	Spectrogram 1	1	39.609723647	39.670449713	2437.7	3241.0	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	1	c
+4	Spectrogram 1	1	39.684463420	39.731175779	2077.6	4764.6	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	1	d
+5	Spectrogram 1	1	40.576669466	40.607032499	2576.2	3213.3	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	2	a
+6	Spectrogram 1	1	40.611703735	40.642066768	3518.0	4958.5	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	2	b
+7	Spectrogram 1	1	40.646738004	40.709799688	2603.9	3407.2	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	2	c
+8	Spectrogram 1	1	40.726149013	40.772861372	2105.3	4764.6	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	2	d
+9	Spectrogram 1	1	41.947677187	41.975704602	2742.4	3157.9	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	3	a
+10	Spectrogram 1	1	41.987382691	42.015410106	3767.3	5180.1	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	3	b
+11	Spectrogram 1	1	42.010738870	42.073800554	2714.7	3434.9	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	3	c
+12	Spectrogram 1	1	42.092485498	42.139197856	2216.1	4820.0	Hartlaubius_auratus-ML95724.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Hartlaubius_auratus-ML95724.wav	3	d

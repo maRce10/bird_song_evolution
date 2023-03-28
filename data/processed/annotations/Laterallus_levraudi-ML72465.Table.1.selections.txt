@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.260081706	12.269999632	526.3	3739.6	Laterallus_levraudi-ML72465.wav	D:\Andean\Rallidae\Laterallus_levraudi-ML72465.wav	1	a
+2	Spectrogram 1	1	19.325309435	22.232004472	886.4	4432.2	Laterallus_levraudi-ML72465.wav	D:\Andean\Rallidae\Laterallus_levraudi-ML72465.wav	2	a
+3	Spectrogram 1	1	29.362648379	34.363485067	914.1	4293.7	Laterallus_levraudi-ML72465.wav	D:\Andean\Rallidae\Laterallus_levraudi-ML72465.wav	3	a

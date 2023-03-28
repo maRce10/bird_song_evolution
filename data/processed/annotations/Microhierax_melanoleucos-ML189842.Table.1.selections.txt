@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	7.418878273	7.708867829	1888.700	4809.700	Microhierax_melanoleucos-ML189842.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Microhierax_melanoleucos-ML189842.wav	1	a
+2	Spectrogram 1	1	8.561337128	8.881325604	1954.600	4919.500	Microhierax_melanoleucos-ML189842.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Microhierax_melanoleucos-ML189842.wav	2	a
+3	Spectrogram 1	1	12.476611460	12.769100927	1735.000	4809.700	Microhierax_melanoleucos-ML189842.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Microhierax_melanoleucos-ML189842.wav	3	a

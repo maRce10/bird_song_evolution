@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.861950678	1.911496616	277.8	1907.3	Numida_meleagris-ML142586401.wav	E:\Andean\Numididae\Numida_meleagris-ML142586401.wav	1	a
+2	Spectrogram 1	1	1.954436429	2.020497680	259.2	1907.3	Numida_meleagris-ML142586401.wav	E:\Andean\Numididae\Numida_meleagris-ML142586401.wav	2	a
+3	Spectrogram 1	1	2.053528305	2.112983431	259.2	1925.8	Numida_meleagris-ML142586401.wav	E:\Andean\Numididae\Numida_meleagris-ML142586401.wav	3	a

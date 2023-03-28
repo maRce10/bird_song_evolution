@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.627578734	0.686291921	2086.600	5808.600	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	1	a
+2	Spectrogram 1	1	0.794585133	0.878088333	2537.700	5526.600	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	1	b
+3	Spectrogram 1	1	0.878088333	0.905487820	3665.600	5526.600	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	1	c
+4	Spectrogram 1	1	1.171654269	1.249938569	1804.600	4906.300	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	1	d
+5	Spectrogram 1	1	1.282556955	1.369974367	2988.900	5019.100	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	1	e
+6	Spectrogram 1	1	1.379107530	1.461305992	1522.600	4342.300	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	1	f
+7	Spectrogram 1	1	1.462610729	1.518714442	1466.200	4398.700	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	1	g
+9	Spectrogram 1	1	106.398253802	106.499738562	1657.852	5486.701	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	2	h
+10	Spectrogram 1	1	106.527416224	106.628900985	2920.978	4697.248	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	2	i
+11	Spectrogram 1	1	106.779270723	106.857554972	1657.852	4578.830	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	2	a
+12	Spectrogram 1	1	106.896697097	106.988028722	2960.450	4815.666	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	2	e
+13	Spectrogram 1	1	106.991290565	107.074793765	1934.161	4184.103	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	2	b
+14	Spectrogram 1	1	107.076750871	107.140683008	1736.797	4381.466	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	2	g
+15	Spectrogram 1	1	126.219579394	126.455736880	2881.505	7026.135	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	3	j
+16	Spectrogram 1	1	126.751912291	126.835415490	1578.907	5802.482	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	3	h
+17	Spectrogram 1	1	126.868033928	126.980241352	2999.923	4736.720	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	3	i
+19	Spectrogram 1	1	127.063092183	127.134852745	1815.743	4934.084	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	3	a
+20	Spectrogram 1	1	127.142028891	127.243798415	2920.978	5605.119	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	3	k
+21	Spectrogram 1	1	127.244450784	127.338391883	1697.325	4223.576	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	3	f
+22	Spectrogram 1	1	127.339026455	127.396434905	1657.852	5013.029	Alopochelidon_fucata-ML198256271.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Alopochelidon_fucata-ML198256271.wav	3	g

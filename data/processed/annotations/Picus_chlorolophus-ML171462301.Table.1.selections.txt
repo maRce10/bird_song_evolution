@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.492984269	2.034686526	858.7	2714.7	Picus_chlorolophus-ML171462301.wav	D:\Andean\Picidae\Picus_chlorolophus-ML171462301.wav	1	a
+2	Spectrogram 1	1	8.138746102	8.753115735	886.4	2687.0	Picus_chlorolophus-ML171462301.wav	D:\Andean\Picidae\Picus_chlorolophus-ML171462301.wav	2	a
+3	Spectrogram 1	1	21.145301636	21.746459019	969.5	2853.2	Picus_chlorolophus-ML171462301.wav	D:\Andean\Picidae\Picus_chlorolophus-ML171462301.wav	3	a

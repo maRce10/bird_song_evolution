@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.227986459	17.709522614	33.0	512.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	a
+2	Spectrogram 1	1	18.045027438	19.001714461	66.1	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	b
+3	Spectrogram 1	1	19.276430886	20.133463011	99.1	479.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	c
+4	Spectrogram 1	1	20.405853066	21.103437354	82.6	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	d
+5	Spectrogram 1	1	21.466474354	22.353402949	66.1	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	b
+6	Spectrogram 1	1	22.665654963	23.512721599	82.6	512.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	c
+7	Spectrogram 1	1	23.765180674	24.512592411	66.1	512.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	d
+8	Spectrogram 1	1	24.848198124	25.778310508	99.1	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	b
+9	Spectrogram 1	1	26.087240693	26.921020008	99.1	512.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	c
+10	Spectrogram 1	1	27.206697383	27.947465460	49.5	561.6	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	d
+11	Spectrogram 1	1	28.387416735	29.297598139	99.1	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	b
+12	Spectrogram 1	1	29.623137473	30.470204109	82.6	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	c
+13	Spectrogram 1	1	30.749237824	31.456787602	66.1	528.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	d
+14	Spectrogram 1	1	59.338019954	60.673395591	82.6	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	1	a
+15	Spectrogram 1	1	60.979003946	61.942334629	49.5	528.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	b
+16	Spectrogram 1	1	62.235542937	63.052713103	82.6	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	c
+17	Spectrogram 1	1	63.325103158	64.045940255	99.1	545.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	d
+18	Spectrogram 1	1	64.389113111	65.276041706	99.1	479.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	b
+19	Spectrogram 1	1	65.584971890	66.412107546	66.1	545.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	c
+20	Spectrogram 1	1	66.712684204	67.423555811	82.6	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	d
+21	Spectrogram 1	1	67.785635275	68.695816679	115.6	512.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	b
+22	Spectrogram 1	1	69.005053401	69.792327097	99.1	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	c
+23	Spectrogram 1	1	70.121188262	70.805485230	66.1	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	d
+24	Spectrogram 1	1	71.244204770	72.124489705	66.1	479.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	b
+25	Spectrogram 1	1	72.476603679	73.204084436	115.6	495.5	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	c
+26	Spectrogram 1	1	73.625956839	74.187346099	49.5	512.0	Columba_unicincta-ML236555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_unicincta-ML236555.wav	2	d

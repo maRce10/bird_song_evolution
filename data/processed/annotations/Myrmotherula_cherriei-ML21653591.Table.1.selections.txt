@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	44.022667474	46.678329757	862.1	6583.6	Myrmotherula_cherriei-ML21653591.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_cherriei-ML21653591.wav	1	a
+2	Spectrogram 1	1	52.544780022	55.603415936	836.0	6322.4	Myrmotherula_cherriei-ML21653591.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_cherriei-ML21653591.wav	2	a
+3	Spectrogram 1	1	59.943303829	62.902847866	914.4	6087.3	Myrmotherula_cherriei-ML21653591.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_cherriei-ML21653591.wav	3	a

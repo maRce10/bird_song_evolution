@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.585177940	31.898150742	2271.5	2770.1	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	1	a
+2	Spectrogram 1	1	32.060700515	32.311733268	2160.7	2631.6	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	1	b
+3	Spectrogram 1	1	32.493401708	32.803889587	2271.5	2853.2	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	1	a
+4	Spectrogram 1	1	32.883163088	33.170529529	1869.8	3074.8	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	1	c
+5	Spectrogram 1	1	33.272924468	33.556987846	2257.6	3268.7	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	1	d
+6	Spectrogram 1	1	33.636261347	33.887294101	2160.7	3365.7	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	1	e
+7	Spectrogram 1	1	33.953355351	34.135023791	2340.7	3476.5	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	1	f
+8	Spectrogram 1	1	34.177963604	34.336510606	2700.8	3448.8	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	1	g
+9	Spectrogram 1	1	34.389359607	34.481845358	2479.2	3351.8	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	1	h
+10	Spectrogram 1	1	54.782309740	55.003614930	2506.9	2936.3	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	2	i
+11	Spectrogram 1	1	55.181980307	55.446225311	2133.0	2922.5	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	2	j
+12	Spectrogram 1	1	55.558529437	55.921866317	2160.7	3365.7	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	2	k
+13	Spectrogram 1	1	55.964806130	56.115095742	2396.1	3351.8	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	2	l
+14	Spectrogram 1	1	56.138217180	56.209233025	2991.7	3407.2	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	2	m
+15	Spectrogram 1	1	56.281900401	56.400810652	2354.6	3379.5	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	2	k
+16	Spectrogram 1	1	56.432189746	56.496599466	3088.7	3518.0	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	2	m
+17	Spectrogram 1	1	56.567615500	56.785617627	2659.3	3504.2	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	2	n
+18	Spectrogram 1	1	56.818648253	57.001968224	2839.4	3531.9	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	2	o
+19	Spectrogram 1	1	57.018483536	57.115923881	2603.9	3393.4	Rhynchocyclus_olivaceus-ML75277.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_olivaceus-ML75277.wav	2	p

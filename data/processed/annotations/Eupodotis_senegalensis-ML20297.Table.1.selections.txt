@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	73.452954513	73.490324400	104.8	1649.8	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	1	a
+2	Spectrogram 1	1	73.518351815	73.579077881	130.9	1859.3	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	1	a
+3	Spectrogram 1	1	73.754249225	73.917742480	209.5	1571.3	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	1	b
+4	Spectrogram 1	1	73.992482253	74.046201466	209.5	1990.3	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	1	a
+5	Spectrogram 1	1	74.223708428	74.389537300	157.1	1571.3	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	1	b
+6	Spectrogram 1	1	74.459605838	74.522667522	183.3	1990.3	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	1	a
+7	Spectrogram 1	1	77.845492812	77.892205170	209.5	1649.8	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	2	a
+8	Spectrogram 1	1	78.093068312	78.247219095	183.3	1623.6	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	2	b
+9	Spectrogram 1	1	78.333636958	78.392027406	157.1	1911.7	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	2	a
+10	Spectrogram 1	1	78.576541222	78.721349533	235.7	1676.0	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	2	b
+11	Spectrogram 1	1	78.807767396	78.859150990	78.6	1859.3	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	2	a
+12	Spectrogram 1	1	82.448868846	82.521273002	314.3	1047.5	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	3	a
+13	Spectrogram 1	1	82.539957945	82.603019629	235.7	1126.1	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	3	a
+14	Spectrogram 1	1	82.843588275	83.021095237	628.5	1492.7	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	3	b
+15	Spectrogram 1	1	83.144882987	83.200937817	445.2	1518.9	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	3	a
+16	Spectrogram 1	1	83.392458487	83.548944888	523.8	1623.6	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	3	b
+17	Spectrogram 1	1	83.630691515	83.684410727	392.8	1545.1	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	3	a
+18	Spectrogram 1	1	83.873595779	84.020739708	392.8	1545.1	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	3	b
+19	Spectrogram 1	1	84.102486335	84.160876783	366.6	1518.9	Eupodotis_senegalensis-ML20297.wav	E:\Andean\Otididae\Eupodotis_senegalensis-ML20297.wav	3	a

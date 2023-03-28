@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.566076111	3.055460172	148.3	4795.6	Ardea_intermedia-ML284379.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_intermedia-ML284379.wav	1	a
+2	Spectrogram 1	1	9.558126856	10.844413091	202.5	4522.3	Ardea_intermedia-ML284379.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_intermedia-ML284379.wav	1	a
+3	Spectrogram 1	1	14.767699947	17.041355507	270.0	4657.3	Ardea_intermedia-ML284379.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_intermedia-ML284379.wav	3	a

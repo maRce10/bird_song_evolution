@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.745482395	26.705935600	2422.5	3460.8	Pseudastur_occidentalis-ML69556.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Pseudastur_occidentalis-ML69556.wav	1	a
+2	Spectrogram 1	1	41.187278279	42.325280052	2298.9	3090.0	Pseudastur_occidentalis-ML69556.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Pseudastur_occidentalis-ML69556.wav	2	a
+3	Spectrogram 1	1	47.010645164	48.160483508	2249.5	3337.2	Pseudastur_occidentalis-ML69556.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Pseudastur_occidentalis-ML69556.wav	3	a

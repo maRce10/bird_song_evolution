@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.550505106	1.626597350	6055.5	8428.6	Ispidina_picta-ML214405771.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Ispidina_picta-ML214405771.wav	1	a
+2	Spectrogram 1	1	5.961674200	6.034384566	6253.2	8453.3	Ispidina_picta-ML214405771.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Ispidina_picta-ML214405771.wav	2	a
+3	Spectrogram 1	1	19.925807645	20.001899888	6055.5	8453.3	Ispidina_picta-ML214405771.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Ispidina_picta-ML214405771.wav	3	a

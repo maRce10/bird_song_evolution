@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	63.044082406	64.763097196	1802.7	4781.0	Myrmoderus_ruficauda-ML128003.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmoderus_ruficauda-ML128003.wav	1	a
+2	Spectrogram 1	1	73.694500129	75.581679410	1802.7	4807.1	Myrmoderus_ruficauda-ML128003.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmoderus_ruficauda-ML128003.wav	2	a
+3	Spectrogram 1	1	83.186451364	84.924151098	1802.7	4781.0	Myrmoderus_ruficauda-ML128003.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmoderus_ruficauda-ML128003.wav	3	a

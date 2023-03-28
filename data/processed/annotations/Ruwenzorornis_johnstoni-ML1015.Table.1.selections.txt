@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.897823632	4.939864755	1108.0	1883.7	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	1	a
+2	Spectrogram 1	1	4.978402450	5.002926439	1135.7	1911.4	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	1	a
+3	Spectrogram 1	1	5.036792898	5.070659358	858.7	1606.7	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	1	a
+4	Spectrogram 1	1	5.082337448	5.118539526	997.2	1662.1	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	1	a
+5	Spectrogram 1	1	5.137224469	5.404652721	443.2	1135.7	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	1	b
+6	Spectrogram 1	1	7.812674799	7.852380303	1080.3	1828.3	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	2	a
+7	Spectrogram 1	1	7.885078954	7.915441987	1052.6	1634.4	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	2	a
+8	Spectrogram 1	1	7.944637211	7.969161199	1108.0	1662.1	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	2	a
+9	Spectrogram 1	1	8.006531086	8.033390692	969.5	1523.6	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	2	a
+10	Spectrogram 1	1	8.040397546	8.291476472	415.5	997.2	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	2	b
+11	Spectrogram 1	1	9.981708455	10.017910533	1191.1	1856.0	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	3	a
+12	Spectrogram 1	1	10.050609184	10.079804408	1080.3	1883.7	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	3	a
+13	Spectrogram 1	1	10.111335250	10.138194856	1108.0	1662.1	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	3	a
+14	Spectrogram 1	1	10.162718844	10.187242832	1052.6	1551.3	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	3	a
+15	Spectrogram 1	1	10.203592158	10.502551252	415.5	969.5	Ruwenzorornis_johnstoni-ML1015.wav	E:\Andean\Musophagidae\Ruwenzorornis_johnstoni-ML1015.wav	3	b

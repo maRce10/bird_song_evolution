@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	102.347883665	102.440369416	940.5	3344.1	Gallinago_gallinago-ML235469.wav	D:\Andean\Scolopacidae\Gallinago_gallinago-ML235469.wav	1	a
+2	Spectrogram 1	1	102.585704168	102.691402169	940.5	3344.1	Gallinago_gallinago-ML235469.wav	D:\Andean\Scolopacidae\Gallinago_gallinago-ML235469.wav	2	a
+3	Spectrogram 1	1	102.836736921	102.935828797	888.3	3527.0	Gallinago_gallinago-ML235469.wav	D:\Andean\Scolopacidae\Gallinago_gallinago-ML235469.wav	3	a

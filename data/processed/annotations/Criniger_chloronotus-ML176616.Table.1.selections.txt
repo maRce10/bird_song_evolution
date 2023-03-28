@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.129221720	7.100322107	1440.5	1828.3	Criniger_chloronotus-ML176616.wav	D:\Andean\Pycnonotidae\Criniger_chloronotus-ML176616.wav	1	a
+2	Spectrogram 1	1	7.146564983	7.945906118	1856.0	2437.7	Criniger_chloronotus-ML176616.wav	D:\Andean\Pycnonotidae\Criniger_chloronotus-ML176616.wav	1	b
+3	Spectrogram 1	1	13.749029462	14.693705349	1468.2	1828.3	Criniger_chloronotus-ML176616.wav	D:\Andean\Pycnonotidae\Criniger_chloronotus-ML176616.wav	2	a
+4	Spectrogram 1	1	14.872070726	15.658199611	1911.4	2382.3	Criniger_chloronotus-ML176616.wav	D:\Andean\Pycnonotidae\Criniger_chloronotus-ML176616.wav	2	b
+5	Spectrogram 1	1	22.400612526	23.318863912	1440.5	1856.0	Criniger_chloronotus-ML176616.wav	D:\Andean\Pycnonotidae\Criniger_chloronotus-ML176616.wav	3	a
+6	Spectrogram 1	1	23.431168039	24.197478548	1856.0	2465.4	Criniger_chloronotus-ML176616.wav	D:\Andean\Pycnonotidae\Criniger_chloronotus-ML176616.wav	3	b

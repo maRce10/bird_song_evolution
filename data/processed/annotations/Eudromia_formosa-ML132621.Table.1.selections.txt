@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.605325304	26.007051587	1412.8	2354.6	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	1	a
+2	Spectrogram 1	1	26.000044733	26.042085856	2382.3	3074.8	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	1	b
+3	Spectrogram 1	1	26.313017535	26.537236855	1329.6	2520.8	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	1	c
+4	Spectrogram 1	1	26.530230001	26.609641011	2603.9	2991.7	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	1	d
+5	Spectrogram 1	1	28.402812803	28.723209869	1357.3	1634.4	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	2	e
+6	Spectrogram 1	1	28.736422120	28.789271120	1329.6	2133.0	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	2	f
+7	Spectrogram 1	1	28.782664995	28.825604808	2437.7	2880.9	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	2	g
+8	Spectrogram 1	1	29.104870319	29.250205071	1301.9	1662.1	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	2	h
+9	Spectrogram 1	1	29.266720383	29.334433165	1385.1	2659.3	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	2	i
+10	Spectrogram 1	1	31.308378604	31.529683795	1385.1	1634.4	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	3	j
+11	Spectrogram 1	1	31.539592982	31.666760890	1440.5	2548.5	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	3	k
+12	Spectrogram 1	1	31.982203363	32.186993241	1385.1	2659.3	Eudromia_formosa-ML132621.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Eudromia_formosa-ML132621.wav	3	l

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.605345206	2.863403630	1087.7	1903.4	Accipiter_melanoleucus-ML176720351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_melanoleucus-ML176720351.wav	1	a
+2	Spectrogram 1	1	6.108992808	7.355214661	1137.1	1928.1	Accipiter_melanoleucus-ML176720351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_melanoleucus-ML176720351.wav	2	a
+3	Spectrogram 1	1	8.364834216	9.638111088	1137.1	1977.6	Accipiter_melanoleucus-ML176720351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_melanoleucus-ML176720351.wav	3	a

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.763049129	18.860545618	2562.4	3012.7	Pyrrhula_owstoni-ML12996.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_owstoni-ML12996.wav	1	a
+2	Spectrogram 1	1	18.958042107	19.203033284	2205.2	2671.1	Pyrrhula_owstoni-ML12996.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_owstoni-ML12996.wav	1	b
+3	Spectrogram 1	1	20.272994750	20.375491059	2562.4	2997.2	Pyrrhula_owstoni-ML12996.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_owstoni-ML12996.wav	2	a
+4	Spectrogram 1	1	20.485487098	20.730478275	2189.7	2717.7	Pyrrhula_owstoni-ML12996.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_owstoni-ML12996.wav	2	b
+5	Spectrogram 1	1	21.947312466	22.039809135	2569.9	2966.6	Pyrrhula_owstoni-ML12996.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_owstoni-ML12996.wav	3	a
+6	Spectrogram 1	1	22.142305444	22.382296801	2173.2	2673.4	Pyrrhula_owstoni-ML12996.wav	E:\Escritorio\Cantos\Fringillidae\Pyrrhula_owstoni-ML12996.wav	3	b

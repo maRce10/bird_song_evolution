@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.579752266	14.648132898	1828.8	6531.4	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	1	a
+2	Spectrogram 1	1	14.785997075	14.829010698	2037.8	6635.9	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	1	b
+3	Spectrogram 1	1	14.931581646	14.973492356	1515.3	6531.4	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	1	c
+4	Spectrogram 1	1	15.048490468	15.097018658	1776.5	6426.9	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	1	d
+5	Spectrogram 1	1	16.069970889	16.144969001	1933.3	6635.9	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	2	a
+6	Spectrogram 1	1	16.260774910	16.309303100	1828.8	6583.6	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	2	b
+7	Spectrogram 1	1	16.405256567	16.449373104	1933.3	6531.4	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	2	c
+8	Spectrogram 1	1	16.521062476	16.567384840	1724.3	6374.6	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	2	d
+9	Spectrogram 1	1	17.812516476	17.888617502	1776.5	6635.9	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	3	a
+10	Spectrogram 1	1	18.007732151	18.062877821	2142.3	6897.2	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	3	b
+11	Spectrogram 1	1	18.165448769	18.212874046	1881.0	6583.6	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	3	e
+12	Spectrogram 1	1	18.294489639	18.338606175	1672.0	6635.9	Todirostrum_poliocephalum-ML61348.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_poliocephalum-ML61348.wav	3	d

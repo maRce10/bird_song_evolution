@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.028781642	18.253389895	1410.8	3448.6	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	1	a
+2	Spectrogram 1	1	19.032912655	19.260823970	1489.2	4049.5	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	1	b
+3	Spectrogram 1	1	19.852072165	20.142741669	1384.7	4284.6	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	1	c
+4	Spectrogram 1	1	20.714171488	20.991628742	1436.9	4702.6	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	1	d
+5	Spectrogram 1	1	21.506906498	21.797576002	1645.9	4990.0	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	1	e
+6	Spectrogram 1	1	22.289203598	22.619509852	1672.0	5172.9	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	1	f
+7	Spectrogram 1	1	31.483942375	31.731672066	1489.2	2821.6	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	2	g
+8	Spectrogram 1	1	32.679651015	32.937289894	2011.7	3657.6	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	2	h
+9	Spectrogram 1	1	36.033045226	36.254350417	1724.3	3370.2	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	3	a
+10	Spectrogram 1	1	37.040479302	37.291512055	1881.0	3918.8	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	3	b
+11	Spectrogram 1	1	37.895972500	38.163520566	1463.0	4127.8	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	3	c
+12	Spectrogram 1	1	38.662283888	38.943044204	1567.5	4676.5	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	3	d
+13	Spectrogram 1	1	39.494655649	39.795234340	1828.8	5068.4	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	3	e
+14	Spectrogram 1	1	40.416210098	40.706879601	1933.3	6113.4	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	3	i
+15	Spectrogram 1	1	41.238672671	41.542554424	1645.9	4990.0	Tolmomyias_traylori-ML74345671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_traylori-ML74345671.wav	3	j

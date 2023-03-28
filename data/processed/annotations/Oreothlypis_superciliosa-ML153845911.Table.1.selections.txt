@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	80.810202239	81.417965747	1911.7	9087.1	Oreothlypis_superciliosa-ML153845911.wav	D:\Andean\Parulidae\Oreothlypis_superciliosa-ML153845911.wav	1	a
+2	Spectrogram 1	1	84.390722034	84.905999791	1990.3	9401.4	Oreothlypis_superciliosa-ML153845911.wav	D:\Andean\Parulidae\Oreothlypis_superciliosa-ML153845911.wav	2	a
+3	Spectrogram 1	1	87.819300952	88.367609334	1964.1	9191.9	Oreothlypis_superciliosa-ML153845911.wav	D:\Andean\Parulidae\Oreothlypis_superciliosa-ML153845911.wav	3	a

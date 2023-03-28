@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.726406472	12.968209030	822.7	3545.3	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	1	a
+2	Spectrogram 1	1	13.138250828	13.361333187	861.9	3741.2	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	1	a
+3	Spectrogram 1	1	13.732617561	13.980660184	881.4	3839.2	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	1	a
+4	Spectrogram 1	1	20.719646755	20.977049478	842.3	3427.8	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	2	a
+5	Spectrogram 1	1	21.176731589	21.413854097	881.4	3564.9	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	2	a
+6	Spectrogram 1	1	26.355582119	26.611424825	822.7	3231.9	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	3	a
+7	Spectrogram 1	1	26.784586656	27.004548983	744.3	3467.0	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	3	a
+8	Spectrogram 1	1	27.313432249	27.555234807	822.7	3506.2	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	3	a
+9	Spectrogram 1	1	28.028077838	28.274560445	803.1	3506.2	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	3	a
+10	Spectrogram 1	1	38.224379377	38.475542034	842.3	3427.8	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	4	a
+11	Spectrogram 1	1	38.651823898	38.870226208	803.1	3584.5	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	4	a
+12	Spectrogram 1	1	39.132308980	39.367871471	881.4	3917.5	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	4	a
+13	Spectrogram 1	1	54.046538225	54.293020832	901.0	3506.2	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	5	a
+14	Spectrogram 1	1	54.455262548	54.675224874	842.3	3545.3	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	5	a
+15	Spectrogram 1	1	54.974748042	55.210310533	842.3	3525.8	Chiroxiphia_caudata-ML22090.wav	C:\Users\pfmar\Downloads\Pipridae\Chiroxiphia_caudata-ML22090.wav	5	a

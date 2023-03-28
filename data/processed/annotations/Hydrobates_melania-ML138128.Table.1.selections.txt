@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	80.517086750	80.760399034	1036.9	4954.0	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	1	a
+2	Spectrogram 1	1	80.827851944	81.059119065	1190.5	5184.4	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	1	b
+3	Spectrogram 1	1	81.232569406	81.589106218	806.5	5030.8	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	1	c
+4	Spectrogram 1	1	81.762556559	81.827600437	1689.7	4608.4	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	1	d
+5	Spectrogram 1	1	81.834827534	81.890235282	1459.3	4685.2	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	1	d
+6	Spectrogram 1	1	81.897462379	81.940824965	1612.9	4570.0	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	1	d
+7	Spectrogram 1	1	81.964915290	82.263635321	1728.1	4954.0	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	1	c
+8	Spectrogram 1	1	88.768413668	89.006907887	1689.7	4915.6	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	2	c
+9	Spectrogram 1	1	89.175540163	89.370671796	1689.7	4608.4	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	2	d
+10	Spectrogram 1	1	89.397171154	89.688664088	1958.6	4838.8	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	2	c
+11	Spectrogram 1	1	104.342580394	104.756933986	1843.4	5952.5	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	3	a
+12	Spectrogram 1	1	104.831613994	105.113470798	1536.1	5568.5	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	3	b
+13	Spectrogram 1	1	105.368828244	105.631412788	2227.4	5222.8	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	3	c
+14	Spectrogram 1	1	105.756682478	106.252943176	1805.0	5107.6	Hydrobates_melania-ML138128.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hydrobatidae\Hydrobates_melania-ML138128.wav	3	c

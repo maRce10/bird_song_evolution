@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	82.140584938	82.398223817	470.9	2548.5	Nothocercus_nigrocapillus-ML110753.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothocercus_nigrocapillus-ML110753.wav	1	a
+2	Spectrogram 1	1	84.399879717	84.670730845	415.5	2520.8	Nothocercus_nigrocapillus-ML110753.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothocercus_nigrocapillus-ML110753.wav	2	a
+3	Spectrogram 1	1	86.639356120	86.930025624	415.5	2493.1	Nothocercus_nigrocapillus-ML110753.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothocercus_nigrocapillus-ML110753.wav	3	a

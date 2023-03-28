@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.825095620	18.876479214	602.3	1937.9	Phoeniculus_somaliensis-ML100276.wav	D:\Andean\Phoeniculidae\Phoeniculus_somaliensis-ML100276.wav	1	a
+2	Spectrogram 1	1	19.201130105	19.243171228	628.5	1964.1	Phoeniculus_somaliensis-ML100276.wav	D:\Andean\Phoeniculidae\Phoeniculus_somaliensis-ML100276.wav	2	a
+3	Spectrogram 1	1	19.542130322	19.595849534	707.1	1964.1	Phoeniculus_somaliensis-ML100276.wav	D:\Andean\Phoeniculidae\Phoeniculus_somaliensis-ML100276.wav	3	a

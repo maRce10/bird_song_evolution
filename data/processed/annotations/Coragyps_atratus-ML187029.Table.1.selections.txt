@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	138.102831398	138.186098602	173.0	741.6	Coragyps_atratus-ML187029.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Coragyps_atratus-ML187029.wav	1	a
+2	Spectrogram 1	1	138.209129956	138.294168803	741.6	7094.6	Coragyps_atratus-ML187029.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Coragyps_atratus-ML187029.wav	1	b
+3	Spectrogram 1	1	145.284688389	145.360869022	197.8	815.8	Coragyps_atratus-ML187029.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Coragyps_atratus-ML187029.wav	2	a
+4	Spectrogram 1	1	145.380357091	145.460081010	568.6	5586.7	Coragyps_atratus-ML187029.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Coragyps_atratus-ML187029.wav	2	b
+5	Spectrogram 1	1	147.245758902	147.339655962	197.8	791.0	Coragyps_atratus-ML187029.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Coragyps_atratus-ML187029.wav	3	a
+6	Spectrogram 1	1	147.376860457	147.481387373	889.9	6328.3	Coragyps_atratus-ML187029.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Coragyps_atratus-ML187029.wav	3	b

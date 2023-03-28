@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	95.037309716	95.263864654	1201.8	6270.1	Turdus_nigrescens-ML165069.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_nigrescens-ML165069.wav	1	a
+2	Spectrogram 1	1	95.338604428	95.568662793	1201.8	7680.9	Turdus_nigrescens-ML165069.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_nigrescens-ML165069.wav	1	b
+3	Spectrogram 1	1	95.573334029	95.751425253	1463.0	9039.5	Turdus_nigrescens-ML165069.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_nigrescens-ML165069.wav	1	c
+4	Spectrogram 1	1	96.254166275	96.486560258	1149.5	7053.9	Turdus_nigrescens-ML165069.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_nigrescens-ML165069.wav	2	d
+5	Spectrogram 1	1	96.552542200	96.803036487	1201.8	7733.2	Turdus_nigrescens-ML165069.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_nigrescens-ML165069.wav	2	b
+6	Spectrogram 1	1	96.807707723	96.981711258	1358.5	8621.4	Turdus_nigrescens-ML165069.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_nigrescens-ML165069.wav	2	c
+7	Spectrogram 1	1	97.645611388	97.918878685	1567.5	9457.5	Turdus_nigrescens-ML165069.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_nigrescens-ML165069.wav	3	e

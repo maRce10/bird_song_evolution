@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	11.295106949	11.560262442	2227.4	3456.3	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	1	a
+2	Spectrogram 1	1	11.765316024	12.030471518	2108.4	3417.9	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	1	a
+3	Spectrogram 1	1	12.249666726	12.490074373	2073.8	3264.3	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	1	a
+4	Spectrogram 1	1	12.734017428	12.967354262	2150.6	3341.1	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	1	a
+5	Spectrogram 1	1	18.257092205	18.501035259	2342.6	3285.8	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	2	a
+6	Spectrogram 1	1	18.723765874	18.957102708	2304.2	3258.6	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	2	a
+7	Spectrogram 1	1	19.172762510	19.409634751	2227.4	3340.1	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	2	a
+8	Spectrogram 1	1	23.674234477	23.882823465	2308.2	3533.1	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	3	a
+9	Spectrogram 1	1	24.094947860	24.278789002	2265.8	3456.3	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	3	a
+10	Spectrogram 1	1	24.494448804	24.681825353	2227.4	3494.7	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	3	a
+11	Spectrogram 1	1	24.936374627	25.134357395	2281.0	3456.3	Campylorhamphus_falcularius-ML30142.wav	E:\Escritorio\Cantos\Furnariidae\Campylorhamphus_falcularius-ML30142.wav	3	a

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.723594707	1.172304274	166.2	747.9	Bubo_cinerascens-ML282217531.wav	D:\Andean\Strigidae\Bubo_cinerascens-ML282217531.wav	1	a
+2	Spectrogram 1	1	2.294229658	2.690387654	138.5	526.3	Bubo_cinerascens-ML282217531.wav	D:\Andean\Strigidae\Bubo_cinerascens-ML282217531.wav	2	a
+3	Spectrogram 1	1	9.399186771	9.678114340	166.2	637.1	Bubo_cinerascens-ML282217531.wav	D:\Andean\Strigidae\Bubo_cinerascens-ML282217531.wav	3	a

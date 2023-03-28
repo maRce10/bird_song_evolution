@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.115417598	5.168266598	1414.1	4582.8	Phaethon_aethereus-ML31549.wav	D:\Andean\Phaethontidae\Phaethon_aethereus-ML31549.wav	1	a
+2	Spectrogram 1	1	5.245888568	5.290479912	1492.7	4687.6	Phaethon_aethereus-ML31549.wav	D:\Andean\Phaethontidae\Phaethon_aethereus-ML31549.wav	2	a
+3	Spectrogram 1	1	5.374708007	5.419299352	1414.1	4451.9	Phaethon_aethereus-ML31549.wav	D:\Andean\Phaethontidae\Phaethon_aethereus-ML31549.wav	3	a

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.361938327	8.464465118	6742.400	7972.300	Cryptospiza_jacksoni-ML114189971.wav	C:\Users\User\Downloads\Cryptospiza_jacksoni-ML114189971.wav	1	a
+2	Spectrogram 1	1	8.934674193	9.221042126	6456.900	9092.300	Cryptospiza_jacksoni-ML114189971.wav	C:\Users\User\Downloads\Cryptospiza_jacksoni-ML114189971.wav	1	b
+3	Spectrogram 1	1	9.931035803	10.226569157	6348.556	8917.942	Cryptospiza_jacksoni-ML114189971.wav	C:\Users\User\Downloads\Cryptospiza_jacksoni-ML114189971.wav	1	b
+4	Spectrogram 1	1	15.871468124	15.955906225	6488.704	7586.533	Cryptospiza_jacksoni-ML114189971.wav	C:\Users\User\Downloads\Cryptospiza_jacksoni-ML114189971.wav	2	a
+5	Spectrogram 1	1	16.886560948	17.134368419	6395.272	8941.300	Cryptospiza_jacksoni-ML114189971.wav	C:\Users\User\Downloads\Cryptospiza_jacksoni-ML114189971.wav	2	b
+6	Spectrogram 1	1	20.615510284	20.701783997	6558.779	7679.965	Cryptospiza_jacksoni-ML114189971.wav	C:\Users\User\Downloads\Cryptospiza_jacksoni-ML114189971.wav	3	a
+7	Spectrogram 1	1	21.004335585	21.138681035	6566.700	7796.600	Cryptospiza_jacksoni-ML114189971.wav	C:\Users\User\Downloads\Cryptospiza_jacksoni-ML114189971.wav	3	c
+8	Spectrogram 1	1	21.262420266	21.495757100	6720.400	8719.000	Cryptospiza_jacksoni-ML114189971.wav	C:\Users\User\Downloads\Cryptospiza_jacksoni-ML114189971.wav	3	b

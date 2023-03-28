@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.213618628	1.289972118	3327.2	6880.1	Hyliota_usambara-ML280549.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hyliotidae\Hyliota_usambara-ML280549.wav	1	a
+2	Spectrogram 1	1	7.207204183	7.315706511	3101.7	6936.4	Hyliota_usambara-ML280549.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hyliotidae\Hyliota_usambara-ML280549.wav	2	a
+3	Spectrogram 1	1	18.391403790	18.495887513	3778.4	6767.3	Hyliota_usambara-ML280549.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hyliotidae\Hyliota_usambara-ML280549.wav	3	a

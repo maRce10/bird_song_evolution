@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.297177352	25.434143390	568.6	1804.5	Leptodon_cayanensis-ML58961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leptodon_cayanensis-ML58961.wav	1	a
+2	Spectrogram 1	1	25.522072204	25.665801997	543.8	1878.7	Leptodon_cayanensis-ML58961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leptodon_cayanensis-ML58961.wav	2	a
+3	Spectrogram 1	1	25.750348934	25.892387789	593.3	1854.0	Leptodon_cayanensis-ML58961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leptodon_cayanensis-ML58961.wav	3	a

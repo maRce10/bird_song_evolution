@@ -1,0 +1,29 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.456935853	5.600619074	2299.1	3631.5	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	1	a
+2	Spectrogram 1	1	5.602270605	5.714574731	2194.5	2821.6	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	1	b
+3	Spectrogram 1	1	5.732741575	5.813666607	2769.3	3788.2	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	1	c
+4	Spectrogram 1	1	5.826878858	5.892940108	2299.1	2769.3	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	1	d
+5	Spectrogram 1	1	5.902849296	5.950743703	2351.3	2664.8	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	1	e
+6	Spectrogram 1	1	6.152230518	6.267837707	2481.9	3474.7	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	1	f
+7	Spectrogram 1	1	6.287656082	6.365278052	2377.4	3108.9	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	1	g
+8	Spectrogram 1	1	6.375187240	6.446203084	1828.8	2481.9	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	1	h
+9	Spectrogram 1	1	6.442900022	6.487491366	2481.9	2978.3	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	1	i
+10	Spectrogram 1	1	6.497400554	6.541991898	2116.2	2978.3	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	1	j
+11	Spectrogram 1	1	12.178788913	12.263017008	2351.3	3500.8	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	2	k
+12	Spectrogram 1	1	12.276229258	12.319169071	2272.9	2638.7	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	2	l
+13	Spectrogram 1	1	12.342290509	12.438079323	2142.3	2821.6	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	2	m
+14	Spectrogram 1	1	12.470284183	12.620573528	2272.9	4101.7	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	2	n
+15	Spectrogram 1	1	12.962440698	13.049971856	2743.2	3631.5	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	2	o
+16	Spectrogram 1	1	13.096214731	13.274580109	1907.2	3657.6	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	2	p
+17	Spectrogram 1	1	13.294398484	13.484324580	2377.4	4206.2	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	2	q
+18	Spectrogram 1	1	13.725448145	14.026026837	2194.5	3187.3	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	2	r
+19	Spectrogram 1	1	14.055754400	14.173013120	2299.1	4336.8	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	2	s
+20	Spectrogram 1	1	19.710502684	19.743533309	3161.2	3579.2	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	3	t
+21	Spectrogram 1	1	19.751790966	19.890519592	2377.4	4023.3	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	3	u
+22	Spectrogram 1	1	19.910337968	20.126688564	1698.2	3108.9	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	3	v
+23	Spectrogram 1	1	20.138249283	20.167976846	2978.3	3657.6	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	3	w
+24	Spectrogram 1	1	20.176234502	20.234038097	1907.2	3291.8	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	3	x
+25	Spectrogram 1	1	20.501586163	20.569298945	3004.4	3605.3	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	3	
+26	Spectrogram 1	1	20.582511176	20.671693865	1907.2	3213.4	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	3	z
+27	Spectrogram 1	1	20.681603052	20.762528084	1645.9	2847.7	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	3	aa
+28	Spectrogram 1	1	20.774088803	21.002000119	2612.6	3918.8	Turdus_reevei-ML130410.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_reevei-ML130410.wav	3	ab

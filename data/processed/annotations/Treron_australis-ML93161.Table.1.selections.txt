@@ -1,0 +1,28 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.917363115	4.929693857	981.0	1684.7	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+2	Spectrogram 1	1	5.149051279	5.159435062	809.3	1651.7	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+3	Spectrogram 1	1	5.360620864	5.369706674	1090.1	1899.4	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+4	Spectrogram 1	1	5.538188242	5.551955323	1189.2	2361.9	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	
+5	Spectrogram 1	1	5.702475417	5.715333654	1255.3	2213.2	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+6	Spectrogram 1	1	5.819171487	5.828257297	911.0	1982.0	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+7	Spectrogram 1	1	5.935820723	5.952045384	1121.2	1962.1	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+8	Spectrogram 1	1	6.031870718	6.046148420	1097.8	2008.8	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+9	Spectrogram 1	1	6.120781863	6.135708551	1261.3	2102.2	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+10	Spectrogram 1	1	6.194766319	6.210341994	1191.3	2032.2	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+11	Spectrogram 1	1	6.265505842	6.276538612	1167.9	2102.2	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+12	Spectrogram 1	1	6.327953137	6.340932866	1167.9	2078.9	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+13	Spectrogram 1	1	6.390904823	6.401937593	1191.3	2032.2	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+14	Spectrogram 1	1	6.439854993	6.448664617	794.2	2064.6	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+15	Spectrogram 1	1	6.490199751	6.498636574	1024.0	2064.6	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+16	Spectrogram 1	1	6.545363599	6.556396369	1214.6	2102.2	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+17	Spectrogram 1	1	6.588845692	6.601176434	1284.7	2078.9	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+18	Spectrogram 1	1	6.631029811	6.644009541	1238.0	2102.2	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+19	Spectrogram 1	1	6.664079814	6.675112583	1331.4	2163.7	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+20	Spectrogram 1	1	6.695231163	6.705614947	1354.8	2289.1	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+21	Spectrogram 1	1	6.714051771	6.722488595	1261.3	2172.3	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	a
+22	Spectrogram 1	1	6.966026732	8.058919923	794.2	1775.2	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	b
+23	Spectrogram 1	1	8.212080727	8.713098271	1191.3	1775.2	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	c
+24	Spectrogram 1	1	8.951925286	9.572356338	630.7	1635.1	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	d
+25	Spectrogram 1	1	10.005453243	10.150826209	957.7	1681.8	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	e
+26	Spectrogram 1	1	10.153422155	10.638864024	770.8	1892.0	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	f
+27	Spectrogram 1	1	11.165125485	11.967272744	677.4	1424.8	Treron_australis-ML93161.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_australis-ML93161.wav	1	g

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	34.986189477	35.031952077	2197.0	3866.9	Melamprosops_phaeosoma-ML5125.wav	E:\Escritorio\Cantos\Fringillidae\Melamprosops_phaeosoma-ML5125.wav	1	a
+2	Spectrogram 1	1	38.185088741	38.227587211	2303.3	3862.5	Melamprosops_phaeosoma-ML5125.wav	E:\Escritorio\Cantos\Fringillidae\Melamprosops_phaeosoma-ML5125.wav	2	a
+3	Spectrogram 1	1	40.348402304	40.398400503	1860.4	3206.9	Melamprosops_phaeosoma-ML5125.wav	E:\Escritorio\Cantos\Fringillidae\Melamprosops_phaeosoma-ML5125.wav	3	a

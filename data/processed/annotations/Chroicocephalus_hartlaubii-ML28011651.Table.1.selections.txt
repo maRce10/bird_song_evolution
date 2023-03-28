@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	18.976837442	19.334781566	1401.5	2709.5	Chroicocephalus_hartlaubii-ML28011651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_hartlaubii-ML28011651.wav	1	a
+2	Spectrogram 1	1	19.555054874	19.955218049	1191.3	2569.4	Chroicocephalus_hartlaubii-ML28011651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_hartlaubii-ML28011651.wav	2	a
+3	Spectrogram 1	1	21.710109868	22.126793541	1074.5	2382.5	Chroicocephalus_hartlaubii-ML28011651.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_hartlaubii-ML28011651.wav	3	a

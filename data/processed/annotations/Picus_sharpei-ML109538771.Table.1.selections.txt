@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.275756472	5.308455123	1634.4	2936.3	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	1	a
+2	Spectrogram 1	1	5.420564784	5.453263435	1634.4	2964.0	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	1	a
+3	Spectrogram 1	1	5.567708713	5.612085453	1579.0	2880.9	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	1	a
+4	Spectrogram 1	1	5.759229382	5.791928033	1745.2	2908.6	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	1	a
+5	Spectrogram 1	1	12.891372707	12.929910403	1856.0	3157.9	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+6	Spectrogram 1	1	12.997265175	13.048462644	1772.9	2964.0	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+7	Spectrogram 1	1	13.099660114	13.157463708	1772.9	3102.5	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+8	Spectrogram 1	1	13.197100459	13.249949459	1745.2	3074.8	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+9	Spectrogram 1	1	13.306101522	13.350692867	1800.6	3102.5	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+10	Spectrogram 1	1	13.418405649	13.462996993	1689.8	3074.8	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+11	Spectrogram 1	1	13.514194463	13.562088869	1994.5	3074.8	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+12	Spectrogram 1	1	13.619892464	13.662832277	1606.7	3074.8	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+13	Spectrogram 1	1	13.718984340	13.765227216	1745.2	3102.5	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+14	Spectrogram 1	1	13.823030810	13.870925217	1745.2	3130.2	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+15	Spectrogram 1	1	13.932031874	13.978274750	1772.9	3130.2	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+16	Spectrogram 1	1	14.032775282	14.080669688	1800.6	3213.3	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+17	Spectrogram 1	1	14.138473283	14.181413096	1800.6	3213.3	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+18	Spectrogram 1	1	14.242519753	14.285459566	1772.9	3157.9	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+19	Spectrogram 1	1	14.343263160	14.392809099	1772.9	3241.0	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+20	Spectrogram 1	1	14.455567287	14.505113225	1800.6	3157.9	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	2	a
+21	Spectrogram 1	1	15.626502958	15.689261146	1606.7	3185.6	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	3	a
+22	Spectrogram 1	1	15.732200959	15.794959147	1800.6	3102.5	Picus_sharpei-ML109538771.wav	D:\Andean\Picidae\Picus_sharpei-ML109538771.wav	3	a

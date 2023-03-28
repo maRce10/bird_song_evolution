@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.696950225	0.986922217	3251.4	5874.6	Zosterops_erythropleurus-ML54380491.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_erythropleurus-ML54380491.wav	1	a
+2	Spectrogram 1	1	1.215847474	1.460034414	3187.3	4598.1	Zosterops_erythropleurus-ML54380491.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_erythropleurus-ML54380491.wav	1	b
+3	Spectrogram 1	1	1.788160615	2.007245056	3103.6	5852.1	Zosterops_erythropleurus-ML54380491.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_erythropleurus-ML54380491.wav	2	c
+4	Spectrogram 1	1	2.016238089	2.197897364	3103.6	6539.6	Zosterops_erythropleurus-ML54380491.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_erythropleurus-ML54380491.wav	2	d
+5	Spectrogram 1	1	2.343584480	2.532438182	3399.1	5763.8	Zosterops_erythropleurus-ML54380491.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_erythropleurus-ML54380491.wav	3	e
+6	Spectrogram 1	1	2.604382449	2.706903030	2992.7	4877.0	Zosterops_erythropleurus-ML54380491.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_erythropleurus-ML54380491.wav	3	f

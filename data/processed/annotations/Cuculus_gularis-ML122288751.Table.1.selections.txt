@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.022800458	12.176590644	360.900	656.200	Cuculus_gularis-ML122288751.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_gularis-ML122288751.wav	1	a
+2	Spectrogram 1	1	12.379876522	12.571878000	360.900	672.700	Cuculus_gularis-ML122288751.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_gularis-ML122288751.wav	1	b
+3	Spectrogram 1	1	13.388676054	13.550316081	360.900	657.500	Cuculus_gularis-ML122288751.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_gularis-ML122288751.wav	2	a
+4	Spectrogram 1	1	13.763429151	13.956887838	360.900	670.100	Cuculus_gularis-ML122288751.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_gularis-ML122288751.wav	2	b
+5	Spectrogram 1	1	15.138202910	15.293760799	360.900	657.500	Cuculus_gularis-ML122288751.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_gularis-ML122288751.wav	3	a
+6	Spectrogram 1	1	15.491532179	15.686190930	360.900	657.500	Cuculus_gularis-ML122288751.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Cuculus_gularis-ML122288751.wav	3	b

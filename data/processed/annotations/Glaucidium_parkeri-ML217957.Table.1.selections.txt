@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.498687199	1.678705285	1018.9	1384.7	Glaucidium_parkeri-ML217957.wav	D:\Andean\Strigidae\Glaucidium_parkeri-ML217957.wav	1	a
+2	Spectrogram 1	1	1.998737437	2.178755523	992.8	1463.0	Glaucidium_parkeri-ML217957.wav	D:\Andean\Strigidae\Glaucidium_parkeri-ML217957.wav	1	a
+3	Spectrogram 1	1	2.525457021	2.752146462	992.8	1384.7	Glaucidium_parkeri-ML217957.wav	D:\Andean\Strigidae\Glaucidium_parkeri-ML217957.wav	1	a
+4	Spectrogram 1	1	11.251537251	11.424888000	966.6	1332.4	Glaucidium_parkeri-ML217957.wav	D:\Andean\Strigidae\Glaucidium_parkeri-ML217957.wav	2	a
+5	Spectrogram 1	1	11.724918143	11.918270902	1018.9	1436.9	Glaucidium_parkeri-ML217957.wav	D:\Andean\Strigidae\Glaucidium_parkeri-ML217957.wav	2	a
+6	Spectrogram 1	1	12.231635717	12.451657822	1018.9	1410.8	Glaucidium_parkeri-ML217957.wav	D:\Andean\Strigidae\Glaucidium_parkeri-ML217957.wav	2	a
+7	Spectrogram 1	1	15.545301961	15.738654719	992.8	1384.7	Glaucidium_parkeri-ML217957.wav	D:\Andean\Strigidae\Glaucidium_parkeri-ML217957.wav	3	a
+8	Spectrogram 1	1	16.018682853	16.185366265	992.8	1436.9	Glaucidium_parkeri-ML217957.wav	D:\Andean\Strigidae\Glaucidium_parkeri-ML217957.wav	3	a
+9	Spectrogram 1	1	16.552069773	16.718753186	992.8	1410.8	Glaucidium_parkeri-ML217957.wav	D:\Andean\Strigidae\Glaucidium_parkeri-ML217957.wav	3	a

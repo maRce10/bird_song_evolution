@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	58.700348112	58.965338569	1164.7	1785.9	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	1	a
+2	Spectrogram 1	1	59.126582762	59.347824794	1027.5	2017.1	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	1	b
+3	Spectrogram 1	1	59.505319122	59.712811649	971.0	1980.8	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	1	b
+4	Spectrogram 1	1	59.872805887	60.077798505	996.6	1998.9	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	1	b
+5	Spectrogram 1	1	60.236542788	60.430285810	846.4	1879.1	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	1	b
+6	Spectrogram 1	1	64.954610710	65.212101437	890.4	1799.0	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	2	a
+7	Spectrogram 1	1	65.374595585	65.587087933	1017.6	2035.3	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	2	b
+8	Spectrogram 1	1	65.754581900	65.962074428	926.8	1998.9	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	2	b
+9	Spectrogram 1	1	66.127068486	66.327061283	908.6	1962.6	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	2	b
+10	Spectrogram 1	1	66.512053706	66.699546954	781.4	1799.0	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	2	b
+11	Spectrogram 1	1	78.656965162	78.929455349	854.1	1708.2	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	3	a
+12	Spectrogram 1	1	79.089449587	79.301941934	963.1	2035.3	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	3	b
+13	Spectrogram 1	1	79.464436082	79.686928069	926.8	1962.6	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	3	b
+14	Spectrogram 1	1	79.829422937	80.044415195	908.6	1944.4	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	3	b
+15	Spectrogram 1	1	80.186910063	80.394402590	854.1	1908.1	Coua_coquereli-ML95476.wav	E:\Escritorio\Cantos\Cuculidae\Coua_coquereli-ML95476.wav	3	b

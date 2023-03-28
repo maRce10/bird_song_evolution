@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.617431605	2.713220419	1293.2	3251.4	Xolmis_velatus-ML69262581.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Xolmis_velatus-ML69262581.wav	1	a
+2	Spectrogram 1	1	12.000074063	12.127241971	1219.3	4064.2	Xolmis_velatus-ML69262581.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Xolmis_velatus-ML69262581.wav	2	b

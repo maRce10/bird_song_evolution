@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	53.421353473	53.468065832	916.6	3535.3	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	1	a
+2	Spectrogram 1	1	53.482079539	53.519449426	890.4	3535.3	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	1	a
+3	Spectrogram 1	1	53.545141223	53.596524817	785.6	3509.1	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	1	a
+4	Spectrogram 1	1	53.612874143	53.650244030	838.0	3273.5	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	1	a
+5	Spectrogram 1	1	53.668928973	53.715641331	811.8	3325.8	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	1	a
+6	Spectrogram 1	1	53.736661893	53.774031779	838.0	3247.3	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	1	a
+7	Spectrogram 1	1	53.806730430	53.846435935	864.2	3221.1	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	1	a
+8	Spectrogram 1	1	53.876798968	53.914168855	785.6	3194.9	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	1	a
+9	Spectrogram 1	1	55.680620980	55.724997721	811.8	3535.3	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	2	a
+10	Spectrogram 1	1	55.743682664	55.788059405	733.3	3483.0	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	2	a
+11	Spectrogram 1	1	55.811415584	55.848785471	707.1	3325.8	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	2	a
+12	Spectrogram 1	1	55.876812886	55.909511537	838.0	3273.5	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	2	a
+13	Spectrogram 1	1	55.942210188	55.981915692	785.6	3221.1	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	2	a
+14	Spectrogram 1	1	56.007607490	56.054319848	864.2	3221.1	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	2	a
+15	Spectrogram 1	1	56.084682881	56.124388386	864.2	3273.5	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	2	a
+16	Spectrogram 1	1	56.159422654	56.199128159	890.4	3116.3	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	2	a
+17	Spectrogram 1	1	58.640392528	58.687104886	838.0	3535.3	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	3	a
+18	Spectrogram 1	1	58.705789830	58.740824099	838.0	3640.1	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	3	a
+19	Spectrogram 1	1	58.759509042	58.801550165	628.5	3483.0	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	3	a
+20	Spectrogram 1	1	58.822570726	58.862276231	785.6	3352.0	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	3	a
+21	Spectrogram 1	1	58.885632410	58.920666679	811.8	3325.8	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	3	a
+22	Spectrogram 1	1	58.946358476	58.981392745	759.4	3221.1	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	3	a
+23	Spectrogram 1	1	59.014091395	59.053796900	811.8	3221.1	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	3	a
+24	Spectrogram 1	1	59.091166787	59.130872292	890.4	3116.3	Colaptes_rivolii-ML21855.wav	D:\Andean\Picidae\Colaptes_rivolii-ML21855.wav	3	a

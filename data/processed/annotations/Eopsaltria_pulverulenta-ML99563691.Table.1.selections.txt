@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	30.357035353	31.341347991	1246.5	1745.2	Eopsaltria_pulverulenta-ML99563691.wav	D:\Andean\Petroicidae\Eopsaltria_pulverulenta-ML99563691.wav	1	a
+2	Spectrogram 1	1	36.044909050	37.115101313	1274.2	1689.8	Eopsaltria_pulverulenta-ML99563691.wav	D:\Andean\Petroicidae\Eopsaltria_pulverulenta-ML99563691.wav	2	a
+3	Spectrogram 1	1	41.303384616	42.386789130	1274.2	1717.5	Eopsaltria_pulverulenta-ML99563691.wav	D:\Andean\Petroicidae\Eopsaltria_pulverulenta-ML99563691.wav	3	a

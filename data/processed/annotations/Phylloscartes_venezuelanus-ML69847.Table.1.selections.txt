@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	25.458461123	25.491159774	940.5	8464.7	Phylloscartes_venezuelanus-ML69847.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_venezuelanus-ML69847.wav	1	a
+2	Spectrogram 1	1	25.509844717	25.551157185	1018.9	8412.4	Phylloscartes_venezuelanus-ML69847.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_venezuelanus-ML69847.wav	1	a
+3	Spectrogram 1	1	32.978201877	33.015571763	1567.5	8569.2	Phylloscartes_venezuelanus-ML69847.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_venezuelanus-ML69847.wav	2	b
+4	Spectrogram 1	1	33.029585471	33.052941650	1881.0	7524.2	Phylloscartes_venezuelanus-ML69847.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_venezuelanus-ML69847.wav	2	c
+5	Spectrogram 1	1	33.097318391	33.134688277	5381.9	6897.2	Phylloscartes_venezuelanus-ML69847.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_venezuelanus-ML69847.wav	2	d
+6	Spectrogram 1	1	34.356216451	34.381908248	1436.9	7968.3	Phylloscartes_venezuelanus-ML69847.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_venezuelanus-ML69847.wav	3	e
+7	Spectrogram 1	1	34.405264427	34.426284988	2377.4	6897.2	Phylloscartes_venezuelanus-ML69847.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_venezuelanus-ML69847.wav	3	f

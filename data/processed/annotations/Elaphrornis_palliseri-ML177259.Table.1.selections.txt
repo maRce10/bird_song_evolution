@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.296600005	13.335147833	2686.2	9086.3	Elaphrornis_palliseri-ML177259.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Elaphrornis_palliseri-ML177259.wav	1	a
+2	Spectrogram 1	1	26.602675113	26.644894164	1821.9	9133.0	Elaphrornis_palliseri-ML177259.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Elaphrornis_palliseri-ML177259.wav	1	a
+3	Spectrogram 1	1	36.538853332	36.586579216	1751.9	8969.5	Elaphrornis_palliseri-ML177259.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Elaphrornis_palliseri-ML177259.wav	3	a

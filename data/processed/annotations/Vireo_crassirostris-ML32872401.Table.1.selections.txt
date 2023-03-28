@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	30.629223969	30.720313068	2115.5	5876.3	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	1	a
+2	Spectrogram 1	1	30.855778908	30.967888568	861.9	6111.3	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	1	b
+3	Spectrogram 1	1	31.009929691	31.103354407	822.7	6424.7	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	1	c
+4	Spectrogram 1	1	31.173422945	31.603176643	1057.7	3486.6	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	1	d
+5	Spectrogram 1	1	31.656895855	31.687258888	3604.1	7051.5	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	1	e
+6	Spectrogram 1	1	31.794697312	31.860094614	783.5	2468.0	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	1	f
+7	Spectrogram 1	1	34.851379898	34.930790907	2037.1	5797.9	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	2	a
+8	Spectrogram 1	1	35.080270454	35.185373260	979.4	5954.6	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	2	b
+9	Spectrogram 1	1	35.222743147	35.318503482	940.2	6385.5	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	2	c
+10	Spectrogram 1	1	35.388572020	35.848688750	1057.7	3682.5	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	2	d
+11	Spectrogram 1	1	35.897736727	35.930435378	3682.5	6934.0	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	2	e
+12	Spectrogram 1	1	36.021524476	36.093928632	979.4	2311.3	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	2	f
+13	Spectrogram 1	1	38.870702799	38.943106955	2311.3	6424.7	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	3	a
+14	Spectrogram 1	1	39.099593355	39.195353690	940.2	6111.3	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	3	b
+15	Spectrogram 1	1	39.239730431	39.321477058	822.7	6307.2	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	3	c
+16	Spectrogram 1	1	39.409062730	39.857501371	940.2	3995.9	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	3	d
+17	Spectrogram 1	1	39.899542494	39.941583616	3682.5	6934.0	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	3	e
+18	Spectrogram 1	1	40.030337097	40.116754960	861.9	2507.2	Vireo_crassirostris-ML32872401.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_crassirostris-ML32872401.wav	3	f

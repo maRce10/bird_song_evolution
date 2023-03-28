@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.459051231	1.589861274	1537.7	3133.4	Pterorhinus_perspicillatus-ML123300091.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_perspicillatus-ML123300091.wav	1	a
+2	Spectrogram 1	1	9.352595446	9.532901182	966.3	2767.2	Pterorhinus_perspicillatus-ML123300091.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_perspicillatus-ML123300091.wav	2	a
+3	Spectrogram 1	1	11.760207329	11.901623592	1186.0	2942.9	Pterorhinus_perspicillatus-ML123300091.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_perspicillatus-ML123300091.wav	3	a

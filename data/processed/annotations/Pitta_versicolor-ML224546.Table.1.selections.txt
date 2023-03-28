@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.242983357	4.544278069	964.7	1846.7	Pitta_versicolor-ML224546.wav	D:\Andean\Pittidae\Pitta_versicolor-ML224546.wav	1	a
+2	Spectrogram 1	1	4.747476828	4.850244017	826.9	1874.2	Pitta_versicolor-ML224546.wav	D:\Andean\Pittidae\Pitta_versicolor-ML224546.wav	1	b
+3	Spectrogram 1	1	4.878271432	5.109497606	992.2	2012.1	Pitta_versicolor-ML224546.wav	D:\Andean\Pittidae\Pitta_versicolor-ML224546.wav	1	c
+4	Spectrogram 1	1	9.241715203	9.521989354	882.0	1901.8	Pitta_versicolor-ML224546.wav	D:\Andean\Pittidae\Pitta_versicolor-ML224546.wav	2	a
+5	Spectrogram 1	1	9.729859349	9.837297773	909.6	1819.1	Pitta_versicolor-ML224546.wav	D:\Andean\Pittidae\Pitta_versicolor-ML224546.wav	2	b
+6	Spectrogram 1	1	9.879338896	10.096551362	992.2	1901.8	Pitta_versicolor-ML224546.wav	D:\Andean\Pittidae\Pitta_versicolor-ML224546.wav	2	c
+7	Spectrogram 1	1	14.413500191	14.691438724	882.0	1846.7	Pitta_versicolor-ML224546.wav	D:\Andean\Pittidae\Pitta_versicolor-ML224546.wav	3	a
+8	Spectrogram 1	1	14.899308719	15.006747144	964.7	1929.4	Pitta_versicolor-ML224546.wav	D:\Andean\Pittidae\Pitta_versicolor-ML224546.wav	3	b
+9	Spectrogram 1	1	15.034774559	15.268336351	1047.4	1956.9	Pitta_versicolor-ML224546.wav	D:\Andean\Pittidae\Pitta_versicolor-ML224546.wav	3	c

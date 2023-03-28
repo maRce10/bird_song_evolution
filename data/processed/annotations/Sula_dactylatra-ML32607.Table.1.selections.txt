@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.664974480	6.739714254	138.5	6426.6	Sula_dactylatra-ML32607.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_dactylatra-ML32607.wav	1	a
+2	Spectrogram 1	1	7.758043668	7.832783441	138.5	6648.2	Sula_dactylatra-ML32607.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_dactylatra-ML32607.wav	2	a
+3	Spectrogram 1	1	8.911838921	8.977236223	332.4	6648.2	Sula_dactylatra-ML32607.wav	C:\Users\pfmar\Downloads\Andean\Sulidae\Sula_dactylatra-ML32607.wav	3	a

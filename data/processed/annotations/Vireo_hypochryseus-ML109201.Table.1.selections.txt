@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.295468177	9.375932399	1468.2	3604.1	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	1	a
+2	Spectrogram 1	1	9.425478337	9.511357963	1468.2	3573.4	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	1	b
+3	Spectrogram 1	1	9.570813089	9.699632528	1966.8	3490.3	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	1	c
+4	Spectrogram 1	1	9.768996842	9.920937718	2022.2	3518.0	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	1	d
+5	Spectrogram 1	1	9.977468610	10.133955011	1883.7	3656.5	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	1	e
+6	Spectrogram 1	1	10.188485784	10.343729724	1994.5	3684.2	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	1	f
+7	Spectrogram 1	1	10.420602317	10.462643439	4986.2	6731.3	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	1	g
+8	Spectrogram 1	1	18.835246037	18.909985810	1523.6	3545.7	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	2	a
+9	Spectrogram 1	1	18.975383112	19.043116032	1468.2	3518.0	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	2	b
+10	Spectrogram 1	1	19.106177716	19.227629848	1994.5	3545.7	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	2	c
+11	Spectrogram 1	1	19.302369621	19.444842314	2077.6	3545.7	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	2	d
+12	Spectrogram 1	1	19.519582088	19.671397253	1994.5	3545.7	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	2	e
+13	Spectrogram 1	1	19.727452083	19.879267248	2049.9	3711.9	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	2	h
+14	Spectrogram 1	1	40.959407911	41.006120270	5734.1	7645.5	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	3	g
+15	Spectrogram 1	1	41.211654647	41.293401274	1551.3	3351.8	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	3	b
+16	Spectrogram 1	1	41.340113633	41.412517788	1523.6	3324.1	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	3	a
+17	Spectrogram 1	1	41.475579472	41.606374076	1828.3	3656.5	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	3	i
+18	Spectrogram 1	1	41.685785085	41.830593396	1939.1	3628.8	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	3	d
+19	Spectrogram 1	1	41.870298901	42.029120920	1966.8	3684.2	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	3	e
+20	Spectrogram 1	1	42.089846986	42.239326533	2105.3	3739.6	Vireo_hypochryseus-ML109201.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_hypochryseus-ML109201.wav	3	f

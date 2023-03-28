@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	142.568378583	142.974520062	1076.100	2350.000	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	1	a
+2	Spectrogram 1	1	143.643142184	144.109815853	1142.000	2196.200	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	1	a
+3	Spectrogram 1	1	144.611440130	145.025082700	988.300	2196.200	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	1	b
+4	Spectrogram 1	1	145.357410918	145.799336741	1016.500	2114.400	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	1	c
+5	Spectrogram 1	1	146.063651761	146.579821122	1042.600	2076.600	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	1	c
+6	Spectrogram 1	1	146.858714784	147.445592277	1146.800	2076.600	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	1	c
+7	Spectrogram 1	1	147.739031023	148.435506120	1068.600	2076.600	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	1	c
+8	Spectrogram 1	1	148.916319707	149.722392407	990.400	2114.400	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	1	c
+9	Spectrogram 1	1	151.945629647	152.267351646	1094.700	2762.800	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	2	a
+10	Spectrogram 1	1	153.331509027	153.826465948	1068.600	2736.700	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	2	a
+11	Spectrogram 1	1	154.631698175	155.147867536	1146.800	2684.600	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	2	a
+12	Spectrogram 1	1	155.745351249	156.311016302	1094.700	2528.200	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	2	a
+13	Spectrogram 1	1	157.154734544	157.642200415	990.400	2502.100	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	2	a
+14	Spectrogram 1	1	158.280139574	158.718529991	1068.600	2319.700	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	2	c
+15	Spectrogram 1	1	159.148081890	159.756171822	755.900	2319.700	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	2	c
+16	Spectrogram 1	1	528.292806298	528.840794318	1172.900	2632.400	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	3	a
+17	Spectrogram 1	1	530.024315050	530.600586322	1120.700	2423.900	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	3	a
+18	Spectrogram 1	1	531.731926585	532.368299769	1198.900	2476.100	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	3	a
+19	Spectrogram 1	1	533.022347094	533.694074345	1172.900	2319.700	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	3	a
+20	Spectrogram 1	1	534.238526958	534.800656605	886.200	2293.600	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	3	c
+21	Spectrogram 1	1	535.235509280	535.886024091	860.100	2215.400	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	3	c
+22	Spectrogram 1	1	536.352697760	537.063314483	886.200	2241.500	Guira_guira-ML67559.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Guira_guira-ML67559.wav	3	c

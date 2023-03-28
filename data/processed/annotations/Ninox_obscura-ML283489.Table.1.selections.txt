@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	50.083901529	50.398388077	430.9	852.1	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	1	a
+2	Spectrogram 1	1	50.988050353	51.381158538	430.9	861.9	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	1	a
+3	Spectrogram 1	1	52.010131633	52.304962771	440.7	861.9	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	1	a
+4	Spectrogram 1	1	52.933935866	53.268077823	440.7	842.3	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	1	a
+5	Spectrogram 1	1	53.975672554	54.270503693	430.9	842.3	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	1	a
+6	Spectrogram 1	1	54.899476788	55.194307926	430.9	861.9	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	1	a
+7	Spectrogram 1	1	55.882247249	56.216389205	430.9	891.2	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	1	a
+8	Spectrogram 1	1	71.745271500	72.079413457	470.1	822.7	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	2	a
+9	Spectrogram 1	1	72.610109506	72.924596053	430.9	861.9	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	2	a
+10	Spectrogram 1	1	73.553569148	73.848400286	460.3	832.5	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	2	a
+11	Spectrogram 1	1	74.536339609	74.772204520	440.7	822.7	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	2	a
+12	Spectrogram 1	1	75.440488433	75.754974981	460.3	822.7	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	2	a
+13	Spectrogram 1	1	76.403603485	76.698434623	440.7	803.1	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	2	a
+14	Spectrogram 1	1	77.406029355	77.681205084	450.5	822.7	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	2	a
+15	Spectrogram 1	1	78.565698499	78.880185046	440.7	822.7	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	2	a
+16	Spectrogram 1	1	106.293156003	106.548676323	421.1	861.9	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	3	a
+17	Spectrogram 1	1	107.197304827	107.472480556	460.3	842.3	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	3	a
+18	Spectrogram 1	1	108.101453651	108.415940199	460.3	832.5	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	3	a
+19	Spectrogram 1	1	109.064568703	109.339744432	421.1	832.5	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	3	a
+20	Spectrogram 1	1	109.947987155	110.225956618	440.7	793.3	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	3	a
+21	Spectrogram 1	1	110.879184856	111.087661953	440.7	822.7	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	3	a
+22	Spectrogram 1	1	111.907671869	112.185641332	479.9	812.9	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	3	a
+23	Spectrogram 1	1	112.852768042	113.130737505	450.5	812.9	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	3	a
+24	Spectrogram 1	1	113.811762690	114.048036733	479.9	812.9	Ninox_obscura-ML283489.wav	D:\Andean\Strigidae\Ninox_obscura-ML283489.wav	3	a

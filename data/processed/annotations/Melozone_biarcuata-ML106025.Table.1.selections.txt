@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	90.862925759	90.902562509	7358.7	9060.9	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	1	a
+2	Spectrogram 1	1	91.146989137	91.292323889	3194.9	6494.5	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	1	b
+3	Spectrogram 1	1	91.364991265	91.503719892	3116.3	6049.3	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	1	b
+4	Spectrogram 1	1	91.549962767	91.711812832	1964.1	8720.5	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	1	c
+5	Spectrogram 1	1	91.781177145	91.943027210	1859.3	8746.7	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	1	c
+6	Spectrogram 1	1	92.038816024	92.200666088	1780.8	8956.2	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	1	c
+7	Spectrogram 1	1	117.100930322	117.153779323	7123.0	9584.7	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	2	a
+8	Spectrogram 1	1	117.441145764	117.583177453	3378.2	6546.9	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	2	b
+9	Spectrogram 1	1	117.649238704	117.784664269	3116.3	5997.0	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	2	b
+10	Spectrogram 1	1	117.840816332	117.996060271	1833.1	9270.4	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	2	c
+11	Spectrogram 1	1	118.091849085	118.257002212	1937.9	8694.3	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	2	c
+12	Spectrogram 1	1	118.336275713	118.481610465	2199.8	8589.5	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	2	c
+13	Spectrogram 1	1	133.953083324	133.999326199	6887.4	9925.1	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	3	a
+14	Spectrogram 1	1	134.326329391	134.468361080	3273.5	6520.7	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	3	b
+15	Spectrogram 1	1	134.560846831	134.683060145	3142.5	6389.8	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	3	b
+16	Spectrogram 1	1	134.735909146	134.914274523	1885.5	9191.9	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	3	c
+17	Spectrogram 1	1	134.980335774	135.152095026	1937.9	8851.4	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	3	c
+18	Spectrogram 1	1	135.237974652	135.389915529	1833.1	8563.4	Melozone_biarcuata-ML106025.wav	D:\Andean\Passerellidae\Melozone_biarcuata-ML106025.wav	3	c

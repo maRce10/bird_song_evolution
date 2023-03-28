@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.030184242	3.356922981	303.7	2289.1	Corvus_splendens-ML88514441.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_splendens-ML88514441.wav	1	a
+2	Spectrogram 1	1	6.322304416	6.911535513	490.5	2335.8	Corvus_splendens-ML88514441.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_splendens-ML88514441.wav	2	b
+3	Spectrogram 1	1	7.269080891	7.658230400	373.7	2289.1	Corvus_splendens-ML88514441.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_splendens-ML88514441.wav	2	a
+4	Spectrogram 1	1	8.052886743	8.447543085	397.1	2382.5	Corvus_splendens-ML88514441.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_splendens-ML88514441.wav	2	a
+5	Spectrogram 1	1	8.706364221	9.086335676	373.7	2382.5	Corvus_splendens-ML88514441.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_splendens-ML88514441.wav	2	a
+6	Spectrogram 1	1	22.802794743	23.204793529	513.9	2476.0	Corvus_splendens-ML88514441.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_splendens-ML88514441.wav	3	b
+7	Spectrogram 1	1	23.472792720	23.775668517	677.4	2452.6	Corvus_splendens-ML88514441.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_splendens-ML88514441.wav	3	a
+8	Spectrogram 1	1	24.001448657	24.370406447	420.4	2382.5	Corvus_splendens-ML88514441.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_splendens-ML88514441.wav	3	a

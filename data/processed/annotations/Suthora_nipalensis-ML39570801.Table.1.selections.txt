@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.964169974	2.992197389	3370.2	7315.2	Suthora_nipalensis-ML39570801.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Suthora_nipalensis-ML39570801.wav	1	a
+2	Spectrogram 1	1	3.097300195	3.122991992	4937.7	7210.7	Suthora_nipalensis-ML39570801.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Suthora_nipalensis-ML39570801.wav	2	b
+3	Spectrogram 1	1	3.442971648	3.468663445	5016.1	7602.5	Suthora_nipalensis-ML39570801.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Suthora_nipalensis-ML39570801.wav	3	b

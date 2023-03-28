@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.825983493	6.863353380	3265.6	5666.0	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	1	a
+2	Spectrogram 1	1	6.876199278	6.915904783	3684.3	6949.9	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	1	b
+3	Spectrogram 1	1	7.582723699	7.710014876	1953.8	6028.9	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	1	c
+4	Spectrogram 1	1	8.215676156	8.339463906	2344.6	3712.2	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	1	d
+5	Spectrogram 1	1	8.511131823	8.555508564	3126.1	5386.9	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	1	e
+6	Spectrogram 1	1	8.562515418	8.588207215	3154.0	4465.8	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	1	e
+7	Spectrogram 1	1	9.336424655	9.367955497	3265.6	6224.2	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	2	a
+8	Spectrogram 1	1	9.378465777	9.418171282	3544.7	7368.6	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	2	b
+9	Spectrogram 1	1	10.150387500	10.275343059	1898.0	5861.4	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	2	c
+10	Spectrogram 1	1	10.633111787	10.726536504	2344.6	3823.9	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	2	d
+11	Spectrogram 1	1	11.130598404	11.162129246	4326.3	5386.9	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	2	f
+12	Spectrogram 1	1	11.173807336	11.217016267	2512.0	6531.3	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	2	e
+13	Spectrogram 1	1	11.225190930	11.254386154	1842.2	3768.0	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	2	e
+14	Spectrogram 1	1	12.039599417	12.072298068	3126.1	5693.9	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	3	a
+15	Spectrogram 1	1	12.085143966	12.123681662	3712.2	7201.1	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	3	b
+16	Spectrogram 1	1	13.105808998	13.245946073	1898.0	5945.1	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	3	c
+17	Spectrogram 1	1	14.213758815	14.242954039	4186.7	5191.5	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	3	f
+18	Spectrogram 1	1	14.260471173	14.297841060	2567.8	5414.8	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	3	e
+19	Spectrogram 1	1	14.310686958	14.339882182	1730.5	3321.5	Passer_rufocinctus-ML28334721.wav	D:\Andean\Passeridae\Passer_rufocinctus-ML28334721.wav	3	e

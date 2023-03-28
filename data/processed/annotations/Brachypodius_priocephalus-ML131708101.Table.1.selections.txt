@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.967797325	1.165981077	3490.3	4099.7	Brachypodius_priocephalus-ML131708101.wav	D:\Andean\Pycnonotidae\Brachypodius_priocephalus-ML131708101.wav	1	a
+2	Spectrogram 1	1	1.265072953	1.446741393	3601.1	5235.5	Brachypodius_priocephalus-ML131708101.wav	D:\Andean\Pycnonotidae\Brachypodius_priocephalus-ML131708101.wav	1	a
+3	Spectrogram 1	1	9.370483555	9.588485682	3490.3	4903.1	Brachypodius_priocephalus-ML131708101.wav	D:\Andean\Pycnonotidae\Brachypodius_priocephalus-ML131708101.wav	2	a
+4	Spectrogram 1	1	10.192946128	10.364705380	3351.8	4653.8	Brachypodius_priocephalus-ML131708101.wav	D:\Andean\Pycnonotidae\Brachypodius_priocephalus-ML131708101.wav	2	a
+5	Spectrogram 1	1	25.627640977	25.802703292	3573.4	4736.9	Brachypodius_priocephalus-ML131708101.wav	D:\Andean\Pycnonotidae\Brachypodius_priocephalus-ML131708101.wav	3	a
+6	Spectrogram 1	1	26.109888108	26.301465736	3573.4	4626.1	Brachypodius_priocephalus-ML131708101.wav	D:\Andean\Pycnonotidae\Brachypodius_priocephalus-ML131708101.wav	3	a

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.792565207	13.904674867	1410.8	1802.7	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	1	a
+2	Spectrogram 1	1	13.979414641	15.156566073	1410.8	1854.9	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	1	b
+3	Spectrogram 1	1	15.186929106	15.266340116	1332.4	2168.4	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	1	c
+4	Spectrogram 1	1	15.296703149	15.399470337	1959.4	2717.1	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	1	d
+5	Spectrogram 1	1	15.408074641	15.518727236	1698.2	4937.7	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	1	e
+6	Spectrogram 1	1	22.603487830	22.709185832	809.9	1175.7	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	2	a
+7	Spectrogram 1	1	22.789069368	23.908807570	809.9	1227.9	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	2	b
+8	Spectrogram 1	1	23.925322882	24.021111696	757.6	1254.0	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	2	f
+9	Spectrogram 1	1	24.052490790	24.148279604	809.9	1149.5	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	2	f
+10	Spectrogram 1	1	24.176355635	24.267189855	836.0	1123.4	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	2	f
+11	Spectrogram 1	1	24.293614356	24.344811825	1332.4	1959.4	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	2	g
+12	Spectrogram 1	1	24.353069481	24.387751638	1907.2	2690.9	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	2	h
+13	Spectrogram 1	1	24.424085326	24.534737921	1384.7	4258.5	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	2	e
+14	Spectrogram 1	1	29.821862678	29.925909148	1306.3	1698.2	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	3	a
+15	Spectrogram 1	1	29.991970399	31.342922978	1254.0	1776.5	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	3	b
+16	Spectrogram 1	1	31.361089822	31.450272511	1123.4	1776.5	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	3	c
+17	Spectrogram 1	1	31.498166917	31.582395012	1619.8	2612.6	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	3	i
+18	Spectrogram 1	1	31.608819513	31.719472108	1332.4	3657.6	Horornis_diphone-ML214569401.wav	D:\Andean\Scotocercidae\Horornis_diphone-ML214569401.wav	3	e

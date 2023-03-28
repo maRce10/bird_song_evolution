@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.525978758	8.769921812	2196.2	4063.0	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	1	a
+2	Spectrogram 1	1	9.020935680	9.307303613	2196.2	3865.3	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	1	b
+3	Spectrogram 1	1	9.561852887	9.862362446	2284.1	3821.4	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	1	b
+4	Spectrogram 1	1	10.106305500	10.399744247	2284.1	3689.6	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	1	b
+5	Spectrogram 1	1	10.626010268	10.905307388	2284.1	3470.0	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	1	c
+6	Spectrogram 1	1	11.103290157	11.354304024	2174.3	3272.4	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	1	d
+7	Spectrogram 1	1	12.828561973	13.030080149	2569.6	3931.2	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	2	e
+8	Spectrogram 1	1	13.327054301	13.549784916	2547.6	4019.1	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	2	a
+9	Spectrogram 1	1	13.829082036	14.083631310	2525.6	3887.3	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	2	b
+10	Spectrogram 1	1	14.345251397	14.628083924	2459.8	3799.5	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	2	b
+11	Spectrogram 1	1	14.903845637	15.179607351	2393.9	3689.6	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	2	b
+12	Spectrogram 1	1	15.445421757	15.710577251	2459.8	3557.9	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	2	c
+13	Spectrogram 1	1	15.922701646	16.216140392	2393.9	3404.1	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	2	f
+14	Spectrogram 1	1	16.399981535	16.619176743	2415.8	3030.8	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	2	g
+15	Spectrogram 1	1	20.099279859	20.230089903	2701.3	4041.0	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	3	h
+16	Spectrogram 1	1	20.481103770	20.735653044	2591.5	3865.3	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	3	b
+17	Spectrogram 1	1	20.986666911	21.255357811	2635.5	3733.6	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	3	b
+18	Spectrogram 1	1	21.527584118	21.799810425	2635.5	3667.7	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	3	c
+19	Spectrogram 1	1	22.033147260	22.323050599	2481.7	3535.9	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	3	c
+20	Spectrogram 1	1	22.513962555	22.782653455	2284.1	3228.4	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	3	f
+21	Spectrogram 1	1	22.878109433	23.051344355	2262.1	3008.8	Lepidocolaptes_fuscicapillus-ML51900.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_fuscicapillus-ML51900.wav	3	g

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	97.200839955	97.286749729	2090.0	4833.2	Sublegatus_obscurior-ML49276.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_obscurior-ML49276.wav	1	a
+2	Spectrogram 1	1	97.306728746	97.618401415	1985.5	4650.4	Sublegatus_obscurior-ML49276.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_obscurior-ML49276.wav	1	b
+3	Spectrogram 1	1	98.541431227	98.833124879	2899.9	5120.6	Sublegatus_obscurior-ML49276.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_obscurior-ML49276.wav	1	c
+4	Spectrogram 1	1	99.905996758	99.989908630	2063.9	5042.2	Sublegatus_obscurior-ML49276.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_obscurior-ML49276.wav	2	a
+5	Spectrogram 1	1	100.013883451	100.323558218	1959.4	4624.2	Sublegatus_obscurior-ML49276.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_obscurior-ML49276.wav	2	b
+6	Spectrogram 1	1	101.376426998	101.696091274	2978.3	5199.0	Sublegatus_obscurior-ML49276.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_obscurior-ML49276.wav	2	c
+7	Spectrogram 1	1	102.624919424	102.722816608	1985.5	5120.6	Sublegatus_obscurior-ML49276.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_obscurior-ML49276.wav	3	a
+8	Spectrogram 1	1	102.742795625	103.056466196	1881.0	4598.1	Sublegatus_obscurior-ML49276.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_obscurior-ML49276.wav	3	b
+9	Spectrogram 1	1	103.857624787	104.207257589	2978.3	5329.6	Sublegatus_obscurior-ML49276.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Sublegatus_obscurior-ML49276.wav	3	c

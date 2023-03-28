@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.960739333	2.298491738	700.742	1261.335	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	1	a
+2	Spectrogram 1	1	2.988681434	3.322762617	700.742	1354.767	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	1	a
+3	Spectrogram 1	1	3.462269045	3.946870321	1284.693	5722.722	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	1	b
+4	Spectrogram 1	1	4.038650865	4.776566445	1261.335	5489.142	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	1	b
+5	Spectrogram 1	1	10.297159358	10.638582984	607.309	1214.619	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	2	a
+6	Spectrogram 1	1	11.218636027	11.607785536	747.458	1354.767	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	2	a
+7	Spectrogram 1	1	11.717922190	12.206194688	1284.693	5746.081	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	2	b
+8	Spectrogram 1	1	12.286961222	13.032219245	1284.693	5489.142	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	2	c
+9	Spectrogram 1	1	18.913516679	19.269625193	724.100	1308.051	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	3	a
+10	Spectrogram 1	1	19.886390453	20.249841410	794.174	1331.409	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	3	a
+11	Spectrogram 1	1	20.363649286	20.844579340	1308.051	5699.364	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	3	b
+12	Spectrogram 1	1	20.941153500	21.686411524	1378.125	5465.784	Lipaugus_vociferans-ML222309.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_vociferans-ML222309.wav	3	c

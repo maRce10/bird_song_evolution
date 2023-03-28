@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.283881879	1.313555537	6897.2	10659.2	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	1	a
+2	Spectrogram 1	1	2.172800377	2.202474035	7576.4	10868.2	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	1	a
+3	Spectrogram 1	1	2.438990544	2.473027975	5120.6	10502.5	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	1	b
+4	Spectrogram 1	1	2.964233215	3.010489211	5016.1	10659.2	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	1	b
+5	Spectrogram 1	1	3.105904390	3.132959784	7158.4	10084.5	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	1	a
+6	Spectrogram 1	1	3.346784672	3.415660841	4702.6	10450.2	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	1	b
+7	Spectrogram 1	1	3.478608175	3.504527665	2717.1	10607.0	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	1	c
+8	Spectrogram 1	1	3.514401757	3.537852725	2664.8	10554.7	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	1	c
+9	Spectrogram 1	1	3.630422334	3.656958955	2769.3	10450.2	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	1	c
+10	Spectrogram 1	1	3.664981655	3.689666884	2873.8	10450.2	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	1	c
+11	Spectrogram 1	1	4.687591890	4.723112110	2664.8	11390.8	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	2	b
+12	Spectrogram 1	1	10.869018827	10.891235534	7315.2	10554.7	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	3	a
+13	Spectrogram 1	1	13.133323325	13.202441967	2769.3	10554.7	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	4	b
+14	Spectrogram 1	1	19.187550926	19.217790331	6949.4	10868.2	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	5	a
+15	Spectrogram 1	1	19.465259753	19.530675611	2560.3	9457.5	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	5	b
+16	Spectrogram 1	1	19.821305246	19.854013174	3344.1	9196.2	Tangara_callophrys-ML74640361.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_callophrys-ML74640361.wav	5	a

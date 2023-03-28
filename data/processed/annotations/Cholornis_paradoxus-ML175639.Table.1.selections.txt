@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	15.449347332	15.541833083	966.6	2612.6	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	1	a
+2	Spectrogram 1	1	15.911776088	16.255294592	888.3	3344.1	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	1	b
+3	Spectrogram 1	1	16.314749718	16.578994721	836.0	3422.5	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	1	b
+4	Spectrogram 1	1	16.645055972	16.909300975	888.3	3396.3	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	1	b
+5	Spectrogram 1	1	17.008392851	17.127303103	914.4	2690.9	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	1	c
+6	Spectrogram 1	1	19.875451137	20.218969642	966.6	3239.6	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	2	b
+7	Spectrogram 1	1	20.278424767	20.536063646	940.5	3448.6	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	2	b
+8	Spectrogram 1	1	20.635155522	20.859763775	888.3	3370.2	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	2	b
+9	Spectrogram 1	1	23.347004605	23.644280234	992.8	3422.5	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	3	b
+10	Spectrogram 1	1	23.703735360	23.974586488	1018.9	3344.1	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	3	b
+11	Spectrogram 1	1	24.047253864	24.285074367	914.4	3370.2	Cholornis_paradoxus-ML175639.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Cholornis_paradoxus-ML175639.wav	3	b

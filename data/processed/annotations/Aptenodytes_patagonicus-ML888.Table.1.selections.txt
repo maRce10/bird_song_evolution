@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	70.771488166	73.006167622	209.0	1489.2	Aptenodytes_patagonicus-ML888.wav	D:\Andean\Spheniscidae\Aptenodytes_patagonicus-ML888.wav	1	a
+2	Spectrogram 1	1	73.102135452	73.403748630	209.0	1410.8	Aptenodytes_patagonicus-ML888.wav	D:\Andean\Spheniscidae\Aptenodytes_patagonicus-ML888.wav	1	b
+3	Spectrogram 1	1	73.490576666	73.837888810	313.5	1358.5	Aptenodytes_patagonicus-ML888.wav	D:\Andean\Spheniscidae\Aptenodytes_patagonicus-ML888.wav	1	c
+4	Spectrogram 1	1	74.002405089	74.221760128	235.1	1254.0	Aptenodytes_patagonicus-ML888.wav	D:\Andean\Spheniscidae\Aptenodytes_patagonicus-ML888.wav	1	b
+5	Spectrogram 1	1	75.767656553	77.156905131	130.6	1724.3	Aptenodytes_patagonicus-ML888.wav	D:\Andean\Spheniscidae\Aptenodytes_patagonicus-ML888.wav	2	d
+6	Spectrogram 1	1	77.284862237	78.349648153	261.3	1645.9	Aptenodytes_patagonicus-ML888.wav	D:\Andean\Spheniscidae\Aptenodytes_patagonicus-ML888.wav	2	d
+7	Spectrogram 1	1	78.682892802	81.018109984	209.0	1358.5	Aptenodytes_patagonicus-ML888.wav	D:\Andean\Spheniscidae\Aptenodytes_patagonicus-ML888.wav	3	a
+8	Spectrogram 1	1	81.045529363	81.301443575	182.9	1149.5	Aptenodytes_patagonicus-ML888.wav	D:\Andean\Spheniscidae\Aptenodytes_patagonicus-ML888.wav	3	c
+9	Spectrogram 1	1	81.374561921	82.096605590	235.1	1123.4	Aptenodytes_patagonicus-ML888.wav	D:\Andean\Spheniscidae\Aptenodytes_patagonicus-ML888.wav	3	e

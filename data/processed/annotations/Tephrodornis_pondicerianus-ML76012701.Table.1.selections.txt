@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	13.738258770	14.038837462	1828.3	3684.2	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	1	a
+2	Spectrogram 1	1	14.069201507	14.215551308	1108.0	3462.6	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	1	b
+3	Spectrogram 1	1	14.257218749	14.425383240	1052.6	3878.1	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	1	c
+4	Spectrogram 1	1	14.516472339	14.704489581	1246.5	3711.9	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	1	d
+5	Spectrogram 1	1	17.963888716	18.151905958	1274.2	2991.7	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	2	d
+6	Spectrogram 1	1	18.238323821	18.446193817	1246.5	3628.8	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	2	e
+7	Spectrogram 1	1	18.546625387	18.761502236	1246.5	3351.8	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	2	f
+8	Spectrogram 1	1	20.812818036	20.926095505	1745.2	3019.4	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	3	g
+9	Spectrogram 1	1	21.122287411	21.289284092	1579.0	2936.3	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	3	h
+10	Spectrogram 1	1	21.330157406	21.495986278	1135.7	3905.8	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	3	i
+11	Spectrogram 1	1	21.531020263	21.696849136	941.8	3933.5	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	3	j
+12	Spectrogram 1	1	21.751735841	21.939753084	1135.7	4016.6	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	3	k
+13	Spectrogram 1	1	22.033588613	22.232116136	1551.3	3795.0	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	3	d
+14	Spectrogram 1	1	22.381184871	22.585551439	1551.3	3434.9	Tephrodornis_pondicerianus-ML76012701.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Tephrodornis_pondicerianus-ML76012701.wav	3	l

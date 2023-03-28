@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.400021007	1.470729138	724.8	1076.1	Pogoniulus_atroflavus-ML91492321.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_atroflavus-ML91492321.wav	1	a
+2	Spectrogram 1	1	2.153062609	2.220235334	768.7	1098.1	Pogoniulus_atroflavus-ML91492321.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_atroflavus-ML91492321.wav	2	a
+3	Spectrogram 1	1	2.909639617	2.987418562	702.8	1098.1	Pogoniulus_atroflavus-ML91492321.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_atroflavus-ML91492321.wav	3	a

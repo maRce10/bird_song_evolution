@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.135681497	0.262748296	1463.0	9248.5	Sinosuthora_conspicillata-ML30548221.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_conspicillata-ML30548221.wav	1	a
+2	Spectrogram 1	1	0.670869625	0.797936424	1567.5	9457.5	Sinosuthora_conspicillata-ML30548221.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_conspicillata-ML30548221.wav	2	a
+3	Spectrogram 1	1	1.235132359	1.392350602	1672.0	9091.7	Sinosuthora_conspicillata-ML30548221.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Sinosuthora_conspicillata-ML30548221.wav	3	a

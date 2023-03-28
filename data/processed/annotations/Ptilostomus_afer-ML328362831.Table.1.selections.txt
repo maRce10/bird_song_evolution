@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.901930041	5.023901568	988.3	3777.5	Ptilostomus_afer-ML328362831.wav	E:\Escritorio\Cantos\Corvidae\Ptilostomus_afer-ML328362831.wav	1	a
+2	Spectrogram 1	1	5.147640799	5.207742711	944.4	2635.5	Ptilostomus_afer-ML328362831.wav	E:\Escritorio\Cantos\Corvidae\Ptilostomus_afer-ML328362831.wav	1	b
+3	Spectrogram 1	1	10.567047908	10.669574699	1186.0	3843.4	Ptilostomus_afer-ML328362831.wav	E:\Escritorio\Cantos\Corvidae\Ptilostomus_afer-ML328362831.wav	2	a
+4	Spectrogram 1	1	10.825132588	10.881699094	1054.2	2341.6	Ptilostomus_afer-ML328362831.wav	E:\Escritorio\Cantos\Corvidae\Ptilostomus_afer-ML328362831.wav	2	b
+5	Spectrogram 1	1	11.168067027	11.272361521	944.4	3448.1	Ptilostomus_afer-ML328362831.wav	E:\Escritorio\Cantos\Corvidae\Ptilostomus_afer-ML328362831.wav	2	a
+6	Spectrogram 1	1	12.134040873	12.259547806	1186.0	3953.2	Ptilostomus_afer-ML328362831.wav	E:\Escritorio\Cantos\Corvidae\Ptilostomus_afer-ML328362831.wav	3	a
+7	Spectrogram 1	1	12.408034883	12.485813828	1229.9	2805.0	Ptilostomus_afer-ML328362831.wav	E:\Escritorio\Cantos\Corvidae\Ptilostomus_afer-ML328362831.wav	3	b

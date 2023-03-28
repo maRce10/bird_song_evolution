@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	12.900787185	13.380902340	800.2	2578.4	Mycteria_ibis-ML2411.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Mycteria_ibis-ML2411.wav	1	a
+2	Spectrogram 1	1	14.642188300	15.023091467	866.9	2200.6	Mycteria_ibis-ML2411.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Mycteria_ibis-ML2411.wav	2	a
+3	Spectrogram 1	1	16.346521166	16.801833324	755.7	2222.8	Mycteria_ibis-ML2411.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Ciconiidae\Mycteria_ibis-ML2411.wav	3	a

@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	44.150654528	44.437022462	439.2	1735.0	Garrulax_leucolophus-ML159746841.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_leucolophus-ML159746841.wav	1	a
+2	Spectrogram 1	1	44.514801406	44.596115758	614.9	2020.5	Garrulax_leucolophus-ML159746841.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_leucolophus-ML159746841.wav	1	b
+3	Spectrogram 1	1	44.794098526	45.076931053	527.1	1735.0	Garrulax_leucolophus-ML159746841.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_leucolophus-ML159746841.wav	1	a
+4	Spectrogram 1	1	45.165316218	45.225418129	505.1	2108.4	Garrulax_leucolophus-ML159746841.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_leucolophus-ML159746841.wav	1	b
+5	Spectrogram 1	1	116.261710843	116.565755809	417.0	1668.1	Garrulax_leucolophus-ML159746841.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_leucolophus-ML159746841.wav	2	a
+6	Spectrogram 1	1	116.654140974	116.728384512	614.9	2262.1	Garrulax_leucolophus-ML159746841.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_leucolophus-ML159746841.wav	2	b
+7	Spectrogram 1	1	138.570070508	138.824619782	527.1	1735.0	Garrulax_leucolophus-ML159746841.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_leucolophus-ML159746841.wav	3	a
+8	Spectrogram 1	1	138.895327914	138.973106859	636.9	2328.0	Garrulax_leucolophus-ML159746841.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_leucolophus-ML159746841.wav	3	b
+9	Spectrogram 1	1	139.284222638	139.577661384	527.1	1800.9	Garrulax_leucolophus-ML159746841.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_leucolophus-ML159746841.wav	3	a
+10	Spectrogram 1	1	139.655440329	139.729683867	527.1	2328.0	Garrulax_leucolophus-ML159746841.wav	E:\Escritorio\Cantos\Leiothrichidae\Garrulax_leucolophus-ML159746841.wav	3	b

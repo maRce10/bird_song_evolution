@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.625106770	2.087535526	968.9	3011.6	Piculus_simplex-ML50246381.wav	D:\Andean\Picidae\Piculus_simplex-ML50246381.wav	1	a
+2	Spectrogram 1	1	2.272507029	2.688692909	916.6	3090.1	Piculus_simplex-ML50246381.wav	D:\Andean\Picidae\Piculus_simplex-ML50246381.wav	2	a
+3	Spectrogram 1	1	2.847239911	3.263425791	968.9	3116.3	Piculus_simplex-ML50246381.wav	D:\Andean\Picidae\Piculus_simplex-ML50246381.wav	3	a

@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.259244558	17.478439766	462.400	1947.000	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	1	d
+2	Spectrogram 1	1	15.929931683	16.014781441	790.600	2068.700	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	1	a
+3	Spectrogram 1	1	21.653893720	21.717531039	511.100	1898.300	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	3	b
+4	Spectrogram 1	1	21.462981765	21.540760710	827.500	2044.400	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	3	a
+5	Spectrogram 1	1	21.883695148	22.007434379	511.100	1898.300	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	3	f
+6	Spectrogram 1	1	16.149126891	16.237512056	571.000	2141.700	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	1	b
+7	Spectrogram 1	1	16.767823043	16.969341218	486.800	2068.700	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	1	d
+8	Spectrogram 1	1	22.191275521	22.576634838	462.400	2020.000	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	3	g
+9	Spectrogram 1	1	16.435494824	16.566304868	462.400	2239.100	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	1	c
+10	Spectrogram 1	1	19.131605233	19.223525804	705.800	2044.400	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	2	a
+11	Spectrogram 1	1	19.322517189	19.410902353	584.100	2044.400	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	2	b
+12	Spectrogram 1	1	19.548783210	19.714947319	535.400	2020.000	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	2	c
+13	Spectrogram 1	1	19.955354967	20.241722900	754.500	2117.400	Ibycter_americanus-ML115015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Ibycter_americanus-ML115015.wav	2	e

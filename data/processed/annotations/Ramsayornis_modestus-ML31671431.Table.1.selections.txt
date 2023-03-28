@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	5.507522980	5.581766518	878.5	7005.9	Ramsayornis_modestus-ML31671431.wav	E:\Escritorio\Cantos\Meliphagidae\Ramsayornis_modestus-ML31671431.wav	1	a
+2	Spectrogram 1	1	5.663080870	5.758536847	790.6	6984.0	Ramsayornis_modestus-ML31671431.wav	E:\Escritorio\Cantos\Meliphagidae\Ramsayornis_modestus-ML31671431.wav	1	a
+3	Spectrogram 1	1	31.040451477	31.125301235	812.6	7041.2	Ramsayornis_modestus-ML31671431.wav	E:\Escritorio\Cantos\Meliphagidae\Ramsayornis_modestus-ML31671431.wav	2	a
+4	Spectrogram 1	1	31.174796927	31.252575872	812.6	7041.2	Ramsayornis_modestus-ML31671431.wav	E:\Escritorio\Cantos\Meliphagidae\Ramsayornis_modestus-ML31671431.wav	2	a
+5	Spectrogram 1	1	31.333890223	31.411669168	833.8	7049.9	Ramsayornis_modestus-ML31671431.wav	E:\Escritorio\Cantos\Meliphagidae\Ramsayornis_modestus-ML31671431.wav	2	a
+6	Spectrogram 1	1	34.603504080	34.670676805	772.1	7072.1	Ramsayornis_modestus-ML31671431.wav	E:\Escritorio\Cantos\Meliphagidae\Ramsayornis_modestus-ML31671431.wav	3	a
+7	Spectrogram 1	1	34.737849530	34.819163881	741.2	7072.1	Ramsayornis_modestus-ML31671431.wav	E:\Escritorio\Cantos\Meliphagidae\Ramsayornis_modestus-ML31671431.wav	3	a

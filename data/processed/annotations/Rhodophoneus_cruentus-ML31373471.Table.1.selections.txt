@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.877422008	1.485009214	2382.5	3807.4	Rhodophoneus_cruentus-ML31373471.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Rhodophoneus_cruentus-ML31373471.wav	1	a
+2	Spectrogram 1	1	1.499694101	1.819090396	2382.5	3223.4	Rhodophoneus_cruentus-ML31373471.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Rhodophoneus_cruentus-ML31373471.wav	1	b
+3	Spectrogram 1	1	3.320459534	3.895005744	2405.9	3690.6	Rhodophoneus_cruentus-ML31373471.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Rhodophoneus_cruentus-ML31373471.wav	2	a
+4	Spectrogram 1	1	3.895005744	4.216237651	2289.1	3246.8	Rhodophoneus_cruentus-ML31373471.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Rhodophoneus_cruentus-ML31373471.wav	2	b
+5	Spectrogram 1	1	5.977224810	6.566455907	2476.0	3667.2	Rhodophoneus_cruentus-ML31373471.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Rhodophoneus_cruentus-ML31373471.wav	3	a
+6	Spectrogram 1	1	6.568291518	6.893194646	2289.1	3176.7	Rhodophoneus_cruentus-ML31373471.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Rhodophoneus_cruentus-ML31373471.wav	3	b

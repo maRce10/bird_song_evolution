@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.613550420	3.891007674	554.0	2354.6	Callipepla_squamata-ML145806321.wav	E:\Andean\Odontophoridae\Callipepla_squamata-ML145806321.wav	1	a
+2	Spectrogram 1	1	18.570129394	18.880617273	526.3	2299.2	Callipepla_squamata-ML145806321.wav	E:\Andean\Odontophoridae\Callipepla_squamata-ML145806321.wav	2	a
+3	Spectrogram 1	1	34.427231754	34.724507383	609.4	2520.8	Callipepla_squamata-ML145806321.wav	E:\Andean\Odontophoridae\Callipepla_squamata-ML145806321.wav	3	a

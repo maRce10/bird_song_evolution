@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.669674804	4.757205961	1515.3	1933.3	Aramides_wolfi-ML168715.wav	D:\Andean\Rallidae\Aramides_wolfi-ML168715.wav	1	a
+2	Spectrogram 1	1	4.902540713	5.052830059	1201.8	1567.5	Aramides_wolfi-ML168715.wav	D:\Andean\Rallidae\Aramides_wolfi-ML168715.wav	1	b
+3	Spectrogram 1	1	5.217983186	5.298908218	1619.8	1985.5	Aramides_wolfi-ML168715.wav	D:\Andean\Rallidae\Aramides_wolfi-ML168715.wav	2	a
+4	Spectrogram 1	1	5.439288376	5.619305285	1175.7	1645.9	Aramides_wolfi-ML168715.wav	D:\Andean\Rallidae\Aramides_wolfi-ML168715.wav	2	b
+5	Spectrogram 1	1	5.774549224	5.855474257	1515.3	1933.3	Aramides_wolfi-ML168715.wav	D:\Andean\Rallidae\Aramides_wolfi-ML168715.wav	3	a
+6	Spectrogram 1	1	6.000809008	6.127976916	1175.7	1672.0	Aramides_wolfi-ML168715.wav	D:\Andean\Rallidae\Aramides_wolfi-ML168715.wav	3	b

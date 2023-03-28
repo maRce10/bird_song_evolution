@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.992967343	7.158120470	304.7	775.6	Momotus_mexicanus-ML109211.wav	E:\Andean\Momotidae\Momotus_mexicanus-ML109211.wav	1	a
+2	Spectrogram 1	1	12.099502032	12.264655159	304.7	775.6	Momotus_mexicanus-ML109211.wav	E:\Andean\Momotidae\Momotus_mexicanus-ML109211.wav	2	a
+3	Spectrogram 1	1	18.832271850	19.004031102	304.7	775.6	Momotus_mexicanus-ML109211.wav	E:\Andean\Momotidae\Momotus_mexicanus-ML109211.wav	3	a

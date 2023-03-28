@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.193841968	6.396069390	789.5	7556.8	Cecropis_senegalensis-ML8050.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_senegalensis-ML8050.wav	1	a
+2	Spectrogram 1	1	55.744444259	55.922159267	733.1	4849.9	Cecropis_senegalensis-ML8050.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_senegalensis-ML8050.wav	2	a
+3	Spectrogram 1	1	116.876795430	117.023869920	507.5	6654.5	Cecropis_senegalensis-ML8050.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Cecropis_senegalensis-ML8050.wav	3	a

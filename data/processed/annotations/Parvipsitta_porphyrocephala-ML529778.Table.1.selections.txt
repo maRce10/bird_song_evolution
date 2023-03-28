@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	10.339246641	10.511005893	2520.8	6426.6	Parvipsitta_porphyrocephala-ML529778.wav	D:\Andean\Psittaculidae\Parvipsitta_porphyrocephala-ML529778.wav	1	a
+2	Spectrogram 1	1	10.516365036	10.581762338	6731.3	7645.5	Parvipsitta_porphyrocephala-ML529778.wav	D:\Andean\Psittaculidae\Parvipsitta_porphyrocephala-ML529778.wav	1	b
+3	Spectrogram 1	1	11.312810747	11.487982091	2216.1	6371.2	Parvipsitta_porphyrocephala-ML529778.wav	D:\Andean\Psittaculidae\Parvipsitta_porphyrocephala-ML529778.wav	2	a
+4	Spectrogram 1	1	11.490317709	11.548708157	6759.0	7673.2	Parvipsitta_porphyrocephala-ML529778.wav	D:\Andean\Psittaculidae\Parvipsitta_porphyrocephala-ML529778.wav	2	b
+5	Spectrogram 1	1	12.247057916	12.382523755	2659.3	6426.6	Parvipsitta_porphyrocephala-ML529778.wav	D:\Andean\Psittaculidae\Parvipsitta_porphyrocephala-ML529778.wav	3	a
+6	Spectrogram 1	1	12.387194991	12.436242968	6814.4	7977.9	Parvipsitta_porphyrocephala-ML529778.wav	D:\Andean\Psittaculidae\Parvipsitta_porphyrocephala-ML529778.wav	3	b

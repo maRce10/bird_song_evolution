@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.483181117	23.697880182	1883.7	4155.2	Hylophylax_punctulatus-ML21654311.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hylophylax_punctulatus-ML21654311.wav	1	a
+2	Spectrogram 1	1	23.760638370	23.988549686	1052.6	4349.1	Hylophylax_punctulatus-ML21654311.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hylophylax_punctulatus-ML21654311.wav	1	b
+3	Spectrogram 1	1	25.032317449	25.247016514	1994.5	4210.6	Hylophylax_punctulatus-ML21654311.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hylophylax_punctulatus-ML21654311.wav	2	a
+4	Spectrogram 1	1	25.306471640	25.550898268	1246.5	4487.6	Hylophylax_punctulatus-ML21654311.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hylophylax_punctulatus-ML21654311.wav	2	b
+5	Spectrogram 1	1	26.711284897	26.916074774	1856.0	4210.6	Hylophylax_punctulatus-ML21654311.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hylophylax_punctulatus-ML21654311.wav	3	a
+6	Spectrogram 1	1	26.985439088	27.219956528	1191.1	4432.2	Hylophylax_punctulatus-ML21654311.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hylophylax_punctulatus-ML21654311.wav	3	b

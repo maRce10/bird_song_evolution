@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	182.856114709	182.903612998	1987.8	2733.2	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	1	a
+2	Spectrogram 1	1	183.014858992	183.063607236	1925.7	2609.0	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	1	a
+3	Spectrogram 1	1	183.212351879	183.377345937	2236.3	4410.4	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	1	b
+4	Spectrogram 1	1	183.443711672	183.551207800	2309.9	4716.0	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	1	c
+5	Spectrogram 1	1	183.572457035	183.743700868	1491.8	3705.4	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	1	d
+6	Spectrogram 1	1	183.809840089	183.962334597	1511.3	3317.4	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	1	e
+7	Spectrogram 1	1	184.016334147	184.133829916	2506.5	4460.0	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	1	f
+8	Spectrogram 1	1	184.175078430	184.327836277	1588.0	3649.1	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	1	g
+9	Spectrogram 1	1	187.802228611	187.852226810	1990.4	2727.6	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	2	a
+10	Spectrogram 1	1	187.960972894	188.014720958	1879.9	2653.9	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	2	a
+11	Spectrogram 1	1	188.155965872	188.334709434	2101.0	4312.6	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	2	b
+12	Spectrogram 1	1	188.397207184	188.504703312	2432.7	4533.8	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	2	c
+13	Spectrogram 1	1	188.532202322	188.702852967	1395.6	3796.6	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	2	d
+14	Spectrogram 1	1	188.767193859	188.917188457	1511.3	3206.8	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	2	e
+15	Spectrogram 1	1	188.973813661	189.096309249	2432.7	4349.5	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	2	f
+16	Spectrogram 1	1	189.141307629	189.346300246	1474.4	3317.4	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	2	g
+17	Spectrogram 1	1	193.148569868	193.197318112	2069.3	2646.7	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	3	a
+18	Spectrogram 1	1	193.304814241	193.349812620	1973.0	2646.7	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	3	a
+19	Spectrogram 1	1	193.506056993	193.668551141	2117.4	4427.3	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	3	b
+20	Spectrogram 1	1	193.722550692	193.843796325	2502.4	4667.9	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	3	c
+21	Spectrogram 1	1	193.852294524	194.038537817	1443.7	3801.7	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	3	d
+22	Spectrogram 1	1	194.102285521	194.259779849	1491.8	3272.3	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	3	e
+23	Spectrogram 1	1	194.313671006	194.434916640	2502.4	4379.2	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	3	f
+24	Spectrogram 1	1	194.462415649	194.641159212	1347.4	3561.1	Hemignathus_wilsoni-ML5185.wav	E:\Escritorio\Cantos\Fringillidae\Hemignathus_wilsoni-ML5185.wav	3	g

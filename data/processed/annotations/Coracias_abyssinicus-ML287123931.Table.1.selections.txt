@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.719459393	2.156334786	467.2	4344.6	Coracias_abyssinicus-ML287123931.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_abyssinicus-ML287123931.wav	1	a
+2	Spectrogram 1	1	2.495922802	2.653785339	887.6	3153.3	Coracias_abyssinicus-ML287123931.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_abyssinicus-ML287123931.wav	1	b
+3	Spectrogram 1	1	2.903428420	3.035592405	887.6	3083.3	Coracias_abyssinicus-ML287123931.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_abyssinicus-ML287123931.wav	1	c
+4	Spectrogram 1	1	3.281373174	3.837563275	537.2	5395.7	Coracias_abyssinicus-ML287123931.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_abyssinicus-ML287123931.wav	1	d
+5	Spectrogram 1	1	4.193480359	4.784547067	747.5	5372.4	Coracias_abyssinicus-ML287123931.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_abyssinicus-ML287123931.wav	1	d
+6	Spectrogram 1	1	5.184710242	5.718873012	677.4	5442.4	Coracias_abyssinicus-ML287123931.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_abyssinicus-ML287123931.wav	1	d
+7	Spectrogram 1	1	51.460783799	51.666372219	864.2	3877.4	Coracias_abyssinicus-ML287123931.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_abyssinicus-ML287123931.wav	2	b
+8	Spectrogram 1	1	51.949056297	52.156480328	700.7	3643.9	Coracias_abyssinicus-ML287123931.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_abyssinicus-ML287123931.wav	2	b
+9	Spectrogram 1	1	57.169877399	57.369958986	817.5	4017.6	Coracias_abyssinicus-ML287123931.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_abyssinicus-ML287123931.wav	3	b
+10	Spectrogram 1	1	57.441547811	57.639793787	794.2	3807.4	Coracias_abyssinicus-ML287123931.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_abyssinicus-ML287123931.wav	3	b

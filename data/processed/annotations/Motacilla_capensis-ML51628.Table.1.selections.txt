@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	6.740709894	6.879438521	3711.9	6094.2	Motacilla_capensis-ML51628.wav	E:\Andean\Motacillidae\Motacilla_capensis-ML51628.wav	1	a
+2	Spectrogram 1	1	8.233694163	8.365816664	3850.4	6232.7	Motacilla_capensis-ML51628.wav	E:\Andean\Motacillidae\Motacilla_capensis-ML51628.wav	2	a
+3	Spectrogram 1	1	10.671354318	10.803476820	3905.8	6149.6	Motacilla_capensis-ML51628.wav	E:\Andean\Motacillidae\Motacilla_capensis-ML51628.wav	3	a

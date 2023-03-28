@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.624809320	4.679309852	1800.6	2714.7	Hemitriccus_josephinae-ML41106.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_josephinae-ML41106.wav	1	a
+2	Spectrogram 1	1	7.896804903	7.957911560	1357.3	2659.3	Hemitriccus_josephinae-ML41106.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_josephinae-ML41106.wav	2	a
+3	Spectrogram 1	1	10.868591649	10.934652899	1412.8	2659.3	Hemitriccus_josephinae-ML41106.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_josephinae-ML41106.wav	3	a

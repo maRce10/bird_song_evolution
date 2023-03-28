@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	49.276163484	49.421584215	7144.0	10060.9	Dacnis_cayana-ML103047.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_cayana-ML103047.wav	1	a
+2	Spectrogram 1	1	59.957585091	60.140206475	8108.1	10629.5	Dacnis_cayana-ML103047.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_cayana-ML103047.wav	2	a
+3	Spectrogram 1	1	71.777685887	71.912960987	7267.6	10234.0	Dacnis_cayana-ML103047.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_cayana-ML103047.wav	3	a
+4	Spectrogram 1	1	76.958145898	77.090039120	7218.2	9690.1	Dacnis_cayana-ML103047.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_cayana-ML103047.wav	4	a
+5	Spectrogram 1	1	91.833505346	91.948489180	7440.6	9789.0	Dacnis_cayana-ML103047.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_cayana-ML103047.wav	5	a

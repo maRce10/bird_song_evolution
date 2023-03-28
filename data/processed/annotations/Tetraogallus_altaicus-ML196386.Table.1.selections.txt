@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	14.946868989	15.484061111	1052.6	1329.6	Tetraogallus_altaicus-ML196386.wav	D:\Andean\Phasianidae\Tetraogallus_altaicus-ML196386.wav	1	a
+2	Spectrogram 1	1	15.526102234	16.250143790	1246.5	1883.7	Tetraogallus_altaicus-ML196386.wav	D:\Andean\Phasianidae\Tetraogallus_altaicus-ML196386.wav	1	a
+3	Spectrogram 1	1	16.268828733	16.992870289	1274.2	2603.9	Tetraogallus_altaicus-ML196386.wav	D:\Andean\Phasianidae\Tetraogallus_altaicus-ML196386.wav	1	b
+4	Spectrogram 1	1	108.658322981	109.452433074	941.8	1329.6	Tetraogallus_altaicus-ML196386.wav	D:\Andean\Phasianidae\Tetraogallus_altaicus-ML196386.wav	2	a
+5	Spectrogram 1	1	109.480460490	110.101734857	1246.5	1828.3	Tetraogallus_altaicus-ML196386.wav	D:\Andean\Phasianidae\Tetraogallus_altaicus-ML196386.wav	2	a
+6	Spectrogram 1	1	110.111077328	110.849132592	1357.3	2354.6	Tetraogallus_altaicus-ML196386.wav	D:\Andean\Phasianidae\Tetraogallus_altaicus-ML196386.wav	2	b
+7	Spectrogram 1	1	130.616545913	131.410656006	941.8	1385.1	Tetraogallus_altaicus-ML196386.wav	D:\Andean\Phasianidae\Tetraogallus_altaicus-ML196386.wav	3	a
+8	Spectrogram 1	1	131.415327242	132.003902958	1329.6	1939.1	Tetraogallus_altaicus-ML196386.wav	D:\Andean\Phasianidae\Tetraogallus_altaicus-ML196386.wav	3	a
+9	Spectrogram 1	1	132.022587902	132.713930807	1440.5	2687.0	Tetraogallus_altaicus-ML196386.wav	D:\Andean\Phasianidae\Tetraogallus_altaicus-ML196386.wav	3	b

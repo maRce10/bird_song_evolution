@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.401587432	1.432966526	2933.0	6258.8	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	1	a
+2	Spectrogram 1	1	1.505633902	1.558482903	5525.6	6127.9	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	1	b
+3	Spectrogram 1	1	1.648671450	1.744460264	5735.1	6285.0	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	1	c
+4	Spectrogram 1	1	1.959159329	2.058251205	5289.9	6311.2	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	1	d
+5	Spectrogram 1	1	2.132570113	2.218449739	5028.0	6416.0	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	1	e
+6	Spectrogram 1	1	2.269647208	2.334056928	5473.2	6599.3	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	1	e
+7	Spectrogram 1	1	2.395163585	2.504164649	4163.8	6258.8	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	1	f
+8	Spectrogram 1	1	2.560316712	2.634635619	5132.8	6468.3	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	1	e
+9	Spectrogram 1	1	15.790115222	15.819842785	2906.8	6127.9	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	2	a
+10	Spectrogram 1	1	15.905722411	15.966829068	5499.4	6127.9	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	2	b
+11	Spectrogram 1	1	16.032890319	16.136936789	5761.3	6180.3	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	2	c
+12	Spectrogram 1	1	16.328514417	16.437515480	5316.1	6285.0	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	2	d
+13	Spectrogram 1	1	16.505228263	16.596062482	5028.0	6389.8	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	2	e
+14	Spectrogram 1	1	16.643956889	16.710018140	5551.8	6546.9	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	2	e
+15	Spectrogram 1	1	16.767821735	16.878474330	4190.0	6363.6	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	2	f
+16	Spectrogram 1	1	16.942884049	17.017202957	5132.8	6337.4	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	2	e
+17	Spectrogram 1	1	29.896965645	29.938253927	3273.5	6101.7	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	3	a
+18	Spectrogram 1	1	30.014224366	30.072027960	5499.4	6154.1	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	3	b
+19	Spectrogram 1	1	30.154604524	30.270211713	5708.9	6337.4	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	3	c
+20	Spectrogram 1	1	30.465092403	30.569138873	5342.3	6416.0	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	3	d
+21	Spectrogram 1	1	30.648412374	30.734292000	5054.2	6494.5	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	3	e
+22	Spectrogram 1	1	30.787141000	30.849899189	5499.4	6416.0	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	3	e
+23	Spectrogram 1	1	30.902748189	31.015052316	4242.4	6232.7	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	3	f
+24	Spectrogram 1	1	31.077810504	31.153780943	5080.4	6180.3	Pnoepyga_formosana-ML109243971.wav	D:\Andean\Pnoepygidae\Pnoepyga_formosana-ML109243971.wav	3	e

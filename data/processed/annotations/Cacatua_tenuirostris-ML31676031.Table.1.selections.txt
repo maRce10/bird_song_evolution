@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.306811494	2.542439965	469.7	4177.6	Cacatua_tenuirostris-ML31676031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_tenuirostris-ML31676031.wav	1	a
+2	Spectrogram 1	1	2.840075928	3.072161113	445.0	3485.5	Cacatua_tenuirostris-ML31676031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_tenuirostris-ML31676031.wav	2	b
+3	Spectrogram 1	1	5.452196402	5.694911443	519.1	3856.3	Cacatua_tenuirostris-ML31676031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_tenuirostris-ML31676031.wav	3	a

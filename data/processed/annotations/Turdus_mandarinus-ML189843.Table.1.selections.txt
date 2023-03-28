@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	57.929749613	57.988140061	1750.4	2116.2	Turdus_mandarinus-ML189843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_mandarinus-ML189843.wav	1	a
+2	Spectrogram 1	1	58.018503094	58.065215452	1149.5	2952.2	Turdus_mandarinus-ML189843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_mandarinus-ML189843.wav	1	b
+3	Spectrogram 1	1	58.242722414	58.361838928	1123.4	3030.6	Turdus_mandarinus-ML189843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_mandarinus-ML189843.wav	1	c
+4	Spectrogram 1	1	58.845311838	58.957421498	1175.7	2952.2	Turdus_mandarinus-ML189843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_mandarinus-ML189843.wav	1	d
+5	Spectrogram 1	1	59.917360464	60.031805742	1358.5	2952.2	Turdus_mandarinus-ML189843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_mandarinus-ML189843.wav	2	e
+6	Spectrogram 1	1	60.050490686	60.134572931	1306.3	2325.2	Turdus_mandarinus-ML189843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_mandarinus-ML189843.wav	2	f
+7	Spectrogram 1	1	60.253689445	60.351785398	1280.2	2377.4	Turdus_mandarinus-ML189843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_mandarinus-ML189843.wav	2	g
+8	Spectrogram 1	1	60.564646957	60.697777179	1097.3	2403.6	Turdus_mandarinus-ML189843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_mandarinus-ML189843.wav	2	h
+9	Spectrogram 1	1	61.554948956	61.650709291	1463.0	3866.6	Turdus_mandarinus-ML189843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_mandarinus-ML189843.wav	3	i
+10	Spectrogram 1	1	61.748805244	62.131846583	2351.3	3579.2	Turdus_mandarinus-ML189843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_mandarinus-ML189843.wav	3	j

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	17.429273042	17.493682762	1135.7	3573.4	Scytalopus_robbinsi-ML230306.wav	D:\Andean\Rhinocryptidae\Scytalopus_robbinsi-ML230306.wav	1	a
+2	Spectrogram 1	1	17.506895012	17.541577169	997.2	1551.3	Scytalopus_robbinsi-ML230306.wav	D:\Andean\Rhinocryptidae\Scytalopus_robbinsi-ML230306.wav	1	b
+3	Spectrogram 1	1	17.625805263	17.686911920	1108.0	3822.7	Scytalopus_robbinsi-ML230306.wav	D:\Andean\Rhinocryptidae\Scytalopus_robbinsi-ML230306.wav	2	a
+4	Spectrogram 1	1	17.710033358	17.746367046	997.2	1551.3	Scytalopus_robbinsi-ML230306.wav	D:\Andean\Rhinocryptidae\Scytalopus_robbinsi-ML230306.wav	2	b
+5	Spectrogram 1	1	17.837201266	17.893353329	1108.0	3767.3	Scytalopus_robbinsi-ML230306.wav	D:\Andean\Rhinocryptidae\Scytalopus_robbinsi-ML230306.wav	3	a
+6	Spectrogram 1	1	17.914823236	17.961066111	1052.6	1468.2	Scytalopus_robbinsi-ML230306.wav	D:\Andean\Rhinocryptidae\Scytalopus_robbinsi-ML230306.wav	3	b

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	23.490404375	23.609538985	3434.900	8199.500	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	1	a
+2	Spectrogram 1	1	23.680137273	23.763972739	3379.500	8144.100	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	1	a
+3	Spectrogram 1	1	23.801478080	23.867663975	6426.600	7811.700	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	1	b
+4	Spectrogram 1	1	24.386120150	24.494223778	4016.600	8448.800	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	2	a
+5	Spectrogram 1	1	24.615564585	24.690023716	5761.800	8116.400	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	2	c
+6	Spectrogram 1	1	24.750142571	24.806952130	6260.400	7950.200	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	2	c
+7	Spectrogram 1	1	24.864864788	24.926086741	6897.600	8171.800	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	2	b
+8	Spectrogram 1	1	26.195201430	26.327573220	5900.300	7977.900	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	3	d
+9	Spectrogram 1	1	26.488625575	26.585698221	6121.900	7756.300	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	3	d
+10	Spectrogram 1	1	26.636440740	26.707039028	6592.800	7340.800	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	3	e
+11	Spectrogram 1	1	27.068855252	27.214464220	3850.400	8199.500	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	4	a
+12	Spectrogram 1	1	27.353454599	27.443908655	4266.000	7700.900	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	4	f
+13	Spectrogram 1	1	27.486929259	27.526640796	6149.600	7202.300	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	4	g
+14	Spectrogram 1	1	31.501104185	31.613620206	3241.000	8199.500	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	5	a
+15	Spectrogram 1	1	31.672084413	31.751507487	4543.000	8005.600	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	5	f
+16	Spectrogram 1	1	31.797837613	31.861817311	6232.700	7617.800	Corapipo_gutturalis-ML134322.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Corapipo_gutturalis-ML134322.wav	5	g

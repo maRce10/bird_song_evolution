@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	4.022069835	4.386426230	277.0	1135.7	Musophaga_rossae-ML277133.wav	E:\Andean\Musophagidae\Musophaga_rossae-ML277133.wav	1	a
+2	Spectrogram 1	1	4.587289372	4.902597791	332.4	1135.7	Musophaga_rossae-ML277133.wav	E:\Andean\Musophagidae\Musophaga_rossae-ML277133.wav	2	a
+3	Spectrogram 1	1	5.185207560	5.572920135	332.4	1052.6	Musophaga_rossae-ML277133.wav	E:\Andean\Musophagidae\Musophaga_rossae-ML277133.wav	3	a

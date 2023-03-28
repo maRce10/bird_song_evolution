@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	90.706191413	90.895259336	420.4	5092.1	Cyanocorax_chrysops-ML189569.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_chrysops-ML189569.wav	1	a
+2	Spectrogram 1	1	92.646804869	92.839544013	420.4	4438.0	Cyanocorax_chrysops-ML189569.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_chrysops-ML189569.wav	2	a
+3	Spectrogram 1	1	95.593076747	95.776637836	373.7	4695.0	Cyanocorax_chrysops-ML189569.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_chrysops-ML189569.wav	3	a

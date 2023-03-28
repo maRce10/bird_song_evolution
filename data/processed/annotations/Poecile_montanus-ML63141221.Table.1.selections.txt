@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	93.505808853	93.756841606	2991.7	3490.3	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	1	a
+2	Spectrogram 1	1	93.822902857	94.054117234	2936.3	3490.3	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	1	a
+3	Spectrogram 1	1	94.126784610	94.417454114	2908.6	3490.3	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	1	a
+4	Spectrogram 1	1	94.463696990	94.714729743	2853.2	3434.9	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	1	a
+5	Spectrogram 1	1	94.787397119	95.038429872	2880.9	3379.5	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	1	a
+6	Spectrogram 1	1	95.157340123	95.381948376	2880.9	3407.2	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	1	a
+7	Spectrogram 1	1	97.423241027	97.621424779	3019.4	3434.9	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	2	a
+8	Spectrogram 1	1	97.700698280	97.951731034	2936.3	3490.3	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	2	a
+9	Spectrogram 1	1	98.004580034	98.268825038	2853.2	3434.9	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	2	a
+10	Spectrogram 1	1	98.348098539	98.579312916	2880.9	3462.6	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	2	a
+11	Spectrogram 1	1	98.645374167	98.903013046	2964.0	3434.9	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	2	a
+12	Spectrogram 1	1	102.744358339	102.982178842	3047.1	3545.7	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	3	a
+13	Spectrogram 1	1	103.061452343	103.299272846	2991.7	3518.0	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	3	a
+14	Spectrogram 1	1	103.358727972	103.609760725	2936.3	3518.0	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	3	a
+15	Spectrogram 1	1	103.675821976	103.940066979	2853.2	3434.9	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	3	a
+16	Spectrogram 1	1	104.025946605	104.296797734	2797.8	3351.8	Poecile_montanus-ML63141221.wav	D:\Andean\Paridae\Poecile_montanus-ML63141221.wav	3	a

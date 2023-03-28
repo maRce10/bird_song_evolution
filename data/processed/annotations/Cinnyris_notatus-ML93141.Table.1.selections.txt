@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	52.825629526	52.931327528	2493.1	3961.2	Cinnyris_notatus-ML93141.wav	E:\Andean\Nectariniidae\Cinnyris_notatus-ML93141.wav	1	a
+2	Spectrogram 1	1	54.021338166	54.100611667	2493.1	4099.7	Cinnyris_notatus-ML93141.wav	E:\Andean\Nectariniidae\Cinnyris_notatus-ML93141.wav	2	a
+3	Spectrogram 1	1	55.824810314	55.930508315	2437.7	3961.2	Cinnyris_notatus-ML93141.wav	E:\Andean\Nectariniidae\Cinnyris_notatus-ML93141.wav	3	a

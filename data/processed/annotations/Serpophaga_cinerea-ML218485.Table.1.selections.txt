@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.285519616	2.366240350	2880.9	7091.5	Serpophaga_cinerea-ML218485.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_cinerea-ML218485.wav	1	a
+2	Spectrogram 1	1	2.586560471	2.671079828	2659.3	6980.7	Serpophaga_cinerea-ML218485.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_cinerea-ML218485.wav	2	a
+3	Spectrogram 1	1	2.696245786	2.714289245	2825.5	7534.7	Serpophaga_cinerea-ML218485.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_cinerea-ML218485.wav	2	b
+4	Spectrogram 1	1	2.721886490	2.743253743	3102.5	7202.3	Serpophaga_cinerea-ML218485.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_cinerea-ML218485.wav	2	c
+5	Spectrogram 1	1	2.752877674	2.770336882	2825.5	6814.4	Serpophaga_cinerea-ML218485.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_cinerea-ML218485.wav	2	d
+6	Spectrogram 1	1	2.955673084	3.027524438	3157.9	6925.3	Serpophaga_cinerea-ML218485.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_cinerea-ML218485.wav	3	a
+7	Spectrogram 1	1	3.046326662	3.068486425	3268.7	7534.7	Serpophaga_cinerea-ML218485.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_cinerea-ML218485.wav	3	b
+8	Spectrogram 1	1	3.077216029	3.097361268	3379.5	7202.3	Serpophaga_cinerea-ML218485.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_cinerea-ML218485.wav	3	c
+9	Spectrogram 1	1	3.107433888	3.126236111	3490.3	6980.7	Serpophaga_cinerea-ML218485.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Serpophaga_cinerea-ML218485.wav	3	d

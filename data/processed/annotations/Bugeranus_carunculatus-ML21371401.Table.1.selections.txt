@@ -1,0 +1,37 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.895764204	1.160227921	451.2	7162.0	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	a
+2	Spectrogram 1	1	1.177290096	1.360708481	620.3	7613.2	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+3	Spectrogram 1	1	1.492940340	1.714748619	676.7	8741.0	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	
+4	Spectrogram 1	1	1.753138513	1.898167003	451.2	8064.3	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+5	Spectrogram 1	1	1.915229179	2.051726581	563.9	6936.4	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	a
+6	Spectrogram 1	1	2.055992125	2.226613878	338.4	7049.2	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+7	Spectrogram 1	1	2.303393667	2.503874227	563.9	6767.3	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+8	Spectrogram 1	1	2.503874227	2.661699349	507.5	5131.8	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	a
+9	Spectrogram 1	1	2.691558155	2.900569803	451.2	5526.6	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+10	Spectrogram 1	1	2.960287416	3.139440257	507.5	7162.0	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+11	Spectrogram 1	1	3.339920817	3.523339202	394.8	7444.0	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+12	Spectrogram 1	1	3.625712254	3.821927270	563.9	7162.0	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+13	Spectrogram 1	1	3.834723901	4.039470005	507.5	6372.5	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	a
+14	Spectrogram 1	1	4.039470005	4.222888390	451.2	6203.3	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+15	Spectrogram 1	1	4.222888390	4.359385792	620.3	4398.7	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	a
+16	Spectrogram 1	1	4.363651336	4.547069720	394.8	6485.3	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+17	Spectrogram 1	1	4.559866352	4.734753649	676.7	4680.7	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	a
+18	Spectrogram 1	1	4.763992766	4.977269958	394.8	6598.1	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+19	Spectrogram 1	1	5.083908553	5.288654657	620.3	6598.1	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+20	Spectrogram 1	1	5.664022514	5.915689600	394.8	4342.3	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+21	Spectrogram 1	1	5.996734933	6.201481036	507.5	6541.7	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+22	Spectrogram 1	1	6.568317805	6.824250435	451.2	7782.4	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+23	Spectrogram 1	1	6.905295768	7.127104047	563.9	8515.5	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+24	Spectrogram 1	1	7.208149380	7.489675272	676.7	6259.7	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	a
+25	Spectrogram 1	1	7.775466709	8.086851408	563.9	4737.1	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	a
+26	Spectrogram 1	1	8.347742042	8.497036076	620.3	4906.3	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	a
+27	Spectrogram 1	1	8.497036076	8.701782180	620.3	7387.6	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+28	Spectrogram 1	1	8.731640987	8.923590459	620.3	8064.3	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+29	Spectrogram 1	1	9.188054176	9.397065824	451.2	7162.0	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+30	Spectrogram 1	1	9.495173332	9.691388348	620.3	7387.6	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+31	Spectrogram 1	1	10.535966026	10.766305393	507.5	7951.5	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+32	Spectrogram 1	1	10.796164199	11.030769110	394.8	8515.5	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+33	Spectrogram 1	1	11.834166318	12.068771228	507.5	6936.4	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+34	Spectrogram 1	1	12.158347649	12.380155928	394.8	8346.3	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+35	Spectrogram 1	1	12.951738801	13.182078167	451.2	7049.2	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b
+36	Spectrogram 1	1	13.228999149	13.433745253	563.9	7838.7	Bugeranus_carunculatus-ML21371401.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Bugeranus_carunculatus-ML21371401.wav	1	b

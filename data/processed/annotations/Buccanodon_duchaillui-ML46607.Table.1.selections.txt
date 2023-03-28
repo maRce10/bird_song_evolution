@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	31.575173245	33.372236311	443.8	747.5	Buccanodon_duchaillui-ML46607.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Lybiidae\Lybiidae\Buccanodon_duchaillui-ML46607.wav	1	a
+2	Spectrogram 1	1	42.273041265	44.081117996	467.2	770.8	Buccanodon_duchaillui-ML46607.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Lybiidae\Lybiidae\Buccanodon_duchaillui-ML46607.wav	2	a
+3	Spectrogram 1	1	55.503482508	57.407011006	420.4	794.2	Buccanodon_duchaillui-ML46607.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Lybiidae\Lybiidae\Buccanodon_duchaillui-ML46607.wav	3	a

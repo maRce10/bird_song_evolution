@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	58.352450917	58.597690799	1371.1	4309.3	Vireo_vicinior-ML260988411.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_vicinior-ML260988411.wav	1	a
+2	Spectrogram 1	1	59.562301000	59.606677741	666.0	2899.0	Vireo_vicinior-ML260988411.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_vicinior-ML260988411.wav	1	b
+3	Spectrogram 1	1	59.611348977	59.807540882	1332.0	3878.3	Vireo_vicinior-ML260988411.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_vicinior-ML260988411.wav	1	d
+4	Spectrogram 1	1	60.901777118	61.128332056	744.3	4505.1	Vireo_vicinior-ML260988411.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_vicinior-ML260988411.wav	1	c
+6	Spectrogram 1	1	62.605841486	62.853416986	1371.1	4191.7	Vireo_vicinior-ML260988411.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_vicinior-ML260988411.wav	2	a
+7	Spectrogram 1	1	64.016999488	64.061376228	666.0	2859.8	Vireo_vicinior-ML260988411.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_vicinior-ML260988411.wav	2	b
+8	Spectrogram 1	1	64.068383082	64.257568134	1292.8	3760.8	Vireo_vicinior-ML260988411.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_vicinior-ML260988411.wav	2	c
+9	Spectrogram 1	1	65.033282393	65.257501713	666.0	4466.0	Vireo_vicinior-ML260988411.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_vicinior-ML260988411.wav	2	d
+10	Spectrogram 1	1	66.452269367	66.692838013	1292.8	4230.9	Vireo_vicinior-ML260988411.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_vicinior-ML260988411.wav	3	a
+11	Spectrogram 1	1	67.680804394	67.867653828	1057.7	5014.4	Vireo_vicinior-ML260988411.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_vicinior-ML260988411.wav	3	e

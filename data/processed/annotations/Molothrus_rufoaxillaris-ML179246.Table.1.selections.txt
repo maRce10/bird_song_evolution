@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.933693766	9.069591805	1579.0	7500.4	Molothrus_rufoaxillaris-ML179246.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_rufoaxillaris-ML179246.wav	1	a
+2	Spectrogram 1	1	9.006869633	9.252531473	6710.9	9643.4	Molothrus_rufoaxillaris-ML179246.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_rufoaxillaris-ML179246.wav	1	b
+3	Spectrogram 1	1	18.938962191	19.053952839	1635.4	8966.6	Molothrus_rufoaxillaris-ML179246.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_rufoaxillaris-ML179246.wav	2	a
+4	Spectrogram 1	1	19.048725992	19.357110003	6034.1	9417.8	Molothrus_rufoaxillaris-ML179246.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_rufoaxillaris-ML179246.wav	2	b
+5	Spectrogram 1	1	52.744063028	52.890414762	1579.0	7838.7	Molothrus_rufoaxillaris-ML179246.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_rufoaxillaris-ML179246.wav	3	a
+6	Spectrogram 1	1	52.853826828	53.120396058	6485.3	9643.4	Molothrus_rufoaxillaris-ML179246.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_rufoaxillaris-ML179246.wav	3	b

@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	3.887287093	3.997130752	1672.0	2168.4	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	1	a
+2	Spectrogram 1	1	4.204381097	4.296866848	1645.9	2168.4	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	1	a
+3	Spectrogram 1	1	4.369534224	4.442201600	1672.0	2170.6	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	1	a
+4	Spectrogram 1	1	4.521475101	4.607354727	1671.9	2170.6	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	1	a
+5	Spectrogram 1	1	4.656900666	4.732871104	1690.3	2179.9	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	1	a
+6	Spectrogram 1	1	4.798932355	4.884811981	1671.9	2161.4	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	1	a
+7	Spectrogram 1	1	4.944267107	5.023540608	1671.9	2170.6	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	1	a
+8	Spectrogram 1	1	5.099511046	5.178784547	1681.1	2161.4	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	1	a
+9	Spectrogram 1	1	5.234936610	5.314210111	1681.1	2170.6	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	1	a
+10	Spectrogram 1	1	9.071231648	9.151198750	1708.8	2179.9	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	2	b
+11	Spectrogram 1	1	9.400553775	9.500985346	1671.9	2161.4	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	2	a
+12	Spectrogram 1	1	9.568718266	9.666814218	1662.6	2179.9	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	2	a
+13	Spectrogram 1	1	9.722869048	9.814499515	1736.5	2300.0	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	2	c
+14	Spectrogram 1	1	9.865341742	9.965773312	1718.0	2170.6	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	2	a
+15	Spectrogram 1	1	10.010150053	10.096567916	1699.6	2179.9	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	2	a
+16	Spectrogram 1	1	10.147951510	10.248383081	1681.1	2152.2	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	2	a
+17	Spectrogram 1	1	10.281081732	10.393191392	1699.6	2161.4	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	2	a
+18	Spectrogram 1	1	10.430561279	10.486616109	1856.6	2179.9	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	2	e
+19	Spectrogram 1	1	15.328139112	15.395872032	1662.6	2170.6	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	3	a
+20	Spectrogram 1	1	15.664468093	15.718187305	1681.1	2170.6	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	3	a
+21	Spectrogram 1	1	15.834695204	15.892900541	1764.2	2235.3	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	3	f
+22	Spectrogram 1	1	15.976282669	16.041424956	1755.0	2244.5	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	3	f
+23	Spectrogram 1	1	16.127412775	16.192555063	1773.5	2244.5	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	3	f
+24	Spectrogram 1	1	16.268120116	16.330656712	1764.2	2253.8	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	3	f
+25	Spectrogram 1	1	16.403616074	16.466152670	1773.5	2244.5	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	3	f
+26	Spectrogram 1	1	16.554338521	16.610393351	1681.1	2179.9	Cyanoderma_chrysaeum-ML70410.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Cyanoderma_chrysaeum-ML70410.wav	3	a

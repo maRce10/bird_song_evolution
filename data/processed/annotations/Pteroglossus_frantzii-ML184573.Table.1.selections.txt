@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	150.827012530	150.869842713	1828.3	3324.1	Pteroglossus_frantzii-ML184573.wav	D:\Andean\Ramphastidae\Pteroglossus_frantzii-ML184573.wav	1	a
+2	Spectrogram 1	1	150.934087987	150.958179964	3434.9	5401.7	Pteroglossus_frantzii-ML184573.wav	D:\Andean\Ramphastidae\Pteroglossus_frantzii-ML184573.wav	1	b
+3	Spectrogram 1	1	150.951487748	150.968887510	2548.5	2991.7	Pteroglossus_frantzii-ML184573.wav	D:\Andean\Ramphastidae\Pteroglossus_frantzii-ML184573.wav	1	c
+4	Spectrogram 1	1	151.286098549	151.332944062	1828.3	3185.6	Pteroglossus_frantzii-ML184573.wav	D:\Andean\Ramphastidae\Pteroglossus_frantzii-ML184573.wav	2	a
+5	Spectrogram 1	1	151.389158676	151.415927540	3878.1	5567.9	Pteroglossus_frantzii-ML184573.wav	D:\Andean\Ramphastidae\Pteroglossus_frantzii-ML184573.wav	2	b
+6	Spectrogram 1	1	151.405219995	151.423958199	3019.4	3545.7	Pteroglossus_frantzii-ML184573.wav	D:\Andean\Ramphastidae\Pteroglossus_frantzii-ML184573.wav	2	c
+7	Spectrogram 1	1	152.094518245	152.127979325	1551.3	3213.3	Pteroglossus_frantzii-ML184573.wav	D:\Andean\Ramphastidae\Pteroglossus_frantzii-ML184573.wav	3	a
+8	Spectrogram 1	1	152.206947474	152.240408554	3268.7	5983.4	Pteroglossus_frantzii-ML184573.wav	D:\Andean\Ramphastidae\Pteroglossus_frantzii-ML184573.wav	3	b
+9	Spectrogram 1	1	152.225685679	152.245762327	2465.4	3019.4	Pteroglossus_frantzii-ML184573.wav	D:\Andean\Ramphastidae\Pteroglossus_frantzii-ML184573.wav	3	c

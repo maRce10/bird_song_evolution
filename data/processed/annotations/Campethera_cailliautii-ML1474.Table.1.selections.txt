@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	9.734525418	10.263015424	1492.7	4216.2	Campethera_cailliautii-ML1474.wav	D:\Andean\Picidae\Campethera_cailliautii-ML1474.wav	1	a
+2	Spectrogram 1	1	28.120959200	28.741934958	1387.9	4268.6	Campethera_cailliautii-ML1474.wav	D:\Andean\Picidae\Campethera_cailliautii-ML1474.wav	2	a
+3	Spectrogram 1	1	38.531163955	39.211594839	1518.9	4137.6	Campethera_cailliautii-ML1474.wav	D:\Andean\Picidae\Campethera_cailliautii-ML1474.wav	3	a

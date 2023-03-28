@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	0.684125332	0.733149909	2086.6	7049.2	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	1	a
+2	Spectrogram 1	1	1.156975282	1.258187312	2368.5	6259.7	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	1	b
+3	Spectrogram 1	1	1.433726925	1.496984444	1973.8	9643.4	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	1	c
+4	Spectrogram 1	1	1.503310195	1.541264706	2312.1	4455.1	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	1	d
+5	Spectrogram 1	1	1.568149152	1.625080918	1748.2	8797.4	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	1	c
+6	Spectrogram 1	1	1.650383926	1.699408502	1635.4	4624.3	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	1	d
+7	Spectrogram 1	1	3.160472562	3.218985766	2481.3	9868.9	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	2	e
+8	Spectrogram 1	1	3.614301368	3.658581630	3270.8	7274.8	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	2	a
+9	Spectrogram 1	1	3.928224030	3.969341417	3327.2	5526.6	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	2	f
+10	Spectrogram 1	1	3.989900111	4.027854622	2143.0	6316.1	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	2	g
+11	Spectrogram 1	1	4.333291591	4.415526365	2199.4	6936.4	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	2	b
+12	Spectrogram 1	1	4.579995913	4.624276176	1861.0	6936.4	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	2	c
+13	Spectrogram 1	1	4.645749504	4.682122577	1579.0	5075.4	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	2	d
+14	Spectrogram 1	1	4.720077088	4.777008855	1635.4	5075.4	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	2	d
+15	Spectrogram 1	1	4.786497483	4.829196308	1691.8	4511.5	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	2	d
+16	Spectrogram 1	1	24.268005029	24.298052351	3947.6	6203.3	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	g
+17	Spectrogram 1	1	24.304378102	24.377124249	2876.1	4906.3	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	h
+18	Spectrogram 1	1	24.653875892	24.694993279	3327.2	6316.1	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	i
+19	Spectrogram 1	1	24.842067009	24.922720345	2481.3	9305.0	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	j
+20	Spectrogram 1	1	24.950330459	25.056286803	3327.2	6146.9	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	b
+21	Spectrogram 1	1	25.216838894	25.319632362	2312.1	6654.5	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	k
+22	Spectrogram 1	1	25.452473151	25.525219297	2199.4	6428.9	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	l
+23	Spectrogram 1	1	25.528499905	25.569617292	3101.7	9248.6	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	m
+24	Spectrogram 1	1	25.572780168	25.607571803	2086.6	4285.9	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	n
+25	Spectrogram 1	1	25.609153241	25.673992197	2876.1	4737.1	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	o
+26	Spectrogram 1	1	26.026652862	26.129446330	2143.0	6259.7	Atticora_tibialis-ML31412431.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Atticora_tibialis-ML31412431.wav	3	k

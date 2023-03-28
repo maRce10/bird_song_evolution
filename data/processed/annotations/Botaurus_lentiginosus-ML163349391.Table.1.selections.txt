@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	61.007079229	61.237567384	49.4	3979.9	Botaurus_lentiginosus-ML163349391.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_lentiginosus-ML163349391.wav	1	a
+2	Spectrogram 1	1	61.425503879	61.609894403	98.9	3881.0	Botaurus_lentiginosus-ML163349391.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_lentiginosus-ML163349391.wav	2	a
+3	Spectrogram 1	1	62.292494007	62.476884531	49.4	4078.8	Botaurus_lentiginosus-ML163349391.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_lentiginosus-ML163349391.wav	3	a

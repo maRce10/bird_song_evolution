@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	93.285795562	93.576465066	221.6	1329.6	Porphyrio_hochstetteri-ML136052.wav	D:\Andean\Rallidae\Porphyrio_hochstetteri-ML136052.wav	1	a
+2	Spectrogram 1	1	95.961276221	96.212308974	277.0	1329.6	Porphyrio_hochstetteri-ML136052.wav	D:\Andean\Rallidae\Porphyrio_hochstetteri-ML136052.wav	2	a
+3	Spectrogram 1	1	99.066155010	99.317187763	221.6	1329.6	Porphyrio_hochstetteri-ML136052.wav	D:\Andean\Rallidae\Porphyrio_hochstetteri-ML136052.wav	3	a

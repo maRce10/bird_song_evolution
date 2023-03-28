@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	113.944946882	114.011028874	1494.9	3457.0	Poodytes_carteri-ML218173.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_carteri-ML218173.wav	1	a
+2	Spectrogram 1	1	114.040398649	114.066097201	1004.4	2756.2	Poodytes_carteri-ML218173.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_carteri-ML218173.wav	1	b
+3	Spectrogram 1	1	114.075275256	114.211110462	1518.3	3316.8	Poodytes_carteri-ML218173.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_carteri-ML218173.wav	1	c
+4	Spectrogram 1	1	117.157683395	117.227436609	1471.6	3433.6	Poodytes_carteri-ML218173.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_carteri-ML218173.wav	2	a
+5	Spectrogram 1	1	117.253135162	117.284340547	957.7	2803.0	Poodytes_carteri-ML218173.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_carteri-ML218173.wav	2	b
+6	Spectrogram 1	1	117.289847380	117.422011364	1471.6	3410.3	Poodytes_carteri-ML218173.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_carteri-ML218173.wav	2	c
+7	Spectrogram 1	1	121.732171860	121.798253852	1448.2	3363.6	Poodytes_carteri-ML218173.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_carteri-ML218173.wav	3	a
+8	Spectrogram 1	1	121.823952404	121.851486568	1261.3	2662.8	Poodytes_carteri-ML218173.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_carteri-ML218173.wav	3	b
+9	Spectrogram 1	1	121.860664622	121.990992996	1588.3	3340.2	Poodytes_carteri-ML218173.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Poodytes_carteri-ML218173.wav	3	c

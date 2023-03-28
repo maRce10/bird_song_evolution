@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	190.104778570	190.238455460	137.1	479.9	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	1	a
+2	Spectrogram 1	1	190.466492506	190.773163017	176.3	577.8	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	1	b
+3	Spectrogram 1	1	191.323597267	191.795398053	186.1	538.7	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	1	c
+4	Spectrogram 1	1	192.078478524	192.377285688	146.9	509.3	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	1	d
+5	Spectrogram 1	1	214.793596331	214.911546527	156.7	479.9	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	2	a
+6	Spectrogram 1	1	215.139583574	215.493434163	186.1	577.8	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	2	b
+7	Spectrogram 1	1	216.020278374	216.444899081	205.7	577.8	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	2	c
+8	Spectrogram 1	1	216.727979552	217.058240102	215.5	538.7	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	2	d
+9	Spectrogram 1	1	236.644273158	236.801540086	146.9	548.5	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	3	a
+10	Spectrogram 1	1	236.982397054	237.351974336	166.5	548.5	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	3	b
+11	Spectrogram 1	1	237.902408586	238.334892640	166.5	548.5	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	3	c
+12	Spectrogram 1	1	238.570793033	238.885326890	176.3	519.1	Bubo_virginianus-ML22874.wav	D:\Andean\Strigidae\Bubo_virginianus-ML22874.wav	3	d

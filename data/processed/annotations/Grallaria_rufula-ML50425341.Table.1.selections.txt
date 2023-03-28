@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	2.044907131	2.487372417	1999.4	3256.1	Grallaria_rufula-ML50425341.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_rufula-ML50425341.wav	1	a
+2	Spectrogram 1	1	3.515805243	4.041980178	2113.6	3313.2	Grallaria_rufula-ML50425341.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_rufula-ML50425341.wav	1	
+3	Spectrogram 1	1	4.699698846	5.189998217	1199.6	3199.0	Grallaria_rufula-ML50425341.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_rufula-ML50425341.wav	1	a
+4	Spectrogram 1	1	5.716173151	6.098845830	1256.7	3370.3	Grallaria_rufula-ML50425341.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_rufula-ML50425341.wav	1	a
+5	Spectrogram 1	1	6.541311116	6.912025275	1256.7	3770.2	Grallaria_rufula-ML50425341.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_rufula-ML50425341.wav	1	a
+6	Spectrogram 1	1	7.330573498	7.665412093	1371.0	3656.0	Grallaria_rufula-ML50425341.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_rufula-ML50425341.wav	1	a
+7	Spectrogram 1	1	8.012209209	8.382923367	1313.9	3541.7	Grallaria_rufula-ML50425341.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_rufula-ML50425341.wav	1	a
+8	Spectrogram 1	1	8.717761962	9.076517599	1313.9	3541.7	Grallaria_rufula-ML50425341.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_rufula-ML50425341.wav	1	a
+9	Spectrogram 1	1	9.375480630	9.650526618	1371.0	3541.7	Grallaria_rufula-ML50425341.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_rufula-ML50425341.wav	1	a

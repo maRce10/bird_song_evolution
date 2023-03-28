@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	8.268719948	8.310938998	3176.7	7988.5	Euphonia_fulvicrissa-ML108853.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_fulvicrissa-ML108853.wav	1	a
+2	Spectrogram 1	1	8.419240041	8.454116648	1821.9	3036.5	Euphonia_fulvicrissa-ML108853.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_fulvicrissa-ML108853.wav	1	b
+3	Spectrogram 1	1	8.511938391	8.632170905	6400.1	9553.4	Euphonia_fulvicrissa-ML108853.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_fulvicrissa-ML108853.wav	1	c
+4	Spectrogram 1	1	8.751485613	8.802882718	4134.4	8385.5	Euphonia_fulvicrissa-ML108853.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_fulvicrissa-ML108853.wav	1	d
+5	Spectrogram 1	1	8.962580866	9.012142360	2008.8	9389.9	Euphonia_fulvicrissa-ML108853.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_fulvicrissa-ML108853.wav	1	e
+6	Spectrogram 1	1	48.217451915	48.246821689	3130.0	7614.7	Euphonia_fulvicrissa-ML108853.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_fulvicrissa-ML108853.wav	2	a
+7	Spectrogram 1	1	48.358793954	48.399177394	1681.8	3013.2	Euphonia_fulvicrissa-ML108853.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_fulvicrissa-ML108853.wav	2	b
+8	Spectrogram 1	1	48.441396444	48.560711152	6026.4	9553.4	Euphonia_fulvicrissa-ML108853.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_fulvicrissa-ML108853.wav	2	c
+9	Spectrogram 1	1	48.694710748	48.740601020	3737.3	7941.7	Euphonia_fulvicrissa-ML108853.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_fulvicrissa-ML108853.wav	2	d
+10	Spectrogram 1	1	48.902134779	48.946189440	2662.8	9413.3	Euphonia_fulvicrissa-ML108853.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Euphonia_fulvicrissa-ML108853.wav	2	e

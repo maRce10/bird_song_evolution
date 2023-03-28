@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	19.734675713	19.809415486	221.6	1218.8	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+2	Spectrogram 1	1	19.979915595	20.078011547	304.7	1329.6	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+3	Spectrogram 1	1	20.344271990	20.475066594	277.0	1329.6	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+4	Spectrogram 1	1	20.701621532	20.865114787	249.3	1385.1	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+5	Spectrogram 1	1	20.979560065	21.119697140	249.3	1357.3	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+6	Spectrogram 1	1	21.189765678	21.308882192	249.3	1301.9	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+7	Spectrogram 1	1	21.339245225	21.437341178	166.2	1301.9	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+8	Spectrogram 1	1	21.470039829	21.556457692	193.9	1329.6	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+9	Spectrogram 1	1	21.586820725	21.670902970	166.2	1218.8	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+10	Spectrogram 1	1	21.694259149	21.776005776	193.9	1274.2	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+11	Spectrogram 1	1	21.804033191	21.878772965	249.3	1246.5	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+12	Spectrogram 1	1	21.911471616	21.976868918	221.6	1052.6	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	1	a
+13	Spectrogram 1	1	32.162837221	32.237576995	193.9	1218.8	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	2	a
+14	Spectrogram 1	1	32.436104518	32.520186763	249.3	1301.9	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	2	a
+15	Spectrogram 1	1	32.756084173	32.854180126	221.6	1108.0	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	2	a
+16	Spectrogram 1	1	33.064385739	33.146132366	249.3	1163.4	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	2	a
+17	Spectrogram 1	1	33.288605059	33.379694158	249.3	1246.5	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	2	a
+18	Spectrogram 1	1	33.426406517	33.680988870	193.9	969.5	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	2	b
+19	Spectrogram 1	1	37.191771597	37.240819573	193.9	914.1	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	3	a
+20	Spectrogram 1	1	37.493066309	37.621525294	249.3	914.1	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	3	a
+21	Spectrogram 1	1	37.794361021	37.913477535	221.6	914.1	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	3	a
+22	Spectrogram 1	1	37.999895398	38.403957298	166.2	1108.0	Bubo_coromandus-ML133223441.wav	D:\Andean\Strigidae\Bubo_coromandus-ML133223441.wav	3	b

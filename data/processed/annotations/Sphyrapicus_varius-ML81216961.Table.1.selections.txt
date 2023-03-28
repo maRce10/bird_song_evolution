@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	16.582205250	16.952148254	581.7	2382.3	Sphyrapicus_varius-ML81216961.wav	D:\Andean\Picidae\Sphyrapicus_varius-ML81216961.wav	1	a
+2	Spectrogram 1	1	18.854712278	19.191624658	609.4	2659.3	Sphyrapicus_varius-ML81216961.wav	D:\Andean\Picidae\Sphyrapicus_varius-ML81216961.wav	2	a
+3	Spectrogram 1	1	21.556617437	21.913348192	664.8	2770.1	Sphyrapicus_varius-ML81216961.wav	D:\Andean\Picidae\Sphyrapicus_varius-ML81216961.wav	3	a

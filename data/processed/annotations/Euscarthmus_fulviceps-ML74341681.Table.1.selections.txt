@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	1.167808766	1.183613956	1357.3	4709.2	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	1	a
+2	Spectrogram 1	1	1.267072527	1.282254044	1301.9	4653.8	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	1	b
+3	Spectrogram 1	1	1.381517805	1.399964552	1135.7	4903.1	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	1	c
+4	Spectrogram 1	1	1.505305555	1.626757687	1468.2	6288.1	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	1	d
+5	Spectrogram 1	1	1.737699538	1.883863215	1468.2	6260.4	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	1	d
+6	Spectrogram 1	1	2.746033096	2.762382421	1357.3	4709.2	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	2	a
+7	Spectrogram 1	1	2.861646183	2.875659890	1385.1	4736.9	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	2	a
+8	Spectrogram 1	1	2.988937360	3.006454494	1108.0	4903.1	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	2	c
+9	Spectrogram 1	1	3.120899772	3.137249098	1800.6	6121.9	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	2	e
+10	Spectrogram 1	1	3.141336429	3.155934041	1468.2	5983.4	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	2	f
+11	Spectrogram 1	1	3.274139056	3.388920480	1495.9	6260.4	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	2	d
+12	Spectrogram 1	1	3.501421771	3.642726655	1495.9	6288.1	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	2	d
+13	Spectrogram 1	1	3.785963623	3.800811098	1024.9	4875.4	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	3	c
+14	Spectrogram 1	1	3.919737656	3.937062428	1135.7	4432.2	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	3	g
+15	Spectrogram 1	1	4.059855058	4.074139523	1357.3	4709.2	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	3	a
+16	Spectrogram 1	1	4.187285658	4.204610480	2049.9	6759.0	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	3	h
+17	Spectrogram 1	1	4.210390839	4.222777324	2465.4	5013.9	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	3	i
+18	Spectrogram 1	1	4.230225471	4.243421464	1440.5	5900.3	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	3	f
+19	Spectrogram 1	1	4.360696441	4.500234577	1551.3	6288.1	Euscarthmus_fulviceps-ML74341681.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Euscarthmus_fulviceps-ML74341681.wav	3	d

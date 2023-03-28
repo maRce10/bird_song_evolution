@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
+1	Spectrogram 1	1	389.052473803	389.143562902	1097.3	1672.0	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	1	a
+2	Spectrogram 1	1	389.265015034	389.372453459	1097.3	3344.1	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	1	b
+3	Spectrogram 1	1	390.056872894	390.136146395	1123.4	4049.5	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	1	c
+4	Spectrogram 1	1	390.151010177	390.210465303	1045.0	4728.7	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	1	d
+5	Spectrogram 1	1	390.264965835	390.299166293	888.3	3422.5	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	1	e
+6	Spectrogram 1	1	402.489312590	402.799949773	836.0	3370.2	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	2	f
+7	Spectrogram 1	1	403.425895376	403.508809812	1071.1	3997.2	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	2	c
+8	Spectrogram 1	1	403.526326947	403.586469108	1071.1	5120.6	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	2	g
+9	Spectrogram 1	1	403.616248237	403.659457168	940.5	3709.8	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	2	e
+11	Spectrogram 1	1	406.696339495	406.768743650	992.8	4441.4	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	3	h
+12	Spectrogram 1	1	406.795603257	406.831805334	992.8	3788.2	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	3	i
+13	Spectrogram 1	1	407.302429878	407.380673078	757.6	4545.9	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	3	j
+14	Spectrogram 1	1	407.404029257	407.455412851	862.1	4441.4	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	3	k
+15	Spectrogram 1	1	407.495118356	407.544166332	836.0	3318.0	Elaenia_pelzelni-ML127572.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pelzelni-ML127572.wav	3	l
