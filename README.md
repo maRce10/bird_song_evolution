@@ -3,7 +3,7 @@
 <font size="4"><a href="http://marceloarayasalas.weebly.com/">Marcelo
 Araya-Salas, PhD</a></font><br>
 
-*Updated on 2023-03-27 21:05:53*
+*Updated on 2023-03-29 16:00:35*
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -33,19 +33,17 @@ Araya-Salas, PhD</a></font><br>
 
 - [Spreadsheet with the recording info and
   metadata](https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit?usp=sharing)
-
 - [Recordings by
   family](https://6f33fa7f78ea46e2aaca-my.sharepoint.com:443/:f:/g/personal/marcelo_araya_ucr_ac_cr/EoaMWjKcnuZEuStxMx6Ck2YBkNaSElvK5DdRA9MeUOsTYQ?e=HLMSEf)
-
 - [Raven window preset
   file](https://github.com/maRce10/bird_song_evolution/raw/master/bird_songs)
-
 - [Online folder for uploading selection
   files](https://drive.google.com/drive/folders/1SqeJQFmWXP3u0zdeEMr1r-1wDY6Az73c?usp=sharing)
-
 - [Current status log](https://rpubs.com/marcelo-araya-salas/1013041)
+- [Annotated
+  spectrograms](https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo_araya_ucr_ac_cr%2FDocuments%2Fannotated_spectrograms)
 
-- ## [Annotated spectrograms](https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo_araya_ucr_ac_cr%2FDocuments%2Fannotated_spectrograms)
+------------------------------------------------------------------------
 
 ## Analysis workflow
 

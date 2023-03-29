@@ -53,6 +53,7 @@ knitr::opts_chunk$set(
 - [Online folder for uploading selection files](https://drive.google.com/drive/folders/1SqeJQFmWXP3u0zdeEMr1r-1wDY6Az73c?usp=sharing)
 - [Current status log](https://rpubs.com/marcelo-araya-salas/1013041)
 - [Annotated spectrograms](https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo_araya_ucr_ac_cr%2FDocuments%2Fannotated_spectrograms)
+
 ---
 
 ## Analysis workflow
