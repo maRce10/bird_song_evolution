@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.247436008	14.317189222	794.2	4928.5	Sternula_antillarum-ML170029491.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_antillarum-ML170029491.wav	1	a
-2	Spectrogram 1	1	14.330038498	14.438339541	934.3	4368.0	Sternula_antillarum-ML170029491.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_antillarum-ML170029491.wav	1	b
-3	Spectrogram 1	1	14.511763977	14.599873299	911.0	4624.9	Sternula_antillarum-ML170029491.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_antillarum-ML170029491.wav	2	a
-4	Spectrogram 1	1	14.612722576	14.689818233	911.0	5232.2	Sternula_antillarum-ML170029491.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_antillarum-ML170029491.wav	2	b
-5	Spectrogram 1	1	16.060089120	16.146362832	1004.4	4928.5	Sternula_antillarum-ML170029491.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_antillarum-ML170029491.wav	3	a
-6	Spectrogram 1	1	16.164718941	16.239978988	981.0	5699.4	Sternula_antillarum-ML170029491.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_antillarum-ML170029491.wav	3	c

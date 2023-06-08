@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.663068932	5.768766933	249.3	3130.2	Stercorarius_chilensis-ML124453201.wav	D:\Andean\Stercorariidae\Stercorarius_chilensis-ML124453201.wav	1	a
-2	Spectrogram 1	1	6.700230570	6.825746946	221.6	3407.2	Stercorarius_chilensis-ML124453201.wav	D:\Andean\Stercorariidae\Stercorarius_chilensis-ML124453201.wav	2	a
-3	Spectrogram 1	1	8.602794594	8.741523220	138.5	3656.5	Stercorarius_chilensis-ML124453201.wav	D:\Andean\Stercorariidae\Stercorarius_chilensis-ML124453201.wav	3	a

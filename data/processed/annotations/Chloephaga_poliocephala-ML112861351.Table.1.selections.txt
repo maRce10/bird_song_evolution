@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.158233963	1.225607424	791.0	1928.1	Chloephaga_poliocephala-ML112861351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chloephaga_poliocephala-ML112861351.wav	1	a
-2	Spectrogram 1	1	1.441911692	1.509285153	791.0	1730.4	Chloephaga_poliocephala-ML112861351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chloephaga_poliocephala-ML112861351.wav	2	a
-3	Spectrogram 1	1	1.652897003	1.729135393	815.8	1532.6	Chloephaga_poliocephala-ML112861351.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chloephaga_poliocephala-ML112861351.wav	3	a

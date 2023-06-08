@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	21.760662831	22.705628799	505.1	8126.7	Phytotoma_rutila-ML179249.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Phytotoma_rutila-ML179249.wav	1	a
-2	Spectrogram 1	1	23.110614214	24.065579822	614.9	8069.8	Phytotoma_rutila-ML179249.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Phytotoma_rutila-ML179249.wav	1	b
-3	Spectrogram 1	1	38.680162585	39.602629363	487.6	7964.0	Phytotoma_rutila-ML179249.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Phytotoma_rutila-ML179249.wav	2	a
-4	Spectrogram 1	1	39.967616261	41.130074396	839.7	7964.0	Phytotoma_rutila-ML179249.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Phytotoma_rutila-ML179249.wav	2	b
-5	Spectrogram 1	1	55.596490319	56.613953676	975.2	8072.4	Phytotoma_rutila-ML179249.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Phytotoma_rutila-ML179249.wav	3	a
-6	Spectrogram 1	1	57.096436300	58.033902538	758.5	8153.6	Phytotoma_rutila-ML179249.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Phytotoma_rutila-ML179249.wav	3	b

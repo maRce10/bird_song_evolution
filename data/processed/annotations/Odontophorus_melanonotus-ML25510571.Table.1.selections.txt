@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.622111091	5.836987939	1163.4	1828.3	Odontophorus_melanonotus-ML25510571.wav	E:\Andean\Odontophoridae\Odontophorus_melanonotus-ML25510571.wav	1	a
-2	Spectrogram 1	1	6.019166137	6.257399165	1191.1	1897.5	Odontophorus_melanonotus-ML25510571.wav	E:\Andean\Odontophoridae\Odontophorus_melanonotus-ML25510571.wav	2	a
-3	Spectrogram 1	1	6.434906127	6.677810391	1149.6	1856.0	Odontophorus_melanonotus-ML25510571.wav	E:\Andean\Odontophoridae\Odontophorus_melanonotus-ML25510571.wav	3	a

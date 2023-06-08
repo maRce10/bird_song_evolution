@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.911645261	1.037161638	734.1	1066.5	Geronticus_calvus-ML185830861.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Geronticus_calvus-ML185830861.wav	1	a
-2	Spectrogram 1	1	3.772097422	3.793935272	831.0	1135.7	Geronticus_calvus-ML185830861.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Geronticus_calvus-ML185830861.wav	2	b
-3	Spectrogram 1	1	3.798064101	3.827791664	831.0	1274.2	Geronticus_calvus-ML185830861.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Geronticus_calvus-ML185830861.wav	2	c
-4	Spectrogram 1	1	4.247738428	4.346830305	886.4	1135.7	Geronticus_calvus-ML185830861.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Geronticus_calvus-ML185830861.wav	2	d
-5	Spectrogram 1	1	5.337749067	5.443447069	637.1	997.2	Geronticus_calvus-ML185830861.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Geronticus_calvus-ML185830861.wav	3	e
-6	Spectrogram 1	1	5.806783948	5.892663574	831.0	1205.0	Geronticus_calvus-ML185830861.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Geronticus_calvus-ML185830861.wav	3	f
-7	Spectrogram 1	1	5.978543200	6.077635077	844.9	1149.6	Geronticus_calvus-ML185830861.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Geronticus_calvus-ML185830861.wav	3	g

@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.088823934	1.121230841	6244.100	7445.794	Tangara_johannae-ML74739961.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_johannae-ML74739961.wav	1	a
-2	Spectrogram 1	1	3.148695691	3.194240533	6539.600	8830.400	Tangara_johannae-ML74739961.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_johannae-ML74739961.wav	2	b
-3	Spectrogram 1	1	3.379712818	3.416253183	6946.100	9015.100	Tangara_johannae-ML74739961.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_johannae-ML74739961.wav	2	b
-4	Spectrogram 1	1	3.842111680	3.879271373	7795.900	12340.400	Tangara_johannae-ML74739961.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_johannae-ML74739961.wav	2	c

@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.396968289	1.668029612	1137.1	8182.2	Buphagus_erythrorynchus-ML206673471.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Buphagidae\Buphagus_erythrorynchus-ML206673471.wav	1	a
-2	Spectrogram 1	1	1.907201368	2.187120905	1137.1	8058.6	Buphagus_erythrorynchus-ML206673471.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Buphagidae\Buphagus_erythrorynchus-ML206673471.wav	1	a
-3	Spectrogram 1	1	17.272642320	17.552561856	1483.2	8651.9	Buphagus_erythrorynchus-ML206673471.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Buphagidae\Buphagus_erythrorynchus-ML206673471.wav	2	a
-4	Spectrogram 1	1	20.517788114	20.790621080	1532.6	8132.8	Buphagus_erythrorynchus-ML206673471.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Buphagidae\Buphagus_erythrorynchus-ML206673471.wav	3	a

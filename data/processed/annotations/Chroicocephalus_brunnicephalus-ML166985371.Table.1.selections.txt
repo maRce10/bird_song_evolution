@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	12.897756187	13.173097821	186.9	2662.8	Chroicocephalus_brunnicephalus-ML166985371.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_brunnicephalus-ML166985371.wav	1	a
-2	Spectrogram 1	1	14.518333026	14.900140092	186.9	2476.0	Chroicocephalus_brunnicephalus-ML166985371.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_brunnicephalus-ML166985371.wav	2	a
-3	Spectrogram 1	1	18.021652837	18.278638362	327.0	2919.8	Chroicocephalus_brunnicephalus-ML166985371.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_brunnicephalus-ML166985371.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.548468017	6.636853182	5183.1	6874.2	Carpodacus_formosanus-ML108069.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_formosanus-ML108069.wav	1	a
-2	Spectrogram 1	1	7.803537354	7.895457925	5336.8	6830.2	Carpodacus_formosanus-ML108069.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_formosanus-ML108069.wav	2	a
-3	Spectrogram 1	1	9.426288975	9.518209546	5278.8	6852.2	Carpodacus_formosanus-ML108069.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_formosanus-ML108069.wav	3	a

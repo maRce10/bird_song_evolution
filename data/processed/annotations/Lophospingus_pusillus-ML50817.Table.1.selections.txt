@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.951715131	4.980461090	7118.4	10282.6	Lophospingus_pusillus-ML50817.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Lophospingus_pusillus-ML50817.wav	1	a
-2	Spectrogram 1	1	9.704890586	9.742091238	6920.7	9961.2	Lophospingus_pusillus-ML50817.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Lophospingus_pusillus-ML50817.wav	1	a
-3	Spectrogram 1	1	25.565234104	25.604125695	6970.1	9911.8	Lophospingus_pusillus-ML50817.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Lophospingus_pusillus-ML50817.wav	3	a

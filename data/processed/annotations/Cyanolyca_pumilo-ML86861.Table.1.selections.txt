@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	10.670165738	10.787661506	1186.0	4502.2	Cyanolyca_pumilo-ML86861.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pumilo-ML86861.wav	1	a
-2	Spectrogram 1	1	10.837659706	10.950155654	1229.9	4502.2	Cyanolyca_pumilo-ML86861.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pumilo-ML86861.wav	1	a
-3	Spectrogram 1	1	13.057271680	13.172267538	1419.9	4343.2	Cyanolyca_pumilo-ML86861.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pumilo-ML86861.wav	2	a
-4	Spectrogram 1	1	13.211016143	13.327261957	1364.2	4204.0	Cyanolyca_pumilo-ML86861.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pumilo-ML86861.wav	2	a
-5	Spectrogram 1	1	15.288822927	15.400068921	1308.5	4426.7	Cyanolyca_pumilo-ML86861.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pumilo-ML86861.wav	3	a
-6	Spectrogram 1	1	15.447567210	15.561313114	1266.8	4231.8	Cyanolyca_pumilo-ML86861.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pumilo-ML86861.wav	3	a

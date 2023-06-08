@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.706885412	1.543100736	5190.3	7415.1	Bombycilla_cedrorum-ML166156861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bombycillidae\Bombycillidae\Bombycilla_cedrorum-ML166156861.wav	1	a
-2	Spectrogram 1	1	4.983087916	5.707689754	5091.4	7513.9	Bombycilla_cedrorum-ML166156861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bombycillidae\Bombycillidae\Bombycilla_cedrorum-ML166156861.wav	2	a
-3	Spectrogram 1	1	8.776786109	9.343711752	5042.0	7637.5	Bombycilla_cedrorum-ML166156861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bombycillidae\Bombycillidae\Bombycilla_cedrorum-ML166156861.wav	3	a
-4	Spectrogram 1	1	9.439380455	9.859259759	5808.3	7390.3	Bombycilla_cedrorum-ML166156861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bombycillidae\Bombycillidae\Bombycilla_cedrorum-ML166156861.wav	3	b
-5	Spectrogram 1	1	9.954297652	10.282051540	5857.7	7044.3	Bombycilla_cedrorum-ML166156861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bombycillidae\Bombycillidae\Bombycilla_cedrorum-ML166156861.wav	3	c

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.127935096	4.659459847	1274.2	4543.0	Platalea_regia-ML212624011.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Platalea_regia-ML212624011.wav	1	a
-2	Spectrogram 1	1	5.640249566	6.152791291	1274.2	4653.8	Platalea_regia-ML212624011.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Platalea_regia-ML212624011.wav	2	a
-3	Spectrogram 1	1	6.988044471	7.544879925	1274.2	4543.0	Platalea_regia-ML212624011.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Platalea_regia-ML212624011.wav	3	a

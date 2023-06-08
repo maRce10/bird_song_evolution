@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.184804808	4.293805872	2437.7	7700.9	Myiotriccus_ornatus-ML31433071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotriccus_ornatus-ML31433071.wav	1	a
-2	Spectrogram 1	1	7.944024025	8.051373558	2410.0	7645.5	Myiotriccus_ornatus-ML31433071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotriccus_ornatus-ML31433071.wav	2	a
-3	Spectrogram 1	1	11.297645054	11.414903774	2410.0	7451.6	Myiotriccus_ornatus-ML31433071.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiotriccus_ornatus-ML31433071.wav	3	a

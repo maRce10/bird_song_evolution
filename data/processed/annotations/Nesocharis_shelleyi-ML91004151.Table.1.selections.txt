@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	29.664418136	29.812905212	5929.8	7511.1	Nesocharis_shelleyi-ML91004151.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Nesocharis_shelleyi-ML91004151.wav	1	a
-2	Spectrogram 1	1	30.689686044	30.859385560	5776.0	7576.9	Nesocharis_shelleyi-ML91004151.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Nesocharis_shelleyi-ML91004151.wav	2	a
-3	Spectrogram 1	1	32.234683818	32.400847928	5951.7	7379.3	Nesocharis_shelleyi-ML91004151.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Nesocharis_shelleyi-ML91004151.wav	3	a

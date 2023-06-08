@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.664331080	8.859324058	5885.9	7796.6	Neochmia_temporalis-ML101515041.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Neochmia_temporalis-ML101515041.wav	1	a
-2	Spectrogram 1	1	10.174276701	10.409268238	5512.5	7555.0	Neochmia_temporalis-ML101515041.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Neochmia_temporalis-ML101515041.wav	2	a
-3	Spectrogram 1	1	11.844216560	12.089207737	5732.1	7357.3	Neochmia_temporalis-ML101515041.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Neochmia_temporalis-ML101515041.wav	3	a

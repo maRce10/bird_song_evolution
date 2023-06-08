@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	30.402961710	30.455380811	519.1	3732.7	Megaceryle_lugubris-ML6568.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Megaceryle_lugubris-ML6568.wav	1	a
-2	Spectrogram 1	1	33.112215014	33.157870360	840.5	3757.4	Megaceryle_lugubris-ML6568.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Megaceryle_lugubris-ML6568.wav	2	a
-3	Spectrogram 1	1	61.299645799	61.345301145	741.6	3386.6	Megaceryle_lugubris-ML6568.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Megaceryle_lugubris-ML6568.wav	3	a

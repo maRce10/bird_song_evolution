@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.580696463	4.927626922	1004.4	4624.9	Aphelocoma_insularis-ML229975551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_insularis-ML229975551.wav	1	a
-2	Spectrogram 1	1	9.544962386	9.895564066	1121.2	4975.3	Aphelocoma_insularis-ML229975551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_insularis-ML229975551.wav	2	a
-3	Spectrogram 1	1	12.796567030	13.143497489	887.6	4951.9	Aphelocoma_insularis-ML229975551.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_insularis-ML229975551.wav	3	a

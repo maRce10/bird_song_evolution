@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.916710430	3.259644869	878.5	1691.2	Philemon_argenticeps-ML22850911.wav	E:\Escritorio\Cantos\Meliphagidae\Philemon_argenticeps-ML22850911.wav	1	a
-2	Spectrogram 1	1	11.883657042	12.172129088	878.5	1886.3	Philemon_argenticeps-ML22850911.wav	E:\Escritorio\Cantos\Meliphagidae\Philemon_argenticeps-ML22850911.wav	2	a
-3	Spectrogram 1	1	18.866421452	19.209355890	966.3	1593.6	Philemon_argenticeps-ML22850911.wav	E:\Escritorio\Cantos\Meliphagidae\Philemon_argenticeps-ML22850911.wav	3	a

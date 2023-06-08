@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.435150141	18.547454268	1833.1	9165.7	Anthus_hoeschi-ML275709.wav	E:\Andean\Motacillidae\Anthus_hoeschi-ML275709.wav	1	a
-2	Spectrogram 1	1	21.070994049	21.189904301	1597.4	8799.0	Anthus_hoeschi-ML275709.wav	E:\Andean\Motacillidae\Anthus_hoeschi-ML275709.wav	2	a
-3	Spectrogram 1	1	23.145317326	23.257621452	1990.3	8668.1	Anthus_hoeschi-ML275709.wav	E:\Andean\Motacillidae\Anthus_hoeschi-ML275709.wav	3	a

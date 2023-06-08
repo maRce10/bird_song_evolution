@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.281588266	1.387286267	831.0	6648.2	Ploceus_dichrocephalus-ML21585651.wav	D:\Andean\Ploceidae\Ploceus_dichrocephalus-ML21585651.wav	1	a
-2	Spectrogram 1	1	5.383991943	5.476477694	831.0	6925.3	Ploceus_dichrocephalus-ML21585651.wav	D:\Andean\Ploceidae\Ploceus_dichrocephalus-ML21585651.wav	2	a
-3	Spectrogram 1	1	11.788724892	11.901029018	775.6	7202.3	Ploceus_dichrocephalus-ML21585651.wav	D:\Andean\Ploceidae\Ploceus_dichrocephalus-ML21585651.wav	3	a

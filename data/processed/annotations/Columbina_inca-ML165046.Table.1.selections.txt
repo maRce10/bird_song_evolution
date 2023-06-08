@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.697175166	6.124872504	421.3	1310.8	Columbina_inca-ML165046.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_inca-ML165046.wav	1	a
-2	Spectrogram 1	1	6.271721376	6.517693236	397.9	1076.8	Columbina_inca-ML165046.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_inca-ML165046.wav	1	b
-3	Spectrogram 1	1	7.909594543	8.333620659	468.2	1193.8	Columbina_inca-ML165046.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_inca-ML165046.wav	2	a
-4	Spectrogram 1	1	8.480469531	8.720934558	491.6	1006.5	Columbina_inca-ML165046.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_inca-ML165046.wav	2	b
-5	Spectrogram 1	1	10.185213297	10.614746246	397.9	1240.6	Columbina_inca-ML165046.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_inca-ML165046.wav	3	a
-6	Spectrogram 1	1	10.759759507	11.005731367	444.7	1053.3	Columbina_inca-ML165046.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_inca-ML165046.wav	3	b

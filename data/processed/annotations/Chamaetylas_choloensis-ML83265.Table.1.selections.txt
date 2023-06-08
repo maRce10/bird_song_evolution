@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	17.664337758	18.159797139	2095.0	2775.9	Chamaetylas_choloensis-ML83265.wav	E:\Andean\Muscicapidae\Chamaetylas_choloensis-ML83265.wav	1	a
-2	Spectrogram 1	1	20.214302040	20.630487920	2042.6	2802.1	Chamaetylas_choloensis-ML83265.wav	E:\Andean\Muscicapidae\Chamaetylas_choloensis-ML83265.wav	2	a
-3	Spectrogram 1	1	22.764266322	23.114390952	2068.8	2749.7	Chamaetylas_choloensis-ML83265.wav	E:\Andean\Muscicapidae\Chamaetylas_choloensis-ML83265.wav	3	a

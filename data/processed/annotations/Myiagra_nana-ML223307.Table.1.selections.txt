@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	31.756299271	32.192303526	1966.8	5318.6	Myiagra_nana-ML223307.wav	E:\Andean\Monarchidae\Myiagra_nana-ML223307.wav	1	a
-2	Spectrogram 1	1	32.872734410	33.163403914	1994.5	5817.2	Myiagra_nana-ML223307.wav	E:\Andean\Monarchidae\Myiagra_nana-ML223307.wav	2	a
-3	Spectrogram 1	1	34.048624675	34.530871806	2049.9	5263.2	Myiagra_nana-ML223307.wav	E:\Andean\Monarchidae\Myiagra_nana-ML223307.wav	3	a

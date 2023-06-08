@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.512689701	2.170380876	49.0	293.8	Rhea_americana-ML516917.wav	D:\Andean\Rheidae\Rhea_americana-ML516917.wav	1	a
-2	Spectrogram 1	1	2.326582529	2.725307804	88.1	303.6	Rhea_americana-ML516917.wav	D:\Andean\Rheidae\Rhea_americana-ML516917.wav	1	a

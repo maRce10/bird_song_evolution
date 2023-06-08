@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	229.024044626	229.854295548	1433.7	9096.9	Geospiza_acutirostris-ML85962.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_acutirostris-ML85962.wav	1	a
-2	Spectrogram 1	1	230.277986565	231.038908998	1631.5	9442.9	Geospiza_acutirostris-ML85962.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_acutirostris-ML85962.wav	2	a
-3	Spectrogram 1	1	235.763404832	236.564909796	1483.2	9146.3	Geospiza_acutirostris-ML85962.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Geospiza_acutirostris-ML85962.wav	3	a

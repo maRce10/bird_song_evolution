@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	55.335866311	55.618476079	1802.7	8464.7	Geokichla_guttata-ML22645.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_guttata-ML22645.wav	1	a
-2	Spectrogram 1	1	59.574437309	59.861718314	1907.2	8830.5	Geokichla_guttata-ML22645.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_guttata-ML22645.wav	2	b
-3	Spectrogram 1	1	68.543940891	68.833557514	1776.5	9091.7	Geokichla_guttata-ML22645.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Geokichla_guttata-ML22645.wav	3	c

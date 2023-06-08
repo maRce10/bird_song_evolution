@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.428223267	7.480253055	692.5	1329.6	Tinamus_osgoodi-ML48273311.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_osgoodi-ML48273311.wav	1	a
-2	Spectrogram 1	1	8.061592062	8.748629071	858.7	1191.1	Tinamus_osgoodi-ML48273311.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_osgoodi-ML48273311.wav	1	b
-3	Spectrogram 1	1	9.060964379	9.640455957	803.3	1163.4	Tinamus_osgoodi-ML48273311.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_osgoodi-ML48273311.wav	1	b
-4	Spectrogram 1	1	9.898094836	10.353917466	775.6	1052.6	Tinamus_osgoodi-ML48273311.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_osgoodi-ML48273311.wav	1	c
-6	Spectrogram 1	1	84.585416316	87.505323603	858.7	1218.8	Tinamus_osgoodi-ML48273311.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_osgoodi-ML48273311.wav	2	d
-7	Spectrogram 1	1	87.954540109	88.813336369	831.0	1163.4	Tinamus_osgoodi-ML48273311.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_osgoodi-ML48273311.wav	2	b
-8	Spectrogram 1	1	89.110611998	89.731587756	803.3	1135.7	Tinamus_osgoodi-ML48273311.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_osgoodi-ML48273311.wav	2	b
-9	Spectrogram 1	1	90.048681760	90.524322766	775.6	1052.6	Tinamus_osgoodi-ML48273311.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_osgoodi-ML48273311.wav	2	d

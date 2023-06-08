@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.034495051	1.196345116	1856.0	3157.9	Oriolus_tenuirostris-ML221873.wav	E:\Andean\Oriolidae\Oriolus_tenuirostris-ML221873.wav	1	a
-2	Spectrogram 1	1	1.249194116	1.480408494	941.8	1966.8	Oriolus_tenuirostris-ML221873.wav	E:\Andean\Oriolidae\Oriolus_tenuirostris-ML221873.wav	1	a
-3	Spectrogram 1	1	6.815271385	6.987030637	1856.0	3185.6	Oriolus_tenuirostris-ML221873.wav	E:\Andean\Oriolidae\Oriolus_tenuirostris-ML221873.wav	2	a
-4	Spectrogram 1	1	7.020061263	7.251275641	914.1	1966.8	Oriolus_tenuirostris-ML221873.wav	E:\Andean\Oriolidae\Oriolus_tenuirostris-ML221873.wav	2	a
-5	Spectrogram 1	1	14.683649224	14.848802351	1883.7	3157.9	Oriolus_tenuirostris-ML221873.wav	E:\Andean\Oriolidae\Oriolus_tenuirostris-ML221873.wav	3	a
-6	Spectrogram 1	1	14.888439101	15.126259604	941.8	1939.1	Oriolus_tenuirostris-ML221873.wav	E:\Andean\Oriolidae\Oriolus_tenuirostris-ML221873.wav	3	a

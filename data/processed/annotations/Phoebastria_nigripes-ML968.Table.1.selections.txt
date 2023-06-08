@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.647513542	13.809047301	140.1	2429.2	Phoebastria_nigripes-ML968.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebastria_nigripes-ML968.wav	1	a
-2	Spectrogram 1	1	14.099073822	14.236744639	140.1	2405.9	Phoebastria_nigripes-ML968.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebastria_nigripes-ML968.wav	2	a
-3	Spectrogram 1	1	14.750810590	14.897659461	186.9	2476.0	Phoebastria_nigripes-ML968.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebastria_nigripes-ML968.wav	3	a

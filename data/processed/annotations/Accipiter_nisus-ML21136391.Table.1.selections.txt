@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	367.296149001	367.725647441	1730.4	4672.0	Accipiter_nisus-ML21136391.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_nisus-ML21136391.wav	1	a
-2	Spectrogram 1	1	368.672740562	369.053201779	1755.1	4647.3	Accipiter_nisus-ML21136391.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_nisus-ML21136391.wav	2	a
-3	Spectrogram 1	1	370.017288000	370.445095502	1730.4	4622.6	Accipiter_nisus-ML21136391.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_nisus-ML21136391.wav	3	a

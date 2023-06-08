@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	310.690272939	310.878547504	1724.3	5721.5	Turdus_leucops-ML69637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_leucops-ML69637.wav	1	a
-2	Spectrogram 1	1	311.032139912	311.084988913	2116.2	6165.6	Turdus_leucops-ML69637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_leucops-ML69637.wav	1	b
-3	Spectrogram 1	1	311.101504226	311.142792508	2821.6	6505.3	Turdus_leucops-ML69637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_leucops-ML69637.wav	1	c
-4	Spectrogram 1	1	315.425071006	315.682709885	5460.2	10554.7	Turdus_leucops-ML69637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_leucops-ML69637.wav	2	d
-5	Spectrogram 1	1	315.849514543	315.890802825	1959.4	4441.4	Turdus_leucops-ML69637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_leucops-ML69637.wav	2	e
-6	Spectrogram 1	1	315.930439575	316.102198827	1227.9	3030.6	Turdus_leucops-ML69637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_leucops-ML69637.wav	2	f
-7	Spectrogram 1	1	319.347636714	319.681246031	1489.2	3840.5	Turdus_leucops-ML69637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_leucops-ML69637.wav	3	g
-8	Spectrogram 1	1	319.795201689	319.991733910	2063.9	3814.3	Turdus_leucops-ML69637.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Turdus_leucops-ML69637.wav	3	h

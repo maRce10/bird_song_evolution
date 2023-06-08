@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.400740994	9.482939197	2108.400	2779.608	Chrysococcyx_minutillus-ML71641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_minutillus-ML71641.wav	1	a
-2	Spectrogram 1	1	9.539505702	9.683573521	2086.400	2657.400	Chrysococcyx_minutillus-ML71641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_minutillus-ML71641.wav	1	b
-3	Spectrogram 1	1	9.777261795	9.943425904	1998.600	2591.500	Chrysococcyx_minutillus-ML71641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_minutillus-ML71641.wav	1	c
-4	Spectrogram 1	1	21.324128152	21.452286641	2318.500	2959.700	Chrysococcyx_minutillus-ML71641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_minutillus-ML71641.wav	2	b
-5	Spectrogram 1	1	21.480569894	21.586632091	2195.100	2885.700	Chrysococcyx_minutillus-ML71641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_minutillus-ML71641.wav	2	d
-6	Spectrogram 1	1	21.629940822	21.745725387	2047.100	2762.400	Chrysococcyx_minutillus-ML71641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_minutillus-ML71641.wav	2	b
-7	Spectrogram 1	1	21.802291893	21.933985788	2096.500	2663.800	Chrysococcyx_minutillus-ML71641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_minutillus-ML71641.wav	2	c
-8	Spectrogram 1	1	22.014416288	22.157600254	2064.400	2591.500	Chrysococcyx_minutillus-ML71641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Chrysococcyx_minutillus-ML71641.wav	2	c

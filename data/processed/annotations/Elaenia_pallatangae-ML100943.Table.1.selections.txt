@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	15.431040152	15.671608798	2142.3	4728.7	Elaenia_pallatangae-ML100943.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pallatangae-ML100943.wav	1	a
-2	Spectrogram 1	1	17.116187719	17.342742657	2168.4	4833.2	Elaenia_pallatangae-ML100943.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pallatangae-ML100943.wav	2	a
-3	Spectrogram 1	1	18.121671109	18.362239755	2116.2	4781.0	Elaenia_pallatangae-ML100943.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_pallatangae-ML100943.wav	3	a

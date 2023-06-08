@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	77.023669606	77.130135038	46.716	1635.064	Procnias_averano-ML62843.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Procnias_averano-ML62843.wav	1	a
-2	Spectrogram 1	1	86.397196958	86.496319947	46.716	1611.706	Procnias_averano-ML62843.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Procnias_averano-ML62843.wav	2	a
-3	Spectrogram 1	1	105.899207669	105.998330657	46.716	1681.780	Procnias_averano-ML62843.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Procnias_averano-ML62843.wav	3	a

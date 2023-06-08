@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.065858740	2.565144904	584.0	2522.7	Chroicocephalus_novaehollandiae-ML55710851.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_novaehollandiae-ML55710851.wav	1	a
-2	Spectrogram 1	1	10.531649056	10.893264402	887.6	2803.0	Chroicocephalus_novaehollandiae-ML55710851.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_novaehollandiae-ML55710851.wav	2	a
-3	Spectrogram 1	1	14.658736718	14.935913963	1004.4	2989.8	Chroicocephalus_novaehollandiae-ML55710851.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_novaehollandiae-ML55710851.wav	3	a

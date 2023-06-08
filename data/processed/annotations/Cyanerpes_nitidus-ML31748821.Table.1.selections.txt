@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.591828560	0.716958026	4819.5	9812.9	Cyanerpes_nitidus-ML31748821.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanerpes_nitidus-ML31748821.wav	1	a
-2	Spectrogram 1	1	2.388367317	2.511805846	4943.1	9862.3	Cyanerpes_nitidus-ML31748821.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanerpes_nitidus-ML31748821.wav	2	a
-3	Spectrogram 1	1	4.626701460	4.728157784	6203.8	9541.0	Cyanerpes_nitidus-ML31748821.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanerpes_nitidus-ML31748821.wav	3	a
-4	Spectrogram 1	1	6.713152557	6.846736718	5981.3	9936.5	Cyanerpes_nitidus-ML31748821.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanerpes_nitidus-ML31748821.wav	4	a
-5	Spectrogram 1	1	10.020101052	10.162139907	4127.3	9985.9	Cyanerpes_nitidus-ML31748821.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cyanerpes_nitidus-ML31748821.wav	5	a

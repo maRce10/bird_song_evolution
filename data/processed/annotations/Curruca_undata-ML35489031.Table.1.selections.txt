@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.128544709	0.430130373	2160.7	4847.7	Curruca_undata-ML35489031.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_undata-ML35489031.wav	1	a
-2	Spectrogram 1	1	2.432461422	2.694494868	2188.4	4847.7	Curruca_undata-ML35489031.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_undata-ML35489031.wav	2	a
-3	Spectrogram 1	1	4.859978818	5.126956291	1994.5	5124.7	Curruca_undata-ML35489031.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Curruca_undata-ML35489031.wav	3	a

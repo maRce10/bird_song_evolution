@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	160.750955863	160.975564116	1440.5	2714.7	Glossopsitta_concinna-ML232891.wav	D:\Andean\Psittaculidae\Glossopsitta_concinna-ML232891.wav	1	a
-2	Spectrogram 1	1	162.058968630	162.276970758	1468.2	2631.6	Glossopsitta_concinna-ML232891.wav	D:\Andean\Psittaculidae\Glossopsitta_concinna-ML232891.wav	2	b
-3	Spectrogram 1	1	162.448730010	162.706368888	1357.3	2908.6	Glossopsitta_concinna-ML232891.wav	D:\Andean\Psittaculidae\Glossopsitta_concinna-ML232891.wav	3	a

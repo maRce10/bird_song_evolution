@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	136.835730716	137.664799414	470.9	5318.6	Vireolanius_melitophrys-ML31998161.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireolanius_melitophrys-ML31998161.wav	1	a
-2	Spectrogram 1	1	139.075207119	139.894366630	554.0	5180.1	Vireolanius_melitophrys-ML31998161.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireolanius_melitophrys-ML31998161.wav	2	a
-3	Spectrogram 1	1	141.080167027	141.902629600	526.3	5318.6	Vireolanius_melitophrys-ML31998161.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireolanius_melitophrys-ML31998161.wav	3	a

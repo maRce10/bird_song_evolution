@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.776281565	5.836563082	247.2	2348.4	Chloephaga_hybrida-ML112859121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chloephaga_hybrida-ML112859121.wav	1	a
-2	Spectrogram 1	1	6.185841286	6.262079676	420.2	2397.8	Chloephaga_hybrida-ML112859121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chloephaga_hybrida-ML112859121.wav	2	a
-3	Spectrogram 1	1	6.387961668	6.465973044	445.0	2373.1	Chloephaga_hybrida-ML112859121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chloephaga_hybrida-ML112859121.wav	3	a

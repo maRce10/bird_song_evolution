@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	134.043312673	134.578408804	733.3	3928.1	Piculus_callopterus-ML60344.wav	D:\Andean\Picidae\Piculus_callopterus-ML60344.wav	1	a
-2	Spectrogram 1	1	135.188799478	135.717289485	759.4	3980.5	Piculus_callopterus-ML60344.wav	D:\Andean\Picidae\Piculus_callopterus-ML60344.wav	1	a
-3	Spectrogram 1	1	136.397720368	136.926210375	838.0	4006.7	Piculus_callopterus-ML60344.wav	D:\Andean\Picidae\Piculus_callopterus-ML60344.wav	1	a
-4	Spectrogram 1	1	147.161626892	147.703329149	759.4	4059.1	Piculus_callopterus-ML60344.wav	D:\Andean\Picidae\Piculus_callopterus-ML60344.wav	2	a
-5	Spectrogram 1	1	148.271455906	148.773521412	864.2	4085.3	Piculus_callopterus-ML60344.wav	D:\Andean\Picidae\Piculus_callopterus-ML60344.wav	2	a
-6	Spectrogram 1	1	151.162703849	151.717618356	838.0	4032.9	Piculus_callopterus-ML60344.wav	D:\Andean\Picidae\Piculus_callopterus-ML60344.wav	3	a

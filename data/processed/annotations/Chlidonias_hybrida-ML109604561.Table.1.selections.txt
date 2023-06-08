@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.850997925	5.986833131	594.6	6276.3	Chlidonias_hybrida-ML109604561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chlidonias_hybrida-ML109604561.wav	1	a
-2	Spectrogram 1	1	7.873841131	8.002333893	759.8	6210.3	Chlidonias_hybrida-ML109604561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chlidonias_hybrida-ML109604561.wav	2	a
-3	Spectrogram 1	1	9.099475788	9.220626107	958.0	6309.4	Chlidonias_hybrida-ML109604561.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chlidonias_hybrida-ML109604561.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.795603360	13.856477154	5511.6	7118.4	Alcedo_atthis-ML56433.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_atthis-ML56433.wav	1	a
-2	Spectrogram 1	1	13.986679437	14.174373638	5239.7	6006.0	Alcedo_atthis-ML56433.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_atthis-ML56433.wav	1	b
-3	Spectrogram 1	1	14.656291179	14.723928729	5289.2	6871.2	Alcedo_atthis-ML56433.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_atthis-ML56433.wav	2	a
-4	Spectrogram 1	1	14.847367257	15.048588967	5165.6	6154.4	Alcedo_atthis-ML56433.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_atthis-ML56433.wav	2	b
-5	Spectrogram 1	1	16.513506331	16.570998248	5264.4	6846.5	Alcedo_atthis-ML56433.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_atthis-ML56433.wav	3	a
-6	Spectrogram 1	1	16.699509592	16.899040364	4943.1	6055.5	Alcedo_atthis-ML56433.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_atthis-ML56433.wav	3	b

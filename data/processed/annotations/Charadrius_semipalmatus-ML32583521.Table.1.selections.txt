@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.940711962	3.211773285	1137.1	3584.4	Charadrius_semipalmatus-ML32583521.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_semipalmatus-ML32583521.wav	1	a
-2	Spectrogram 1	1	4.272838077	4.556300898	1013.5	3930.4	Charadrius_semipalmatus-ML32583521.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_semipalmatus-ML32583521.wav	2	a
-3	Spectrogram 1	1	10.213955176	10.465528431	1038.2	3955.2	Charadrius_semipalmatus-ML32583521.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_semipalmatus-ML32583521.wav	3	a

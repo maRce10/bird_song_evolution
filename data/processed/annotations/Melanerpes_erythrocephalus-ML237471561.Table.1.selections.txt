@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.555757358	9.793577861	1047.5	2278.3	Melanerpes_erythrocephalus-ML237471561.wav	D:\Andean\Picidae\Melanerpes_erythrocephalus-ML237471561.wav	1	a
-2	Spectrogram 1	1	11.556046031	11.793866534	1099.9	2304.5	Melanerpes_erythrocephalus-ML237471561.wav	D:\Andean\Picidae\Melanerpes_erythrocephalus-ML237471561.wav	2	a
-3	Spectrogram 1	1	13.709642808	13.960675561	1126.1	2383.1	Melanerpes_erythrocephalus-ML237471561.wav	D:\Andean\Picidae\Melanerpes_erythrocephalus-ML237471561.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.672274713	2.962301235	373.7	2265.7	Corvus_orru-ML62821801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_orru-ML62821801.wav	1	a
-2	Spectrogram 1	1	3.859914962	4.153612705	350.4	2195.7	Corvus_orru-ML62821801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_orru-ML62821801.wav	1	a
-3	Spectrogram 1	1	12.754969205	13.057845002	303.7	2148.9	Corvus_orru-ML62821801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_orru-ML62821801.wav	2	a
-4	Spectrogram 1	1	13.733349811	14.028883165	350.4	2195.7	Corvus_orru-ML62821801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_orru-ML62821801.wav	2	a
-5	Spectrogram 1	1	21.928305689	22.227510265	373.7	2265.7	Corvus_orru-ML62821801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_orru-ML62821801.wav	3	a
-6	Spectrogram 1	1	22.893837019	23.200384039	350.4	2242.4	Corvus_orru-ML62821801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_orru-ML62821801.wav	2	a

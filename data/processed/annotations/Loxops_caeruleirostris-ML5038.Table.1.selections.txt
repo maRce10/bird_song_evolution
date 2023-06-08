@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	140.460923167	140.669441356	2284.100	6068.260	Loxops_caeruleirostris-ML5038.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Loxops_caeruleirostris-ML5038.wav	1	a
-2	Spectrogram 1	1	151.622733098	151.845799068	1910.700	6208.408	Loxops_caeruleirostris-ML5038.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Loxops_caeruleirostris-ML5038.wav	2	a
-3	Spectrogram 1	1	187.173440170	187.386807619	1998.600	6138.334	Loxops_caeruleirostris-ML5038.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Loxops_caeruleirostris-ML5038.wav	3	a

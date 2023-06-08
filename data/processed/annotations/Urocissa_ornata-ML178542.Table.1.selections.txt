@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	246.841479461	246.969883739	3008.8	4853.6	Urocissa_ornata-ML178542.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_ornata-ML178542.wav	1	a
-2	Spectrogram 1	1	250.149113071	250.253407565	3074.7	4875.6	Urocissa_ornata-ML178542.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_ornata-ML178542.wav	2	a
-3	Spectrogram 1	1	254.258519391	254.364581588	2870.3	4882.1	Urocissa_ornata-ML178542.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_ornata-ML178542.wav	3	a

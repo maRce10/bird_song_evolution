@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	27.918706377	30.230850156	1856.0	3047.1	Myiagra_alecto-ML13932.wav	E:\Andean\Monarchidae\Myiagra_alecto-ML13932.wav	1	a
-2	Spectrogram 1	1	34.690293858	37.233652015	1856.0	2991.7	Myiagra_alecto-ML13932.wav	E:\Andean\Monarchidae\Myiagra_alecto-ML13932.wav	2	a
-3	Spectrogram 1	1	41.384340796	44.284429708	1856.0	2991.7	Myiagra_alecto-ML13932.wav	E:\Andean\Monarchidae\Myiagra_alecto-ML13932.wav	3	a

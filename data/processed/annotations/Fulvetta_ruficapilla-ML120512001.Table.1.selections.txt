@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.686402163	17.224801358	3268.7	4653.8	Fulvetta_ruficapilla-ML120512001.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_ruficapilla-ML120512001.wav	1	a
-2	Spectrogram 1	1	20.785502777	21.290871398	3379.5	4570.7	Fulvetta_ruficapilla-ML120512001.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_ruficapilla-ML120512001.wav	2	a
-3	Spectrogram 1	1	25.139184173	25.644552742	3407.2	4570.7	Fulvetta_ruficapilla-ML120512001.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_ruficapilla-ML120512001.wav	3	a

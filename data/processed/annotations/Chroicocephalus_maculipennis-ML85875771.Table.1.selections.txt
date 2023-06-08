@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.912344864	6.989440522	770.8	3620.5	Chroicocephalus_maculipennis-ML85875771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_maculipennis-ML85875771.wav	1	a
-2	Spectrogram 1	1	7.101412787	7.173001611	934.3	3597.1	Chroicocephalus_maculipennis-ML85875771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_maculipennis-ML85875771.wav	1	a
-3	Spectrogram 1	1	9.126919464	9.207686343	700.7	3667.2	Chroicocephalus_maculipennis-ML85875771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_maculipennis-ML85875771.wav	2	a
-4	Spectrogram 1	1	9.341685939	9.413274764	700.7	3503.7	Chroicocephalus_maculipennis-ML85875771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_maculipennis-ML85875771.wav	2	a
-5	Spectrogram 1	1	9.866670655	9.951108756	607.3	3527.1	Chroicocephalus_maculipennis-ML85875771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_maculipennis-ML85875771.wav	3	a

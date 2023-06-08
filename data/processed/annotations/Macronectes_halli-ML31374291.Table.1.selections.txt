@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.886057449	7.451709094	304.7	2354.6	Macronectes_halli-ML31374291.wav	D:\Andean\Procellariidae\Macronectes_halli-ML31374291.wav	1	a
-2	Spectrogram 1	1	14.764532102	16.607641001	443.2	2105.3	Macronectes_halli-ML31374291.wav	D:\Andean\Procellariidae\Macronectes_halli-ML31374291.wav	2	a
-3	Spectrogram 1	1	18.651714015	21.518772301	360.1	2880.9	Macronectes_halli-ML31374291.wav	D:\Andean\Procellariidae\Macronectes_halli-ML31374291.wav	3	a

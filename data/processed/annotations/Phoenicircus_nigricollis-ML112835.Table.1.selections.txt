@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.458594735	7.647662657	285.500	1691.100	Phoenicircus_nigricollis-ML112835.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phoenicircus_nigricollis-ML112835.wav	1	a
-2	Spectrogram 1	1	8.003771171	8.208096719	483.200	1800.900	Phoenicircus_nigricollis-ML112835.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phoenicircus_nigricollis-ML112835.wav	1	b
-3	Spectrogram 1	1	18.554328904	18.718720046	241.600	1844.800	Phoenicircus_nigricollis-ML112835.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phoenicircus_nigricollis-ML112835.wav	2	a
-4	Spectrogram 1	1	19.089395529	19.383618109	131.800	1954.600	Phoenicircus_nigricollis-ML112835.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phoenicircus_nigricollis-ML112835.wav	2	b

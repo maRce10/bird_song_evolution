@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.336637248	4.384471599	2150.6	3460.8	Charadrius_peronii-ML70625.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_peronii-ML70625.wav	1	a
-2	Spectrogram 1	1	9.137209432	9.195673639	2200.1	3633.8	Charadrius_peronii-ML70625.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_peronii-ML70625.wav	2	a
-3	Spectrogram 1	1	15.236651273	15.289800552	1928.1	3609.1	Charadrius_peronii-ML70625.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_peronii-ML70625.wav	3	

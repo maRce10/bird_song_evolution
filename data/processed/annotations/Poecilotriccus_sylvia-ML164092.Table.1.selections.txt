@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.197095173	8.218115734	1201.8	2769.3	Poecilotriccus_sylvia-ML164092.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_sylvia-ML164092.wav	1	a
-2	Spectrogram 1	1	8.580134732	8.872086972	1097.3	2403.6	Poecilotriccus_sylvia-ML164092.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_sylvia-ML164092.wav	1	b
-3	Spectrogram 1	1	9.063607642	9.312350950	914.4	2377.4	Poecilotriccus_sylvia-ML164092.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_sylvia-ML164092.wav	1	c
-4	Spectrogram 1	1	33.969489300	33.991677670	1175.7	2743.2	Poecilotriccus_sylvia-ML164092.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_sylvia-ML164092.wav	2	a
-5	Spectrogram 1	1	34.295308000	34.676013721	992.8	2403.6	Poecilotriccus_sylvia-ML164092.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_sylvia-ML164092.wav	2	d
-6	Spectrogram 1	1	41.407359538	41.427212290	1123.4	2717.1	Poecilotriccus_sylvia-ML164092.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_sylvia-ML164092.wav	3	a
-7	Spectrogram 1	1	41.854630370	42.150086037	836.0	2403.6	Poecilotriccus_sylvia-ML164092.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_sylvia-ML164092.wav	3	b
-8	Spectrogram 1	1	42.206140867	42.431527997	1097.3	2377.4	Poecilotriccus_sylvia-ML164092.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Poecilotriccus_sylvia-ML164092.wav	3	e

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.133017383	2.182513076	1254.3	1947.5	Agelaius_assimilis-ML59793071.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_assimilis-ML59793071.wav	1	a
-2	Spectrogram 1	1	2.145991795	2.821254453	2174.3	5095.2	Agelaius_assimilis-ML59793071.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_assimilis-ML59793071.wav	1	b
-3	Spectrogram 1	1	11.265655182	11.311615467	1188.3	1782.5	Agelaius_assimilis-ML59793071.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_assimilis-ML59793071.wav	2	a
-4	Spectrogram 1	1	11.278945394	11.932995612	2284.1	5183.1	Agelaius_assimilis-ML59793071.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_assimilis-ML59793071.wav	2	b
-5	Spectrogram 1	1	22.869992452	22.915952737	1254.3	1848.5	Agelaius_assimilis-ML59793071.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_assimilis-ML59793071.wav	3	a
-6	Spectrogram 1	1	22.873527858	23.502830230	2244.6	5050.4	Agelaius_assimilis-ML59793071.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_assimilis-ML59793071.wav	3	b

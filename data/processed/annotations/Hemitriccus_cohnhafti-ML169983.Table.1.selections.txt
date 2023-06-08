@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	79.445516783	79.703155661	1094.2	2340.7	Hemitriccus_cohnhafti-ML169983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cohnhafti-ML169983.wav	1	a
-2	Spectrogram 1	1	81.377808369	81.698205436	1094.2	2340.7	Hemitriccus_cohnhafti-ML169983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cohnhafti-ML169983.wav	2	a
-3	Spectrogram 1	1	83.636408704	83.933684333	1094.2	2368.4	Hemitriccus_cohnhafti-ML169983.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_cohnhafti-ML169983.wav	3	a

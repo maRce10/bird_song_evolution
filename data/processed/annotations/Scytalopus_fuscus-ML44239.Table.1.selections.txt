@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	28.654750322	28.958632076	914.1	3074.8	Scytalopus_fuscus-ML44239.wav	D:\Andean\Rhinocryptidae\Scytalopus_fuscus-ML44239.wav	1	a
-2	Spectrogram 1	1	29.543274145	29.840549774	941.8	3379.5	Scytalopus_fuscus-ML44239.wav	D:\Andean\Rhinocryptidae\Scytalopus_fuscus-ML44239.wav	2	a
-3	Spectrogram 1	1	30.375645906	30.676224597	969.5	3324.1	Scytalopus_fuscus-ML44239.wav	D:\Andean\Rhinocryptidae\Scytalopus_fuscus-ML44239.wav	3	a

@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	15.965503674	16.856426133	636.9	3360.2	Daptrius_ater-ML89019.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Daptrius_ater-ML89019.wav	1	a
-2	Spectrogram 1	1	19.041337122	19.882763888	636.9	2986.9	Daptrius_ater-ML89019.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Daptrius_ater-ML89019.wav	1	b
-3	Spectrogram 1	1	34.163114536	35.071714028	685.9	3378.6	Daptrius_ater-ML89019.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Daptrius_ater-ML89019.wav	2	a
-4	Spectrogram 1	1	36.422239342	37.207099603	702.8	2921.0	Daptrius_ater-ML89019.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Daptrius_ater-ML89019.wav	2	b
-5	Spectrogram 1	1	41.826127459	42.621593940	685.9	2972.2	Daptrius_ater-ML89019.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Daptrius_ater-ML89019.wav	3	b

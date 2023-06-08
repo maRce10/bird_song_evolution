@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.609208924	4.788280491	321.4	2125.9	Bucephala_albeola-ML3706.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Bucephala_albeola-ML3706.wav	1	a
-2	Spectrogram 1	1	5.132239737	5.291808460	247.2	2348.4	Bucephala_albeola-ML3706.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Bucephala_albeola-ML3706.wav	2	a
-3	Spectrogram 1	1	6.041781456	6.192485250	346.1	2175.3	Bucephala_albeola-ML3706.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Bucephala_albeola-ML3706.wav	3	a

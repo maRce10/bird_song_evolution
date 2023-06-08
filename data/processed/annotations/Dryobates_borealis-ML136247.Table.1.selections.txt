@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	64.360443807	64.492566308	1833.1	6049.3	Dryobates_borealis-ML136247.wav	D:\Andean\Picidae\Dryobates_borealis-ML136247.wav	1	a
-2	Spectrogram 1	1	65.424029945	65.602395322	1492.7	6154.1	Dryobates_borealis-ML136247.wav	D:\Andean\Picidae\Dryobates_borealis-ML136247.wav	1	a
-3	Spectrogram 1	1	66.923620339	67.075561216	1754.6	6180.3	Dryobates_borealis-ML136247.wav	D:\Andean\Picidae\Dryobates_borealis-ML136247.wav	2	a
-4	Spectrogram 1	1	67.671887816	67.843647068	1623.6	6154.1	Dryobates_borealis-ML136247.wav	D:\Andean\Picidae\Dryobates_borealis-ML136247.wav	2	a
-5	Spectrogram 1	1	68.867596456	69.026143458	1571.3	6363.6	Dryobates_borealis-ML136247.wav	D:\Andean\Picidae\Dryobates_borealis-ML136247.wav	3	a
-6	Spectrogram 1	1	69.455541588	69.614088590	1545.1	6285.0	Dryobates_borealis-ML136247.wav	D:\Andean\Picidae\Dryobates_borealis-ML136247.wav	3	a
-7	Spectrogram 1	1	70.096335721	70.248276598	1676.0	6520.7	Dryobates_borealis-ML136247.wav	D:\Andean\Picidae\Dryobates_borealis-ML136247.wav	3	a

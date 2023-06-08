@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	35.555736267	36.123863025	2090.0	4023.3	Elaenia_flavogaster-ML184581.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_flavogaster-ML184581.wav	1	a
-2	Spectrogram 1	1	48.723396576	49.324553958	1933.3	4206.2	Elaenia_flavogaster-ML184581.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_flavogaster-ML184581.wav	2	b
-3	Spectrogram 1	1	57.572403649	58.160348782	2090.0	4023.3	Elaenia_flavogaster-ML184581.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_flavogaster-ML184581.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.270973115	9.457658537	731.5	1436.9	Glaucidium_siju-ML121914.wav	D:\Andean\Strigidae\Glaucidium_siju-ML121914.wav	1	a
-2	Spectrogram 1	1	16.052751447	16.226102196	809.9	1463.0	Glaucidium_siju-ML121914.wav	D:\Andean\Strigidae\Glaucidium_siju-ML121914.wav	2	a
-3	Spectrogram 1	1	23.374752490	23.541435903	862.1	1436.9	Glaucidium_siju-ML121914.wav	D:\Andean\Strigidae\Glaucidium_siju-ML121914.wav	3	a

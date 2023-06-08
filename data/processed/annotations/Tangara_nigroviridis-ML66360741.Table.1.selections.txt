@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.575374046	1.616434200	5135.7	7020.0	Tangara_nigroviridis-ML66360741.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_nigroviridis-ML66360741.wav	1	a
-2	Spectrogram 1	1	1.684146983	1.713048780	6539.6	8460.9	Tangara_nigroviridis-ML66360741.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_nigroviridis-ML66360741.wav	1	b
-3	Spectrogram 1	1	1.993809187	2.058218907	5763.8	8867.3	Tangara_nigroviridis-ML66360741.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_nigroviridis-ML66360741.wav	1	c
-4	Spectrogram 1	1	3.508669072	3.587942573	6318.0	8830.4	Tangara_nigroviridis-ML66360741.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_nigroviridis-ML66360741.wav	2	c
-5	Spectrogram 1	1	6.371186857	6.443028467	6318.0	9864.9	Tangara_nigroviridis-ML66360741.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_nigroviridis-ML66360741.wav	3	c
-6	Spectrogram 1	1	9.180485973	9.258107943	6465.8	8460.9	Tangara_nigroviridis-ML66360741.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_nigroviridis-ML66360741.wav	4	c
-7	Spectrogram 1	1	11.102658744	11.179454948	6687.4	10640.8	Tangara_nigroviridis-ML66360741.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_nigroviridis-ML66360741.wav	5	c

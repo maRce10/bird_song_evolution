@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.795016581	10.336718838	1135.7	3213.3	Synoicus_chinensis-ML40407851.wav	D:\Andean\Phasianidae\Synoicus_chinensis-ML40407851.wav	1	a
-2	Spectrogram 1	1	12.318556363	12.873470870	1191.1	3130.2	Synoicus_chinensis-ML40407851.wav	D:\Andean\Phasianidae\Synoicus_chinensis-ML40407851.wav	2	a
-3	Spectrogram 1	1	15.826408782	16.401141665	1163.4	3185.6	Synoicus_chinensis-ML40407851.wav	D:\Andean\Phasianidae\Synoicus_chinensis-ML40407851.wav	3	a

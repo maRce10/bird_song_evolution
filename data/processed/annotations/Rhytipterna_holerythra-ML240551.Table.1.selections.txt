@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	20.911879474	21.119749469	1634.4	2216.1	Rhytipterna_holerythra-ML240551.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_holerythra-ML240551.wav	1	a
-2	Spectrogram 1	1	21.194489243	21.311270139	1412.8	1883.7	Rhytipterna_holerythra-ML240551.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_holerythra-ML240551.wav	1	b
-3	Spectrogram 1	1	21.593879907	21.773722487	1800.6	2382.3	Rhytipterna_holerythra-ML240551.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_holerythra-ML240551.wav	2	a
-4	Spectrogram 1	1	21.937215742	22.086695289	1468.2	1966.8	Rhytipterna_holerythra-ML240551.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_holerythra-ML240551.wav	2	b
-5	Spectrogram 1	1	22.310914609	22.518784604	1939.1	2382.3	Rhytipterna_holerythra-ML240551.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_holerythra-ML240551.wav	3	a
-6	Spectrogram 1	1	22.658921680	22.827086170	1468.2	1966.8	Rhytipterna_holerythra-ML240551.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhytipterna_holerythra-ML240551.wav	3	b

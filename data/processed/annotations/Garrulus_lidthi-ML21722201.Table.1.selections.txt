@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.597341461	2.362313911	363.4	3531.3	Garrulus_lidthi-ML21722201.wav	E:\Escritorio\Cantos\Corvidae\Garrulus_lidthi-ML21722201.wav	1	a
-2	Spectrogram 1	1	8.318829544	9.018804335	419.0	3415.4	Garrulus_lidthi-ML21722201.wav	E:\Escritorio\Cantos\Corvidae\Garrulus_lidthi-ML21722201.wav	2	a
-3	Spectrogram 1	1	13.309965805	14.039939515	461.9	3492.7	Garrulus_lidthi-ML21722201.wav	E:\Escritorio\Cantos\Corvidae\Garrulus_lidthi-ML21722201.wav	3	a

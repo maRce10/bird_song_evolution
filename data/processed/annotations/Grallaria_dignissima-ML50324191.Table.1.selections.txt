@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	10.649916736	11.002387564	845.9	3129.9	Grallaria_dignissima-ML50324191.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_dignissima-ML50324191.wav	1	a
-2	Spectrogram 1	1	11.117480079	11.923127685	845.9	3017.1	Grallaria_dignissima-ML50324191.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_dignissima-ML50324191.wav	1	b
-3	Spectrogram 1	1	18.938103418	19.297767527	761.3	3045.3	Grallaria_dignissima-ML50324191.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_dignissima-ML50324191.wav	2	a
-4	Spectrogram 1	1	19.376893631	20.290440470	874.1	3073.5	Grallaria_dignissima-ML50324191.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_dignissima-ML50324191.wav	2	b
-5	Spectrogram 1	1	60.253271295	60.620128687	789.5	3073.5	Grallaria_dignissima-ML50324191.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_dignissima-ML50324191.wav	3	a
-6	Spectrogram 1	1	60.735221202	61.598415065	902.3	3129.9	Grallaria_dignissima-ML50324191.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_dignissima-ML50324191.wav	3	b

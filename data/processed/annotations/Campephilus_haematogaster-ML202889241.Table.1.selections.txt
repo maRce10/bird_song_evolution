@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.098796431	18.183495440	811.8	7306.4	Campephilus_haematogaster-ML202889241.wav	D:\Andean\Picidae\Campephilus_haematogaster-ML202889241.wav	1	a
-3	Spectrogram 1	1	19.844935898	19.907694086	654.7	7515.9	Campephilus_haematogaster-ML202889241.wav	D:\Andean\Picidae\Campephilus_haematogaster-ML202889241.wav	2	a
-4	Spectrogram 1	1	20.938249599	21.001007788	733.3	7515.9	Campephilus_haematogaster-ML202889241.wav	D:\Andean\Picidae\Campephilus_haematogaster-ML202889241.wav	3	a

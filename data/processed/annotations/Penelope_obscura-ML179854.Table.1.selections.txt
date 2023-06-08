@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	105.268762446	105.406433263	78.400	1384.700	Penelope_obscura-ML179854.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_obscura-ML179854.wav	1	a
-2	Spectrogram 1	1	105.455994758	105.656076345	104.500	1306.300	Penelope_obscura-ML179854.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_obscura-ML179854.wav	1	b
-3	Spectrogram 1	1	105.966294586	106.118322041	78.400	1463.000	Penelope_obscura-ML179854.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_obscura-ML179854.wav	2	a
-4	Spectrogram 1	1	106.177389839	106.327909932	104.500	1384.700	Penelope_obscura-ML179854.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_obscura-ML179854.wav	2	b
-5	Spectrogram 1	1	107.162116316	107.310800798	104.500	1436.900	Penelope_obscura-ML179854.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_obscura-ML179854.wav	3	a
-6	Spectrogram 1	1	107.349348627	107.525567273	93.432	1227.900	Penelope_obscura-ML179854.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_obscura-ML179854.wav	3	b

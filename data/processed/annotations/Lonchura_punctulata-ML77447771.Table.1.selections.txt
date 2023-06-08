@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.976812342	3.015701815	922.400	6210.500	Lonchura_punctulata-ML77447771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_punctulata-ML77447771.wav	1	a
-2	Spectrogram 1	1	3.033378848	3.203078364	966.300	4111.017	Lonchura_punctulata-ML77447771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_punctulata-ML77447771.wav	1	b
-3	Spectrogram 1	1	8.192671857	8.224490516	1537.400	6466.900	Lonchura_punctulata-ML77447771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_punctulata-ML77447771.wav	2	a
-4	Spectrogram 1	1	8.249238362	8.411867065	1361.700	4111.017	Lonchura_punctulata-ML77447771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_punctulata-ML77447771.wav	2	b
-5	Spectrogram 1	1	11.090030050	11.128919522	1383.600	6654.500	Lonchura_punctulata-ML77447771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_punctulata-ML77447771.wav	3	a
-6	Spectrogram 1	1	11.146596555	11.302154445	1427.500	4087.659	Lonchura_punctulata-ML77447771.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_punctulata-ML77447771.wav	3	b

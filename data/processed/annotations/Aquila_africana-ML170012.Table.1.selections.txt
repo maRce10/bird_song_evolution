@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.092529867	8.762141608	1928.1	4721.5	Aquila_africana-ML170012.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_africana-ML170012.wav	1	a
-2	Spectrogram 1	1	12.892955308	13.615831620	1878.7	4597.9	Aquila_africana-ML170012.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_africana-ML170012.wav	2	a
-3	Spectrogram 1	1	17.037755766	17.747950037	1730.4	4647.3	Aquila_africana-ML170012.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_africana-ML170012.wav	3	a

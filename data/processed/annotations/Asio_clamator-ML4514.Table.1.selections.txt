@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	67.949369346	68.286281725	195.9	666.2	Asio_clamator-ML4514.wav	D:\Andean\Strigidae\Asio_clamator-ML4514.wav	1	a
-2	Spectrogram 1	1	75.414290690	75.777627569	169.8	640.1	Asio_clamator-ML4514.wav	D:\Andean\Strigidae\Asio_clamator-ML4514.wav	2	a
-3	Spectrogram 1	1	83.106614718	83.456739348	195.9	640.1	Asio_clamator-ML4514.wav	D:\Andean\Strigidae\Asio_clamator-ML4514.wav	3	a

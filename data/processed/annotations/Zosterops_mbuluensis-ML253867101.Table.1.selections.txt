@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.923598497	3.163001457	2549.4	4175.0	Zosterops_mbuluensis-ML253867101.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_mbuluensis-ML253867101.wav	1	a
-2	Spectrogram 1	1	3.397042291	3.558965597	2420.0	3620.8	Zosterops_mbuluensis-ML253867101.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_mbuluensis-ML253867101.wav	1	b
-3	Spectrogram 1	1	6.642235356	6.925601142	2512.4	4396.7	Zosterops_mbuluensis-ML253867101.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_mbuluensis-ML253867101.wav	2	a
-4	Spectrogram 1	1	7.113284974	7.326729332	2383.1	4064.2	Zosterops_mbuluensis-ML253867101.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_mbuluensis-ML253867101.wav	2	b
-5	Spectrogram 1	1	9.500309943	9.750555052	2457.0	4285.9	Zosterops_mbuluensis-ML253867101.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_mbuluensis-ML253867101.wav	3	a
-6	Spectrogram 1	1	9.842556930	10.033920837	2457.0	4230.5	Zosterops_mbuluensis-ML253867101.wav	C:\Users\pfmar\Downloads\Andean\Zosteropidae\Zosterops_mbuluensis-ML253867101.wav	3	b

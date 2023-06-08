@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.451750856	7.944267508	1051.1	2826.3	Phegornis_mitchellii-ML44209.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Phegornis_mitchellii-ML44209.wav	1	a
-2	Spectrogram 1	1	8.323399033	8.821230613	1051.1	2989.8	Phegornis_mitchellii-ML44209.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Phegornis_mitchellii-ML44209.wav	1	a
-3	Spectrogram 1	1	14.031780675	14.506580902	607.3	2732.9	Phegornis_mitchellii-ML44209.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Phegornis_mitchellii-ML44209.wav	2	a
-4	Spectrogram 1	1	25.845108816	26.326995613	677.4	2826.3	Phegornis_mitchellii-ML44209.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Phegornis_mitchellii-ML44209.wav	3	a

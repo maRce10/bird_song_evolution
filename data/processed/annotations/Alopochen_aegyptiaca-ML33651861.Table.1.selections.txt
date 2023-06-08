@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.418999333	1.670949205	543.8	4721.5	Alopochen_aegyptiaca-ML33651861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Alopochen_aegyptiaca-ML33651861.wav	1	a
-2	Spectrogram 1	1	1.872170915	2.103829523	395.5	4894.5	Alopochen_aegyptiaca-ML33651861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Alopochen_aegyptiaca-ML33651861.wav	2	
-3	Spectrogram 1	1	2.757412991	3.012744741	543.8	4820.3	Alopochen_aegyptiaca-ML33651861.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Alopochen_aegyptiaca-ML33651861.wav	3	a

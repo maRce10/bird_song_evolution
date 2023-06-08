@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.871153043	2.300551174	1126.1	1649.8	Arborophila_rufogularis-ML53422071.wav	D:\Andean\Phasianidae\Arborophila_rufogularis-ML53422071.wav	1	a
-2	Spectrogram 1	1	2.630857428	3.582139440	1021.3	1597.4	Arborophila_rufogularis-ML53422071.wav	D:\Andean\Phasianidae\Arborophila_rufogularis-ML53422071.wav	1	b
-3	Spectrogram 1	1	6.455803851	6.878595856	1126.1	1623.6	Arborophila_rufogularis-ML53422071.wav	D:\Andean\Phasianidae\Arborophila_rufogularis-ML53422071.wav	2	a
-4	Spectrogram 1	1	7.195689860	8.094122872	1099.9	1649.8	Arborophila_rufogularis-ML53422071.wav	D:\Andean\Phasianidae\Arborophila_rufogularis-ML53422071.wav	2	b
-5	Spectrogram 1	1	10.067787093	10.544253149	1152.3	1623.6	Arborophila_rufogularis-ML53422071.wav	D:\Andean\Phasianidae\Arborophila_rufogularis-ML53422071.wav	3	a
-6	Spectrogram 1	1	10.833869772	11.702719638	1099.9	1597.4	Arborophila_rufogularis-ML53422071.wav	D:\Andean\Phasianidae\Arborophila_rufogularis-ML53422071.wav	3	b

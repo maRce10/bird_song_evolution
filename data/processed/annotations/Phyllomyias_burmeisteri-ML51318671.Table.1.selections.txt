@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	31.083282834	31.436710526	3795.0	6953.0	Phyllomyias_burmeisteri-ML51318671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_burmeisteri-ML51318671.wav	1	a
-2	Spectrogram 1	1	33.679489992	34.056039121	3795.0	7008.4	Phyllomyias_burmeisteri-ML51318671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_burmeisteri-ML51318671.wav	2	a
-3	Spectrogram 1	1	36.800571007	37.160604824	3711.9	7008.4	Phyllomyias_burmeisteri-ML51318671.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_burmeisteri-ML51318671.wav	3	a

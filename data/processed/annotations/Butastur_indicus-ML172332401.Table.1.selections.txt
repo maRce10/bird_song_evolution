@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.472033795	1.715528974	988.8	5858.6	Butastur_indicus-ML172332401.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_indicus-ML172332401.wav	1	a
-2	Spectrogram 1	1	1.884622848	2.790966013	1137.1	7341.8	Butastur_indicus-ML172332401.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_indicus-ML172332401.wav	1	b
-3	Spectrogram 1	1	8.780351078	9.037373767	1236.0	6748.5	Butastur_indicus-ML172332401.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_indicus-ML172332401.wav	2	a
-4	Spectrogram 1	1	9.294396456	10.036718563	1137.1	7490.1	Butastur_indicus-ML172332401.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_indicus-ML172332401.wav	2	b
-5	Spectrogram 1	1	20.123186975	20.728543045	1112.4	6971.0	Butastur_indicus-ML172332401.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_indicus-ML172332401.wav	3	b

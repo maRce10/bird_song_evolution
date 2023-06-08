@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	90.271504280	90.766963661	332.4	1495.9	Bostrychia_olivacea-ML24699.wav	D:\Andean\Threskiornithidae\Bostrychia_olivacea-ML24699.wav	1	a
-2	Spectrogram 1	1	91.074148478	91.576213984	470.9	1440.5	Bostrychia_olivacea-ML24699.wav	D:\Andean\Threskiornithidae\Bostrychia_olivacea-ML24699.wav	1	a
-3	Spectrogram 1	1	91.897398745	92.267341750	526.3	1495.9	Bostrychia_olivacea-ML24699.wav	D:\Andean\Threskiornithidae\Bostrychia_olivacea-ML24699.wav	2	a
-4	Spectrogram 1	1	92.478737753	92.842074632	470.9	1329.6	Bostrychia_olivacea-ML24699.wav	D:\Andean\Threskiornithidae\Bostrychia_olivacea-ML24699.wav	2	a
-5	Spectrogram 1	1	93.172380886	93.657931080	387.8	1468.2	Bostrychia_olivacea-ML24699.wav	D:\Andean\Threskiornithidae\Bostrychia_olivacea-ML24699.wav	3	a

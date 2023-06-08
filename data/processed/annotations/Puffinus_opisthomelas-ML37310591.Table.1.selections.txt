@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.784968165	1.878392882	664.8	1579.0	Puffinus_opisthomelas-ML37310591.wav	D:\Andean\Procellariidae\Puffinus_opisthomelas-ML37310591.wav	1	a
-2	Spectrogram 1	1	2.095605348	2.200708155	747.9	1579.0	Puffinus_opisthomelas-ML37310591.wav	D:\Andean\Procellariidae\Puffinus_opisthomelas-ML37310591.wav	2	a
-3	Spectrogram 1	1	2.401571296	2.504338485	775.6	1662.1	Puffinus_opisthomelas-ML37310591.wav	D:\Andean\Procellariidae\Puffinus_opisthomelas-ML37310591.wav	3	a

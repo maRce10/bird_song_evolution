@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	218.660925322	218.993170894	397.1	2335.8	Corvus_imparatus-ML13187.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_imparatus-ML13187.wav	1	a
-2	Spectrogram 1	1	224.387951391	224.707347686	537.2	2265.7	Corvus_imparatus-ML13187.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_imparatus-ML13187.wav	2	a
-3	Spectrogram 1	1	224.911100496	225.234168013	490.5	2265.7	Corvus_imparatus-ML13187.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_imparatus-ML13187.wav	2	a
-4	Spectrogram 1	1	233.527855798	233.806868654	490.5	2148.9	Corvus_imparatus-ML13187.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_imparatus-ML13187.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.074007715	1.505327319	1054.2	5556.4	Doliornis_remseni-ML178150931.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Doliornis_remseni-ML178150931.wav	1	a
-2	Spectrogram 1	1	7.022685041	7.464610864	944.4	5051.3	Doliornis_remseni-ML178150931.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Doliornis_remseni-ML178150931.wav	2	a
-3	Spectrogram 1	1	17.066735147	17.469771498	878.5	5117.2	Doliornis_remseni-ML178150931.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Doliornis_remseni-ML178150931.wav	3	a

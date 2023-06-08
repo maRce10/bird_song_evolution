@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.095976040	1.721743006	1369.8	4639.8	Stagonopleura_bella-ML206289.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Stagonopleura_bella-ML206289.wav	1	a
-2	Spectrogram 1	1	7.448060589	8.144535686	1303.6	4463.0	Stagonopleura_bella-ML206289.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Stagonopleura_bella-ML206289.wav	2	a
-3	Spectrogram 1	1	8.512217970	9.236976320	1325.7	4529.3	Stagonopleura_bella-ML206289.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Stagonopleura_bella-ML206289.wav	3	a

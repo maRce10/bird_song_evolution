@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.921127342	2.106211959	2216.1	5124.7	Tringa_solitaria-ML104795321.wav	D:\Andean\Scolopacidae\Tringa_solitaria-ML104795321.wav	1	a
-2	Spectrogram 1	1	2.184872922	2.314432154	2188.4	5180.1	Tringa_solitaria-ML104795321.wav	D:\Andean\Scolopacidae\Tringa_solitaria-ML104795321.wav	1	a
-3	Spectrogram 1	1	3.107982452	3.276872166	2326.9	4903.1	Tringa_solitaria-ML104795321.wav	D:\Andean\Scolopacidae\Tringa_solitaria-ML104795321.wav	2	a
-4	Spectrogram 1	1	3.369414475	3.492033034	2326.9	5097.0	Tringa_solitaria-ML104795321.wav	D:\Andean\Scolopacidae\Tringa_solitaria-ML104795321.wav	2	a
-5	Spectrogram 1	1	4.274015544	4.452159488	2271.5	5069.3	Tringa_solitaria-ML104795321.wav	D:\Andean\Scolopacidae\Tringa_solitaria-ML104795321.wav	3	a
-6	Spectrogram 1	1	4.537761124	4.662693241	2216.1	5097.0	Tringa_solitaria-ML104795321.wav	D:\Andean\Scolopacidae\Tringa_solitaria-ML104795321.wav	3	a

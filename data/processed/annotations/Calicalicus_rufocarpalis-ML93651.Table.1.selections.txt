@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	15.729654421	15.812230985	2056.7	2801.0	Calicalicus_rufocarpalis-ML93651.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_rufocarpalis-ML93651.wav	1	a
-2	Spectrogram 1	1	15.924535111	16.244932178	2095.9	3173.2	Calicalicus_rufocarpalis-ML93651.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_rufocarpalis-ML93651.wav	1	b
-3	Spectrogram 1	1	19.481882103	19.564458666	2076.3	2781.4	Calicalicus_rufocarpalis-ML93651.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_rufocarpalis-ML93651.wav	2	a
-4	Spectrogram 1	1	19.676762793	19.957523109	2115.5	3192.8	Calicalicus_rufocarpalis-ML93651.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_rufocarpalis-ML93651.wav	2	b
-5	Spectrogram 1	1	22.838883713	22.921460277	2095.9	2742.3	Calicalicus_rufocarpalis-ML93651.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_rufocarpalis-ML93651.wav	3	a
-6	Spectrogram 1	1	23.030461340	23.321130844	2037.1	3192.8	Calicalicus_rufocarpalis-ML93651.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Calicalicus_rufocarpalis-ML93651.wav	3	b

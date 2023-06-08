@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.411665514	5.494449509	2218.2	6764.3	Malurus_coronatus-ML173720571.wav	E:\Escritorio\Cantos\Maluridae\Malurus_coronatus-ML173720571.wav	1	a
-2	Spectrogram 1	1	7.042957592	7.117201130	2240.1	6720.4	Malurus_coronatus-ML173720571.wav	E:\Escritorio\Cantos\Maluridae\Malurus_coronatus-ML173720571.wav	2	a
-3	Spectrogram 1	1	8.722275718	8.806603918	2173.9	6703.0	Malurus_coronatus-ML173720571.wav	E:\Escritorio\Cantos\Maluridae\Malurus_coronatus-ML173720571.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	25.349758103	25.537134652	1383.6	4634.0	Rhodopechys_sanguineus-ML104940.wav	E:\Escritorio\Cantos\Fringillidae\Rhodopechys_sanguineus-ML104940.wav	1	a
-2	Spectrogram 1	1	27.697268073	27.902321655	1295.8	4458.3	Rhodopechys_sanguineus-ML104940.wav	E:\Escritorio\Cantos\Fringillidae\Rhodopechys_sanguineus-ML104940.wav	2	a
-3	Spectrogram 1	1	29.345818791	29.561478593	1361.7	4568.1	Rhodopechys_sanguineus-ML104940.wav	E:\Escritorio\Cantos\Fringillidae\Rhodopechys_sanguineus-ML104940.wav	3	a

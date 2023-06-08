@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-3	Spectrogram 1	1	10.003145997	10.187536521	123.6	2422.5	Spatula_puna-ML237507.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_puna-ML237507.wav	1	a
-4	Spectrogram 1	1	10.444793599	10.625638152	148.3	2373.1	Spatula_puna-ML237507.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_puna-ML237507.wav	2	a
-5	Spectrogram 1	1	10.895131994	11.044062802	197.8	2447.3	Spatula_puna-ML237507.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_puna-ML237507.wav	3	a

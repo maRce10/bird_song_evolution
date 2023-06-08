@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	115.870600600	116.283613052	1261.3	3690.6	Lanius_melanoleucus-ML168255.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_melanoleucus-ML168255.wav	1	a
-2	Spectrogram 1	1	116.544269799	117.278514156	794.2	2989.8	Lanius_melanoleucus-ML168255.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_melanoleucus-ML168255.wav	1	b
-3	Spectrogram 1	1	120.470702891	120.883715342	1074.5	3713.9	Lanius_melanoleucus-ML168255.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_melanoleucus-ML168255.wav	2	a
-4	Spectrogram 1	1	121.115002315	121.852917894	887.6	2919.8	Lanius_melanoleucus-ML168255.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_melanoleucus-ML168255.wav	2	b
-5	Spectrogram 1	1	124.785921324	125.213618662	1284.7	3737.3	Lanius_melanoleucus-ML168255.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_melanoleucus-ML168255.wav	3	a
-6	Spectrogram 1	1	125.507316406	126.252574429	770.8	2849.7	Lanius_melanoleucus-ML168255.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_melanoleucus-ML168255.wav	3	b

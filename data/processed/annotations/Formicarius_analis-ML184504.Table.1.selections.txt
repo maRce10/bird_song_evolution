@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	24.631745109	24.819121658	1842.7	2240.1	Formicarius_analis-ML184504.wav	E:\Escritorio\Cantos\Formicariidae\Formicarius_analis-ML184504.wav	1	a
-2	Spectrogram 1	1	25.536809195	25.773681436	1691.1	2086.4	Formicarius_analis-ML184504.wav	E:\Escritorio\Cantos\Formicariidae\Formicarius_analis-ML184504.wav	1	b
-3	Spectrogram 1	1	35.991938815	36.175779957	1866.8	2262.1	Formicarius_analis-ML184504.wav	E:\Escritorio\Cantos\Formicariidae\Formicarius_analis-ML184504.wav	2	a
-4	Spectrogram 1	1	36.858113427	37.077308635	1647.2	2108.4	Formicarius_analis-ML184504.wav	E:\Escritorio\Cantos\Formicariidae\Formicarius_analis-ML184504.wav	2	b
-5	Spectrogram 1	1	37.483880392	37.696004787	1669.1	2086.4	Formicarius_analis-ML184504.wav	E:\Escritorio\Cantos\Formicariidae\Formicarius_analis-ML184504.wav	2	b
-6	Spectrogram 1	1	49.398671939	49.591351598	1855.8	2229.2	Formicarius_analis-ML184504.wav	E:\Escritorio\Cantos\Formicariidae\Formicarius_analis-ML184504.wav	3	a
-7	Spectrogram 1	1	50.270149661	50.521163529	1669.1	2064.4	Formicarius_analis-ML184504.wav	E:\Escritorio\Cantos\Formicariidae\Formicarius_analis-ML184504.wav	3	b

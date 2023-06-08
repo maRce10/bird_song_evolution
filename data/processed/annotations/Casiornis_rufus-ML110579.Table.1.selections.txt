@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.029970881	16.417683456	4049.5	5016.1	Casiornis_rufus-ML110579.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Casiornis_rufus-ML110579.wav	1	a
-2	Spectrogram 1	1	16.525121880	16.807731649	2272.9	4519.7	Casiornis_rufus-ML110579.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Casiornis_rufus-ML110579.wav	1	b
-3	Spectrogram 1	1	17.218800403	17.473382756	2481.9	4310.7	Casiornis_rufus-ML110579.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Casiornis_rufus-ML110579.wav	1	c

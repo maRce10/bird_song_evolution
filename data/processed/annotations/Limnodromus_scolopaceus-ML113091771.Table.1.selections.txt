@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.743527704	7.802058104	1776.5	4441.4	Limnodromus_scolopaceus-ML113091771.wav	D:\Andean\Scolopacidae\Limnodromus_scolopaceus-ML113091771.wav	1	a
-2	Spectrogram 1	1	9.975938070	10.039346004	1672.0	4702.6	Limnodromus_scolopaceus-ML113091771.wav	D:\Andean\Scolopacidae\Limnodromus_scolopaceus-ML113091771.wav	2	a
-3	Spectrogram 1	1	11.291276063	11.359561531	1593.7	4415.2	Limnodromus_scolopaceus-ML113091771.wav	D:\Andean\Scolopacidae\Limnodromus_scolopaceus-ML113091771.wav	3	a

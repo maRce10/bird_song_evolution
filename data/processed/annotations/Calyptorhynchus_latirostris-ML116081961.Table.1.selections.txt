@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.234805576	14.106453753	889.9	3708.0	Calyptorhynchus_latirostris-ML116081961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_latirostris-ML116081961.wav	1	a
-2	Spectrogram 1	1	15.438813381	16.179360003	543.8	3905.7	Calyptorhynchus_latirostris-ML116081961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_latirostris-ML116081961.wav	2	a
-3	Spectrogram 1	1	19.637123986	20.437906457	741.6	3708.0	Calyptorhynchus_latirostris-ML116081961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_latirostris-ML116081961.wav	3	a

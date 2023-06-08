@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.574546210	0.622272093	1051.1	6119.8	Lanius_nubicus-ML28226151.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_nubicus-ML28226151.wav	1	a
-2	Spectrogram 1	1	1.154599253	1.200489525	1167.9	6400.1	Lanius_nubicus-ML28226151.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_nubicus-ML28226151.wav	2	a
-3	Spectrogram 1	1	1.398735502	1.446461385	1167.9	6493.5	Lanius_nubicus-ML28226151.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_nubicus-ML28226151.wav	3	a

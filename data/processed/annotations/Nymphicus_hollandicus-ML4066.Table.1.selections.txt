@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.921948592	8.166435276	1387.4	3245.6	Nymphicus_hollandicus-ML4066.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Nymphicus_hollandicus-ML4066.wav	1	a
-2	Spectrogram 1	1	8.350686110	8.625290718	1214.0	3022.6	Nymphicus_hollandicus-ML4066.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Nymphicus_hollandicus-ML4066.wav	2	b
-3	Spectrogram 1	1	10.121273198	10.362216597	1412.2	3196.0	Nymphicus_hollandicus-ML4066.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Nymphicus_hollandicus-ML4066.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.481884648	5.710161378	247.2	2842.8	Anas_rubripes-ML197045.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_rubripes-ML197045.wav	1	a
-2	Spectrogram 1	1	6.203915491	6.442337853	271.9	2669.7	Anas_rubripes-ML197045.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_rubripes-ML197045.wav	2	a
-3	Spectrogram 1	1	6.947088561	7.193965617	296.6	2842.8	Anas_rubripes-ML197045.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_rubripes-ML197045.wav	3	a

@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.667321630	8.803297076	3601.1	7146.9	Phylloscartes_flaviventris-ML52689.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_flaviventris-ML52689.wav	1	a
-2	Spectrogram 1	1	8.867740536	8.993192297	3822.7	7091.5	Phylloscartes_flaviventris-ML52689.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_flaviventris-ML52689.wav	1	b
-3	Spectrogram 1	1	9.062785974	9.169007903	3157.9	7202.3	Phylloscartes_flaviventris-ML52689.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_flaviventris-ML52689.wav	1	c
-4	Spectrogram 1	1	9.315520908	9.365884753	2326.9	4986.2	Phylloscartes_flaviventris-ML52689.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_flaviventris-ML52689.wav	1	d
-5	Spectrogram 1	1	80.221068647	80.357508883	4820.0	7202.3	Phylloscartes_flaviventris-ML52689.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_flaviventris-ML52689.wav	2	e
-6	Spectrogram 1	1	80.423439735	80.543397258	4266.0	6759.0	Phylloscartes_flaviventris-ML52689.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_flaviventris-ML52689.wav	2	f
-7	Spectrogram 1	1	80.625810823	80.729285633	4321.4	7146.9	Phylloscartes_flaviventris-ML52689.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_flaviventris-ML52689.wav	2	g
-8	Spectrogram 1	1	80.818109142	80.874882931	3601.1	6482.0	Phylloscartes_flaviventris-ML52689.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phylloscartes_flaviventris-ML52689.wav	2	h

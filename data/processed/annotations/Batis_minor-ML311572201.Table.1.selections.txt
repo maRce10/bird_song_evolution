@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.706855384	0.951282012	3407.2	4044.3	Batis_minor-ML311572201.wav	D:\Andean\Platysteiridae\Batis_minor-ML311572201.wav	1	a
-2	Spectrogram 1	1	1.341043392	1.585470020	4044.3	4543.0	Batis_minor-ML311572201.wav	D:\Andean\Platysteiridae\Batis_minor-ML311572201.wav	1	b
-3	Spectrogram 1	1	4.848895811	5.106534689	3434.9	4016.6	Batis_minor-ML311572201.wav	D:\Andean\Platysteiridae\Batis_minor-ML311572201.wav	2	a
-4	Spectrogram 1	1	5.489689944	5.720904322	4072.0	4570.7	Batis_minor-ML311572201.wav	D:\Andean\Platysteiridae\Batis_minor-ML311572201.wav	2	b
-5	Spectrogram 1	1	7.841470474	8.085897102	3434.9	4016.6	Batis_minor-ML311572201.wav	D:\Andean\Platysteiridae\Batis_minor-ML311572201.wav	3	a
-6	Spectrogram 1	1	8.396384981	8.660629984	4044.3	4543.0	Batis_minor-ML311572201.wav	D:\Andean\Platysteiridae\Batis_minor-ML311572201.wav	3	b

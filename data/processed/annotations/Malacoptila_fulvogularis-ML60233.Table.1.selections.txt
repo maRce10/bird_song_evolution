@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	52.560850144	53.808579703	5338.6	7217.3	Malacoptila_fulvogularis-ML60233.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_fulvogularis-ML60233.wav	1	a
-2	Spectrogram 1	1	55.873096083	57.005573515	5437.5	7316.2	Malacoptila_fulvogularis-ML60233.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_fulvogularis-ML60233.wav	2	a
-3	Spectrogram 1	1	59.389384850	60.762388462	5388.0	7316.2	Malacoptila_fulvogularis-ML60233.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Malacoptila_fulvogularis-ML60233.wav	3	a

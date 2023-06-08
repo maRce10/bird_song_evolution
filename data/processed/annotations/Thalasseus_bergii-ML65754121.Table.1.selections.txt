@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.431368560	0.809504404	1308.1	4017.6	Thalasseus_bergii-ML65754121.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Thalasseus_bergii-ML65754121.wav	1	a
-2	Spectrogram 1	1	0.919641058	1.286763237	1027.8	3760.6	Thalasseus_bergii-ML65754121.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Thalasseus_bergii-ML65754121.wav	2	a
-3	Spectrogram 1	1	2.376903171	2.683450190	1261.3	4017.6	Thalasseus_bergii-ML65754121.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Thalasseus_bergii-ML65754121.wav	3	a

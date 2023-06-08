@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2208.913919827	2209.303681206	609.4	2299.2	Ptiloris_magnificus-ML163717.wav	D:\Andean\Paradisaeidae\Ptiloris_magnificus-ML163717.wav	1	a
-2	Spectrogram 1	1	2209.713260962	2210.076597841	609.4	1468.2	Ptiloris_magnificus-ML163717.wav	D:\Andean\Paradisaeidae\Ptiloris_magnificus-ML163717.wav	1	b
-3	Spectrogram 1	1	2210.717391974	2211.186426855	664.8	2243.8	Ptiloris_magnificus-ML163717.wav	D:\Andean\Paradisaeidae\Ptiloris_magnificus-ML163717.wav	1	a
-4	Spectrogram 1	1	2265.430238393	2265.853030399	609.4	2299.2	Ptiloris_magnificus-ML163717.wav	D:\Andean\Paradisaeidae\Ptiloris_magnificus-ML163717.wav	2	a
-5	Spectrogram 1	1	2267.451712669	2267.907535299	554.0	2049.9	Ptiloris_magnificus-ML163717.wav	D:\Andean\Paradisaeidae\Ptiloris_magnificus-ML163717.wav	2	a
-6	Spectrogram 1	1	2268.290690554	2268.667239684	498.6	1024.9	Ptiloris_magnificus-ML163717.wav	D:\Andean\Paradisaeidae\Ptiloris_magnificus-ML163717.wav	2	b
-7	Spectrogram 1	1	2270.767987460	2271.210597841	609.4	2022.2	Ptiloris_magnificus-ML163717.wav	D:\Andean\Paradisaeidae\Ptiloris_magnificus-ML163717.wav	3	a
-8	Spectrogram 1	1	2271.600359221	2271.976908351	498.6	1108.0	Ptiloris_magnificus-ML163717.wav	D:\Andean\Paradisaeidae\Ptiloris_magnificus-ML163717.wav	3	b

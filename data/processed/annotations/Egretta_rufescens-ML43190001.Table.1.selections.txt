@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.358949426	1.610713411	247.2	1829.3	Egretta_rufescens-ML43190001.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_rufescens-ML43190001.wav	1	a
-2	Spectrogram 1	1	1.770975262	1.941181899	271.9	1854.0	Egretta_rufescens-ML43190001.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_rufescens-ML43190001.wav	1	b
-3	Spectrogram 1	1	2.086566735	2.340103706	222.5	1854.0	Egretta_rufescens-ML43190001.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_rufescens-ML43190001.wav	2	a
-4	Spectrogram 1	1	2.387974322	2.588321719	271.9	1928.1	Egretta_rufescens-ML43190001.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_rufescens-ML43190001.wav	2	b
-5	Spectrogram 1	1	2.794255880	2.936094745	271.9	1977.6	Egretta_rufescens-ML43190001.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_rufescens-ML43190001.wav	3	b

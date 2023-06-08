@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	299.841372279	300.407610995	264.3	4756.8	Chionis_albus-ML141367.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Chionidae\Chionis_albus-ML141367.wav	1	a
-2	Spectrogram 1	1	300.608049479	301.224397815	165.2	4624.7	Chionis_albus-ML141367.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Chionidae\Chionis_albus-ML141367.wav	2	a
-3	Spectrogram 1	1	301.525055541	302.041184635	264.3	4756.8	Chionis_albus-ML141367.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Chionidae\Chionis_albus-ML141367.wav	3	a

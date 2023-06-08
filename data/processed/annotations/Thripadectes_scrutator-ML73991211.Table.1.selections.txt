@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	131.980769470	132.005517316	614.9	6237.3	Thripadectes_scrutator-ML73991211.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_scrutator-ML73991211.wav	1	a
-2	Spectrogram 1	1	134.619577756	134.651396415	746.7	6193.3	Thripadectes_scrutator-ML73991211.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_scrutator-ML73991211.wav	2	a
-3	Spectrogram 1	1	137.009512605	137.041331264	614.9	6237.3	Thripadectes_scrutator-ML73991211.wav	E:\Escritorio\Cantos\Furnariidae\Thripadectes_scrutator-ML73991211.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	89.391637276	89.883793595	2908.6	4820.0	Vireo_sclateri-ML34453.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_sclateri-ML34453.wav	1	a
-2	Spectrogram 1	1	89.949854846	90.395768289	2631.6	4487.6	Vireo_sclateri-ML34453.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_sclateri-ML34453.wav	1	b
-3	Spectrogram 1	1	96.108791707	96.587735776	2964.0	4820.0	Vireo_sclateri-ML34453.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_sclateri-ML34453.wav	2	a
-4	Spectrogram 1	1	96.657100089	97.073285969	2465.4	4432.2	Vireo_sclateri-ML34453.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_sclateri-ML34453.wav	2	b
-5	Spectrogram 1	1	105.636059174	106.124912430	2853.2	4820.0	Vireo_sclateri-ML34453.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_sclateri-ML34453.wav	3	a
-6	Spectrogram 1	1	106.187670618	106.626977936	2603.9	4487.6	Vireo_sclateri-ML34453.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_sclateri-ML34453.wav	3	c

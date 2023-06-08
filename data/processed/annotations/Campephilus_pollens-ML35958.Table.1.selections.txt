@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	17.966323413	17.974498076	707.1	2173.6	Campephilus_pollens-ML35958.wav	D:\Andean\Picidae\Campephilus_pollens-ML35958.wav	1	a
-3	Spectrogram 1	1	17.975665885	18.213898913	811.8	6468.3	Campephilus_pollens-ML35958.wav	D:\Andean\Picidae\Campephilus_pollens-ML35958.wav	1	b
-4	Spectrogram 1	1	20.831207072	20.844052971	680.9	2068.8	Campephilus_pollens-ML35958.wav	D:\Andean\Picidae\Campephilus_pollens-ML35958.wav	2	a
-5	Spectrogram 1	1	20.842885162	21.159361390	628.5	6573.1	Campephilus_pollens-ML35958.wav	D:\Andean\Picidae\Campephilus_pollens-ML35958.wav	2	b
-6	Spectrogram 1	1	22.649724420	22.666073746	680.9	2173.6	Campephilus_pollens-ML35958.wav	D:\Andean\Picidae\Campephilus_pollens-ML35958.wav	3	a
-7	Spectrogram 1	1	22.663738128	22.933501998	602.3	6416.0	Campephilus_pollens-ML35958.wav	D:\Andean\Picidae\Campephilus_pollens-ML35958.wav	3	b

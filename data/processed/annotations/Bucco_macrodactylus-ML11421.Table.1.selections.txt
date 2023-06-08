@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.220684867	7.892137426	1680.9	3015.8	Bucco_macrodactylus-ML11421.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Bucco_macrodactylus-ML11421.wav	1	a
-2	Spectrogram 1	1	10.906962044	11.523493681	1631.5	2991.1	Bucco_macrodactylus-ML11421.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Bucco_macrodactylus-ML11421.wav	2	a
-3	Spectrogram 1	1	15.030476662	15.664724726	1705.7	3015.8	Bucco_macrodactylus-ML11421.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Bucco_macrodactylus-ML11421.wav	3	a

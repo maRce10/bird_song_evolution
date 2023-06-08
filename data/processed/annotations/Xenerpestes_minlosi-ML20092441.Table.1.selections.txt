@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	442.718083628	442.824145825	7115.7	9685.3	Xenerpestes_minlosi-ML20092441.wav	E:\Escritorio\Cantos\Furnariidae\Xenerpestes_minlosi-ML20092441.wav	1	a
-2	Spectrogram 1	1	446.789357444	446.895419641	7225.5	9575.5	Xenerpestes_minlosi-ML20092441.wav	E:\Escritorio\Cantos\Furnariidae\Xenerpestes_minlosi-ML20092441.wav	2	a
-3	Spectrogram 1	1	447.390376563	447.492903353	7269.5	9246.1	Xenerpestes_minlosi-ML20092441.wav	E:\Escritorio\Cantos\Furnariidae\Xenerpestes_minlosi-ML20092441.wav	2	a
-4	Spectrogram 1	1	448.023214341	448.132811945	7115.7	9355.9	Xenerpestes_minlosi-ML20092441.wav	E:\Escritorio\Cantos\Furnariidae\Xenerpestes_minlosi-ML20092441.wav	2	a
-5	Spectrogram 1	1	455.649526069	455.755588266	7269.5	9575.5	Xenerpestes_minlosi-ML20092441.wav	E:\Escritorio\Cantos\Furnariidae\Xenerpestes_minlosi-ML20092441.wav	3	a
-6	Spectrogram 1	1	456.314182506	456.413173891	7313.4	9399.8	Xenerpestes_minlosi-ML20092441.wav	E:\Escritorio\Cantos\Furnariidae\Xenerpestes_minlosi-ML20092441.wav	3	a

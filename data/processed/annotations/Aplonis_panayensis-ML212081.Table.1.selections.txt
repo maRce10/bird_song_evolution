@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.562239354	2.744011478	2188.4	6537.4	Aplonis_panayensis-ML212081.wav	D:\Andean\Sturnidae\Aplonis_panayensis-ML212081.wav	1	a
-2	Spectrogram 1	1	5.079084139	5.260856263	2160.7	6759.0	Aplonis_panayensis-ML212081.wav	D:\Andean\Sturnidae\Aplonis_panayensis-ML212081.wav	2	a
-3	Spectrogram 1	1	8.805412668	8.980193556	2271.5	6426.6	Aplonis_panayensis-ML212081.wav	D:\Andean\Sturnidae\Aplonis_panayensis-ML212081.wav	3	a

@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.978882803	1.897163226	3265.7	3866.6	Zoothera_marginata-ML284909.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_marginata-ML284909.wav	1	a
-2	Spectrogram 1	1	13.948131087	14.545402464	3605.3	3997.2	Zoothera_marginata-ML284909.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_marginata-ML284909.wav	2	b

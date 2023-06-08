@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	546.999305443	547.348071513	1295.800	3931.200	Phoenicircus_carnifex-ML115135.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phoenicircus_carnifex-ML115135.wav	1	a
-2	Spectrogram 1	1	547.425167171	547.649111700	2064.400	4756.791	Phoenicircus_carnifex-ML115135.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phoenicircus_carnifex-ML115135.wav	1	b
-3	Spectrogram 1	1	563.903281211	564.252047281	1164.000	3865.300	Phoenicircus_carnifex-ML115135.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phoenicircus_carnifex-ML115135.wav	2	a
-4	Spectrogram 1	1	564.343827825	564.560429911	2114.129	4492.525	Phoenicircus_carnifex-ML115135.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phoenicircus_carnifex-ML115135.wav	2	b
-5	Spectrogram 1	1	576.896452387	577.248889679	1317.700	3953.200	Phoenicircus_carnifex-ML115135.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phoenicircus_carnifex-ML115135.wav	3	a
-6	Spectrogram 1	1	577.333327780	577.546258644	2086.400	4624.658	Phoenicircus_carnifex-ML115135.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phoenicircus_carnifex-ML115135.wav	3	b

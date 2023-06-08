@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.598451412	5.638156917	5499.4	9715.6	Chlorospingus_tacarcunae-ML51648.wav	D:\Andean\Passerellidae\Chlorospingus_tacarcunae-ML51648.wav	1	a
-2	Spectrogram 1	1	5.860040619	5.889235843	6075.5	8982.4	Chlorospingus_tacarcunae-ML51648.wav	D:\Andean\Passerellidae\Chlorospingus_tacarcunae-ML51648.wav	2	a
-3	Spectrogram 1	1	6.028205110	6.067910614	5473.2	9951.3	Chlorospingus_tacarcunae-ML51648.wav	D:\Andean\Passerellidae\Chlorospingus_tacarcunae-ML51648.wav	3	a

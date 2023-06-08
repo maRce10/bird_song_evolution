@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.682360553	5.712088116	110.8	3628.8	Rallus_elegans-ML130909.wav	D:\Andean\Rallidae\Rallus_elegans-ML130909.wav	1	a
-2	Spectrogram 1	1	6.428852687	6.458580250	221.6	3684.2	Rallus_elegans-ML130909.wav	D:\Andean\Rallidae\Rallus_elegans-ML130909.wav	2	a
-3	Spectrogram 1	1	7.290951240	7.319027272	166.2	3434.9	Rallus_elegans-ML130909.wav	D:\Andean\Rallidae\Rallus_elegans-ML130909.wav	3	a

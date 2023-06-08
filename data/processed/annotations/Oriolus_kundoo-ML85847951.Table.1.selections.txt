@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.062766926	4.789440685	1329.6	6869.8	Oriolus_kundoo-ML85847951.wav	E:\Andean\Oriolidae\Oriolus_kundoo-ML85847951.wav	1	a
-2	Spectrogram 1	1	7.028917088	7.458315219	1440.5	7562.4	Oriolus_kundoo-ML85847951.wav	E:\Andean\Oriolidae\Oriolus_kundoo-ML85847951.wav	2	a
-3	Spectrogram 1	1	11.758902657	12.227937538	1329.6	7645.5	Oriolus_kundoo-ML85847951.wav	E:\Andean\Oriolidae\Oriolus_kundoo-ML85847951.wav	3	a

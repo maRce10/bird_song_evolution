@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.280992821	8.330040797	549.9	2802.1	Campephilus_melanoleucos-ML65167.wav	D:\Andean\Picidae\Campephilus_melanoleucos-ML65167.wav	1	a
-2	Spectrogram 1	1	8.363907257	8.408283998	523.8	2723.5	Campephilus_melanoleucos-ML65167.wav	D:\Andean\Picidae\Campephilus_melanoleucos-ML65167.wav	1	a
-3	Spectrogram 1	1	9.620469295	9.678859743	549.9	2906.8	Campephilus_melanoleucos-ML65167.wav	D:\Andean\Picidae\Campephilus_melanoleucos-ML65167.wav	2	a
-4	Spectrogram 1	1	9.702215922	9.751263899	549.9	2828.3	Campephilus_melanoleucos-ML65167.wav	D:\Andean\Picidae\Campephilus_melanoleucos-ML65167.wav	2	a
-5	Spectrogram 1	1	10.785942638	10.844333086	654.7	2828.3	Campephilus_melanoleucos-ML65167.wav	D:\Andean\Picidae\Campephilus_melanoleucos-ML65167.wav	3	a
-6	Spectrogram 1	1	10.867689265	10.919072860	628.5	2749.7	Campephilus_melanoleucos-ML65167.wav	D:\Andean\Picidae\Campephilus_melanoleucos-ML65167.wav	3	a

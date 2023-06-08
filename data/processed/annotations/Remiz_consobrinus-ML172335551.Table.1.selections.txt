@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.133778402	2.503721407	4155.2	6953.0	Remiz_consobrinus-ML172335551.wav	D:\Andean\Remizidae\Remiz_consobrinus-ML172335551.wav	1	a
-2	Spectrogram 1	1	3.045423663	3.421972793	4210.6	7174.6	Remiz_consobrinus-ML172335551.wav	D:\Andean\Remizidae\Remiz_consobrinus-ML172335551.wav	2	a
-3	Spectrogram 1	1	4.023130176	4.432709931	4127.4	7202.3	Remiz_consobrinus-ML172335551.wav	D:\Andean\Remizidae\Remiz_consobrinus-ML172335551.wav	3	a

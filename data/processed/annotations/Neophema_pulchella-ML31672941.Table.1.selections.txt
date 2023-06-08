@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.911610186	4.028391082	2493.1	6509.7	Neophema_pulchella-ML31672941.wav	D:\Andean\Psittaculidae\Neophema_pulchella-ML31672941.wav	1	a
-2	Spectrogram 1	1	4.119480181	4.238596695	2770.1	6426.6	Neophema_pulchella-ML31672941.wav	D:\Andean\Psittaculidae\Neophema_pulchella-ML31672941.wav	1	a
-3	Spectrogram 1	1	5.644638684	5.836159353	2908.6	6675.9	Neophema_pulchella-ML31672941.wav	D:\Andean\Psittaculidae\Neophema_pulchella-ML31672941.wav	2	b
-4	Spectrogram 1	1	7.807669599	7.978169708	1468.2	6648.2	Neophema_pulchella-ML31672941.wav	D:\Andean\Psittaculidae\Neophema_pulchella-ML31672941.wav	3	c

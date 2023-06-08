@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	10.458308029	10.698773056	140.1	2499.3	Cyanocorax_cayanus-ML115792.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cayanus-ML115792.wav	1	a
-2	Spectrogram 1	1	12.413250277	12.666564580	420.4	2546.0	Cyanocorax_cayanus-ML115792.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cayanus-ML115792.wav	3	a
-3	Spectrogram 1	1	12.864810557	13.066727755	327.0	2616.1	Cyanocorax_cayanus-ML115792.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cayanus-ML115792.wav	2	a
-4	Spectrogram 1	1	14.685730397	14.883976374	327.0	2639.5	Cyanocorax_cayanus-ML115792.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cayanus-ML115792.wav	3	a
-5	Spectrogram 1	1	15.224526535	15.455813508	397.1	2546.0	Cyanocorax_cayanus-ML115792.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cayanus-ML115792.wav	3	a
-6	Spectrogram 1	1	15.659701350	15.722004050	2265.7	3316.8	Cyanocorax_cayanus-ML115792.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cayanus-ML115792.wav	3	c
-7	Spectrogram 1	1	15.737579725	15.797286478	2312.4	3433.6	Cyanocorax_cayanus-ML115792.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cayanus-ML115792.wav	3	c
-8	Spectrogram 1	1	15.810266208	15.867377016	2359.2	3480.3	Cyanocorax_cayanus-ML115792.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocorax_cayanus-ML115792.wav	3	c

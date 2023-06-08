@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.791061328	6.116318733	1164.0	3953.2	Lepidocolaptes_falcinellus-ML187251.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_falcinellus-ML187251.wav	1	a
-2	Spectrogram 1	1	6.395615853	6.834006269	1032.2	2767.2	Lepidocolaptes_falcinellus-ML187251.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_falcinellus-ML187251.wav	1	b
-3	Spectrogram 1	1	9.112361139	9.388122853	1186.0	3865.3	Lepidocolaptes_falcinellus-ML187251.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_falcinellus-ML187251.wav	2	a
-4	Spectrogram 1	1	9.660349160	10.095204169	746.7	2986.9	Lepidocolaptes_falcinellus-ML187251.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_falcinellus-ML187251.wav	2	b
-5	Spectrogram 1	1	13.264483245	13.731156914	1383.6	4370.5	Lepidocolaptes_falcinellus-ML187251.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_falcinellus-ML187251.wav	3	a
-6	Spectrogram 1	1	13.886714803	14.289751154	1251.8	2591.5	Lepidocolaptes_falcinellus-ML187251.wav	E:\Escritorio\Cantos\Furnariidae\Lepidocolaptes_falcinellus-ML187251.wav	3	b

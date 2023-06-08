@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.453347518	1.697774146	1414.1	4504.3	Campethera_notata-ML177489461.wav	D:\Andean\Picidae\Campethera_notata-ML177489461.wav	1	a
-2	Spectrogram 1	1	25.695003942	25.959248945	1649.8	4687.6	Campethera_notata-ML177489461.wav	D:\Andean\Picidae\Campethera_notata-ML177489461.wav	2	a
-3	Spectrogram 1	1	52.917708054	53.208377558	1754.6	4818.5	Campethera_notata-ML177489461.wav	D:\Andean\Picidae\Campethera_notata-ML177489461.wav	3	a

@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.833726495	13.936794094	4506.9	7749.0	Chlorochrysa_calliparaea-ML77537551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Chlorochrysa_calliparaea-ML77537551.wav	1	a
-2	Spectrogram 1	1	14.384605041	14.494780750	4640.9	7581.5	Chlorochrysa_calliparaea-ML77537551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Chlorochrysa_calliparaea-ML77537551.wav	2	a
-3	Spectrogram 1	1	14.949699808	15.063429572	4565.5	7799.3	Chlorochrysa_calliparaea-ML77537551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Chlorochrysa_calliparaea-ML77537551.wav	3	a
-4	Spectrogram 1	1	15.504132409	15.610754063	4741.5	7757.4	Chlorochrysa_calliparaea-ML77537551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Chlorochrysa_calliparaea-ML77537551.wav	4	a
-5	Spectrogram 1	1	16.931184241	17.048468061	4040.7	7659.9	Chlorochrysa_calliparaea-ML77537551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Chlorochrysa_calliparaea-ML77537551.wav	5	a

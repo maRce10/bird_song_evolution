@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.048692447	1.445747494	3369.1	8892.8	Tolmomyias_sulphurescens-ML199538.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_sulphurescens-ML199538.wav	1	a
-2	Spectrogram 1	1	2.898504482	3.309573237	3525.8	8931.9	Tolmomyias_sulphurescens-ML199538.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_sulphurescens-ML199538.wav	2	a
-3	Spectrogram 1	1	4.624528002	5.061288553	3525.8	9088.6	Tolmomyias_sulphurescens-ML199538.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Tolmomyias_sulphurescens-ML199538.wav	3	b

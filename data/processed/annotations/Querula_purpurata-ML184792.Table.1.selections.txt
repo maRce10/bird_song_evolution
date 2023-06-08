@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	29.697115267	30.003492042	582.0	1372.6	Querula_purpurata-ML184792.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Querula_purpurata-ML184792.wav	1	a
-2	Spectrogram 1	1	30.828470338	31.153458634	593.0	1449.5	Querula_purpurata-ML184792.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Querula_purpurata-ML184792.wav	1	a
-3	Spectrogram 1	1	31.263454672	31.545944499	680.8	1471.5	Querula_purpurata-ML184792.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Querula_purpurata-ML184792.wav	1	a
-4	Spectrogram 1	1	74.414563074	74.752050920	593.0	1372.6	Querula_purpurata-ML184792.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Querula_purpurata-ML184792.wav	2	a
-5	Spectrogram 1	1	74.899545608	75.214534264	604.0	1438.5	Querula_purpurata-ML184792.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Querula_purpurata-ML184792.wav	2	a
-6	Spectrogram 1	1	76.834486965	77.146975711	593.0	1449.5	Querula_purpurata-ML184792.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Querula_purpurata-ML184792.wav	3	a
-7	Spectrogram 1	1	77.966946181	78.299434207	658.9	1460.5	Querula_purpurata-ML184792.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Querula_purpurata-ML184792.wav	3	a

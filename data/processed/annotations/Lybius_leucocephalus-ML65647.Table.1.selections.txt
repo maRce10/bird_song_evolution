@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.364297641	13.628625610	817.5	3386.9	Lybius_leucocephalus-ML65647.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Lybiidae\Lybiidae\Lybius_leucocephalus-ML65647.wav	1	a
-2	Spectrogram 1	1	13.725525335	14.021058689	911.0	3316.8	Lybius_leucocephalus-ML65647.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Lybiidae\Lybiidae\Lybius_leucocephalus-ML65647.wav	2	a
-3	Spectrogram 1	1	14.175250004	14.494646300	747.5	3316.8	Lybius_leucocephalus-ML65647.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Lybiidae\Lybiidae\Lybius_leucocephalus-ML65647.wav	3	

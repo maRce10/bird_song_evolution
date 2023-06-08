@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.348766070	0.704874583	140.1	630.7	Geophaps_scripta-ML203886841.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Geophaps_scripta-ML203886841.wav	1	a
-2	Spectrogram 1	1	1.004079159	1.257393463	140.1	513.9	Geophaps_scripta-ML203886841.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Geophaps_scripta-ML203886841.wav	1	b
-3	Spectrogram 1	1	6.958593404	7.305523863	140.1	560.6	Geophaps_scripta-ML203886841.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Geophaps_scripta-ML203886841.wav	2	a
-4	Spectrogram 1	1	7.610235271	7.854371520	140.1	513.9	Geophaps_scripta-ML203886841.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Geophaps_scripta-ML203886841.wav	2	b

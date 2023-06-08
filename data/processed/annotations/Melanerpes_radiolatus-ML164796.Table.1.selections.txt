@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.339117666	7.431603417	733.3	2618.8	Melanerpes_radiolatus-ML164796.wav	D:\Andean\Picidae\Melanerpes_radiolatus-ML164796.wav	1	a
-2	Spectrogram 1	1	8.538129368	8.630615119	811.8	2697.3	Melanerpes_radiolatus-ML164796.wav	D:\Andean\Picidae\Melanerpes_radiolatus-ML164796.wav	2	a
-3	Spectrogram 1	1	9.654564507	9.733838008	942.8	2618.8	Melanerpes_radiolatus-ML164796.wav	D:\Andean\Picidae\Melanerpes_radiolatus-ML164796.wav	3	a

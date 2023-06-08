@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.532645704	2.101836856	519.1	5932.7	Helicolestes_hamatus-ML31738231.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Helicolestes_hamatus-ML31738231.wav	1	a
-2	Spectrogram 1	1	13.517589106	14.998851443	469.7	5932.7	Helicolestes_hamatus-ML31738231.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Helicolestes_hamatus-ML31738231.wav	2	a
-3	Spectrogram 1	1	27.682791267	29.287492132	766.3	5932.7	Helicolestes_hamatus-ML31738231.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Helicolestes_hamatus-ML31738231.wav	3	a

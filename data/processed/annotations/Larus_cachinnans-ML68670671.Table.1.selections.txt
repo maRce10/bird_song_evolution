@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.647970646	1.156434863	311.2	2022.7	Larus_cachinnans-ML68670671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_cachinnans-ML68670671.wav	1	a
-2	Spectrogram 1	1	2.264864492	3.446997908	311.2	2000.5	Larus_cachinnans-ML68670671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_cachinnans-ML68670671.wav	2	b
-3	Spectrogram 1	1	3.924514630	5.013031891	511.2	2378.4	Larus_cachinnans-ML68670671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_cachinnans-ML68670671.wav	3	c
-4	Spectrogram 1	1	5.246154474	5.561879548	377.9	3000.8	Larus_cachinnans-ML68670671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_cachinnans-ML68670671.wav	3	d

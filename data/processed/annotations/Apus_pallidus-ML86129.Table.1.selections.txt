@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	93.107335581	93.300444628	4029.3	4993.4	Apus_pallidus-ML86129.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_pallidus-ML86129.wav	1	a
-2	Spectrogram 1	1	93.601623876	93.808906065	3510.2	5215.9	Apus_pallidus-ML86129.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_pallidus-ML86129.wav	1	b
-3	Spectrogram 1	1	94.120715169	94.347485426	3534.9	5537.2	Apus_pallidus-ML86129.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_pallidus-ML86129.wav	1	c

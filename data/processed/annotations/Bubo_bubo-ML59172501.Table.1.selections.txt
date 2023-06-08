@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.326537809	2.013574818	110.8	692.5	Bubo_bubo-ML59172501.wav	D:\Andean\Strigidae\Bubo_bubo-ML59172501.wav	1	a
-2	Spectrogram 1	1	9.584194163	10.297655672	193.9	747.9	Bubo_bubo-ML59172501.wav	D:\Andean\Strigidae\Bubo_bubo-ML59172501.wav	2	a
-3	Spectrogram 1	1	17.487573955	18.194429339	110.8	747.9	Bubo_bubo-ML59172501.wav	D:\Andean\Strigidae\Bubo_bubo-ML59172501.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.156895471	0.262593472	277.0	3157.9	Andigena_laminirostris-ML25510791.wav	D:\Andean\Ramphastidae\Andigena_laminirostris-ML25510791.wav	1	a
-2	Spectrogram 1	1	0.302230223	0.776219697	747.9	3157.9	Andigena_laminirostris-ML25510791.wav	D:\Andean\Ramphastidae\Andigena_laminirostris-ML25510791.wav	1	b
-3	Spectrogram 1	1	1.266724485	1.355907173	277.0	3628.8	Andigena_laminirostris-ML25510791.wav	D:\Andean\Ramphastidae\Andigena_laminirostris-ML25510791.wav	2	a
-4	Spectrogram 1	1	1.380680142	1.915776274	803.3	3351.8	Andigena_laminirostris-ML25510791.wav	D:\Andean\Ramphastidae\Andigena_laminirostris-ML25510791.wav	2	b
-5	Spectrogram 1	1	2.454174458	2.526841834	443.2	3628.8	Andigena_laminirostris-ML25510791.wav	D:\Andean\Ramphastidae\Andigena_laminirostris-ML25510791.wav	3	a
-6	Spectrogram 1	1	2.554917865	3.047074184	664.8	3241.0	Andigena_laminirostris-ML25510791.wav	D:\Andean\Ramphastidae\Andigena_laminirostris-ML25510791.wav	3	b

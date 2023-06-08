@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.457159157	1.582675533	968.9	4687.6	Oenanthe_familiaris-ML213385251.wav	E:\Andean\Muscicapidae\Oenanthe_familiaris-ML213385251.wav	1	a
-2	Spectrogram 1	1	8.142557741	8.268074117	785.6	4713.8	Oenanthe_familiaris-ML213385251.wav	E:\Andean\Muscicapidae\Oenanthe_familiaris-ML213385251.wav	2	a
-3	Spectrogram 1	1	13.556191611	13.668495737	864.2	4949.5	Oenanthe_familiaris-ML213385251.wav	E:\Andean\Muscicapidae\Oenanthe_familiaris-ML213385251.wav	3	a

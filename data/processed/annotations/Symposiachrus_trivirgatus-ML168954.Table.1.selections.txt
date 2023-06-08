@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	109.168883504	109.248157005	1662.1	5623.3	Symposiachrus_trivirgatus-ML168954.wav	E:\Andean\Monarchidae\Symposiachrus_trivirgatus-ML168954.wav	1	a
-2	Spectrogram 1	1	109.360461131	109.436431570	1689.8	6038.8	Symposiachrus_trivirgatus-ML168954.wav	E:\Andean\Monarchidae\Symposiachrus_trivirgatus-ML168954.wav	2	a
-3	Spectrogram 1	1	109.552038759	109.644524510	1551.3	6398.9	Symposiachrus_trivirgatus-ML168954.wav	E:\Andean\Monarchidae\Symposiachrus_trivirgatus-ML168954.wav	3	a

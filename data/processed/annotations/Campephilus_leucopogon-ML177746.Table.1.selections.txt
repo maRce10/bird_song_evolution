@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	40.578389852	40.601746032	497.6	5604.2	Campephilus_leucopogon-ML177746.wav	D:\Andean\Picidae\Campephilus_leucopogon-ML177746.wav	1	a
-2	Spectrogram 1	1	40.604081649	40.945081866	497.6	6075.5	Campephilus_leucopogon-ML177746.wav	D:\Andean\Picidae\Campephilus_leucopogon-ML177746.wav	1	b
-3	Spectrogram 1	1	42.596769651	42.624797066	366.6	4321.0	Campephilus_leucopogon-ML177746.wav	D:\Andean\Picidae\Campephilus_leucopogon-ML177746.wav	2	a
-4	Spectrogram 1	1	42.629468302	42.982146608	419.0	6180.3	Campephilus_leucopogon-ML177746.wav	D:\Andean\Picidae\Campephilus_leucopogon-ML177746.wav	2	b
-5	Spectrogram 1	1	44.208346017	44.234037815	340.4	3404.4	Campephilus_leucopogon-ML177746.wav	D:\Andean\Picidae\Campephilus_leucopogon-ML177746.wav	3	a
-6	Spectrogram 1	1	44.236373432	44.612407918	419.0	5944.6	Campephilus_leucopogon-ML177746.wav	D:\Andean\Picidae\Campephilus_leucopogon-ML177746.wav	3	b

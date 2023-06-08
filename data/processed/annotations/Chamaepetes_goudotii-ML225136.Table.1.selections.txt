@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.424436400	1.718134143	209.000	5278.919	Chamaepetes_goudotii-ML225136.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Chamaepetes_goudotii-ML225136.wav	1	a
-2	Spectrogram 1	1	2.175201256	2.500104384	156.800	5278.919	Chamaepetes_goudotii-ML225136.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Chamaepetes_goudotii-ML225136.wav	2	a
-3	Spectrogram 1	1	3.999318138	4.324221266	241.600	5138.771	Chamaepetes_goudotii-ML225136.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Chamaepetes_goudotii-ML225136.wav	3	a

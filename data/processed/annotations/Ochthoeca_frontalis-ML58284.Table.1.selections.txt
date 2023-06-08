@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.556184675	6.724349165	2395.4	7401.2	Ochthoeca_frontalis-ML58284.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_frontalis-ML58284.wav	1	a
-2	Spectrogram 1	1	6.750880671	9.155510201	3224.6	7186.2	Ochthoeca_frontalis-ML58284.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_frontalis-ML58284.wav	1	b
-3	Spectrogram 1	1	18.319315512	18.489423233	3715.9	7370.5	Ochthoeca_frontalis-ML58284.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_frontalis-ML58284.wav	2	c
-4	Spectrogram 1	1	18.527408453	20.671096042	3715.9	7278.3	Ochthoeca_frontalis-ML58284.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_frontalis-ML58284.wav	2	b
-5	Spectrogram 1	1	35.947113933	43.385610776	3961.6	7585.4	Ochthoeca_frontalis-ML58284.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_frontalis-ML58284.wav	3	d

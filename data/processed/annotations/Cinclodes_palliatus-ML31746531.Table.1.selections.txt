@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	27.249822560	27.313459878	1933.8	4570.7	Cinclodes_palliatus-ML31746531.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_palliatus-ML31746531.wav	1	a
-2	Spectrogram 1	1	29.512482773	29.583190904	1908.7	4445.2	Cinclodes_palliatus-ML31746531.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_palliatus-ML31746531.wav	2	a
-3	Spectrogram 1	1	30.781693736	30.852401867	1883.5	4545.6	Cinclodes_palliatus-ML31746531.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_palliatus-ML31746531.wav	3	a

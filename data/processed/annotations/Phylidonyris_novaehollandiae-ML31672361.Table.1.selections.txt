@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.930717410	9.040713448	1142.0	8126.0	Phylidonyris_novaehollandiae-ML31672361.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_novaehollandiae-ML31672361.wav	1	a
-2	Spectrogram 1	1	10.500660870	10.610656908	1032.2	8126.0	Phylidonyris_novaehollandiae-ML31672361.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_novaehollandiae-ML31672361.wav	2	a
-3	Spectrogram 1	1	11.580621976	11.695617835	1186.0	8082.1	Phylidonyris_novaehollandiae-ML31672361.wav	E:\Escritorio\Cantos\Meliphagidae\Phylidonyris_novaehollandiae-ML31672361.wav	3	a

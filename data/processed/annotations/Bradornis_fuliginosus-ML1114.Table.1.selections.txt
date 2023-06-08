@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	10.793190060	11.024404438	3047.1	3822.7	Bradornis_fuliginosus-ML1114.wav	E:\Andean\Muscicapidae\Bradornis_fuliginosus-ML1114.wav	1	a
-2	Spectrogram 1	1	11.718047572	11.962474200	3019.4	4016.6	Bradornis_fuliginosus-ML1114.wav	E:\Andean\Muscicapidae\Bradornis_fuliginosus-ML1114.wav	2	a
-3	Spectrogram 1	1	12.576843833	12.827876586	2991.7	3988.9	Bradornis_fuliginosus-ML1114.wav	E:\Andean\Muscicapidae\Bradornis_fuliginosus-ML1114.wav	3	a

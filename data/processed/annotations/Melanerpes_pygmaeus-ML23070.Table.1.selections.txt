@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	116.684133927	116.950030462	1021.3	2802.1	Melanerpes_pygmaeus-ML23070.wav	D:\Andean\Picidae\Melanerpes_pygmaeus-ML23070.wav	1	a
-2	Spectrogram 1	1	118.248134041	118.492560669	1073.7	3011.6	Melanerpes_pygmaeus-ML23070.wav	D:\Andean\Picidae\Melanerpes_pygmaeus-ML23070.wav	2	a
-3	Spectrogram 1	1	119.070596614	119.348053867	1021.3	3325.8	Melanerpes_pygmaeus-ML23070.wav	D:\Andean\Picidae\Melanerpes_pygmaeus-ML23070.wav	3	a

@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.408706793	1.449289323	4672.000	6377.700	Idiopsar_erythronotus-ML77378341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Idiopsar_erythronotus-ML77378341.wav	1	a
-2	Spectrogram 1	1	3.884257009	3.926530478	4202.400	6179.900	Idiopsar_erythronotus-ML77378341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Idiopsar_erythronotus-ML77378341.wav	2	a
-3	Spectrogram 1	1	5.906437869	5.955475092	4128.200	6278.800	Idiopsar_erythronotus-ML77378341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Idiopsar_erythronotus-ML77378341.wav	3	a
-4	Spectrogram 1	1	6.205734026	6.264916882	4400.100	6723.800	Idiopsar_erythronotus-ML77378341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Idiopsar_erythronotus-ML77378341.wav	4	a
-5	Spectrogram 1	1	6.777138635	6.827866797	4400.100	6773.200	Idiopsar_erythronotus-ML77378341.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Idiopsar_erythronotus-ML77378341.wav	5	a

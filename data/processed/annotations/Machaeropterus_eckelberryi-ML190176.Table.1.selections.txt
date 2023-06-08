@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	40.827462936	41.056353493	3259.2	4513.3	Machaeropterus_eckelberryi-ML190176.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_eckelberryi-ML190176.wav	1	a
-2	Spectrogram 1	1	44.020055901	44.197562863	3314.3	4582.2	Machaeropterus_eckelberryi-ML190176.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_eckelberryi-ML190176.wav	2	a
-3	Spectrogram 1	1	47.200841806	47.392362475	3286.8	4513.3	Machaeropterus_eckelberryi-ML190176.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_eckelberryi-ML190176.wav	3	a
-4	Spectrogram 1	1	49.726500831	49.908679029	3286.8	4527.1	Machaeropterus_eckelberryi-ML190176.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_eckelberryi-ML190176.wav	4	a
-5	Spectrogram 1	1	55.078671621	55.295884088	3148.9	4430.6	Machaeropterus_eckelberryi-ML190176.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_eckelberryi-ML190176.wav	5	a

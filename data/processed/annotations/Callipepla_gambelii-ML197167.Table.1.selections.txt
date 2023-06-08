@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.866626419	9.527238927	494.9	2199.5	Callipepla_gambelii-ML197167.wav	E:\Andean\Odontophoridae\Callipepla_gambelii-ML197167.wav	1	a
-2	Spectrogram 1	1	19.141803216	19.756172848	467.4	2144.5	Callipepla_gambelii-ML197167.wav	E:\Andean\Odontophoridae\Callipepla_gambelii-ML197167.wav	2	a
-3	Spectrogram 1	1	30.138736718	30.799349226	522.4	2172.0	Callipepla_gambelii-ML197167.wav	E:\Andean\Odontophoridae\Callipepla_gambelii-ML197167.wav	3	a

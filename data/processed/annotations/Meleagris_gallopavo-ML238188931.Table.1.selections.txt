@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.854505594	5.853682013	332.4	1994.5	Meleagris_gallopavo-ML238188931.wav	D:\Andean\Phasianidae\Meleagris_gallopavo-ML238188931.wav	1	a
-2	Spectrogram 1	1	47.162441208	48.252451847	332.4	1634.4	Meleagris_gallopavo-ML238188931.wav	D:\Andean\Phasianidae\Meleagris_gallopavo-ML238188931.wav	2	a
-3	Spectrogram 1	1	82.418755241	83.495553630	360.1	1523.6	Meleagris_gallopavo-ML238188931.wav	D:\Andean\Phasianidae\Meleagris_gallopavo-ML238188931.wav	3	a

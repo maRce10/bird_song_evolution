@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	34.637937211	35.179639468	3224.6	6479.9	Myiopagis_gaimardii-ML220145.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_gaimardii-ML220145.wav	1	a
-2	Spectrogram 1	1	39.568209384	40.090093266	3286.0	6111.4	Myiopagis_gaimardii-ML220145.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_gaimardii-ML220145.wav	2	b
-3	Spectrogram 1	1	43.953418118	44.501726500	3286.0	5927.1	Myiopagis_gaimardii-ML220145.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiopagis_gaimardii-ML220145.wav	3	c

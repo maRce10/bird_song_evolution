@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.283782733	1.366697169	1329.6	4653.8	Myiodynastes_hemichrysus-ML209414.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_hemichrysus-ML209414.wav	1	a
-2	Spectrogram 1	1	1.376039640	1.541868513	1412.8	6205.0	Myiodynastes_hemichrysus-ML209414.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_hemichrysus-ML209414.wav	1	b
-3	Spectrogram 1	1	2.152632599	2.225036755	1329.6	4570.7	Myiodynastes_hemichrysus-ML209414.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_hemichrysus-ML209414.wav	2	a
-4	Spectrogram 1	1	2.242553889	2.387362201	1385.1	6315.8	Myiodynastes_hemichrysus-ML209414.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_hemichrysus-ML209414.wav	2	b
-5	Spectrogram 1	1	2.845940773	2.926519592	1495.9	4515.3	Myiodynastes_hemichrysus-ML209414.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_hemichrysus-ML209414.wav	3	a
-6	Spectrogram 1	1	2.940533299	3.113369025	1274.2	6094.2	Myiodynastes_hemichrysus-ML209414.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_hemichrysus-ML209414.wav	3	b

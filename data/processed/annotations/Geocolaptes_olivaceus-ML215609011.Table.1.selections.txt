@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.497189737	4.698676552	2147.4	2933.0	Geocolaptes_olivaceus-ML215609011.wav	D:\Andean\Picidae\Geocolaptes_olivaceus-ML215609011.wav	1	a
-2	Spectrogram 1	1	4.873738867	5.062013432	1780.8	2802.1	Geocolaptes_olivaceus-ML215609011.wav	D:\Andean\Picidae\Geocolaptes_olivaceus-ML215609011.wav	2	a
-3	Spectrogram 1	1	5.341122216	5.570685063	1859.3	2697.3	Geocolaptes_olivaceus-ML215609011.wav	D:\Andean\Picidae\Geocolaptes_olivaceus-ML215609011.wav	3	a

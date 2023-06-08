@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.283555636	9.627074140	785.6	2828.3	Melanerpes_herminieri-ML172113651.wav	D:\Andean\Picidae\Melanerpes_herminieri-ML172113651.wav	1	a
-2	Spectrogram 1	1	11.390909538	11.727821917	785.6	2828.3	Melanerpes_herminieri-ML172113651.wav	D:\Andean\Picidae\Melanerpes_herminieri-ML172113651.wav	2	a
-3	Spectrogram 1	1	13.993722820	14.324029075	864.2	2933.0	Melanerpes_herminieri-ML172113651.wav	D:\Andean\Picidae\Melanerpes_herminieri-ML172113651.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	117.691609418	117.849773456	2401.5	3675.0	Myrmorchilus_strigilatus-ML52495.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmorchilus_strigilatus-ML52495.wav	1	a
-2	Spectrogram 1	1	117.970279390	118.482429609	1564.6	4075.2	Myrmorchilus_strigilatus-ML52495.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmorchilus_strigilatus-ML52495.wav	1	b
-3	Spectrogram 1	1	123.953574266	124.119269925	2474.3	3675.0	Myrmorchilus_strigilatus-ML52495.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmorchilus_strigilatus-ML52495.wav	2	a
-4	Spectrogram 1	1	124.220946807	124.755691888	1346.3	4075.2	Myrmorchilus_strigilatus-ML52495.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmorchilus_strigilatus-ML52495.wav	2	b
-5	Spectrogram 1	1	131.612142300	131.770306338	2510.6	3638.6	Myrmorchilus_strigilatus-ML52495.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmorchilus_strigilatus-ML52495.wav	3	a
-6	Spectrogram 1	1	131.875749030	132.402962491	1564.6	4148.0	Myrmorchilus_strigilatus-ML52495.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmorchilus_strigilatus-ML52495.wav	3	b

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.331271189	4.384420468	196.0	588.0	Chalcophaps_indica-ML164241.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Chalcophaps_indica-ML164241.wav	1	a
-2	Spectrogram 1	1	4.699547742	5.488482353	220.5	612.5	Chalcophaps_indica-ML164241.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Chalcophaps_indica-ML164241.wav	1	b
-3	Spectrogram 1	1	6.068683744	6.116850278	196.0	588.0	Chalcophaps_indica-ML164241.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Chalcophaps_indica-ML164241.wav	2	a
-4	Spectrogram 1	1	6.468964252	7.223019649	196.0	637.0	Chalcophaps_indica-ML164241.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Chalcophaps_indica-ML164241.wav	2	b
-5	Spectrogram 1	1	7.795141308	7.854934247	171.5	588.0	Chalcophaps_indica-ML164241.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Chalcophaps_indica-ML164241.wav	3	a
-6	Spectrogram 1	1	8.190439072	8.907954339	196.0	612.5	Chalcophaps_indica-ML164241.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Chalcophaps_indica-ML164241.wav	3	b

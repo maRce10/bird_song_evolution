@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.929999988	17.843106908	1433.7	4202.4	Geranospiza_caerulescens-ML103271.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Geranospiza_caerulescens-ML103271.wav	1	a
-2	Spectrogram 1	1	26.885660224	27.819058409	964.1	4276.5	Geranospiza_caerulescens-ML103271.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Geranospiza_caerulescens-ML103271.wav	2	a
-3	Spectrogram 1	1	35.862844135	36.772569178	964.1	4251.8	Geranospiza_caerulescens-ML103271.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Geranospiza_caerulescens-ML103271.wav	3	a

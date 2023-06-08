@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.970553515	9.219111156	1414.1	7620.6	Cercotrichas_paena-ML42952.wav	E:\Andean\Muscicapidae\Cercotrichas_paena-ML42952.wav	1	a
-2	Spectrogram 1	1	9.978815540	11.458587559	1335.6	7673.0	Cercotrichas_paena-ML42952.wav	E:\Andean\Muscicapidae\Cercotrichas_paena-ML42952.wav	2	a
-3	Spectrogram 1	1	11.709620312	14.788074601	1335.6	7751.5	Cercotrichas_paena-ML42952.wav	E:\Andean\Muscicapidae\Cercotrichas_paena-ML42952.wav	3	a

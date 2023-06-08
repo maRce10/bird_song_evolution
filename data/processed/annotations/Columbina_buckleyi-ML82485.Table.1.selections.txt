@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	229.899254365	230.331092258	327.0	887.6	Columbina_buckleyi-ML82485.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_buckleyi-ML82485.wav	1	a
-2	Spectrogram 1	1	231.043624780	231.475462673	327.0	887.6	Columbina_buckleyi-ML82485.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_buckleyi-ML82485.wav	2	
-3	Spectrogram 1	1	232.142582494	232.569437641	303.7	864.2	Columbina_buckleyi-ML82485.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columbina_buckleyi-ML82485.wav	3	a

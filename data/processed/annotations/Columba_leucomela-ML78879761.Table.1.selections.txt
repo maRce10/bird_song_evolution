@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.345341127	1.730673400	46.7	513.9	Columba_leucomela-ML78879761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_leucomela-ML78879761.wav	1	a
-2	Spectrogram 1	1	4.499221150	4.894518913	93.4	537.2	Columba_leucomela-ML78879761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_leucomela-ML78879761.wav	2	a
-3	Spectrogram 1	1	35.369750840	35.745117624	46.7	490.5	Columba_leucomela-ML78879761.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_leucomela-ML78879761.wav	3	a

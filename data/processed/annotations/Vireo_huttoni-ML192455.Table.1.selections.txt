@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	11.834500560	12.260595628	1689.8	7673.2	Vireo_huttoni-ML192455.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_huttoni-ML192455.wav	1	a
-2	Spectrogram 1	1	12.874965260	13.301060328	1772.9	7562.4	Vireo_huttoni-ML192455.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_huttoni-ML192455.wav	2	a
-3	Spectrogram 1	1	13.925339148	14.348131154	1772.9	7479.3	Vireo_huttoni-ML192455.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_huttoni-ML192455.wav	3	a

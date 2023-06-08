@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	15.268126304	15.303160573	1883.7	6232.7	Agapornis_fischeri-ML37122.wav	D:\Andean\Psittaculidae\Agapornis_fischeri-ML37122.wav	1	a
-2	Spectrogram 1	1	15.373229110	15.401256525	1883.7	6260.4	Agapornis_fischeri-ML37122.wav	D:\Andean\Psittaculidae\Agapornis_fischeri-ML37122.wav	1	a
-3	Spectrogram 1	1	20.145873228	20.183243114	1523.6	5817.2	Agapornis_fischeri-ML37122.wav	D:\Andean\Psittaculidae\Agapornis_fischeri-ML37122.wav	2	a
-4	Spectrogram 1	1	20.246304798	20.286010303	1412.8	5900.3	Agapornis_fischeri-ML37122.wav	D:\Andean\Psittaculidae\Agapornis_fischeri-ML37122.wav	2	a
-5	Spectrogram 1	1	24.449324427	24.489029932	1689.8	6149.6	Agapornis_fischeri-ML37122.wav	D:\Andean\Psittaculidae\Agapornis_fischeri-ML37122.wav	3	a
-6	Spectrogram 1	1	24.538077908	24.580119031	1772.9	5872.6	Agapornis_fischeri-ML37122.wav	D:\Andean\Psittaculidae\Agapornis_fischeri-ML37122.wav	3	a

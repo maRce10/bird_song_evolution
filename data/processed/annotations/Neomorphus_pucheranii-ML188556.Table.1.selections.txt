@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.583077740	8.620199509	329.4	3797.5	Neomorphus_pucheranii-ML188556.wav	E:\Escritorio\Cantos\Cuculidae\Neomorphus_pucheranii-ML188556.wav	1	a
-2	Spectrogram 1	1	24.331098114	24.373522993	153.7	3887.3	Neomorphus_pucheranii-ML188556.wav	E:\Escritorio\Cantos\Cuculidae\Neomorphus_pucheranii-ML188556.wav	2	a
-3	Spectrogram 1	1	48.713820937	48.756245816	263.5	3953.2	Neomorphus_pucheranii-ML188556.wav	E:\Escritorio\Cantos\Cuculidae\Neomorphus_pucheranii-ML188556.wav	3	a

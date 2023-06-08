@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	106.745667911	107.208096667	498.6	2216.1	Andigena_nigrirostris-ML50852.wav	D:\Andean\Ramphastidae\Andigena_nigrirostris-ML50852.wav	1	a
-2	Spectrogram 1	1	107.928164301	108.377380806	498.6	2160.7	Andigena_nigrirostris-ML50852.wav	D:\Andean\Ramphastidae\Andigena_nigrirostris-ML50852.wav	2	a
-3	Spectrogram 1	1	109.222964817	109.685393573	498.6	2188.4	Andigena_nigrirostris-ML50852.wav	D:\Andean\Ramphastidae\Andigena_nigrirostris-ML50852.wav	3	a

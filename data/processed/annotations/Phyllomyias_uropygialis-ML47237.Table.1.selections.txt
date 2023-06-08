@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	101.111743634	101.323139637	767.8	8015.4	Phyllomyias_uropygialis-ML47237.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_uropygialis-ML47237.wav	1	a
-2	Spectrogram 1	1	101.615460672	101.856584238	706.3	8414.6	Phyllomyias_uropygialis-ML47237.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_uropygialis-ML47237.wav	1	b
-3	Spectrogram 1	1	105.410683952	105.625383017	829.2	8015.4	Phyllomyias_uropygialis-ML47237.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_uropygialis-ML47237.wav	2	a
-4	Spectrogram 1	1	105.911097927	106.150569961	614.2	8261.1	Phyllomyias_uropygialis-ML47237.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_uropygialis-ML47237.wav	2	b
-5	Spectrogram 1	1	110.706770992	110.914863932	798.5	8107.5	Phyllomyias_uropygialis-ML47237.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_uropygialis-ML47237.wav	3	a
-6	Spectrogram 1	1	111.193972716	111.430141688	829.2	8322.5	Phyllomyias_uropygialis-ML47237.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Phyllomyias_uropygialis-ML47237.wav	3	b

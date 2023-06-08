@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.667119102	6.022802864	1357.3	5401.7	Pipra_fasciicauda-ML220164.wav	C:\Users\pfmar\Downloads\Pipridae\Pipra_fasciicauda-ML220164.wav	1	a
-2	Spectrogram 1	1	61.025120801	61.393284694	1301.9	5346.3	Pipra_fasciicauda-ML220164.wav	C:\Users\pfmar\Downloads\Pipridae\Pipra_fasciicauda-ML220164.wav	2	a
-3	Spectrogram 1	1	93.224687009	93.555410506	1274.2	5318.6	Pipra_fasciicauda-ML220164.wav	C:\Users\pfmar\Downloads\Pipridae\Pipra_fasciicauda-ML220164.wav	3	a

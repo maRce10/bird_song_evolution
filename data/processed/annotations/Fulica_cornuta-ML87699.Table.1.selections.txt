@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.207108279	5.252056122	193.9	1966.8	Fulica_cornuta-ML87699.wav	D:\Andean\Rallidae\Fulica_cornuta-ML87699.wav	1	a
-2	Spectrogram 1	1	7.517427389	7.636539172	193.9	1440.5	Fulica_cornuta-ML87699.wav	D:\Andean\Rallidae\Fulica_cornuta-ML87699.wav	2	b
-3	Spectrogram 1	1	9.339735096	9.393766067	83.1	1772.9	Fulica_cornuta-ML87699.wav	D:\Andean\Rallidae\Fulica_cornuta-ML87699.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	53.158582311	53.682113646	3047.1	3795.0	Microbates_cinereiventris-ML72663.wav	D:\Andean\Polioptilidae\Microbates_cinereiventris-ML72663.wav	1	a
-2	Spectrogram 1	1	56.122693546	56.600030939	3019.4	3656.5	Microbates_cinereiventris-ML72663.wav	D:\Andean\Polioptilidae\Microbates_cinereiventris-ML72663.wav	2	a
-3	Spectrogram 1	1	58.986717908	59.433259340	3074.8	3684.2	Microbates_cinereiventris-ML72663.wav	D:\Andean\Polioptilidae\Microbates_cinereiventris-ML72663.wav	3	a

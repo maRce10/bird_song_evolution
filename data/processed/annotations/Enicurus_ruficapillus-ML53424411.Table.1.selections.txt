@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.334437267	1.598682270	5374.0	5955.7	Enicurus_ruficapillus-ML53424411.wav	E:\Andean\Muscicapidae\Enicurus_ruficapillus-ML53424411.wav	1	a
-2	Spectrogram 1	1	1.644925146	1.942200774	5734.1	7036.1	Enicurus_ruficapillus-ML53424411.wav	E:\Andean\Muscicapidae\Enicurus_ruficapillus-ML53424411.wav	1	b
-3	Spectrogram 1	1	3.025605288	3.283244166	5512.5	6177.3	Enicurus_ruficapillus-ML53424411.wav	E:\Andean\Muscicapidae\Enicurus_ruficapillus-ML53424411.wav	2	a
-4	Spectrogram 1	1	3.349305417	3.580519795	5844.9	7562.4	Enicurus_ruficapillus-ML53424411.wav	E:\Andean\Muscicapidae\Enicurus_ruficapillus-ML53424411.wav	2	b
-5	Spectrogram 1	1	4.432709931	4.729985560	5374.0	5928.0	Enicurus_ruficapillus-ML53424411.wav	E:\Andean\Muscicapidae\Enicurus_ruficapillus-ML53424411.wav	3	a
-6	Spectrogram 1	1	4.769622310	4.981018313	5928.0	7119.2	Enicurus_ruficapillus-ML53424411.wav	E:\Andean\Muscicapidae\Enicurus_ruficapillus-ML53424411.wav	3	b

@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	68.940384086	69.198022964	940.2	5131.9	Vireo_plumbeus-ML269042091.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_plumbeus-ML269042091.wav	1	a
-2	Spectrogram 1	1	70.711816530	71.068547285	548.5	4622.7	Vireo_plumbeus-ML269042091.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_plumbeus-ML269042091.wav	2	b
-3	Spectrogram 1	1	72.325360740	72.713470588	470.1	5131.9	Vireo_plumbeus-ML269042091.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_plumbeus-ML269042091.wav	3	c
-4	Spectrogram 1	1	73.911105966	74.165441782	783.5	5014.4	Vireo_plumbeus-ML269042091.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_plumbeus-ML269042091.wav	4	d
-5	Spectrogram 1	1	75.808865370	76.086322624	744.3	4622.7	Vireo_plumbeus-ML269042091.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_plumbeus-ML269042091.wav	5	e

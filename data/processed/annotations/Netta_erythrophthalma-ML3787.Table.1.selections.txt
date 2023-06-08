@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	198.913710041	199.135333267	321.4	3411.3	Netta_erythrophthalma-ML3787.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Netta_erythrophthalma-ML3787.wav	1	a
-2	Spectrogram 1	1	199.355183507	199.576806733	346.1	3386.6	Netta_erythrophthalma-ML3787.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Netta_erythrophthalma-ML3787.wav	2	a
-3	Spectrogram 1	1	199.754105314	199.991685412	346.1	3485.5	Netta_erythrophthalma-ML3787.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Netta_erythrophthalma-ML3787.wav	3	a

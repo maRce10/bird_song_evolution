@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	66.181261661	66.227504537	1218.8	3213.3	Rallus_wetmorei-ML201141.wav	D:\Andean\Rallidae\Rallus_wetmorei-ML201141.wav	1	a
-2	Spectrogram 1	1	66.789025169	66.835268044	1301.9	3102.5	Rallus_wetmorei-ML201141.wav	D:\Andean\Rallidae\Rallus_wetmorei-ML201141.wav	2	a
-3	Spectrogram 1	1	67.264666175	67.317515175	1301.9	3268.7	Rallus_wetmorei-ML201141.wav	D:\Andean\Rallidae\Rallus_wetmorei-ML201141.wav	3	a

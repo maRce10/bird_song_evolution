@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	55.021528176	55.107407802	6165.6	7106.2	Platyrinchus_coronatus-ML75968.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_coronatus-ML75968.wav	1	a
-2	Spectrogram 1	1	55.194938959	55.226318053	5799.9	6165.6	Platyrinchus_coronatus-ML75968.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_coronatus-ML75968.wav	1	b
-3	Spectrogram 1	1	55.296508132	57.308073220	5982.8	7289.0	Platyrinchus_coronatus-ML75968.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_coronatus-ML75968.wav	1	c
-4	Spectrogram 1	1	95.799346860	95.923211705	5930.5	7001.7	Platyrinchus_coronatus-ML75968.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_coronatus-ML75968.wav	2	a
-5	Spectrogram 1	1	96.004136737	97.916609949	5643.1	7106.2	Platyrinchus_coronatus-ML75968.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_coronatus-ML75968.wav	2	c
-6	Spectrogram 1	1	129.135357867	129.221237493	5956.6	7106.2	Platyrinchus_coronatus-ML75968.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_coronatus-ML75968.wav	3	a
-7	Spectrogram 1	1	129.297207932	129.340147745	5747.6	6165.6	Platyrinchus_coronatus-ML75968.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_coronatus-ML75968.wav	3	b
-8	Spectrogram 1	1	129.409512058	131.467320022	5617.0	7445.8	Platyrinchus_coronatus-ML75968.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Platyrinchus_coronatus-ML75968.wav	3	c

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.670265592	4.888267720	2964.0	4072.0	Batis_pririt-ML177674421.wav	D:\Andean\Platysteiridae\Batis_pririt-ML177674421.wav	1	a
-2	Spectrogram 1	1	5.218573974	5.264816849	1301.9	3462.6	Batis_pririt-ML177674421.wav	D:\Andean\Platysteiridae\Batis_pririt-ML177674421.wav	1	b
-3	Spectrogram 1	1	5.619775561	5.841659263	2770.1	3850.4	Batis_pririt-ML177674421.wav	D:\Andean\Platysteiridae\Batis_pririt-ML177674421.wav	2	a
-4	Spectrogram 1	1	6.170981390	6.196673187	1412.8	4016.6	Batis_pririt-ML177674421.wav	D:\Andean\Platysteiridae\Batis_pririt-ML177674421.wav	2	b
-5	Spectrogram 1	1	6.570372055	6.780577668	2714.7	3988.9	Batis_pririt-ML177674421.wav	D:\Andean\Platysteiridae\Batis_pririt-ML177674421.wav	3	a
-6	Spectrogram 1	1	7.198653276	7.231351927	1329.6	3545.7	Batis_pririt-ML177674421.wav	D:\Andean\Platysteiridae\Batis_pririt-ML177674421.wav	3	b

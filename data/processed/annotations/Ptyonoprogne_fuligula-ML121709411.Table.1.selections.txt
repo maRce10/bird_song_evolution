@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.971805097	1.257411938	2368.5	4624.3	Ptyonoprogne_fuligula-ML121709411.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Ptyonoprogne_fuligula-ML121709411.wav	1	a
-2	Spectrogram 1	1	2.941738870	3.190253914	2706.9	4173.1	Ptyonoprogne_fuligula-ML121709411.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Ptyonoprogne_fuligula-ML121709411.wav	2	a
-3	Spectrogram 1	1	3.925749038	4.198373750	2632.8	4607.5	Ptyonoprogne_fuligula-ML121709411.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Ptyonoprogne_fuligula-ML121709411.wav	3	a

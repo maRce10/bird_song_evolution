@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	23.402785710	23.815798161	700.7	3130.0	Anous_albivitta-ML3386.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_albivitta-ML3386.wav	1	a
-2	Spectrogram 1	1	24.269416731	24.689771625	537.2	2989.8	Anous_albivitta-ML3386.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_albivitta-ML3386.wav	1	a
-3	Spectrogram 1	1	25.227605617	25.657138567	607.3	2896.4	Anous_albivitta-ML3386.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Anous_albivitta-ML3386.wav	3	a

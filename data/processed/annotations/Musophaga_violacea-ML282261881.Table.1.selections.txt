@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.492156319	0.862099323	304.7	1108.0	Musophaga_violacea-ML282261881.wav	E:\Andean\Musophagidae\Musophaga_violacea-ML282261881.wav	1	a
-2	Spectrogram 1	1	0.961191200	1.436832206	387.8	1135.7	Musophaga_violacea-ML282261881.wav	E:\Andean\Musophagidae\Musophaga_violacea-ML282261881.wav	2	a
-3	Spectrogram 1	1	1.502893456	1.971928337	387.8	1191.1	Musophaga_violacea-ML282261881.wav	E:\Andean\Musophagidae\Musophaga_violacea-ML282261881.wav	3	a

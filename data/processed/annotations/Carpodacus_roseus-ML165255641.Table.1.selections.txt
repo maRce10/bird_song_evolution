@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.784860261	0.926276525	5227.0	7796.6	Carpodacus_roseus-ML165255641.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_roseus-ML165255641.wav	1	a
-2	Spectrogram 1	1	8.319167750	8.449977794	5270.9	7313.4	Carpodacus_roseus-ML165255641.wav	E:\Escritorio\Cantos\Fringillidae\Carpodacus_roseus-ML165255641.wav	2	a

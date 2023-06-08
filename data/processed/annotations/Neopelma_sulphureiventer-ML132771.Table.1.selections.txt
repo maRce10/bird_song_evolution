@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	130.753484906	130.991754126	822.7	4348.4	Neopelma_sulphureiventer-ML132771.wav	C:\Users\pfmar\Downloads\Pipridae\Neopelma_sulphureiventer-ML132771.wav	1	a
-2	Spectrogram 1	1	131.097651558	131.289590653	744.3	4309.3	Neopelma_sulphureiventer-ML132771.wav	C:\Users\pfmar\Downloads\Pipridae\Neopelma_sulphureiventer-ML132771.wav	1	b
-3	Spectrogram 1	1	135.413920876	135.647777704	744.3	4387.6	Neopelma_sulphureiventer-ML132771.wav	C:\Users\pfmar\Downloads\Pipridae\Neopelma_sulphureiventer-ML132771.wav	2	a
-4	Spectrogram 1	1	135.727200778	135.934583248	705.2	4152.6	Neopelma_sulphureiventer-ML132771.wav	C:\Users\pfmar\Downloads\Pipridae\Neopelma_sulphureiventer-ML132771.wav	2	b
-5	Spectrogram 1	1	151.126597331	151.369278945	783.5	4466.0	Neopelma_sulphureiventer-ML132771.wav	C:\Users\pfmar\Downloads\Pipridae\Neopelma_sulphureiventer-ML132771.wav	3	a
-6	Spectrogram 1	1	151.453114412	151.642847310	744.3	4387.6	Neopelma_sulphureiventer-ML132771.wav	C:\Users\pfmar\Downloads\Pipridae\Neopelma_sulphureiventer-ML132771.wav	3	b
-7	Spectrogram 1	1	158.903248428	159.145930042	705.2	4466.0	Neopelma_sulphureiventer-ML132771.wav	C:\Users\pfmar\Downloads\Pipridae\Neopelma_sulphureiventer-ML132771.wav	4	a
-8	Spectrogram 1	1	159.231971705	159.423910800	744.3	4387.6	Neopelma_sulphureiventer-ML132771.wav	C:\Users\pfmar\Downloads\Pipridae\Neopelma_sulphureiventer-ML132771.wav	4	b

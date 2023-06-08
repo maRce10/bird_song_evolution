@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.265889721	1.480258480	1892.0	9086.3	Prinia_inornata-ML106603661.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_inornata-ML106603661.wav	1	a
-2	Spectrogram 1	1	1.489116693	1.710572023	1518.3	9133.0	Prinia_inornata-ML106603661.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_inornata-ML106603661.wav	1	a
-3	Spectrogram 1	1	4.081764492	4.297904894	1705.1	9460.0	Prinia_inornata-ML106603661.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_inornata-ML106603661.wav	2	a
-4	Spectrogram 1	1	4.312078035	4.533533364	1635.1	9530.1	Prinia_inornata-ML106603661.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_inornata-ML106603661.wav	2	a
-5	Spectrogram 1	1	7.088426764	7.293937310	1588.3	9086.3	Prinia_inornata-ML106603661.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_inornata-ML106603661.wav	3	a
-6	Spectrogram 1	1	7.306338808	7.527794138	1635.1	9413.3	Prinia_inornata-ML106603661.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_inornata-ML106603661.wav	3	a

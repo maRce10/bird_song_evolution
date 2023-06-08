@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.728673931	6.840978058	968.9	2592.6	Chrysophlegma_flavinucha-ML715.wav	D:\Andean\Picidae\Chrysophlegma_flavinucha-ML715.wav	1	a
-2	Spectrogram 1	1	9.450397465	9.569307717	995.1	2487.8	Chrysophlegma_flavinucha-ML715.wav	D:\Andean\Picidae\Chrysophlegma_flavinucha-ML715.wav	2	a
-3	Spectrogram 1	1	16.245441325	16.357745452	811.8	2409.3	Chrysophlegma_flavinucha-ML715.wav	D:\Andean\Picidae\Chrysophlegma_flavinucha-ML715.wav	3	a

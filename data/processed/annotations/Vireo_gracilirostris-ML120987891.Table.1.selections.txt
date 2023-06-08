@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.652354852	0.710158446	2216.1	4072.0	Vireo_gracilirostris-ML120987891.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gracilirostris-ML120987891.wav	1	a
-2	Spectrogram 1	1	0.807598791	0.872008511	2437.7	4099.7	Vireo_gracilirostris-ML120987891.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gracilirostris-ML120987891.wav	1	b
-3	Spectrogram 1	1	0.875311574	0.971100387	2382.3	5844.9	Vireo_gracilirostris-ML120987891.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gracilirostris-ML120987891.wav	1	c
-4	Spectrogram 1	1	4.571248363	4.648870333	2437.7	4487.6	Vireo_gracilirostris-ML120987891.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gracilirostris-ML120987891.wav	2	d
-5	Spectrogram 1	1	4.692111381	4.830840008	2216.1	4709.2	Vireo_gracilirostris-ML120987891.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gracilirostris-ML120987891.wav	2	e
-6	Spectrogram 1	1	8.390313422	8.474541517	2160.7	3739.6	Vireo_gracilirostris-ML120987891.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gracilirostris-ML120987891.wav	3	a
-7	Spectrogram 1	1	8.567027268	8.608315550	2714.7	4182.9	Vireo_gracilirostris-ML120987891.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gracilirostris-ML120987891.wav	3	b
-8	Spectrogram 1	1	8.618224737	8.725574270	2271.5	6149.6	Vireo_gracilirostris-ML120987891.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_gracilirostris-ML120987891.wav	3	c

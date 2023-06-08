@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	89.259070900	90.081208408	1108.0	3822.7	Oncostoma_cinereigulare-ML103256.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Oncostoma_cinereigulare-ML103256.wav	1	a
-2	Spectrogram 1	1	94.143277363	95.007455994	1024.9	3878.1	Oncostoma_cinereigulare-ML103256.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Oncostoma_cinereigulare-ML103256.wav	2	a
-3	Spectrogram 1	1	101.719333076	102.567162382	1024.9	3878.1	Oncostoma_cinereigulare-ML103256.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Oncostoma_cinereigulare-ML103256.wav	3	a

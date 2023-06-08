@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.975967326	8.457229663	1038.2	2397.8	Cryptoleucopteryx_plumbea-ML168758.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Cryptoleucopteryx_plumbea-ML168758.wav	1	a
-2	Spectrogram 1	1	11.817725659	13.185695101	1062.9	2298.9	Cryptoleucopteryx_plumbea-ML168758.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Cryptoleucopteryx_plumbea-ML168758.wav	2	b
-3	Spectrogram 1	1	18.948700380	20.397834882	1260.7	2323.7	Cryptoleucopteryx_plumbea-ML168758.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Cryptoleucopteryx_plumbea-ML168758.wav	3	a

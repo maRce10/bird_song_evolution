@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.762073303	14.057606657	1074.5	2896.4	Falco_rupicolus-ML275525.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rupicolus-ML275525.wav	1	a
-2	Spectrogram 1	1	14.184263808	14.455934221	1097.8	2873.0	Falco_rupicolus-ML275525.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rupicolus-ML275525.wav	2	a
-3	Spectrogram 1	1	14.584426983	14.870782283	1167.9	2943.1	Falco_rupicolus-ML275525.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Falco_rupicolus-ML275525.wav	3	a

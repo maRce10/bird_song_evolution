@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.706567275	5.114354010	271.9	2002.3	Egretta_tricolor-ML134136.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_tricolor-ML134136.wav	1	a
-2	Spectrogram 1	1	5.662206625	6.110772034	197.8	1854.0	Egretta_tricolor-ML134136.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_tricolor-ML134136.wav	2	a
-3	Spectrogram 1	1	6.751784292	7.164889985	148.3	1928.1	Egretta_tricolor-ML134136.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_tricolor-ML134136.wav	3	a

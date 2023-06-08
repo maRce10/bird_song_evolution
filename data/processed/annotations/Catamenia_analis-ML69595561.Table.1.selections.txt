@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	10.154708895	11.047524550	2221.2	7216.6	Catamenia_analis-ML69595561.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Catamenia_analis-ML69595561.wav	1	a
-2	Spectrogram 1	1	18.841794306	19.748078365	2189.0	7159.0	Catamenia_analis-ML69595561.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Catamenia_analis-ML69595561.wav	2	a
-3	Spectrogram 1	1	27.081628097	28.002128377	2262.6	7331.8	Catamenia_analis-ML69595561.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Catamenia_analis-ML69595561.wav	3	a
-4	Spectrogram 1	1	38.020783430	38.983932372	2339.4	7735.0	Catamenia_analis-ML69595561.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Catamenia_analis-ML69595561.wav	4	a
-5	Spectrogram 1	1	48.502742157	49.384147831	2243.4	7639.0	Catamenia_analis-ML69595561.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Catamenia_analis-ML69595561.wav	5	a

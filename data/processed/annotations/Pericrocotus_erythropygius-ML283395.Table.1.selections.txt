@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.258821136	0.304711408	3503.7	5278.9	Pericrocotus_erythropygius-ML283395.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_erythropygius-ML283395.wav	1	a
-2	Spectrogram 1	1	1.481337992	1.525392653	3597.1	5862.9	Pericrocotus_erythropygius-ML283395.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_erythropygius-ML283395.wav	2	a
-3	Spectrogram 1	1	6.448535228	6.492589889	3480.3	5535.9	Pericrocotus_erythropygius-ML283395.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Pericrocotus_erythropygius-ML283395.wav	3	a

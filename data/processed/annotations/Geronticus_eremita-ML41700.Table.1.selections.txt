@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	69.421866626	69.712536130	470.9	1246.5	Geronticus_eremita-ML41700.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Geronticus_eremita-ML41700.wav	1	a
-2	Spectrogram 1	1	70.908244770	71.119640773	249.3	1191.1	Geronticus_eremita-ML41700.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Geronticus_eremita-ML41700.wav	2	b
-3	Spectrogram 1	1	71.694373655	71.905769657	277.0	1163.4	Geronticus_eremita-ML41700.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Geronticus_eremita-ML41700.wav	3	b

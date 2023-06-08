@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.437927494	0.718059252	1137.1	3955.2	Tachyeres_leucocephalus-ML136948741.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Tachyeres_leucocephalus-ML136948741.wav	1	a
-2	Spectrogram 1	1	1.725115190	2.047798607	914.6	4103.5	Tachyeres_leucocephalus-ML136948741.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Tachyeres_leucocephalus-ML136948741.wav	2	a
-3	Spectrogram 1	1	3.187154999	3.515157373	840.5	4251.8	Tachyeres_leucocephalus-ML136948741.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Tachyeres_leucocephalus-ML136948741.wav	3	a

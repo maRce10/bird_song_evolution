@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.382251955	1.423030629	1260.7	4573.2	Artamus_cinereus-ML112742821.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Artamus_cinereus-ML112742821.wav	1	a
-2	Spectrogram 1	1	13.469580456	13.505040172	1260.7	4202.4	Artamus_cinereus-ML112742821.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Artamus_cinereus-ML112742821.wav	2	a
-3	Spectrogram 1	1	14.368484260	14.416354877	1260.7	4548.4	Artamus_cinereus-ML112742821.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Artamidae\Artamidae\Artamus_cinereus-ML112742821.wav	3	a

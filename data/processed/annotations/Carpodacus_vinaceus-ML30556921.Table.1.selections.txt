@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.350005252	0.404804054	3623.800	6512.063	Carpodacus_vinaceus-ML30556921.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_vinaceus-ML30556921.wav	1	a
-2	Spectrogram 1	1	1.041177238	1.090672931	3689.600	6465.346	Carpodacus_vinaceus-ML30556921.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_vinaceus-ML30556921.wav	2	a
-3	Spectrogram 1	1	1.787458410	1.835186399	3639.300	6441.988	Carpodacus_vinaceus-ML30556921.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_vinaceus-ML30556921.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	12.114954229	12.162848636	886.4	1828.3	Rhinocrypta_lanceolata-ML52530.wav	D:\Andean\Rhinocryptidae\Rhinocrypta_lanceolata-ML52530.wav	1	a
-2	Spectrogram 1	1	12.176060886	12.235516012	277.0	1495.9	Rhinocrypta_lanceolata-ML52530.wav	D:\Andean\Rhinocryptidae\Rhinocrypta_lanceolata-ML52530.wav	1	b
-3	Spectrogram 1	1	15.158893937	15.201833750	858.7	1800.6	Rhinocrypta_lanceolata-ML52530.wav	D:\Andean\Rhinocryptidae\Rhinocrypta_lanceolata-ML52530.wav	2	a
-4	Spectrogram 1	1	15.218349063	15.272849595	304.7	1523.6	Rhinocrypta_lanceolata-ML52530.wav	D:\Andean\Rhinocryptidae\Rhinocrypta_lanceolata-ML52530.wav	2	b
-5	Spectrogram 1	1	18.928460700	18.976355107	858.7	1689.8	Rhinocrypta_lanceolata-ML52530.wav	D:\Andean\Rhinocryptidae\Rhinocrypta_lanceolata-ML52530.wav	3	a
-6	Spectrogram 1	1	18.989567357	19.042416357	360.1	1523.6	Rhinocrypta_lanceolata-ML52530.wav	D:\Andean\Rhinocryptidae\Rhinocrypta_lanceolata-ML52530.wav	3	b

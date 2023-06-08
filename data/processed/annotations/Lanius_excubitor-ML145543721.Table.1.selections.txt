@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.194574755	0.506628607	1915.9	6408.5	Lanius_excubitor-ML145543721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_excubitor-ML145543721.wav	1	a
-2	Spectrogram 1	1	1.641036140	1.953089992	1915.9	6408.5	Lanius_excubitor-ML145543721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_excubitor-ML145543721.wav	2	a
-3	Spectrogram 1	1	3.641852014	3.950234645	1915.9	6540.6	Lanius_excubitor-ML145543721.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_excubitor-ML145543721.wav	3	a

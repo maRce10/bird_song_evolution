@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	77.685312095	77.729276502	222.5	1285.4	Amazonetta_brasiliensis-ML177511.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Amazonetta_brasiliensis-ML177511.wav	1	a
-2	Spectrogram 1	1	78.363378530	78.407342938	173.0	1211.3	Amazonetta_brasiliensis-ML177511.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Amazonetta_brasiliensis-ML177511.wav	2	a
-3	Spectrogram 1	1	79.105700638	79.156428800	247.2	1310.1	Amazonetta_brasiliensis-ML177511.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Amazonetta_brasiliensis-ML177511.wav	3	a

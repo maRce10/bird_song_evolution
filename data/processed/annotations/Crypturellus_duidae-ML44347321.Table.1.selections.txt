@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.971345189	4.549258129	1028.3	1495.9	Crypturellus_duidae-ML44347321.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_duidae-ML44347321.wav	1	a
-2	Spectrogram 1	1	27.986258071	30.774161174	1038.1	1498.4	Crypturellus_duidae-ML44347321.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_duidae-ML44347321.wav	1	a
-3	Spectrogram 1	1	58.117056990	60.904960093	1057.7	1488.7	Crypturellus_duidae-ML44347321.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_duidae-ML44347321.wav	1	a
-4	Spectrogram 1	1	92.751391691	95.432067752	1038.1	1488.7	Crypturellus_duidae-ML44347321.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_duidae-ML44347321.wav	1	a
-5	Spectrogram 1	1	163.358563037	165.898565493	1057.7	1537.6	Crypturellus_duidae-ML44347321.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_duidae-ML44347321.wav	2	b
-6	Spectrogram 1	1	177.233800331	180.114997146	1057.7	1537.6	Crypturellus_duidae-ML44347321.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_duidae-ML44347321.wav	2	b
-7	Spectrogram 1	1	223.543146838	226.196880747	1057.7	1449.5	Crypturellus_duidae-ML44347321.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_duidae-ML44347321.wav	3	c
-8	Spectrogram 1	1	250.838695613	253.719892429	1057.7	1449.5	Crypturellus_duidae-ML44347321.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_duidae-ML44347321.wav	3	c

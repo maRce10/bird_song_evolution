@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.493117137	5.376045977	934.3	1565.0	Malaconotus_blanchoti-ML8935.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Malaconotus_blanchoti-ML8935.wav	1	a
-2	Spectrogram 1	1	6.802162394	7.648379016	957.7	1424.8	Malaconotus_blanchoti-ML8935.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Malaconotus_blanchoti-ML8935.wav	2	a
-3	Spectrogram 1	1	8.931607367	9.787002044	1004.4	1565.0	Malaconotus_blanchoti-ML8935.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Malaconotus_blanchoti-ML8935.wav	3	a

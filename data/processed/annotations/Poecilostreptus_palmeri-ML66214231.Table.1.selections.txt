@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.456986944	1.519551677	2373.1	8404.7	Poecilostreptus_palmeri-ML66214231.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Poecilostreptus_palmeri-ML66214231.wav	1	a
-2	Spectrogram 1	1	2.780062086	2.846008697	2719.2	8948.5	Poecilostreptus_palmeri-ML66214231.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Poecilostreptus_palmeri-ML66214231.wav	2	a
-3	Spectrogram 1	1	4.898745246	4.951164347	2027.0	8602.5	Poecilostreptus_palmeri-ML66214231.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Poecilostreptus_palmeri-ML66214231.wav	3	a

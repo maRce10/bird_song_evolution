@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.420754906	6.480537565	3185.6	6759.0	Elminia_albicauda-ML94689.wav	D:\Andean\Stenostiridae\Elminia_albicauda-ML94689.wav	1	a
-2	Spectrogram 1	1	7.134752799	7.211141752	3324.1	6731.3	Elminia_albicauda-ML94689.wav	D:\Andean\Stenostiridae\Elminia_albicauda-ML94689.wav	2	a
-3	Spectrogram 1	1	8.011565129	8.081311564	3407.2	6786.7	Elminia_albicauda-ML94689.wav	D:\Andean\Stenostiridae\Elminia_albicauda-ML94689.wav	3	a

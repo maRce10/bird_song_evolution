@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	25.145922549	26.041700666	140.1	443.8	Streptopelia_picturata-ML95963.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_picturata-ML95963.wav	1	a
-2	Spectrogram 1	1	27.592094424	28.506228650	140.1	537.2	Streptopelia_picturata-ML95963.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_picturata-ML95963.wav	2	a
-3	Spectrogram 1	1	29.926544338	30.882897614	163.5	607.3	Streptopelia_picturata-ML95963.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_picturata-ML95963.wav	3	a

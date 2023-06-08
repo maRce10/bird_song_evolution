@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.566867185	18.626322311	277.0	1108.0	Corythaeola_cristata-ML243483041.wav	E:\Andean\Musophagidae\Corythaeola_cristata-ML243483041.wav	1	a
-2	Spectrogram 1	1	18.684125905	18.730368781	221.6	1246.5	Corythaeola_cristata-ML243483041.wav	E:\Andean\Musophagidae\Corythaeola_cristata-ML243483041.wav	1	a
-3	Spectrogram 1	1	18.847627501	18.903779564	304.7	1108.0	Corythaeola_cristata-ML243483041.wav	E:\Andean\Musophagidae\Corythaeola_cristata-ML243483041.wav	2	a
-4	Spectrogram 1	1	18.974795409	19.025992878	221.6	1135.7	Corythaeola_cristata-ML243483041.wav	E:\Andean\Musophagidae\Corythaeola_cristata-ML243483041.wav	2	a
-5	Spectrogram 1	1	19.143251599	19.194449068	277.0	1108.0	Corythaeola_cristata-ML243483041.wav	E:\Andean\Musophagidae\Corythaeola_cristata-ML243483041.wav	3	a
-6	Spectrogram 1	1	19.215918975	19.265464913	277.0	1108.0	Corythaeola_cristata-ML243483041.wav	E:\Andean\Musophagidae\Corythaeola_cristata-ML243483041.wav	3	a

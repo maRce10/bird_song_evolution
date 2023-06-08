@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	87.352240129	87.887054750	216.2	888.7	Caloenas_nicobarica-ML38760.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Caloenas_nicobarica-ML38760.wav	1	a
-2	Spectrogram 1	1	100.425346837	100.930264988	120.1	984.8	Caloenas_nicobarica-ML38760.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Caloenas_nicobarica-ML38760.wav	2	a
-3	Spectrogram 1	1	104.021003325	104.592358075	192.2	1032.8	Caloenas_nicobarica-ML38760.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Caloenas_nicobarica-ML38760.wav	3	a

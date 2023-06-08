@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.538904164	7.840240441	386.600	839.600	Neomorphus_rufipennis-ML37654.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Neomorphus_rufipennis-ML37654.wav	1	a
-2	Spectrogram 1	1	14.529924683	14.828254037	364.600	864.248	Neomorphus_rufipennis-ML37654.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Neomorphus_rufipennis-ML37654.wav	2	a
-3	Spectrogram 1	1	20.152964681	20.398936541	397.087	837.800	Neomorphus_rufipennis-ML37654.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Neomorphus_rufipennis-ML37654.wav	1	a

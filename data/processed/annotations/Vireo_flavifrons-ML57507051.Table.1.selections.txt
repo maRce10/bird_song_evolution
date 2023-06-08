@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	37.030691807	37.311452123	1488.7	3839.2	Vireo_flavifrons-ML57507051.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_flavifrons-ML57507051.wav	1	a
-2	Spectrogram 1	1	37.316406717	37.456786875	1645.4	4191.7	Vireo_flavifrons-ML57507051.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_flavifrons-ML57507051.wav	1	b
-3	Spectrogram 1	1	39.461348785	39.816428008	1449.5	4387.6	Vireo_flavifrons-ML57507051.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_flavifrons-ML57507051.wav	2	c
-4	Spectrogram 1	1	42.067812614	42.343618336	1449.5	3878.3	Vireo_flavifrons-ML57507051.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_flavifrons-ML57507051.wav	3	a
-5	Spectrogram 1	1	42.351875993	42.477392369	1606.2	4152.6	Vireo_flavifrons-ML57507051.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_flavifrons-ML57507051.wav	3	b
-6	Spectrogram 1	1	44.601882622	44.955310314	1567.0	4152.6	Vireo_flavifrons-ML57507051.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_flavifrons-ML57507051.wav	4	c

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	92.446208576	92.611361703	1108.0	2659.3	Odontophorus_leucolaemus-ML53919.wav	E:\Andean\Odontophoridae\Odontophorus_leucolaemus-ML53919.wav	1	a
-2	Spectrogram 1	1	92.631180078	92.799636268	1191.1	1911.4	Odontophorus_leucolaemus-ML53919.wav	E:\Andean\Odontophoridae\Odontophorus_leucolaemus-ML53919.wav	1	b
-3	Spectrogram 1	1	92.822757706	92.991213895	1163.4	2576.2	Odontophorus_leucolaemus-ML53919.wav	E:\Andean\Odontophoridae\Odontophorus_leucolaemus-ML53919.wav	2	a
-4	Spectrogram 1	1	93.027547583	93.219125211	1218.8	1883.7	Odontophorus_leucolaemus-ML53919.wav	E:\Andean\Odontophoridae\Odontophorus_leucolaemus-ML53919.wav	2	b
-5	Spectrogram 1	1	93.242246648	93.414005901	1080.3	2133.0	Odontophorus_leucolaemus-ML53919.wav	E:\Andean\Odontophoridae\Odontophorus_leucolaemus-ML53919.wav	3	a
-6	Spectrogram 1	1	93.453642651	93.635311091	1163.4	1911.4	Odontophorus_leucolaemus-ML53919.wav	E:\Andean\Odontophoridae\Odontophorus_leucolaemus-ML53919.wav	3	b

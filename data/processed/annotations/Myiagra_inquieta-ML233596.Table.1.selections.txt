@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	26.668148520	26.922484336	1828.3	4404.5	Myiagra_inquieta-ML233596.wav	E:\Andean\Monarchidae\Myiagra_inquieta-ML233596.wav	1	a
-2	Spectrogram 1	1	27.005060899	27.246184465	1856.0	4570.7	Myiagra_inquieta-ML233596.wav	E:\Andean\Monarchidae\Myiagra_inquieta-ML233596.wav	1	a
-3	Spectrogram 1	1	27.520338656	27.791189784	1606.7	4487.6	Myiagra_inquieta-ML233596.wav	E:\Andean\Monarchidae\Myiagra_inquieta-ML233596.wav	2	a
-4	Spectrogram 1	1	27.896887785	28.171041976	1856.0	4626.1	Myiagra_inquieta-ML233596.wav	E:\Andean\Monarchidae\Myiagra_inquieta-ML233596.wav	2	a
-5	Spectrogram 1	1	28.303164478	28.570712544	1606.7	4543.0	Myiagra_inquieta-ML233596.wav	E:\Andean\Monarchidae\Myiagra_inquieta-ML233596.wav	3	a
-6	Spectrogram 1	1	28.649986045	28.910927986	1634.4	4570.7	Myiagra_inquieta-ML233596.wav	E:\Andean\Monarchidae\Myiagra_inquieta-ML233596.wav	3	a

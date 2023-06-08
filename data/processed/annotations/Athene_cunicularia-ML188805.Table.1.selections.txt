@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	84.730322515	84.814404760	627.0	1410.8	Athene_cunicularia-ML188805.wav	D:\Andean\Strigidae\Athene_cunicularia-ML188805.wav	1	a
-2	Spectrogram 1	1	84.973226779	85.426336655	627.0	1463.0	Athene_cunicularia-ML188805.wav	D:\Andean\Strigidae\Athene_cunicularia-ML188805.wav	1	b
-3	Spectrogram 1	1	86.818364937	86.916460890	653.1	1410.8	Athene_cunicularia-ML188805.wav	D:\Andean\Strigidae\Athene_cunicularia-ML188805.wav	2	a
-4	Spectrogram 1	1	87.047255493	87.519050313	679.3	1384.7	Athene_cunicularia-ML188805.wav	D:\Andean\Strigidae\Athene_cunicularia-ML188805.wav	2	b
-5	Spectrogram 1	1	89.130626679	89.219380161	627.0	1332.4	Athene_cunicularia-ML188805.wav	D:\Andean\Strigidae\Athene_cunicularia-ML188805.wav	3	a
-6	Spectrogram 1	1	89.354846000	89.793942169	627.0	1332.4	Athene_cunicularia-ML188805.wav	D:\Andean\Strigidae\Athene_cunicularia-ML188805.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	151.199497073	151.595864578	1080.3	1551.3	Batis_mixta-ML18303.wav	D:\Andean\Platysteiridae\Batis_mixta-ML18303.wav	1	a
-2	Spectrogram 1	1	152.804785468	153.194546848	1052.6	1606.7	Batis_mixta-ML18303.wav	D:\Andean\Platysteiridae\Batis_mixta-ML18303.wav	2	a
-3	Spectrogram 1	1	154.647894366	155.044261871	1024.9	1634.4	Batis_mixta-ML18303.wav	D:\Andean\Platysteiridae\Batis_mixta-ML18303.wav	3	a

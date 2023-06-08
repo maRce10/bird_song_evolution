@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.280068799	10.570010746	222.5	568.6	Capito_squamatus-ML191832.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_squamatus-ML191832.wav	1	a
-2	Spectrogram 1	1	30.071403285	35.150703286	197.8	618.0	Capito_squamatus-ML191832.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_squamatus-ML191832.wav	2	a

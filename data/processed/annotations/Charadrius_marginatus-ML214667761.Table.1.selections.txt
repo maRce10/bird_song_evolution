@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.586148610	1.619809820	1359.6	2570.9	Charadrius_marginatus-ML214667761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_marginatus-ML214667761.wav	1	a
-2	Spectrogram 1	1	1.626896391	1.657014316	1384.3	2397.8	Charadrius_marginatus-ML214667761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_marginatus-ML214667761.wav	1	a
-3	Spectrogram 1	1	4.094596199	4.130029052	1384.3	2472.0	Charadrius_marginatus-ML214667761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_marginatus-ML214667761.wav	2	a
-4	Spectrogram 1	1	4.140658907	4.167233547	1507.9	2274.2	Charadrius_marginatus-ML214667761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_marginatus-ML214667761.wav	2	b
-5	Spectrogram 1	1	5.956130000	5.986247924	1359.6	2447.3	Charadrius_marginatus-ML214667761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_marginatus-ML214667761.wav	3	a
-6	Spectrogram 1	1	5.998649423	6.026995705	1409.0	2175.3	Charadrius_marginatus-ML214667761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_marginatus-ML214667761.wav	3	b

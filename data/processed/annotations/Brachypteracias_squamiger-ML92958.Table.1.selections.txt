@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	39.917796637	40.194172888	247.2	543.8	Brachypteracias_squamiger-ML92958.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Brachypteraciidae\Brachypteraciidae\Brachypteracias_squamiger-ML92958.wav	1	a
-2	Spectrogram 1	1	45.421508177	45.687254572	222.5	618.0	Brachypteracias_squamiger-ML92958.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Brachypteraciidae\Brachypteraciidae\Brachypteracias_squamiger-ML92958.wav	2	a
-3	Spectrogram 1	1	50.229351297	50.495097693	222.5	593.3	Brachypteracias_squamiger-ML92958.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Brachypteraciidae\Brachypteraciidae\Brachypteracias_squamiger-ML92958.wav	3	a

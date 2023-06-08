@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	15.883727583	15.919237296	2496.7	8380.0	Cnemoscopus_rubrirostris-ML21791.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cnemoscopus_rubrirostris-ML21791.wav	1	a
-2	Spectrogram 1	1	23.983795931	24.014232828	2447.3	8281.1	Cnemoscopus_rubrirostris-ML21791.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cnemoscopus_rubrirostris-ML21791.wav	2	a
-3	Spectrogram 1	1	27.847986575	27.880114411	2521.4	8676.6	Cnemoscopus_rubrirostris-ML21791.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Cnemoscopus_rubrirostris-ML21791.wav	3	a

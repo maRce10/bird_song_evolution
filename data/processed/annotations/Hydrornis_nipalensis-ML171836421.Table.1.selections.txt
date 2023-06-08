@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.429398130	0.990918762	1052.6	2133.0	Hydrornis_nipalensis-ML171836421.wav	D:\Andean\Pittidae\Hydrornis_nipalensis-ML171836421.wav	1	a
-3	Spectrogram 1	1	7.709347972	8.257656354	1108.0	2133.0	Hydrornis_nipalensis-ML171836421.wav	D:\Andean\Pittidae\Hydrornis_nipalensis-ML171836421.wav	2	a
-4	Spectrogram 1	1	15.897173094	16.452087601	1108.0	2077.6	Hydrornis_nipalensis-ML171836421.wav	D:\Andean\Pittidae\Hydrornis_nipalensis-ML171836421.wav	3	a

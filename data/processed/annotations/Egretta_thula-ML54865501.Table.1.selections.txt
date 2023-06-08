@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.382928929	1.890002870	791.0	3683.2	Egretta_thula-ML54865501.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_thula-ML54865501.wav	1	a
-2	Spectrogram 1	1	7.071712739	7.465315588	1013.5	3930.4	Egretta_thula-ML54865501.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_thula-ML54865501.wav	2	a
-3	Spectrogram 1	1	13.775276158	14.250436354	593.3	3584.4	Egretta_thula-ML54865501.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Egretta_thula-ML54865501.wav	3	a

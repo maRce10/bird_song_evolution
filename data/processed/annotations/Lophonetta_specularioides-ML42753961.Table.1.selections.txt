@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.973354014	3.253485771	148.3	3757.4	Lophonetta_specularioides-ML42753961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Lophonetta_specularioides-ML42753961.wav	1	a
-2	Spectrogram 1	1	3.682740274	3.797984352	148.3	3782.1	Lophonetta_specularioides-ML42753961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Lophonetta_specularioides-ML42753961.wav	1	b
-3	Spectrogram 1	1	4.383069668	4.595827965	173.0	3905.7	Lophonetta_specularioides-ML42753961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Lophonetta_specularioides-ML42753961.wav	2	a
-4	Spectrogram 1	1	5.111149337	5.435605740	197.8	3856.3	Lophonetta_specularioides-ML42753961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Lophonetta_specularioides-ML42753961.wav	3	a

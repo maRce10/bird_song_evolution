@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.662655533	1.040791377	1541.6	4881.8	Coracina_dobsoni-ML283568.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_dobsoni-ML283568.wav	1	
-2	Spectrogram 1	1	7.841606009	8.236262351	1378.1	4811.8	Coracina_dobsoni-ML283568.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_dobsoni-ML283568.wav	2	a

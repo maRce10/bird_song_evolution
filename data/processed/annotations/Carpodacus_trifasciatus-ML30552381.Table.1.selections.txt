@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.897993272	0.972236810	3865.300	7906.400	Carpodacus_trifasciatus-ML30552381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_trifasciatus-ML30552381.wav	1	a
-2	Spectrogram 1	1	1.255069337	1.322242062	3887.300	7818.500	Carpodacus_trifasciatus-ML30552381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_trifasciatus-ML30552381.wav	1	a
-3	Spectrogram 1	1	2.810648233	2.874285551	4106.900	7840.500	Carpodacus_trifasciatus-ML30552381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_trifasciatus-ML30552381.wav	2	a
-4	Spectrogram 1	1	3.259644869	3.323282187	3953.200	7840.500	Carpodacus_trifasciatus-ML30552381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_trifasciatus-ML30552381.wav	2	a
-5	Spectrogram 1	1	15.509413297	15.580121429	4041.000	7752.600	Carpodacus_trifasciatus-ML30552381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_trifasciatus-ML30552381.wav	3	a
-6	Spectrogram 1	1	15.845276923	15.915985054	4019.100	7742.600	Carpodacus_trifasciatus-ML30552381.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_trifasciatus-ML30552381.wav	3	a

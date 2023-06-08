@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.993281974	5.106626694	862.1	1384.7	Glaucidium_gnoma-ML140258.wav	D:\Andean\Strigidae\Glaucidium_gnoma-ML140258.wav	1	a
-2	Spectrogram 1	1	5.346650809	5.453328193	888.3	1332.4	Glaucidium_gnoma-ML140258.wav	D:\Andean\Strigidae\Glaucidium_gnoma-ML140258.wav	1	a
-3	Spectrogram 1	1	5.940043758	6.053388478	888.3	1358.5	Glaucidium_gnoma-ML140258.wav	D:\Andean\Strigidae\Glaucidium_gnoma-ML140258.wav	2	a
-4	Spectrogram 1	1	6.286745256	6.413424650	862.1	1306.3	Glaucidium_gnoma-ML140258.wav	D:\Andean\Strigidae\Glaucidium_gnoma-ML140258.wav	2	a
-5	Spectrogram 1	1	6.900140215	7.040154281	888.3	1332.4	Glaucidium_gnoma-ML140258.wav	D:\Andean\Strigidae\Glaucidium_gnoma-ML140258.wav	3	a
-6	Spectrogram 1	1	7.266843722	7.373521106	836.0	1358.5	Glaucidium_gnoma-ML140258.wav	D:\Andean\Strigidae\Glaucidium_gnoma-ML140258.wav	3	a

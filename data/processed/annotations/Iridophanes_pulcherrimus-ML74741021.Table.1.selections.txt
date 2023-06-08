@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.757200848	2.101555032	5382.100	9386.700	Iridophanes_pulcherrimus-ML74741021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Iridophanes_pulcherrimus-ML74741021.wav	1	a
-2	Spectrogram 1	1	11.785643314	12.048691649	5530.400	9485.600	Iridophanes_pulcherrimus-ML74741021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Iridophanes_pulcherrimus-ML74741021.wav	2	a
-3	Spectrogram 1	1	20.378232865	20.662803337	6024.800	9633.900	Iridophanes_pulcherrimus-ML74741021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Iridophanes_pulcherrimus-ML74741021.wav	3	a
-4	Spectrogram 1	1	30.524946916	30.773647160	6000.100	9386.700	Iridophanes_pulcherrimus-ML74741021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Iridophanes_pulcherrimus-ML74741021.wav	4	a
-5	Spectrogram 1	1	42.713182032	43.093406444	6247.300	9485.600	Iridophanes_pulcherrimus-ML74741021.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Iridophanes_pulcherrimus-ML74741021.wav	5	a

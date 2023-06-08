@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.462447332	1.594942560	4216.7	5314.8	Argya_rubiginosa-ML31282231.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rubiginosa-ML31282231.wav	1	a
-2	Spectrogram 1	1	1.807434907	1.919930856	4150.8	5205.0	Argya_rubiginosa-ML31282231.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rubiginosa-ML31282231.wav	2	a
-3	Spectrogram 1	1	2.092424644	2.282417801	3711.6	4985.4	Argya_rubiginosa-ML31282231.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rubiginosa-ML31282231.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.263772788	3.547836167	277.0	1883.7	Pterocles_alchata-ML62664811.wav	D:\Andean\Pteroclidae\Pterocles_alchata-ML62664811.wav	1	a
-2	Spectrogram 1	1	4.462784491	4.750150932	332.4	1800.6	Pterocles_alchata-ML62664811.wav	D:\Andean\Pteroclidae\Pterocles_alchata-ML62664811.wav	2	a
-3	Spectrogram 1	1	5.324883814	5.635371693	387.8	1828.3	Pterocles_alchata-ML62664811.wav	D:\Andean\Pteroclidae\Pterocles_alchata-ML62664811.wav	3	a

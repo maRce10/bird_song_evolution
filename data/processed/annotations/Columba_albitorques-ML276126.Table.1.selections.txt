@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.069813788	1.705206037	138.9	638.7	Columba_albitorques-ML276126.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_albitorques-ML276126.wav	1	a
-2	Spectrogram 1	1	2.869816447	3.517388740	138.9	611.0	Columba_albitorques-ML276126.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_albitorques-ML276126.wav	2	a
-3	Spectrogram 1	1	4.736474366	5.402316723	111.1	666.5	Columba_albitorques-ML276126.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Columba_albitorques-ML276126.wav	3	a

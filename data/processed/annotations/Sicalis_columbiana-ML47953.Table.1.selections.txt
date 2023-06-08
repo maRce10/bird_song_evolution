@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	11.477955986	11.533282283	3683.7	5643.1	Sicalis_columbiana-ML47953.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_columbiana-ML47953.wav	1	a
-2	Spectrogram 1	1	11.626878380	11.692275682	2926.1	5277.4	Sicalis_columbiana-ML47953.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_columbiana-ML47953.wav	1	b
-3	Spectrogram 1	1	11.751833939	11.790371634	4598.1	7027.8	Sicalis_columbiana-ML47953.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_columbiana-ML47953.wav	1	c
-4	Spectrogram 1	1	13.081627656	13.126219000	2351.3	5878.3	Sicalis_columbiana-ML47953.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_columbiana-ML47953.wav	2	d
-5	Spectrogram 1	1	13.133650891	13.247606549	2847.7	7027.8	Sicalis_columbiana-ML47953.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_columbiana-ML47953.wav	2	e
-6	Spectrogram 1	1	14.710753789	14.762777024	3683.7	5590.9	Sicalis_columbiana-ML47953.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_columbiana-ML47953.wav	3	a
-7	Spectrogram 1	1	14.845353588	14.898202589	2351.3	5956.6	Sicalis_columbiana-ML47953.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_columbiana-ML47953.wav	3	d
-8	Spectrogram 1	1	14.902331417	15.009680949	2690.9	6635.9	Sicalis_columbiana-ML47953.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Sicalis_columbiana-ML47953.wav	3	e

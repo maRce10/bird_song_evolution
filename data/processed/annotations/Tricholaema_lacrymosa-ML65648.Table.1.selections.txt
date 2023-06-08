@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	84.797160715	84.871404253	532.4	3039.1	Tricholaema_lacrymosa-ML65648.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Tricholaema_lacrymosa-ML65648.wav	1	a
-2	Spectrogram 1	1	85.765862118	85.843641063	465.8	2972.5	Tricholaema_lacrymosa-ML65648.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Tricholaema_lacrymosa-ML65648.wav	2	a
-3	Spectrogram 1	1	86.992648202	87.077497960	510.2	3083.5	Tricholaema_lacrymosa-ML65648.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Tricholaema_lacrymosa-ML65648.wav	3	

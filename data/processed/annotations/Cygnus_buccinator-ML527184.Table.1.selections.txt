@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	226.199933224	226.295674457	247.2	1804.5	Cygnus_buccinator-ML527184.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cygnus_buccinator-ML527184.wav	1	a
-2	Spectrogram 1	1	229.176557355	229.277617546	247.2	1013.5	Cygnus_buccinator-ML527184.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cygnus_buccinator-ML527184.wav	2	b
-3	Spectrogram 1	1	229.352082950	229.474418971	247.2	1854.0	Cygnus_buccinator-ML527184.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cygnus_buccinator-ML527184.wav	2	a
-4	Spectrogram 1	1	231.042337776	231.154035881	222.5	1013.5	Cygnus_buccinator-ML527184.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cygnus_buccinator-ML527184.wav	3	b
-5	Spectrogram 1	1	231.225797401	231.353452379	247.2	1804.5	Cygnus_buccinator-ML527184.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Cygnus_buccinator-ML527184.wav	3	a

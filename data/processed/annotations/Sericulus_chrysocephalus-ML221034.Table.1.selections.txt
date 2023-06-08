@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.044170615	5.935997501	759.4	6311.2	Sericulus_chrysocephalus-ML221034.wav	D:\Andean\Ptilonorhynchidae\Sericulus_chrysocephalus-ML221034.wav	1	a
-2	Spectrogram 1	1	17.908080630	19.070758644	733.3	6101.7	Sericulus_chrysocephalus-ML221034.wav	D:\Andean\Ptilonorhynchidae\Sericulus_chrysocephalus-ML221034.wav	2	a
-3	Spectrogram 1	1	28.305447521	29.395458159	654.7	6939.7	Sericulus_chrysocephalus-ML221034.wav	D:\Andean\Ptilonorhynchidae\Sericulus_chrysocephalus-ML221034.wav	3	a

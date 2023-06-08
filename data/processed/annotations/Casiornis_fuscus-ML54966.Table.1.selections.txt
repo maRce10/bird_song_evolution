@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	78.179474330	78.445734773	4937.7	6688.2	Casiornis_fuscus-ML54966.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Casiornis_fuscus-ML54966.wav	1	a
-2	Spectrogram 1	1	81.227745218	81.472985099	5199.0	6479.1	Casiornis_fuscus-ML54966.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Casiornis_fuscus-ML54966.wav	2	b
-3	Spectrogram 1	1	131.261316303	131.506556185	4911.6	6740.4	Casiornis_fuscus-ML54966.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Casiornis_fuscus-ML54966.wav	3	a

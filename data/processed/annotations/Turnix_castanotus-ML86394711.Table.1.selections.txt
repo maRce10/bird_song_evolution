@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.711723884	3.736152907	203.2	479.9	Turnix_castanotus-ML86394711.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_castanotus-ML86394711.wav	1	a
-2	Spectrogram 1	1	4.057542405	5.061884584	222.8	470.1	Turnix_castanotus-ML86394711.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_castanotus-ML86394711.wav	2	a
-3	Spectrogram 1	1	5.503795143	6.397659683	186.1	470.1	Turnix_castanotus-ML86394711.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_castanotus-ML86394711.wav	3	a

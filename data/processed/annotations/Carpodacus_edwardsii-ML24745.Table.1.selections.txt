@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.018305277	7.220222475	1167.9	5232.2	Carpodacus_edwardsii-ML24745.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_edwardsii-ML24745.wav	1	a
-2	Spectrogram 1	1	11.398198905	11.589102438	1331.4	5162.1	Carpodacus_edwardsii-ML24745.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_edwardsii-ML24745.wav	2	a
-3	Spectrogram 1	1	14.674107266	14.872353243	1261.3	5302.3	Carpodacus_edwardsii-ML24745.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Carpodacus_edwardsii-ML24745.wav	3	a

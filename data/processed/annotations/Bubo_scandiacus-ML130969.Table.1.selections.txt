@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	119.594481067	119.921180556	304.7	1523.6	Bubo_scandiacus-ML130969.wav	D:\Andean\Strigidae\Bubo_scandiacus-ML130969.wav	1	a
-2	Spectrogram 1	1	120.574579533	120.814603647	277.0	1329.6	Bubo_scandiacus-ML130969.wav	D:\Andean\Strigidae\Bubo_scandiacus-ML130969.wav	1	a
-3	Spectrogram 1	1	125.755518963	126.048881769	277.0	1454.3	Bubo_scandiacus-ML130969.wav	D:\Andean\Strigidae\Bubo_scandiacus-ML130969.wav	2	a
-4	Spectrogram 1	1	126.728950093	126.982308880	277.0	1523.6	Bubo_scandiacus-ML130969.wav	D:\Andean\Strigidae\Bubo_scandiacus-ML130969.wav	2	a
-5	Spectrogram 1	1	141.000229637	141.266923097	249.3	1329.6	Bubo_scandiacus-ML130969.wav	D:\Andean\Strigidae\Bubo_scandiacus-ML130969.wav	3	a
-6	Spectrogram 1	1	141.933656748	142.140344179	249.3	1301.9	Bubo_scandiacus-ML130969.wav	D:\Andean\Strigidae\Bubo_scandiacus-ML130969.wav	3	a

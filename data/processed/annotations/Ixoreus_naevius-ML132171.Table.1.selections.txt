@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	244.913614354	246.102716869	2560.3	6479.1	Ixoreus_naevius-ML132171.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Ixoreus_naevius-ML132171.wav	1	a
-2	Spectrogram 1	1	252.933986571	253.911693083	1985.5	7158.4	Ixoreus_naevius-ML132171.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Ixoreus_naevius-ML132171.wav	2	b
-3	Spectrogram 1	1	262.198051231	263.003998492	2063.9	5460.2	Ixoreus_naevius-ML132171.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Ixoreus_naevius-ML132171.wav	3	c

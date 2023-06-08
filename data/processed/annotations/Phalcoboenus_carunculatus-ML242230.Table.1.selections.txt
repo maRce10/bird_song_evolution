@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.572302904	1.616255550	878.500	1647.200	Phalcoboenus_carunculatus-ML242230.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Phalcoboenus_carunculatus-ML242230.wav	1	a
-2	Spectrogram 1	1	1.986242225	2.024990829	966.300	1603.200	Phalcoboenus_carunculatus-ML242230.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Phalcoboenus_carunculatus-ML242230.wav	2	a
-3	Spectrogram 1	1	2.211234122	2.251232682	1010.300	1647.200	Phalcoboenus_carunculatus-ML242230.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Phalcoboenus_carunculatus-ML242230.wav	3	a

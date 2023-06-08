@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.013810585	7.417745106	1728.5	2919.8	Pluvialis_squatarola-ML99460541.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Pluvialis_squatarola-ML99460541.wav	1	a
-2	Spectrogram 1	1	7.986442392	8.480730688	1728.5	2873.0	Pluvialis_squatarola-ML99460541.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Pluvialis_squatarola-ML99460541.wav	2	b
-3	Spectrogram 1	1	9.027500156	9.597969084	1331.4	2966.5	Pluvialis_squatarola-ML99460541.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Pluvialis_squatarola-ML99460541.wav		b

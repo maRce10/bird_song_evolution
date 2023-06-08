@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.284318688	0.457545968	1235.0	1788.2	Neoctantes_niger-ML21652891.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Neoctantes_niger-ML21652891.wav	1	a
-2	Spectrogram 1	1	0.930155177	1.103382457	1247.9	1813.9	Neoctantes_niger-ML21652891.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Neoctantes_niger-ML21652891.wav	2	a
-3	Spectrogram 1	1	1.624947202	1.783111240	1260.7	1839.6	Neoctantes_niger-ML21652891.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Neoctantes_niger-ML21652891.wav	3	a

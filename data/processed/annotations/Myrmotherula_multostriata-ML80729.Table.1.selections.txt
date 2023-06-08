@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	55.695628210	57.926576864	1175.7	2821.6	Myrmotherula_multostriata-ML80729.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_multostriata-ML80729.wav	1	a
-3	Spectrogram 1	1	63.610400998	66.032436783	1227.9	2717.1	Myrmotherula_multostriata-ML80729.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_multostriata-ML80729.wav	2	a
-4	Spectrogram 1	1	69.457573747	71.881945150	1201.8	2769.3	Myrmotherula_multostriata-ML80729.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Myrmotherula_multostriata-ML80729.wav	3	a

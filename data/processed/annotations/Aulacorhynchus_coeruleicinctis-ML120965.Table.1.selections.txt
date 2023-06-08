@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.654135918	5.885350296	221.6	1856.0	Aulacorhynchus_coeruleicinctis-ML120965.wav	D:\Andean\Ramphastidae\Aulacorhynchus_coeruleicinctis-ML120965.wav	1	a
-2	Spectrogram 1	1	6.136383049	6.334566802	221.6	1717.5	Aulacorhynchus_coeruleicinctis-ML120965.wav	D:\Andean\Ramphastidae\Aulacorhynchus_coeruleicinctis-ML120965.wav	2	a
-3	Spectrogram 1	1	6.605417930	6.882875184	193.9	1717.5	Aulacorhynchus_coeruleicinctis-ML120965.wav	D:\Andean\Ramphastidae\Aulacorhynchus_coeruleicinctis-ML120965.wav	3	a

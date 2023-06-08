@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.517132972	16.621179442	235.1	1593.7	Eudyptes_robustus-ML141401.wav	D:\Andean\Spheniscidae\Eudyptes_robustus-ML141401.wav	1	a
-2	Spectrogram 1	1	17.162881699	17.235549075	182.9	1463.0	Eudyptes_robustus-ML141401.wav	D:\Andean\Spheniscidae\Eudyptes_robustus-ML141401.wav	2	a
-3	Spectrogram 1	1	17.737614581	17.808630426	235.1	1541.4	Eudyptes_robustus-ML141401.wav	D:\Andean\Spheniscidae\Eudyptes_robustus-ML141401.wav	3	a

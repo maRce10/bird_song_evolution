@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.949178889	14.436749986	173.0	1285.4	Ixobrychus_flavicollis-ML233431.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_flavicollis-ML233431.wav	1	a
-2	Spectrogram 1	1	41.533209825	42.107657227	346.1	1409.0	Ixobrychus_flavicollis-ML233431.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_flavicollis-ML233431.wav	2	a
-3	Spectrogram 1	1	50.582994971	51.121982657	148.3	1433.7	Ixobrychus_flavicollis-ML233431.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_flavicollis-ML233431.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.089862585	9.915448054	346.1	1211.3	Horizocerus_albocristatus-ML86966.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Horizocerus_albocristatus-ML86966.wav	1	a
-2	Spectrogram 1	1	20.298062678	21.203372065	321.4	1161.8	Horizocerus_albocristatus-ML86966.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Horizocerus_albocristatus-ML86966.wav	2	
-3	Spectrogram 1	1	26.952099158	27.834377191	247.2	1137.1	Horizocerus_albocristatus-ML86966.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Horizocerus_albocristatus-ML86966.wav	3	a

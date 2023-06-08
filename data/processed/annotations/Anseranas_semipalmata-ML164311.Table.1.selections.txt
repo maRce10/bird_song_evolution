@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	196.282026493	196.407908485	271.9	2051.7	Anseranas_semipalmata-ML164311.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anseranatidae\Anseranas_semipalmata-ML164311.wav	1	a
-2	Spectrogram 1	1	196.471735974	196.627758725	222.5	2076.5	Anseranas_semipalmata-ML164311.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anseranatidae\Anseranas_semipalmata-ML164311.wav	1	a
-3	Spectrogram 1	1	200.711030525	200.822728631	222.5	1878.7	Anseranas_semipalmata-ML164311.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anseranatidae\Anseranas_semipalmata-ML164311.wav	2	a
-4	Spectrogram 1	1	200.902512992	201.040805885	197.8	1928.1	Anseranas_semipalmata-ML164311.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anseranatidae\Anseranas_semipalmata-ML164311.wav	2	a
-5	Spectrogram 1	1	201.269521055	201.398949018	197.8	1903.4	Anseranas_semipalmata-ML164311.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anseranatidae\Anseranas_semipalmata-ML164311.wav	3	a
-6	Spectrogram 1	1	201.427316791	201.556744755	173.0	2027.0	Anseranas_semipalmata-ML164311.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anseranatidae\Anseranas_semipalmata-ML164311.wav	3	a

@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.077123906	1.391477664	3213.3	5983.4	Gracula_religiosa-ML43224381.wav	D:\Andean\Sturnidae\Gracula_religiosa-ML43224381.wav	1	a
-2	Spectrogram 1	1	1.571768790	2.149624963	886.4	3324.1	Gracula_religiosa-ML43224381.wav	D:\Andean\Sturnidae\Gracula_religiosa-ML43224381.wav	1	b
-3	Spectrogram 1	1	2.496338667	3.037212045	581.7	1551.3	Gracula_religiosa-ML43224381.wav	D:\Andean\Sturnidae\Gracula_religiosa-ML43224381.wav	1	c
-4	Spectrogram 1	1	3.097309087	3.615068218	387.8	1772.9	Gracula_religiosa-ML43224381.wav	D:\Andean\Sturnidae\Gracula_religiosa-ML43224381.wav	1	d
-5	Spectrogram 1	1	12.919056786	13.113216460	3019.4	5429.4	Gracula_religiosa-ML43224381.wav	D:\Andean\Sturnidae\Gracula_religiosa-ML43224381.wav	2	a
-6	Spectrogram 1	1	13.307376134	13.917592252	858.7	3157.9	Gracula_religiosa-ML43224381.wav	D:\Andean\Sturnidae\Gracula_religiosa-ML43224381.wav	2	b
-7	Spectrogram 1	1	14.310534450	14.846784978	554.0	1579.0	Gracula_religiosa-ML43224381.wav	D:\Andean\Sturnidae\Gracula_religiosa-ML43224381.wav	2	c
-8	Spectrogram 1	1	14.906882020	15.369166959	554.0	1745.2	Gracula_religiosa-ML43224381.wav	D:\Andean\Sturnidae\Gracula_religiosa-ML43224381.wav	2	d

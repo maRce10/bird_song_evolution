@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.474821870	5.601563341	7026.8	14577.9	Dacnis_lineata-ML66358261.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_lineata-ML66358261.wav	1	a
-2	Spectrogram 1	1	8.177177158	8.303918629	7376.3	14368.1	Dacnis_lineata-ML66358261.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_lineata-ML66358261.wav	2	a
-3	Spectrogram 1	1	11.447430303	11.569389077	7306.4	14647.8	Dacnis_lineata-ML66358261.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_lineata-ML66358261.wav	3	a
-4	Spectrogram 1	1	13.884600500	14.016124667	7236.5	14577.9	Dacnis_lineata-ML66358261.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_lineata-ML66358261.wav	4	a
-5	Spectrogram 1	1	16.982834732	17.114358900	6782.0	14473.0	Dacnis_lineata-ML66358261.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_lineata-ML66358261.wav	5	a

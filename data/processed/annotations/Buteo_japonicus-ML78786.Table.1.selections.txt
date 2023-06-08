@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-3	Spectrogram 1	1	47.840021867	48.414941039	939.3	3188.8	Buteo_japonicus-ML78786.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_japonicus-ML78786.wav	1	a
-1	Spectrogram 1	1	230.393401390	231.152632885	766.3	2768.6	Buteo_japonicus-ML78786.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_japonicus-ML78786.wav	2	a
-2	Spectrogram 1	1	251.444409931	252.222241752	791.0	2793.3	Buteo_japonicus-ML78786.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_japonicus-ML78786.wav	2	a

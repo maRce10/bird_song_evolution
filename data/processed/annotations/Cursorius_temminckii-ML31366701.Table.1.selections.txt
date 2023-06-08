@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.321512669	1.629691513	571.2	4227.2	Cursorius_temminckii-ML31366701.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_temminckii-ML31366701.wav	1	a
-2	Spectrogram 1	1	2.731822649	3.045224863	799.7	4227.2	Cursorius_temminckii-ML31366701.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_temminckii-ML31366701.wav	2	a
-3	Spectrogram 1	1	3.912304336	4.189142958	685.5	4455.7	Cursorius_temminckii-ML31366701.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_temminckii-ML31366701.wav	3	a

@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	21.844554576	21.903018783	197.8	2200.1	Burhinus_bistriatus-ML165025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_bistriatus-ML165025.wav	1	a
-2	Spectrogram 1	1	21.915420281	21.972112845	296.6	2298.9	Burhinus_bistriatus-ML165025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_bistriatus-ML165025.wav	1	a
-3	Spectrogram 1	1	22.023490482	22.067781548	346.1	2249.5	Burhinus_bistriatus-ML165025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_bistriatus-ML165025.wav	1	a
-4	Spectrogram 1	1	22.498730807	22.557195014	321.4	2200.1	Burhinus_bistriatus-ML165025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_bistriatus-ML165025.wav	2	a
-5	Spectrogram 1	1	22.675895070	22.732587635	296.6	2249.5	Burhinus_bistriatus-ML165025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_bistriatus-ML165025.wav	2	a
-6	Spectrogram 1	1	22.918610111	22.989475817	222.5	2397.8	Burhinus_bistriatus-ML165025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_bistriatus-ML165025.wav	3	a
-7	Spectrogram 1	1	23.085144519	23.140065441	469.7	2447.3	Burhinus_bistriatus-ML165025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Burhinidae\Burhinus_bistriatus-ML165025.wav	3	a

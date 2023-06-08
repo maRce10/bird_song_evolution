@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.817311967	1.842084936	1492.7	3640.1	Chloropicus_obsoletus-ML203927581.wav	D:\Andean\Picidae\Chloropicus_obsoletus-ML203927581.wav	1	a
-2	Spectrogram 1	1	1.873015321	1.939076572	1702.2	4556.7	Chloropicus_obsoletus-ML203927581.wav	D:\Andean\Picidae\Chloropicus_obsoletus-ML203927581.wav	1	b
-3	Spectrogram 1	1	2.127351137	2.151298340	1623.6	3954.3	Chloropicus_obsoletus-ML203927581.wav	D:\Andean\Picidae\Chloropicus_obsoletus-ML203927581.wav	2	a
-4	Spectrogram 1	1	2.189283559	2.249564451	1702.2	4478.1	Chloropicus_obsoletus-ML203927581.wav	D:\Andean\Picidae\Chloropicus_obsoletus-ML203927581.wav	2	b
-5	Spectrogram 1	1	2.437013250	2.469218110	1571.3	3797.2	Chloropicus_obsoletus-ML203927581.wav	D:\Andean\Picidae\Chloropicus_obsoletus-ML203927581.wav	3	a
-6	Spectrogram 1	1	2.503074501	2.569961517	1571.3	4661.4	Chloropicus_obsoletus-ML203927581.wav	D:\Andean\Picidae\Chloropicus_obsoletus-ML203927581.wav	3	b

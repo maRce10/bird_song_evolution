@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	76.533368467	76.685309344	4072.0	5706.4	Brachypteryx_stellata-ML3601.wav	E:\Andean\Muscicapidae\Brachypteryx_stellata-ML3601.wav	1	a
-2	Spectrogram 1	1	77.108101349	77.260042226	3961.2	5651.0	Brachypteryx_stellata-ML3601.wav	E:\Andean\Muscicapidae\Brachypteryx_stellata-ML3601.wav	2	a
-3	Spectrogram 1	1	77.629985231	77.795138358	3878.1	5817.2	Brachypteryx_stellata-ML3601.wav	E:\Andean\Muscicapidae\Brachypteryx_stellata-ML3601.wav	3	a

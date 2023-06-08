@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.257854258	1.920004859	1542.4	4284.3	Grallaricula_ochraceifrons-ML49481571.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_ochraceifrons-ML49481571.wav	1	a
-2	Spectrogram 1	1	11.516715686	12.155404258	1942.2	4227.2	Grallaricula_ochraceifrons-ML49481571.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_ochraceifrons-ML49481571.wav	2	a
-3	Spectrogram 1	1	46.589828404	46.962613979	1599.5	3884.5	Grallaricula_ochraceifrons-ML49481571.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_ochraceifrons-ML49481571.wav	3	a

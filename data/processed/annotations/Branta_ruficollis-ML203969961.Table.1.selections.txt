@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.741782898	1.821257018	593.3	2743.9	Branta_ruficollis-ML203969961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_ruficollis-ML203969961.wav	1	a
-2	Spectrogram 1	1	1.944695547	2.015714974	593.3	2546.1	Branta_ruficollis-ML203969961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_ruficollis-ML203969961.wav	2	
-3	Spectrogram 1	1	7.356235731	7.449237362	247.2	2224.8	Branta_ruficollis-ML203969961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_ruficollis-ML203969961.wav	3	a

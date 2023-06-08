@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	34.929609982	34.990185142	593.000	2196.200	Phibalura_flavirostris-ML120833.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phibalura_flavirostris-ML120833.wav	1	a
-2	Spectrogram 1	1	35.265526776	35.338951212	658.900	2265.731	Phibalura_flavirostris-ML120833.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phibalura_flavirostris-ML120833.wav	2	a
-3	Spectrogram 1	1	54.296960658	54.352028985	723.000	2546.028	Phibalura_flavirostris-ML120833.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Phibalura_flavirostris-ML120833.wav	3	a

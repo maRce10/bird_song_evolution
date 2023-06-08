@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.503247060	0.592430084	1184.3	8910.2	Hirundo_nigrorufa-ML279813.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_nigrorufa-ML279813.wav	1	a
-2	Spectrogram 1	1	2.896582338	2.988950469	1015.1	8797.4	Hirundo_nigrorufa-ML279813.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_nigrorufa-ML279813.wav	2	a
-3	Spectrogram 1	1	10.566716320	10.649529127	1071.5	8910.2	Hirundo_nigrorufa-ML279813.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_nigrorufa-ML279813.wav	3	a

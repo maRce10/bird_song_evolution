@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	20.337139106	20.422177953	560.6	2569.4	Vanellus_leucurus-ML84313.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_leucurus-ML84313.wav	1	a
-2	Spectrogram 1	1	20.446980950	20.719813916	513.9	3059.9	Vanellus_leucurus-ML84313.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_leucurus-ML84313.wav	1	b
-3	Spectrogram 1	1	20.772963195	21.008591665	467.2	2896.4	Vanellus_leucurus-ML84313.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_leucurus-ML84313.wav	1	c
-4	Spectrogram 1	1	22.004237078	22.096362495	607.3	2616.1	Vanellus_leucurus-ML84313.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_leucurus-ML84313.wav	2	a
-5	Spectrogram 1	1	22.147740131	22.413486527	584.0	2709.5	Vanellus_leucurus-ML84313.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_leucurus-ML84313.wav	2	b
-6	Spectrogram 1	1	22.446774835	22.487522615	770.8	2335.8	Vanellus_leucurus-ML84313.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_leucurus-ML84313.wav	2	d
-7	Spectrogram 1	1	22.531813681	22.774528722	630.7	2803.0	Vanellus_leucurus-ML84313.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_leucurus-ML84313.wav	2	c

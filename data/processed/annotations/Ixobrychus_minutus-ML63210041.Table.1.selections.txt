@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	17.144411458	17.199374018	148.3	791.0	Ixobrychus_minutus-ML63210041.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_minutus-ML63210041.wav	1	a
-2	Spectrogram 1	1	19.679676837	19.736412383	197.8	791.0	Ixobrychus_minutus-ML63210041.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_minutus-ML63210041.wav	2	a
-3	Spectrogram 1	1	22.285567261	22.352940721	98.9	815.8	Ixobrychus_minutus-ML63210041.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_minutus-ML63210041.wav	3	a

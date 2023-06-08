@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	25.174260838	25.676326345	692.5	4487.6	Sphyrapicus_nuchalis-ML63060.wav	D:\Andean\Picidae\Sphyrapicus_nuchalis-ML63060.wav	1	a
-2	Spectrogram 1	1	26.482273605	26.911671735	775.6	4598.4	Sphyrapicus_nuchalis-ML63060.wav	D:\Andean\Picidae\Sphyrapicus_nuchalis-ML63060.wav	2	a
-3	Spectrogram 1	1	28.180047751	28.629264257	720.2	5180.1	Sphyrapicus_nuchalis-ML63060.wav	D:\Andean\Picidae\Sphyrapicus_nuchalis-ML63060.wav	3	a

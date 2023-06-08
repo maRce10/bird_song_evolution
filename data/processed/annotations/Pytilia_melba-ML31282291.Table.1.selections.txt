@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.181345861	2.255589399	1385.2	8323.7	Pytilia_melba-ML31282291.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Pytilia_melba-ML31282291.wav	1	a
-2	Spectrogram 1	1	2.903314024	2.970486749	1300.4	8367.6	Pytilia_melba-ML31282291.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Pytilia_melba-ML31282291.wav	2	a
-3	Spectrogram 1	1	6.236821543	6.303994268	1413.5	8477.4	Pytilia_melba-ML31282291.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Pytilia_melba-ML31282291.wav	2	a

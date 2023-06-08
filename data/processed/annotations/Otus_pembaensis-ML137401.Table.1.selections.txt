@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.156706579	16.463277398	554.0	914.1	Otus_pembaensis-ML137401.wav	D:\Andean\Strigidae\Otus_pembaensis-ML137401.wav	1	a
-2	Spectrogram 1	1	23.116999613	23.355443583	526.3	886.4	Otus_pembaensis-ML137401.wav	D:\Andean\Strigidae\Otus_pembaensis-ML137401.wav	2	a
-3	Spectrogram 1	1	29.202998090	29.498214434	526.3	886.4	Otus_pembaensis-ML137401.wav	D:\Andean\Strigidae\Otus_pembaensis-ML137401.wav	3	a

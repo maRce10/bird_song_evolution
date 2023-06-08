@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	94.535081259	94.949929321	537.2	3760.6	Cyanocitta_cristata-ML43998451.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocitta_cristata-ML43998451.wav	1	a
-2	Spectrogram 1	1	95.161024574	95.553845305	490.5	3737.3	Cyanocitta_cristata-ML43998451.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocitta_cristata-ML43998451.wav	1	a
-3	Spectrogram 1	1	100.177707608	100.579706394	490.5	3737.3	Cyanocitta_cristata-ML43998451.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocitta_cristata-ML43998451.wav	2	a
-4	Spectrogram 1	1	100.757760651	101.139567717	513.9	3713.9	Cyanocitta_cristata-ML43998451.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocitta_cristata-ML43998451.wav	2	a
-5	Spectrogram 1	1	103.923785241	104.323948416	467.2	3760.6	Cyanocitta_cristata-ML43998451.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocitta_cristata-ML43998451.wav	3	a
-6	Spectrogram 1	1	104.568084665	104.959069786	467.2	3690.6	Cyanocitta_cristata-ML43998451.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanocitta_cristata-ML43998451.wav	3	a

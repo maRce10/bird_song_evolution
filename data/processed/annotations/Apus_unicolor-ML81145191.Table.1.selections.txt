@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.971013255	7.575143394	4572.3	7044.3	Apus_unicolor-ML81145191.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_unicolor-ML81145191.wav	1	a
-2	Spectrogram 1	1	10.186614348	10.815547483	4547.6	6500.4	Apus_unicolor-ML81145191.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_unicolor-ML81145191.wav	2	a
-3	Spectrogram 1	1	11.785286302	12.424849293	4201.5	6055.5	Apus_unicolor-ML81145191.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_unicolor-ML81145191.wav	3	a

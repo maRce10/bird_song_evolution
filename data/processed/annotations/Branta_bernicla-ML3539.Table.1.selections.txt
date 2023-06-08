@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	27.198969849	27.403573437	618.0	2397.8	Branta_bernicla-ML3539.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_bernicla-ML3539.wav	1	a
-2	Spectrogram 1	1	28.130677096	28.431664192	568.6	2348.4	Branta_bernicla-ML3539.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_bernicla-ML3539.wav	2	a
-3	Spectrogram 1	1	30.680987034	30.921100336	543.8	2546.1	Branta_bernicla-ML3539.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_bernicla-ML3539.wav	3	a

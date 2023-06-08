@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	53.699176551	53.784161169	360.1	1966.8	Theristicus_melanopis-ML219010.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Theristicus_melanopis-ML219010.wav	1	a
-2	Spectrogram 1	1	55.783161724	55.850894644	313.4	2370.1	Theristicus_melanopis-ML219010.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Theristicus_melanopis-ML219010.wav	2	b
-3	Spectrogram 1	1	56.062268066	56.134672221	333.0	2174.2	Theristicus_melanopis-ML219010.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Theristicus_melanopis-ML219010.wav	2	c
-4	Spectrogram 1	1	56.182552389	56.243278455	333.0	1743.3	Theristicus_melanopis-ML219010.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Theristicus_melanopis-ML219010.wav	2	d
-5	Spectrogram 1	1	61.089726577	61.165697016	274.2	1782.5	Theristicus_melanopis-ML219010.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Theristicus_melanopis-ML219010.wav	3	d
-6	Spectrogram 1	1	61.391956800	61.494351739	333.0	1919.6	Theristicus_melanopis-ML219010.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Theristicus_melanopis-ML219010.wav	3	e

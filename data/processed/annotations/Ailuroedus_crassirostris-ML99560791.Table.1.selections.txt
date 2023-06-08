@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.948806900	3.791915798	654.7	2514.0	Ailuroedus_crassirostris-ML99560791.wav	D:\Andean\Ptilonorhynchidae\Ailuroedus_crassirostris-ML99560791.wav	1	a
-2	Spectrogram 1	1	14.131781161	15.988102309	602.3	2880.6	Ailuroedus_crassirostris-ML99560791.wav	D:\Andean\Ptilonorhynchidae\Ailuroedus_crassirostris-ML99560791.wav	2	a
-3	Spectrogram 1	1	24.242428616	26.204447766	628.5	2959.2	Ailuroedus_crassirostris-ML99560791.wav	D:\Andean\Ptilonorhynchidae\Ailuroedus_crassirostris-ML99560791.wav	3	a

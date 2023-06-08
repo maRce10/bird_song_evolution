@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	103.531893177	103.650803429	156.8	2821.6	Calidris_pugnax-ML90754.wav	D:\Andean\Scolopacidae\Calidris_pugnax-ML90754.wav	1	a
-2	Spectrogram 1	1	104.232142436	104.331234312	182.9	2847.7	Calidris_pugnax-ML90754.wav	D:\Andean\Scolopacidae\Calidris_pugnax-ML90754.wav	2	a
-3	Spectrogram 1	1	198.764029413	198.955607041	313.5	3344.1	Calidris_pugnax-ML90754.wav	D:\Andean\Scolopacidae\Calidris_pugnax-ML90754.wav	3	a

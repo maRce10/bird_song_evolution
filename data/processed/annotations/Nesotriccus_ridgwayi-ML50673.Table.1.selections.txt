@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	32.118741092	32.333617941	1606.7	4653.8	Nesotriccus_ridgwayi-ML50673.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nesotriccus_ridgwayi-ML50673.wav	1	a
-2	Spectrogram 1	1	32.749357931	32.940878601	1634.4	4543.0	Nesotriccus_ridgwayi-ML50673.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nesotriccus_ridgwayi-ML50673.wav	1	a
-3	Spectrogram 1	1	35.052848047	35.277456300	1634.4	4681.5	Nesotriccus_ridgwayi-ML50673.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nesotriccus_ridgwayi-ML50673.wav	2	a
-4	Spectrogram 1	1	35.358152069	35.573028918	1634.4	4626.1	Nesotriccus_ridgwayi-ML50673.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nesotriccus_ridgwayi-ML50673.wav	2	a
-5	Spectrogram 1	1	36.474577436	36.698796757	1745.2	5318.6	Nesotriccus_ridgwayi-ML50673.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nesotriccus_ridgwayi-ML50673.wav	3	b
-6	Spectrogram 1	1	36.740837879	36.918344841	1772.9	4487.6	Nesotriccus_ridgwayi-ML50673.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nesotriccus_ridgwayi-ML50673.wav	3	a
-7	Spectrogram 1	1	37.053810681	37.250002586	1772.9	4626.1	Nesotriccus_ridgwayi-ML50673.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nesotriccus_ridgwayi-ML50673.wav	3	a

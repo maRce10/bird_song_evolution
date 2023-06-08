@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	22.283238819	22.356663254	1167.9	5045.3	Lanius_minor-ML83675.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_minor-ML83675.wav	1	a
-2	Spectrogram 1	1	22.360334476	22.457621854	1074.5	4905.2	Lanius_minor-ML83675.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_minor-ML83675.wav	2	a
-3	Spectrogram 1	1	24.668946625	24.735028617	957.7	4835.1	Lanius_minor-ML83675.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_minor-ML83675.wav	2	a
-4	Spectrogram 1	1	24.736864228	24.841494049	887.6	4624.9	Lanius_minor-ML83675.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_minor-ML83675.wav	2	b
-5	Spectrogram 1	1	32.783672575	32.849754567	1144.5	4695.0	Lanius_minor-ML83675.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_minor-ML83675.wav	3	a
-6	Spectrogram 1	1	32.855261400	32.945206334	1097.8	4578.2	Lanius_minor-ML83675.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_minor-ML83675.wav	3	b

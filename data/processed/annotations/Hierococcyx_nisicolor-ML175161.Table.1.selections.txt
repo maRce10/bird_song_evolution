@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	15.926093830	16.088722533	3323.0	5007.4	Hierococcyx_nisicolor-ML175161.wav	E:\Escritorio\Cantos\Cuculidae\Hierococcyx_nisicolor-ML175161.wav	1	a
-2	Spectrogram 1	1	16.177107698	16.321929267	2240.1	5446.6	Hierococcyx_nisicolor-ML175161.wav	E:\Escritorio\Cantos\Cuculidae\Hierococcyx_nisicolor-ML175161.wav	1	b
-3	Spectrogram 1	1	18.750529862	18.884875312	3632.1	5306.4	Hierococcyx_nisicolor-ML175161.wav	E:\Escritorio\Cantos\Cuculidae\Hierococcyx_nisicolor-ML175161.wav	2	a
-4	Spectrogram 1	1	19.022756169	19.185384872	2266.8	5435.2	Hierococcyx_nisicolor-ML175161.wav	E:\Escritorio\Cantos\Cuculidae\Hierococcyx_nisicolor-ML175161.wav	2	b
-5	Spectrogram 1	1	20.744275448	20.906904151	3554.8	5435.2	Hierococcyx_nisicolor-ML175161.wav	E:\Escritorio\Cantos\Cuculidae\Hierococcyx_nisicolor-ML175161.wav	3	a
-6	Spectrogram 1	1	21.023572568	21.200342897	2215.3	5564.0	Hierococcyx_nisicolor-ML175161.wav	E:\Escritorio\Cantos\Cuculidae\Hierococcyx_nisicolor-ML175161.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	142.593491621	152.197407820	3131.8	8417.1	Locustella_naevia-ML36190.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Locustella_naevia-ML36190.wav	1	a
-2	Spectrogram 1	1	152.256851883	159.775514106	2999.7	8351.0	Locustella_naevia-ML36190.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Locustella_naevia-ML36190.wav	2	a
-3	Spectrogram 1	1	175.932197597	181.585879152	3263.9	8351.0	Locustella_naevia-ML36190.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Locustella_naevia-ML36190.wav	3	a

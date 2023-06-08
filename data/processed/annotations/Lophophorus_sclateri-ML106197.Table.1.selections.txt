@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.645837954	10.458391339	914.1	1717.5	Lophophorus_sclateri-ML106197.wav	D:\Andean\Phasianidae\Lophophorus_sclateri-ML106197.wav	1	a
-2	Spectrogram 1	1	12.922475995	13.688786505	969.5	1689.8	Lophophorus_sclateri-ML106197.wav	D:\Andean\Phasianidae\Lophophorus_sclateri-ML106197.wav	2	a
-3	Spectrogram 1	1	16.958818421	17.764765681	941.8	1717.5	Lophophorus_sclateri-ML106197.wav	D:\Andean\Phasianidae\Lophophorus_sclateri-ML106197.wav	3	a

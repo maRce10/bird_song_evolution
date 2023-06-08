@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.937650789	7.005383709	4099.7	4958.5	Nectarinia_purpureiventris-ML1016.wav	E:\Andean\Nectariniidae\Nectarinia_purpureiventris-ML1016.wav	1	a
-2	Spectrogram 1	1	8.169639022	8.250268061	3822.7	4930.8	Nectarinia_purpureiventris-ML1016.wav	E:\Andean\Nectariniidae\Nectarinia_purpureiventris-ML1016.wav	2	a
-3	Spectrogram 1	1	11.171086673	11.238819593	4072.0	5013.9	Nectarinia_purpureiventris-ML1016.wav	E:\Andean\Nectariniidae\Nectarinia_purpureiventris-ML1016.wav	3	a

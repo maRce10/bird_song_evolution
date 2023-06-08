@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	19.731110243	21.679917143	637.1	1246.5	Erythropitta_macklotii-ML65849.wav	D:\Andean\Pittidae\Erythropitta_macklotii-ML65849.wav	1	a
-2	Spectrogram 1	1	21.818645770	22.684048156	720.2	1246.5	Erythropitta_macklotii-ML65849.wav	D:\Andean\Pittidae\Erythropitta_macklotii-ML65849.wav	1	b
-3	Spectrogram 1	1	39.334271954	41.388776854	637.1	1246.5	Erythropitta_macklotii-ML65849.wav	D:\Andean\Pittidae\Erythropitta_macklotii-ML65849.wav	2	a
-4	Spectrogram 1	1	41.514293231	42.419332367	747.9	1218.8	Erythropitta_macklotii-ML65849.wav	D:\Andean\Pittidae\Erythropitta_macklotii-ML65849.wav	2	b
-5	Spectrogram 1	1	70.632411724	72.719947250	664.8	1163.4	Erythropitta_macklotii-ML65849.wav	D:\Andean\Pittidae\Erythropitta_macklotii-ML65849.wav	3	a
-6	Spectrogram 1	1	72.825645251	73.796745638	692.5	1218.8	Erythropitta_macklotii-ML65849.wav	D:\Andean\Pittidae\Erythropitta_macklotii-ML65849.wav	3	b

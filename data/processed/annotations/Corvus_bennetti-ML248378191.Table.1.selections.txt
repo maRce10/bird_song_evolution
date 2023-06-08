@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.504507704	2.992545519	513.9	2359.2	Corvus_bennetti-ML248378191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_bennetti-ML248378191.wav	1	a
-2	Spectrogram 1	1	3.174261726	3.688258999	607.3	2265.7	Corvus_bennetti-ML248378191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_bennetti-ML248378191.wav	1	a
-3	Spectrogram 1	1	3.895934665	4.467042746	700.7	2499.3	Corvus_bennetti-ML248378191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_bennetti-ML248378191.wav	1	a
-4	Spectrogram 1	1	4.664334628	5.276977842	513.9	2405.9	Corvus_bennetti-ML248378191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_bennetti-ML248378191.wav	1	a
-5	Spectrogram 1	1	5.578107558	5.884429165	957.7	2312.4	Corvus_bennetti-ML248378191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_bennetti-ML248378191.wav	1	b
-6	Spectrogram 1	1	5.962307539	6.346507521	1027.8	2429.2	Corvus_bennetti-ML248378191.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_bennetti-ML248378191.wav	1	b

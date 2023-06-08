@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	25.376683799	25.417067239	490.5	1985.4	Coracias_naevius-ML72168.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_naevius-ML72168.wav	1	a
-2	Spectrogram 1	1	25.477642398	25.562080500	443.8	1985.4	Coracias_naevius-ML72168.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_naevius-ML72168.wav	1	b
-3	Spectrogram 1	1	25.721778647	25.767668920	467.2	2008.8	Coracias_naevius-ML72168.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_naevius-ML72168.wav	2	a
-4	Spectrogram 1	1	25.855778243	25.925531457	397.1	2125.6	Coracias_naevius-ML72168.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_naevius-ML72168.wav	2	b
-5	Spectrogram 1	1	26.087065215	26.129284266	397.1	2008.8	Coracias_naevius-ML72168.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_naevius-ML72168.wav	3	a
-6	Spectrogram 1	1	26.204544313	26.276133138	443.8	2032.2	Coracias_naevius-ML72168.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_naevius-ML72168.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	12.585342351	13.462123184	380.100	2608.600	Nucifraga_columbiana-ML186521.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_columbiana-ML186521.wav	1	a
-2	Spectrogram 1	1	14.424458450	15.202247898	417.300	2547.600	Nucifraga_columbiana-ML186521.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_columbiana-ML186521.wav	2	a
-3	Spectrogram 1	1	16.079028731	16.800251673	439.200	2613.500	Nucifraga_columbiana-ML186521.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_columbiana-ML186521.wav	3	c

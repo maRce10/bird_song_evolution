@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	102.611170434	103.125141484	864.2	1471.6	Laniarius_major-ML8764.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_major-ML8764.wav	1	a
-2	Spectrogram 1	1	107.746269406	108.343760752	864.2	1471.6	Laniarius_major-ML8764.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_major-ML8764.wav	2	a
-3	Spectrogram 1	1	109.821744933	110.395373338	911.0	1401.5	Laniarius_major-ML8764.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_major-ML8764.wav	3	a

@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.027679519	1.316457268	593.3	3238.3	Cacatua_sanguinea-ML31675961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_sanguinea-ML31675961.wav	1	a
-2	Spectrogram 1	1	1.761139570	2.032200893	568.6	3683.2	Cacatua_sanguinea-ML31675961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_sanguinea-ML31675961.wav	1	b
-3	Spectrogram 1	1	9.715521348	10.009614025	543.8	3238.3	Cacatua_sanguinea-ML31675961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_sanguinea-ML31675961.wav	2	a
-4	Spectrogram 1	1	10.144258865	10.425950045	642.7	3609.1	Cacatua_sanguinea-ML31675961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_sanguinea-ML31675961.wav	2	b
-5	Spectrogram 1	1	35.571884032	35.860661781	642.7	3708.0	Cacatua_sanguinea-ML31675961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_sanguinea-ML31675961.wav	3	b
-6	Spectrogram 1	1	35.858890139	36.190187312	791.0	3708.0	Cacatua_sanguinea-ML31675961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_sanguinea-ML31675961.wav	3	c
-7	Spectrogram 1	1	36.411642641	36.951993645	692.2	4474.3	Cacatua_sanguinea-ML31675961.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_sanguinea-ML31675961.wav	3	d

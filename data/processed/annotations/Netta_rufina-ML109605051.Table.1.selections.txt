@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	35.470586275	35.561008551	321.4	2101.2	Netta_rufina-ML109605051.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Netta_rufina-ML109605051.wav	1	a
-2	Spectrogram 1	1	56.982236654	57.115210589	395.5	2323.7	Netta_rufina-ML109605051.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Netta_rufina-ML109605051.wav	2	a
-3	Spectrogram 1	1	64.957405968	65.063785116	296.6	2397.8	Netta_rufina-ML109605051.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Netta_rufina-ML109605051.wav	3	a

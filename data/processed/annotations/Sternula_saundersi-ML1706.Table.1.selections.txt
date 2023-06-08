@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	63.196357950	63.243856239	1361.700	4458.300	Sternula_saundersi-ML1706.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_saundersi-ML1706.wav	1	a
-2	Spectrogram 1	1	63.256355789	63.311353808	1207.900	4282.600	Sternula_saundersi-ML1706.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_saundersi-ML1706.wav	1	b
-3	Spectrogram 1	1	64.072957199	64.126260222	1383.600	4260.700	Sternula_saundersi-ML1706.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_saundersi-ML1706.wav	2	a
-4	Spectrogram 1	1	64.147509457	64.215007026	1339.700	4299.200	Sternula_saundersi-ML1706.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_saundersi-ML1706.wav	2	b
-5	Spectrogram 1	1	65.558807017	65.610070413	1661.700	3982.700	Sternula_saundersi-ML1706.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_saundersi-ML1706.wav	3	a
-6	Spectrogram 1	1	65.636585962	65.712597203	1608.900	4325.600	Sternula_saundersi-ML1706.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_saundersi-ML1706.wav	3	b

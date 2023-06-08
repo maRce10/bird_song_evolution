@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.110417337	4.422471189	764.3	5628.3	Coracina_maxima-ML176340071.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_maxima-ML176340071.wav	1	a
-2	Spectrogram 1	1	4.837319251	5.145701882	1042.3	5605.1	Coracina_maxima-ML176340071.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_maxima-ML176340071.wav	2	a
-3	Spectrogram 1	1	6.655727272	6.958603069	718.0	5396.7	Coracina_maxima-ML176340071.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Coracina_maxima-ML176340071.wav	3	a

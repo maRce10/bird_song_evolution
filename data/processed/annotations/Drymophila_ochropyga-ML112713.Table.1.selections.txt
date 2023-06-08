@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.894798813	6.086376441	3157.9	4266.0	Drymophila_ochropyga-ML112713.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ochropyga-ML112713.wav	1	a
-2	Spectrogram 1	1	6.218498943	7.024446203	1108.0	5955.7	Drymophila_ochropyga-ML112713.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ochropyga-ML112713.wav	1	b
-3	Spectrogram 1	1	13.280823660	13.459189038	3047.1	4155.2	Drymophila_ochropyga-ML112713.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ochropyga-ML112713.wav	2	a
-4	Spectrogram 1	1	13.597917664	14.344409799	969.5	6094.2	Drymophila_ochropyga-ML112713.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ochropyga-ML112713.wav	2	b
-5	Spectrogram 1	1	17.845656093	18.037233720	3241.0	4127.4	Drymophila_ochropyga-ML112713.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ochropyga-ML112713.wav	3	a
-6	Spectrogram 1	1	18.182568472	18.942272857	1108.0	6288.1	Drymophila_ochropyga-ML112713.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ochropyga-ML112713.wav	3	b

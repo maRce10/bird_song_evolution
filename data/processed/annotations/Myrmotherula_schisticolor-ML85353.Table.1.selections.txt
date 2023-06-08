@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.004987102	14.140556278	2037.6	8332.4	Myrmotherula_schisticolor-ML85353.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmotherula_schisticolor-ML85353.wav	1	a
-2	Spectrogram 1	1	15.838936783	16.000866632	1964.9	10079.0	Myrmotherula_schisticolor-ML85353.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmotherula_schisticolor-ML85353.wav	2	b
-3	Spectrogram 1	1	17.296305421	17.431874597	2365.1	10042.6	Myrmotherula_schisticolor-ML85353.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmotherula_schisticolor-ML85353.wav	3	b

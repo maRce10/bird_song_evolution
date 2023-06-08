@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	22.663549474	22.803615353	395.5	840.5	Ixobrychus_dubius-ML82598011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_dubius-ML82598011.wav	1	a
-2	Spectrogram 1	1	23.152893557	23.278775549	395.5	889.9	Ixobrychus_dubius-ML82598011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_dubius-ML82598011.wav	2	a
-3	Spectrogram 1	1	23.641368659	23.806256339	346.1	840.5	Ixobrychus_dubius-ML82598011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ixobrychus_dubius-ML82598011.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	77.514131288	77.614068138	1080.3	2133.0	Odontophorus_hyperythrus-ML165789.wav	E:\Andean\Odontophoridae\Odontophorus_hyperythrus-ML165789.wav	1	a
-2	Spectrogram 1	1	77.665451732	77.856972402	969.5	1994.5	Odontophorus_hyperythrus-ML165789.wav	E:\Andean\Odontophoridae\Odontophorus_hyperythrus-ML165789.wav	1	b
-3	Spectrogram 1	1	77.908850717	78.039645321	997.2	2022.2	Odontophorus_hyperythrus-ML165789.wav	E:\Andean\Odontophoridae\Odontophorus_hyperythrus-ML165789.wav	2	a
-4	Spectrogram 1	1	78.065337118	78.231165990	1218.8	2077.6	Odontophorus_hyperythrus-ML165789.wav	E:\Andean\Odontophoridae\Odontophorus_hyperythrus-ML165789.wav	2	b
-5	Spectrogram 1	1	78.293732953	78.429198793	1024.9	2271.5	Odontophorus_hyperythrus-ML165789.wav	E:\Andean\Odontophoridae\Odontophorus_hyperythrus-ML165789.wav	3	a
-6	Spectrogram 1	1	78.459561826	78.662760585	997.2	1994.5	Odontophorus_hyperythrus-ML165789.wav	E:\Andean\Odontophoridae\Odontophorus_hyperythrus-ML165789.wav	3	b

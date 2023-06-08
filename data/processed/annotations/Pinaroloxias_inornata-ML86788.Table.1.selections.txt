@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.576756282	6.258290605	939.3	14980.2	Pinaroloxias_inornata-ML86788.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Pinaroloxias_inornata-ML86788.wav	1	a
-2	Spectrogram 1	1	6.420902303	6.853736382	8305.8	13793.6	Pinaroloxias_inornata-ML86788.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Pinaroloxias_inornata-ML86788.wav	1	b
-3	Spectrogram 1	1	7.114393368	7.669186221	988.8	14040.8	Pinaroloxias_inornata-ML86788.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Pinaroloxias_inornata-ML86788.wav	1	a
-4	Spectrogram 1	1	9.060483502	9.584188824	1285.4	14436.3	Pinaroloxias_inornata-ML86788.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Pinaroloxias_inornata-ML86788.wav	2	a
-5	Spectrogram 1	1	9.761148613	10.320724163	8207.0	13249.8	Pinaroloxias_inornata-ML86788.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Pinaroloxias_inornata-ML86788.wav	2	c
-6	Spectrogram 1	1	14.091723712	14.804345565	840.5	15573.4	Pinaroloxias_inornata-ML86788.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Pinaroloxias_inornata-ML86788.wav	3	a
-7	Spectrogram 1	1	15.014784233	15.674796420	8157.5	16067.8	Pinaroloxias_inornata-ML86788.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Pinaroloxias_inornata-ML86788.wav	3	d
-8	Spectrogram 1	1	16.024305016	16.820624067	642.7	14436.3	Pinaroloxias_inornata-ML86788.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Pinaroloxias_inornata-ML86788.wav	3	a

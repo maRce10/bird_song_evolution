@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.174670537	6.791111716	225.3	391.8	Turnix_maculosus-ML140253211.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_maculosus-ML140253211.wav	1	a
-2	Spectrogram 1	1	7.260060833	7.815992448	230.2	382.0	Turnix_maculosus-ML140253211.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_maculosus-ML140253211.wav	2	a
-3	Spectrogram 1	1	8.318978195	8.867346114	235.1	391.8	Turnix_maculosus-ML140253211.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_maculosus-ML140253211.wav	3	a

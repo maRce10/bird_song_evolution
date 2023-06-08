@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.263111280	8.524053221	1080.3	1662.1	Oriolus_nigripennis-ML203912111.wav	E:\Andean\Oriolidae\Oriolus_nigripennis-ML203912111.wav	1	a
-2	Spectrogram 1	1	8.560386909	8.705721661	775.6	1662.1	Oriolus_nigripennis-ML203912111.wav	E:\Andean\Oriolidae\Oriolus_nigripennis-ML203912111.wav	1	b
-3	Spectrogram 1	1	12.346846538	12.621000729	1108.0	1662.1	Oriolus_nigripennis-ML203912111.wav	E:\Andean\Oriolidae\Oriolus_nigripennis-ML203912111.wav	2	a
-4	Spectrogram 1	1	12.660637479	12.789456918	747.9	1579.0	Oriolus_nigripennis-ML203912111.wav	E:\Andean\Oriolidae\Oriolus_nigripennis-ML203912111.wav	2	b
-5	Spectrogram 1	1	16.516012722	16.780257725	914.1	1634.4	Oriolus_nigripennis-ML203912111.wav	E:\Andean\Oriolidae\Oriolus_nigripennis-ML203912111.wav	3	a
-6	Spectrogram 1	1	16.803379163	16.952016977	720.2	1662.1	Oriolus_nigripennis-ML203912111.wav	E:\Andean\Oriolidae\Oriolus_nigripennis-ML203912111.wav	3	b

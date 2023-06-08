@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.997518847	2.040177096	1123.4	2978.3	Arenaria_interpres-ML99460291.wav	D:\Andean\Scolopacidae\Arenaria_interpres-ML99460291.wav	1	a
-2	Spectrogram 1	1	2.090254170	2.147750070	1123.4	2952.2	Arenaria_interpres-ML99460291.wav	D:\Andean\Scolopacidae\Arenaria_interpres-ML99460291.wav	1	a
-3	Spectrogram 1	1	2.179280079	2.227502447	1071.1	3030.6	Arenaria_interpres-ML99460291.wav	D:\Andean\Scolopacidae\Arenaria_interpres-ML99460291.wav	1	a
-4	Spectrogram 1	1	3.743689336	3.790056998	914.4	3657.6	Arenaria_interpres-ML99460291.wav	D:\Andean\Scolopacidae\Arenaria_interpres-ML99460291.wav	2	a
-5	Spectrogram 1	1	3.851262311	3.906903504	940.5	3709.8	Arenaria_interpres-ML99460291.wav	D:\Andean\Scolopacidae\Arenaria_interpres-ML99460291.wav	2	a
-6	Spectrogram 1	1	3.923595862	3.971818230	1123.4	3553.1	Arenaria_interpres-ML99460291.wav	D:\Andean\Scolopacidae\Arenaria_interpres-ML99460291.wav	2	a
-7	Spectrogram 1	1	6.132534064	6.184465845	1045.0	3030.6	Arenaria_interpres-ML99460291.wav	D:\Andean\Scolopacidae\Arenaria_interpres-ML99460291.wav	3	a
-8	Spectrogram 1	1	6.240107038	6.292038819	1097.3	3004.4	Arenaria_interpres-ML99460291.wav	D:\Andean\Scolopacidae\Arenaria_interpres-ML99460291.wav	3	a

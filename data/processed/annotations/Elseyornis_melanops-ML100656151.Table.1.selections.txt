@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.323886058	1.354003983	2359.2	5278.9	Elseyornis_melanops-ML100656151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Elseyornis_melanops-ML100656151.wav	1	a
-2	Spectrogram 1	1	1.437271187	1.462074184	2569.4	5208.8	Elseyornis_melanops-ML100656151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Elseyornis_melanops-ML100656151.wav	1	a
-3	Spectrogram 1	1	1.557742886	1.587860811	2008.8	5816.2	Elseyornis_melanops-ML100656151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Elseyornis_melanops-ML100656151.wav	1	b
-4	Spectrogram 1	1	7.808618349	7.844051202	1471.6	5372.4	Elseyornis_melanops-ML100656151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Elseyornis_melanops-ML100656151.wav	2	b
-5	Spectrogram 1	1	10.220790876	10.245593873	2265.7	5442.4	Elseyornis_melanops-ML100656151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Elseyornis_melanops-ML100656151.wav	3	a
-6	Spectrogram 1	1	10.358979001	10.390868569	2312.4	5419.1	Elseyornis_melanops-ML100656151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Elseyornis_melanops-ML100656151.wav	3	a
-7	Spectrogram 1	1	10.518426839	10.553859691	1705.1	5699.4	Elseyornis_melanops-ML100656151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Elseyornis_melanops-ML100656151.wav	3	b

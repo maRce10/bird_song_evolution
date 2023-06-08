@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.464888479	1.625110656	263.2	747.9	Threskiornis_aethiopicus-ML21612711.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Threskiornis_aethiopicus-ML21612711.wav	1	a
-2	Spectrogram 1	1	1.881466140	2.064577200	270.1	741.0	Threskiornis_aethiopicus-ML21612711.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Threskiornis_aethiopicus-ML21612711.wav	1	a

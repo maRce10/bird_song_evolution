@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	83.814975697	83.904972456	2174.3	6259.2	Cyanolyca_pulchra-ML58352.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pulchra-ML58352.wav	1	a
-2	Spectrogram 1	1	83.964970295	84.074966333	658.9	2371.9	Cyanolyca_pulchra-ML58352.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pulchra-ML58352.wav	1	b
-3	Spectrogram 1	1	86.047396008	86.127393127	2157.1	5619.0	Cyanolyca_pulchra-ML58352.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pulchra-ML58352.wav	2	a
-4	Spectrogram 1	1	86.187390966	86.279887635	646.9	2476.6	Cyanolyca_pulchra-ML58352.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pulchra-ML58352.wav	2	b
-5	Spectrogram 1	1	88.246158144	88.338654813	2237.0	5912.0	Cyanolyca_pulchra-ML58352.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pulchra-ML58352.wav	3	a
-6	Spectrogram 1	1	88.399902607	88.496149141	599.2	2503.3	Cyanolyca_pulchra-ML58352.wav	E:\Escritorio\Cantos\Corvidae\Cyanolyca_pulchra-ML58352.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	56.930390582	57.561840730	327.0	4601.5	Coccyzus_pluvialis-ML164834.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_pluvialis-ML164834.wav	1	a
-2	Spectrogram 1	1	64.990313712	65.614421416	373.7	5605.9	Coccyzus_pluvialis-ML164834.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_pluvialis-ML164834.wav	2	a
-3	Spectrogram 1	1	66.943403703	67.589538738	373.7	5605.9	Coccyzus_pluvialis-ML164834.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Coccyzus_pluvialis-ML164834.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	69.996592624	70.089116802	571.2	5255.4	Cursorius_cursor-ML86117.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_cursor-ML86117.wav	1	a
-2	Spectrogram 1	1	71.031181155	71.283519822	571.2	3427.5	Cursorius_cursor-ML86117.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_cursor-ML86117.wav	1	b
-3	Spectrogram 1	1	74.875139660	74.934018682	342.7	3256.1	Cursorius_cursor-ML86117.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_cursor-ML86117.wav	2	a
-4	Spectrogram 1	1	75.472341170	75.775147569	457.0	3084.7	Cursorius_cursor-ML86117.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_cursor-ML86117.wav	2	b
-5	Spectrogram 1	1	81.679871381	81.730339114	571.2	3427.5	Cursorius_cursor-ML86117.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_cursor-ML86117.wav	3	a
-6	Spectrogram 1	1	82.352774490	82.630347023	571.2	3084.7	Cursorius_cursor-ML86117.wav	C:\Users\Carlos PC\Desktop\Marcelo\Glareolidae\Cursorius_cursor-ML86117.wav	3	b

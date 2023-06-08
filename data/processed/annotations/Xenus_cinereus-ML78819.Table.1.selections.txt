@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	17.574497981	18.175655364	858.7	3351.8	Xenus_cinereus-ML78819.wav	D:\Andean\Scolopacidae\Xenus_cinereus-ML78819.wav	1	a
-2	Spectrogram 1	1	18.317687053	18.905632186	692.5	3296.4	Xenus_cinereus-ML78819.wav	D:\Andean\Scolopacidae\Xenus_cinereus-ML78819.wav	2	a
-3	Spectrogram 1	1	19.054270000	19.652124320	720.2	3434.9	Xenus_cinereus-ML78819.wav	D:\Andean\Scolopacidae\Xenus_cinereus-ML78819.wav	3	a

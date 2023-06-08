@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.370542607	8.436603858	1274.2	5429.4	Monarcha_melanopsis-ML91668111.wav	E:\Andean\Monarchidae\Monarcha_melanopsis-ML91668111.wav	1	a
-2	Spectrogram 1	1	10.220257630	10.286318881	941.8	5097.0	Monarcha_melanopsis-ML91668111.wav	E:\Andean\Monarchidae\Monarcha_melanopsis-ML91668111.wav	2	a
-3	Spectrogram 1	1	11.885001151	11.944456277	1052.6	5318.6	Monarcha_melanopsis-ML91668111.wav	E:\Andean\Monarchidae\Monarcha_melanopsis-ML91668111.wav	3	a

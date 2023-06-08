@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.510299829	1.070161151	186.9	490.5	Geotrygon_leucometopia-ML175140981.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Geotrygon_leucometopia-ML175140981.wav	1	a
-2	Spectrogram 1	1	1.659413179	2.199082782	140.1	490.5	Geotrygon_leucometopia-ML175140981.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Geotrygon_leucometopia-ML175140981.wav	2	a
-3	Spectrogram 1	1	2.829439237	3.398478615	140.1	490.5	Geotrygon_leucometopia-ML175140981.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Geotrygon_leucometopia-ML175140981.wav		a

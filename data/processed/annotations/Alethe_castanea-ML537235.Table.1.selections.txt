@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	113.694506012	114.163540893	1301.9	1745.2	Alethe_castanea-ML537235.wav	E:\Andean\Muscicapidae\Alethe_castanea-ML537235.wav	1	a
-2	Spectrogram 1	1	114.374936896	114.837365652	1634.4	2410.0	Alethe_castanea-ML537235.wav	E:\Andean\Muscicapidae\Alethe_castanea-ML537235.wav	1	b
-3	Spectrogram 1	1	118.827465202	119.276681707	1274.2	1772.9	Alethe_castanea-ML537235.wav	E:\Andean\Muscicapidae\Alethe_castanea-ML537235.wav	2	a
-4	Spectrogram 1	1	119.461653210	119.897657465	1689.8	2437.7	Alethe_castanea-ML537235.wav	E:\Andean\Muscicapidae\Alethe_castanea-ML537235.wav	2	b
-5	Spectrogram 1	1	124.113187749	124.509555254	1246.5	1745.2	Alethe_castanea-ML537235.wav	E:\Andean\Muscicapidae\Alethe_castanea-ML537235.wav	3	a
-6	Spectrogram 1	1	124.720951257	125.196592263	1717.5	2493.1	Alethe_castanea-ML537235.wav	E:\Andean\Muscicapidae\Alethe_castanea-ML537235.wav	3	b

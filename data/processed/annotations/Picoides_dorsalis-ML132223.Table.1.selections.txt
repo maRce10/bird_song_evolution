@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	19.695615026	19.781494653	1073.7	5054.2	Picoides_dorsalis-ML132223.wav	D:\Andean\Picidae\Picoides_dorsalis-ML132223.wav	1	a
-2	Spectrogram 1	1	21.228236046	21.290575953	1126.1	5106.6	Picoides_dorsalis-ML132223.wav	D:\Andean\Picidae\Picoides_dorsalis-ML132223.wav	2	a
-3	Spectrogram 1	1	22.698953560	22.750337154	1178.4	5054.2	Picoides_dorsalis-ML132223.wav	D:\Andean\Picidae\Picoides_dorsalis-ML132223.wav	3	a

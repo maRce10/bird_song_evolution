@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.725000290	13.866467289	140.148	1448.199	Penelope_superciliaris-ML102319.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_superciliaris-ML102319.wav	1	a
-2	Spectrogram 1	1	14.095310962	14.236777961	140.148	1681.780	Penelope_superciliaris-ML102319.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_superciliaris-ML102319.wav	2	a
-3	Spectrogram 1	1	14.478104016	14.627892603	233.581	1541.631	Penelope_superciliaris-ML102319.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_superciliaris-ML102319.wav	3	a

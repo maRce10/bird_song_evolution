@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	171.112719839	171.373121469	1018.6	2213.4	Crypturellus_atrocapillus-ML132269.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_atrocapillus-ML132269.wav	1	a
-2	Spectrogram 1	1	218.508918189	218.777999873	1018.6	2252.6	Crypturellus_atrocapillus-ML132269.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_atrocapillus-ML132269.wav	2	a
-3	Spectrogram 1	1	270.517129644	270.790551355	1018.6	2213.4	Crypturellus_atrocapillus-ML132269.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_atrocapillus-ML132269.wav	3	a

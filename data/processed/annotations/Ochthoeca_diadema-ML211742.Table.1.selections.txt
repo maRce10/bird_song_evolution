@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	41.063915911	41.117635124	5523.7	7835.0	Ochthoeca_diadema-ML211742.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_diadema-ML211742.wav	1	a
-2	Spectrogram 1	1	41.129313213	43.112252829	5288.6	12849.4	Ochthoeca_diadema-ML211742.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_diadema-ML211742.wav	1	b
-3	Spectrogram 1	1	58.128373843	58.179757437	3839.2	7208.2	Ochthoeca_diadema-ML211742.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_diadema-ML211742.wav	2	a
-4	Spectrogram 1	1	58.198442381	60.179046378	5014.4	12888.6	Ochthoeca_diadema-ML211742.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_diadema-ML211742.wav	2	b
-5	Spectrogram 1	1	81.395463834	81.449183047	5523.7	8148.4	Ochthoeca_diadema-ML211742.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_diadema-ML211742.wav	3	a
-6	Spectrogram 1	1	81.470203608	83.259286936	5641.2	12496.9	Ochthoeca_diadema-ML211742.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_diadema-ML211742.wav	3	b

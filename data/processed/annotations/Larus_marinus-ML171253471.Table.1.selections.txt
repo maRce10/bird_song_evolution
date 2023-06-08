@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.726587239	9.998257651	420.4	2569.4	Larus_marinus-ML171253471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_marinus-ML171253471.wav	1	a
-2	Spectrogram 1	1	10.125437890	10.376916583	327.0	2522.7	Larus_marinus-ML171253471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_marinus-ML171253471.wav	2	a
-3	Spectrogram 1	1	10.507244956	10.817463198	233.6	2779.6	Larus_marinus-ML171253471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_marinus-ML171253471.wav	2	a

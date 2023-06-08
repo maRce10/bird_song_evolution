@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	93.984224137	94.071755294	581.7	4543.0	Himantopus_leucocephalus-ML128328.wav	D:\Andean\Recurvirostridae\Himantopus_leucocephalus-ML128328.wav	1	a
-2	Spectrogram 1	1	94.347561016	94.446652893	304.7	4459.9	Himantopus_leucocephalus-ML128328.wav	D:\Andean\Recurvirostridae\Himantopus_leucocephalus-ML128328.wav	2	a
-3	Spectrogram 1	1	94.715852490	94.824853554	720.2	4432.2	Himantopus_leucocephalus-ML128328.wav	D:\Andean\Recurvirostridae\Himantopus_leucocephalus-ML128328.wav	3	a

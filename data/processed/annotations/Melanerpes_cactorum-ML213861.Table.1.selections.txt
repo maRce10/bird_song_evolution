@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	76.828147261	76.887602387	1047.5	2278.3	Melanerpes_cactorum-ML213861.wav	D:\Andean\Picidae\Melanerpes_cactorum-ML213861.wav	1	a
-3	Spectrogram 1	1	76.887602387	76.940451388	1099.9	3116.3	Melanerpes_cactorum-ML213861.wav	D:\Andean\Picidae\Melanerpes_cactorum-ML213861.wav	1	b
-4	Spectrogram 1	1	77.766217023	77.825672149	1178.4	2173.6	Melanerpes_cactorum-ML213861.wav	D:\Andean\Picidae\Melanerpes_cactorum-ML213861.wav	2	a
-5	Spectrogram 1	1	77.825672149	77.881824212	1021.3	3168.7	Melanerpes_cactorum-ML213861.wav	D:\Andean\Picidae\Melanerpes_cactorum-ML213861.wav	2	b
-6	Spectrogram 1	1	78.932198100	78.991653226	1283.2	1859.3	Melanerpes_cactorum-ML213861.wav	D:\Andean\Picidae\Melanerpes_cactorum-ML213861.wav	3	a
-7	Spectrogram 1	1	79.008168539	79.064320602	995.1	3037.8	Melanerpes_cactorum-ML213861.wav	D:\Andean\Picidae\Melanerpes_cactorum-ML213861.wav	3	b

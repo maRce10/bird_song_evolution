@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	98.582015883	98.633213352	1907.2	7106.2	Elaenia_brachyptera-ML230406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_brachyptera-ML230406.wav	1	a
-2	Spectrogram 1	1	98.662940915	98.740562885	2586.4	4728.7	Elaenia_brachyptera-ML230406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_brachyptera-ML230406.wav	1	b
-3	Spectrogram 1	1	98.753775135	98.788457292	2299.1	4493.6	Elaenia_brachyptera-ML230406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_brachyptera-ML230406.wav	1	c
-4	Spectrogram 1	1	100.116288434	100.164182841	2011.7	7080.0	Elaenia_brachyptera-ML230406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_brachyptera-ML230406.wav	2	a
-5	Spectrogram 1	1	100.190607341	100.258320123	2612.6	4676.5	Elaenia_brachyptera-ML230406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_brachyptera-ML230406.wav	2	b
-6	Spectrogram 1	1	100.269873846	100.304562999	1802.7	4206.2	Elaenia_brachyptera-ML230406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_brachyptera-ML230406.wav	2	d
-7	Spectrogram 1	1	100.852045615	100.905713385	2142.3	7053.9	Elaenia_brachyptera-ML230406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_brachyptera-ML230406.wav	3	a
-8	Spectrogram 1	1	100.928834823	101.054351199	2220.7	4624.2	Elaenia_brachyptera-ML230406.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_brachyptera-ML230406.wav	3	e

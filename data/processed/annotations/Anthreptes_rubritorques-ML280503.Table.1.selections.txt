@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.231214378	0.336912379	5955.7	8088.7	Anthreptes_rubritorques-ML280503.wav	E:\Andean\Nectariniidae\Anthreptes_rubritorques-ML280503.wav	1	a
-2	Spectrogram 1	1	1.182496390	1.281588266	5623.3	8116.4	Anthreptes_rubritorques-ML280503.wav	E:\Andean\Nectariniidae\Anthreptes_rubritorques-ML280503.wav	2	a
-3	Spectrogram 1	1	2.127172277	2.213051903	5706.4	8061.0	Anthreptes_rubritorques-ML280503.wav	E:\Andean\Nectariniidae\Anthreptes_rubritorques-ML280503.wav	3	a

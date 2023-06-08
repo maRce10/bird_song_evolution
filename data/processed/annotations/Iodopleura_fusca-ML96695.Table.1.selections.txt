@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.671111736	7.067479241	4376.8	4903.1	Iodopleura_fusca-ML96695.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Iodopleura_fusca-ML96695.wav	1	a
-2	Spectrogram 1	1	9.927931402	10.324298907	4293.7	5041.6	Iodopleura_fusca-ML96695.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Iodopleura_fusca-ML96695.wav	2	b
-3	Spectrogram 1	1	11.156670668	11.526613672	4099.7	4986.2	Iodopleura_fusca-ML96695.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Iodopleura_fusca-ML96695.wav	2	c
-4	Spectrogram 1	1	13.085659192	13.534875698	4404.5	5013.9	Iodopleura_fusca-ML96695.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Iodopleura_fusca-ML96695.wav	2	d
-5	Spectrogram 1	1	14.657916962	15.067496717	4321.4	5013.9	Iodopleura_fusca-ML96695.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Iodopleura_fusca-ML96695.wav	2	b
-6	Spectrogram 1	1	17.194668994	17.617460999	4321.4	5041.6	Iodopleura_fusca-ML96695.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Iodopleura_fusca-ML96695.wav	2	b
-7	Spectrogram 1	1	27.647607380	28.043974885	4404.5	4930.8	Iodopleura_fusca-ML96695.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Iodopleura_fusca-ML96695.wav	3	a

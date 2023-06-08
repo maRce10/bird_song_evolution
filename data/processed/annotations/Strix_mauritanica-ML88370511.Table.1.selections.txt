@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.041184779	4.608368608	443.2	941.8	Strix_mauritanica-ML88370511.wav	D:\Andean\Strigidae\Strix_mauritanica-ML88370511.wav	1	a
-2	Spectrogram 1	1	12.624484672	12.825362278	304.7	886.4	Strix_mauritanica-ML88370511.wav	D:\Andean\Strigidae\Strix_mauritanica-ML88370511.wav	1	b
-3	Spectrogram 1	1	13.286199139	13.995178925	443.2	886.4	Strix_mauritanica-ML88370511.wav	D:\Andean\Strigidae\Strix_mauritanica-ML88370511.wav	1	c
-4	Spectrogram 1	1	18.973132639	19.491167867	443.2	969.5	Strix_mauritanica-ML88370511.wav	D:\Andean\Strigidae\Strix_mauritanica-ML88370511.wav	1	a
-5	Spectrogram 1	1	24.337303871	24.888760727	443.2	914.1	Strix_mauritanica-ML88370511.wav	D:\Andean\Strigidae\Strix_mauritanica-ML88370511.wav	1	a

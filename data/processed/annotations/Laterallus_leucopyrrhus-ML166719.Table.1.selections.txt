@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	178.533676509	184.941617839	387.8	4543.0	Laterallus_leucopyrrhus-ML166719.wav	D:\Andean\Rallidae\Laterallus_leucopyrrhus-ML166719.wav	1	a
-2	Spectrogram 1	1	194.521165414	199.119028472	360.1	4127.4	Laterallus_leucopyrrhus-ML166719.wav	D:\Andean\Rallidae\Laterallus_leucopyrrhus-ML166719.wav	2	a
-3	Spectrogram 1	1	215.011240188	217.098775714	415.5	4210.6	Laterallus_leucopyrrhus-ML166719.wav	D:\Andean\Rallidae\Laterallus_leucopyrrhus-ML166719.wav	3	a

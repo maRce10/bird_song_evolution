@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.571615939	6.178876599	1994.5	2936.3	Crypturellus_obsoletus-ML164251.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_obsoletus-ML164251.wav	1	a
-2	Spectrogram 1	1	19.043460112	19.585323470	1994.5	2908.6	Crypturellus_obsoletus-ML164251.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_obsoletus-ML164251.wav	2	a
-3	Spectrogram 1	1	30.758919608	31.300782966	1994.5	2936.3	Crypturellus_obsoletus-ML164251.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_obsoletus-ML164251.wav	3	a

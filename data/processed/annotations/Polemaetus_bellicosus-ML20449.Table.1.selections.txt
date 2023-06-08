@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	85.899459336	86.107444801	1186.5	2150.6	Polemaetus_bellicosus-ML20449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Polemaetus_bellicosus-ML20449.wav	1	a
-2	Spectrogram 1	1	86.269774920	86.481142263	1137.1	2150.6	Polemaetus_bellicosus-ML20449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Polemaetus_bellicosus-ML20449.wav	2	a
-3	Spectrogram 1	1	86.648545198	86.871749112	1236.0	2175.3	Polemaetus_bellicosus-ML20449.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Polemaetus_bellicosus-ML20449.wav	3	a

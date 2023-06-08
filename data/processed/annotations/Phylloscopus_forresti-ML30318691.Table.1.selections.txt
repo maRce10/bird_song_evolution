@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.784477354	0.944675887	3011.6	6782.6	Phylloscopus_forresti-ML30318691.wav	D:\Andean\Phylloscopidae\Phylloscopus_forresti-ML30318691.wav	1	a
-2	Spectrogram 1	1	1.780350694	1.947155353	2906.8	7201.6	Phylloscopus_forresti-ML30318691.wav	D:\Andean\Phylloscopidae\Phylloscopus_forresti-ML30318691.wav	2	a
-3	Spectrogram 1	1	2.848891426	3.020650679	3011.6	6808.8	Phylloscopus_forresti-ML30318691.wav	D:\Andean\Phylloscopidae\Phylloscopus_forresti-ML30318691.wav	3	a

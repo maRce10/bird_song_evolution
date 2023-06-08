@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.603284064	5.652332041	775.6	2659.3	Scytalopus_micropterus-ML78059.wav	D:\Andean\Rhinocryptidae\Scytalopus_micropterus-ML78059.wav	1	a
-2	Spectrogram 1	1	5.672184793	5.700212208	637.1	2105.3	Scytalopus_micropterus-ML78059.wav	D:\Andean\Rhinocryptidae\Scytalopus_micropterus-ML78059.wav	1	b
-3	Spectrogram 1	1	7.547304967	7.606863224	747.9	2770.1	Scytalopus_micropterus-ML78059.wav	D:\Andean\Rhinocryptidae\Scytalopus_micropterus-ML78059.wav	2	a
-4	Spectrogram 1	1	7.620876931	7.655911200	637.1	2271.5	Scytalopus_micropterus-ML78059.wav	D:\Andean\Rhinocryptidae\Scytalopus_micropterus-ML78059.wav	2	b
-5	Spectrogram 1	1	8.691975310	8.751533567	692.5	2770.1	Scytalopus_micropterus-ML78059.wav	D:\Andean\Rhinocryptidae\Scytalopus_micropterus-ML78059.wav	3	a
-6	Spectrogram 1	1	8.763211656	8.799413734	526.3	2382.3	Scytalopus_micropterus-ML78059.wav	D:\Andean\Rhinocryptidae\Scytalopus_micropterus-ML78059.wav	3	b

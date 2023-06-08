@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.841426144	0.913632590	1240.7	10714.8	Hirundo_dimidiata-ML278344.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_dimidiata-ML278344.wav	1	a
-2	Spectrogram 1	1	6.436456482	6.496874121	958.7	10263.7	Hirundo_dimidiata-ML278344.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Hirundo_dimidiata-ML278344.wav	1	b

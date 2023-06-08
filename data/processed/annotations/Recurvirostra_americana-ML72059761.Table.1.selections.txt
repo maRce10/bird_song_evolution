@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.204366568	0.302462521	415.5	3518.0	Recurvirostra_americana-ML72059761.wav	D:\Andean\Recurvirostridae\Recurvirostra_americana-ML72059761.wav	1	a
-2	Spectrogram 1	1	0.562883919	0.670322344	360.1	3628.8	Recurvirostra_americana-ML72059761.wav	D:\Andean\Recurvirostridae\Recurvirostra_americana-ML72059761.wav	2	a
-3	Spectrogram 1	1	0.888702619	0.987966381	332.4	3545.7	Recurvirostra_americana-ML72059761.wav	D:\Andean\Recurvirostridae\Recurvirostra_americana-ML72059761.wav	3	a

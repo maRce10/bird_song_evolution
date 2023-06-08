@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	31.671143435	31.847913764	1142.0	6065.1	Philydor_erythrocercum-ML75718261.wav	E:\Escritorio\Cantos\Furnariidae\Philydor_erythrocercum-ML75718261.wav	1	a
-2	Spectrogram 1	1	36.961750969	37.113773452	922.4	6038.1	Philydor_erythrocercum-ML75718261.wav	E:\Escritorio\Cantos\Furnariidae\Philydor_erythrocercum-ML75718261.wav	2	a
-3	Spectrogram 1	1	40.708444717	40.874608827	1120.1	6038.1	Philydor_erythrocercum-ML75718261.wav	E:\Escritorio\Cantos\Furnariidae\Philydor_erythrocercum-ML75718261.wav	3	a

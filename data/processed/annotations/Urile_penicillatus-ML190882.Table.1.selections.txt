@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	460.688719616	460.833527927	83.1	1329.6	Urile_penicillatus-ML190882.wav	D:\Andean\Phalacrocoracidae\Urile_penicillatus-ML190882.wav	1	a
-2	Spectrogram 1	1	461.071760955	461.309993983	55.4	1357.3	Urile_penicillatus-ML190882.wav	D:\Andean\Phalacrocoracidae\Urile_penicillatus-ML190882.wav	2	a
-3	Spectrogram 1	1	461.594939370	461.809816219	83.1	1246.5	Urile_penicillatus-ML190882.wav	D:\Andean\Phalacrocoracidae\Urile_penicillatus-ML190882.wav	3	a

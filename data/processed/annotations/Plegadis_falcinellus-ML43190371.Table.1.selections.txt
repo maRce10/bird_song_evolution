@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.534631087	0.751373419	166.2	3351.8	Plegadis_falcinellus-ML43190371.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Plegadis_falcinellus-ML43190371.wav	1	a
-2	Spectrogram 1	1	3.116273092	3.385996884	193.9	3351.8	Plegadis_falcinellus-ML43190371.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Plegadis_falcinellus-ML43190371.wav	2	b
-3	Spectrogram 1	1	4.195168258	4.445626065	193.9	3324.1	Plegadis_falcinellus-ML43190371.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Plegadis_falcinellus-ML43190371.wav	2	b
-4	Spectrogram 1	1	5.100669559	5.322228388	166.2	3351.8	Plegadis_falcinellus-ML43190371.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Plegadis_falcinellus-ML43190371.wav	2	a
-5	Spectrogram 1	1	7.355555591	7.543398946	249.3	2354.6	Plegadis_falcinellus-ML43190371.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Plegadis_falcinellus-ML43190371.wav	3	c

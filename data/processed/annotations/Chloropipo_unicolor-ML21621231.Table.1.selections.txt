@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.356810841	1.667884546	1454.1	7350.0	Chloropipo_unicolor-ML21621231.wav	C:\Users\pfmar\Downloads\Pipridae\Chloropipo_unicolor-ML21621231.wav	1	a
-4	Spectrogram 1	1	4.202803657	4.529320737	1374.8	7217.8	Chloropipo_unicolor-ML21621231.wav	C:\Users\pfmar\Downloads\Pipridae\Chloropipo_unicolor-ML21621231.wav	2	a
-5	Spectrogram 1	1	8.552744174	8.894704630	1454.1	5552.2	Chloropipo_unicolor-ML21621231.wav	C:\Users\pfmar\Downloads\Pipridae\Chloropipo_unicolor-ML21621231.wav	3	a
-6	Spectrogram 1	1	12.994109546	13.322832823	1454.1	6979.9	Chloropipo_unicolor-ML21621231.wav	C:\Users\pfmar\Downloads\Pipridae\Chloropipo_unicolor-ML21621231.wav	4	a
-7	Spectrogram 1	1	16.661136101	16.992065574	1348.4	5314.2	Chloropipo_unicolor-ML21621231.wav	C:\Users\pfmar\Downloads\Pipridae\Chloropipo_unicolor-ML21621231.wav	5	a

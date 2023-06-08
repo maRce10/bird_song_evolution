@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.136347105	8.286867198	560.593	910.964	Aburria_aburri-ML64088.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Aburria_aburri-ML64088.wav	1	a
-2	Spectrogram 1	1	8.515884430	11.361949577	513.877	3866.600	Aburria_aburri-ML64088.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Aburria_aburri-ML64088.wav	1	b
-3	Spectrogram 1	1	44.187475804	44.385721781	583.951	887.606	Aburria_aburri-ML64088.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Aburria_aburri-ML64088.wav	2	a
-4	Spectrogram 1	1	44.604101996	47.232573923	490.519	3877.600	Aburria_aburri-ML64088.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Aburria_aburri-ML64088.wav	2	b
-5	Spectrogram 1	1	70.814067013	71.067381316	607.309	1027.754	Aburria_aburri-ML64088.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Aburria_aburri-ML64088.wav	3	a
-6	Spectrogram 1	1	71.163651055	73.687815701	467.161	4022.200	Aburria_aburri-ML64088.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Aburria_aburri-ML64088.wav	3	b

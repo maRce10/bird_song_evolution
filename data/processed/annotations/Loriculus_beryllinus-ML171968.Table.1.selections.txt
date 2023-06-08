@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	126.295397085	126.346780679	2520.8	8005.6	Loriculus_beryllinus-ML171968.wav	D:\Andean\Psittaculidae\Loriculus_beryllinus-ML171968.wav	1	a
-2	Spectrogram 1	1	126.423856070	126.479910900	2797.8	7950.2	Loriculus_beryllinus-ML171968.wav	D:\Andean\Psittaculidae\Loriculus_beryllinus-ML171968.wav	1	a
-3	Spectrogram 1	1	126.575671235	126.641068537	3462.6	7977.9	Loriculus_beryllinus-ML171968.wav	D:\Andean\Psittaculidae\Loriculus_beryllinus-ML171968.wav	1	a
-4	Spectrogram 1	1	127.014767404	127.059144145	3130.2	8199.5	Loriculus_beryllinus-ML171968.wav	D:\Andean\Psittaculidae\Loriculus_beryllinus-ML171968.wav	2	a
-5	Spectrogram 1	1	127.208623692	127.255336050	3905.8	8061.0	Loriculus_beryllinus-ML171968.wav	D:\Andean\Psittaculidae\Loriculus_beryllinus-ML171968.wav	2	a
-6	Spectrogram 1	1	130.356527807	130.407911401	5235.5	7839.4	Loriculus_beryllinus-ML171968.wav	D:\Andean\Psittaculidae\Loriculus_beryllinus-ML171968.wav	3	b
-7	Spectrogram 1	1	130.632130722	130.690521170	3351.8	7950.2	Loriculus_beryllinus-ML171968.wav	D:\Andean\Psittaculidae\Loriculus_beryllinus-ML171968.wav	3	a
-8	Spectrogram 1	1	130.783945887	130.842336335	4099.7	7977.9	Loriculus_beryllinus-ML171968.wav	D:\Andean\Psittaculidae\Loriculus_beryllinus-ML171968.wav	3	a

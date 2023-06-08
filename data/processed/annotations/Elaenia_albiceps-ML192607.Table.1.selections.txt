@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	55.469847830	55.720880583	1724.3	4598.1	Elaenia_albiceps-ML192607.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_albiceps-ML192607.wav	1	a
-2	Spectrogram 1	1	60.308355774	60.559388527	1802.7	4363.0	Elaenia_albiceps-ML192607.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_albiceps-ML192607.wav	2	b
-3	Spectrogram 1	1	69.035038530	69.269555971	1593.7	4441.4	Elaenia_albiceps-ML192607.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_albiceps-ML192607.wav	3	c

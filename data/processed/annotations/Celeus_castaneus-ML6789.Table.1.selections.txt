@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	38.115459192	38.201338819	680.9	3744.8	Celeus_castaneus-ML6789.wav	D:\Andean\Picidae\Celeus_castaneus-ML6789.wav	1	a
-2	Spectrogram 1	1	38.260793944	38.353279695	628.5	3142.5	Celeus_castaneus-ML6789.wav	D:\Andean\Picidae\Celeus_castaneus-ML6789.wav	1	b
-3	Spectrogram 1	1	43.169144881	43.255024507	628.5	3352.0	Celeus_castaneus-ML6789.wav	D:\Andean\Picidae\Celeus_castaneus-ML6789.wav	2	a
-4	Spectrogram 1	1	43.340904133	43.393753134	628.5	3456.8	Celeus_castaneus-ML6789.wav	D:\Andean\Picidae\Celeus_castaneus-ML6789.wav	2	b
-5	Spectrogram 1	1	46.188144044	46.260811420	759.4	3299.6	Celeus_castaneus-ML6789.wav	D:\Andean\Picidae\Celeus_castaneus-ML6789.wav	3	a
-6	Spectrogram 1	1	46.333478796	46.432570672	680.9	3221.1	Celeus_castaneus-ML6789.wav	D:\Andean\Picidae\Celeus_castaneus-ML6789.wav	3	b

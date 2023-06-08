@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	84.119490602	84.218481986	708.4	3020.9	Merops_nubicoides-ML69153.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicoides-ML69153.wav	1	a
-2	Spectrogram 1	1	86.869588778	86.968580163	885.5	3020.9	Merops_nubicoides-ML69153.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicoides-ML69153.wav	2	a
-3	Spectrogram 1	1	87.435253832	87.537780622	686.3	2995.1	Merops_nubicoides-ML69153.wav	E:\Escritorio\Cantos\Meropidae\Merops_nubicoides-ML69153.wav	3	a

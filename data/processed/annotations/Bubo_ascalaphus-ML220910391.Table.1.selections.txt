@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.782414354	3.172175734	152.4	623.3	Bubo_ascalaphus-ML220910391.wav	D:\Andean\Strigidae\Bubo_ascalaphus-ML220910391.wav	1	a
-2	Spectrogram 1	1	3.357147236	3.720484116	124.7	554.0	Bubo_ascalaphus-ML220910391.wav	D:\Andean\Strigidae\Bubo_ascalaphus-ML220910391.wav	1	a
-3	Spectrogram 1	1	8.120163421	8.595804427	180.1	637.1	Bubo_ascalaphus-ML220910391.wav	D:\Andean\Strigidae\Bubo_ascalaphus-ML220910391.wav	2	a
-4	Spectrogram 1	1	13.954819635	14.285125889	180.1	526.3	Bubo_ascalaphus-ML220910391.wav	D:\Andean\Strigidae\Bubo_ascalaphus-ML220910391.wav	3	a
-5	Spectrogram 1	1	15.335499777	15.758291783	166.2	623.3	Bubo_ascalaphus-ML220910391.wav	D:\Andean\Strigidae\Bubo_ascalaphus-ML220910391.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	23.214835007	23.283735735	992.8	4833.2	Calidris_pusilla-ML191273.wav	D:\Andean\Scolopacidae\Calidris_pusilla-ML191273.wav	1	a
-2	Spectrogram 1	1	23.750859320	23.822095666	1227.9	4310.7	Calidris_pusilla-ML191273.wav	D:\Andean\Scolopacidae\Calidris_pusilla-ML191273.wav	2	a
-3	Spectrogram 1	1	24.633722894	24.708462668	992.8	4911.6	Calidris_pusilla-ML191273.wav	D:\Andean\Scolopacidae\Calidris_pusilla-ML191273.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.491497903	17.703900980	2101.2	3510.2	Pseudastur_albicollis-ML57336.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Pseudastur_albicollis-ML57336.wav	1	a
-2	Spectrogram 1	1	18.371562116	19.570437684	1928.1	3436.0	Pseudastur_albicollis-ML57336.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Pseudastur_albicollis-ML57336.wav	2	a
-3	Spectrogram 1	1	20.276038724	21.451241150	1977.6	3436.0	Pseudastur_albicollis-ML57336.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Pseudastur_albicollis-ML57336.wav	3	a

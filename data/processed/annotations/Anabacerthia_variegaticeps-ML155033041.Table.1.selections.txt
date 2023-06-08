@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	153.472547136	153.721570343	2020.5	7093.8	Anabacerthia_variegaticeps-ML155033041.wav	E:\Escritorio\Cantos\Nueva carpeta (2)\Furnariidae\Anabacerthia_variegaticeps-ML155033041.wav	1	a
-2	Spectrogram 1	1	157.287463394	157.511935018	2108.4	6940.0	Anabacerthia_variegaticeps-ML155033041.wav	E:\Escritorio\Cantos\Nueva carpeta (2)\Furnariidae\Anabacerthia_variegaticeps-ML155033041.wav	2	a
-3	Spectrogram 1	1	160.776459133	161.018467602	2174.3	6742.4	Anabacerthia_variegaticeps-ML155033041.wav	E:\Escritorio\Cantos\Nueva carpeta (2)\Furnariidae\Anabacerthia_variegaticeps-ML155033041.wav	3	a

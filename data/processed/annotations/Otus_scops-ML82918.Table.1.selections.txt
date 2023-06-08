@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	19.919432485	20.212795291	1108.0	1883.7	Otus_scops-ML82918.wav	D:\Andean\Strigidae\Otus_scops-ML82918.wav	1	a
-2	Spectrogram 1	1	22.773052509	23.059747979	1052.6	1828.3	Otus_scops-ML82918.wav	D:\Andean\Strigidae\Otus_scops-ML82918.wav	1	b
-3	Spectrogram 1	1	25.593335851	25.893365994	1135.7	1828.3	Otus_scops-ML82918.wav	D:\Andean\Strigidae\Otus_scops-ML82918.wav	1	c

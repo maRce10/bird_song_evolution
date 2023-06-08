@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.050173485	18.094228146	887.6	1238.0	Laniarius_nigerrimus-ML285367851.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_nigerrimus-ML285367851.wav	1	a
-2	Spectrogram 1	1	18.116255477	18.231898964	981.0	2148.9	Laniarius_nigerrimus-ML285367851.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_nigerrimus-ML285367851.wav	1	b
-3	Spectrogram 1	1	18.843157391	18.885376442	887.6	1308.1	Laniarius_nigerrimus-ML285367851.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_nigerrimus-ML285367851.wav	2	a
-4	Spectrogram 1	1	18.911074994	19.019376037	1051.1	2148.9	Laniarius_nigerrimus-ML285367851.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_nigerrimus-ML285367851.wav	2	b
-5	Spectrogram 1	1	19.630205413	19.666917631	864.2	1261.3	Laniarius_nigerrimus-ML285367851.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_nigerrimus-ML285367851.wav	3	a
-6	Spectrogram 1	1	19.696287405	19.800917226	1051.1	2219.0	Laniarius_nigerrimus-ML285367851.wav	C:\Users\User\Downloads\Malaconotidae\Malaconotidae\Laniarius_nigerrimus-ML285367851.wav	3	b

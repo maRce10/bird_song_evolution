@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.926150812	2.011254131	1507.9	1977.6	Melanitta_nigra-ML240574911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Melanitta_nigra-ML240574911.wav	1	a
-2	Spectrogram 1	1	2.319753661	2.408402951	1532.6	2076.5	Melanitta_nigra-ML240574911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Melanitta_nigra-ML240574911.wav	2	a
-3	Spectrogram 1	1	2.702718595	2.791367886	1285.4	1952.9	Melanitta_nigra-ML240574911.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Melanitta_nigra-ML240574911.wav	3	b

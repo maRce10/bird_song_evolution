@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	41.059922115	42.024416377	8448.8	8975.1	Prunella_immaculata-ML239298021.wav	D:\Andean\Prunellidae\Prunella_immaculata-ML239298021.wav	1	a
-2	Spectrogram 1	1	42.064053128	42.513269633	7562.4	8919.7	Prunella_immaculata-ML239298021.wav	D:\Andean\Prunellidae\Prunella_immaculata-ML239298021.wav	1	b
-3	Spectrogram 1	1	43.490976146	44.455470408	7756.3	8725.8	Prunella_immaculata-ML239298021.wav	D:\Andean\Prunellidae\Prunella_immaculata-ML239298021.wav	2	a
-4	Spectrogram 1	1	44.475288783	44.865050163	7700.9	8892.0	Prunella_immaculata-ML239298021.wav	D:\Andean\Prunellidae\Prunella_immaculata-ML239298021.wav	2	b
-5	Spectrogram 1	1	48.596791577	49.673589965	7811.7	8698.1	Prunella_immaculata-ML239298021.wav	D:\Andean\Prunellidae\Prunella_immaculata-ML239298021.wav	3	a
-6	Spectrogram 1	1	49.693408341	50.063351345	7894.8	9058.2	Prunella_immaculata-ML239298021.wav	D:\Andean\Prunellidae\Prunella_immaculata-ML239298021.wav	3	b

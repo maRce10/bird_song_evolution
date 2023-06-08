@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.954782932	3.040662558	916.6	5551.8	Dendrocoptes_auriceps-ML97624861.wav	D:\Andean\Picidae\Dendrocoptes_auriceps-ML97624861.wav	1	a
-2	Spectrogram 1	1	5.088561334	5.167834835	1099.9	5604.2	Dendrocoptes_auriceps-ML97624861.wav	D:\Andean\Picidae\Dendrocoptes_auriceps-ML97624861.wav	2	a
-3	Spectrogram 1	1	6.759910980	6.845790606	1152.3	5630.3	Dendrocoptes_auriceps-ML97624861.wav	D:\Andean\Picidae\Dendrocoptes_auriceps-ML97624861.wav	3	a

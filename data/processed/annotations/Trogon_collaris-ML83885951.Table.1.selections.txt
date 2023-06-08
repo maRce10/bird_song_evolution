@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	102.777661041	103.094755045	600.9	2090.0	Trogon_collaris-ML83885951.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_collaris-ML83885951.wav	1	a
-2	Spectrogram 1	1	103.438273550	103.722336928	600.9	2090.0	Trogon_collaris-ML83885951.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_collaris-ML83885951.wav	1	a
-3	Spectrogram 1	1	111.033568065	111.357268194	548.6	2011.7	Trogon_collaris-ML83885951.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_collaris-ML83885951.wav	2	b
-4	Spectrogram 1	1	111.696335545	111.983616549	496.4	2090.0	Trogon_collaris-ML83885951.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_collaris-ML83885951.wav	2	c
-5	Spectrogram 1	1	118.073706189	118.382007754	600.9	2116.2	Trogon_collaris-ML83885951.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_collaris-ML83885951.wav	3	a
-6	Spectrogram 1	1	118.744028532	119.003282121	600.9	2116.2	Trogon_collaris-ML83885951.wav	C:\Users\pfmar\Downloads\Andean\Trogonidae\Trogon_collaris-ML83885951.wav	3	a

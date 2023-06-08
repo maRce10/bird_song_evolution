@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.785931817	6.888699006	1357.3	4764.6	Hemitriccus_kaempferi-ML166759.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_kaempferi-ML166759.wav	1	a
-2	Spectrogram 1	1	10.144270178	10.251708602	1357.3	5180.1	Hemitriccus_kaempferi-ML166759.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_kaempferi-ML166759.wav	2	b
-3	Spectrogram 1	1	17.229878576	17.332645765	1191.1	4653.8	Hemitriccus_kaempferi-ML166759.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_kaempferi-ML166759.wav	3	a

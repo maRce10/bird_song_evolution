@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.182744175	7.577750417	138.5	1579.0	Nipponia_nippon-ML2428.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Nipponia_nippon-ML2428.wav	1	a
-2	Spectrogram 1	1	9.501494080	9.930892210	138.5	1551.3	Nipponia_nippon-ML2428.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Nipponia_nippon-ML2428.wav	2	a
-3	Spectrogram 1	1	12.044852237	12.394976866	193.9	1551.3	Nipponia_nippon-ML2428.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Nipponia_nippon-ML2428.wav	3	a

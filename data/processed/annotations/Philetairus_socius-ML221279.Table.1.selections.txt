@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	26.634245327	26.678622068	811.8	2802.1	Philetairus_socius-ML221279.wav	D:\Andean\Ploceidae\Philetairus_socius-ML221279.wav	1	a
-2	Spectrogram 1	1	28.341582028	28.381287533	733.3	2435.5	Philetairus_socius-ML221279.wav	D:\Andean\Ploceidae\Philetairus_socius-ML221279.wav	2	a
-3	Spectrogram 1	1	30.524361900	30.573907838	628.5	2671.1	Philetairus_socius-ML221279.wav	D:\Andean\Ploceidae\Philetairus_socius-ML221279.wav	3	a

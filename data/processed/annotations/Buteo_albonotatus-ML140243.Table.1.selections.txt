@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.768979890	10.230093824	769.1	3181.3	Buteo_albonotatus-ML140243.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_albonotatus-ML140243.wav	1	a
-2	Spectrogram 1	1	25.755319074	27.601440117	664.2	2936.6	Buteo_albonotatus-ML140243.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_albonotatus-ML140243.wav	2	a
-3	Spectrogram 1	1	37.956097074	39.787870026	769.1	3006.5	Buteo_albonotatus-ML140243.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_albonotatus-ML140243.wav	3	a

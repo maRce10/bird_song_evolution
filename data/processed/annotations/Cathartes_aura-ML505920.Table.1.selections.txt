@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.871955532	3.973917251	74.2	1038.2	Cathartes_aura-ML505920.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Cathartes_aura-ML505920.wav	1	a
-2	Spectrogram 1	1	5.567710849	6.194872342	173.0	1409.0	Cathartes_aura-ML505920.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Cathartes_aura-ML505920.wav	2	b
-3	Spectrogram 1	1	6.464162023	7.140929510	123.6	1483.2	Cathartes_aura-ML505920.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Cathartes_aura-ML505920.wav	2	b
-4	Spectrogram 1	1	7.367699767	7.601556595	49.4	1038.2	Cathartes_aura-ML505920.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cathartidae\Cathartes_aura-ML505920.wav	2	c

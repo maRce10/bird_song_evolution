@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.513154017	1.615680808	2064.4	6566.7	Spinus_thibetanus-ML223892181.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_thibetanus-ML223892181.wav	1	a
-2	Spectrogram 1	1	3.408131945	3.489446297	2635.5	6061.6	Spinus_thibetanus-ML223892181.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_thibetanus-ML223892181.wav	2	a
-3	Spectrogram 1	1	4.019757284	4.118748668	2218.2	5776.0	Spinus_thibetanus-ML223892181.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_thibetanus-ML223892181.wav	3	a

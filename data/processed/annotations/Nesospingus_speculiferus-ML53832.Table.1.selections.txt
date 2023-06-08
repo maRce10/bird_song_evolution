@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	190.664257802	190.723712927	1052.6	7700.9	Nesospingus_speculiferus-ML53832.wav	E:\Andean\Nesospingidae\Nesospingus_speculiferus-ML53832.wav	1	a
-2	Spectrogram 1	1	192.497457512	192.537094263	1108.0	7423.9	Nesospingus_speculiferus-ML53832.wav	E:\Andean\Nesospingidae\Nesospingus_speculiferus-ML53832.wav	2	a
-3	Spectrogram 1	1	195.663499404	195.710211762	1080.3	7396.2	Nesospingus_speculiferus-ML53832.wav	E:\Andean\Nesospingidae\Nesospingus_speculiferus-ML53832.wav	3	a

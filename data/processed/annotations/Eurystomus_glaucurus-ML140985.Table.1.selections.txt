@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	113.937388734	114.585359380	537.2	3947.5	Eurystomus_glaucurus-ML140985.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Eurystomus_glaucurus-ML140985.wav	1	a
-2	Spectrogram 1	1	128.379970468	128.980215231	443.8	3900.8	Eurystomus_glaucurus-ML140985.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Eurystomus_glaucurus-ML140985.wav	2	a
-3	Spectrogram 1	1	157.740238289	158.173442460	513.9	3900.8	Eurystomus_glaucurus-ML140985.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Eurystomus_glaucurus-ML140985.wav	3	a

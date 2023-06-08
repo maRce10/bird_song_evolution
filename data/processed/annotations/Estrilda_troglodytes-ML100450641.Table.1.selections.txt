@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.014913772	2.158091422	2195.7	5722.7	Estrilda_troglodytes-ML100450641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_troglodytes-ML100450641.wav	1	a
-2	Spectrogram 1	1	2.844609896	2.991458768	2335.8	5956.3	Estrilda_troglodytes-ML100450641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Estrilda_troglodytes-ML100450641.wav	2	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.298959070	5.844548718	1691.100	2989.831	Ampelioides_tschudii-ML110411.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Ampelioides_tschudii-ML110411.wav	1	a
-2	Spectrogram 1	1	7.675889327	8.213271128	1713.000	3052.700	Ampelioides_tschudii-ML110411.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Ampelioides_tschudii-ML110411.wav	2	a
-3	Spectrogram 1	1	10.392251267	10.907253565	1800.900	2966.472	Ampelioides_tschudii-ML110411.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Ampelioides_tschudii-ML110411.wav	3	a

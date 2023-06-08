@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.135666710	6.318967220	2444.5	5351.4	Prinia_atrogularis-ML236409.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_atrogularis-ML236409.wav	1	a
-2	Spectrogram 1	1	7.207296943	7.385109413	2345.4	4888.9	Prinia_atrogularis-ML236409.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_atrogularis-ML236409.wav	2	a
-3	Spectrogram 1	1	8.223497943	8.401310414	2510.5	5021.1	Prinia_atrogularis-ML236409.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Prinia_atrogularis-ML236409.wav	3	a

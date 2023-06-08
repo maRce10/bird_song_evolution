@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	57.736676965	58.024449561	997.2	4736.9	Nothoprocta_ornata-ML140722.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_ornata-ML140722.wav	1	a
-2	Spectrogram 1	1	78.992216389	79.309860426	2603.9	4764.6	Nothoprocta_ornata-ML140722.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothoprocta_ornata-ML140722.wav	2	b

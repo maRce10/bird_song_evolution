@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.059841247	4.093320126	1986.300	11334.400	Iridosornis_reinhardti-ML77534781.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Iridosornis_reinhardti-ML77534781.wav	1	a
-2	Spectrogram 1	1	5.466477947	5.497565478	2404.900	10846.000	Iridosornis_reinhardti-ML77534781.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Iridosornis_reinhardti-ML77534781.wav	2	a
-3	Spectrogram 1	1	7.363882755	7.397361634	2404.900	12345.900	Iridosornis_reinhardti-ML77534781.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Iridosornis_reinhardti-ML77534781.wav	3	a
-4	Spectrogram 1	1	7.828086483	7.863956711	1567.800	11439.000	Iridosornis_reinhardti-ML77534781.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Iridosornis_reinhardti-ML77534781.wav	4	a
-5	Spectrogram 1	1	9.372897615	9.403985145	2021.200	11439.000	Iridosornis_reinhardti-ML77534781.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Iridosornis_reinhardti-ML77534781.wav	5	a

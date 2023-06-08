@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.279608518	14.389519536	5190.3	6821.8	Alcedo_quadribrachys-ML141050.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_quadribrachys-ML141050.wav	1	a
-2	Spectrogram 1	1	14.731089162	14.841000180	5190.3	7019.6	Alcedo_quadribrachys-ML141050.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Alcedo_quadribrachys-ML141050.wav	2	b

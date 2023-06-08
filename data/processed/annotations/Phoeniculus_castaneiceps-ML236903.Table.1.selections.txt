@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.176944314	2.381734192	942.8	1728.4	Phoeniculus_castaneiceps-ML236903.wav	D:\Andean\Phoeniculidae\Phoeniculus_castaneiceps-ML236903.wav	1	a
-2	Spectrogram 1	1	2.616251633	2.807829260	1047.5	1780.8	Phoeniculus_castaneiceps-ML236903.wav	D:\Andean\Phoeniculidae\Phoeniculus_castaneiceps-ML236903.wav	1	a
-3	Spectrogram 1	1	3.029134450	3.227318203	1178.4	1806.9	Phoeniculus_castaneiceps-ML236903.wav	D:\Andean\Phoeniculidae\Phoeniculus_castaneiceps-ML236903.wav	1	a
-5	Spectrogram 1	1	3.451926456	3.656716333	1152.3	1754.6	Phoeniculus_castaneiceps-ML236903.wav	D:\Andean\Phoeniculidae\Phoeniculus_castaneiceps-ML236903.wav	1	a
-6	Spectrogram 1	1	3.891233774	4.086114464	1047.5	1728.4	Phoeniculus_castaneiceps-ML236903.wav	D:\Andean\Phoeniculidae\Phoeniculus_castaneiceps-ML236903.wav	1	a
-7	Spectrogram 1	1	4.317328841	4.528724844	1152.3	1676.0	Phoeniculus_castaneiceps-ML236903.wav	D:\Andean\Phoeniculidae\Phoeniculus_castaneiceps-ML236903.wav	1	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.758317802	6.150747933	3448.100	3931.200	Chlorophonia_flavirostris-ML69597581.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chlorophonia_flavirostris-ML69597581.wav	1	a
-2	Spectrogram 1	1	11.704402191	12.269918795	3288.651	3953.200	Chlorophonia_flavirostris-ML69597581.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chlorophonia_flavirostris-ML69597581.wav	2	a
-3	Spectrogram 1	1	20.462533147	20.945925308	3360.200	3849.245	Chlorophonia_flavirostris-ML69597581.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Chlorophonia_flavirostris-ML69597581.wav	3	b

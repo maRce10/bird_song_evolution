@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.802910841	14.934873254	2135.0	3721.6	Machaeropterus_regulus-ML54986.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_regulus-ML54986.wav	1	a
-2	Spectrogram 1	1	26.590269190	26.704714468	2135.0	3741.2	Machaeropterus_regulus-ML54986.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_regulus-ML54986.wav	2	a
-3	Spectrogram 1	1	52.815005421	52.931786317	2056.7	3682.5	Machaeropterus_regulus-ML54986.wav	C:\Users\pfmar\Downloads\Pipridae\Machaeropterus_regulus-ML54986.wav	3	a

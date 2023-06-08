@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.188936737	3.298534341	1142.0	1647.2	Pogoniulus_chrysoconus-ML210727341.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_chrysoconus-ML210727341.wav	1	a
-2	Spectrogram 1	1	3.959655372	4.062182163	1142.0	1559.3	Pogoniulus_chrysoconus-ML210727341.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_chrysoconus-ML210727341.wav	2	a
-3	Spectrogram 1	1	4.695019872	4.797546662	1098.1	1537.4	Pogoniulus_chrysoconus-ML210727341.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Pogoniulus_chrysoconus-ML210727341.wav	3	a

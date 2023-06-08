@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	12.523560081	12.576409082	4155.2	4986.2	Prunella_himalayana-ML23586.wav	D:\Andean\Prunellidae\Prunella_himalayana-ML23586.wav	1	a
-2	Spectrogram 1	1	12.655682583	12.741562209	3739.6	4155.2	Prunella_himalayana-ML23586.wav	D:\Andean\Prunellidae\Prunella_himalayana-ML23586.wav	1	b
-3	Spectrogram 1	1	14.241152603	14.290698541	3933.5	4598.4	Prunella_himalayana-ML23586.wav	D:\Andean\Prunellidae\Prunella_himalayana-ML23586.wav	2	a
-4	Spectrogram 1	1	14.360062854	14.459154730	3628.8	4099.7	Prunella_himalayana-ML23586.wav	D:\Andean\Prunellidae\Prunella_himalayana-ML23586.wav	2	b
-5	Spectrogram 1	1	15.608620495	15.644954183	4044.3	4709.2	Prunella_himalayana-ML23586.wav	D:\Andean\Prunellidae\Prunella_himalayana-ML23586.wav	3	a
-6	Spectrogram 1	1	15.724227684	15.820016497	3628.8	4182.9	Prunella_himalayana-ML23586.wav	D:\Andean\Prunellidae\Prunella_himalayana-ML23586.wav	3	b

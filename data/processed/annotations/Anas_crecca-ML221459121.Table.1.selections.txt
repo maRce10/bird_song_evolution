@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	28.616257861	28.705877615	1903.4	2694.5	Anas_crecca-ML221459121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_crecca-ML221459121.wav	1	a
-2	Spectrogram 1	1	29.226686747	29.321379316	1854.0	2694.5	Anas_crecca-ML221459121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_crecca-ML221459121.wav	2	a
-3	Spectrogram 1	1	71.198860979	71.285098855	1977.6	2743.9	Anas_crecca-ML221459121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_crecca-ML221459121.wav	3	a

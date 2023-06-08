@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.725506680	4.235739759	3534.9	5586.7	Apus_salimalii-ML30547711.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_salimalii-ML30547711.wav	1	a
-2	Spectrogram 1	1	4.515659296	4.901877390	3658.5	5388.9	Apus_salimalii-ML30547711.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Apus_salimalii-ML30547711.wav	2	

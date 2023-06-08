@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	39.803615693	39.845656815	1994.5	5429.4	Todus_angustirostris-ML6609.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_angustirostris-ML6609.wav	1	a
-2	Spectrogram 1	1	40.284752985	40.438903767	1274.2	4709.2	Todus_angustirostris-ML6609.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_angustirostris-ML6609.wav	1	b
-3	Spectrogram 1	1	45.273346862	45.308381130	1828.3	4986.2	Todus_angustirostris-ML6609.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_angustirostris-ML6609.wav	2	c
-4	Spectrogram 1	1	45.742806064	45.934326733	1163.4	4238.3	Todus_angustirostris-ML6609.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_angustirostris-ML6609.wav	2	d
-5	Spectrogram 1	1	48.321923826	48.356958095	1745.2	5540.2	Todus_angustirostris-ML6609.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_angustirostris-ML6609.wav	3	e
-6	Spectrogram 1	1	48.758684378	48.940862575	1191.1	4847.7	Todus_angustirostris-ML6609.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_angustirostris-ML6609.wav	3	f

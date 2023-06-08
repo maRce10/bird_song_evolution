@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.982794778	5.953895165	692.5	1634.4	Nyctibius_jamaicensis-ML164642.wav	E:\Andean\Nyctibiidae\Nyctibius_jamaicensis-ML164642.wav	1	a
-2	Spectrogram 1	1	6.066199291	6.244564668	609.4	1662.1	Nyctibius_jamaicensis-ML164642.wav	E:\Andean\Nyctibiidae\Nyctibius_jamaicensis-ML164642.wav	1	b
-3	Spectrogram 1	1	6.409717795	6.621113798	526.3	1495.9	Nyctibius_jamaicensis-ML164642.wav	E:\Andean\Nyctibiidae\Nyctibius_jamaicensis-ML164642.wav	1	b
-4	Spectrogram 1	1	56.304088207	57.242157969	747.9	1634.4	Nyctibius_jamaicensis-ML164642.wav	E:\Andean\Nyctibiidae\Nyctibius_jamaicensis-ML164642.wav	2	a
-5	Spectrogram 1	1	57.380886596	57.546039723	664.8	1551.3	Nyctibius_jamaicensis-ML164642.wav	E:\Andean\Nyctibiidae\Nyctibius_jamaicensis-ML164642.wav	2	b
-6	Spectrogram 1	1	100.435972617	101.413679129	775.6	1579.0	Nyctibius_jamaicensis-ML164642.wav	E:\Andean\Nyctibiidae\Nyctibius_jamaicensis-ML164642.wav	3	a
-7	Spectrogram 1	1	101.545801631	101.724167008	775.6	1634.4	Nyctibius_jamaicensis-ML164642.wav	E:\Andean\Nyctibiidae\Nyctibius_jamaicensis-ML164642.wav	3	b
-8	Spectrogram 1	1	101.995018137	102.140352888	747.9	1662.1	Nyctibius_jamaicensis-ML164642.wav	E:\Andean\Nyctibiidae\Nyctibius_jamaicensis-ML164642.wav	3	b

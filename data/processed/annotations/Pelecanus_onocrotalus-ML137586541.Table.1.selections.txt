@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.446741393	2.021474275	110.8	2216.1	Pelecanus_onocrotalus-ML137586541.wav	D:\Andean\Pelecanidae\Pelecanus_onocrotalus-ML137586541.wav	1	a
-2	Spectrogram 1	1	6.652367959	6.989280338	110.8	2077.6	Pelecanus_onocrotalus-ML137586541.wav	D:\Andean\Pelecanidae\Pelecanus_onocrotalus-ML137586541.wav	2	a
-3	Spectrogram 1	1	9.302835630	9.679384760	83.1	2105.3	Pelecanus_onocrotalus-ML137586541.wav	D:\Andean\Pelecanidae\Pelecanus_onocrotalus-ML137586541.wav	3	a

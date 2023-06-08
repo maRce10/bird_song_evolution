@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.866313409	5.295711540	2216.1	4681.5	Myiagra_ruficollis-ML54084991.wav	E:\Andean\Monarchidae\Myiagra_ruficollis-ML54084991.wav	1	a
-2	Spectrogram 1	1	5.797777046	6.227175177	2243.8	4543.0	Myiagra_ruficollis-ML54084991.wav	E:\Andean\Monarchidae\Myiagra_ruficollis-ML54084991.wav	1	a
-3	Spectrogram 1	1	6.947242811	7.409671566	2382.3	4543.0	Myiagra_ruficollis-ML54084991.wav	E:\Andean\Monarchidae\Myiagra_ruficollis-ML54084991.wav	1	a
-5	Spectrogram 1	1	16.072441929	16.488627809	2493.1	4570.7	Myiagra_ruficollis-ML54084991.wav	E:\Andean\Monarchidae\Myiagra_ruficollis-ML54084991.wav	2	a
-6	Spectrogram 1	1	18.272281581	18.662042961	2410.0	4626.1	Myiagra_ruficollis-ML54084991.wav	E:\Andean\Monarchidae\Myiagra_ruficollis-ML54084991.wav	2	a
-7	Spectrogram 1	1	22.008376067	22.444380323	2382.3	4570.7	Myiagra_ruficollis-ML54084991.wav	E:\Andean\Monarchidae\Myiagra_ruficollis-ML54084991.wav	3	a
-8	Spectrogram 1	1	22.834141703	23.276752083	2326.9	4432.2	Myiagra_ruficollis-ML54084991.wav	E:\Andean\Monarchidae\Myiagra_ruficollis-ML54084991.wav	3	a
-9	Spectrogram 1	1	23.990213592	24.432823973	2299.2	4487.6	Myiagra_ruficollis-ML54084991.wav	E:\Andean\Monarchidae\Myiagra_ruficollis-ML54084991.wav	3	a

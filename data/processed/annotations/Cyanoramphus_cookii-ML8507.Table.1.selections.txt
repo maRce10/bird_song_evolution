@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.316070577	7.375525703	1523.6	3545.7	Cyanoramphus_cookii-ML8507.wav	D:\Andean\Psittaculidae\Cyanoramphus_cookii-ML8507.wav	1	a
-2	Spectrogram 1	1	7.433329298	7.489481361	1385.1	3545.7	Cyanoramphus_cookii-ML8507.wav	D:\Andean\Psittaculidae\Cyanoramphus_cookii-ML8507.wav	2	a
-3	Spectrogram 1	1	7.557194143	7.614997737	1246.5	3545.7	Cyanoramphus_cookii-ML8507.wav	D:\Andean\Psittaculidae\Cyanoramphus_cookii-ML8507.wav	3	a

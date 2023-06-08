@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.859839590	0.944386527	2768.6	3361.9	Nisaetus_alboniger-ML80612361.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_alboniger-ML80612361.wav	1	a
-2	Spectrogram 1	1	1.093189136	1.805074346	2002.3	3510.2	Nisaetus_alboniger-ML80612361.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_alboniger-ML80612361.wav	1	b
-3	Spectrogram 1	1	5.312638360	5.388730603	2818.0	3510.2	Nisaetus_alboniger-ML80612361.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_alboniger-ML80612361.wav	2	a
-4	Spectrogram 1	1	5.603479823	5.691408638	2768.6	3559.6	Nisaetus_alboniger-ML80612361.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_alboniger-ML80612361.wav	2	a
-5	Spectrogram 1	1	5.901085042	6.560551151	2002.3	3708.0	Nisaetus_alboniger-ML80612361.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_alboniger-ML80612361.wav	2	b

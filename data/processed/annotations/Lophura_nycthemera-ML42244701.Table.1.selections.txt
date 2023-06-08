@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.971100387	1.139556577	156.7	548.5	Lophura_nycthemera-ML42244701.wav	D:\Andean\Phasianidae\Lophura_nycthemera-ML42244701.wav	1	a
-2	Spectrogram 1	1	1.179193327	1.298103579	195.9	842.3	Lophura_nycthemera-ML42244701.wav	D:\Andean\Phasianidae\Lophura_nycthemera-ML42244701.wav	1	b
-3	Spectrogram 1	1	1.727501709	1.823290523	215.5	646.4	Lophura_nycthemera-ML42244701.wav	D:\Andean\Phasianidae\Lophura_nycthemera-ML42244701.wav	2	a
-4	Spectrogram 1	1	1.952109962	2.100747776	176.3	626.8	Lophura_nycthemera-ML42244701.wav	D:\Andean\Phasianidae\Lophura_nycthemera-ML42244701.wav	2	b
-5	Spectrogram 1	1	2.586297970	2.658965346	274.2	940.2	Lophura_nycthemera-ML42244701.wav	D:\Andean\Phasianidae\Lophura_nycthemera-ML42244701.wav	3	a
-6	Spectrogram 1	1	2.758057222	2.926513412	176.3	783.5	Lophura_nycthemera-ML42244701.wav	D:\Andean\Phasianidae\Lophura_nycthemera-ML42244701.wav	3	b

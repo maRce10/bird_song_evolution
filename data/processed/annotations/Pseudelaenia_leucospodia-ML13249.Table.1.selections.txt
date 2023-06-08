@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	103.007090912	103.073152163	1358.5	5799.9	Pseudelaenia_leucospodia-ML13249.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudelaenia_leucospodia-ML13249.wav	1	a
-2	Spectrogram 1	1	103.110311616	103.178850164	992.8	6061.1	Pseudelaenia_leucospodia-ML13249.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudelaenia_leucospodia-ML13249.wav	1	b
-3	Spectrogram 1	1	104.885177744	104.942155573	836.0	6583.6	Pseudelaenia_leucospodia-ML13249.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudelaenia_leucospodia-ML13249.wav	2	a
-4	Spectrogram 1	1	104.978489261	105.051982403	1045.0	5956.6	Pseudelaenia_leucospodia-ML13249.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudelaenia_leucospodia-ML13249.wav	2	b
-5	Spectrogram 1	1	108.448237008	108.512646727	679.3	7210.7	Pseudelaenia_leucospodia-ML13249.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudelaenia_leucospodia-ML13249.wav	3	a
-6	Spectrogram 1	1	108.546503118	108.621647791	679.3	6479.1	Pseudelaenia_leucospodia-ML13249.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Pseudelaenia_leucospodia-ML13249.wav	3	b

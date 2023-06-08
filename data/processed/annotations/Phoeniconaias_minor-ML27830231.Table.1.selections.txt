@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.162678015	1.261769891	277.0	3324.1	Phoeniconaias_minor-ML27830231.wav	D:\Andean\Phoenicopteridae\Phoeniconaias_minor-ML27830231.wav	1	a
-2	Spectrogram 1	1	4.974412188	5.086716314	193.9	4432.2	Phoeniconaias_minor-ML27830231.wav	D:\Andean\Phoenicopteridae\Phoeniconaias_minor-ML27830231.wav	2	a
-3	Spectrogram 1	1	8.662400450	8.781310702	110.8	3268.7	Phoeniconaias_minor-ML27830231.wav	D:\Andean\Phoenicopteridae\Phoeniconaias_minor-ML27830231.wav	3	a
-4	Spectrogram 1	1	8.853978078	8.992706705	110.8	3324.1	Phoeniconaias_minor-ML27830231.wav	D:\Andean\Phoenicopteridae\Phoeniconaias_minor-ML27830231.wav	3	a

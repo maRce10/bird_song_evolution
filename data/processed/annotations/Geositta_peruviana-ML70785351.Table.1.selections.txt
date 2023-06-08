@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.769936258	1.897431666	2262.1	3997.1	Geositta_peruviana-ML70785351.wav	E:\Escritorio\Cantos\Furnariidae\Geositta_peruviana-ML70785351.wav	1	a
-2	Spectrogram 1	1	4.904836469	5.024832147	2328.0	4194.8	Geositta_peruviana-ML70785351.wav	E:\Escritorio\Cantos\Furnariidae\Geositta_peruviana-ML70785351.wav	2	a
-3	Spectrogram 1	1	6.809767865	6.939763183	2240.1	4019.1	Geositta_peruviana-ML70785351.wav	E:\Escritorio\Cantos\Furnariidae\Geositta_peruviana-ML70785351.wav	3	a

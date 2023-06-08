@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	127.829149715	127.939060733	370.8	5314.7	Accipiter_gentilis-ML110169.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_gentilis-ML110169.wav	1	a
-2	Spectrogram 1	1	128.086172404	128.201156238	395.5	5314.7	Accipiter_gentilis-ML110169.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_gentilis-ML110169.wav	2	a
-3	Spectrogram 1	1	128.346576970	128.468324559	370.8	5314.7	Accipiter_gentilis-ML110169.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_gentilis-ML110169.wav	3	a

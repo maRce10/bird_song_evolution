@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	21.613732457	21.702381748	148.3	4375.4	Spatula_clypeata-ML43121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_clypeata-ML43121.wav	1	a
-2	Spectrogram 1	1	22.768339717	22.832167206	123.6	4573.2	Spatula_clypeata-ML43121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_clypeata-ML43121.wav	2	a
-3	Spectrogram 1	1	23.034287588	23.112298964	222.5	4795.6	Spatula_clypeata-ML43121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_clypeata-ML43121.wav	2	a

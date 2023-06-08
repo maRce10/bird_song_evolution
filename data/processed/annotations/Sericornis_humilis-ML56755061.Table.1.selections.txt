@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.412589053	0.449789705	6179.1	9392.6	Sericornis_humilis-ML56755061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Acanthizidae\Acanthizidae\Sericornis_humilis-ML56755061.wav	1	a
-2	Spectrogram 1	1	0.498826929	0.544482275	6154.4	9417.4	Sericornis_humilis-ML56755061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Acanthizidae\Acanthizidae\Sericornis_humilis-ML56755061.wav	1	a
-3	Spectrogram 1	1	0.999344796	1.045000142	6179.1	9689.3	Sericornis_humilis-ML56755061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Acanthizidae\Acanthizidae\Sericornis_humilis-ML56755061.wav	2	a
-4	Spectrogram 1	1	1.092346427	1.134619896	6154.4	9689.3	Sericornis_humilis-ML56755061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Acanthizidae\Acanthizidae\Sericornis_humilis-ML56755061.wav	2	a
-5	Spectrogram 1	1	1.601318988	1.640210579	6376.8	9664.6	Sericornis_humilis-ML56755061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Acanthizidae\Acanthizidae\Sericornis_humilis-ML56755061.wav	3	a
-6	Spectrogram 1	1	1.696011558	1.733212210	6104.9	9689.3	Sericornis_humilis-ML56755061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Acanthizidae\Acanthizidae\Sericornis_humilis-ML56755061.wav	3	a

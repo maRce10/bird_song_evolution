@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.182767681	14.214657249	1359.6	4103.5	Charadrius_bicinctus-ML2978.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_bicinctus-ML2978.wav	1	a
-2	Spectrogram 1	1	14.944574015	14.983550153	1285.4	3881.0	Charadrius_bicinctus-ML2978.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_bicinctus-ML2978.wav	2	a
-3	Spectrogram 1	1	15.873787976	15.918079042	1260.7	4251.8	Charadrius_bicinctus-ML2978.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_bicinctus-ML2978.wav	3	a

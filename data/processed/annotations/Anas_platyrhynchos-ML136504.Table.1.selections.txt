@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	91.316864303	91.534995400	148.3	4004.6	Anas_platyrhynchos-ML136504.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_platyrhynchos-ML136504.wav	1	a
-2	Spectrogram 1	1	91.998312615	92.228280284	173.0	4202.4	Anas_platyrhynchos-ML136504.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_platyrhynchos-ML136504.wav	2	a
-3	Spectrogram 1	1	93.829457432	94.072952611	173.0	4054.0	Anas_platyrhynchos-ML136504.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_platyrhynchos-ML136504.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.222833154	4.323264724	637.1	1357.3	Crinifer_piscator-ML144551631.wav	E:\Andean\Musophagidae\Crinifer_piscator-ML144551631.wav	1	a
-2	Spectrogram 1	1	4.426031913	4.514785394	554.0	1274.2	Crinifer_piscator-ML144551631.wav	E:\Andean\Musophagidae\Crinifer_piscator-ML144551631.wav	2	a
-3	Spectrogram 1	1	4.631566290	4.724991007	581.7	1357.3	Crinifer_piscator-ML144551631.wav	E:\Andean\Musophagidae\Crinifer_piscator-ML144551631.wav	3	a

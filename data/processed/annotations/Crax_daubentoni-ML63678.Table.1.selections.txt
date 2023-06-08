@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.737301620	12.721844855	957.680	3830.720	Crax_daubentoni-ML63678.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_daubentoni-ML63678.wav	1	a
-2	Spectrogram 1	1	17.869488219	21.753640872	1074.470	3690.572	Crax_daubentoni-ML63678.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_daubentoni-ML63678.wav	2	a

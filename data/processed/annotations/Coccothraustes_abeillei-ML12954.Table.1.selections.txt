@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	77.503661963	77.562401511	1892.0	3690.6	Coccothraustes_abeillei-ML12954.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Coccothraustes_abeillei-ML12954.wav	1	a
-2	Spectrogram 1	1	77.674373776	77.824893869	2569.4	4040.9	Coccothraustes_abeillei-ML12954.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Coccothraustes_abeillei-ML12954.wav	1	b
-3	Spectrogram 1	1	80.338977137	80.390374242	1915.4	3690.6	Coccothraustes_abeillei-ML12954.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Coccothraustes_abeillei-ML12954.wav	2	a
-4	Spectrogram 1	1	80.511524561	80.645524156	2476.0	3947.5	Coccothraustes_abeillei-ML12954.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Coccothraustes_abeillei-ML12954.wav	2	b
-5	Spectrogram 1	1	83.487500953	83.535226837	2055.5	3713.9	Coccothraustes_abeillei-ML12954.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Coccothraustes_abeillei-ML12954.wav	3	a
-6	Spectrogram 1	1	83.650870323	83.792212362	2499.3	3994.2	Coccothraustes_abeillei-ML12954.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Coccothraustes_abeillei-ML12954.wav	3	b

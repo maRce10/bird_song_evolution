@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.018404909	4.758290918	195.9	448.1	Turnix_pyrrhothorax-ML189082.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_pyrrhothorax-ML189082.wav	1	a
-2	Spectrogram 1	1	5.141446173	5.848301557	203.2	460.3	Turnix_pyrrhothorax-ML189082.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_pyrrhothorax-ML189082.wav	2	b
-3	Spectrogram 1	1	6.198426186	6.977948946	203.2	455.4	Turnix_pyrrhothorax-ML189082.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_pyrrhothorax-ML189082.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.911820290	14.381617117	3658.4	5402.7	Chlorophonia_cyanea-ML167184.wav	E:\Escritorio\Cantos\Fringillidae\Chlorophonia_cyanea-ML167184.wav	1	a
-2	Spectrogram 1	1	18.393935964	18.863732791	3658.4	5446.6	Chlorophonia_cyanea-ML167184.wav	E:\Escritorio\Cantos\Fringillidae\Chlorophonia_cyanea-ML167184.wav	2	a
-3	Spectrogram 1	1	22.457043657	22.914143272	3658.4	5424.7	Chlorophonia_cyanea-ML167184.wav	E:\Escritorio\Cantos\Fringillidae\Chlorophonia_cyanea-ML167184.wav	3	a

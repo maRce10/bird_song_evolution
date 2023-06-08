@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.130464922	9.342589317	2016.4	4294.8	Asthenes_harterti-ML70981991.wav	E:\Escritorio\Cantos\Nueva carpeta\Furnariidae\Asthenes_harterti-ML70981991.wav	1	a
-2	Spectrogram 1	1	11.654745222	11.842121771	2095.0	4190.0	Asthenes_harterti-ML70981991.wav	E:\Escritorio\Cantos\Nueva carpeta\Furnariidae\Asthenes_harterti-ML70981991.wav	2	a
-3	Spectrogram 1	1	13.714886610	13.930546412	2095.0	4425.7	Asthenes_harterti-ML70981991.wav	E:\Escritorio\Cantos\Nueva carpeta\Furnariidae\Asthenes_harterti-ML70981991.wav	3	

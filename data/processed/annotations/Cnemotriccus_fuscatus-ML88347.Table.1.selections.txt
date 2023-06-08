@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	26.827968063	27.614096948	1567.5	6792.7	Cnemotriccus_fuscatus-ML88347.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemotriccus_fuscatus-ML88347.wav	1	a
-2	Spectrogram 1	1	27.733007199	28.383710520	1123.4	5747.6	Cnemotriccus_fuscatus-ML88347.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemotriccus_fuscatus-ML88347.wav	1	b
-3	Spectrogram 1	1	28.545560706	28.953488930	2638.7	5120.6	Cnemotriccus_fuscatus-ML88347.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemotriccus_fuscatus-ML88347.wav	1	c
-4	Spectrogram 1	1	63.831540323	64.749868043	1332.4	6244.0	Cnemotriccus_fuscatus-ML88347.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemotriccus_fuscatus-ML88347.wav	2	d
-5	Spectrogram 1	1	64.838974398	65.483071594	1358.5	5512.5	Cnemotriccus_fuscatus-ML88347.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemotriccus_fuscatus-ML88347.wav	2	e
-6	Spectrogram 1	1	94.597840845	95.321211542	1175.7	5956.6	Cnemotriccus_fuscatus-ML88347.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemotriccus_fuscatus-ML88347.wav	3	f
-7	Spectrogram 1	1	95.430212606	96.034673051	1645.9	5721.5	Cnemotriccus_fuscatus-ML88347.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemotriccus_fuscatus-ML88347.wav	3	g

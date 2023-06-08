@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	229.415209209	229.585286902	296.6	791.0	Brachypteracias_leptosomus-ML95421.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Brachypteraciidae\Brachypteraciidae\Brachypteracias_leptosomus-ML95421.wav	1	a
-2	Spectrogram 1	1	231.538101959	231.752470718	247.2	716.9	Brachypteracias_leptosomus-ML95421.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Brachypteraciidae\Brachypteraciidae\Brachypteracias_leptosomus-ML95421.wav	2	a
-3	Spectrogram 1	1	239.440960419	239.644699322	321.4	692.2	Brachypteracias_leptosomus-ML95421.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Brachypteraciidae\Brachypteraciidae\Brachypteracias_leptosomus-ML95421.wav	3	a

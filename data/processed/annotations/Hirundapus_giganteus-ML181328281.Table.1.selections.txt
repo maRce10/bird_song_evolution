@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.761636815	9.832502520	2620.3	5982.2	Hirundapus_giganteus-ML181328281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Hirundapus_giganteus-ML181328281.wav	1	a
-2	Spectrogram 1	1	9.853762232	9.926399580	2793.3	5339.5	Hirundapus_giganteus-ML181328281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Hirundapus_giganteus-ML181328281.wav	1	b
-3	Spectrogram 1	1	10.045099637	10.137225054	2818.0	5957.5	Hirundapus_giganteus-ML181328281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Hirundapus_giganteus-ML181328281.wav	2	a
-4	Spectrogram 1	1	10.149626552	10.224035543	2620.3	5314.7	Hirundapus_giganteus-ML181328281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Hirundapus_giganteus-ML181328281.wav	2	b
-5	Spectrogram 1	1	10.452987486	10.527396476	2645.0	5413.6	Hirundapus_giganteus-ML181328281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Hirundapus_giganteus-ML181328281.wav	3	b
-6	Spectrogram 1	1	10.536254689	10.631923392	2570.9	6278.8	Hirundapus_giganteus-ML181328281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Hirundapus_giganteus-ML181328281.wav	3	a

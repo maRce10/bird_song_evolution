@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	236.450064680	236.615776676	469.7	1631.5	Anser_caerulescens-ML52766281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_caerulescens-ML52766281.wav	1	a
-2	Spectrogram 1	1	242.154070519	242.314709699	395.5	1730.4	Anser_caerulescens-ML52766281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_caerulescens-ML52766281.wav	2	a
-3	Spectrogram 1	1	245.658873498	245.809367046	494.4	1705.7	Anser_caerulescens-ML52766281.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_caerulescens-ML52766281.wav	3	a

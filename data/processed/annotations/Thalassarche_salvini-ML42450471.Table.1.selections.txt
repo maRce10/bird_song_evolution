@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.668485082	2.709276460	1471.6	5302.3	Thalassarche_salvini-ML42450471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Thalassarche_salvini-ML42450471.wav	1	a
-2	Spectrogram 1	1	3.384607732	4.653014860	1611.7	4858.5	Thalassarche_salvini-ML42450471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Thalassarche_salvini-ML42450471.wav	1	a

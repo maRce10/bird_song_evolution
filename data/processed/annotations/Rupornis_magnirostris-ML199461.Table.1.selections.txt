@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	230.594623100	231.592276958	445.0	6476.6	Rupornis_magnirostris-ML199461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Rupornis_magnirostris-ML199461.wav	1	a
-2	Spectrogram 1	1	236.370864905	237.375282517	296.6	7069.8	Rupornis_magnirostris-ML199461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Rupornis_magnirostris-ML199461.wav	2	a
-3	Spectrogram 1	1	242.488004691	243.468749161	494.4	6476.6	Rupornis_magnirostris-ML199461.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Rupornis_magnirostris-ML199461.wav	3	a

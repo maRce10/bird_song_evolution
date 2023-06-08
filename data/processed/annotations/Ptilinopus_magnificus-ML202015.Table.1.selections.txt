@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	41.363616479	41.761035254	123.5	895.6	Ptilinopus_magnificus-ML202015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_magnificus-ML202015.wav	1	a
-2	Spectrogram 1	1	41.958596032	42.441011885	185.3	864.7	Ptilinopus_magnificus-ML202015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_magnificus-ML202015.wav	1	b
-3	Spectrogram 1	1	46.784185449	47.144848730	185.3	895.6	Ptilinopus_magnificus-ML202015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_magnificus-ML202015.wav	2	a
-4	Spectrogram 1	1	47.349301163	47.797258741	154.4	710.3	Ptilinopus_magnificus-ML202015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_magnificus-ML202015.wav	1	b
-5	Spectrogram 1	1	52.256523678	52.628673050	185.3	957.4	Ptilinopus_magnificus-ML202015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_magnificus-ML202015.wav	3	a
-6	Spectrogram 1	1	52.828531047	53.338513520	154.4	802.9	Ptilinopus_magnificus-ML202015.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ptilinopus_magnificus-ML202015.wav	3	b

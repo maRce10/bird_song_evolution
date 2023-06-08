@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.701579004	0.765358139	2868.2	6161.7	Apalis_argentea-ML64628621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_argentea-ML64628621.wav	1	a
-2	Spectrogram 1	1	1.819485507	1.879721357	3101.8	6208.4	Apalis_argentea-ML64628621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_argentea-ML64628621.wav	2	a
-3	Spectrogram 1	1	3.690779535	3.751015385	3265.3	6138.3	Apalis_argentea-ML64628621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_argentea-ML64628621.wav	3	a
-4	Spectrogram 1	1	4.073318253	4.140640674	2844.8	6115.0	Apalis_argentea-ML64628621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_argentea-ML64628621.wav	3	a
-5	Spectrogram 1	1	4.438276636	4.498512486	3008.4	6068.3	Apalis_argentea-ML64628621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_argentea-ML64628621.wav	3	a
-6	Spectrogram 1	1	4.861699226	4.923706719	3148.5	6068.3	Apalis_argentea-ML64628621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Apalis_argentea-ML64628621.wav	3	a

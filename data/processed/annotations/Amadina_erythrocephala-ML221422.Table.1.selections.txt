@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.590855847	1.719348610	794.2	3830.7	Amadina_erythrocephala-ML221422.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Amadina_erythrocephala-ML221422.wav	1	a
-2	Spectrogram 1	1	1.879046758	2.018553186	794.2	3877.4	Amadina_erythrocephala-ML221422.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Amadina_erythrocephala-ML221422.wav	2	a
-3	Spectrogram 1	1	2.172744501	2.308579707	887.6	4017.6	Amadina_erythrocephala-ML221422.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Amadina_erythrocephala-ML221422.wav	3	a

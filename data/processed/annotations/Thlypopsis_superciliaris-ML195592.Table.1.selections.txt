@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	12.381960347	12.434809348	6816.5	8344.3	Thlypopsis_superciliaris-ML195592.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Thlypopsis_superciliaris-ML195592.wav	1	a
-2	Spectrogram 1	1	12.537204286	12.590053287	6072.1	8775.2	Thlypopsis_superciliaris-ML195592.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Thlypopsis_superciliaris-ML195592.wav	1	b
-3	Spectrogram 1	1	12.702357413	15.873297453	1253.6	12026.8	Thlypopsis_superciliaris-ML195592.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Thlypopsis_superciliaris-ML195592.wav	1	c
-5	Spectrogram 1	1	48.045105463	52.651211510	1410.3	12261.8	Thlypopsis_superciliaris-ML195592.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Thlypopsis_superciliaris-ML195592.wav	2	c

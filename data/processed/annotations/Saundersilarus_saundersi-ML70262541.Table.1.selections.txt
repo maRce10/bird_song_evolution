@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.346523626	1.522742272	2219.0	5605.9	Saundersilarus_saundersi-ML70262541.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Saundersilarus_saundersi-ML70262541.wav	1	a
-2	Spectrogram 1	1	1.836631735	2.077096762	2125.6	5559.2	Saundersilarus_saundersi-ML70262541.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Saundersilarus_saundersi-ML70262541.wav	2	a
-3	Spectrogram 1	1	2.607588311	2.815012342	1962.1	5325.6	Saundersilarus_saundersi-ML70262541.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Saundersilarus_saundersi-ML70262541.wav	3	a

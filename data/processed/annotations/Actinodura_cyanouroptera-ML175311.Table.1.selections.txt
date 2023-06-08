@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	107.164925136	107.624527991	4106.9	5402.7	Actinodura_cyanouroptera-ML175311.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_cyanouroptera-ML175311.wav	1	a
-2	Spectrogram 1	1	107.744731815	108.296255242	3360.2	4787.7	Actinodura_cyanouroptera-ML175311.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_cyanouroptera-ML175311.wav	1	b
-3	Spectrogram 1	1	110.580127894	110.983164244	4019.1	5205.0	Actinodura_cyanouroptera-ML175311.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_cyanouroptera-ML175311.wav	2	a
-4	Spectrogram 1	1	111.372058969	111.874086703	3557.9	4963.4	Actinodura_cyanouroptera-ML175311.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_cyanouroptera-ML175311.wav	2	b
-5	Spectrogram 1	1	114.567142411	115.012603641	4150.8	5205.0	Actinodura_cyanouroptera-ML175311.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_cyanouroptera-ML175311.wav	3	a
-6	Spectrogram 1	1	115.125736651	115.670189265	3338.2	4831.7	Actinodura_cyanouroptera-ML175311.wav	E:\Escritorio\Cantos\Leiothrichidae\Actinodura_cyanouroptera-ML175311.wav	3	b

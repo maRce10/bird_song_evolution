@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.443745535	3.928579317	3484.6	8854.3	Grallaricula_cucullata-ML90188371.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_cucullata-ML90188371.wav	1	a
-2	Spectrogram 1	1	10.654245752	11.131949625	3141.8	8797.2	Grallaricula_cucullata-ML90188371.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_cucullata-ML90188371.wav	2	a
-3	Spectrogram 1	1	17.387055895	17.850499951	3427.5	9025.6	Grallaricula_cucullata-ML90188371.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaricula_cucullata-ML90188371.wav	3	a

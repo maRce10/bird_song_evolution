@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.976288291	2.162782196	497.6	2933.0	Ailuroedus_maculosus-ML78534941.wav	D:\Andean\Ptilonorhynchidae\Ailuroedus_maculosus-ML78534941.wav	1	a
-2	Spectrogram 1	1	6.985364912	8.333016453	392.8	2854.5	Ailuroedus_maculosus-ML78534941.wav	D:\Andean\Ptilonorhynchidae\Ailuroedus_maculosus-ML78534941.wav	2	b
-3	Spectrogram 1	1	15.201383042	16.502322224	261.9	3064.0	Ailuroedus_maculosus-ML78534941.wav	D:\Andean\Ptilonorhynchidae\Ailuroedus_maculosus-ML78534941.wav	3	b

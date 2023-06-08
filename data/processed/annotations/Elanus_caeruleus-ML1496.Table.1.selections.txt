@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.113046877	6.503653726	1013.5	4672.0	Elanus_caeruleus-ML1496.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Elanus_caeruleus-ML1496.wav	1	a
-2	Spectrogram 1	1	10.797629790	11.233891986	1013.5	4672.0	Elanus_caeruleus-ML1496.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Elanus_caeruleus-ML1496.wav	2	a
-3	Spectrogram 1	1	13.108258388	13.558048093	1013.5	4746.2	Elanus_caeruleus-ML1496.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Elanus_caeruleus-ML1496.wav	3	a

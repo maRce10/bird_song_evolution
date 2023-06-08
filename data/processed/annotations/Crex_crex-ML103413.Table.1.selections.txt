@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.053019188	5.251202940	627.0	3135.1	Crex_crex-ML103413.wav	D:\Andean\Rallidae\Crex_crex-ML103413.wav	1	a
-2	Spectrogram 1	1	5.640964320	5.825935823	679.3	3161.2	Crex_crex-ML103413.wav	D:\Andean\Rallidae\Crex_crex-ML103413.wav	2	a
-3	Spectrogram 1	1	6.116605326	6.321395204	574.8	3239.6	Crex_crex-ML103413.wav	D:\Andean\Rallidae\Crex_crex-ML103413.wav	3	a

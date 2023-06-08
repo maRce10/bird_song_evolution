@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.122013246	1.370581241	1310.1	2916.9	Anas_zonorhyncha-ML92536061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_zonorhyncha-ML92536061.wav	1	a
-2	Spectrogram 1	1	1.796697803	2.060484247	1236.0	2867.5	Anas_zonorhyncha-ML92536061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_zonorhyncha-ML92536061.wav	2	a
-3	Spectrogram 1	1	2.501146443	2.764932887	1186.5	2768.6	Anas_zonorhyncha-ML92536061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_zonorhyncha-ML92536061.wav	3	a

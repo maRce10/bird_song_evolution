@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.229985073	1.267106843	2020.5	4721.9	Pygarrhichas_albogularis-ML70878121.wav	E:\Escritorio\Cantos\Furnariidae\Pygarrhichas_albogularis-ML70878121.wav	1	a
-2	Spectrogram 1	1	1.302460908	1.330744161	3777.5	6171.4	Pygarrhichas_albogularis-ML70878121.wav	E:\Escritorio\Cantos\Furnariidae\Pygarrhichas_albogularis-ML70878121.wav	1	b
-3	Spectrogram 1	1	1.415593919	1.440341765	4128.9	8126.0	Pygarrhichas_albogularis-ML70878121.wav	E:\Escritorio\Cantos\Furnariidae\Pygarrhichas_albogularis-ML70878121.wav	1	c
-4	Spectrogram 1	1	1.825701083	1.852216632	3752.6	6083.5	Pygarrhichas_albogularis-ML70878121.wav	E:\Escritorio\Cantos\Furnariidae\Pygarrhichas_albogularis-ML70878121.wav	2	b
-5	Spectrogram 1	1	1.931763280	1.960046533	4166.7	8082.1	Pygarrhichas_albogularis-ML70878121.wav	E:\Escritorio\Cantos\Furnariidae\Pygarrhichas_albogularis-ML70878121.wav	2	c
-6	Spectrogram 1	1	2.340372293	2.372190953	3755.5	6159.5	Pygarrhichas_albogularis-ML70878121.wav	E:\Escritorio\Cantos\Furnariidae\Pygarrhichas_albogularis-ML70878121.wav	3	b
-7	Spectrogram 1	1	2.446434491	2.469414634	4115.0	8038.1	Pygarrhichas_albogularis-ML70878121.wav	E:\Escritorio\Cantos\Furnariidae\Pygarrhichas_albogularis-ML70878121.wav	3	c

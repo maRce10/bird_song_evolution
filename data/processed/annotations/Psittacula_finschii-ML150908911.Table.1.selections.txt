@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.094630472	18.290822377	886.4	3795.0	Psittacula_finschii-ML150908911.wav	D:\Andean\Psittaculidae\Psittacula_finschii-ML150908911.wav	1	a
-2	Spectrogram 1	1	18.652843155	18.825678881	1080.3	3573.4	Psittacula_finschii-ML150908911.wav	D:\Andean\Psittaculidae\Psittacula_finschii-ML150908911.wav	2	a
-3	Spectrogram 1	1	19.313823027	19.498336843	1024.9	3628.8	Psittacula_finschii-ML150908911.wav	D:\Andean\Psittaculidae\Psittacula_finschii-ML150908911.wav	3	a

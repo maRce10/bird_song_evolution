@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.611432334	1.632635392	3251.5	7913.4	Lessonia_rufa-ML69263891.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lessonia_rufa-ML69263891.wav	1	a
-2	Spectrogram 1	1	1.667468986	1.696244564	3486.6	7678.3	Lessonia_rufa-ML69263891.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lessonia_rufa-ML69263891.wav	1	b
-3	Spectrogram 1	1	1.708360597	1.735621671	4857.7	7560.8	Lessonia_rufa-ML69263891.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lessonia_rufa-ML69263891.wav	1	c
-4	Spectrogram 1	1	1.749252208	1.771969770	5327.8	7325.8	Lessonia_rufa-ML69263891.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lessonia_rufa-ML69263891.wav	1	d
-5	Spectrogram 1	1	7.291370877	7.312573934	5680.4	9167.0	Lessonia_rufa-ML69263891.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lessonia_rufa-ML69263891.wav	2	e
-6	Spectrogram 1	1	10.525594401	10.544525702	5993.8	9402.0	Lessonia_rufa-ML69263891.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lessonia_rufa-ML69263891.wav	3	f

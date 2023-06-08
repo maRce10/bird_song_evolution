@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.851427020	7.030170583	1413.200	2298.400	Hierococcyx_sparverioides-ML173555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_sparverioides-ML173555.wav	1	a
-2	Spectrogram 1	1	7.160165902	7.457655188	1335.500	2345.000	Hierococcyx_sparverioides-ML173555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_sparverioides-ML173555.wav	1	b
-3	Spectrogram 1	1	10.601291011	10.786284349	1382.100	2360.500	Hierococcyx_sparverioides-ML173555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_sparverioides-ML173555.wav	2	a
-4	Spectrogram 1	1	10.913779757	11.211269043	1273.400	2313.900	Hierococcyx_sparverioides-ML173555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_sparverioides-ML173555.wav	2	b
-5	Spectrogram 1	1	13.591182228	13.783675295	1320.000	2313.900	Hierococcyx_sparverioides-ML173555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_sparverioides-ML173555.wav	3	a
-6	Spectrogram 1	1	13.912420659	14.212409855	1351.100	2407.100	Hierococcyx_sparverioides-ML173555.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_sparverioides-ML173555.wav	3	b

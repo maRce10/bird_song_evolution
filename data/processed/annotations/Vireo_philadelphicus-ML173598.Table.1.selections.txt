@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	266.365539722	266.494359161	2076.3	6072.1	Vireo_philadelphicus-ML173598.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_philadelphicus-ML173598.wav	1	a
-2	Spectrogram 1	1	266.524086724	266.659512289	1802.1	3995.9	Vireo_philadelphicus-ML173598.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_philadelphicus-ML173598.wav	1	b
-3	Spectrogram 1	1	267.968897508	268.011837322	6385.5	7208.2	Vireo_philadelphicus-ML173598.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_philadelphicus-ML173598.wav	2	c
-4	Spectrogram 1	1	268.130747573	268.343795107	2154.6	4896.9	Vireo_philadelphicus-ML173598.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_philadelphicus-ML173598.wav	2	d
-5	Spectrogram 1	1	268.373522670	268.508948234	2115.5	4857.7	Vireo_philadelphicus-ML173598.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_philadelphicus-ML173598.wav	2	e
-6	Spectrogram 1	1	270.234563570	270.396413635	2742.3	7364.9	Vireo_philadelphicus-ML173598.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_philadelphicus-ML173598.wav	3	f
-7	Spectrogram 1	1	270.439353448	270.640840263	1958.8	4466.0	Vireo_philadelphicus-ML173598.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_philadelphicus-ML173598.wav	3	g
-8	Spectrogram 1	1	270.672219357	270.805993390	1997.9	3682.5	Vireo_philadelphicus-ML173598.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_philadelphicus-ML173598.wav	3	h

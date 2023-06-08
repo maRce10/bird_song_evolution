@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.094028695	1.375719874	1775.2	3643.9	Pluvialis_dominica-ML43194061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Pluvialis_dominica-ML43194061.wav	1	a
-2	Spectrogram 1	1	15.446889449	15.769328409	1775.2	4181.1	Pluvialis_dominica-ML43194061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Pluvialis_dominica-ML43194061.wav	2	b
-3	Spectrogram 1	1	19.023437864	19.340561896	1448.2	3924.2	Pluvialis_dominica-ML43194061.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Pluvialis_dominica-ML43194061.wav	3	b

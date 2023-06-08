@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	55.562161447	55.938710577	193.9	1856.0	Leucocarbo_atriceps-ML1996.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_atriceps-ML1996.wav	1	a
-2	Spectrogram 1	1	57.728970474	58.032852228	55.4	1994.5	Leucocarbo_atriceps-ML1996.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_atriceps-ML1996.wav	2	a
-3	Spectrogram 1	1	60.529967509	61.144337142	166.2	2049.9	Leucocarbo_atriceps-ML1996.wav	D:\Andean\Phalacrocoracidae\Leucocarbo_atriceps-ML1996.wav	3	a

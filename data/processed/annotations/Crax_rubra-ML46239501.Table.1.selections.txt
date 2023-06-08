@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.194967425	1.767703291	0.000	307.500	Crax_rubra-ML46239501.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_rubra-ML46239501.wav	1	a
-2	Spectrogram 1	1	14.198083207	14.728394194	0.000	395.300	Crax_rubra-ML46239501.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_rubra-ML46239501.wav	2	a
-3	Spectrogram 1	1	31.393041775	31.951636015	0.000	424.000	Crax_rubra-ML46239501.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_rubra-ML46239501.wav	3	a

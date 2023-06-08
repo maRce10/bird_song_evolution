@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.638319021	2.282416216	536.8	1034.4	Argusianus_argus-ML203944151.wav	D:\Andean\Phasianidae\Argusianus_argus-ML203944151.wav	1	a
-2	Spectrogram 1	1	2.308840717	2.698602096	549.9	1139.2	Argusianus_argus-ML203944151.wav	D:\Andean\Phasianidae\Argusianus_argus-ML203944151.wav	1	b
-3	Spectrogram 1	1	8.349562270	8.947416590	576.1	1034.4	Argusianus_argus-ML203944151.wav	D:\Andean\Phasianidae\Argusianus_argus-ML203944151.wav	2	a
-4	Spectrogram 1	1	8.987053341	9.452785159	497.6	1165.4	Argusianus_argus-ML203944151.wav	D:\Andean\Phasianidae\Argusianus_argus-ML203944151.wav	2	b
-5	Spectrogram 1	1	13.521124747	14.155312755	523.8	1060.6	Argusianus_argus-ML203944151.wav	D:\Andean\Phasianidae\Argusianus_argus-ML203944151.wav	3	a
-6	Spectrogram 1	1	14.241192381	14.697015012	523.8	1113.0	Argusianus_argus-ML203944151.wav	D:\Andean\Phasianidae\Argusianus_argus-ML203944151.wav	3	b

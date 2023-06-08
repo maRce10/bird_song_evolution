@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.320661221	9.532407061	420.4	8455.6	Locustella_tacsanowskia-ML161774.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Locustella_tacsanowskia-ML161774.wav	1	a
-2	Spectrogram 1	1	16.639226676	18.980769807	700.7	8829.3	Locustella_tacsanowskia-ML161774.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Locustellidae\Locustella_tacsanowskia-ML161774.wav	2	a

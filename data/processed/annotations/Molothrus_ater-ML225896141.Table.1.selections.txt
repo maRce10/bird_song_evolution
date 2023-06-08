@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.508489709	2.598881975	2312.1	7218.4	Molothrus_ater-ML225896141.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_ater-ML225896141.wav	1	a
-2	Spectrogram 1	1	2.617713697	2.971750072	5188.2	11053.2	Molothrus_ater-ML225896141.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_ater-ML225896141.wav	1	b
-3	Spectrogram 1	1	16.197172932	16.295097886	1522.6	7444.0	Molothrus_ater-ML225896141.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_ater-ML225896141.wav	2	a
-4	Spectrogram 1	1	16.317695953	16.716928461	3665.6	10884.0	Molothrus_ater-ML225896141.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_ater-ML225896141.wav	2	b
-5	Spectrogram 1	1	44.889305520	45.021127574	2255.8	6372.5	Molothrus_ater-ML225896141.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_ater-ML225896141.wav	3	a
-6	Spectrogram 1	1	45.024893919	45.382696638	3834.8	10827.6	Molothrus_ater-ML225896141.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Molothrus_ater-ML225896141.wav	3	b

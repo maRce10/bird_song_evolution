@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.893478417	1.137905046	1684.5	2311.3	Lepidothrix_vilasboasi-ML116087021.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_vilasboasi-ML116087021.wav	1	a
-2	Spectrogram 1	1	1.734107834	2.008262025	1723.7	2428.9	Lepidothrix_vilasboasi-ML116087021.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_vilasboasi-ML116087021.wav	2	a
-3	Spectrogram 1	1	2.763777809	3.066008032	1860.8	2703.1	Lepidothrix_vilasboasi-ML116087021.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_vilasboasi-ML116087021.wav	3	a
-4	Spectrogram 1	1	3.761302697	4.043714544	1782.5	2683.5	Lepidothrix_vilasboasi-ML116087021.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_vilasboasi-ML116087021.wav	4	a
-5	Spectrogram 1	1	5.298709769	5.600939992	1704.1	2487.6	Lepidothrix_vilasboasi-ML116087021.wav	C:\Users\pfmar\Downloads\Pipridae\Lepidothrix_vilasboasi-ML116087021.wav	5	a

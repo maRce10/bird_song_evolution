@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.302377115	5.451014930	2105.3	5152.4	Tregellasia_capito-ML234265.wav	D:\Andean\Petroicidae\Tregellasia_capito-ML234265.wav	1	a
-2	Spectrogram 1	1	5.612864994	5.764805871	1966.8	5124.7	Tregellasia_capito-ML234265.wav	D:\Andean\Petroicidae\Tregellasia_capito-ML234265.wav	1	a
-3	Spectrogram 1	1	9.552886853	9.685009354	2188.4	5041.6	Tregellasia_capito-ML234265.wav	D:\Andean\Petroicidae\Tregellasia_capito-ML234265.wav	2	a
-4	Spectrogram 1	1	9.817131856	9.965769670	2216.1	5235.5	Tregellasia_capito-ML234265.wav	D:\Andean\Petroicidae\Tregellasia_capito-ML234265.wav	2	a
-5	Spectrogram 1	1	13.519612178	13.661643867	2049.9	5346.3	Tregellasia_capito-ML234265.wav	D:\Andean\Petroicidae\Tregellasia_capito-ML234265.wav	3	a
-6	Spectrogram 1	1	13.793766369	13.932494996	2133.0	5346.3	Tregellasia_capito-ML234265.wav	D:\Andean\Petroicidae\Tregellasia_capito-ML234265.wav	3	a

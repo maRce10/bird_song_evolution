@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.197942966	9.308762899	2732.9	7124.2	Cisticola_marginatus-ML1025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_marginatus-ML1025.wav	1	a
-2	Spectrogram 1	1	11.848192195	12.930665845	2078.9	6914.0	Cisticola_marginatus-ML1025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_marginatus-ML1025.wav	2	a
-3	Spectrogram 1	1	16.132124876	17.296094087	2592.7	6680.4	Cisticola_marginatus-ML1025.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Cisticola_marginatus-ML1025.wav	3	a

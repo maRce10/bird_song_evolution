@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	15.408045180	17.951093836	141.0	2594.1	Gavia_adamsii-ML166365.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_adamsii-ML166365.wav	1	a
-2	Spectrogram 1	1	18.184513761	19.843023753	282.0	2509.5	Gavia_adamsii-ML166365.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_adamsii-ML166365.wav	1	b
-3	Spectrogram 1	1	20.137869974	21.833235744	310.2	2537.7	Gavia_adamsii-ML166365.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_adamsii-ML166365.wav	1	b
-4	Spectrogram 1	1	22.227141547	26.772687452	112.8	3129.9	Gavia_adamsii-ML166365.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_adamsii-ML166365.wav	1	a
-5	Spectrogram 1	1	27.060735805	28.756101576	338.4	2509.5	Gavia_adamsii-ML166365.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_adamsii-ML166365.wav	1	b
-6	Spectrogram 1	1	38.632285276	41.236760228	141.0	2622.3	Gavia_adamsii-ML166365.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_adamsii-ML166365.wav	2	a
-7	Spectrogram 1	1	41.543891708	43.239257478	169.2	2481.3	Gavia_adamsii-ML166365.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gaviidae\Gavia_adamsii-ML166365.wav	2	b

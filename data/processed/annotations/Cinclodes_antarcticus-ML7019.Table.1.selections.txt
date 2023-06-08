@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	27.992749765	28.024568424	2257.8	5161.1	Cinclodes_antarcticus-ML7019.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_antarcticus-ML7019.wav	1	a
-2	Spectrogram 1	1	28.059922490	28.088205742	2257.8	5117.2	Cinclodes_antarcticus-ML7019.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_antarcticus-ML7019.wav	2	a
-3	Spectrogram 1	1	28.134166028	28.164216984	2228.5	5072.7	Cinclodes_antarcticus-ML7019.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_antarcticus-ML7019.wav	3	a

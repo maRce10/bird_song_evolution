@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.781617564	5.837672394	7119.2	8753.5	Tangara_parzudakii-ML26922.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_parzudakii-ML26922.wav	1	a
-2	Spectrogram 1	1	5.854021719	5.890223797	7174.6	8504.2	Tangara_parzudakii-ML26922.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_parzudakii-ML26922.wav	1	b
-3	Spectrogram 1	1	6.463617997	6.510330355	6897.6	9252.1	Tangara_parzudakii-ML26922.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_parzudakii-ML26922.wav	2	c
-4	Spectrogram 1	1	7.225939010	7.271483559	7036.1	8753.5	Tangara_parzudakii-ML26922.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_parzudakii-ML26922.wav	3	d
-6	Spectrogram 1	1	8.054867229	8.093404924	7091.5	8642.7	Tangara_parzudakii-ML26922.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_parzudakii-ML26922.wav	4	a
-7	Spectrogram 1	1	8.168144698	8.217192674	7119.2	9446.0	Tangara_parzudakii-ML26922.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_parzudakii-ML26922.wav	4	d
-8	Spectrogram 1	1	8.386524974	8.429733905	7119.2	8919.7	Tangara_parzudakii-ML26922.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_parzudakii-ML26922.wav	4	d

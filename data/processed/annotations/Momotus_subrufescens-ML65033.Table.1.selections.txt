@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	50.295429957	50.566281085	166.2	540.2	Momotus_subrufescens-ML65033.wav	E:\Andean\Momotidae\Momotus_subrufescens-ML65033.wav	1	a
-2	Spectrogram 1	1	57.079920417	57.350771545	235.5	567.9	Momotus_subrufescens-ML65033.wav	E:\Andean\Momotidae\Momotus_subrufescens-ML65033.wav	2	a
-3	Spectrogram 1	1	63.923830014	64.188075017	249.3	581.7	Momotus_subrufescens-ML65033.wav	E:\Andean\Momotidae\Momotus_subrufescens-ML65033.wav	3	a

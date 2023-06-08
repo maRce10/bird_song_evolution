@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	33.569847458	33.962231269	1382.0	4575.8	Myiodynastes_bairdii-ML21984.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_bairdii-ML21984.wav	1	a
-2	Spectrogram 1	1	34.021789526	34.077844356	2241.9	7861.8	Myiodynastes_bairdii-ML21984.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_bairdii-ML21984.wav	1	b
-3	Spectrogram 1	1	35.045723045	35.577076123	1320.5	4698.7	Myiodynastes_bairdii-ML21984.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_bairdii-ML21984.wav	2	c
-4	Spectrogram 1	1	35.622620672	35.674004266	1934.7	7370.5	Myiodynastes_bairdii-ML21984.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_bairdii-ML21984.wav	2	d
-5	Spectrogram 1	1	37.026489445	37.404859548	1351.3	4606.5	Myiodynastes_bairdii-ML21984.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_bairdii-ML21984.wav	3	a
-6	Spectrogram 1	1	37.450404098	37.507626737	2057.6	7309.1	Myiodynastes_bairdii-ML21984.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiodynastes_bairdii-ML21984.wav	3	d

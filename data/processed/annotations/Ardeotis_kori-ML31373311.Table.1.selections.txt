@@ -1,2 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.931911551	1.051028065	78.6	3194.9	Ardeotis_kori-ML31373311.wav	E:\Andean\Otididae\Ardeotis_kori-ML31373311.wav	1	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	44.084501797	44.174121550	1186.5	2076.5	Melierax_canorus-ML72573.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Melierax_canorus-ML72573.wav	1	a
-2	Spectrogram 1	1	44.297560078	44.382107016	1384.3	2051.7	Melierax_canorus-ML72573.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Melierax_canorus-ML72573.wav	2	a
-3	Spectrogram 1	1	44.520763992	44.601929052	1334.9	2076.5	Melierax_canorus-ML72573.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Melierax_canorus-ML72573.wav	3	a

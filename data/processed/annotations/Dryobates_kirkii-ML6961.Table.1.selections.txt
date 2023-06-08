@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	31.549228688	31.644989023	1283.2	4268.6	Dryobates_kirkii-ML6961.wav	D:\Andean\Picidae\Dryobates_kirkii-ML6961.wav	1	a
-2	Spectrogram 1	1	32.684338998	32.777763715	1126.1	4085.3	Dryobates_kirkii-ML6961.wav	D:\Andean\Picidae\Dryobates_kirkii-ML6961.wav	2	a
-3	Spectrogram 1	1	33.735367063	33.833463016	1152.3	4059.1	Dryobates_kirkii-ML6961.wav	D:\Andean\Picidae\Dryobates_kirkii-ML6961.wav	3	a

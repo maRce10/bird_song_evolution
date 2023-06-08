@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	15.242543034	15.309430051	1045.0	4049.5	Myadestes_obscurus-ML6094.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_obscurus-ML6094.wav	1	a
-2	Spectrogram 1	1	15.444029850	15.510916866	1071.1	3997.2	Myadestes_obscurus-ML6094.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_obscurus-ML6094.wav	1	a
-3	Spectrogram 1	1	17.096308900	17.391107232	1881.0	3108.9	Myadestes_obscurus-ML6094.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_obscurus-ML6094.wav	1	b
-4	Spectrogram 1	1	20.087421338	20.165043308	862.1	4154.0	Myadestes_obscurus-ML6094.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_obscurus-ML6094.wav	2	c
-5	Spectrogram 1	1	20.389651561	20.684449893	1881.0	3108.9	Myadestes_obscurus-ML6094.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_obscurus-ML6094.wav	2	b
-6	Spectrogram 1	1	25.240590463	25.527871468	1985.5	3161.2	Myadestes_obscurus-ML6094.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Myadestes_obscurus-ML6094.wav	3	d

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.379877556	4.428925532	654.7	2409.3	Campephilus_gayaquilensis-ML28502.wav	D:\Andean\Picidae\Campephilus_gayaquilensis-ML28502.wav	1	a
-2	Spectrogram 1	1	4.692850357	4.753576423	471.4	2723.5	Campephilus_gayaquilensis-ML28502.wav	D:\Andean\Picidae\Campephilus_gayaquilensis-ML28502.wav	2	a
-3	Spectrogram 1	1	4.781603838	4.828316197	471.4	2697.3	Campephilus_gayaquilensis-ML28502.wav	D:\Andean\Picidae\Campephilus_gayaquilensis-ML28502.wav	3	a

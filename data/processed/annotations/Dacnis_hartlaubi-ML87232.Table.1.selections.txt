@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-5	Spectrogram 1	1	124.326863985	124.512833125	4670.7	11350.9	Dacnis_hartlaubi-ML87232.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_hartlaubi-ML87232.wav	1	a
-1	Spectrogram 1	1	127.101214949	127.273392041	4103.5	11272.2	Dacnis_hartlaubi-ML87232.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_hartlaubi-ML87232.wav	2	a
-2	Spectrogram 1	1	130.037671407	130.200283105	4127.6	11795.7	Dacnis_hartlaubi-ML87232.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_hartlaubi-ML87232.wav	3	a
-3	Spectrogram 1	1	134.100767760	134.271658321	4019.0	12002.6	Dacnis_hartlaubi-ML87232.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_hartlaubi-ML87232.wav	4	a
-4	Spectrogram 1	1	138.478158957	138.689259062	4290.5	12002.6	Dacnis_hartlaubi-ML87232.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Dacnis_hartlaubi-ML87232.wav	5	a

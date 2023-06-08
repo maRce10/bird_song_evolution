@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.350583917	5.766769797	2853.2	3933.5	Napothera_malacoptila-ML174680.wav	D:\Andean\Pellorneidae\Napothera_malacoptila-ML174680.wav	1	a
-2	Spectrogram 1	1	10.285359354	10.694939109	2964.0	3988.9	Napothera_malacoptila-ML174680.wav	D:\Andean\Pellorneidae\Napothera_malacoptila-ML174680.wav	2	a
-3	Spectrogram 1	1	19.533934471	20.009575477	2908.6	3988.9	Napothera_malacoptila-ML174680.wav	D:\Andean\Pellorneidae\Napothera_malacoptila-ML174680.wav	3	a

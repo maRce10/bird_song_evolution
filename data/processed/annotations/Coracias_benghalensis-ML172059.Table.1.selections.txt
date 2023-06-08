@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.068752018	9.138505232	630.7	4858.5	Coracias_benghalensis-ML172059.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_benghalensis-ML172059.wav	1	a
-2	Spectrogram 1	1	15.721273603	15.791026817	630.7	4554.8	Coracias_benghalensis-ML172059.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_benghalensis-ML172059.wav	2	a
-3	Spectrogram 1	1	22.513302753	22.577549134	724.1	4858.5	Coracias_benghalensis-ML172059.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_benghalensis-ML172059.wav	1	a

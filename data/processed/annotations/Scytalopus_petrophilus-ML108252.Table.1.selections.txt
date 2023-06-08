@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.633149238	4.695907426	969.5	5041.6	Scytalopus_petrophilus-ML108252.wav	D:\Andean\Rhinocryptidae\Scytalopus_petrophilus-ML108252.wav	1	a
-2	Spectrogram 1	1	4.988228461	5.042728993	1246.5	4875.4	Scytalopus_petrophilus-ML108252.wav	D:\Andean\Rhinocryptidae\Scytalopus_petrophilus-ML108252.wav	2	a
-3	Spectrogram 1	1	5.335050028	5.389550560	1246.5	5180.1	Scytalopus_petrophilus-ML108252.wav	D:\Andean\Rhinocryptidae\Scytalopus_petrophilus-ML108252.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.367467892	1.499590394	2299.2	3656.5	Drymodes_brunneopygia-ML31952071.wav	D:\Andean\Petroicidae\Drymodes_brunneopygia-ML31952071.wav	1	a
-2	Spectrogram 1	1	1.684561896	2.074323276	2493.1	5235.5	Drymodes_brunneopygia-ML31952071.wav	D:\Andean\Petroicidae\Drymodes_brunneopygia-ML31952071.wav	1	b
-3	Spectrogram 1	1	9.788526548	9.927255175	2188.4	3656.5	Drymodes_brunneopygia-ML31952071.wav	D:\Andean\Petroicidae\Drymodes_brunneopygia-ML31952071.wav	2	a
-4	Spectrogram 1	1	10.138651177	10.535018682	2631.6	5180.1	Drymodes_brunneopygia-ML31952071.wav	D:\Andean\Petroicidae\Drymodes_brunneopygia-ML31952071.wav	2	b
-5	Spectrogram 1	1	15.714220747	15.846343249	1994.5	3656.5	Drymodes_brunneopygia-ML31952071.wav	D:\Andean\Petroicidae\Drymodes_brunneopygia-ML31952071.wav	3	a
-6	Spectrogram 1	1	16.024708626	16.434288381	2548.5	5346.3	Drymodes_brunneopygia-ML31952071.wav	D:\Andean\Petroicidae\Drymodes_brunneopygia-ML31952071.wav	3	b

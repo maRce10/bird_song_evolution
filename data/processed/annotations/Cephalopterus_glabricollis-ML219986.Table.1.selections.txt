@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.656358315	5.826664682	116.5	295.1	Cephalopterus_glabricollis-ML219986.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cephalopterus_glabricollis-ML219986.wav	1	a
-2	Spectrogram 1	1	8.506823619	8.763611246	128.1	306.7	Cephalopterus_glabricollis-ML219986.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cephalopterus_glabricollis-ML219986.wav	2	a
-3	Spectrogram 1	1	27.220067092	27.434434372	86.4	326.7	Cephalopterus_glabricollis-ML219986.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cephalopterus_glabricollis-ML219986.wav	3	a

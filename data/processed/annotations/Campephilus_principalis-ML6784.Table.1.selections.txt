@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.648091423	4.755529847	576.1	2487.8	Campephilus_principalis-ML6784.wav	D:\Andean\Picidae\Campephilus_principalis-ML6784.wav	1	a
-2	Spectrogram 1	1	17.200676510	17.301108080	576.1	2645.0	Campephilus_principalis-ML6784.wav	D:\Andean\Picidae\Campephilus_principalis-ML6784.wav	2	a
-3	Spectrogram 1	1	20.239415486	20.351525146	654.7	2618.8	Campephilus_principalis-ML6784.wav	D:\Andean\Picidae\Campephilus_principalis-ML6784.wav	3	a

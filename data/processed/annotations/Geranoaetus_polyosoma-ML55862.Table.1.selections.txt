@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.552133881	8.768574040	964.1	4746.2	Geranoaetus_polyosoma-ML55862.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Geranoaetus_polyosoma-ML55862.wav	1	a
-2	Spectrogram 1	1	9.751009449	10.055378423	766.3	5561.9	Geranoaetus_polyosoma-ML55862.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Geranoaetus_polyosoma-ML55862.wav	1	a
-3	Spectrogram 1	1	14.064508791	14.286021766	939.3	4869.8	Geranoaetus_polyosoma-ML55862.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Geranoaetus_polyosoma-ML55862.wav	2	a
-4	Spectrogram 1	1	15.346240357	15.642154637	865.2	5561.9	Geranoaetus_polyosoma-ML55862.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Geranoaetus_polyosoma-ML55862.wav	2	b
-5	Spectrogram 1	1	18.890946248	19.098931713	1038.2	4869.8	Geranoaetus_polyosoma-ML55862.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Geranoaetus_polyosoma-ML55862.wav	3	a
-6	Spectrogram 1	1	20.191278140	20.485501481	1038.2	5908.0	Geranoaetus_polyosoma-ML55862.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Geranoaetus_polyosoma-ML55862.wav	3	b

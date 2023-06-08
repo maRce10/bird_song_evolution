@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	17.736288186	17.827122406	4425.7	6835.0	Phylloscopus_inornatus-ML71499.wav	D:\Andean\Phylloscopidae\Phylloscopus_inornatus-ML71499.wav	1	a
-2	Spectrogram 1	1	17.828773937	17.975760220	4923.3	7018.3	Phylloscopus_inornatus-ML71499.wav	D:\Andean\Phylloscopidae\Phylloscopus_inornatus-ML71499.wav	1	b
-3	Spectrogram 1	1	21.302730033	21.393564253	4373.3	6861.2	Phylloscopus_inornatus-ML71499.wav	D:\Andean\Phylloscopidae\Phylloscopus_inornatus-ML71499.wav	2	a
-4	Spectrogram 1	1	21.393564253	21.538899005	4897.1	7175.4	Phylloscopus_inornatus-ML71499.wav	D:\Andean\Phylloscopidae\Phylloscopus_inornatus-ML71499.wav	2	b
-5	Spectrogram 1	1	24.393650582	24.482833271	4740.0	6939.7	Phylloscopus_inornatus-ML71499.wav	D:\Andean\Phylloscopidae\Phylloscopus_inornatus-ML71499.wav	3	a
-6	Spectrogram 1	1	24.484484802	24.628168023	4870.9	7018.3	Phylloscopus_inornatus-ML71499.wav	D:\Andean\Phylloscopidae\Phylloscopus_inornatus-ML71499.wav	3	b

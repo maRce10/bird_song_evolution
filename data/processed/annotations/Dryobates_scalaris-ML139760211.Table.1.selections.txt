@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.842594836	1.890489243	1099.9	6782.6	Dryobates_scalaris-ML139760211.wav	D:\Andean\Picidae\Dryobates_scalaris-ML139760211.wav	1	a
-2	Spectrogram 1	1	6.162661510	6.209373868	1466.5	6599.3	Dryobates_scalaris-ML139760211.wav	D:\Andean\Picidae\Dryobates_scalaris-ML139760211.wav	2	a
-3	Spectrogram 1	1	10.125631845	10.168571658	1466.5	6939.7	Dryobates_scalaris-ML139760211.wav	D:\Andean\Picidae\Dryobates_scalaris-ML139760211.wav	3	a

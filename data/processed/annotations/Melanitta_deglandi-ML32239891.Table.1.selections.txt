@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.257414155	1.299965815	395.5	3114.7	Melanitta_deglandi-ML32239891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Melanitta_deglandi-ML32239891.wav	1	a
-2	Spectrogram 1	1	4.451938394	4.506900954	173.0	2669.7	Melanitta_deglandi-ML32239891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Melanitta_deglandi-ML32239891.wav	1	a
-3	Spectrogram 1	1	13.538966394	13.590382983	98.9	2916.9	Melanitta_deglandi-ML32239891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Melanitta_deglandi-ML32239891.wav	3	a

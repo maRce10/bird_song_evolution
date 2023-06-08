@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.843343689	16.909290300	4301.2	5290.0	Buteo_platypterus-ML4308.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_platypterus-ML4308.wav	1	a
-2	Spectrogram 1	1	16.990455359	17.896798525	4326.0	4869.8	Buteo_platypterus-ML4308.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_platypterus-ML4308.wav	1	b
-3	Spectrogram 1	1	28.076183780	28.140439452	4400.1	5290.0	Buteo_platypterus-ML4308.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_platypterus-ML4308.wav	2	a
-4	Spectrogram 1	1	28.230056356	29.161763602	4301.2	4894.5	Buteo_platypterus-ML4308.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_platypterus-ML4308.wav	2	b
-5	Spectrogram 1	1	36.983992875	37.049939486	4499.0	5512.5	Buteo_platypterus-ML4308.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_platypterus-ML4308.wav	3	a
-6	Spectrogram 1	1	37.142941117	38.023920201	4449.6	5117.0	Buteo_platypterus-ML4308.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_platypterus-ML4308.wav	3	b

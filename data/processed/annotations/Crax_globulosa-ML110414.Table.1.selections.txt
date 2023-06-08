@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	493.514372943	495.298586732	677.383	4391.314	Crax_globulosa-ML110414.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_globulosa-ML110414.wav	1	a
-2	Spectrogram 1	1	510.874920609	512.651791955	677.383	4438.030	Crax_globulosa-ML110414.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_globulosa-ML110414.wav	2	a
-3	Spectrogram 1	1	525.801856335	527.617275510	957.680	4484.746	Crax_globulosa-ML110414.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Crax_globulosa-ML110414.wav	3	a

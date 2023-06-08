@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.850538604	1.085056045	1911.369	5930.500	Wetmorethraupis_sterrhopteron-ML74459831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Wetmorethraupis_sterrhopteron-ML74459831.wav	1	a
-2	Spectrogram 1	1	1.630061364	1.866230336	1966.771	5852.100	Wetmorethraupis_sterrhopteron-ML74459831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Wetmorethraupis_sterrhopteron-ML74459831.wav	2	a
-3	Spectrogram 1	1	2.262598250	2.499111176	1939.070	5956.600	Wetmorethraupis_sterrhopteron-ML74459831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Wetmorethraupis_sterrhopteron-ML74459831.wav	3	a
-4	Spectrogram 1	1	2.945213618	3.183446646	1911.369	5956.600	Wetmorethraupis_sterrhopteron-ML74459831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Wetmorethraupis_sterrhopteron-ML74459831.wav	4	a
-5	Spectrogram 1	1	3.610864726	3.846762136	1911.369	5878.300	Wetmorethraupis_sterrhopteron-ML74459831.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Wetmorethraupis_sterrhopteron-ML74459831.wav	5	a

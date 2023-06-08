@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.972795045	2.467502060	845.9	6710.9	Grus_monacha-ML182689371.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Grus_monacha-ML182689371.wav	1	a
-2	Spectrogram 1	1	2.648492431	3.088902334	394.8	6485.3	Grus_monacha-ML182689371.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Grus_monacha-ML182689371.wav	1	b
-3	Spectrogram 1	1	6.961623067	7.480462131	450.0	7818.8	Grus_monacha-ML182689371.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Grus_monacha-ML182689371.wav	2	a
-4	Spectrogram 1	1	7.504594180	7.878640947	618.8	8437.5	Grus_monacha-ML182689371.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Grus_monacha-ML182689371.wav	2	b
-5	Spectrogram 1	1	9.592016460	10.092756487	562.5	9731.2	Grus_monacha-ML182689371.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Grus_monacha-ML182689371.wav	3	a
-6	Spectrogram 1	1	10.237548784	10.696057724	731.2	9168.8	Grus_monacha-ML182689371.wav	C:\Users\Carlos PC\Desktop\Marcelo\Gruidae\Grus_monacha-ML182689371.wav	1	b

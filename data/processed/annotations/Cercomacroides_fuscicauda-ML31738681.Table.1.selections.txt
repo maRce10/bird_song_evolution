@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.733279884	0.905039136	886.4	2326.9	Cercomacroides_fuscicauda-ML31738681.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_fuscicauda-ML31738681.wav	1	a
-2	Spectrogram 1	1	1.050373888	1.757229272	1357.3	3545.7	Cercomacroides_fuscicauda-ML31738681.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_fuscicauda-ML31738681.wav	1	b
-3	Spectrogram 1	1	7.696135722	7.861288849	886.4	2437.7	Cercomacroides_fuscicauda-ML31738681.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_fuscicauda-ML31738681.wav	2	a
-4	Spectrogram 1	1	8.000017476	8.799358611	1329.6	3545.7	Cercomacroides_fuscicauda-ML31738681.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_fuscicauda-ML31738681.wav	2	b
-5	Spectrogram 1	1	16.029211880	16.200971132	1108.0	2382.3	Cercomacroides_fuscicauda-ML31738681.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_fuscicauda-ML31738681.wav	3	a
-6	Spectrogram 1	1	16.352912009	17.033342893	1163.4	3518.0	Cercomacroides_fuscicauda-ML31738681.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Cercomacroides_fuscicauda-ML31738681.wav	3	b

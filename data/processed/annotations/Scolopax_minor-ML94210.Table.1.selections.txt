@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.070442143	7.330861344	332.4	8421.1	Scolopax_minor-ML94210.wav	D:\Andean\Scolopacidae\Scolopax_minor-ML94210.wav	1	a
-2	Spectrogram 1	1	18.236539492	18.470249031	498.6	6759.0	Scolopax_minor-ML94210.wav	D:\Andean\Scolopacidae\Scolopax_minor-ML94210.wav	2	a
-3	Spectrogram 1	1	26.503881628	26.774316952	415.5	7008.4	Scolopax_minor-ML94210.wav	D:\Andean\Scolopacidae\Scolopax_minor-ML94210.wav	3	a

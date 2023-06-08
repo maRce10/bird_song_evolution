@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.288194391	1.625106770	415.5	2437.7	Corythaixoides_leucogaster-ML33651941.wav	E:\Andean\Musophagidae\Corythaixoides_leucogaster-ML33651941.wav	1	a
-2	Spectrogram 1	1	4.723379434	5.113140814	415.5	2548.5	Corythaixoides_leucogaster-ML33651941.wav	E:\Andean\Musophagidae\Corythaixoides_leucogaster-ML33651941.wav	2	a
-3	Spectrogram 1	1	7.841470474	8.158564478	277.0	2326.9	Corythaixoides_leucogaster-ML33651941.wav	E:\Andean\Musophagidae\Corythaixoides_leucogaster-ML33651941.wav	3	a

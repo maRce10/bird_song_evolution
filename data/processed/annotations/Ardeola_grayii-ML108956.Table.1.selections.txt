@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	47.640758026	47.715223430	247.2	1656.2	Ardeola_grayii-ML108956.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardeola_grayii-ML108956.wav	1	a
-2	Spectrogram 1	1	48.848161361	48.919080793	247.2	1631.5	Ardeola_grayii-ML108956.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardeola_grayii-ML108956.wav	2	q
-3	Spectrogram 1	1	50.493127688	50.565820106	197.8	1483.2	Ardeola_grayii-ML108956.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardeola_grayii-ML108956.wav	3	a

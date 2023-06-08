@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	32.610173694	32.979131484	420.4	2032.2	Corvus_hawaiiensis-ML13434.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_hawaiiensis-ML13434.wav	1	a
-2	Spectrogram 1	1	33.333404386	33.671156791	513.9	1985.4	Corvus_hawaiiensis-ML13434.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_hawaiiensis-ML13434.wav	2	a
-3	Spectrogram 1	1	34.053190451	34.486394622	443.8	2008.8	Corvus_hawaiiensis-ML13434.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Corvus_hawaiiensis-ML13434.wav	3	a

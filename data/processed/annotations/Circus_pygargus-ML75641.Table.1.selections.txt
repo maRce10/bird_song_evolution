@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	33.108171608	33.652653883	1334.9	5117.0	Circus_pygargus-ML75641.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_pygargus-ML75641.wav	1	a
-2	Spectrogram 1	1	36.598890611	37.136609131	1384.3	5092.3	Circus_pygargus-ML75641.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_pygargus-ML75641.wav	2	a
-3	Spectrogram 1	1	37.792693363	38.391285677	1409.0	5463.1	Circus_pygargus-ML75641.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_pygargus-ML75641.wav	3	a

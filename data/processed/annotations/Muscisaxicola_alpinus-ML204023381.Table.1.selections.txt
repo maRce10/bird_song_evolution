@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.967711577	1.997439140	2106.0	3251.4	Muscisaxicola_alpinus-ML204023381.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_alpinus-ML204023381.wav	1	a
-2	Spectrogram 1	1	2.707597586	2.734022087	2124.5	3251.4	Muscisaxicola_alpinus-ML204023381.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_alpinus-ML204023381.wav	2	a
-3	Spectrogram 1	1	4.239006829	4.267082860	2069.0	3325.2	Muscisaxicola_alpinus-ML204023381.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_alpinus-ML204023381.wav	3	a

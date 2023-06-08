@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.812383394	4.859858118	4911.6	6583.6	Calidris_fuscicollis-ML99496671.wav	D:\Andean\Scolopacidae\Calidris_fuscicollis-ML99496671.wav	1	a
-2	Spectrogram 1	1	5.247568361	5.301373048	5094.5	7106.2	Calidris_fuscicollis-ML99496671.wav	D:\Andean\Scolopacidae\Calidris_fuscicollis-ML99496671.wav	2	a
-3	Spectrogram 1	1	5.742887979	5.796692666	5120.6	7419.7	Calidris_fuscicollis-ML99496671.wav	D:\Andean\Scolopacidae\Calidris_fuscicollis-ML99496671.wav	3	a

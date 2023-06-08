@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	204.972000056	205.145621034	1915.4	5582.6	Orthotomus_sutorius-ML179407.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Orthotomus_sutorius-ML179407.wav	1	a
-2	Spectrogram 1	1	205.282037517	205.460973424	1938.7	5605.9	Orthotomus_sutorius-ML179407.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Orthotomus_sutorius-ML179407.wav	2	a
-3	Spectrogram 1	1	205.592074979	205.765695957	1938.7	5676.0	Orthotomus_sutorius-ML179407.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Orthotomus_sutorius-ML179407.wav	3	a

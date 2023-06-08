@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	15.524691575	16.356633436	494.4	4301.2	Buteo_swainsoni-ML59299.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_swainsoni-ML59299.wav	1	a
-2	Spectrogram 1	1	28.570092350	29.393579517	494.4	4326.0	Buteo_swainsoni-ML59299.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_swainsoni-ML59299.wav	2	a
-3	Spectrogram 1	1	43.125971566	44.057678812	494.4	4326.0	Buteo_swainsoni-ML59299.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_swainsoni-ML59299.wav	3	a

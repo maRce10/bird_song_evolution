@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	51.960073458	52.300288900	138.5	1800.6	Phoenicopterus_chilensis-ML29396.wav	D:\Andean\Phoenicopteridae\Phoenicopterus_chilensis-ML29396.wav	1	a
-2	Spectrogram 1	1	52.845294219	53.202024973	138.5	1745.2	Phoenicopterus_chilensis-ML29396.wav	D:\Andean\Phoenicopteridae\Phoenicopterus_chilensis-ML29396.wav	2	a
-3	Spectrogram 1	1	53.578574103	53.852728294	138.5	1662.1	Phoenicopterus_chilensis-ML29396.wav	D:\Andean\Phoenicopteridae\Phoenicopterus_chilensis-ML29396.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.209212325	0.893584847	139.8	2866.6	Apteryx_rowi-ML141400.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apterygidae\Apterygidae\Apteryx_rowi-ML141400.wav	1	a
-2	Spectrogram 1	1	1.709158318	2.432536527	419.5	3146.3	Apteryx_rowi-ML141400.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apterygidae\Apterygidae\Apteryx_rowi-ML141400.wav	2	a
-3	Spectrogram 1	1	3.422141910	4.074600687	419.5	2936.6	Apteryx_rowi-ML141400.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apterygidae\Apterygidae\Apteryx_rowi-ML141400.wav	3	a

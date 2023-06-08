@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	627.698031906	628.249237736	83.1	720.2	Urile_pelagicus-ML137869.wav	D:\Andean\Phalacrocoracidae\Urile_pelagicus-ML137869.wav	1	a
-2	Spectrogram 1	1	631.425678109	631.920829109	83.1	692.5	Urile_pelagicus-ML137869.wav	D:\Andean\Phalacrocoracidae\Urile_pelagicus-ML137869.wav	2	a
-3	Spectrogram 1	1	633.303514919	633.705241201	55.4	747.9	Urile_pelagicus-ML137869.wav	D:\Andean\Phalacrocoracidae\Urile_pelagicus-ML137869.wav	3	a

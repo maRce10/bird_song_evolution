@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.397370604	1.559045520	791.0	3411.3	Buteo_albigula-ML180196801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_albigula-ML180196801.wav	1	a
-2	Spectrogram 1	1	9.438525288	10.551162979	1038.2	3856.3	Buteo_albigula-ML180196801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_albigula-ML180196801.wav	2	a
-3	Spectrogram 1	1	12.624551430	13.958702097	716.9	4548.4	Buteo_albigula-ML180196801.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_albigula-ML180196801.wav	3	a

@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.174594596	1.389659429	3500.8	6113.4	Muscisaxicola_rufivertex-ML57035611.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_rufivertex-ML57035611.wav	1	a
-2	Spectrogram 1	1	3.785094491	6.050565838	3657.6	5747.6	Muscisaxicola_rufivertex-ML57035611.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_rufivertex-ML57035611.wav	1	b

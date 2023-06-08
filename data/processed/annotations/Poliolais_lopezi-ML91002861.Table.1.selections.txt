@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.799010829	0.905309387	3340.2	3690.6	Poliolais_lopezi-ML91002861.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Poliolais_lopezi-ML91002861.wav	1	a
-2	Spectrogram 1	1	1.261409557	1.426172322	3340.2	3713.9	Poliolais_lopezi-ML91002861.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Poliolais_lopezi-ML91002861.wav	1	b
-3	Spectrogram 1	1	2.561487587	2.680187644	3363.6	3690.6	Poliolais_lopezi-ML91002861.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Poliolais_lopezi-ML91002861.wav	2	a
-4	Spectrogram 1	1	3.030972886	3.181562510	3316.8	3667.2	Poliolais_lopezi-ML91002861.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Poliolais_lopezi-ML91002861.wav	2	b
-5	Spectrogram 1	1	7.260019949	7.385806576	3340.2	3667.2	Poliolais_lopezi-ML91002861.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Poliolais_lopezi-ML91002861.wav	3	a
-6	Spectrogram 1	1	7.699387323	7.860606803	3293.5	3643.9	Poliolais_lopezi-ML91002861.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cisticolidae\Poliolais_lopezi-ML91002861.wav	3	a

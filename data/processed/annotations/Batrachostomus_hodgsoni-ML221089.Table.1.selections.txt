@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	125.624367906	126.004220098	747.9	1301.9	Batrachostomus_hodgsoni-ML221089.wav	D:\Andean\Podargidae\Batrachostomus_hodgsoni-ML221089.wav	1	a
-2	Spectrogram 1	1	126.017432348	126.380769228	1329.6	1772.9	Batrachostomus_hodgsoni-ML221089.wav	D:\Andean\Podargidae\Batrachostomus_hodgsoni-ML221089.wav	1	b
-3	Spectrogram 1	1	127.452141894	127.798963461	775.6	1218.8	Batrachostomus_hodgsoni-ML221089.wav	D:\Andean\Podargidae\Batrachostomus_hodgsoni-ML221089.wav	2	a
-4	Spectrogram 1	1	127.802266523	128.083026839	1274.2	1717.5	Batrachostomus_hodgsoni-ML221089.wav	D:\Andean\Podargidae\Batrachostomus_hodgsoni-ML221089.wav	2	b
-5	Spectrogram 1	1	131.130580147	131.652464028	747.9	1329.6	Batrachostomus_hodgsoni-ML221089.wav	D:\Andean\Podargidae\Batrachostomus_hodgsoni-ML221089.wav	3	a
-6	Spectrogram 1	1	131.642554840	131.844041656	1412.8	1745.2	Batrachostomus_hodgsoni-ML221089.wav	D:\Andean\Podargidae\Batrachostomus_hodgsoni-ML221089.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.797573553	18.461452898	93.4	3877.4	Thalassarche_bulleri-ML141403.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Thalassarche_bulleri-ML141403.wav	1	a
-2	Spectrogram 1	1	25.345445542	27.717054818	537.2	4601.5	Thalassarche_bulleri-ML141403.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Thalassarche_bulleri-ML141403.wav	2	a
-3	Spectrogram 1	1	48.043975154	50.577118188	537.2	4554.8	Thalassarche_bulleri-ML141403.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Thalassarche_bulleri-ML141403.wav	3	a

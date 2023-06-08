@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.342487666	0.741223306	395.3	2819.1	Falco_berigora-ML226150.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_berigora-ML226150.wav	1	a
-2	Spectrogram 1	1	0.799971190	1.003713852	417.3	2635.5	Falco_berigora-ML226150.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_berigora-ML226150.wav	1	b
-3	Spectrogram 1	1	1.614349293	1.981009924	768.7	2847.0	Falco_berigora-ML226150.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_berigora-ML226150.wav	2	a
-4	Spectrogram 1	1	2.013508754	2.142254117	351.4	2481.7	Falco_berigora-ML226150.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_berigora-ML226150.wav	2	b
-5	Spectrogram 1	1	3.173934019	3.552670379	329.4	2811.2	Falco_berigora-ML226150.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_berigora-ML226150.wav	3	a
-6	Spectrogram 1	1	3.611418264	3.766412682	395.3	2437.8	Falco_berigora-ML226150.wav	E:\Escritorio\Cantos\Falconidae\Falconidae\Falco_berigora-ML226150.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	175.015057617	177.447771157	1382.7	4584.7	Myrmotherula_surinamensis-ML72330.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmotherula_surinamensis-ML72330.wav	1	a
-2	Spectrogram 1	1	182.381505732	184.625928750	1346.3	4475.5	Myrmotherula_surinamensis-ML72330.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmotherula_surinamensis-ML72330.wav	2	a
-3	Spectrogram 1	1	194.170434529	196.369667822	1491.8	4693.8	Myrmotherula_surinamensis-ML72330.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Myrmotherula_surinamensis-ML72330.wav	3	a

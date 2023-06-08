@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	27.626107201	27.880443016	137.1	333.0	Ardenna_grisea-ML996.wav	D:\Andean\Procellariidae\Ardenna_grisea-ML996.wav	1	a
-2	Spectrogram 1	1	27.913473642	28.336265647	97.9	470.1	Ardenna_grisea-ML996.wav	D:\Andean\Procellariidae\Ardenna_grisea-ML996.wav	1	b
-3	Spectrogram 1	1	28.432054461	28.659965776	97.9	372.2	Ardenna_grisea-ML996.wav	D:\Andean\Procellariidae\Ardenna_grisea-ML996.wav	2	a
-4	Spectrogram 1	1	28.712814777	29.079454719	117.5	470.1	Ardenna_grisea-ML996.wav	D:\Andean\Procellariidae\Ardenna_grisea-ML996.wav	2	b
-5	Spectrogram 1	1	29.238001721	29.482428349	78.4	430.9	Ardenna_grisea-ML996.wav	D:\Andean\Procellariidae\Ardenna_grisea-ML996.wav	3	a
-6	Spectrogram 1	1	29.515458974	29.928341792	117.5	489.7	Ardenna_grisea-ML996.wav	D:\Andean\Procellariidae\Ardenna_grisea-ML996.wav	3	b

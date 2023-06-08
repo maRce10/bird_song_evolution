@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.562193387	4.592556420	1099.9	3404.4	Ploceus_castanops-ML242760571.wav	D:\Andean\Ploceidae\Ploceus_castanops-ML242760571.wav	1	
-2	Spectrogram 1	1	7.049091962	7.081790613	1335.6	3325.8	Ploceus_castanops-ML242760571.wav	D:\Andean\Ploceidae\Ploceus_castanops-ML242760571.wav	2	a
-3	Spectrogram 1	1	8.184202272	8.205222833	1414.1	4006.7	Ploceus_castanops-ML242760571.wav	D:\Andean\Ploceidae\Ploceus_castanops-ML242760571.wav	3	a

@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.211914876	5.576903287	1762.9	5523.7	Vireo_cassinii-ML205422.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_cassinii-ML205422.wav	1	a
-2	Spectrogram 1	1	7.795744697	8.149172389	861.9	5523.7	Vireo_cassinii-ML205422.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_cassinii-ML205422.wav	2	b
-3	Spectrogram 1	1	9.938280024	10.293359248	1136.1	5484.5	Vireo_cassinii-ML205422.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_cassinii-ML205422.wav	3	a
-4	Spectrogram 1	1	13.424309689	13.769479725	1253.6	4622.7	Vireo_cassinii-ML205422.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_cassinii-ML205422.wav	4	c
-5	Spectrogram 1	1	16.038330843	16.411576910	940.2	5680.4	Vireo_cassinii-ML205422.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireo_cassinii-ML205422.wav	5	a

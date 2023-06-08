@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	84.935342577	85.003260180	233.6	537.2	Paraclaravis_mondetoura-ML35446.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Paraclaravis_mondetoura-ML35446.wav	1	a
-2	Spectrogram 1	1	85.050986064	85.441971184	140.1	654.0	Paraclaravis_mondetoura-ML35446.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Paraclaravis_mondetoura-ML35446.wav	1	b
-3	Spectrogram 1	1	86.401242074	86.472830899	210.2	513.9	Paraclaravis_mondetoura-ML35446.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Paraclaravis_mondetoura-ML35446.wav	2	a
-4	Spectrogram 1	1	86.524228004	86.909706291	186.9	677.4	Paraclaravis_mondetoura-ML35446.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Paraclaravis_mondetoura-ML35446.wav	2	b
-5	Spectrogram 1	1	88.035666969	88.090735296	256.9	607.3	Paraclaravis_mondetoura-ML35446.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Paraclaravis_mondetoura-ML35446.wav	3	b
-6	Spectrogram 1	1	88.182515841	88.531281911	256.9	630.7	Paraclaravis_mondetoura-ML35446.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Paraclaravis_mondetoura-ML35446.wav	3	b

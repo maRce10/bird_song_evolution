@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.331302215	1.737699734	1883.7	4321.4	Grallina_cyanoleuca-ML210652.wav	E:\Andean\Monarchidae\Grallina_cyanoleuca-ML210652.wav	1	a
-2	Spectrogram 1	1	2.288905563	2.641583870	1828.3	4293.7	Grallina_cyanoleuca-ML210652.wav	E:\Andean\Monarchidae\Grallina_cyanoleuca-ML210652.wav	2	a
-3	Spectrogram 1	1	3.929827818	4.352619823	1800.6	4321.4	Grallina_cyanoleuca-ML210652.wav	E:\Andean\Monarchidae\Grallina_cyanoleuca-ML210652.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.516145323	1.728956026	1301.9	3628.8	Scytalopus_rodriguezi-ML516041.wav	D:\Andean\Rhinocryptidae\Scytalopus_rodriguezi-ML516041.wav	1	a
-2	Spectrogram 1	1	4.921116562	5.080724589	1191.1	3739.6	Scytalopus_rodriguezi-ML516041.wav	D:\Andean\Rhinocryptidae\Scytalopus_rodriguezi-ML516041.wav	2	a
-3	Spectrogram 1	1	7.634453018	7.807361714	1218.8	3961.2	Scytalopus_rodriguezi-ML516041.wav	D:\Andean\Rhinocryptidae\Scytalopus_rodriguezi-ML516041.wav	3	a

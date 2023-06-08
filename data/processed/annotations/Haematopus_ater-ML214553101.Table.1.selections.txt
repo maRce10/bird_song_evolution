@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.756210746	9.864527921	1353.5	7387.6	Haematopus_ater-ML214553101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Haematopodidae\Haematopus_ater-ML214553101.wav	1	a
-2	Spectrogram 1	1	23.432489754	23.517596106	1466.2	6936.4	Haematopus_ater-ML214553101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Haematopodidae\Haematopus_ater-ML214553101.wav	2	b
-3	Spectrogram 1	1	33.054483564	33.155063798	1240.7	7387.6	Haematopus_ater-ML214553101.wav	C:\Users\Carlos PC\Desktop\Marcelo\Haematopodidae\Haematopus_ater-ML214553101.wav	3	a

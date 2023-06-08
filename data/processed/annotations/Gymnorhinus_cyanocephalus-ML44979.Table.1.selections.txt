@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	10.789239413	11.202881983	439.200	2306.000	Gymnorhinus_cyanocephalus-ML44979.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Gymnorhinus_cyanocephalus-ML44979.wav	1	a
-2	Spectrogram 1	1	14.119591048	14.547375244	439.200	2306.000	Gymnorhinus_cyanocephalus-ML44979.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Gymnorhinus_cyanocephalus-ML44979.wav	2	a
-3	Spectrogram 1	1	17.584288470	18.061568359	461.200	2262.100	Gymnorhinus_cyanocephalus-ML44979.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Gymnorhinus_cyanocephalus-ML44979.wav	3	a

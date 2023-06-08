@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.800711144	6.952641254	3605.3	5956.6	Cnemarchus_rufipennis-ML171143.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_rufipennis-ML171143.wav	1	a
-2	Spectrogram 1	1	9.786775142	9.938590307	3840.5	5982.8	Cnemarchus_rufipennis-ML171143.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_rufipennis-ML171143.wav	2	b
-3	Spectrogram 1	1	12.851017245	13.000496792	3657.6	5930.5	Cnemarchus_rufipennis-ML171143.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Cnemarchus_rufipennis-ML171143.wav	3	a

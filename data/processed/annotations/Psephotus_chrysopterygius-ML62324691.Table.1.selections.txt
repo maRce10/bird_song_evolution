@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.059736958	1.181189090	1191.1	2880.9	Psephotus_chrysopterygius-ML62324691.wav	D:\Andean\Psittaculidae\Psephotus_chrysopterygius-ML62324691.wav	1	a
-2	Spectrogram 1	1	1.227901448	1.309648076	1689.8	2991.7	Psephotus_chrysopterygius-ML62324691.wav	D:\Andean\Psittaculidae\Psephotus_chrysopterygius-ML62324691.wav	1	a
-3	Spectrogram 1	1	1.645977056	1.746408627	1551.3	2991.7	Psephotus_chrysopterygius-ML62324691.wav	D:\Andean\Psittaculidae\Psephotus_chrysopterygius-ML62324691.wav	2	a
-4	Spectrogram 1	1	1.888881320	1.970627948	1606.7	3019.4	Psephotus_chrysopterygius-ML62324691.wav	D:\Andean\Psittaculidae\Psephotus_chrysopterygius-ML62324691.wav	2	a
-5	Spectrogram 1	1	3.105738258	3.210841064	941.8	2964.0	Psephotus_chrysopterygius-ML62324691.wav	D:\Andean\Psittaculidae\Psephotus_chrysopterygius-ML62324691.wav	3	a
-6	Spectrogram 1	1	3.238868479	3.339300050	969.5	3102.5	Psephotus_chrysopterygius-ML62324691.wav	D:\Andean\Psittaculidae\Psephotus_chrysopterygius-ML62324691.wav	3	a

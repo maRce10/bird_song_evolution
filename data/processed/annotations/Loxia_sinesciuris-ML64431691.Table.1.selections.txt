@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.895966921	16.953819533	1056.1	3448.1	Loxia_sinesciuris-ML64431691.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_sinesciuris-ML64431691.wav	1	a
-2	Spectrogram 1	1	17.090414283	17.148266895	1004.6	3382.2	Loxia_sinesciuris-ML64431691.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_sinesciuris-ML64431691.wav	1	a
-3	Spectrogram 1	1	18.686168758	18.746270670	1098.1	3316.3	Loxia_sinesciuris-ML64431691.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_sinesciuris-ML64431691.wav	2	a
-4	Spectrogram 1	1	18.887686933	18.946815599	988.3	3338.2	Loxia_sinesciuris-ML64431691.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_sinesciuris-ML64431691.wav	2	a
-5	Spectrogram 1	1	22.381953872	22.440288080	1030.4	3400.2	Loxia_sinesciuris-ML64431691.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_sinesciuris-ML64431691.wav	3	a
-6	Spectrogram 1	1	22.579936640	22.636503146	1004.6	3400.2	Loxia_sinesciuris-ML64431691.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_sinesciuris-ML64431691.wav	3	a
-7	Spectrogram 1	1	22.765545486	22.827415101	1056.1	3271.4	Loxia_sinesciuris-ML64431691.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_sinesciuris-ML64431691.wav	3	a

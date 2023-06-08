@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.475437664	1.540988441	1144.5	2242.4	Peltohyas_australis-ML203887661.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Peltohyas_australis-ML203887661.wav	1	a
-2	Spectrogram 1	1	4.760455386	4.829549449	1167.9	2148.9	Peltohyas_australis-ML203887661.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Peltohyas_australis-ML203887661.wav	2	a
-3	Spectrogram 1	1	6.170931033	6.234710168	1051.1	2219.0	Peltohyas_australis-ML203887661.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Peltohyas_australis-ML203887661.wav	3	

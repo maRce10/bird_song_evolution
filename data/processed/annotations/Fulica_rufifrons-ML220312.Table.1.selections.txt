@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.339391861	1.372422486	193.9	3241.0	Fulica_rufifrons-ML220312.wav	D:\Andean\Rallidae\Fulica_rufifrons-ML220312.wav	1	a
-2	Spectrogram 1	1	3.143093691	3.166215129	193.9	2105.3	Fulica_rufifrons-ML220312.wav	D:\Andean\Rallidae\Fulica_rufifrons-ML220312.wav	2	a
-3	Spectrogram 1	1	4.583451252	4.614830346	277.0	2548.5	Fulica_rufifrons-ML220312.wav	D:\Andean\Rallidae\Fulica_rufifrons-ML220312.wav	3	a

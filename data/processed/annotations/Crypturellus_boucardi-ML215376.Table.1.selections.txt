@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	20.310786331	21.824923026	581.7	886.4	Crypturellus_boucardi-ML215376.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_boucardi-ML215376.wav	1	a
-2	Spectrogram 1	1	21.989503101	22.812403479	581.7	886.4	Crypturellus_boucardi-ML215376.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_boucardi-ML215376.wav	1	b
-3	Spectrogram 1	1	58.014259359	59.660060114	581.7	886.4	Crypturellus_boucardi-ML215376.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_boucardi-ML215376.wav	2	a
-4	Spectrogram 1	1	59.752633434	60.538071319	581.7	886.4	Crypturellus_boucardi-ML215376.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_boucardi-ML215376.wav	2	b
-5	Spectrogram 1	1	89.368152935	90.915205645	581.7	886.4	Crypturellus_boucardi-ML215376.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_boucardi-ML215376.wav	3	a
-6	Spectrogram 1	1	91.013953690	91.968518128	581.7	886.4	Crypturellus_boucardi-ML215376.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_boucardi-ML215376.wav	3	b

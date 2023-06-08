@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.622272093	0.719559471	420.4	1915.4	Treron_waalia-ML279366.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_waalia-ML279366.wav	1	a
-2	Spectrogram 1	1	1.257393463	1.360187673	350.4	1751.9	Treron_waalia-ML279366.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_waalia-ML279366.wav	2	a
-3	Spectrogram 1	1	1.631858085	1.725474241	420.4	1915.4	Treron_waalia-ML279366.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_waalia-ML279366.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.190830696	7.241908691	609.4	5263.2	Eudocimus_ruber-ML2422.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Eudocimus_ruber-ML2422.wav	1	a
-2	Spectrogram 1	1	7.865060232	7.912733028	609.4	5318.6	Eudocimus_ruber-ML2422.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Eudocimus_ruber-ML2422.wav	2	a
-3	Spectrogram 1	1	8.503461053	8.552910567	554.0	5318.6	Eudocimus_ruber-ML2422.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Eudocimus_ruber-ML2422.wav	3	a

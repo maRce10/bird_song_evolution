@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.315418084	7.401297710	8461.8	11635.0	Melozone_leucotis-ML195283.wav	D:\Andean\Passerellidae\Melozone_leucotis-ML195283.wav	1	a
-2	Spectrogram 1	1	12.732440652	12.824926403	8344.3	12379.3	Melozone_leucotis-ML195283.wav	D:\Andean\Passerellidae\Melozone_leucotis-ML195283.wav	2	a
-3	Spectrogram 1	1	14.826582303	14.899249679	8266.0	12379.3	Melozone_leucotis-ML195283.wav	D:\Andean\Passerellidae\Melozone_leucotis-ML195283.wav	3	a

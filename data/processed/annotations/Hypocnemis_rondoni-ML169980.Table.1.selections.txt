@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.511156141	6.966978772	1412.8	6205.0	Hypocnemis_rondoni-ML169980.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_rondoni-ML169980.wav	1	a
-2	Spectrogram 1	1	7.977715910	8.261779288	1606.7	6205.0	Hypocnemis_rondoni-ML169980.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_rondoni-ML169980.wav	2	a
-3	Spectrogram 1	1	10.270041314	10.554104692	1662.1	5983.4	Hypocnemis_rondoni-ML169980.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Hypocnemis_rondoni-ML169980.wav	3	a

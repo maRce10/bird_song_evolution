@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	44.774582205	45.190322195	2160.7	4653.8	Neoxolmis_rufiventris-ML33228941.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Neoxolmis_rufiventris-ML33228941.wav	1	a
-2	Spectrogram 1	1	45.528986794	45.869987010	2797.8	4210.6	Neoxolmis_rufiventris-ML33228941.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Neoxolmis_rufiventris-ML33228941.wav	1	b
-3	Spectrogram 1	1	57.344868047	57.739587475	2326.9	4626.1	Neoxolmis_rufiventris-ML33228941.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Neoxolmis_rufiventris-ML33228941.wav	2	a
-4	Spectrogram 1	1	58.112118534	58.477642739	2936.3	4404.5	Neoxolmis_rufiventris-ML33228941.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Neoxolmis_rufiventris-ML33228941.wav	2	b
-5	Spectrogram 1	1	68.661673921	69.062232395	2742.4	4653.8	Neoxolmis_rufiventris-ML33228941.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Neoxolmis_rufiventris-ML33228941.wav	3	a
-6	Spectrogram 1	1	69.409071656	69.741897210	2742.4	4127.4	Neoxolmis_rufiventris-ML33228941.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Neoxolmis_rufiventris-ML33228941.wav	3	b

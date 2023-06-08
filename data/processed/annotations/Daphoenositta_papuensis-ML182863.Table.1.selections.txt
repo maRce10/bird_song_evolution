@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.725212804	4.743379648	5900.3	8005.6	Daphoenositta_papuensis-ML182863.wav	E:\Andean\Neosittidae\Daphoenositta_papuensis-ML182863.wav	1	a
-2	Spectrogram 1	1	4.759894961	4.791274055	5651.0	7257.7	Daphoenositta_papuensis-ML182863.wav	E:\Andean\Neosittidae\Daphoenositta_papuensis-ML182863.wav	1	b
-3	Spectrogram 1	1	4.899449353	4.915138900	5734.1	8061.0	Daphoenositta_papuensis-ML182863.wav	E:\Andean\Neosittidae\Daphoenositta_papuensis-ML182863.wav	2	a
-4	Spectrogram 1	1	4.940737635	4.973768260	5318.6	7119.2	Daphoenositta_papuensis-ML182863.wav	E:\Andean\Neosittidae\Daphoenositta_papuensis-ML182863.wav	2	b
-5	Spectrogram 1	1	5.122406074	5.139747153	5540.2	8061.0	Daphoenositta_papuensis-ML182863.wav	E:\Andean\Neosittidae\Daphoenositta_papuensis-ML182863.wav	3	a
-6	Spectrogram 1	1	5.157913997	5.201679575	5844.9	7368.5	Daphoenositta_papuensis-ML182863.wav	E:\Andean\Neosittidae\Daphoenositta_papuensis-ML182863.wav	3	b

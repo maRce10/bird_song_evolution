@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.442886288	14.859072169	1246.5	1634.4	Alethe_diademata-ML87022.wav	E:\Andean\Muscicapidae\Alethe_diademata-ML87022.wav	1	a
-2	Spectrogram 1	1	16.847515819	17.290126199	1274.2	1634.4	Alethe_diademata-ML87022.wav	E:\Andean\Muscicapidae\Alethe_diademata-ML87022.wav	2	a
-3	Spectrogram 1	1	19.456935227	19.906151732	1274.2	1606.7	Alethe_diademata-ML87022.wav	E:\Andean\Muscicapidae\Alethe_diademata-ML87022.wav	3	a

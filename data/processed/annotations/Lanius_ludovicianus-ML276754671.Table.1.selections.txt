@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.492548848	1.643068942	677.4	2896.4	Lanius_ludovicianus-ML276754671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_ludovicianus-ML276754671.wav	1	a
-2	Spectrogram 1	1	1.661425051	1.694466047	2569.4	6680.4	Lanius_ludovicianus-ML276754671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_ludovicianus-ML276754671.wav	1	b
-3	Spectrogram 1	1	2.887376081	3.054416673	607.3	3059.9	Lanius_ludovicianus-ML276754671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_ludovicianus-ML276754671.wav	2	a
-4	Spectrogram 1	1	3.061759116	3.289374867	2756.2	8969.5	Lanius_ludovicianus-ML276754671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_ludovicianus-ML276754671.wav	2	b
-5	Spectrogram 1	1	4.521887944	4.677914870	607.3	2803.0	Lanius_ludovicianus-ML276754671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_ludovicianus-ML276754671.wav	3	a
-6	Spectrogram 1	1	4.705449033	4.936736006	2756.2	8292.1	Lanius_ludovicianus-ML276754671.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_ludovicianus-ML276754671.wav	3	b

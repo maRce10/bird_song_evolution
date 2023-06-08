@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.515957483	1.692850847	791.0	4770.9	Gyps_rueppelli-ML21636081.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Gyps_rueppelli-ML21636081.wav	1	a
-2	Spectrogram 1	1	2.021661016	2.926313243	865.2	4523.7	Gyps_rueppelli-ML21636081.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Gyps_rueppelli-ML21636081.wav	2	a
-3	Spectrogram 1	1	3.292571319	4.427191215	840.5	5018.1	Gyps_rueppelli-ML21636081.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Gyps_rueppelli-ML21636081.wav	3	a

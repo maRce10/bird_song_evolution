@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.371217691	0.678798064	658.900	1976.600	Larus_michahellis-ML62337541.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_michahellis-ML62337541.wav	1	a
-2	Spectrogram 1	1	1.152542546	1.453052105	593.000	2020.500	Larus_michahellis-ML62337541.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_michahellis-ML62337541.wav	2	a
-3	Spectrogram 1	1	1.887907115	2.188416674	636.900	1954.600	Larus_michahellis-ML62337541.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_michahellis-ML62337541.wav	3	

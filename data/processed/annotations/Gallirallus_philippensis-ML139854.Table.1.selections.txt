@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	102.615549657	102.708035409	2936.3	5097.0	Gallirallus_philippensis-ML139854.wav	D:\Andean\Rallidae\Gallirallus_philippensis-ML139854.wav	1	a
-2	Spectrogram 1	1	103.540407169	103.632892920	2880.9	4875.4	Gallirallus_philippensis-ML139854.wav	D:\Andean\Rallidae\Gallirallus_philippensis-ML139854.wav	2	a
-3	Spectrogram 1	1	104.379385055	104.491689181	2853.2	4875.4	Gallirallus_philippensis-ML139854.wav	D:\Andean\Rallidae\Gallirallus_philippensis-ML139854.wav	3	a

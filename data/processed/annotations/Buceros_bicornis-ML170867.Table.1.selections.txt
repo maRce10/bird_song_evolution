@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.776202087	6.863012576	271.9	1260.7	Buceros_bicornis-ML170867.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Buceros_bicornis-ML170867.wav	1	a
-2	Spectrogram 1	1	9.350614286	9.462227772	173.0	1112.4	Buceros_bicornis-ML170867.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Buceros_bicornis-ML170867.wav	2	a
-3	Spectrogram 1	1	11.863294561	11.971364762	148.3	1236.0	Buceros_bicornis-ML170867.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Buceros_bicornis-ML170867.wav	3	a

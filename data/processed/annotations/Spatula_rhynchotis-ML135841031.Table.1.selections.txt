@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.844341886	8.133338572	840.5	2570.9	Spatula_rhynchotis-ML135841031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_rhynchotis-ML135841031.wav	1	a
-2	Spectrogram 1	1	8.353188812	8.475524833	964.1	2818.0	Spatula_rhynchotis-ML135841031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_rhynchotis-ML135841031.wav	1	b
-3	Spectrogram 1	1	8.775159434	9.161670340	766.3	2966.4	Spatula_rhynchotis-ML135841031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_rhynchotis-ML135841031.wav	2	a
-4	Spectrogram 1	1	9.411661339	9.535770346	914.6	2472.0	Spatula_rhynchotis-ML135841031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_rhynchotis-ML135841031.wav	2	b
-5	Spectrogram 1	1	9.919445553	10.297091530	543.8	2645.0	Spatula_rhynchotis-ML135841031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_rhynchotis-ML135841031.wav	3	a
-6	Spectrogram 1	1	10.527579685	10.664099592	519.1	2595.6	Spatula_rhynchotis-ML135841031.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Spatula_rhynchotis-ML135841031.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	33.017903507	33.107900266	329.4	614.9	Trachyphonus_purpuratus-ML146958.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Trachyphonus_purpuratus-ML146958.wav	1	a
-2	Spectrogram 1	1	34.480350839	34.580347238	329.4	593.0	Trachyphonus_purpuratus-ML146958.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Trachyphonus_purpuratus-ML146958.wav	2	a
-3	Spectrogram 1	1	36.115291931	36.200288870	351.4	593.0	Trachyphonus_purpuratus-ML146958.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Trachyphonus_purpuratus-ML146958.wav	3	a

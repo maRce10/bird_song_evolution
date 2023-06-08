@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.376917080	7.667586584	1191.1	2188.4	Dendrortyx_barbatus-ML49377471.wav	E:\Andean\Odontophoridae\Dendrortyx_barbatus-ML49377471.wav	1	a
-2	Spectrogram 1	1	7.984680588	8.163045965	1191.1	1994.5	Dendrortyx_barbatus-ML49377471.wav	E:\Andean\Odontophoridae\Dendrortyx_barbatus-ML49377471.wav	1	b
-3	Spectrogram 1	1	8.414078718	8.711354347	1218.8	2216.1	Dendrortyx_barbatus-ML49377471.wav	E:\Andean\Odontophoridae\Dendrortyx_barbatus-ML49377471.wav	2	a
-4	Spectrogram 1	1	9.015236101	9.206813728	1191.1	1911.4	Dendrortyx_barbatus-ML49377471.wav	E:\Andean\Odontophoridae\Dendrortyx_barbatus-ML49377471.wav	2	b
-5	Spectrogram 1	1	9.497483232	9.801364986	1191.1	2188.4	Dendrortyx_barbatus-ML49377471.wav	E:\Andean\Odontophoridae\Dendrortyx_barbatus-ML49377471.wav	3	a
-6	Spectrogram 1	1	10.125065115	10.316642742	1163.4	1994.5	Dendrortyx_barbatus-ML49377471.wav	E:\Andean\Odontophoridae\Dendrortyx_barbatus-ML49377471.wav	3	b

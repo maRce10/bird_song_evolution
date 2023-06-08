@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.329846077	1.448627563	5188.2	9868.9	Prodotiscus_regulus-ML176710061.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Prodotiscus_regulus-ML176710061.wav	1	a
-2	Spectrogram 1	1	1.647688119	1.758702567	5301.0	9643.4	Prodotiscus_regulus-ML176710061.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Prodotiscus_regulus-ML176710061.wav	1	a
-3	Spectrogram 1	1	6.731535250	6.830863966	5808.6	9812.5	Prodotiscus_regulus-ML176710061.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Prodotiscus_regulus-ML176710061.wav	2	a
-4	Spectrogram 1	1	7.572907906	7.695608085	5808.6	9868.9	Prodotiscus_regulus-ML176710061.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Prodotiscus_regulus-ML176710061.wav	2	a
-5	Spectrogram 1	1	8.466866354	8.577880801	5301.0	9530.6	Prodotiscus_regulus-ML176710061.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Prodotiscus_regulus-ML176710061.wav	2	a
-6	Spectrogram 1	1	12.237577199	12.348591646	5583.0	8966.6	Prodotiscus_regulus-ML176710061.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Prodotiscus_regulus-ML176710061.wav	3	a
-7	Spectrogram 1	1	13.038049795	13.137378512	5977.7	8853.8	Prodotiscus_regulus-ML176710061.wav	C:\Users\Carlos PC\Desktop\Marcelo\Indicatoridae\Prodotiscus_regulus-ML176710061.wav	3	a

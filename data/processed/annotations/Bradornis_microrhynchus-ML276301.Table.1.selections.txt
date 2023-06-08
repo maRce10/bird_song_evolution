@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.202314765	1.387286267	5069.3	7313.1	Bradornis_microrhynchus-ML276301.wav	E:\Andean\Muscicapidae\Bradornis_microrhynchus-ML276301.wav	1	a
-2	Spectrogram 1	1	4.677136559	4.901744812	5429.4	7091.5	Bradornis_microrhynchus-ML276301.wav	E:\Andean\Muscicapidae\Bradornis_microrhynchus-ML276301.wav	2	a
-3	Spectrogram 1	1	8.793219266	8.971584643	5761.8	7119.2	Bradornis_microrhynchus-ML276301.wav	E:\Andean\Muscicapidae\Bradornis_microrhynchus-ML276301.wav	3	a

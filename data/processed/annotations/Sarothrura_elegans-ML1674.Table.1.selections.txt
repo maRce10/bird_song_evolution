@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.814140820	12.583345776	270.1	581.7	Sarothrura_elegans-ML1674.wav	D:\Andean\Sarothruridae\Sarothrura_elegans-ML1674.wav	1	a
-2	Spectrogram 1	1	18.730049243	22.499254199	277.0	581.7	Sarothrura_elegans-ML1674.wav	D:\Andean\Sarothruridae\Sarothrura_elegans-ML1674.wav	2	a
-3	Spectrogram 1	1	29.863700805	33.458942456	270.1	595.6	Sarothrura_elegans-ML1674.wav	D:\Andean\Sarothruridae\Sarothrura_elegans-ML1674.wav	3	a

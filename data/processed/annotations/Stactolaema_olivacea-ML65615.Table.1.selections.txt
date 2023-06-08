@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	88.882703905	89.012699223	615.8	1493.4	Stactolaema_olivacea-ML65615.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Stactolaema_olivacea-ML65615.wav	1	a
-2	Spectrogram 1	1	89.632676895	89.752672574	674.4	1515.4	Stactolaema_olivacea-ML65615.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Stactolaema_olivacea-ML65615.wav	2	a
-3	Spectrogram 1	1	90.387649706	90.502645564	703.7	1537.4	Stactolaema_olivacea-ML65615.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Stactolaema_olivacea-ML65615.wav	3	a

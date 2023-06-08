@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	37.164241443	43.116360143	27.7	387.8	Psophia_leucoptera-ML29655.wav	D:\Andean\Psophiidae\Psophia_leucoptera-ML29655.wav	1	a
-2	Spectrogram 1	1	43.267069260	46.629586927	13.9	360.1	Psophia_leucoptera-ML29655.wav	D:\Andean\Psophiidae\Psophia_leucoptera-ML29655.wav	2	a
-3	Spectrogram 1	1	46.771577131	52.644422330	0.0	374.0	Psophia_leucoptera-ML29655.wav	D:\Andean\Psophiidae\Psophia_leucoptera-ML29655.wav	3	a

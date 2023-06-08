@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	33.548869198	34.087229129	1454.3	3490.3	Hemitriccus_minor-ML88300.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_minor-ML88300.wav	1	a
-2	Spectrogram 1	1	36.740049231	37.288919442	1371.2	3504.2	Hemitriccus_minor-ML88300.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_minor-ML88300.wav	2	a
-3	Spectrogram 1	1	41.064444108	41.610978702	1343.5	3421.1	Hemitriccus_minor-ML88300.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_minor-ML88300.wav	3	a

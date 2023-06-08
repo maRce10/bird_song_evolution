@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.102403677	4.267556804	1218.8	3213.3	Eopsaltria_australis-ML52531301.wav	D:\Andean\Petroicidae\Eopsaltria_australis-ML52531301.wav	1	a
-2	Spectrogram 1	1	4.822471311	5.014048938	1218.8	3213.3	Eopsaltria_australis-ML52531301.wav	D:\Andean\Petroicidae\Eopsaltria_australis-ML52531301.wav	1	a
-3	Spectrogram 1	1	12.269773326	12.434926453	1218.8	3241.0	Eopsaltria_australis-ML52531301.wav	D:\Andean\Petroicidae\Eopsaltria_australis-ML52531301.wav	2	a
-4	Spectrogram 1	1	13.003053211	13.168206338	1191.1	3213.3	Eopsaltria_australis-ML52531301.wav	D:\Andean\Petroicidae\Eopsaltria_australis-ML52531301.wav	2	a
-5	Spectrogram 1	1	17.878813570	18.057178947	1191.1	3102.5	Eopsaltria_australis-ML52531301.wav	D:\Andean\Petroicidae\Eopsaltria_australis-ML52531301.wav	3	a
-6	Spectrogram 1	1	18.572456704	18.764034331	1218.8	3241.0	Eopsaltria_australis-ML52531301.wav	D:\Andean\Petroicidae\Eopsaltria_australis-ML52531301.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.135183893	6.195419742	1074.5	4064.3	Charadrius_tricollaris-ML24839.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_tricollaris-ML24839.wav	1	a
-2	Spectrogram 1	1	6.248569021	6.305261586	1121.2	4064.3	Charadrius_tricollaris-ML24839.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_tricollaris-ML24839.wav	1	b
-3	Spectrogram 1	1	6.427504928	6.489512420	934.3	4181.1	Charadrius_tricollaris-ML24839.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_tricollaris-ML24839.wav	2	a
-4	Spectrogram 1	1	6.516087059	6.578094552	1027.8	3970.9	Charadrius_tricollaris-ML24839.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_tricollaris-ML24839.wav	2	b
-5	Spectrogram 1	1	7.146791838	7.205256045	1097.8	4204.4	Charadrius_tricollaris-ML24839.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_tricollaris-ML24839.wav	3	a
-6	Spectrogram 1	1	7.256633681	7.293838177	1074.5	4040.9	Charadrius_tricollaris-ML24839.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_tricollaris-ML24839.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	39.791762300	39.892521388	473.7	4029.9	Carpodectes_hopkei-ML245912.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpodectes_hopkei-ML245912.wav	1	a
-2	Spectrogram 1	1	42.222117859	42.334367018	574.6	3944.5	Carpodectes_hopkei-ML245912.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpodectes_hopkei-ML245912.wav	2	a
-3	Spectrogram 1	1	49.753856798	49.879363731	512.5	4006.6	Carpodectes_hopkei-ML245912.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Carpodectes_hopkei-ML245912.wav	3	a

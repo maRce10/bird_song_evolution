@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.384402798	1.472880330	1191.261	4392.400	Ortygospiza_atricollis-ML144314741.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Ortygospiza_atricollis-ML144314741.wav	1	a
-2	Spectrogram 1	1	1.602840495	1.687872587	1167.903	4304.600	Ortygospiza_atricollis-ML144314741.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Ortygospiza_atricollis-ML144314741.wav	1	a
-3	Spectrogram 1	1	1.812100137	1.897865025	1700.200	4344.597	Ortygospiza_atricollis-ML144314741.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Ortygospiza_atricollis-ML144314741.wav	1	b
-5	Spectrogram 1	1	14.888923618	14.967430685	1494.915	4197.500	Ortygospiza_atricollis-ML144314741.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Ortygospiza_atricollis-ML144314741.wav	3	a
-6	Spectrogram 1	1	15.079827151	15.161173708	1564.989	4303.700	Ortygospiza_atricollis-ML144314741.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Ortygospiza_atricollis-ML144314741.wav	2	a
-7	Spectrogram 1	1	15.279919431	15.359916550	1820.600	4489.700	Ortygospiza_atricollis-ML144314741.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Ortygospiza_atricollis-ML144314741.wav	2	b

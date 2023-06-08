@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	463.707887292	464.195839994	526.3	2465.4	Nestor_notabilis-ML165950.wav	D:\Andean\Strigopidae\Nestor_notabilis-ML165950.wav	1	a
-2	Spectrogram 1	1	464.495211941	465.018523534	1080.3	3268.7	Nestor_notabilis-ML165950.wav	D:\Andean\Strigopidae\Nestor_notabilis-ML165950.wav	1	b
-3	Spectrogram 1	1	465.027952572	465.369755189	554.0	3213.3	Nestor_notabilis-ML165950.wav	D:\Andean\Strigopidae\Nestor_notabilis-ML165950.wav	1	c
-4	Spectrogram 1	1	468.734205353	469.147580216	803.3	3130.2	Nestor_notabilis-ML165950.wav	D:\Andean\Strigopidae\Nestor_notabilis-ML165950.wav	2	b
-5	Spectrogram 1	1	469.230921923	469.520951061	775.6	3351.8	Nestor_notabilis-ML165950.wav	D:\Andean\Strigopidae\Nestor_notabilis-ML165950.wav	2	d
-6	Spectrogram 1	1	472.081206647	473.131312146	747.9	3351.8	Nestor_notabilis-ML165950.wav	D:\Andean\Strigopidae\Nestor_notabilis-ML165950.wav	3	e

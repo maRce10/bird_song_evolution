@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.968627586	16.719250733	747.9	1495.9	Sagittarius_serpentarius-ML348379561.wav	D:\Andean\Sagittariidae\Sagittarius_serpentarius-ML348379561.wav	1	a
-2	Spectrogram 1	1	18.780361759	20.557409406	775.6	1551.3	Sagittarius_serpentarius-ML348379561.wav	D:\Andean\Sagittariidae\Sagittarius_serpentarius-ML348379561.wav	2	a
-3	Spectrogram 1	1	20.851547821	22.040650336	775.6	1495.9	Sagittarius_serpentarius-ML348379561.wav	D:\Andean\Sagittariidae\Sagittarius_serpentarius-ML348379561.wav	3	a

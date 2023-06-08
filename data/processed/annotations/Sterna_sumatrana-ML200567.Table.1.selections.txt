@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	91.546256801	91.799571104	654.025	3760.646	Sterna_sumatrana-ML200567.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_sumatrana-ML200567.wav	1	a
-2	Spectrogram 1	1	92.517294964	92.772444878	794.174	3970.869	Sterna_sumatrana-ML200567.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_sumatrana-ML200567.wav	2	a
-3	Spectrogram 1	1	112.917654940	113.128750193	770.816	3690.572	Sterna_sumatrana-ML200567.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_sumatrana-ML200567.wav	3	a

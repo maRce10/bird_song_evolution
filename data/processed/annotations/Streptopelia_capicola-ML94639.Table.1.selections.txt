@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	17.988666669	18.089744277	370.6	1111.8	Streptopelia_capicola-ML94639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_capicola-ML94639.wav	1	a
-2	Spectrogram 1	1	18.186227447	18.767423690	432.4	1111.8	Streptopelia_capicola-ML94639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_capicola-ML94639.wav	1	b
-3	Spectrogram 1	1	19.307270002	19.401455954	432.4	1142.6	Streptopelia_capicola-ML94639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_capicola-ML94639.wav	2	a
-4	Spectrogram 1	1	19.502812541	20.106980967	370.6	1050.0	Streptopelia_capicola-ML94639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_capicola-ML94639.wav	2	b
-5	Spectrogram 1	1	20.539323610	20.647292872	432.4	1080.9	Streptopelia_capicola-ML94639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_capicola-ML94639.wav	3	
-6	Spectrogram 1	1	20.736884388	21.361727779	370.6	1142.6	Streptopelia_capicola-ML94639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_capicola-ML94639.wav	3	b

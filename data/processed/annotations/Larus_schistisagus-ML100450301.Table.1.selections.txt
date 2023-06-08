@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	41.407704954	41.771137369	584.0	3480.3	Larus_schistisagus-ML100450301.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_schistisagus-ML100450301.wav	1	a
-2	Spectrogram 1	1	41.869783310	42.877010289	490.5	4391.3	Larus_schistisagus-ML100450301.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_schistisagus-ML100450301.wav	1	b
-3	Spectrogram 1	1	43.131412980	43.702521061	607.3	3854.1	Larus_schistisagus-ML100450301.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_schistisagus-ML100450301.wav	1	c
-4	Spectrogram 1	1	43.925772401	44.455345349	607.3	3854.1	Larus_schistisagus-ML100450301.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_schistisagus-ML100450301.wav	1	c
-5	Spectrogram 1	1	44.652637232	45.109523696	677.4	3994.2	Larus_schistisagus-ML100450301.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_schistisagus-ML100450301.wav	1	c
-6	Spectrogram 1	1	45.327583145	45.722166910	630.7	3854.1	Larus_schistisagus-ML100450301.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_schistisagus-ML100450301.wav	1	d
-7	Spectrogram 1	1	45.989221840	46.300735339	607.3	3994.2	Larus_schistisagus-ML100450301.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_schistisagus-ML100450301.wav	1	e

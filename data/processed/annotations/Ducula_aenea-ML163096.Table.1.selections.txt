@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	23.792437457	24.978330746	70.1	490.5	Ducula_aenea-ML163096.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ducula_aenea-ML163096.wav	1	a
-2	Spectrogram 1	1	32.023352777	33.220872471	93.4	443.8	Ducula_aenea-ML163096.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ducula_aenea-ML163096.wav	2	a
-3	Spectrogram 1	1	41.860866935	43.056725714	70.1	490.5	Ducula_aenea-ML163096.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ducula_aenea-ML163096.wav	3	a

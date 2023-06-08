@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	19.370717219	23.051651064	55.4	1135.7	Pterodroma_hypoleuca-ML979.wav	D:\Andean\Procellariidae\Pterodroma_hypoleuca-ML979.wav	1	a
-2	Spectrogram 1	1	23.472062290	26.218748966	55.4	1108.0	Pterodroma_hypoleuca-ML979.wav	D:\Andean\Procellariidae\Pterodroma_hypoleuca-ML979.wav	2	a
-3	Spectrogram 1	1	26.688142286	30.275651414	110.8	1163.4	Pterodroma_hypoleuca-ML979.wav	D:\Andean\Procellariidae\Pterodroma_hypoleuca-ML979.wav	3	a

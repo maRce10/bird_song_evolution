@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	58.991482747	59.425762406	653.1	1227.9	Athene_noctua-ML23667.wav	D:\Andean\Strigidae\Athene_noctua-ML23667.wav	1	a
-2	Spectrogram 1	1	60.718009198	61.141696671	627.0	1332.4	Athene_noctua-ML23667.wav	D:\Andean\Strigidae\Athene_noctua-ML23667.wav	2	a
-3	Spectrogram 1	1	62.275060661	62.719932507	522.5	1358.5	Athene_noctua-ML23667.wav	D:\Andean\Strigidae\Athene_noctua-ML23667.wav	3	a

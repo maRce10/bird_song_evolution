@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	20.972332769	21.030723217	890.4	3142.5	Dendrocopos_himalayensis-ML173357611.wav	D:\Andean\Picidae\Dendrocopos_himalayensis-ML173357611.wav	1	a
-2	Spectrogram 1	1	21.367052198	21.430113882	785.6	3325.8	Dendrocopos_himalayensis-ML173357611.wav	D:\Andean\Picidae\Dendrocopos_himalayensis-ML173357611.wav	2	a
-3	Spectrogram 1	1	21.773449716	21.822497692	916.6	3116.3	Dendrocopos_himalayensis-ML173357611.wav	D:\Andean\Picidae\Dendrocopos_himalayensis-ML173357611.wav	3	a

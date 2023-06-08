@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.683202526	4.705498198	3434.9	8725.8	Fulvetta_cinereiceps-ML175646.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_cinereiceps-ML175646.wav	1	a
-2	Spectrogram 1	1	4.722839276	4.749263777	2991.7	7811.7	Fulvetta_cinereiceps-ML175646.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_cinereiceps-ML175646.wav	1	b
-3	Spectrogram 1	1	4.818628090	4.845878356	3241.0	8698.1	Fulvetta_cinereiceps-ML175646.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_cinereiceps-ML175646.wav	2	a
-4	Spectrogram 1	1	4.856613309	4.886340872	3074.8	7423.9	Fulvetta_cinereiceps-ML175646.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_cinereiceps-ML175646.wav	2	b
-5	Spectrogram 1	1	4.937538342	4.963962842	3407.2	8753.5	Fulvetta_cinereiceps-ML175646.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_cinereiceps-ML175646.wav	3	a
-6	Spectrogram 1	1	4.978000858	5.002773827	3074.8	7894.8	Fulvetta_cinereiceps-ML175646.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_cinereiceps-ML175646.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.869421447	9.067626700	2933.586	3528.184	Lipaugus_ater-ML112774.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_ater-ML112774.wav	1	a
-2	Spectrogram 1	1	14.332204827	16.519533433	2933.586	3462.118	Lipaugus_ater-ML112774.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_ater-ML112774.wav	2	a
-3	Spectrogram 1	1	22.813949380	25.927341783	3032.685	3561.218	Lipaugus_ater-ML112774.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_ater-ML112774.wav	3	a

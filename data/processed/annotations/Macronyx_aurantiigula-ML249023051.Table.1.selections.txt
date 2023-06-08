@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.660979872	0.726377174	3351.8	4321.4	Macronyx_aurantiigula-ML249023051.wav	E:\Andean\Motacillidae\Macronyx_aurantiigula-ML249023051.wav	1	a
-2	Spectrogram 1	1	0.745062117	1.240213116	2326.9	4099.7	Macronyx_aurantiigula-ML249023051.wav	E:\Andean\Motacillidae\Macronyx_aurantiigula-ML249023051.wav	1	b
-3	Spectrogram 1	1	5.262770764	5.325832448	3518.0	4598.4	Macronyx_aurantiigula-ML249023051.wav	E:\Andean\Motacillidae\Macronyx_aurantiigula-ML249023051.wav	2	a
-4	Spectrogram 1	1	5.353859863	5.842004009	2410.0	4099.7	Macronyx_aurantiigula-ML249023051.wav	E:\Andean\Motacillidae\Macronyx_aurantiigula-ML249023051.wav	2	b
-5	Spectrogram 1	1	8.764347931	8.839087704	3490.3	4653.8	Macronyx_aurantiigula-ML249023051.wav	E:\Andean\Motacillidae\Macronyx_aurantiigula-ML249023051.wav	3	a
-6	Spectrogram 1	1	8.850765794	9.352923647	2382.3	4321.4	Macronyx_aurantiigula-ML249023051.wav	E:\Andean\Motacillidae\Macronyx_aurantiigula-ML249023051.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.492253583	7.941470089	2540.2	3456.8	Piculus_aurulentus-ML164299.wav	D:\Andean\Picidae\Piculus_aurulentus-ML164299.wav	1	a
-2	Spectrogram 1	1	9.526940108	9.910095363	2487.8	3509.1	Piculus_aurulentus-ML164299.wav	D:\Andean\Picidae\Piculus_aurulentus-ML164299.wav	2	a
-3	Spectrogram 1	1	17.776972615	18.199764621	2409.3	3430.6	Piculus_aurulentus-ML164299.wav	D:\Andean\Picidae\Piculus_aurulentus-ML164299.wav	3	a

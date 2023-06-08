@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.584545841	13.683537225	2608.4	5666.2	Merops_oreobates-ML1022.wav	E:\Escritorio\Cantos\Meropidae\Merops_oreobates-ML1022.wav	1	a
-2	Spectrogram 1	1	17.005190284	17.098878559	2581.5	5732.1	Merops_oreobates-ML1022.wav	E:\Escritorio\Cantos\Meropidae\Merops_oreobates-ML1022.wav	2	a
-3	Spectrogram 1	1	22.107914590	22.196299755	2613.5	5688.2	Merops_oreobates-ML1022.wav	E:\Escritorio\Cantos\Meropidae\Merops_oreobates-ML1022.wav	3	a

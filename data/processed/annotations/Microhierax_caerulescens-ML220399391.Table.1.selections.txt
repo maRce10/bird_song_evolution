@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	33.756536433	34.064919064	1331.4	6657.0	Microhierax_caerulescens-ML220399391.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Microhierax_caerulescens-ML220399391.wav	2	a
-2	Spectrogram 1	1	35.233469599	35.626290330	1097.8	5699.4	Microhierax_caerulescens-ML220399391.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Falconidae\Falconidae\Microhierax_caerulescens-ML220399391.wav	1	a

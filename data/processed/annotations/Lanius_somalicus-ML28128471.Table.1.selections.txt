@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.414782868	1.836973373	981.0	6516.9	Lanius_somalicus-ML28128471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_somalicus-ML28128471.wav	1	a
-2	Spectrogram 1	1	4.563006666	4.988868393	887.6	6306.7	Lanius_somalicus-ML28128471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_somalicus-ML28128471.wav	2	a
-3	Spectrogram 1	1	9.381282860	9.812651420	957.7	6703.8	Lanius_somalicus-ML28128471.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laniidae\Laniidae\Lanius_somalicus-ML28128471.wav	3	a

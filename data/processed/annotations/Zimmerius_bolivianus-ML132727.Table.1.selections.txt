@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.568159706	9.783036555	1959.4	5094.5	Zimmerius_bolivianus-ML132727.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_bolivianus-ML132727.wav	1	a
-2	Spectrogram 1	1	14.888192677	15.107740762	2037.8	4937.7	Zimmerius_bolivianus-ML132727.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_bolivianus-ML132727.wav	2	a
-3	Spectrogram 1	1	18.670560859	18.899451416	2037.8	5251.2	Zimmerius_bolivianus-ML132727.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_bolivianus-ML132727.wav	3	a

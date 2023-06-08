@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.578035945	0.650703321	1335.6	4478.1	Chloropicus_griseocephalus-ML221509.wav	D:\Andean\Picidae\Chloropicus_griseocephalus-ML221509.wav	1	a
-2	Spectrogram 1	1	0.723370697	0.848887073	1387.9	4635.2	Chloropicus_griseocephalus-ML221509.wav	D:\Andean\Picidae\Chloropicus_griseocephalus-ML221509.wav	2	a
-3	Spectrogram 1	1	0.934766699	1.043767763	1178.4	4661.4	Chloropicus_griseocephalus-ML221509.wav	D:\Andean\Picidae\Chloropicus_griseocephalus-ML221509.wav	3	a

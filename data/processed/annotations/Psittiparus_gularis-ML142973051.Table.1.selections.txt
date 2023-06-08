@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.510199230	5.641669098	2847.7	3762.1	Psittiparus_gularis-ML142973051.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_gularis-ML142973051.wav	1	a
-2	Spectrogram 1	1	5.806006433	5.957196782	2847.7	3788.2	Psittiparus_gularis-ML142973051.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_gularis-ML142973051.wav	1	a
-3	Spectrogram 1	1	11.248858969	11.419769798	2978.3	3814.3	Psittiparus_gularis-ML142973051.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_gularis-ML142973051.wav	2	a
-4	Spectrogram 1	1	11.577533639	11.741870974	2847.7	3866.6	Psittiparus_gularis-ML142973051.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_gularis-ML142973051.wav	2	a
-5	Spectrogram 1	1	11.906208310	12.057398658	2899.9	3762.1	Psittiparus_gularis-ML142973051.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_gularis-ML142973051.wav	2	a
-6	Spectrogram 1	1	20.234393669	20.425024978	2847.7	3866.6	Psittiparus_gularis-ML142973051.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_gularis-ML142973051.wav	3	a
-7	Spectrogram 1	1	20.530200872	20.720832181	2795.4	3892.7	Psittiparus_gularis-ML142973051.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_gularis-ML142973051.wav	3	a
-8	Spectrogram 1	1	20.845728555	21.016639384	2847.7	3814.3	Psittiparus_gularis-ML142973051.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Psittiparus_gularis-ML142973051.wav	3	a

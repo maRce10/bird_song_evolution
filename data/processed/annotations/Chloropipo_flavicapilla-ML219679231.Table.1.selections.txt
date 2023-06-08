@@ -1,2 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.045602446	7.514240725	4859.4	7837.7	Chloropipo_flavicapilla-ML219679231.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Chloropipo_flavicapilla-ML219679231.wav	1	a

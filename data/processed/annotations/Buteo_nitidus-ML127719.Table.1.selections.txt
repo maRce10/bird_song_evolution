@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.189640658	15.207585780	1038.2	3015.8	Buteo_nitidus-ML127719.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_nitidus-ML127719.wav	1	a
-2	Spectrogram 1	1	43.940387712	44.998915364	1087.7	3114.7	Buteo_nitidus-ML127719.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_nitidus-ML127719.wav	2	a
-3	Spectrogram 1	1	100.227285725	101.260449296	1062.9	3114.7	Buteo_nitidus-ML127719.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_nitidus-ML127719.wav	3	a

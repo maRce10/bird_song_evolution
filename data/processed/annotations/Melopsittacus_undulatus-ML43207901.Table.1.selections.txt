@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.054072493	1.229243837	664.8	2964.0	Melopsittacus_undulatus-ML43207901.wav	D:\Andean\Psittaculidae\Melopsittacus_undulatus-ML43207901.wav	1	a
-2	Spectrogram 1	1	2.296759373	2.466091672	997.2	3074.8	Melopsittacus_undulatus-ML43207901.wav	D:\Andean\Psittaculidae\Melopsittacus_undulatus-ML43207901.wav	2	b
-3	Spectrogram 1	1	4.195095495	4.322386672	997.2	1828.3	Melopsittacus_undulatus-ML43207901.wav	D:\Andean\Psittaculidae\Melopsittacus_undulatus-ML43207901.wav	3	c
-4	Spectrogram 1	1	4.387783974	4.604996441	858.7	2964.0	Melopsittacus_undulatus-ML43207901.wav	D:\Andean\Psittaculidae\Melopsittacus_undulatus-ML43207901.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.304583290	2.774068589	469.7	4251.8	Calyptorhynchus_banksii-ML31676491.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_banksii-ML31676491.wav	1	a
-2	Spectrogram 1	1	4.723999572	5.221831153	593.3	3955.2	Calyptorhynchus_banksii-ML31676491.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_banksii-ML31676491.wav	2	a
-3	Spectrogram 1	1	9.157046772	9.617673857	667.4	4103.5	Calyptorhynchus_banksii-ML31676491.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_banksii-ML31676491.wav	3	a

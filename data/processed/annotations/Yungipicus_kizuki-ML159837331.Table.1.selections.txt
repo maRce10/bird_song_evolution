@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.982201020	1.338931774	2465.4	6177.3	Yungipicus_kizuki-ML159837331.wav	D:\Andean\Picidae\Yungipicus_kizuki-ML159837331.wav	1	a
-2	Spectrogram 1	1	8.751004117	9.048279746	2742.4	6620.5	Yungipicus_kizuki-ML159837331.wav	D:\Andean\Picidae\Yungipicus_kizuki-ML159837331.wav	2	a
-3	Spectrogram 1	1	15.607680280	15.977623284	2631.6	6371.2	Yungipicus_kizuki-ML159837331.wav	D:\Andean\Picidae\Yungipicus_kizuki-ML159837331.wav	3	a

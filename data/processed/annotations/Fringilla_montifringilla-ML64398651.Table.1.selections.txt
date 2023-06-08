@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.210111828	5.998507496	1625.2	4831.7	Fringilla_montifringilla-ML64398651.wav	E:\Escritorio\Cantos\Fringillidae\Fringilla_montifringilla-ML64398651.wav	1	a
-2	Spectrogram 1	1	10.980261582	11.758051030	1631.7	4828.9	Fringilla_montifringilla-ML64398651.wav	E:\Escritorio\Cantos\Fringillidae\Fringilla_montifringilla-ML64398651.wav	2	a
-3	Spectrogram 1	1	14.495325378	15.280185639	1631.7	4851.0	Fringilla_montifringilla-ML64398651.wav	E:\Escritorio\Cantos\Fringillidae\Fringilla_montifringilla-ML64398651.wav	3	a

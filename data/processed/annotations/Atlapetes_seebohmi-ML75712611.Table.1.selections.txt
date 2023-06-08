@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.562528390	1.641939399	6756.4	8982.4	Atlapetes_seebohmi-ML75712611.wav	D:\Andean\Passerellidae\Atlapetes_seebohmi-ML75712611.wav	1	a
-2	Spectrogram 1	1	4.725084129	4.816173228	7044.5	9453.7	Atlapetes_seebohmi-ML75712611.wav	D:\Andean\Passerellidae\Atlapetes_seebohmi-ML75712611.wav	2	a
-3	Spectrogram 1	1	7.999529326	8.123317075	6468.3	9951.3	Atlapetes_seebohmi-ML75712611.wav	D:\Andean\Passerellidae\Atlapetes_seebohmi-ML75712611.wav	3	a

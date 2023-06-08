@@ -94,6 +94,14 @@ source("~/Dropbox/R_package_testing/Rraven/R/imp_raven.R")
 source("~/Dropbox/R_package_testing/Rraven/R/internal_functions.R")
 ```
 
+# Consolidate sound files
+```{r, eval = FALSE}
+
+cns <- consolidate(path = "/media/m/Campylopterus/bird_song_evolution/by_family", dest.path = "/run/user/1000/gvfs/smb-share:server=cinnas.local,share=neurobiología/marcelo_araya/bird_song_evolution/consolidated_sound_files", parallel = 10)
+
+```
+
+
 # Update annotations from google drive
 
 ```{r update annotations, eval = FALSE}
@@ -105,11 +113,23 @@ ann_folder <- drive_find(pattern = "raven_selections", type = "folder")
 fam_folders <- drive_ls(ann_folder)
 
 # list files
-anns_ls <-  lapply(1:nrow(fam_folders), function(x)
-    drive_ls(fam_folders$id[1])
+anns_ls <- lapply(1:nrow(fam_folders), function(x)
+    drive_ls(fam_folders$id[x])
     )
 
 all_ans <- do.call(rbind, anns_ls)
+
+all_ans$modified.time <- sapply(1:nrow(all_ans), function(x) 
+all_ans$drive_resource[[x]]$modifiedTime)
+
+all_ans <- all_ans[, c("name", "id", "modified.time")]
+
+
+local_files <- list.files("./data/processed/annotations", pattern = ".txt", full.names = FALSE)
+local_file_max_time <- max(file.mtime(list.files("./data/processed/annotations", pattern = ".txt", full.names = TRUE)))
+
+# keep those changed after older local file
+all_ans <- all_ans[all_ans$modified.time > local_file_max_time | !all_ans$name %in% local_files,]
 
 owd <- getwd()
 
@@ -117,22 +137,14 @@ setwd("./data/processed/annotations")
 
 # copy locally new files found in google drive 
 new_files <- sapply(1:nrow(all_ans), function(x) {
-
-    if (!file.exists(all_ans$name[x])){
     
-    drive_download(all_ans$id[x])
+    drive_download(all_ans$id[x], overwrite = TRUE)
      
-    out <- TRUE
-    
-    } else out <- FALSE
-    
-    return(out)
-})
+    })
 
-setwd(owd)  
+xz vcsetwd(owd)  
 
-
-new_file_count <- sum(new_files)
+new_file_count <- nrow(all_ans)
 
 if (new_file_count > 0)
     print(paste(new_file_count, "new annotations file(s) found"))
@@ -145,6 +157,7 @@ if (new_file_count > 0)
 
 rec_data <- read_sheet('https://docs.google.com/spreadsheets/d/16ukhyf37hm13f1FXB2JQ-tCfHoxXy2qj_TX2xWvTVu8/edit#gid=148139271')
 
+rec_data$assigned_to[rec_data$assigned_to == "NA"] <- NA
 anns <- imp_raven(path = "./data/processed/annotations",  all.data = TRUE, warbler.format = TRUE, name.from.file = TRUE, ext.case = "lower", pb = FALSE)
 
 ann_files <- unique(c(anns$selec.file, unlist(.Options$Rraven)))
@@ -186,13 +199,13 @@ weird_files$assinged.to <-  sapply(weird_files$family, function(x)
 
 ```
 
-- `r nrow(ann_files)` species from `r length(unique(ann_files$family))` already annotated (`r  paste0(round(nrow(ann_files) / nrow(rec_data), 2) * 100, "%")` of all recordings)
+- `r nrow(ann_files)` species from `r length(unique(ann_files$family))` families already annotated (`r  paste0(round(nrow(ann_files) / nrow(rec_data), 2) * 100, "%")` of all recordings)
 
 - `r sum(fam_count$prop.annotated >= 0.9)` families with 90% of the recordings annotated (`r round(sum(fam_count$prop.annotated >= 0.9) / nrow(fam_count), 2) * 100` of all families)
 
 - `r sum(fam_count$prop.annotated <= 0.05)` families with less than 5% of the recordings annotated (`r round(sum(fam_count$prop.annotated <= 0.05) / nrow(fam_count), 2) * 100` of all families)
 
-- `r nrow(weird_files)` weirdly named file(s):
+- `r sum(weird_files$problem == "file name")` weirdly named file(s) and `r sum(weird_files$problem == "Empty file")` empty file(s):
 ```{r}
 
 weird_files
@@ -217,7 +230,8 @@ fam_count$prop.annotated <-
           color = "white",
           background = "green",
           bold = TRUE,
-          font_size = 12
+          font_size = 12,
+          new_tab = TRUE
         ),
         ifelse(
        fam_count$prop.annotated > 0.5,
@@ -227,7 +241,8 @@ fam_count$prop.annotated <-
           color = "black",
           background = "yellow",
           bold = TRUE,
-          font_size = 12
+          font_size = 12,
+          new_tab = TRUE
         ),
         kableExtra::cell_spec(
           fam_count$prop.annotated,
@@ -235,7 +250,8 @@ fam_count$prop.annotated <-
           color = "white",
           background = "red",
           bold = TRUE,
-          font_size = 12
+          font_size = 12,
+          new_tab = TRUE
         )
        )
       )
@@ -249,17 +265,18 @@ fam_count$assinged.to <-
           color = "white",
           background = "red",
           bold = TRUE,
-          font_size = 12
+          font_size = 12,
+          new_tab = TRUE
         ),
-         kableExtra::cell_spec(fam_count$assinged.to, "html")
+         kableExtra::cell_spec(fam_count$assinged.to, "html", new_tab = TRUE)
        )
 
 
 fam_count$recordings <- 
-  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fbird%5Fsong%5Frecordings%2F", fam_count$family))
+  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fbird%5Fsong%5Frecordings%2F", fam_count$family), new_tab = TRUE)
 
 fam_count$spectrograms <- ifelse(prop_analzyed > 0,
-  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo_araya_ucr_ac_cr%2FDocuments%2Fannotated_spectrograms%2F", fam_count$family)), "")
+  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo_araya_ucr_ac_cr%2FDocuments%2Fannotated_spectrograms%2F", fam_count$family), new_tab = TRUE), "")
 
 
 fam_count_kbl <- kableExtra::kbl(
@@ -293,7 +310,7 @@ fam_count_kbl <- kableExtra::kbl(
 # Check annotations
 ```{r, eval = TRUE}
 
-warbleR_options(wav.path = "/media/m/Seagate Portable Drive/bird_song_recordings/consolidated_files")
+warbleR_options(wav.path = "/run/user/1000/gvfs/smb-share:server=cinnas.local,share=neurobiología/marcelo_araya/bird_song_evolution/consolidated_sound_files")
 
 # check_sound_files()
 
@@ -333,30 +350,39 @@ feature_bysong <- feature_reference(reference = ok_anns, by.sound.file = TRUE)
 problematic_sels <- cs[cs$check.res != "OK", ]
 
 # weird duration or frequency range
-long_anns <- ok_anns[ok_anns$end - ok_anns$start > 1, ] 
-long_anns$check.res <- "longer than 1 s"
+long_anns <- cs[cs$end - cs$start > 3 & !cs$family %in% c("Tinamidae", "Accipitridae", "Falconidae"), ] 
+long_anns$check.res <- "longer than 3 s"
 
-broad_anns <- ok_anns[ok_anns$top.freq - ok_anns$bottom.freq > 10, ] 
+broad_anns <- cs[cs$top.freq - cs$bottom.freq > 10, ] 
 broad_anns$check.res <- "frequency range wider than 10 kHz"
 
-problematic_sels <- rbind(problematic_sels, long_anns, broad_anns)
+song_na <- cs[is.na(cs$song), ] 
+song_na$check.res <- "NAs in 'song'"
+
+elem_na <- cs[is.na(cs$element), ] 
+elem_na$check.res <- "NAs in 'element'"
+
+problematic_sels <- rbind(problematic_sels, long_anns, broad_anns, song_na, elem_na)
 
 problematic_sels <- problematic_sels[, c("sound.files","family", "assinged.to",  "selec", "check.res")]
 
 problematic_sels$spectrograms <- ""
-names(problematic_sels) <- c("sound.file", "family", "assinged.to", "selection_number", "problem", "spectrograms")
+names(problematic_sels) <- c("sound.file", "family", "assinged.to", "selection", "problem", "spectrograms")
 
-problematic_sels <- problematic_sels[order(problematic_sels$family, problematic_sels$sound.file, problematic_sels$selection_number), ]
+problematic_sels <- problematic_sels[order(problematic_sels$family, problematic_sels$sound.file, problematic_sels$selection), ]
 
 sf <- gsub("\\.wav", "", problematic_sels$sound.file)
 sf <- gsub("_", "%5F", sf)
 sf <- gsub("-", "%2D", sf)
 
-problematic_sels$spectrograms <- 
-  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo_araya_ucr_ac_cr%2FDocuments%2Fannotated_spectrograms%2F", problematic_sels$family, "%2F", sf, "%2D%2Dp1%2Ejpeg&parent=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fannotated%5Fspectrograms%2F", problematic_sels$family))
+problematic_sels <- problematic_sels[order(problematic_sels$sound.file, problematic_sels$selection), ]
 
-problematic_sels$recording <- 
-  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fbird%5Fsong%5Frecordings%2F", problematic_sels$family, "%2F", sf, "%2Ewav&parent=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fbird%5Fsong%5Frecordings%2F", problematic_sels$family))
+problematic_sels$spectrograms <- ifelse(file.exists(file.path("./data/processed/annotated_spectrograms", problematic_sels$family, gsub(".wav", "--p1.jpeg",problematic_sels$sound.file))),  
+  kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?q=",gsub("_", "%5F", sapply(strsplit(problematic_sels$sound.file, "-"), "[", 1)), "&view=7&id=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fannotated%5Fspectrograms&searchScope=folder"), new_tab = TRUE), "")
+
+problematic_sels$recording <-    
+   kableExtra::cell_spec("link", "html", link = paste0("https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?q=",gsub("_", "%5F", sapply(strsplit(problematic_sels$sound.file, "-"), "[", 1)), "&view=7&id=%2Fpersonal%2Fmarcelo%5Faraya%5Fucr%5Fac%5Fcr%2FDocuments%2Fbird%5Fsong%5Frecordings&searchScope=folder"), new_tab = TRUE)
+    
 
 problematic_sels_kbl <- kableExtra::kbl(
       problematic_sels,
@@ -381,13 +407,16 @@ problematic_sels_kbl <- kableExtra::kbl(
 ## Created annotated spectrograms
 ```{r, eval = FALSE}
 
-# create folders for each family
-# for(i in unique(rec_data$family))
-#     dir.create(file.path("./data/processed/annotated_spectrograms", i))
+ann_spec_path <- "./data/processed/annotated_spectrograms"
 
-out <- warbleR:::pblapply_wrblr_int(sort(unique(ok_anns$sound.files)), pbar = TRUE, cl = 8, function(x)
+# create folders for each family
+for(i in unique(rec_data$family))
+    if (!file.exists(file.path(ann_spec_path, i)))
+    dir.create(file.path(ann_spec_path, i))
+
+out <- warbleR:::pblapply_wrblr_int(sort(unique(cs$sound.files)), pbar = TRUE, cl = 8, function(x)
     {
-    sub_anns <- ok_anns[ok_anns$sound.files == x, ]
+    sub_anns <- cs[cs$sound.files == x, ]
     frq_range <- range(c(sub_anns$bottom.freq, sub_anns$top.freq))
     
     frq_range[1] <- frq_range[1] - 1
@@ -398,14 +427,160 @@ out <- warbleR:::pblapply_wrblr_int(sort(unique(ok_anns$sound.files)), pbar = TR
     
     if (frq_range[2] > 22.05) frq_range[2] <- 22.05
     
+    sub_anns$selec <- paste(sub_anns$selec, sub_anns$element, sep = "-")
     
-    # print(ok_anns$family[1])
-    full_spectrograms(X = sub_anns, flim = frq_range, sxrow = 4, rows = 10, ovlp = 50, collevels = seq(-100, 0, 5), parallel = 1, overwrite = TRUE, dest.path = file.path("./data/processed/annotated_spectrograms", sub_anns$family[1]), song = "song", fast.spec = TRUE, horizontal = TRUE, pb = FALSE)
+    # print(cs$family[1])
+    # if (!file.exists(file.path(ann_spec_path, sub_anns$family[1], gsub(".wav", "--p1.jpeg",x))))
+    full_spectrograms(X = sub_anns, flim = frq_range, sxrow = 4, rows = 10, ovlp = 50, collevels = seq(-100, 0, 5), parallel = 1, overwrite = FALSE, dest.path = file.path(ann_spec_path, sub_anns$family[1]), song = "song", fast.spec = TRUE, horizontal = TRUE, pb = FALSE)
     }
     )
 
 
 ```
+
+# Add new recordings
+```{r, eval = FALSE}
+
+new_data_no_cuts <- readxl::read_excel("./data/raw/Marcelo Files - no Production cut.xlsx")
+
+new_data_cuts <- readxl::read_excel("./data/raw/Marcelo Files - Production cuts.xlsx")
+
+new_data_cuts <- new_data_cuts[!new_data_cuts$`Scientific Name` %in% rec_data$species,] 
+
+nrow(new_data_cuts)
+
+new_data_no_cuts <- new_data_no_cuts[!new_data_no_cuts$`Parent Species` %in% rec_data$species,] 
+
+nrow(new_data_no_cuts)
+
+head(new_data_no_cuts)
+
+new_data_no_cuts$source <- "not publication cut"
+
+new_data_cuts$source <- "publication cut"
+
+clm <-read.csv("./data/raw/NEW_Clements-Checklist-v2022-October-2022.csv")
+clm.sp <- clm[clm$category == "species", ]
+
+
+clm.sp$genus <- sapply(clm.sp$scientific.name, function(x) strsplit(x, " ")[[1]][1])
+
+new_data_cuts$genus <- sapply(new_data_cuts$`Scientific Name`, function(x) strsplit(x, " ")[[1]][1])
+
+
+new_data_cuts$family <- sapply(seq_len(nrow(new_data_cuts)), function(x){ fam <- clm.sp$family[clm.sp$genus == new_data_cuts$genus[x]][1]
+
+fam <- if (length(fam) == 0) NA else strsplit(fam, " \\(")[[1]][1]
+
+return(fam)
+})
+
+new_data_no_cuts$genus <- sapply(new_data_no_cuts$`Parent Species`, function(x) strsplit(x, " ")[[1]][1])
+
+new_data_no_cuts$family <- sapply(seq_len(nrow(new_data_no_cuts)), function(x){ fam <- clm.sp$family[clm.sp$genus == new_data_no_cuts$genus[x]][1]
+
+fam <- if (length(fam) == 0) NA else strsplit(fam, " \\(")[[1]][1]
+
+return(fam)
+})
+
+
+new_data_cuts$Orginal.Scientific.Name <- new_data_cuts$Scientific.Name <- new_data_cuts$`Scientific Name`
+
+new_data_no_cuts$Orginal.Scientific.Name <- new_data_no_cuts$`Parent Species`
+
+new_data_no_cuts$`Scientific Name` <- new_data_cuts$`Scientific Name` <- NULL
+
+new_data_no_cuts$Scientific.Name <- new_data_no_cuts$`Parent Species`
+
+new_data_no_cuts$file_url <- paste0("https://macaulaylibrary.org/asset/", new_data_no_cuts$`ML Catalog Number`)
+
+new_data_cuts$file_url <- paste0("https://macaulaylibrary.org/asset/", new_data_cuts$`ML Catalog Number`)
+
+new_data_no_cuts$species_ebird_url <- paste0("https://ebird.org/species/", new_data_no_cuts$`eBird Species Code`)
+
+
+new_data_cuts$species_ebird_url <- paste0("https://ebird.org/species/", new_data_cuts$SpeciesCode)
+new_data_cuts$`Common Name` <- new_data_cuts$`English Name`
+
+new_data_cuts$Behaviors <- NA
+
+names(new_data_no_cuts)
+names(new_data_cuts)
+
+new_data_cuts$Recordist <- paste(new_data_cuts$FirstName, new_data_cuts$LastName)
+new_data_cuts$Year <- new_data_cuts$Month <- new_data_cuts$Day <- new_data_cuts$Locality <- new_data_cuts$`Loc ID`<- new_data_cuts$`Country State County` <- new_data_cuts$`Taxon Category` <- NA
+    
+common_colums <- intersect(names(new_data_no_cuts), names(new_data_cuts))
+
+second_batch <- rbind(new_data_no_cuts[, common_colums], new_data_cuts[, common_colums])
+
+second_batch$sound.files <- paste0(gsub(" ", "_", second_batch$Scientific.Name), "-ML", second_batch$`ML Catalog Number`, ".wav")
+
+
+# ohun::feature_acoustic_data(path = "~/Downloads/combined/")
+# warbleR::info_sound_files(path = "~/Downloads/combined/")
+
+
+# this code is not organized (is a mess!)
+fls <- list.files(path = "~/Downloads/combined/")
+
+table(substr(fls, nchar(fls) - 3, nchar(fls)))
+
+second_batch <- second_batch[second_batch$`ML Catalog Number` %in% gsub(".m4a|.mp3|.wav", "", fls),]
+
+nrow(second_batch)
+
+sub_fls <- fls[gsub(".m4a|.mp3|.wav", "", fls) %in% second_batch$`ML Catalog Number`]
+
+
+table(substr(sub_fls, nchar(sub_fls) - 3, nchar(sub_fls)))
+
+
+sum(!second_batch$`ML Catalog Number` %in% gsub(".m4a|.mp3|.wav", "", fls))
+
+mp3_2_wav(samp.rate = 44.1, bit.depth = 16, path = "~/Downloads/combined/", overwrite = TRUE, dest.path = "~/Downloads/combined/")
+
+# delete mp3s
+
+
+setwd("~/Downloads/combined/")
+for(i in grep("m4a$", fls, value = TRUE))
+{
+    cll <- paste0("ffmpeg -i ", i, " ", gsub("m4a$", "wav", i))
+    system(cll)
+}  
+
+write.csv(second_batch, "./data/raw/sound_files_and_extended_metadata_second_batch.csv", row.names = FALSE)
+
+second_batch <- second_batch[, c("family", "Scientific.Name", "species_ebird_url", "ML Catalog Number", "sound.files", "Common Name", "Orginal.Scientific.Name", "Behaviors", "file_url")]
+
+write.csv(second_batch, "./data/raw/sound_files_metadata_second_batch.csv", row.names = FALSE)
+
+fix_wavs(samp.rate = 44.1, bit.depth = 16, path = "~/Downloads/combined/")
+
+
+fr <- file.rename(
+    from = file.path("~/Downloads/combined/converted_sound_files", paste0(second_batch$`ML Catalog Number`, ".wav")), 
+    to = file.path("~/Downloads/combined/converted_sound_files", second_batch$sound.files))
+
+nrow(second_batch)
+all(fr)
+
+
+for(i in na.omit(unique(second_batch$family))){
+  print(i)  
+    if (!dir.exists(file.path("/run/user/1000/gvfs/smb-share:server=cinnas.local,share=neurobiología/marcelo_araya/bird_song_evolution/by_family", i)))
+    dir.create(file.path("/run/user/1000/gvfs/smb-share:server=cinnas.local,share=neurobiología/marcelo_araya/bird_song_evolution/by_family", i))
+    
+    frm <- file.path("~/Downloads/combined/converted_sound_files", na.omit(second_batch$sound.files[second_batch$family == i]))
+    tu <- file.path("/run/user/1000/gvfs/smb-share:server=cinnas.local,share=neurobiología/marcelo_araya/bird_song_evolution/by_family", i, na.omit(second_batch$sound.files[second_batch$family == i]))
+    
+    fr <- file.copy(frm, to = tu)
+}    
+
+```
+
 
 <!-- light green box -->
 

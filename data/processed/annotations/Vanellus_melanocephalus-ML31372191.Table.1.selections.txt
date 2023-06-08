@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	37.007573120	37.168792600	513.9	2989.8	Vanellus_melanocephalus-ML31372191.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_melanocephalus-ML31372191.wav	1	a
-2	Spectrogram 1	1	37.315838939	37.475286776	607.3	3013.2	Vanellus_melanocephalus-ML31372191.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_melanocephalus-ML31372191.wav	2	a
-3	Spectrogram 1	1	37.643592827	37.795954093	537.2	2943.1	Vanellus_melanocephalus-ML31372191.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_melanocephalus-ML31372191.wav	3	a

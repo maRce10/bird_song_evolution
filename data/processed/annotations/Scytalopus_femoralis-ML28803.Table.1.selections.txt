@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	32.038443904	32.112762811	747.9	2991.7	Scytalopus_femoralis-ML28803.wav	D:\Andean\Rhinocryptidae\Scytalopus_femoralis-ML28803.wav	1	a
-2	Spectrogram 1	1	32.429856815	32.497569597	858.7	3157.9	Scytalopus_femoralis-ML28803.wav	D:\Andean\Rhinocryptidae\Scytalopus_femoralis-ML28803.wav	2	a
-3	Spectrogram 1	1	32.821269726	32.885679446	720.2	3213.3	Scytalopus_femoralis-ML28803.wav	D:\Andean\Rhinocryptidae\Scytalopus_femoralis-ML28803.wav	3	a

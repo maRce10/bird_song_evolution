@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.266267145	2.342600994	1489.2	2403.6	Aramides_mangle-ML235035801.wav	D:\Andean\Rallidae\Aramides_mangle-ML235035801.wav	1	a
-2	Spectrogram 1	1	2.342600994	2.364410665	836.0	1227.9	Aramides_mangle-ML235035801.wav	D:\Andean\Rallidae\Aramides_mangle-ML235035801.wav	1	b
-3	Spectrogram 1	1	2.581144272	2.641120868	1593.7	2325.2	Aramides_mangle-ML235035801.wav	D:\Andean\Rallidae\Aramides_mangle-ML235035801.wav	2	a
-4	Spectrogram 1	1	2.691555732	2.733811970	783.8	1254.0	Aramides_mangle-ML235035801.wav	D:\Andean\Rallidae\Aramides_mangle-ML235035801.wav	2	b
-5	Spectrogram 1	1	2.737901283	2.799240983	1489.2	2377.4	Aramides_mangle-ML235035801.wav	D:\Andean\Rallidae\Aramides_mangle-ML235035801.wav	3	a
-6	Spectrogram 1	1	2.812872028	2.836044804	705.4	1306.3	Aramides_mangle-ML235035801.wav	D:\Andean\Rallidae\Aramides_mangle-ML235035801.wav	3	b

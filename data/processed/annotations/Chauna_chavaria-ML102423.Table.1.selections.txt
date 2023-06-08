@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	29.289847736	29.745505088	815.8	3831.6	Chauna_chavaria-ML102423.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anhimidae\Anhimidae\Chauna_chavaria-ML102423.wav	1	a
-2	Spectrogram 1	1	30.167475710	30.656819793	791.0	3658.5	Chauna_chavaria-ML102423.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anhimidae\Anhimidae\Chauna_chavaria-ML102423.wav	2	a
-3	Spectrogram 1	1	31.172974272	31.678199504	618.0	3856.3	Chauna_chavaria-ML102423.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anhimidae\Anhimidae\Chauna_chavaria-ML102423.wav	3	a

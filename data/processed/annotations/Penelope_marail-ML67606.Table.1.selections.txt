@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	190.729656963	190.907711220	444.100	1332.400	Penelope_marail-ML67606.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_marail-ML67606.wav	1	a
-2	Spectrogram 1	1	198.735284957	198.900489937	339.600	1645.900	Penelope_marail-ML67606.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_marail-ML67606.wav	2	a
-3	Spectrogram 1	1	208.679345158	208.853728193	418.000	1538.400	Penelope_marail-ML67606.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_marail-ML67606.wav	3	a

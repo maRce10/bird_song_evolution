@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	260.330423812	261.456748956	1538.2	5558.5	Buteogallus_schistaceus-ML88302.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_schistaceus-ML88302.wav	1	a
-2	Spectrogram 1	1	273.842405351	275.045253647	1503.2	5803.2	Buteogallus_schistaceus-ML88302.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_schistaceus-ML88302.wav	2	a
-3	Spectrogram 1	1	286.074209709	287.286623399	1538.2	5838.1	Buteogallus_schistaceus-ML88302.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_schistaceus-ML88302.wav	3	a

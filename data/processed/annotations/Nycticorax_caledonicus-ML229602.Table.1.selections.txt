@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.492368178	2.728175291	1062.9	2051.7	Nycticorax_caledonicus-ML229602.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Nycticorax_caledonicus-ML229602.wav	1	a
-2	Spectrogram 1	1	9.627023737	9.814960232	914.6	2027.0	Nycticorax_caledonicus-ML229602.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Nycticorax_caledonicus-ML229602.wav	2|	a
-3	Spectrogram 1	1	21.294172364	21.451968101	1384.3	2249.5	Nycticorax_caledonicus-ML229602.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Nycticorax_caledonicus-ML229602.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.149356830	1.278784794	939.3	2867.5	Chloephaga_rubidiceps-ML112864221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chloephaga_rubidiceps-ML112864221.wav	1	a
-2	Spectrogram 1	1	1.454310389	1.585511339	914.6	2818.0	Chloephaga_rubidiceps-ML112864221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chloephaga_rubidiceps-ML112864221.wav	2	a
-3	Spectrogram 1	1	1.750399019	1.888691912	914.6	3386.6	Chloephaga_rubidiceps-ML112864221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Chloephaga_rubidiceps-ML112864221.wav	3	a

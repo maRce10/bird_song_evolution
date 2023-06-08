@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.975661339	6.030460141	1867.1	5482.9	Agelaius_humeralis-ML34504.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_humeralis-ML34504.wav	1	a
-2	Spectrogram 1	1	10.459198129	10.498087601	1778.2	5402.7	Agelaius_humeralis-ML34504.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_humeralis-ML34504.wav	2	a
-3	Spectrogram 1	1	11.151579079	11.197539365	1778.2	5482.9	Agelaius_humeralis-ML34504.wav	E:\Escritorio\Cantos\Icteridae\Agelaius_humeralis-ML34504.wav	3	a

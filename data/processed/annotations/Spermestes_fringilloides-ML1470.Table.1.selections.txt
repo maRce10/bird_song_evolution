@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.518947726	5.638262434	2616.1	4531.5	Spermestes_fringilloides-ML1470.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Spermestes_fringilloides-ML1470.wav	1	a
-2	Spectrogram 1	1	8.986304737	9.116633111	2709.5	4578.2	Spermestes_fringilloides-ML1470.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Spermestes_fringilloides-ML1470.wav	2	a
-3	Spectrogram 1	1	10.583729082	10.719564288	2359.2	4321.2	Spermestes_fringilloides-ML1470.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Spermestes_fringilloides-ML1470.wav	3	a

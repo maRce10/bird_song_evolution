@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	53.693283407	54.620043181	387.8	1994.5	Ciccaba_virgata-ML59691.wav	D:\Andean\Strigidae\Ciccaba_virgata-ML59691.wav	1	a
-2	Spectrogram 1	1	83.035305778	83.908726861	277.0	1994.5	Ciccaba_virgata-ML59691.wav	D:\Andean\Strigidae\Ciccaba_virgata-ML59691.wav	2	a
-3	Spectrogram 1	1	93.385290110	94.445396615	387.8	1994.5	Ciccaba_virgata-ML59691.wav	D:\Andean\Strigidae\Ciccaba_virgata-ML59691.wav	3	a

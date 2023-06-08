@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.018527263	4.149724646	498.6	3324.1	Fulica_leucoptera-ML135213911.wav	D:\Andean\Rallidae\Fulica_leucoptera-ML135213911.wav	1	a
-2	Spectrogram 1	1	6.137122047	6.268319430	554.0	3795.0	Fulica_leucoptera-ML135213911.wav	D:\Andean\Rallidae\Fulica_leucoptera-ML135213911.wav	2	a
-3	Spectrogram 1	1	8.804835877	8.916596611	526.3	3684.2	Fulica_leucoptera-ML135213911.wav	D:\Andean\Rallidae\Fulica_leucoptera-ML135213911.wav	3	a

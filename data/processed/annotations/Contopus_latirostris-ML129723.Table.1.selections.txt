@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	37.254169533	38.069300188	1985.5	3004.4	Contopus_latirostris-ML129723.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_latirostris-ML129723.wav	1	a
-2	Spectrogram 1	1	45.548600657	46.431464231	1985.5	3030.6	Contopus_latirostris-ML129723.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_latirostris-ML129723.wav	2	a
-3	Spectrogram 1	1	59.572917019	60.448773740	1985.5	3030.6	Contopus_latirostris-ML129723.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Contopus_latirostris-ML129723.wav	3	a

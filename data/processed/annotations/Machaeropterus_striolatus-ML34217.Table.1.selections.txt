@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.929465332	4.982149634	1645.9	4572.0	Machaeropterus_striolatus-ML34217.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Machaeropterus_striolatus-ML34217.wav	1	a
-2	Spectrogram 1	1	5.050253733	5.223726437	3265.7	5068.4	Machaeropterus_striolatus-ML34217.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Machaeropterus_striolatus-ML34217.wav	1	b
-3	Spectrogram 1	1	16.045352405	16.103176640	1724.3	4545.9	Machaeropterus_striolatus-ML34217.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Machaeropterus_striolatus-ML34217.wav	2	a
-4	Spectrogram 1	1	16.159715891	16.347323409	3161.2	5094.5	Machaeropterus_striolatus-ML34217.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Machaeropterus_striolatus-ML34217.wav	2	b
-5	Spectrogram 1	1	24.182755677	24.239294929	1907.2	4676.5	Machaeropterus_striolatus-ML34217.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Machaeropterus_striolatus-ML34217.wav	3	a
-6	Spectrogram 1	1	24.297119164	24.471876851	3291.8	5094.5	Machaeropterus_striolatus-ML34217.wav	C:\Users\pfmar\Downloads\Andean\Pipridae\Machaeropterus_striolatus-ML34217.wav	3	b

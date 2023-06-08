@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.333888910	10.293488150	1153.6	2447.1	Nystalus_radiatus-ML168702.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Nystalus_radiatus-ML168702.wav	1	a
-2	Spectrogram 1	1	11.106819660	12.672745312	1223.6	2132.5	Nystalus_radiatus-ML168702.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Nystalus_radiatus-ML168702.wav	1	b
-3	Spectrogram 1	1	49.899790738	50.864400939	1083.7	2482.1	Nystalus_radiatus-ML168702.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Nystalus_radiatus-ML168702.wav	2	a
-4	Spectrogram 1	1	51.679155393	53.192465944	1293.5	2132.5	Nystalus_radiatus-ML168702.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Nystalus_radiatus-ML168702.wav	2	b

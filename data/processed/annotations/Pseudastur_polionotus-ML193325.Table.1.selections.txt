@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.881435927	10.287548846	2936.6	3635.7	Pseudastur_polionotus-ML193325.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Pseudastur_polionotus-ML193325.wav	1	a
-2	Spectrogram 1	1	11.234522853	12.544981832	2936.6	3635.7	Pseudastur_polionotus-ML193325.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Pseudastur_polionotus-ML193325.wav	2	a
-3	Spectrogram 1	1	24.046896491	25.285615014	3216.2	3985.3	Pseudastur_polionotus-ML193325.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Pseudastur_polionotus-ML193325.wav	3	a

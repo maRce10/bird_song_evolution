@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.885959011	14.789334529	836.0	2873.8	Anurolimnas_fasciatus-ML29121.wav	D:\Andean\Rallidae\Anurolimnas_fasciatus-ML29121.wav	1	a
-2	Spectrogram 1	1	20.751104073	34.742876999	809.9	2717.1	Anurolimnas_fasciatus-ML29121.wav	D:\Andean\Rallidae\Anurolimnas_fasciatus-ML29121.wav	2	a
-3	Spectrogram 1	1	44.635649213	56.553098863	705.4	2926.1	Anurolimnas_fasciatus-ML29121.wav	D:\Andean\Rallidae\Anurolimnas_fasciatus-ML29121.wav	3	a

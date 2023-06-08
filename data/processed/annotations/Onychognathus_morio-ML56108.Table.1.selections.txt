@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	114.346251878	114.478374380	1959.4	3082.8	Onychognathus_morio-ML56108.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_morio-ML56108.wav	1	a
-2	Spectrogram 1	1	114.484980505	114.914378635	1175.7	2481.9	Onychognathus_morio-ML56108.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_morio-ML56108.wav	1	b
-3	Spectrogram 1	1	118.990357812	119.109268063	1959.4	3135.1	Onychognathus_morio-ML56108.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_morio-ML56108.wav	2	a
-4	Spectrogram 1	1	119.122480313	119.598121319	1201.8	2403.6	Onychognathus_morio-ML56108.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_morio-ML56108.wav	2	b
-5	Spectrogram 1	1	121.876671900	121.982369902	2090.0	3187.3	Onychognathus_morio-ML56108.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_morio-ML56108.wav	3	a
-6	Spectrogram 1	1	122.008794402	122.424980282	1123.4	2403.6	Onychognathus_morio-ML56108.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Onychognathus_morio-ML56108.wav	3	b

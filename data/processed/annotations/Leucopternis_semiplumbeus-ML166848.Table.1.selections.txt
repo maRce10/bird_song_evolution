@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	37.124222217	37.886835589	2101.2	3090.0	Leucopternis_semiplumbeus-ML166848.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leucopternis_semiplumbeus-ML166848.wav	1	a
-2	Spectrogram 1	1	78.126918203	78.938568799	2076.5	3090.0	Leucopternis_semiplumbeus-ML166848.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leucopternis_semiplumbeus-ML166848.wav	2	a
-3	Spectrogram 1	1	79.463097400	80.110726938	2076.5	3188.8	Leucopternis_semiplumbeus-ML166848.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Leucopternis_semiplumbeus-ML166848.wav	3	a

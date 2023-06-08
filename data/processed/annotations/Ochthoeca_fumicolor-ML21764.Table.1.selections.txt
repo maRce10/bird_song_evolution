@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.103182812	5.250169095	4039.7	5807.1	Ochthoeca_fumicolor-ML21764.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_fumicolor-ML21764.wav	1	a
-2	Spectrogram 1	1	7.111221291	7.259859105	3983.6	5891.2	Ochthoeca_fumicolor-ML21764.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_fumicolor-ML21764.wav	2	a
-3	Spectrogram 1	1	8.727846859	8.879787736	3983.6	5919.3	Ochthoeca_fumicolor-ML21764.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Ochthoeca_fumicolor-ML21764.wav	3	a

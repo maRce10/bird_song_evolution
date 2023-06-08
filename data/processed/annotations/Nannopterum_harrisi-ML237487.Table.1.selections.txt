@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	43.344599645	43.661693649	0.0	1772.9	Nannopterum_harrisi-ML237487.wav	D:\Andean\Phalacrocoracidae\Nannopterum_harrisi-ML237487.wav	1	a
-2	Spectrogram 1	1	51.782817004	51.908333380	0.0	1856.0	Nannopterum_harrisi-ML237487.wav	D:\Andean\Phalacrocoracidae\Nannopterum_harrisi-ML237487.wav	2	b
-3	Spectrogram 1	1	181.937361162	182.062877539	83.1	1329.6	Nannopterum_harrisi-ML237487.wav	D:\Andean\Phalacrocoracidae\Nannopterum_harrisi-ML237487.wav	3	b
-4	Spectrogram 1	1	182.446032794	182.697065547	0.0	1218.8	Nannopterum_harrisi-ML237487.wav	D:\Andean\Phalacrocoracidae\Nannopterum_harrisi-ML237487.wav	3	a

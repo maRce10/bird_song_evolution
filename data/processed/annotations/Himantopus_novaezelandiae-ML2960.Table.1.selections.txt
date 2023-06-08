@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.285291095	14.439441878	831.0	3933.5	Himantopus_novaezelandiae-ML2960.wav	D:\Andean\Recurvirostridae\Himantopus_novaezelandiae-ML2960.wav	1	a
-2	Spectrogram 1	1	14.633298166	14.799127038	747.9	3988.9	Himantopus_novaezelandiae-ML2960.wav	D:\Andean\Recurvirostridae\Himantopus_novaezelandiae-ML2960.wav	2	a
-3	Spectrogram 1	1	14.988312090	15.144798490	775.6	3988.9	Himantopus_novaezelandiae-ML2960.wav	D:\Andean\Recurvirostridae\Himantopus_novaezelandiae-ML2960.wav	3	a

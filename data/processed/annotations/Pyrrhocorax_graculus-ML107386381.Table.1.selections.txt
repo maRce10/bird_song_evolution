@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.342934438	0.582479023	1186.0	6761.3	Pyrrhocorax_graculus-ML107386381.wav	E:\Escritorio\Cantos\Corvidae\Pyrrhocorax_graculus-ML107386381.wav	1	a
-2	Spectrogram 1	1	0.802537294	1.034962727	1076.1	6698.5	Pyrrhocorax_graculus-ML107386381.wav	E:\Escritorio\Cantos\Corvidae\Pyrrhocorax_graculus-ML107386381.wav	2	a
-3	Spectrogram 1	1	4.361275523	4.622895610	983.9	6761.3	Pyrrhocorax_graculus-ML107386381.wav	E:\Escritorio\Cantos\Corvidae\Pyrrhocorax_graculus-ML107386381.wav	3	a

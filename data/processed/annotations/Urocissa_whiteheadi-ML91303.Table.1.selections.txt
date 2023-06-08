@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.218851532	5.466329993	834.6	2855.1	Urocissa_whiteheadi-ML91303.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_whiteheadi-ML91303.wav	1	a
-2	Spectrogram 1	1	8.188593061	8.478496401	988.3	2964.9	Urocissa_whiteheadi-ML91303.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_whiteheadi-ML91303.wav	2	a
-3	Spectrogram 1	1	10.599740350	10.903785316	856.5	2942.9	Urocissa_whiteheadi-ML91303.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_whiteheadi-ML91303.wav	3	a

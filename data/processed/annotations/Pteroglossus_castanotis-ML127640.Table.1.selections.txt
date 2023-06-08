@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	401.467908980	401.678114593	1135.7	6537.4	Pteroglossus_castanotis-ML127640.wav	D:\Andean\Ramphastidae\Pteroglossus_castanotis-ML127640.wav	1	a
-2	Spectrogram 1	1	403.000074337	403.228964893	1024.9	6537.4	Pteroglossus_castanotis-ML127640.wav	D:\Andean\Ramphastidae\Pteroglossus_castanotis-ML127640.wav	2	a
-3	Spectrogram 1	1	404.532239693	404.742445306	1024.9	6149.6	Pteroglossus_castanotis-ML127640.wav	D:\Andean\Ramphastidae\Pteroglossus_castanotis-ML127640.wav	3	a

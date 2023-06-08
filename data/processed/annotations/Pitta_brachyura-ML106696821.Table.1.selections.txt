@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	72.688101668	73.015088177	1856.0	3157.9	Pitta_brachyura-ML106696821.wav	D:\Andean\Pittidae\Pitta_brachyura-ML106696821.wav	1	a
-2	Spectrogram 1	1	73.309376035	73.505567940	1939.1	3130.2	Pitta_brachyura-ML106696821.wav	D:\Andean\Pittidae\Pitta_brachyura-ML106696821.wav	1	b
-3	Spectrogram 1	1	82.965945165	83.290596056	1800.6	3157.9	Pitta_brachyura-ML106696821.wav	D:\Andean\Pittidae\Pitta_brachyura-ML106696821.wav	2	a
-4	Spectrogram 1	1	83.584883914	83.799760763	1911.4	3130.2	Pitta_brachyura-ML106696821.wav	D:\Andean\Pittidae\Pitta_brachyura-ML106696821.wav	2	b
-5	Spectrogram 1	1	90.516420486	90.822386434	1911.4	3102.5	Pitta_brachyura-ML106696821.wav	D:\Andean\Pittidae\Pitta_brachyura-ML106696821.wav	3	a
-6	Spectrogram 1	1	91.102660585	91.340893613	1856.0	3241.0	Pitta_brachyura-ML106696821.wav	D:\Andean\Pittidae\Pitta_brachyura-ML106696821.wav	3	b

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	79.226320369	79.259019020	1385.1	3545.7	Ptiliogonys_cinereus-ML28126781.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_cinereus-ML28126781.wav	1	a
-2	Spectrogram 1	1	79.291717671	79.347772501	1689.8	3878.1	Ptiliogonys_cinereus-ML28126781.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_cinereus-ML28126781.wav	1	b
-3	Spectrogram 1	1	80.020430463	80.062471586	1329.6	3656.5	Ptiliogonys_cinereus-ML28126781.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_cinereus-ML28126781.wav	2	a
-4	Spectrogram 1	1	80.097505854	80.144218213	1828.3	4072.0	Ptiliogonys_cinereus-ML28126781.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_cinereus-ML28126781.wav	2	b
-5	Spectrogram 1	1	80.964020103	81.003725608	1468.2	3518.0	Ptiliogonys_cinereus-ML28126781.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_cinereus-ML28126781.wav	3	a
-6	Spectrogram 1	1	81.029417405	81.076129764	1385.1	3850.4	Ptiliogonys_cinereus-ML28126781.wav	D:\Andean\Ptiliogonatidae\Ptiliogonys_cinereus-ML28126781.wav	3	b

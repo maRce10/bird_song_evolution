@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.356485234	4.497901497	5907.8	7489.1	Estrilda_melpoda-ML1475.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Estrilda_melpoda-ML1475.wav	1	a
-2	Spectrogram 1	1	8.923009346	9.060890203	5798.0	7313.4	Estrilda_melpoda-ML1475.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Estrilda_melpoda-ML1475.wav	2	a
-3	Spectrogram 1	1	11.143244680	11.266983910	6039.6	7555.0	Estrilda_melpoda-ML1475.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Estrilda_melpoda-ML1475.wav	3	a

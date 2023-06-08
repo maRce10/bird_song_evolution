@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.007590876	1.067692788	647.9	3362.6	Pica_mauritanica-ML139521181.wav	E:\Escritorio\Cantos\Corvidae\Pica_mauritanica-ML139521181.wav	1	a
-2	Spectrogram 1	1	1.118956183	1.177290392	689.0	3362.6	Pica_mauritanica-ML139521181.wav	E:\Escritorio\Cantos\Corvidae\Pica_mauritanica-ML139521181.wav	1	a
-3	Spectrogram 1	1	5.034890611	5.106482594	730.4	3417.7	Pica_mauritanica-ML139521181.wav	E:\Escritorio\Cantos\Corvidae\Pica_mauritanica-ML139521181.wav	2	a
-4	Spectrogram 1	1	5.138301254	5.213428643	785.5	3472.9	Pica_mauritanica-ML139521181.wav	E:\Escritorio\Cantos\Corvidae\Pica_mauritanica-ML139521181.wav	2	a
-5	Spectrogram 1	1	7.348724220	7.417664648	661.5	3335.1	Pica_mauritanica-ML139521181.wav	E:\Escritorio\Cantos\Corvidae\Pica_mauritanica-ML139521181.wav	3	a
-6	Spectrogram 1	1	7.446831752	7.520191439	675.3	3362.6	Pica_mauritanica-ML139521181.wav	E:\Escritorio\Cantos\Corvidae\Pica_mauritanica-ML139521181.wav	3	a

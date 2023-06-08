@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.517305221	2.232572309	716.9	4078.8	Buteo_oreophilus-ML211152701.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_oreophilus-ML211152701.wav	1	a
-2	Spectrogram 1	1	7.110740679	7.847989970	741.6	4152.9	Buteo_oreophilus-ML211152701.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_oreophilus-ML211152701.wav	2	a
-3	Spectrogram 1	1	12.915348260	13.579887185	642.7	4350.7	Buteo_oreophilus-ML211152701.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_oreophilus-ML211152701.wav	3	a

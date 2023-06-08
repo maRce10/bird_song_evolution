@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	27.140959264	27.192342858	526.3	3462.6	Pterodroma_nigripennis-ML167518.wav	D:\Andean\Procellariidae\Pterodroma_nigripennis-ML167518.wav	1	a
-2	Spectrogram 1	1	27.274089486	27.320801844	554.0	3545.7	Pterodroma_nigripennis-ML167518.wav	D:\Andean\Procellariidae\Pterodroma_nigripennis-ML167518.wav	2	a
-3	Spectrogram 1	1	27.402548471	27.456267684	526.3	3462.6	Pterodroma_nigripennis-ML167518.wav	D:\Andean\Procellariidae\Pterodroma_nigripennis-ML167518.wav	3	a

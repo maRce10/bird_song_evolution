@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.435530306	14.544531370	664.8	2437.7	Pternistis_castaneicollis-ML100242.wav	D:\Andean\Phasianidae\Pternistis_castaneicollis-ML100242.wav	1	a
-2	Spectrogram 1	1	14.742715123	14.838503936	775.6	2326.9	Pternistis_castaneicollis-ML100242.wav	D:\Andean\Phasianidae\Pternistis_castaneicollis-ML100242.wav	1	a
-3	Spectrogram 1	1	14.954111125	15.165507128	526.3	2326.9	Pternistis_castaneicollis-ML100242.wav	D:\Andean\Phasianidae\Pternistis_castaneicollis-ML100242.wav	1	a
-4	Spectrogram 1	1	15.380206193	15.502419507	581.7	2160.7	Pternistis_castaneicollis-ML100242.wav	D:\Andean\Phasianidae\Pternistis_castaneicollis-ML100242.wav	2	a
-5	Spectrogram 1	1	15.594905258	15.796392073	443.2	2077.6	Pternistis_castaneicollis-ML100242.wav	D:\Andean\Phasianidae\Pternistis_castaneicollis-ML100242.wav	2	a
-6	Spectrogram 1	1	16.011091139	16.143213640	415.5	2133.0	Pternistis_castaneicollis-ML100242.wav	D:\Andean\Phasianidae\Pternistis_castaneicollis-ML100242.wav	3	a
-7	Spectrogram 1	1	16.209274891	16.381034143	387.8	2105.3	Pternistis_castaneicollis-ML100242.wav	D:\Andean\Phasianidae\Pternistis_castaneicollis-ML100242.wav	3	a

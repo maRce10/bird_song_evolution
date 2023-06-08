@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.464660584	8.822803717	692.2	2818.0	Brachyramphus_brevirostris-ML72779.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcidae\Alcidae\Brachyramphus_brevirostris-ML72779.wav	1	a
-2	Spectrogram 1	1	14.742982571	15.049709116	543.8	2348.4	Brachyramphus_brevirostris-ML72779.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcidae\Alcidae\Brachyramphus_brevirostris-ML72779.wav	2	b

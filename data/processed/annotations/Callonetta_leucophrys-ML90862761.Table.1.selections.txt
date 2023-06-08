@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.940008627	2.652748922	593.3	2125.9	Callonetta_leucophrys-ML90862761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Callonetta_leucophrys-ML90862761.wav	1	b
-2	Spectrogram 1	1	7.096605983	7.954731114	370.8	2002.3	Callonetta_leucophrys-ML90862761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Callonetta_leucophrys-ML90862761.wav	2	a
-3	Spectrogram 1	1	7.981325901	8.435210267	692.2	2867.5	Callonetta_leucophrys-ML90862761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Callonetta_leucophrys-ML90862761.wav	2	b
-4	Spectrogram 1	1	8.850186796	9.178189170	766.3	2966.4	Callonetta_leucophrys-ML90862761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Callonetta_leucophrys-ML90862761.wav	3	c
-5	Spectrogram 1	1	9.401850010	9.926653809	815.8	3287.7	Callonetta_leucophrys-ML90862761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Callonetta_leucophrys-ML90862761.wav	3	d
-6	Spectrogram 1	1	10.011508037	10.318234581	692.2	3139.4	Callonetta_leucophrys-ML90862761.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Callonetta_leucophrys-ML90862761.wav	3	e

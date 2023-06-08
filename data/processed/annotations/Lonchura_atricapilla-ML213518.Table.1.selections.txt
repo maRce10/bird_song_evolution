@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	41.096630135	41.161627794	3645.7	4172.8	Lonchura_atricapilla-ML213518.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Lonchura_atricapilla-ML213518.wav	1	a
-2	Spectrogram 1	1	41.739106996	41.805354611	3667.7	4172.8	Lonchura_atricapilla-ML213518.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Lonchura_atricapilla-ML213518.wav	2	a
-3	Spectrogram 1	1	42.322835600	42.386583304	3689.6	4194.8	Lonchura_atricapilla-ML213518.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Lonchura_atricapilla-ML213518.wav	3	a

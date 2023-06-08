@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	37.205653049	37.235770973	2793.3	8602.5	Chaetura_pelagica-ML107413.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Chaetura_pelagica-ML107413.wav	1	a
-2	Spectrogram 1	1	37.304865036	37.336754604	2941.6	8651.9	Chaetura_pelagica-ML107413.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Chaetura_pelagica-ML107413.wav	2	a
-3	Spectrogram 1	1	37.430651663	37.464312873	2793.3	8404.7	Chaetura_pelagica-ML107413.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Chaetura_pelagica-ML107413.wav	3	a

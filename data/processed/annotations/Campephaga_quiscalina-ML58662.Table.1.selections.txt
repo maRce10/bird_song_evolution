@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.761183875	6.167690406	2102.2	6867.3	Campephaga_quiscalina-ML58662.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Campephaga_quiscalina-ML58662.wav	1	a
-2	Spectrogram 1	1	12.040275674	12.458396678	2335.8	6773.8	Campephaga_quiscalina-ML58662.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Campephaga_quiscalina-ML58662.wav	2	a
-3	Spectrogram 1	1	22.706598359	23.105361909	2195.7	6727.1	Campephaga_quiscalina-ML58662.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Campephagidae\Campephaga_quiscalina-ML58662.wav	3	a

@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	11.465250036	11.658017052	3806.8	6797.9	Nemosia_rourei-ML209567.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Nemosia_rourei-ML209567.wav	1	a
-2	Spectrogram 1	1	11.830492804	11.987750107	3708.0	7045.1	Nemosia_rourei-ML209567.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Nemosia_rourei-ML209567.wav	1	a
-3	Spectrogram 1	1	12.070606105	12.136552716	5883.3	8528.3	Nemosia_rourei-ML209567.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Nemosia_rourei-ML209567.wav	1	b
-4	Spectrogram 1	1	90.116806532	90.338319507	2496.7	5487.8	Nemosia_rourei-ML209567.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Nemosia_rourei-ML209567.wav	2	c
-5	Spectrogram 1	1	90.426248322	90.617324400	2818.0	5735.0	Nemosia_rourei-ML209567.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Nemosia_rourei-ML209567.wav	2	c
-6	Spectrogram 1	1	90.656215991	90.717089785	5660.8	8009.2	Nemosia_rourei-ML209567.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Nemosia_rourei-ML209567.wav	2	b
-7	Spectrogram 1	1	128.493867794	128.793163952	2842.8	5388.9	Nemosia_rourei-ML209567.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Nemosia_rourei-ML209567.wav	3	c
-8	Spectrogram 1	1	128.882783705	129.077241660	2867.5	6674.3	Nemosia_rourei-ML209567.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Nemosia_rourei-ML209567.wav	3	a

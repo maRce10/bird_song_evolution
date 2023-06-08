@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.993488522	16.462533126	1495.9	3767.3	Zapornia_bicolor-ML155303691.wav	D:\Andean\Rallidae\Zapornia_bicolor-ML155303691.wav	1	a
-2	Spectrogram 1	1	21.983297950	25.128286690	941.8	3407.2	Zapornia_bicolor-ML155303691.wav	D:\Andean\Rallidae\Zapornia_bicolor-ML155303691.wav	2	a

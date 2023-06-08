@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.997308853	1.034678739	415.5	2382.3	Pternistis_hildebrandti-ML278986.wav	D:\Andean\Phasianidae\Pternistis_hildebrandti-ML278986.wav	1	a
-2	Spectrogram 1	1	1.571870861	1.609240748	387.8	2603.9	Pternistis_hildebrandti-ML278986.wav	D:\Andean\Phasianidae\Pternistis_hildebrandti-ML278986.wav	2	a
-3	Spectrogram 1	1	2.230515115	2.272556238	443.2	2548.5	Pternistis_hildebrandti-ML278986.wav	D:\Andean\Phasianidae\Pternistis_hildebrandti-ML278986.wav	3	a

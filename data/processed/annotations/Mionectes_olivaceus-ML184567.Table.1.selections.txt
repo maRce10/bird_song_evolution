@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	71.979086749	75.771002547	8109.3	10969.0	Mionectes_olivaceus-ML184567.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mionectes_olivaceus-ML184567.wav	1	a
-2	Spectrogram 1	1	84.928940056	88.575521102	7913.4	10851.5	Mionectes_olivaceus-ML184567.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mionectes_olivaceus-ML184567.wav	2	b
-3	Spectrogram 1	1	104.951235883	108.848849682	7913.4	11282.4	Mionectes_olivaceus-ML184567.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Mionectes_olivaceus-ML184567.wav	3	c

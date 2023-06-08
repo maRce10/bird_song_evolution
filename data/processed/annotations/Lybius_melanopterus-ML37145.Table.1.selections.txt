@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.699818698	16.851841181	483.2	2756.2	Lybius_melanopterus-ML37145.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Lybius_melanopterus-ML37145.wav	1	a
-2	Spectrogram 1	1	17.481143553	17.643772256	527.1	2877.0	Lybius_melanopterus-ML37145.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Lybius_melanopterus-ML37145.wav	2	a
-3	Spectrogram 1	1	18.145799990	18.297822473	549.1	2921.0	Lybius_melanopterus-ML37145.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Lybius_melanopterus-ML37145.wav	3	a

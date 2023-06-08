@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.005786913	3.798521923	443.2	2382.3	Batrachostomus_moniliger-ML86455371.wav	D:\Andean\Podargidae\Batrachostomus_moniliger-ML86455371.wav	1	a
-2	Spectrogram 1	1	19.014405072	19.853382958	306.2	2199.4	Batrachostomus_moniliger-ML86455371.wav	D:\Andean\Podargidae\Batrachostomus_moniliger-ML86455371.wav	2	a
-3	Spectrogram 1	1	31.787549910	32.567072670	334.1	2171.6	Batrachostomus_moniliger-ML86455371.wav	D:\Andean\Podargidae\Batrachostomus_moniliger-ML86455371.wav	3	a

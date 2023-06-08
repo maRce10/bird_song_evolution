@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.614487711	6.918532677	1461.100	3480.200	Cyanopica_cooki-ML77749481.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanopica_cooki-ML77749481.wav	1	a
-2	Spectrogram 1	1	7.003382435	7.339246061	1620.500	3427.000	Cyanopica_cooki-ML77749481.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanopica_cooki-ML77749481.wav	2	a
-3	Spectrogram 1	1	7.441772852	7.774101070	1567.400	3427.000	Cyanopica_cooki-ML77749481.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Cyanopica_cooki-ML77749481.wav	3	b

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.790474303	7.811686743	3360.2	8038.1	Fregata_minor-ML32598.wav	E:\Escritorio\Cantos\Fregatidae\Fregata_minor-ML32598.wav	1	a
-2	Spectrogram 1	1	7.877091765	9.001351058	724.8	7489.1	Fregata_minor-ML32598.wav	E:\Escritorio\Cantos\Fregatidae\Fregata_minor-ML32598.wav	1	b
-3	Spectrogram 1	1	9.982425794	10.003638233	3294.3	7664.8	Fregata_minor-ML32598.wav	E:\Escritorio\Cantos\Fregatidae\Fregata_minor-ML32598.wav	2	a
-4	Spectrogram 1	1	10.063740145	11.285223119	702.8	6676.5	Fregata_minor-ML32598.wav	E:\Escritorio\Cantos\Fregatidae\Fregata_minor-ML32598.wav	2	b
-5	Spectrogram 1	1	11.938266214	11.961246357	3360.2	7401.2	Fregata_minor-ML32598.wav	E:\Escritorio\Cantos\Fregatidae\Fregata_minor-ML32598.wav	3	a
-6	Spectrogram 1	1	11.986381238	13.033358403	719.6	6681.8	Fregata_minor-ML32598.wav	E:\Escritorio\Cantos\Fregatidae\Fregata_minor-ML32598.wav	3	b

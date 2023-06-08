@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.438521097	7.060752656	679.600	3931.200	Nucifraga_caryocatactes-ML187128.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_caryocatactes-ML187128.wav	1	a
-2	Spectrogram 1	1	12.795181520	13.389129826	680.800	3975.100	Nucifraga_caryocatactes-ML187128.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_caryocatactes-ML187128.wav	2	a
-3	Spectrogram 1	1	19.708347839	20.344721024	654.500	3975.100	Nucifraga_caryocatactes-ML187128.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Nucifraga_caryocatactes-ML187128.wav	3	a

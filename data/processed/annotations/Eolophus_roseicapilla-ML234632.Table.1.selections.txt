@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.883209369	17.047972135	321.4	6006.9	Eolophus_roseicapilla-ML234632.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Eolophus_roseicapilla-ML234632.wav	1	a
-2	Spectrogram 1	1	19.016679169	19.177898649	346.1	6377.7	Eolophus_roseicapilla-ML234632.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Eolophus_roseicapilla-ML234632.wav	2	a
-3	Spectrogram 1	1	22.482386743	22.647149508	395.5	6105.8	Eolophus_roseicapilla-ML234632.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Eolophus_roseicapilla-ML234632.wav	3	a

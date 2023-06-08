@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.090471011	4.588407689	836.0	2690.9	Pomatorhinus_ferruginosus-ML46150131.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ferruginosus-ML46150131.wav	1	a
-2	Spectrogram 1	1	8.236640266	8.748193448	783.8	2638.7	Pomatorhinus_ferruginosus-ML46150131.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ferruginosus-ML46150131.wav	2	a
-3	Spectrogram 1	1	12.832329022	13.374031278	783.8	2534.2	Pomatorhinus_ferruginosus-ML46150131.wav	C:\Users\pfmar\Downloads\Andean\Timaliidae\Pomatorhinus_ferruginosus-ML46150131.wav	3	a

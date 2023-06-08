@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	19.603099122	20.148275557	1097.8	2709.5	Onychoprion_anaethetus-ML5382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Onychoprion_anaethetus-ML5382.wav	1	a
-2	Spectrogram 1	1	20.755145089	21.364567906	911.0	2803.0	Onychoprion_anaethetus-ML5382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Onychoprion_anaethetus-ML5382.wav	2	a
-3	Spectrogram 1	1	23.099621764	23.754934853	817.5	2849.7	Onychoprion_anaethetus-ML5382.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Onychoprion_anaethetus-ML5382.wav	3	a

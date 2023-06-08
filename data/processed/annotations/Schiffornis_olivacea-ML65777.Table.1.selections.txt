@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	28.042626152	29.231728667	2437.7	4127.4	Schiffornis_olivacea-ML65777.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_olivacea-ML65777.wav	1	a
-2	Spectrogram 1	1	29.608277797	29.667732923	2825.5	3379.5	Schiffornis_olivacea-ML65777.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_olivacea-ML65777.wav	1	b
-3	Spectrogram 1	1	74.690449694	75.939007335	2437.7	4099.7	Schiffornis_olivacea-ML65777.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_olivacea-ML65777.wav	2	a
-4	Spectrogram 1	1	76.328768715	76.375011590	2880.9	3351.8	Schiffornis_olivacea-ML65777.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_olivacea-ML65777.wav	2	c
-5	Spectrogram 1	1	111.921537125	113.196519266	2382.3	4099.7	Schiffornis_olivacea-ML65777.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_olivacea-ML65777.wav	3	a
-6	Spectrogram 1	1	113.546643896	113.592886771	2908.6	3379.5	Schiffornis_olivacea-ML65777.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Schiffornis_olivacea-ML65777.wav	3	d

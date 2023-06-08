@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.467713656	0.570468929	939.3	3015.8	Charadrius_melodus-ML169306611.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_melodus-ML169306611.wav	1	a
-2	Spectrogram 1	1	0.593500283	0.671452559	1137.1	2150.6	Charadrius_melodus-ML169306611.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_melodus-ML169306611.wav	1	b
-3	Spectrogram 1	1	2.659780198	2.758992185	889.9	2496.7	Charadrius_melodus-ML169306611.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_melodus-ML169306611.wav	2	c
-4	Spectrogram 1	1	2.790881753	2.847574317	1038.2	2027.0	Charadrius_melodus-ML169306611.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_melodus-ML169306611.wav	2	b
-5	Spectrogram 1	1	3.972424187	4.085809316	914.6	2793.3	Charadrius_melodus-ML169306611.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_melodus-ML169306611.wav	2	a
-6	Spectrogram 1	1	4.101754100	4.161989949	1038.2	2076.5	Charadrius_melodus-ML169306611.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_melodus-ML169306611.wav	3	b

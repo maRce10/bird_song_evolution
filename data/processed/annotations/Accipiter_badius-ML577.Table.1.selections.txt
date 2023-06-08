@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.298159809	7.523054661	1161.8	4943.9	Accipiter_badius-ML577.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_badius-ML577.wav	1	a
-2	Spectrogram 1	1	8.486610419	8.726723720	1062.9	4919.2	Accipiter_badius-ML577.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_badius-ML577.wav	2	a
-3	Spectrogram 1	1	9.619147790	9.860952030	1310.1	4869.8	Accipiter_badius-ML577.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_badius-ML577.wav	3	a

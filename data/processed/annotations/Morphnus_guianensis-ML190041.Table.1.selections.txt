@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.104306925	6.418821531	1928.1	3015.8	Morphnus_guianensis-ML190041.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Morphnus_guianensis-ML190041.wav	1	a
-2	Spectrogram 1	1	7.159452700	7.440148531	1977.6	2991.1	Morphnus_guianensis-ML190041.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Morphnus_guianensis-ML190041.wav	2	a
-3	Spectrogram 1	1	8.217873031	8.520551066	1878.7	2991.1	Morphnus_guianensis-ML190041.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Morphnus_guianensis-ML190041.wav	3	a

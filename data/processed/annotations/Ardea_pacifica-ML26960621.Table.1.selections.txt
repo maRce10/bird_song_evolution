@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.072174953	1.683855056	296.6	7045.1	Ardea_pacifica-ML26960621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_pacifica-ML26960621.wav	1	a
-2	Spectrogram 1	1	2.542330661	3.435915507	469.7	7786.7	Ardea_pacifica-ML26960621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_pacifica-ML26960621.wav	2	a
-3	Spectrogram 1	1	17.044416461	17.670280451	395.5	7539.5	Ardea_pacifica-ML26960621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_pacifica-ML26960621.wav	3	a

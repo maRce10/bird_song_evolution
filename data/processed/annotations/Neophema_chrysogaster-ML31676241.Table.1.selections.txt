@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.129647389	1.308012766	5512.5	7867.1	Neophema_chrysogaster-ML31676241.wav	D:\Andean\Psittaculidae\Neophema_chrysogaster-ML31676241.wav	1	a
-2	Spectrogram 1	1	3.435185043	3.577216733	1994.5	7423.9	Neophema_chrysogaster-ML31676241.wav	D:\Andean\Psittaculidae\Neophema_chrysogaster-ML31676241.wav	2	b
-3	Spectrogram 1	1	7.746023058	7.821993496	3767.3	5595.6	Neophema_chrysogaster-ML31676241.wav	D:\Andean\Psittaculidae\Neophema_chrysogaster-ML31676241.wav		c

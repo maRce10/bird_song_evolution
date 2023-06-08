@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.187132613	13.213992219	2638.7	6374.6	Muscisaxicola_flavinucha-ML203961761.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_flavinucha-ML203961761.wav	1	a
-2	Spectrogram 1	1	13.224502499	13.239684016	2063.9	5016.1	Muscisaxicola_flavinucha-ML203961761.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_flavinucha-ML203961761.wav	1	b
-3	Spectrogram 1	1	14.081162568	14.169916049	6583.6	7315.2	Muscisaxicola_flavinucha-ML203961761.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_flavinucha-ML203961761.wav	2	c
-4	Spectrogram 1	1	17.598164861	17.622688849	1959.4	6322.4	Muscisaxicola_flavinucha-ML203961761.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_flavinucha-ML203961761.wav	3	a
-5	Spectrogram 1	1	17.639038174	17.656555309	1854.9	5146.7	Muscisaxicola_flavinucha-ML203961761.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_flavinucha-ML203961761.wav	3	b

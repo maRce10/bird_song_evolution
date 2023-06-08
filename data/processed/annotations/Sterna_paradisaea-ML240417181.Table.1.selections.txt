@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.234240843	8.265446229	373.7	6143.2	Sterna_paradisaea-ML240417181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_paradisaea-ML240417181.wav	1	a
-2	Spectrogram 1	1	8.302158446	8.338870664	256.9	6143.2	Sterna_paradisaea-ML240417181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_paradisaea-ML240417181.wav	1	a
-3	Spectrogram 1	1	8.375582882	8.630732797	420.4	6820.6	Sterna_paradisaea-ML240417181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_paradisaea-ML240417181.wav	1	b
-4	Spectrogram 1	1	8.714919060	8.747960056	420.4	5979.7	Sterna_paradisaea-ML240417181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_paradisaea-ML240417181.wav	2	a
-5	Spectrogram 1	1	8.779165441	9.026972912	420.4	6540.3	Sterna_paradisaea-ML240417181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_paradisaea-ML240417181.wav	2	b
-6	Spectrogram 1	1	9.109575402	9.142616399	397.1	6446.8	Sterna_paradisaea-ML240417181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_paradisaea-ML240417181.wav	3	a
-7	Spectrogram 1	1	9.177493006	9.427136087	327.0	6587.0	Sterna_paradisaea-ML240417181.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sterna_paradisaea-ML240417181.wav	3	b

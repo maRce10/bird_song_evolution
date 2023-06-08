@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	113.264588029	114.725559102	148.3	5833.9	Parabuteo_unicinctus-ML140260.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Parabuteo_unicinctus-ML140260.wav	1	a
-2	Spectrogram 1	1	125.882297056	127.397378169	123.6	5388.9	Parabuteo_unicinctus-ML140260.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Parabuteo_unicinctus-ML140260.wav	2	a
-3	Spectrogram 1	1	153.547103341	154.959037191	148.3	5018.1	Parabuteo_unicinctus-ML140260.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Parabuteo_unicinctus-ML140260.wav	3	a

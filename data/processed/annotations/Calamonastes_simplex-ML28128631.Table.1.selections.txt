@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.092820913	1.169001547	957.7	3480.3	Calamonastes_simplex-ML28128631.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Calamonastes_simplex-ML28128631.wav	2	a
-2	Spectrogram 1	1	2.053051222	2.134546783	911.0	3690.6	Calamonastes_simplex-ML28128631.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Calamonastes_simplex-ML28128631.wav	2	a
-3	Spectrogram 1	1	2.996706172	3.078201733	1027.8	3784.0	Calamonastes_simplex-ML28128631.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cisticolidae\Calamonastes_simplex-ML28128631.wav	3	a

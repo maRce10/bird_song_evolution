@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	27.337720029	27.925186457	3220.0	6090.0	Pithys_albifrons-ML112235.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Pithys_albifrons-ML112235.wav	1	a
-2	Spectrogram 1	1	32.000527888	32.565399453	3325.0	5915.0	Pithys_albifrons-ML112235.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Pithys_albifrons-ML112235.wav	2	a
-3	Spectrogram 1	1	36.715322552	37.272662496	3430.0	5950.0	Pithys_albifrons-ML112235.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Pithys_albifrons-ML112235.wav	3	a

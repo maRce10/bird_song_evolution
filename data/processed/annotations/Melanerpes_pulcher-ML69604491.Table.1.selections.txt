@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	23.442078683	23.533167782	995.1	3116.3	Melanerpes_pulcher-ML69604491.wav	D:\Andean\Picidae\Melanerpes_pulcher-ML69604491.wav	1	a
-2	Spectrogram 1	1	23.575208905	23.628928117	1230.8	3221.1	Melanerpes_pulcher-ML69604491.wav	D:\Andean\Picidae\Melanerpes_pulcher-ML69604491.wav	1	b
-3	Spectrogram 1	1	24.591202701	24.684627418	942.8	3194.9	Melanerpes_pulcher-ML69604491.wav	D:\Andean\Picidae\Melanerpes_pulcher-ML69604491.wav	2	a
-4	Spectrogram 1	1	24.729004158	24.782723370	1204.6	3352.0	Melanerpes_pulcher-ML69604491.wav	D:\Andean\Picidae\Melanerpes_pulcher-ML69604491.wav	2	b
-5	Spectrogram 1	1	25.481073129	25.583840317	1073.7	3064.0	Melanerpes_pulcher-ML69604491.wav	D:\Andean\Picidae\Melanerpes_pulcher-ML69604491.wav	3	a
-6	Spectrogram 1	1	25.618874586	25.686607506	1204.6	3221.1	Melanerpes_pulcher-ML69604491.wav	D:\Andean\Picidae\Melanerpes_pulcher-ML69604491.wav	3	b

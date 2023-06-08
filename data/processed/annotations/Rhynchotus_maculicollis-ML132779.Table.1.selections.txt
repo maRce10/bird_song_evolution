@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	292.471079306	292.685778371	1745.2	3628.8	Rhynchotus_maculicollis-ML132779.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Rhynchotus_maculicollis-ML132779.wav	1	a
-2	Spectrogram 1	1	292.791476372	292.956629499	1856.0	2216.1	Rhynchotus_maculicollis-ML132779.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Rhynchotus_maculicollis-ML132779.wav	1	b
-3	Spectrogram 1	1	317.287788175	317.512396428	1745.2	3684.2	Rhynchotus_maculicollis-ML132779.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Rhynchotus_maculicollis-ML132779.wav	2	a
-4	Spectrogram 1	1	317.618094429	317.796459806	1828.3	2160.7	Rhynchotus_maculicollis-ML132779.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Rhynchotus_maculicollis-ML132779.wav	2	b
-5	Spectrogram 1	1	344.651235258	344.862631261	1689.8	3601.1	Rhynchotus_maculicollis-ML132779.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Rhynchotus_maculicollis-ML132779.wav	3	a
-6	Spectrogram 1	1	344.971632325	345.136785452	1828.3	2160.7	Rhynchotus_maculicollis-ML132779.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Rhynchotus_maculicollis-ML132779.wav	3	b

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	43.785296836	43.930631588	1717.5	3268.7	Drymophila_ferruginea-ML22091.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ferruginea-ML22091.wav	1	a
-2	Spectrogram 1	1	44.056147964	44.214694966	2188.4	3296.4	Drymophila_ferruginea-ML22091.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ferruginea-ML22091.wav	1	b
-3	Spectrogram 1	1	49.393897031	49.532625658	1689.8	3324.1	Drymophila_ferruginea-ML22091.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ferruginea-ML22091.wav	2	a
-4	Spectrogram 1	1	49.691172660	49.843113537	2188.4	3379.5	Drymophila_ferruginea-ML22091.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ferruginea-ML22091.wav	2	b
-5	Spectrogram 1	1	56.268330232	56.367422108	1800.6	3296.4	Drymophila_ferruginea-ML22091.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ferruginea-ML22091.wav	3	a
-6	Spectrogram 1	1	56.512756860	56.677909987	2299.2	3351.8	Drymophila_ferruginea-ML22091.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Drymophila_ferruginea-ML22091.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.422734685	0.809959657	2818.0	4400.1	Circus_spilonotus-ML231121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_spilonotus-ML231121.wav	1	a
-2	Spectrogram 1	1	1.384878829	1.888778574	2842.8	4301.2	Circus_spilonotus-ML231121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_spilonotus-ML231121.wav	2	a
-3	Spectrogram 1	1	16.094144674	16.565916583	2694.5	4251.8	Circus_spilonotus-ML231121.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_spilonotus-ML231121.wav	3	a

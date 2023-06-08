@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	28.304961577	28.440427416	1645.9	3579.2	Zimmerius_vilissimus-ML137699.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_vilissimus-ML137699.wav	1	a
-2	Spectrogram 1	1	29.508415791	29.650888484	1776.5	3527.0	Zimmerius_vilissimus-ML137699.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_vilissimus-ML137699.wav	2	a
-3	Spectrogram 1	1	30.620169922	30.769649469	1645.9	3553.1	Zimmerius_vilissimus-ML137699.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_vilissimus-ML137699.wav	3	a

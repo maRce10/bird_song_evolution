@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.260743497	5.354168214	1116.5	1704.1	Odontophorus_strophium-ML259813.wav	E:\Andean\Odontophoridae\Odontophorus_strophium-ML259813.wav	1	a
-2	Spectrogram 1	1	5.372853157	5.583058770	1332.0	1997.9	Odontophorus_strophium-ML259813.wav	E:\Andean\Odontophoridae\Odontophorus_strophium-ML259813.wav	1	b
-3	Spectrogram 1	1	5.723195845	5.856326067	1116.5	1782.5	Odontophorus_strophium-ML259813.wav	E:\Andean\Odontophoridae\Odontophorus_strophium-ML259813.wav	2	a
-4	Spectrogram 1	1	5.886689100	6.050182354	1332.0	1958.8	Odontophorus_strophium-ML259813.wav	E:\Andean\Odontophoridae\Odontophorus_strophium-ML259813.wav	2	b
-5	Spectrogram 1	1	6.216011227	6.346805830	1096.9	1586.6	Odontophorus_strophium-ML259813.wav	E:\Andean\Odontophoridae\Odontophorus_strophium-ML259813.wav	3	a
-6	Spectrogram 1	1	6.374833245	6.540662118	1234.0	1919.6	Odontophorus_strophium-ML259813.wav	E:\Andean\Odontophoridae\Odontophorus_strophium-ML259813.wav	3	b

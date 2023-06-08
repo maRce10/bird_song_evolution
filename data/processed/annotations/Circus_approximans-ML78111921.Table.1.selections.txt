@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.378115074	1.665574660	1285.4	3510.2	Circus_approximans-ML78111921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_approximans-ML78111921.wav	1	a
-2	Spectrogram 1	1	2.718230584	3.005690170	1334.9	3436.0	Circus_approximans-ML78111921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_approximans-ML78111921.wav	2	a

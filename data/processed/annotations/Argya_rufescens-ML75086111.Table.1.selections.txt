@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	100.856310705	101.100253759	1029.4	5688.6	Argya_rufescens-ML75086111.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rufescens-ML75086111.wav	1	a
-2	Spectrogram 1	1	101.202780550	101.393692506	948.1	4550.9	Argya_rufescens-ML75086111.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rufescens-ML75086111.wav	1	b
-3	Spectrogram 1	1	101.510360923	101.687131252	1002.3	5634.4	Argya_rufescens-ML75086111.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rufescens-ML75086111.wav	1	c
-4	Spectrogram 1	1	105.017584397	105.268598264	731.4	5688.6	Argya_rufescens-ML75086111.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rufescens-ML75086111.wav	2	a
-5	Spectrogram 1	1	105.346377209	105.523147538	866.8	4334.2	Argya_rufescens-ML75086111.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rufescens-ML75086111.wav	2	b
-6	Spectrogram 1	1	105.618603516	105.809515471	948.1	4713.4	Argya_rufescens-ML75086111.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rufescens-ML75086111.wav	2	c
-7	Spectrogram 1	1	108.321244223	108.558116464	1071.4	5322.4	Argya_rufescens-ML75086111.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rufescens-ML75086111.wav	3	a
-8	Spectrogram 1	1	108.646501629	108.819736551	1106.0	4147.3	Argya_rufescens-ML75086111.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_rufescens-ML75086111.wav	3	b

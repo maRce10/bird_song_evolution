@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.796377586	7.411879288	5486.9	8057.8	Poecilostreptus_cabanisi-ML172602.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Poecilostreptus_cabanisi-ML172602.wav	1	a
-2	Spectrogram 1	1	9.790960832	10.463954451	5486.9	8008.3	Poecilostreptus_cabanisi-ML172602.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Poecilostreptus_cabanisi-ML172602.wav	2	a
-3	Spectrogram 1	1	14.215606151	14.763470303	5536.4	7810.6	Poecilostreptus_cabanisi-ML172602.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Poecilostreptus_cabanisi-ML172602.wav	3	a

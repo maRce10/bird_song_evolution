@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.010172104	1.157218442	658.8	3313.3	Vanellus_senegallus-ML28225811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_senegallus-ML28225811.wav	1	a
-2	Spectrogram 1	1	1.419421553	1.566467891	658.8	3390.8	Vanellus_senegallus-ML28225811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_senegallus-ML28225811.wav	2	a
-3	Spectrogram 1	1	1.835757572	1.966859127	600.7	3255.2	Vanellus_senegallus-ML28225811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_senegallus-ML28225811.wav	3	a

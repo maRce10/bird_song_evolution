@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.178865040	2.284563041	1108.0	5374.0	Psittacula_krameri-ML140694981.wav	D:\Andean\Psittaculidae\Psittacula_krameri-ML140694981.wav	1	a
-2	Spectrogram 1	1	2.449716168	2.548808044	969.5	4930.8	Psittacula_krameri-ML140694981.wav	D:\Andean\Psittaculidae\Psittacula_krameri-ML140694981.wav	1	a
-3	Spectrogram 1	1	3.298768369	3.407769433	1218.8	4709.2	Psittacula_krameri-ML140694981.wav	D:\Andean\Psittaculidae\Psittacula_krameri-ML140694981.wav	2	a
-4	Spectrogram 1	1	3.429239339	3.531634278	969.5	4820.0	Psittacula_krameri-ML140694981.wav	D:\Andean\Psittaculidae\Psittacula_krameri-ML140694981.wav	2	a
-5	Spectrogram 1	1	4.119579367	4.235186556	914.1	4875.4	Psittacula_krameri-ML140694981.wav	D:\Andean\Psittaculidae\Psittacula_krameri-ML140694981.wav	3	a
-6	Spectrogram 1	1	4.253353400	4.357399870	1163.4	4487.6	Psittacula_krameri-ML140694981.wav	D:\Andean\Psittaculidae\Psittacula_krameri-ML140694981.wav	3	a

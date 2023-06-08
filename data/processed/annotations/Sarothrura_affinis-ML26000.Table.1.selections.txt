@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.473886719	8.629958608	221.6	664.8	Sarothrura_affinis-ML26000.wav	D:\Andean\Sarothruridae\Sarothrura_affinis-ML26000.wav	1	a
-2	Spectrogram 1	1	10.466461381	11.675382271	221.6	692.5	Sarothrura_affinis-ML26000.wav	D:\Andean\Sarothruridae\Sarothrura_affinis-ML26000.wav	2	a
-3	Spectrogram 1	1	13.003213413	14.192315928	249.3	692.5	Sarothrura_affinis-ML26000.wav	D:\Andean\Sarothruridae\Sarothrura_affinis-ML26000.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	60.628457549	60.752322395	1939.1	3462.6	Todus_subulatus-ML134950931.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_subulatus-ML134950931.wav	1	a
-2	Spectrogram 1	1	61.148689900	61.252736370	1772.9	3490.3	Todus_subulatus-ML134950931.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_subulatus-ML134950931.wav	2	b
-3	Spectrogram 1	1	61.592951811	61.695346750	1994.5	3545.7	Todus_subulatus-ML134950931.wav	C:\Users\pfmar\Downloads\Andean\Todidae\Todus_subulatus-ML134950931.wav	3	c

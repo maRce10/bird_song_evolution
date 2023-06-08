@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	12.797099030	13.048672284	296.6	642.7	Capito_quinticolor-ML192510.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_quinticolor-ML192510.wav	1	a
-2	Spectrogram 1	1	13.496897871	13.766187552	271.9	642.7	Capito_quinticolor-ML192510.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_quinticolor-ML192510.wav	2	a
-3	Spectrogram 1	1	14.196696712	14.464214750	271.9	667.4	Capito_quinticolor-ML192510.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_quinticolor-ML192510.wav	3	a

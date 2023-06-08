@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.244288839	13.785206046	1581.3	2964.9	Trochalopteron_erythrocephalum-ML173737231.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_erythrocephalum-ML173737231.wav	1	a
-2	Spectrogram 1	1	14.156423737	14.531176835	1383.6	3140.6	Trochalopteron_erythrocephalum-ML173737231.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_erythrocephalum-ML173737231.wav	1	b
-3	Spectrogram 1	1	16.536622431	17.059862605	1559.3	2899.0	Trochalopteron_erythrocephalum-ML173737231.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_erythrocephalum-ML173737231.wav	2	a
-4	Spectrogram 1	1	17.091681264	17.462898955	1339.7	3250.4	Trochalopteron_erythrocephalum-ML173737231.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_erythrocephalum-ML173737231.wav	2	b
-5	Spectrogram 1	1	20.207084622	20.758608049	1603.2	2899.0	Trochalopteron_erythrocephalum-ML173737231.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_erythrocephalum-ML173737231.wav	3	a
-6	Spectrogram 1	1	20.857599433	21.242958750	1339.7	3250.4	Trochalopteron_erythrocephalum-ML173737231.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_erythrocephalum-ML173737231.wav	3	b

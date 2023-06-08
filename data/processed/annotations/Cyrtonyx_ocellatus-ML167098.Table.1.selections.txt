@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.827487298	10.924104062	2188.4	3019.4	Cyrtonyx_ocellatus-ML167098.wav	E:\Andean\Odontophoridae\Cyrtonyx_ocellatus-ML167098.wav	1	a
-2	Spectrogram 1	1	18.251809088	19.288970726	2216.1	3074.8	Cyrtonyx_ocellatus-ML167098.wav	E:\Andean\Odontophoridae\Cyrtonyx_ocellatus-ML167098.wav	2	a
-3	Spectrogram 1	1	27.564272849	28.660889613	2160.7	2991.7	Cyrtonyx_ocellatus-ML167098.wav	E:\Andean\Odontophoridae\Cyrtonyx_ocellatus-ML167098.wav	3	a

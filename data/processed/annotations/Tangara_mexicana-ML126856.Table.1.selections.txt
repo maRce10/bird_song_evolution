@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.897037403	4.943648099	4598.1	11443.0	Tangara_mexicana-ML126856.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_mexicana-ML126856.wav	1	a
-2	Spectrogram 1	1	6.518424196	6.560665140	4493.6	11338.5	Tangara_mexicana-ML126856.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_mexicana-ML126856.wav	2	a
-3	Spectrogram 1	1	9.140276383	9.173777820	4284.6	9927.7	Tangara_mexicana-ML126856.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_mexicana-ML126856.wav	3	a
-4	Spectrogram 1	1	9.714170578	9.749128600	4389.1	10189.0	Tangara_mexicana-ML126856.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tangara_mexicana-ML126856.wav	4	a

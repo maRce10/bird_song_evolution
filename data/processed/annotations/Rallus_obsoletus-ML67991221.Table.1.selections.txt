@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.114767220	0.182277349	1579.0	3850.4	Rallus_obsoletus-ML67991221.wav	D:\Andean\Rallidae\Rallus_obsoletus-ML67991221.wav	1	a
-2	Spectrogram 1	1	0.399997516	0.474258658	1385.1	3988.9	Rallus_obsoletus-ML67991221.wav	D:\Andean\Rallidae\Rallus_obsoletus-ML67991221.wav	2	a
-3	Spectrogram 1	1	0.703793097	0.776366486	1385.1	3878.1	Rallus_obsoletus-ML67991221.wav	D:\Andean\Rallidae\Rallus_obsoletus-ML67991221.wav	3	a

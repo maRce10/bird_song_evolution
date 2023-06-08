@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.470443355	14.655840055	1494.9	4461.4	Aphelocoma_ultramarina-ML31990051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_ultramarina-ML31990051.wav	1	a
-2	Spectrogram 1	1	14.732935713	14.936688522	1471.6	4040.9	Aphelocoma_ultramarina-ML31990051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_ultramarina-ML31990051.wav	1	b
-3	Spectrogram 1	1	19.817874582	20.016120559	1261.3	4414.7	Aphelocoma_ultramarina-ML31990051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_ultramarina-ML31990051.wav	1	a
-4	Spectrogram 1	1	20.104229882	20.300640248	1261.3	3947.5	Aphelocoma_ultramarina-ML31990051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_ultramarina-ML31990051.wav	2	b
-5	Spectrogram 1	1	20.992387979	21.175949068	1284.7	4508.1	Aphelocoma_ultramarina-ML31990051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_ultramarina-ML31990051.wav	3	a
-6	Spectrogram 1	1	21.238359839	21.432934594	1214.6	3970.9	Aphelocoma_ultramarina-ML31990051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Corvidae\Corvidae\Aphelocoma_ultramarina-ML31990051.wav	3	b

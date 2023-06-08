@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.473132286	9.697740539	5457.1	5928.0	Enicurus_schistaceus-ML173532341.wav	E:\Andean\Muscicapidae\Enicurus_schistaceus-ML173532341.wav	1	a
-2	Spectrogram 1	1	10.364959173	10.582961300	5512.5	6066.5	Enicurus_schistaceus-ML173532341.wav	E:\Andean\Muscicapidae\Enicurus_schistaceus-ML173532341.wav	2	a
-3	Spectrogram 1	1	11.336059560	11.573880063	5484.8	5955.7	Enicurus_schistaceus-ML173532341.wav	E:\Andean\Muscicapidae\Enicurus_schistaceus-ML173532341.wav	3	a

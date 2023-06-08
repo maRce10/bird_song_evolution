@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.344951503	0.720339904	618.0	5561.9	Circus_maurus-ML203942011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_maurus-ML203942011.wav	1	a
-2	Spectrogram 1	1	4.172081836	4.564379624	716.9	5586.7	Circus_maurus-ML203942011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_maurus-ML203942011.wav	2	
-3	Spectrogram 1	1	12.792095148	13.147192284	716.9	5932.7	Circus_maurus-ML203942011.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_maurus-ML203942011.wav	3	a

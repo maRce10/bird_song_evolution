@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.311277665	1.710339208	6006.0	6648.8	Corythornis_leucogaster-ML212608.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Corythornis_leucogaster-ML212608.wav	1	a
-2	Spectrogram 1	1	2.674174290	2.968397631	5857.7	6871.2	Corythornis_leucogaster-ML212608.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Corythornis_leucogaster-ML212608.wav	2	a
-3	Spectrogram 1	1	4.103615693	4.499295359	5931.9	6970.1	Corythornis_leucogaster-ML212608.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Alcedinidae\Alcedinidae\Corythornis_leucogaster-ML212608.wav	3	a

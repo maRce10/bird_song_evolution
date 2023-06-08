@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.260503077	8.322372692	1471.5	5183.1	Spinus_olivaceus-ML31741151.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_olivaceus-ML31741151.wav	1	a
-2	Spectrogram 1	1	8.419596373	8.477930582	1295.8	5139.1	Spinus_olivaceus-ML31741151.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_olivaceus-ML31741151.wav	1	a
-3	Spectrogram 1	1	16.734224036	16.790790541	1471.5	5229.4	Spinus_olivaceus-ML31741151.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_olivaceus-ML31741151.wav	2	a
-4	Spectrogram 1	1	16.896852739	16.956954650	1471.5	5262.7	Spinus_olivaceus-ML31741151.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_olivaceus-ML31741151.wav	2	a
-5	Spectrogram 1	1	22.363808237	22.423910149	1339.7	4996.2	Spinus_olivaceus-ML31741151.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_olivaceus-ML31741151.wav	3	a
-6	Spectrogram 1	1	22.524669237	22.577700336	1361.7	4996.2	Spinus_olivaceus-ML31741151.wav	E:\Escritorio\Cantos\Fringillidae\Spinus_olivaceus-ML31741151.wav	3	a

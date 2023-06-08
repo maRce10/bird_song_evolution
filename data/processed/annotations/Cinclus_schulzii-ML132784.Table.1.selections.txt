@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.260637273	13.329731336	2732.9	4344.6	Cinclus_schulzii-ML132784.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cinclidae\Cinclus_schulzii-ML132784.wav	1	a
-2	Spectrogram 1	1	13.475006032	13.540556809	2779.6	4344.6	Cinclus_schulzii-ML132784.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cinclidae\Cinclus_schulzii-ML132784.wav	2	a
-3	Spectrogram 1	1	31.666218015	31.740627006	2709.5	4414.7	Cinclus_schulzii-ML132784.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Pictures\Desktop\Andean nature\Cantos\Cinclidae\Cinclus_schulzii-ML132784.wav	3	a

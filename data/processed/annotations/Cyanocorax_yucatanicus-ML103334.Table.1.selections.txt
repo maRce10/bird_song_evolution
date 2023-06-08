@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.239245538	7.311721373	1142.0	3030.8	Cyanocorax_yucatanicus-ML103334.wav	E:\Escritorio\Cantos\Corvidae\Cyanocorax_yucatanicus-ML103334.wav	1	a
-2	Spectrogram 1	1	10.283786241	10.365100593	1142.0	3008.8	Cyanocorax_yucatanicus-ML103334.wav	E:\Escritorio\Cantos\Corvidae\Cyanocorax_yucatanicus-ML103334.wav	2	a
-3	Spectrogram 1	1	12.456010496	12.524950925	1251.8	2986.9	Cyanocorax_yucatanicus-ML103334.wav	E:\Escritorio\Cantos\Corvidae\Cyanocorax_yucatanicus-ML103334.wav	3	a

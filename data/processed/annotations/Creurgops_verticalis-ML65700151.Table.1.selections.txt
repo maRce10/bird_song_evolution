@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.370680962	4.441700389	7266.7	9788.2	Creurgops_verticalis-ML65700151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Creurgops_verticalis-ML65700151.wav	1	a
-2	Spectrogram 1	1	4.776506260	4.844143810	6896.0	9689.3	Creurgops_verticalis-ML65700151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Creurgops_verticalis-ML65700151.wav	1	b
-3	Spectrogram 1	1	5.819815464	5.882380197	6871.2	9763.4	Creurgops_verticalis-ML65700151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Creurgops_verticalis-ML65700151.wav	2	a
-4	Spectrogram 1	1	9.641528104	9.690565328	7044.3	9862.3	Creurgops_verticalis-ML65700151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Creurgops_verticalis-ML65700151.wav	3	a
-5	Spectrogram 1	1	9.756511939	9.800476346	6302.7	8255.5	Creurgops_verticalis-ML65700151.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Creurgops_verticalis-ML65700151.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.509358959	1.948726333	594.3	2552.0	Cacatua_pastinator-ML112029621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_pastinator-ML112029621.wav	1	a
-2	Spectrogram 1	1	2.522738547	2.951476065	594.3	2691.8	Cacatua_pastinator-ML112029621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_pastinator-ML112029621.wav	2	a
-3	Spectrogram 1	1	3.093207476	3.557377846	489.4	2656.9	Cacatua_pastinator-ML112029621.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Cacatua_pastinator-ML112029621.wav	3	a

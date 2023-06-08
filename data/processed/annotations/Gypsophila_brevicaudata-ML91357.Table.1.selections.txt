@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	58.692467741	58.837802492	1246.5	3601.1	Gypsophila_brevicaudata-ML91357.wav	D:\Andean\Pellorneidae\Gypsophila_brevicaudata-ML91357.wav	1	a
-2	Spectrogram 1	1	58.811377992	59.372898624	1274.2	2936.3	Gypsophila_brevicaudata-ML91357.wav	D:\Andean\Pellorneidae\Gypsophila_brevicaudata-ML91357.wav	1	b
-3	Spectrogram 1	1	61.031036020	61.163158522	1274.2	3739.6	Gypsophila_brevicaudata-ML91357.wav	D:\Andean\Pellorneidae\Gypsophila_brevicaudata-ML91357.wav	2	a
-4	Spectrogram 1	1	61.169764647	61.691648528	1468.2	2825.5	Gypsophila_brevicaudata-ML91357.wav	D:\Andean\Pellorneidae\Gypsophila_brevicaudata-ML91357.wav	2	b
-5	Spectrogram 1	1	63.138389921	63.257300173	1191.1	3767.3	Gypsophila_brevicaudata-ML91357.wav	D:\Andean\Pellorneidae\Gypsophila_brevicaudata-ML91357.wav	3	a
-6	Spectrogram 1	1	63.270512423	63.719728929	1357.3	2742.4	Gypsophila_brevicaudata-ML91357.wav	D:\Andean\Pellorneidae\Gypsophila_brevicaudata-ML91357.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	23.972385585	25.858434297	3917.514	9715.434	Tiaris_olivaceus-ML103388.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tiaris_olivaceus-ML103388.wav	1	a
-2	Spectrogram 1	1	35.800239071	37.141282463	3094.836	9911.310	Tiaris_olivaceus-ML103388.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tiaris_olivaceus-ML103388.wav	2	a
-3	Spectrogram 1	1	45.727390571	46.784370584	3564.937	9832.959	Tiaris_olivaceus-ML103388.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Tiaris_olivaceus-ML103388.wav	3	a

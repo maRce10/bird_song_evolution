@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.600804505	8.653115360	5429.4	11745.2	Stilpnia_cyanicollis-ML66340091.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_cyanicollis-ML66340091.wav	1	a
-2	Spectrogram 1	1	9.491892868	9.538792256	5651.0	12022.2	Stilpnia_cyanicollis-ML66340091.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_cyanicollis-ML66340091.wav	2	a
-3	Spectrogram 1	1	10.792740745	10.839640133	5540.2	12022.2	Stilpnia_cyanicollis-ML66340091.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_cyanicollis-ML66340091.wav	3	a
-4	Spectrogram 1	1	12.121035392	12.171542425	5429.4	11135.8	Stilpnia_cyanicollis-ML66340091.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_cyanicollis-ML66340091.wav	3	a
-5	Spectrogram 1	1	13.328969453	13.374065018	4986.2	11579.0	Stilpnia_cyanicollis-ML66340091.wav	C:\Users\pfmar\Downloads\Andean\Thraupidae\Stilpnia_cyanicollis-ML66340091.wav	5	a

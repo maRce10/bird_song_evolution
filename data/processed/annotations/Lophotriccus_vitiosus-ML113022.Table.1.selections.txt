@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.636944143	6.318944576	940.5	5277.4	Lophotriccus_vitiosus-ML113022.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lophotriccus_vitiosus-ML113022.wav	1	a
-2	Spectrogram 1	1	11.521957365	12.189944091	836.0	5120.6	Lophotriccus_vitiosus-ML113022.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lophotriccus_vitiosus-ML113022.wav	2	a
-3	Spectrogram 1	1	18.713069659	19.395070092	862.1	5146.7	Lophotriccus_vitiosus-ML113022.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lophotriccus_vitiosus-ML113022.wav	3	a

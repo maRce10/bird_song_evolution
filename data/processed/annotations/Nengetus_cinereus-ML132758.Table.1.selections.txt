@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	31.005128923	31.178539707	1997.9	3564.9	Nengetus_cinereus-ML132758.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nengetus_cinereus-ML132758.wav	1	a
-2	Spectrogram 1	1	31.934689248	32.321147565	2977.3	4485.6	Nengetus_cinereus-ML132758.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nengetus_cinereus-ML132758.wav	1	b
-3	Spectrogram 1	1	32.325831301	32.797626121	2311.3	4230.9	Nengetus_cinereus-ML132758.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nengetus_cinereus-ML132758.wav	1	c
-4	Spectrogram 1	1	39.108152813	39.502868787	2996.9	4035.0	Nengetus_cinereus-ML132758.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nengetus_cinereus-ML132758.wav	2	b
-5	Spectrogram 1	1	39.507823381	39.953736824	2389.7	4211.3	Nengetus_cinereus-ML132758.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nengetus_cinereus-ML132758.wav	2	c
-6	Spectrogram 1	1	49.418171195	49.578369729	1958.8	3623.7	Nengetus_cinereus-ML132758.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nengetus_cinereus-ML132758.wav	3	a
-7	Spectrogram 1	1	50.493318053	50.892988620	2918.5	3721.6	Nengetus_cinereus-ML132758.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nengetus_cinereus-ML132758.wav	3	b
-8	Spectrogram 1	1	50.906200870	51.355417376	2233.0	4093.8	Nengetus_cinereus-ML132758.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Nengetus_cinereus-ML132758.wav	3	c

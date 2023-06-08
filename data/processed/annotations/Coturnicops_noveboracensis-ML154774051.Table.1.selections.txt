@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.082072365	1.091155787	156.8	5538.6	Coturnicops_noveboracensis-ML154774051.wav	D:\Andean\Rallidae\Coturnicops_noveboracensis-ML154774051.wav	1	a
-2	Spectrogram 1	1	1.314112508	1.321544399	156.8	5852.1	Coturnicops_noveboracensis-ML154774051.wav	D:\Andean\Rallidae\Coturnicops_noveboracensis-ML154774051.wav	2	a
-3	Spectrogram 1	1	1.564319496	1.572577152	313.5	5381.9	Coturnicops_noveboracensis-ML154774051.wav	D:\Andean\Rallidae\Coturnicops_noveboracensis-ML154774051.wav	3	a

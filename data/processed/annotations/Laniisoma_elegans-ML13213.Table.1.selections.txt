@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	38.058612370	39.287351636	6205.0	7368.5	Laniisoma_elegans-ML13213.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniisoma_elegans-ML13213.wav	1	a
-2	Spectrogram 1	1	40.040449895	41.322038161	5900.3	7230.0	Laniisoma_elegans-ML13213.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniisoma_elegans-ML13213.wav	1	b
-3	Spectrogram 1	1	42.273320173	43.515271689	5789.5	7063.8	Laniisoma_elegans-ML13213.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniisoma_elegans-ML13213.wav	1	c
-4	Spectrogram 1	1	44.413704700	45.787778718	5567.9	7036.1	Laniisoma_elegans-ML13213.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniisoma_elegans-ML13213.wav	1	d
-5	Spectrogram 1	1	46.659787229	48.086710247	5540.2	6980.7	Laniisoma_elegans-ML13213.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniisoma_elegans-ML13213.wav	1	d
-6	Spectrogram 1	1	49.064416759	49.434359764	5844.9	6980.7	Laniisoma_elegans-ML13213.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Laniisoma_elegans-ML13213.wav	1	e

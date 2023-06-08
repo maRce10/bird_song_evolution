@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	21.761717597	21.862461004	1745.2	3074.8	Neoxolmis_coronatus-ML46442.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Neoxolmis_coronatus-ML46442.wav	1	a
-2	Spectrogram 1	1	27.151878349	27.255924819	1634.4	3102.5	Neoxolmis_coronatus-ML46442.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Neoxolmis_coronatus-ML46442.wav	2	a
-3	Spectrogram 1	1	32.926882056	33.025973933	1800.6	3074.8	Neoxolmis_coronatus-ML46442.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Neoxolmis_coronatus-ML46442.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.245971860	0.400163175	467.2	2148.9	Argya_malcolmi-ML114804691.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Leiothrichidae\Leiothrichidae\Argya_malcolmi-ML114804691.wav	1	a
-2	Spectrogram 1	1	1.132571922	1.294105681	420.4	2148.9	Argya_malcolmi-ML114804691.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Leiothrichidae\Leiothrichidae\Argya_malcolmi-ML114804691.wav	2	a
-3	Spectrogram 1	1	1.496022879	1.668570303	373.7	2125.6	Argya_malcolmi-ML114804691.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Leiothrichidae\Leiothrichidae\Argya_malcolmi-ML114804691.wav	3	a

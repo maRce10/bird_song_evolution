@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.378014574	1.957247819	941.8	2493.1	Poliocephalus_poliocephalus-ML99561861.wav	D:\Andean\Podicipedidae\Poliocephalus_poliocephalus-ML99561861.wav	1	a
-2	Spectrogram 1	1	8.744304585	9.388935132	941.8	2548.5	Poliocephalus_poliocephalus-ML99561861.wav	D:\Andean\Podicipedidae\Poliocephalus_poliocephalus-ML99561861.wav	2	a

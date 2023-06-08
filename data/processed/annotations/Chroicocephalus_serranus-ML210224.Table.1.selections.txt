@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.763228243	1.077117706	1214.6	4741.7	Chroicocephalus_serranus-ML210224.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_serranus-ML210224.wav	1	a
-2	Spectrogram 1	1	1.554376539	1.895800165	794.2	4765.0	Chroicocephalus_serranus-ML210224.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_serranus-ML210224.wav	2	a
-3	Spectrogram 1	1	2.224374515	2.527250313	840.9	4695.0	Chroicocephalus_serranus-ML210224.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Chroicocephalus_serranus-ML210224.wav	3	a

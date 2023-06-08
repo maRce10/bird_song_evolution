@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.957061984	3.029117147	5486.900	9145.400	Incaspiza_pulchra-ML77205581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Incaspiza_pulchra-ML77205581.wav	1	a
-2	Spectrogram 1	1	4.434345054	5.704240048	6253.200	9120.700	Incaspiza_pulchra-ML77205581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Incaspiza_pulchra-ML77205581.wav	2	a
-3	Spectrogram 1	1	7.633528682	8.639637234	5709.400	9194.900	Incaspiza_pulchra-ML77205581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Incaspiza_pulchra-ML77205581.wav	3	a
-4	Spectrogram 1	1	10.658415216	11.617177482	6278.000	9046.600	Incaspiza_pulchra-ML77205581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Incaspiza_pulchra-ML77205581.wav	4	a
-5	Spectrogram 1	1	14.088603467	15.103166712	5783.600	9071.300	Incaspiza_pulchra-ML77205581.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Incaspiza_pulchra-ML77205581.wav	5	a

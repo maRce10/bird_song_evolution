@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	83.551812425	83.669071146	387.8	2548.5	Lophura_leucomelanos-ML5291.wav	D:\Andean\Phasianidae\Lophura_leucomelanos-ML5291.wav	1	a
-2	Spectrogram 1	1	83.883770211	83.977907493	387.8	2576.2	Lophura_leucomelanos-ML5291.wav	D:\Andean\Phasianidae\Lophura_leucomelanos-ML5291.wav	2	a
-3	Spectrogram 1	1	84.225637184	84.331335185	387.8	2548.5	Lophura_leucomelanos-ML5291.wav	D:\Andean\Phasianidae\Lophura_leucomelanos-ML5291.wav	3	a

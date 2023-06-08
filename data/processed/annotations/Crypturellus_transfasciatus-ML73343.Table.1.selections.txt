@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	72.326496510	72.584135388	1218.8	3296.4	Crypturellus_transfasciatus-ML73343.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_transfasciatus-ML73343.wav	1	a
-2	Spectrogram 1	1	87.823418688	88.094269816	1163.4	3241.0	Crypturellus_transfasciatus-ML73343.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_transfasciatus-ML73343.wav	2	b
-3	Spectrogram 1	1	107.590013355	107.850955296	1218.8	3268.7	Crypturellus_transfasciatus-ML73343.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Crypturellus_transfasciatus-ML73343.wav	3	a

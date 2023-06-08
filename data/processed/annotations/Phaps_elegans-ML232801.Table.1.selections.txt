@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.670564256	8.205816131	154.4	494.1	Phaps_elegans-ML232801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Phaps_elegans-ML232801.wav	1	a
-3	Spectrogram 1	1	9.619362547	10.154614423	202.9	507.3	Phaps_elegans-ML232801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Phaps_elegans-ML232801.wav	2	a
-4	Spectrogram 1	1	10.876697411	11.423435378	169.1	574.9	Phaps_elegans-ML232801.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Phaps_elegans-ML232801.wav	3	

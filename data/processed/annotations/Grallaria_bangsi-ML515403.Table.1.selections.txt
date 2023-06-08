@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.168465267	6.629464153	571.2	4569.9	Grallaria_bangsi-ML515403.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_bangsi-ML515403.wav	1	a
-2	Spectrogram 1	1	6.818591902	7.232308851	856.9	4798.4	Grallaria_bangsi-ML515403.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_bangsi-ML515403.wav	1	b
-3	Spectrogram 1	1	16.882334407	17.260589904	971.1	4170.1	Grallaria_bangsi-ML515403.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_bangsi-ML515403.wav	2	a
-4	Spectrogram 1	1	17.473358621	17.898896055	971.1	5312.6	Grallaria_bangsi-ML515403.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_bangsi-ML515403.wav	2	b
-5	Spectrogram 1	1	26.965172440	27.390709874	914.0	6226.6	Grallaria_bangsi-ML515403.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_bangsi-ML515403.wav	3	a
-6	Spectrogram 1	1	27.591658106	28.029016024	1256.7	8054.5	Grallaria_bangsi-ML515403.wav	C:\Users\Carlos PC\Desktop\Marcelo\Grallariidae\Grallaria_bangsi-ML515403.wav	3	b

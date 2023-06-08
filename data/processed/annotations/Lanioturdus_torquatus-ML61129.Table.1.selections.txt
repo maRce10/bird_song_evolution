@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.435910019	15.103128653	1662.1	2326.9	Lanioturdus_torquatus-ML61129.wav	D:\Andean\Platysteiridae\Lanioturdus_torquatus-ML61129.wav	1	a
-2	Spectrogram 1	1	19.826508087	20.421059345	1662.1	2299.2	Lanioturdus_torquatus-ML61129.wav	D:\Andean\Platysteiridae\Lanioturdus_torquatus-ML61129.wav	2	a
-3	Spectrogram 1	1	26.200953379	26.775686262	1689.8	2271.5	Lanioturdus_torquatus-ML61129.wav	D:\Andean\Platysteiridae\Lanioturdus_torquatus-ML61129.wav	3	a

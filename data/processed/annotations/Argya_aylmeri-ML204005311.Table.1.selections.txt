@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.220435884	9.623472234	3975.1	6997.7	Argya_aylmeri-ML204005311.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_aylmeri-ML204005311.wav	1	a
-2	Spectrogram 1	1	10.779550186	11.200263570	3970.1	7005.9	Argya_aylmeri-ML204005311.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_aylmeri-ML204005311.wav	2	a
-3	Spectrogram 1	1	12.759377872	13.151808003	3855.9	7159.7	Argya_aylmeri-ML204005311.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_aylmeri-ML204005311.wav	3	a

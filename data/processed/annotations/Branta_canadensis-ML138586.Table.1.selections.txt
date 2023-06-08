@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	449.568969962	449.834447344	279.7	2447.1	Branta_canadensis-ML138586.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_canadensis-ML138586.wav	1	a
-2	Spectrogram 1	1	452.243476734	452.524172565	489.4	2447.1	Branta_canadensis-ML138586.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_canadensis-ML138586.wav	2	a
-3	Spectrogram 1	1	453.888762780	454.144094530	629.3	2447.1	Branta_canadensis-ML138586.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_canadensis-ML138586.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.057086568	1.438910479	2152.3	2921.0	Territornis_albilineata-ML123012261.wav	E:\Escritorio\Cantos\Meliphagidae\Territornis_albilineata-ML123012261.wav	1	a
-2	Spectrogram 1	1	2.927316650	3.337423814	2284.1	2986.9	Territornis_albilineata-ML123012261.wav	E:\Escritorio\Cantos\Meliphagidae\Territornis_albilineata-ML123012261.wav	2	a
-3	Spectrogram 1	1	3.899553472	4.309660636	1866.8	2921.0	Territornis_albilineata-ML123012261.wav	E:\Escritorio\Cantos\Meliphagidae\Territornis_albilineata-ML123012261.wav	2	b
-4	Spectrogram 1	1	5.209370077	5.637154273	1888.7	2833.1	Territornis_albilineata-ML123012261.wav	E:\Escritorio\Cantos\Meliphagidae\Territornis_albilineata-ML123012261.wav	3	c
-5	Spectrogram 1	1	5.902309767	6.301810711	1866.8	2723.3	Territornis_albilineata-ML123012261.wav	E:\Escritorio\Cantos\Meliphagidae\Territornis_albilineata-ML123012261.wav	3	c
-6	Spectrogram 1	1	6.517470512	6.888688203	1822.9	2701.3	Territornis_albilineata-ML123012261.wav	E:\Escritorio\Cantos\Meliphagidae\Territornis_albilineata-ML123012261.wav	3	d

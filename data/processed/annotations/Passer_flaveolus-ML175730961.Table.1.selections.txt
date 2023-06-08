@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	32.213595894	32.424991897	2133.0	5761.8	Passer_flaveolus-ML175730961.wav	D:\Andean\Passeridae\Passer_flaveolus-ML175730961.wav	1	a
-2	Spectrogram 1	1	34.571982549	34.796590801	2105.3	5900.3	Passer_flaveolus-ML175730961.wav	D:\Andean\Passeridae\Passer_flaveolus-ML175730961.wav	2	a
-3	Spectrogram 1	1	36.254563742	36.456050557	1911.4	5872.6	Passer_flaveolus-ML175730961.wav	D:\Andean\Passeridae\Passer_flaveolus-ML175730961.wav	3	a

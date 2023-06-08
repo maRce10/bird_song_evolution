@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.399140734	9.420153760	1149.5	7262.9	Todirostrum_chrysocrotaphum-ML88227.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_chrysocrotaphum-ML88227.wav	1	a
-2	Spectrogram 1	1	10.791457378	10.817319564	1149.5	6949.4	Todirostrum_chrysocrotaphum-ML88227.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_chrysocrotaphum-ML88227.wav	2	a
-3	Spectrogram 1	1	12.258605470	12.284467657	1410.8	6949.4	Todirostrum_chrysocrotaphum-ML88227.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Todirostrum_chrysocrotaphum-ML88227.wav	3	a

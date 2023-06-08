@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.077611643	9.744830277	352.7	1045.0	Athene_superciliaris-ML93617.wav	D:\Andean\Strigidae\Athene_superciliaris-ML93617.wav	1	a
-2	Spectrogram 1	1	14.554089337	15.175065095	365.8	953.6	Athene_superciliaris-ML93617.wav	D:\Andean\Strigidae\Athene_superciliaris-ML93617.wav	2	a
-3	Spectrogram 1	1	19.793542307	20.454154815	339.6	1045.0	Athene_superciliaris-ML93617.wav	D:\Andean\Strigidae\Athene_superciliaris-ML93617.wav	3	a

@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.775596807	5.570690825	171.4	470.1	Turnix_tanki-ML71159641.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_tanki-ML71159641.wav	1	a
-2	Spectrogram 1	1	8.275973359	10.062639706	178.7	475.0	Turnix_tanki-ML71159641.wav	C:\Users\pfmar\Downloads\Andean\Turnicidae\Turnix_tanki-ML71159641.wav	2	a

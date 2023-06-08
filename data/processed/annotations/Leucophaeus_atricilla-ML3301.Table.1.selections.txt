@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	119.646885757	119.929718284	417.3	3052.7	Leucophaeus_atricilla-ML3301.wav	E:\Escritorio\Cantos\Laridae\Leucophaeus_atricilla-ML3301.wav	1	a
-2	Spectrogram 1	1	165.748320700	166.024082414	571.0	2986.9	Leucophaeus_atricilla-ML3301.wav	E:\Escritorio\Cantos\Laridae\Leucophaeus_atricilla-ML3301.wav	2	a
-3	Spectrogram 1	1	169.189442580	169.518235392	527.1	2877.0	Leucophaeus_atricilla-ML3301.wav	E:\Escritorio\Cantos\Laridae\Leucophaeus_atricilla-ML3301.wav	3	a

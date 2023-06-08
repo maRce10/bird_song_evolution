@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.117612350	6.883922860	498.6	1024.9	Sarothrura_rufa-ML170349.wav	D:\Andean\Sarothruridae\Sarothrura_rufa-ML170349.wav	1	a
-2	Spectrogram 1	1	7.293502615	8.033388625	498.6	997.2	Sarothrura_rufa-ML170349.wav	D:\Andean\Sarothruridae\Sarothrura_rufa-ML170349.wav	2	a
-3	Spectrogram 1	1	8.535454131	9.334795266	498.6	1024.9	Sarothrura_rufa-ML170349.wav	D:\Andean\Sarothruridae\Sarothrura_rufa-ML170349.wav	3	a

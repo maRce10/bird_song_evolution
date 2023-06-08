@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	11.426969875	11.631759753	2631.6	6315.8	Myiobius_barbatus-ML235228.wav	E:\Andean\Oxyruncidae\Myiobius_barbatus-ML235228.wav	1	a
-2	Spectrogram 1	1	11.833246568	12.038036446	2687.0	6121.9	Myiobius_barbatus-ML235228.wav	E:\Andean\Oxyruncidae\Myiobius_barbatus-ML235228.wav	1	a
-3	Spectrogram 1	1	13.286594086	13.524414589	2797.8	6205.0	Myiobius_barbatus-ML235228.wav	E:\Andean\Oxyruncidae\Myiobius_barbatus-ML235228.wav	2	a
-4	Spectrogram 1	1	16.459833032	16.694350472	2520.8	6177.3	Myiobius_barbatus-ML235228.wav	E:\Andean\Oxyruncidae\Myiobius_barbatus-ML235228.wav	3	a

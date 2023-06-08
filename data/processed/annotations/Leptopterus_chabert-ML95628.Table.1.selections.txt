@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.314063493	8.371867087	941.8	6592.8	Leptopterus_chabert-ML95628.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Leptopterus_chabert-ML95628.wav	1	a
-2	Spectrogram 1	1	9.161299034	9.220754160	969.5	6454.3	Leptopterus_chabert-ML95628.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Leptopterus_chabert-ML95628.wav	2	a
-3	Spectrogram 1	1	9.841729963	9.899533557	969.5	6620.5	Leptopterus_chabert-ML95628.wav	C:\Users\pfmar\Downloads\Andean\Vangidae\Leptopterus_chabert-ML95628.wav	3	a

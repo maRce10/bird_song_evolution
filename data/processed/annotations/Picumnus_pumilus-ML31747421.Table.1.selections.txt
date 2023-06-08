@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.978818190	1.140668254	6398.9	7839.4	Picumnus_pumilus-ML31747421.wav	D:\Andean\Picidae\Picumnus_pumilus-ML31747421.wav	1	a
-2	Spectrogram 1	1	1.708795011	1.873948138	5844.9	7313.1	Picumnus_pumilus-ML31747421.wav	D:\Andean\Picidae\Picumnus_pumilus-ML31747421.wav	1	a
-3	Spectrogram 1	1	2.425559583	2.544469834	6011.1	7146.9	Picumnus_pumilus-ML31747421.wav	D:\Andean\Picidae\Picumnus_pumilus-ML31747421.wav	1	b
-4	Spectrogram 1	1	10.172661812	10.344421065	6066.5	7756.3	Picumnus_pumilus-ML31747421.wav	D:\Andean\Picidae\Picumnus_pumilus-ML31747421.wav	2	a
-5	Spectrogram 1	1	10.958790697	11.097519324	5817.2	6925.3	Picumnus_pumilus-ML31747421.wav	D:\Andean\Picidae\Picumnus_pumilus-ML31747421.wav	2	b
-6	Spectrogram 1	1	27.721343071	27.899708448	5817.2	7811.7	Picumnus_pumilus-ML31747421.wav	D:\Andean\Picidae\Picumnus_pumilus-ML31747421.wav	3	a
-7	Spectrogram 1	1	28.533896456	28.675928145	5540.2	6703.6	Picumnus_pumilus-ML31747421.wav	D:\Andean\Picidae\Picumnus_pumilus-ML31747421.wav	3	b

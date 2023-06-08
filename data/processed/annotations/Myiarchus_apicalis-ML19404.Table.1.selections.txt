@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	29.489785450	29.620580054	1201.8	2142.3	Myiarchus_apicalis-ML19404.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_apicalis-ML19404.wav	1	a
-2	Spectrogram 1	1	31.931909315	32.004313470	914.4	1776.5	Myiarchus_apicalis-ML19404.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_apicalis-ML19404.wav	2	b
-3	Spectrogram 1	1	32.006649088	32.111751895	1149.5	2063.9	Myiarchus_apicalis-ML19404.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_apicalis-ML19404.wav	2	c
-4	Spectrogram 1	1	34.749989316	34.806044146	1071.1	1672.0	Myiarchus_apicalis-ML19404.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_apicalis-ML19404.wav	3	b
-5	Spectrogram 1	1	34.815386618	34.911146953	1201.8	2063.9	Myiarchus_apicalis-ML19404.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_apicalis-ML19404.wav	3	c

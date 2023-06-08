@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	180.477703231	180.689827626	1045.3	3011.3	Drepanis_coccinea-ML129103.wav	E:\Escritorio\Cantos\Fringillidae\Drepanis_coccinea-ML129103.wav	1	a
-2	Spectrogram 1	1	180.873668769	181.220138614	2289.6	3758.0	Drepanis_coccinea-ML129103.wav	E:\Escritorio\Cantos\Fringillidae\Drepanis_coccinea-ML129103.wav	1	b
-3	Spectrogram 1	1	186.837988842	187.011223765	1076.1	3030.8	Drepanis_coccinea-ML129103.wav	E:\Escritorio\Cantos\Fringillidae\Drepanis_coccinea-ML129103.wav	2	a
-4	Spectrogram 1	1	187.187994094	187.591030444	2438.9	3782.8	Drepanis_coccinea-ML129103.wav	E:\Escritorio\Cantos\Fringillidae\Drepanis_coccinea-ML129103.wav	2	b
-5	Spectrogram 1	1	190.338084799	190.509552018	1144.8	3086.0	Drepanis_coccinea-ML129103.wav	E:\Escritorio\Cantos\Fringillidae\Drepanis_coccinea-ML129103.wav	3	a
-6	Spectrogram 1	1	190.677483830	191.019534417	2339.4	3832.6	Drepanis_coccinea-ML129103.wav	E:\Escritorio\Cantos\Fringillidae\Drepanis_coccinea-ML129103.wav	3	b

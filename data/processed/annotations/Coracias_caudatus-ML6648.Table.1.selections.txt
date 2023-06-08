@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.993257829	5.152955977	397.1	3970.9	Coracias_caudatus-ML6648.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_caudatus-ML6648.wav	1	a
-2	Spectrogram 1	1	5.520078156	5.705474856	467.2	4064.3	Coracias_caudatus-ML6648.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_caudatus-ML6648.wav	2	a
-3	Spectrogram 1	1	6.065254592	6.221281518	490.5	3970.9	Coracias_caudatus-ML6648.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Coraciidae\Coracias_caudatus-ML6648.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	25.241458776	25.747639409	831.0	1551.3	Otus_pamelae-ML193368.wav	D:\Andean\Strigidae\Otus_pamelae-ML193368.wav	1	a
-2	Spectrogram 1	1	33.925620267	34.352710176	803.3	1523.6	Otus_pamelae-ML193368.wav	D:\Andean\Strigidae\Otus_pamelae-ML193368.wav	2	b
-3	Spectrogram 1	1	42.578145468	43.100144246	831.0	1495.9	Otus_pamelae-ML193368.wav	D:\Andean\Strigidae\Otus_pamelae-ML193368.wav	3	c

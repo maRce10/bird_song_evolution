@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.703959494	19.020378383	1925.700	4053.200	Hierococcyx_hyperythrus-ML100143.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_hyperythrus-ML100143.wav	1	a
-2	Spectrogram 1	1	19.121137471	19.356385763	2376.000	4798.600	Hierococcyx_hyperythrus-ML100143.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_hyperythrus-ML100143.wav	1	b
-3	Spectrogram 1	1	20.729985735	21.037566108	1969.300	3954.900	Hierococcyx_hyperythrus-ML100143.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_hyperythrus-ML100143.wav	2	a
-4	Spectrogram 1	1	21.157769932	21.401712986	2327.400	5110.400	Hierococcyx_hyperythrus-ML100143.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_hyperythrus-ML100143.wav	2	b
-5	Spectrogram 1	1	22.502273364	22.804550627	2441.300	4199.000	Hierococcyx_hyperythrus-ML100143.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_hyperythrus-ML100143.wav	3	a
-6	Spectrogram 1	1	22.924754451	23.172232912	2571.500	5338.300	Hierococcyx_hyperythrus-ML100143.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cuculidae\Cuculidae\Hierococcyx_hyperythrus-ML100143.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.819590704	8.506627713	470.9	2216.1	Andigena_cucullata-ML101825.wav	D:\Andean\Ramphastidae\Andigena_cucullata-ML101825.wav	1	a
-2	Spectrogram 1	1	9.722154728	10.495071363	470.9	2133.0	Andigena_cucullata-ML101825.wav	D:\Andean\Ramphastidae\Andigena_cucullata-ML101825.wav	2	a
-3	Spectrogram 1	1	11.611506502	12.338180261	498.6	2243.8	Andigena_cucullata-ML101825.wav	D:\Andean\Ramphastidae\Andigena_cucullata-ML101825.wav	3	a

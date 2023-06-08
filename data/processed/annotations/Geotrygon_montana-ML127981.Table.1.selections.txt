@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.093571542	6.908582779	327.0	607.3	Geotrygon_montana-ML127981.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Geotrygon_montana-ML127981.wav	1	a
-2	Spectrogram 1	1	10.435869839	11.263730352	327.0	607.3	Geotrygon_montana-ML127981.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Geotrygon_montana-ML127981.wav	2	a
-3	Spectrogram 1	1	14.556239451	15.389606797	303.7	630.7	Geotrygon_montana-ML127981.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Geotrygon_montana-ML127981.wav	3	a

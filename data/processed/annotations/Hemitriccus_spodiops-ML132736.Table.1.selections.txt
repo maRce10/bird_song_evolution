@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.618389172	8.295718369	831.0	6205.0	Hemitriccus_spodiops-ML132736.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_spodiops-ML132736.wav	1	a
-2	Spectrogram 1	1	12.224331337	12.875968738	941.8	6288.1	Hemitriccus_spodiops-ML132736.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_spodiops-ML132736.wav	2	a
-3	Spectrogram 1	1	16.728801639	17.413137690	1052.6	6288.1	Hemitriccus_spodiops-ML132736.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Hemitriccus_spodiops-ML132736.wav	3	a

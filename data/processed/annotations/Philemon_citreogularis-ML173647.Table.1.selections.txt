@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	31.597905364	31.762899422	351.4	2050.5	Philemon_citreogularis-ML173647.wav	E:\Escritorio\Cantos\Meliphagidae\Philemon_citreogularis-ML173647.wav	1	a
-2	Spectrogram 1	1	33.432839281	33.587833699	395.3	2050.5	Philemon_citreogularis-ML173647.wav	E:\Escritorio\Cantos\Meliphagidae\Philemon_citreogularis-ML173647.wav	2	a
-3	Spectrogram 1	1	34.812789583	34.967784001	373.4	2050.5	Philemon_citreogularis-ML173647.wav	E:\Escritorio\Cantos\Meliphagidae\Philemon_citreogularis-ML173647.wav	3	a

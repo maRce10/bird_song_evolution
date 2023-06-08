@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.425128582	6.448159936	1705.1	4578.2	Vanellus_armatus-ML61144.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_armatus-ML61144.wav	1	a
-2	Spectrogram 1	1	6.699733191	6.736937686	1728.5	4578.2	Vanellus_armatus-ML61144.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_armatus-ML61144.wav	2	a
-3	Spectrogram 1	1	6.981424370	7.020400508	1728.5	4624.9	Vanellus_armatus-ML61144.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_armatus-ML61144.wav	3	a

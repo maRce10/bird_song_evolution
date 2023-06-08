@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	359.908205708	360.041335930	1135.7	1994.5	Nothocercus_julius-ML51784.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothocercus_julius-ML51784.wav	1	a
-2	Spectrogram 1	1	361.410008032	361.536131400	1108.0	1994.5	Nothocercus_julius-ML51784.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothocercus_julius-ML51784.wav	2	a
-3	Spectrogram 1	1	362.418992529	362.573143312	1108.0	1994.5	Nothocercus_julius-ML51784.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Nothocercus_julius-ML51784.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.355530395	4.415528234	1599.5	3401.0	Loxia_megaplaga-ML26190961.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_megaplaga-ML26190961.wav	1	a
-2	Spectrogram 1	1	4.450526974	4.513024723	1584.0	3309.6	Loxia_megaplaga-ML26190961.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_megaplaga-ML26190961.wav	1	a
-3	Spectrogram 1	1	7.504532020	7.562677315	1581.2	3438.3	Loxia_megaplaga-ML26190961.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_megaplaga-ML26190961.wav	2	a
-4	Spectrogram 1	1	7.604528419	7.667026168	1581.2	3272.8	Loxia_megaplaga-ML26190961.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_megaplaga-ML26190961.wav	2	a
-5	Spectrogram 1	1	10.205872815	10.265870654	1801.9	3548.6	Loxia_megaplaga-ML26190961.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_megaplaga-ML26190961.wav	3	a
-6	Spectrogram 1	1	10.285869934	10.348367683	1783.5	3475.0	Loxia_megaplaga-ML26190961.wav	E:\Escritorio\Cantos\Fringillidae\Loxia_megaplaga-ML26190961.wav	3	a

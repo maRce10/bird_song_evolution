@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	22.760557934	22.892680436	692.5	2105.3	Pitta_sordida-ML70254.wav	D:\Andean\Pittidae\Pitta_sordida-ML70254.wav	1	a
-2	Spectrogram 1	1	23.275835691	23.414564317	664.8	2077.6	Pitta_sordida-ML70254.wav	D:\Andean\Pittidae\Pitta_sordida-ML70254.wav	1	a
-3	Spectrogram 1	1	25.673859096	25.805981598	747.9	2049.9	Pitta_sordida-ML70254.wav	D:\Andean\Pittidae\Pitta_sordida-ML70254.wav	2	a
-4	Spectrogram 1	1	26.195742977	26.334471604	664.8	2105.3	Pitta_sordida-ML70254.wav	D:\Andean\Pittidae\Pitta_sordida-ML70254.wav	2	a
-5	Spectrogram 1	1	28.230429503	28.375764255	692.5	2105.3	Pitta_sordida-ML70254.wav	D:\Andean\Pittidae\Pitta_sordida-ML70254.wav	3	a
-6	Spectrogram 1	1	28.758919510	28.877829761	664.8	1994.5	Pitta_sordida-ML70254.wav	D:\Andean\Pittidae\Pitta_sordida-ML70254.wav	3	a

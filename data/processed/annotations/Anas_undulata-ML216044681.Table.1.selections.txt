@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.162978810	1.340527377	247.2	3683.2	Anas_undulata-ML216044681.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_undulata-ML216044681.wav	1	a
-2	Spectrogram 1	1	2.140341402	2.317889970	247.2	4004.6	Anas_undulata-ML216044681.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_undulata-ML216044681.wav	2	a
-3	Spectrogram 1	1	2.760982528	2.946985790	247.2	3979.9	Anas_undulata-ML216044681.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_undulata-ML216044681.wav	3	a

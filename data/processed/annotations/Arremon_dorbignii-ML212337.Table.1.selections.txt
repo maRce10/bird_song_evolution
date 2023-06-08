@@ -1,2 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.208920890	1.367467892	8275.3	10422.7	Arremon_dorbignii-ML212337.wav	D:\Andean\Passerellidae\Arremon_dorbignii-ML212337.wav	1	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	36.282425574	37.583832215	1301.9	2687.0	Cyrtonyx_montezumae-ML105253.wav	E:\Andean\Odontophoridae\Cyrtonyx_montezumae-ML105253.wav	1	a
-2	Spectrogram 1	1	45.620495401	46.690687665	1523.6	2437.7	Cyrtonyx_montezumae-ML105253.wav	E:\Andean\Odontophoridae\Cyrtonyx_montezumae-ML105253.wav	2	a
-3	Spectrogram 1	1	55.670554987	56.919112627	1495.9	2465.4	Cyrtonyx_montezumae-ML105253.wav	E:\Andean\Odontophoridae\Cyrtonyx_montezumae-ML105253.wav	3	a

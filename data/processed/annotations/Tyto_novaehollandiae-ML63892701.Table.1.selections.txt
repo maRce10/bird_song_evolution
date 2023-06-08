@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.937863362	1.928173029	1551.3	11966.8	Tyto_novaehollandiae-ML63892701.wav	C:\Users\pfmar\Downloads\Andean\Tytonidae\Tyto_novaehollandiae-ML63892701.wav	1	a
-2	Spectrogram 1	1	4.642428085	5.555610832	1551.3	12742.5	Tyto_novaehollandiae-ML63892701.wav	C:\Users\pfmar\Downloads\Andean\Tytonidae\Tyto_novaehollandiae-ML63892701.wav	2	a
-3	Spectrogram 1	1	7.693194021	8.557015538	1385.1	12687.1	Tyto_novaehollandiae-ML63892701.wav	C:\Users\pfmar\Downloads\Andean\Tytonidae\Tyto_novaehollandiae-ML63892701.wav	3	b

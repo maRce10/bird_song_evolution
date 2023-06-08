@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	71.163080251	71.400900754	346.3	581.7	Fulica_cristata-ML2822.wav	D:\Andean\Rallidae\Fulica_cristata-ML2822.wav	1	a
-2	Spectrogram 1	1	71.665145757	71.784056009	290.9	1011.1	Fulica_cristata-ML2822.wav	D:\Andean\Rallidae\Fulica_cristata-ML2822.wav	1	b
-3	Spectrogram 1	1	72.609821644	72.695701270	470.9	1385.1	Fulica_cristata-ML2822.wav	D:\Andean\Rallidae\Fulica_cristata-ML2822.wav	1	c
-4	Spectrogram 1	1	73.092068775	73.329889278	360.1	567.9	Fulica_cristata-ML2822.wav	D:\Andean\Rallidae\Fulica_cristata-ML2822.wav	2	a
-5	Spectrogram 1	1	73.818742535	73.964077286	332.4	997.2	Fulica_cristata-ML2822.wav	D:\Andean\Rallidae\Fulica_cristata-ML2822.wav	2	b
-6	Spectrogram 1	1	74.426506042	74.651114295	360.1	637.1	Fulica_cristata-ML2822.wav	D:\Andean\Rallidae\Fulica_cristata-ML2822.wav	3	a
-7	Spectrogram 1	1	75.113543051	75.232453302	498.6	1329.6	Fulica_cristata-ML2822.wav	D:\Andean\Rallidae\Fulica_cristata-ML2822.wav	3	b

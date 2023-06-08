@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	30.705643743	31.422678445	1662.1	3518.0	Vireolanius_leucotis-ML46120171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireolanius_leucotis-ML46120171.wav	1	a
-2	Spectrogram 1	1	32.384953029	33.111330203	1412.8	3379.5	Vireolanius_leucotis-ML46120171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireolanius_leucotis-ML46120171.wav	2	a
-3	Spectrogram 1	1	33.773420752	34.530160959	1662.1	3545.7	Vireolanius_leucotis-ML46120171.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Vireolanius_leucotis-ML46120171.wav	3	a

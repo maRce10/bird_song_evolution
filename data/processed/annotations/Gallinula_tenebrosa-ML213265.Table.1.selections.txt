@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	22.223294285	22.314383384	526.3	3157.9	Gallinula_tenebrosa-ML213265.wav	D:\Andean\Rallidae\Gallinula_tenebrosa-ML213265.wav	1	a
-2	Spectrogram 1	1	23.178562015	23.269651114	470.9	2659.3	Gallinula_tenebrosa-ML213265.wav	D:\Andean\Rallidae\Gallinula_tenebrosa-ML213265.wav	2	a
-3	Spectrogram 1	1	23.986685816	24.075439297	443.2	2576.2	Gallinula_tenebrosa-ML213265.wav	D:\Andean\Rallidae\Gallinula_tenebrosa-ML213265.wav	3	a

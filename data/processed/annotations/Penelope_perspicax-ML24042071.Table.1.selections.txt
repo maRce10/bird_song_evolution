@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.800217623	18.930545997	490.519	1868.644	Penelope_perspicax-ML24042071.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_perspicax-ML24042071.wav	1	a
-2	Spectrogram 1	1	19.178353467	19.303175008	490.519	1892.002	Penelope_perspicax-ML24042071.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_perspicax-ML24042071.wav	2	a
-3	Spectrogram 1	1	19.523448316	19.653776689	443.803	1892.002	Penelope_perspicax-ML24042071.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cracidae\Cracidae\Penelope_perspicax-ML24042071.wav	3	a

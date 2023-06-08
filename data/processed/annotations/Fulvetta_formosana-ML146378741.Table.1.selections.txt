@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.394361654	7.460422905	1385.1	5983.4	Fulvetta_formosana-ML146378741.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_formosana-ML146378741.wav	1	a
-2	Spectrogram 1	1	7.618969907	7.903033285	1911.4	7811.7	Fulvetta_formosana-ML146378741.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_formosana-ML146378741.wav	1	b
-3	Spectrogram 1	1	10.254813815	10.347299566	1579.0	5928.0	Fulvetta_formosana-ML146378741.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_formosana-ML146378741.wav	2	a
-4	Spectrogram 1	1	10.472815943	10.770091571	1662.1	8088.7	Fulvetta_formosana-ML146378741.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_formosana-ML146378741.wav	2	b
-5	Spectrogram 1	1	14.456309368	14.555401244	1634.4	5983.4	Fulvetta_formosana-ML146378741.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_formosana-ML146378741.wav	3	a
-6	Spectrogram 1	1	14.700735996	14.984799374	1883.7	7700.9	Fulvetta_formosana-ML146378741.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_formosana-ML146378741.wav	3	b

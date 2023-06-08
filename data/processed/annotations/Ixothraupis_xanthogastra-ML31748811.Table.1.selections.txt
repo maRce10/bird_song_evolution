@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.076106826	1.107194356	2867.5	9096.9	Ixothraupis_xanthogastra-ML31748811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Ixothraupis_xanthogastra-ML31748811.wav	1	a
-2	Spectrogram 1	1	3.382530711	3.406444196	3263.0	9146.3	Ixothraupis_xanthogastra-ML31748811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Ixothraupis_xanthogastra-ML31748811.wav	2	a
-3	Spectrogram 1	1	7.272989825	7.311251401	3361.9	8602.5	Ixothraupis_xanthogastra-ML31748811.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Ixothraupis_xanthogastra-ML31748811.wav	3	a

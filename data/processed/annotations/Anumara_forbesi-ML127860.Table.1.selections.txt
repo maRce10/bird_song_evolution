@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	15.194688972	17.471490811	944.4	3931.2	Anumara_forbesi-ML127860.wav	E:\Escritorio\Cantos\Icteridae\Anumara_forbesi-ML127860.wav	1	a
-2	Spectrogram 1	1	28.500041384	30.334917400	724.8	3908.9	Anumara_forbesi-ML127860.wav	E:\Escritorio\Cantos\Icteridae\Anumara_forbesi-ML127860.wav	2	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.240795153	2.463312009	462.5	4261.3	Phoebetria_palpebrata-ML33163641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebetria_palpebrata-ML33163641.wav	1	a
-2	Spectrogram 1	1	2.492681783	3.417829674	825.8	3468.5	Phoebetria_palpebrata-ML33163641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebetria_palpebrata-ML33163641.wav	1	b
-3	Spectrogram 1	1	20.882269460	22.013005771	528.5	4360.4	Phoebetria_palpebrata-ML33163641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebetria_palpebrata-ML33163641.wav	2	a
-4	Spectrogram 1	1	22.031361880	22.908783887	1585.6	3600.6	Phoebetria_palpebrata-ML33163641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebetria_palpebrata-ML33163641.wav	2	b
-5	Spectrogram 1	1	25.196242106	26.407745296	462.5	3997.0	Phoebetria_palpebrata-ML33163641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebetria_palpebrata-ML33163641.wav	3	a
-6	Spectrogram 1	1	26.437115070	27.307194634	792.8	3369.4	Phoebetria_palpebrata-ML33163641.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Diomedeidae\Diomedeidae\Phoebetria_palpebrata-ML33163641.wav	3	b

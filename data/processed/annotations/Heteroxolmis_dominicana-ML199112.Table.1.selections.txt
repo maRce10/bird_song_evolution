@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.273245538	6.616764043	587.6	2526.8	Heteroxolmis_dominicana-ML199112.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Heteroxolmis_dominicana-ML199112.wav	1	a
-2	Spectrogram 1	1	10.596321634	10.929930951	685.6	2526.8	Heteroxolmis_dominicana-ML199112.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Heteroxolmis_dominicana-ML199112.wav	2	a
-3	Spectrogram 1	1	23.155912635	23.512643390	548.5	2428.9	Heteroxolmis_dominicana-ML199112.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Heteroxolmis_dominicana-ML199112.wav	3	a

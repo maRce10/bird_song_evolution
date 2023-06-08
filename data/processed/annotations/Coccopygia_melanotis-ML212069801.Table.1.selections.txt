@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.329131907	14.495375920	5622.3	7511.1	Coccopygia_melanotis-ML212069801.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Coccopygia_melanotis-ML212069801.wav	1	a
-2	Spectrogram 1	1	19.983057921	20.164926371	5578.4	7576.9	Coccopygia_melanotis-ML212069801.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Coccopygia_melanotis-ML212069801.wav	2	a
-3	Spectrogram 1	1	24.544629927	24.719623625	5666.2	7598.9	Coccopygia_melanotis-ML212069801.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Coccopygia_melanotis-ML212069801.wav	3	a

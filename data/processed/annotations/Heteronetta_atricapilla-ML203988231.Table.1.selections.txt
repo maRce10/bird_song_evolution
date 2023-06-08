@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.831421039	5.898794500	222.5	1260.7	Heteronetta_atricapilla-ML203988231.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Heteronetta_atricapilla-ML203988231.wav	1	a
-2	Spectrogram 1	1	6.060136208	6.125736683	123.6	1260.7	Heteronetta_atricapilla-ML203988231.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Heteronetta_atricapilla-ML203988231.wav	2	a
-3	Spectrogram 1	1	6.279986448	6.347359909	98.9	1310.1	Heteronetta_atricapilla-ML203988231.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Heteronetta_atricapilla-ML203988231.wav	3	a

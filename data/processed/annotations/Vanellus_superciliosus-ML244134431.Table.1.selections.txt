@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.905052546	2.025524245	1261.3	3223.4	Vanellus_superciliosus-ML244134431.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_superciliosus-ML244134431.wav	1	a
-2	Spectrogram 1	1	2.124736232	2.259381073	1121.2	3106.6	Vanellus_superciliosus-ML244134431.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_superciliosus-ML244134431.wav	2	a
-3	Spectrogram 1	1	2.367451274	2.482608045	1167.9	3036.5	Vanellus_superciliosus-ML244134431.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Vanellus_superciliosus-ML244134431.wav	3	

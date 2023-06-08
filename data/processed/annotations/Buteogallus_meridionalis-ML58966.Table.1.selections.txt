@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.433366921	8.283253904	1458.5	4919.2	Buteogallus_meridionalis-ML58966.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_meridionalis-ML58966.wav	1	a
-2	Spectrogram 1	1	55.524222620	56.707879739	1334.9	4919.2	Buteogallus_meridionalis-ML58966.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_meridionalis-ML58966.wav	2	a
-3	Spectrogram 1	1	88.994870593	90.212346487	1334.9	4647.3	Buteogallus_meridionalis-ML58966.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_meridionalis-ML58966.wav	3	a

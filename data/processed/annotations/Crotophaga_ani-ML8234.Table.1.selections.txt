@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.665260788	10.245067468	307.5	2899.0	Crotophaga_ani-ML8234.wav	E:\Escritorio\Cantos\Cuculidae\Crotophaga_ani-ML8234.wav	1	a
-2	Spectrogram 1	1	11.489530585	12.094085110	395.3	2899.0	Crotophaga_ani-ML8234.wav	E:\Escritorio\Cantos\Cuculidae\Crotophaga_ani-ML8234.wav	2	a
-3	Spectrogram 1	1	13.186525984	13.776938884	329.4	2811.2	Crotophaga_ani-ML8234.wav	E:\Escritorio\Cantos\Cuculidae\Crotophaga_ani-ML8234.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	48.084995508	48.268836651	2329.400	3043.800	Pyrrhula_erythaca-ML175642.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_erythaca-ML175642.wav	1	a
-2	Spectrogram 1	1	48.328938562	48.509244298	2473.200	3509.700	Pyrrhula_erythaca-ML175642.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_erythaca-ML175642.wav	1	b
-3	Spectrogram 1	1	49.142082076	49.322387812	2347.700	2992.900	Pyrrhula_erythaca-ML175642.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_erythaca-ML175642.wav	2	a
-4	Spectrogram 1	1	49.424914603	49.573401679	2419.400	3172.100	Pyrrhula_erythaca-ML175642.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_erythaca-ML175642.wav	2	b
-5	Spectrogram 1	1	50.202704051	50.365332754	2311.900	2939.100	Pyrrhula_erythaca-ML175642.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_erythaca-ML175642.wav	3	a
-6	Spectrogram 1	1	50.467859545	50.634023654	2419.400	3172.100	Pyrrhula_erythaca-ML175642.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Fringillidae\Fringillidae\Pyrrhula_erythaca-ML175642.wav	1	b

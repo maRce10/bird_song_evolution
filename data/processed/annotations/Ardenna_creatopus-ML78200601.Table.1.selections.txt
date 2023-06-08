@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	27.210633360	27.336149736	1163.4	3102.5	Ardenna_creatopus-ML78200601.wav	D:\Andean\Procellariidae\Ardenna_creatopus-ML78200601.wav	1	a
-2	Spectrogram 1	1	27.428635488	27.990156120	1218.8	2465.4	Ardenna_creatopus-ML78200601.wav	D:\Andean\Procellariidae\Ardenna_creatopus-ML78200601.wav	1	b
-3	Spectrogram 1	1	28.505433876	28.611131877	1301.9	3019.4	Ardenna_creatopus-ML78200601.wav	D:\Andean\Procellariidae\Ardenna_creatopus-ML78200601.wav	2	a
-4	Spectrogram 1	1	28.730042129	29.258532136	1357.3	2382.3	Ardenna_creatopus-ML78200601.wav	D:\Andean\Procellariidae\Ardenna_creatopus-ML78200601.wav	2	b
-5	Spectrogram 1	1	29.793628267	29.919144644	1274.2	2964.0	Ardenna_creatopus-ML78200601.wav	D:\Andean\Procellariidae\Ardenna_creatopus-ML78200601.wav	3	a
-6	Spectrogram 1	1	30.071085521	30.705273529	1108.0	2271.5	Ardenna_creatopus-ML78200601.wav	D:\Andean\Procellariidae\Ardenna_creatopus-ML78200601.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.347036424	5.382496140	519.1	3559.6	Bubulcus_ibis-ML2054.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Bubulcus_ibis-ML2054.wav	1	a
-2	Spectrogram 1	1	5.566886664	5.598800408	593.3	3534.9	Bubulcus_ibis-ML2054.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Bubulcus_ibis-ML2054.wav	2	a
-3	Spectrogram 1	1	5.783190932	5.813331691	494.4	3386.6	Bubulcus_ibis-ML2054.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Bubulcus_ibis-ML2054.wav	3	a

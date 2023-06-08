@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.197982769	0.456067449	1603.2	3250.4	Poephila_acuticauda-ML62824011.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Poephila_acuticauda-ML62824011.wav	1	a
-2	Spectrogram 1	1	1.559114303	1.788915731	1603.2	3228.4	Poephila_acuticauda-ML62824011.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Poephila_acuticauda-ML62824011.wav	2	a
-3	Spectrogram 1	1	5.417332063	5.640062678	1449.5	3184.5	Poephila_acuticauda-ML62824011.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Poephila_acuticauda-ML62824011.wav	3	a

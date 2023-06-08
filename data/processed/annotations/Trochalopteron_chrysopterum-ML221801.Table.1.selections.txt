@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.782277915	19.291376463	1120.1	3382.2	Trochalopteron_chrysopterum-ML221801.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_chrysopterum-ML221801.wav	1	a
-2	Spectrogram 1	1	19.584815210	20.405029537	922.4	2767.2	Trochalopteron_chrysopterum-ML221801.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_chrysopterum-ML221801.wav	1	b
-3	Spectrogram 1	1	30.342736858	30.816481340	1186.0	3338.2	Trochalopteron_chrysopterum-ML221801.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_chrysopterum-ML221801.wav	2	a
-4	Spectrogram 1	1	31.322044481	32.071550677	900.4	2701.3	Trochalopteron_chrysopterum-ML221801.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_chrysopterum-ML221801.wav	2	b
-5	Spectrogram 1	1	44.360666834	44.855623756	1142.0	3360.2	Trochalopteron_chrysopterum-ML221801.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_chrysopterum-ML221801.wav	3	a
-6	Spectrogram 1	1	44.961685953	45.714727555	966.3	2767.2	Trochalopteron_chrysopterum-ML221801.wav	E:\Escritorio\Cantos\Leiothrichidae\Trochalopteron_chrysopterum-ML221801.wav	3	b

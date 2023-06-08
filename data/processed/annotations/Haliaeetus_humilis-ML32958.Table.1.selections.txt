@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	128.507664136	129.092728941	741.6	1804.5	Haliaeetus_humilis-ML32958.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Haliaeetus_humilis-ML32958.wav	1	a
-2	Spectrogram 1	1	129.723614006	130.274860036	766.3	1779.8	Haliaeetus_humilis-ML32958.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Haliaeetus_humilis-ML32958.wav	2	a
-3	Spectrogram 1	1	130.845100020	131.381127601	766.3	1779.8	Haliaeetus_humilis-ML32958.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Haliaeetus_humilis-ML32958.wav	3	a

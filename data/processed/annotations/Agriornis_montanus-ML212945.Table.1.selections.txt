@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	10.858925032	11.244301989	1175.7	3892.7	Agriornis_montanus-ML212945.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_montanus-ML212945.wav	1	a
-2	Spectrogram 1	1	11.274665022	11.613329621	1567.5	3892.7	Agriornis_montanus-ML212945.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_montanus-ML212945.wav	1	b
-3	Spectrogram 1	1	21.168875308	21.556587883	1097.3	3918.8	Agriornis_montanus-ML212945.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_montanus-ML212945.wav	2	a
-4	Spectrogram 1	1	21.593957770	21.923279897	1489.2	3866.6	Agriornis_montanus-ML212945.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_montanus-ML212945.wav	2	c
-5	Spectrogram 1	1	31.039490457	31.427203032	1097.3	3918.8	Agriornis_montanus-ML212945.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_montanus-ML212945.wav	3	a
-6	Spectrogram 1	1	31.464572919	31.782216956	1645.9	3840.5	Agriornis_montanus-ML212945.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Agriornis_montanus-ML212945.wav	3	b

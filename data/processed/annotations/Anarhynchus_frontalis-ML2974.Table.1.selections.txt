@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.862749148	13.928299926	1433.7	5413.6	Anarhynchus_frontalis-ML2974.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Anarhynchus_frontalis-ML2974.wav	1	a
-2	Spectrogram 1	1	16.101440259	16.159904466	1483.2	5883.3	Anarhynchus_frontalis-ML2974.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Anarhynchus_frontalis-ML2974.wav	2	
-3	Spectrogram 1	1	20.185949279	20.249728414	1384.3	5809.1	Anarhynchus_frontalis-ML2974.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Anarhynchus_frontalis-ML2974.wav	3	a

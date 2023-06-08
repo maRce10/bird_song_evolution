@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.863679332	2.993602365	2899.000	3909.300	Lonchura_leucogastra-ML203997681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_leucogastra-ML203997681.wav	1	a
-2	Spectrogram 1	1	4.588258127	4.703971626	2986.900	3843.400	Lonchura_leucogastra-ML203997681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_leucogastra-ML203997681.wav	2	a
-3	Spectrogram 1	1	10.988649804	11.096749229	2899.000	3777.500	Lonchura_leucogastra-ML203997681.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Estrildidae\Estrildidae\Lonchura_leucogastra-ML203997681.wav	3	a

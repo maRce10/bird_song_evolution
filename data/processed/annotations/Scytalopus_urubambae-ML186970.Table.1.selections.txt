@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.035097126	5.167219628	1191.1	3628.8	Scytalopus_urubambae-ML186970.wav	D:\Andean\Rhinocryptidae\Scytalopus_urubambae-ML186970.wav	1	a
-2	Spectrogram 1	1	5.484313632	5.616436134	1191.1	3656.5	Scytalopus_urubambae-ML186970.wav	D:\Andean\Rhinocryptidae\Scytalopus_urubambae-ML186970.wav	2	a
-3	Spectrogram 1	1	5.933530138	6.072258764	1080.3	3684.2	Scytalopus_urubambae-ML186970.wav	D:\Andean\Rhinocryptidae\Scytalopus_urubambae-ML186970.wav	3	a

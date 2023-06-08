@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.734774554	9.787964128	148.3	4696.7	Tachyeres_brachypterus-ML21809921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Tachyeres_brachypterus-ML21809921.wav	1	a
-2	Spectrogram 1	1	11.781557869	11.848931330	123.6	4523.7	Tachyeres_brachypterus-ML21809921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Tachyeres_brachypterus-ML21809921.wav	2	a
-3	Spectrogram 1	1	15.912452562	15.965642136	98.9	4152.9	Tachyeres_brachypterus-ML21809921.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Tachyeres_brachypterus-ML21809921.wav	3	ba

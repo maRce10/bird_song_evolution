@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.538019074	8.617742993	296.6	716.9	Atelornis_pittoides-ML100007.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Brachypteraciidae\Brachypteraciidae\Atelornis_pittoides-ML100007.wav	1	a
-2	Spectrogram 1	1	11.660823775	11.737004408	222.5	667.4	Atelornis_pittoides-ML100007.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Brachypteraciidae\Brachypteraciidae\Atelornis_pittoides-ML100007.wav	2	a
-3	Spectrogram 1	1	16.106239521	16.180648512	222.5	716.9	Atelornis_pittoides-ML100007.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Brachypteraciidae\Brachypteraciidae\Atelornis_pittoides-ML100007.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.308438748	14.140810508	6315.8	7756.3	Philepitta_castanea-ML95355.wav	D:\Andean\Philepittidae\Philepitta_castanea-ML95355.wav	1	a
-2	Spectrogram 1	1	16.069799033	16.737017666	6398.9	7977.9	Philepitta_castanea-ML95355.wav	D:\Andean\Philepittidae\Philepitta_castanea-ML95355.wav	2	a
-3	Spectrogram 1	1	19.154859447	19.848502580	6454.3	7645.5	Philepitta_castanea-ML95355.wav	D:\Andean\Philepittidae\Philepitta_castanea-ML95355.wav	3	a

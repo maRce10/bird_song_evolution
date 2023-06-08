@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.029488083	16.061306743	4063.0	7576.9	Cinclodes_oustaleti-ML167946.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_oustaleti-ML167946.wav	1	a
-2	Spectrogram 1	1	17.843151660	17.874970319	4063.0	7555.0	Cinclodes_oustaleti-ML167946.wav	E:\Escritorio\Cantos\Furnariidae\Cinclodes_oustaleti-ML167946.wav	2	a

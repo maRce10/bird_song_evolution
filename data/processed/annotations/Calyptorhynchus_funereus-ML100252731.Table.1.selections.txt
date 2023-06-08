@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.012845438	3.715301743	766.3	5018.1	Calyptorhynchus_funereus-ML100252731.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_funereus-ML100252731.wav	1	a
-2	Spectrogram 1	1	4.021680885	4.675417018	716.9	5067.5	Calyptorhynchus_funereus-ML100252731.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_funereus-ML100252731.wav	2	a
-3	Spectrogram 1	1	7.680241969	8.264884039	791.0	3881.0	Calyptorhynchus_funereus-ML100252731.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Cacatuidae\Cacatuidae\Calyptorhynchus_funereus-ML100252731.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.528495613	8.053888267	116.8	490.5	Ducula_bicolor-ML518090.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ducula_bicolor-ML518090.wav	1	a
-2	Spectrogram 1	1	13.259295070	14.782852112	116.8	490.5	Ducula_bicolor-ML518090.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ducula_bicolor-ML518090.wav	2	a
-3	Spectrogram 1	1	18.196605477	19.738518629	116.8	490.5	Ducula_bicolor-ML518090.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Ducula_bicolor-ML518090.wav	3	a

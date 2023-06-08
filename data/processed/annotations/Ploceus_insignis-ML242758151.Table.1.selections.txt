@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.461610227	1.511156165	1218.8	3739.6	Ploceus_insignis-ML242758151.wav	D:\Andean\Ploceidae\Ploceus_insignis-ML242758151.wav	1	a
-2	Spectrogram 1	1	2.171768673	2.214708486	1385.1	3684.2	Ploceus_insignis-ML242758151.wav	D:\Andean\Ploceidae\Ploceus_insignis-ML242758151.wav	2	a
-3	Spectrogram 1	1	2.515287178	2.561530053	1301.9	3407.2	Ploceus_insignis-ML242758151.wav	D:\Andean\Ploceidae\Ploceus_insignis-ML242758151.wav	3	a

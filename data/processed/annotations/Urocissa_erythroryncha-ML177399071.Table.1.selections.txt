@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.107050314	5.170687632	1877.6	4068.2	Urocissa_erythroryncha-ML177399071.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_erythroryncha-ML177399071.wav	1	a
-2	Spectrogram 1	1	5.253769687	5.328013225	1691.1	4000.5	Urocissa_erythroryncha-ML177399071.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_erythroryncha-ML177399071.wav	1	a
-3	Spectrogram 1	1	7.166133459	7.238609294	1636.9	4189.5	Urocissa_erythroryncha-ML177399071.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_erythroryncha-ML177399071.wav	2	a
-4	Spectrogram 1	1	7.316388239	7.380025557	1709.1	4158.0	Urocissa_erythroryncha-ML177399071.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_erythroryncha-ML177399071.wav	2	a
-5	Spectrogram 1	1	8.597929154	8.659798769	1396.2	4063.5	Urocissa_erythroryncha-ML177399071.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_erythroryncha-ML177399071.wav	3	a
-6	Spectrogram 1	1	8.744648527	8.802982736	1492.5	4000.5	Urocissa_erythroryncha-ML177399071.wav	E:\Escritorio\Cantos\Corvidae\Urocissa_erythroryncha-ML177399071.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.024270879	1.490516046	303.7	747.5	Leptotila_conoveri-ML40705831.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_conoveri-ML40705831.wav	1	a
-2	Spectrogram 1	1	6.890291835	7.413440940	280.3	747.5	Leptotila_conoveri-ML40705831.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_conoveri-ML40705831.wav	2	a
-3	Spectrogram 1	1	13.045172846	13.612376613	210.2	724.1	Leptotila_conoveri-ML40705831.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_conoveri-ML40705831.wav	3	a

@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.795383790	2.878239788	6772.4	12507.3	Chlorophanes_spiza-ML237597.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Chlorophanes_spiza-ML237597.wav	1	a
-2	Spectrogram 1	1	18.260746080	18.345293017	7464.5	12853.4	Chlorophanes_spiza-ML237597.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Chlorophanes_spiza-ML237597.wav	2	a
-3	Spectrogram 1	1	33.622404241	33.710333056	7810.6	12457.9	Chlorophanes_spiza-ML237597.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Chlorophanes_spiza-ML237597.wav	3	a
-4	Spectrogram 1	1	44.886812982	44.959523348	7365.6	12606.2	Chlorophanes_spiza-ML237597.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Chlorophanes_spiza-ML237597.wav	4	a
-5	Spectrogram 1	1	52.798051024	52.885979839	7167.9	13051.2	Chlorophanes_spiza-ML237597.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Chlorophanes_spiza-ML237597.wav	5	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	32.345170136	32.401322199	1246.5	3601.1	Pteroglossus_bailloni-ML143524.wav	D:\Andean\Ramphastidae\Pteroglossus_bailloni-ML143524.wav	1	a
-2	Spectrogram 1	1	33.108177583	33.161026584	1080.3	3241.0	Pteroglossus_bailloni-ML143524.wav	D:\Andean\Ramphastidae\Pteroglossus_bailloni-ML143524.wav	2	a
-3	Spectrogram 1	1	33.788608467	33.844760530	1163.4	3573.4	Pteroglossus_bailloni-ML143524.wav	D:\Andean\Ramphastidae\Pteroglossus_bailloni-ML143524.wav	3	a

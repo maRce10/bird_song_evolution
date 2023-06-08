@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	88.932818939	89.330228698	1431.200	3597.140	Lipaugus_unirufus-ML57400.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_unirufus-ML57400.wav	1	a
-2	Spectrogram 1	1	106.932803157	107.340347467	1431.200	3620.498	Lipaugus_unirufus-ML57400.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_unirufus-ML57400.wav	2	a
-3	Spectrogram 1	1	139.929068877	140.331650142	1424.841	3667.214	Lipaugus_unirufus-ML57400.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Lipaugus_unirufus-ML57400.wav	3	a

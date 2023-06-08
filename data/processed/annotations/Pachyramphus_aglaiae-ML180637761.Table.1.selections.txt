@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	17.862864182	17.961956058	6121.9	7285.4	Pachyramphus_aglaiae-ML180637761.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_aglaiae-ML180637761.wav	1	a
-2	Spectrogram 1	1	18.067654060	18.427687877	3518.0	7645.5	Pachyramphus_aglaiae-ML180637761.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_aglaiae-ML180637761.wav	1	b
-3	Spectrogram 1	1	21.737356662	21.816630163	6121.9	7230.0	Pachyramphus_aglaiae-ML180637761.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_aglaiae-ML180637761.wav	2	a
-4	Spectrogram 1	1	21.931356530	22.272356747	3490.3	7617.8	Pachyramphus_aglaiae-ML180637761.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_aglaiae-ML180637761.wav	2	b
-5	Spectrogram 1	1	24.916539636	25.005293117	6149.6	7202.3	Pachyramphus_aglaiae-ML180637761.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_aglaiae-ML180637761.wav	3	a
-6	Spectrogram 1	1	25.117402777	25.472416701	3490.3	7617.8	Pachyramphus_aglaiae-ML180637761.wav	C:\Users\pfmar\Downloads\Andean\Tityridae\Pachyramphus_aglaiae-ML180637761.wav	3	b

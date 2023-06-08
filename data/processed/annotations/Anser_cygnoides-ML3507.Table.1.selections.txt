@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.366211003	5.477812960	445.0	2422.5	Anser_cygnoides-ML3507.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_cygnoides-ML3507.wav	1	a
-2	Spectrogram 1	1	10.056980901	10.168582858	445.0	3139.4	Anser_cygnoides-ML3507.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_cygnoides-ML3507.wav	2	a
-3	Spectrogram 1	1	10.770557050	10.888922762	445.0	3090.0	Anser_cygnoides-ML3507.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anser_cygnoides-ML3507.wav	3	a

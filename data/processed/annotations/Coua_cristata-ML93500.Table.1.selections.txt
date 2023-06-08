@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.831232056	6.916081814	263.5	1249.9	Coua_cristata-ML93500.wav	E:\Escritorio\Cantos\Cuculidae\Coua_cristata-ML93500.wav	1	a
-2	Spectrogram 1	1	13.641698602	13.705335921	307.5	1314.0	Coua_cristata-ML93500.wav	E:\Escritorio\Cantos\Cuculidae\Coua_cristata-ML93500.wav	2	a
-3	Spectrogram 1	1	80.411788982	80.478961707	329.4	1442.2	Coua_cristata-ML93500.wav	E:\Escritorio\Cantos\Cuculidae\Coua_cristata-ML93500.wav	3	a

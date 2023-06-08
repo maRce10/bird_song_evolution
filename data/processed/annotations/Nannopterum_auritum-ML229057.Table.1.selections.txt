@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	10.029173125	10.057249157	221.6	1856.0	Nannopterum_auritum-ML229057.wav	D:\Andean\Phalacrocoracidae\Nannopterum_auritum-ML229057.wav	1	a
-2	Spectrogram 1	1	10.128673460	10.189780117	249.3	1994.5	Nannopterum_auritum-ML229057.wav	D:\Andean\Phalacrocoracidae\Nannopterum_auritum-ML229057.wav	1	b
-3	Spectrogram 1	1	14.501257695	14.524379133	166.2	2216.1	Nannopterum_auritum-ML229057.wav	D:\Andean\Phalacrocoracidae\Nannopterum_auritum-ML229057.wav	2	a
-4	Spectrogram 1	1	14.578879665	14.727517479	166.2	2022.2	Nannopterum_auritum-ML229057.wav	D:\Andean\Phalacrocoracidae\Nannopterum_auritum-ML229057.wav	2	b
-5	Spectrogram 1	1	15.069384452	15.470706551	110.8	2188.4	Nannopterum_auritum-ML229057.wav	D:\Andean\Phalacrocoracidae\Nannopterum_auritum-ML229057.wav	2	b
-6	Spectrogram 1	1	18.411416019	18.434537457	166.2	2216.1	Nannopterum_auritum-ML229057.wav	D:\Andean\Phalacrocoracidae\Nannopterum_auritum-ML229057.wav	3	a
-7	Spectrogram 1	1	18.477477270	18.807783524	138.5	2216.1	Nannopterum_auritum-ML229057.wav	D:\Andean\Phalacrocoracidae\Nannopterum_auritum-ML229057.wav	3	b

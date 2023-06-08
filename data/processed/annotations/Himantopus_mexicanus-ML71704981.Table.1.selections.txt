@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.059075748	3.093757904	997.2	5429.4	Himantopus_mexicanus-ML71704981.wav	D:\Andean\Recurvirostridae\Himantopus_mexicanus-ML71704981.wav	1	a
-2	Spectrogram 1	1	3.427367221	3.470307034	886.4	5401.7	Himantopus_mexicanus-ML71704981.wav	D:\Andean\Recurvirostridae\Himantopus_mexicanus-ML71704981.wav	2	a
-3	Spectrogram 1	1	3.792355632	3.827037789	969.5	5540.2	Himantopus_mexicanus-ML71704981.wav	D:\Andean\Recurvirostridae\Himantopus_mexicanus-ML71704981.wav	3	a

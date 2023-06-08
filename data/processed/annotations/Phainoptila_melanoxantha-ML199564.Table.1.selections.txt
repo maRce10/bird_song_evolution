@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.391417280	2.470690781	6307.2	11282.4	Phainoptila_melanoxantha-ML199564.wav	D:\Andean\Ptiliogonatidae\Phainoptila_melanoxantha-ML199564.wav	1	a
-2	Spectrogram 1	1	4.280769054	4.353436430	6503.1	11164.9	Phainoptila_melanoxantha-ML199564.wav	D:\Andean\Ptiliogonatidae\Phainoptila_melanoxantha-ML199564.wav	2	a
-3	Spectrogram 1	1	7.544194845	7.630074471	6072.1	11243.3	Phainoptila_melanoxantha-ML199564.wav	D:\Andean\Ptiliogonatidae\Phainoptila_melanoxantha-ML199564.wav	3	a

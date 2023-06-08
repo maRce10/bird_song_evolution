@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.409119860	3.647749276	560.6	1051.1	Macropygia_rufipennis-ML283496.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_rufipennis-ML283496.wav	1	a
-2	Spectrogram 1	1	3.902899191	4.141528607	467.2	864.2	Macropygia_rufipennis-ML283496.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_rufipennis-ML283496.wav	1	b
-3	Spectrogram 1	1	5.714653946	5.947776530	513.9	1074.5	Macropygia_rufipennis-ML283496.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_rufipennis-ML283496.wav	2	a
-4	Spectrogram 1	1	6.221282553	6.447062693	513.9	840.9	Macropygia_rufipennis-ML283496.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_rufipennis-ML283496.wav	2	b
-5	Spectrogram 1	1	6.832752591	7.091573727	513.9	1051.1	Macropygia_rufipennis-ML283496.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_rufipennis-ML283496.wav	3	a
-6	Spectrogram 1	1	7.326531921	7.552312061	420.4	840.9	Macropygia_rufipennis-ML283496.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Macropygia_rufipennis-ML283496.wav	3	b

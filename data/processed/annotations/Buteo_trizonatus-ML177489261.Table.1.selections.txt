@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.411933849	1.949652369	741.6	3164.1	Buteo_trizonatus-ML177489261.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_trizonatus-ML177489261.wav	1	a
-2	Spectrogram 1	1	4.351922211	5.119608400	543.8	3090.0	Buteo_trizonatus-ML177489261.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_trizonatus-ML177489261.wav	2	a
-3	Spectrogram 1	1	9.217255561	10.017069586	568.6	2941.6	Buteo_trizonatus-ML177489261.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_trizonatus-ML177489261.wav	3	a

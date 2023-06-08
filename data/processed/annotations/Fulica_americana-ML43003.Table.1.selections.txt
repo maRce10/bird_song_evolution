@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	90.896385156	90.952439987	295.6	1810.4	Fulica_americana-ML43003.wav	D:\Andean\Rallidae\Fulica_americana-ML43003.wav	1	a
-2	Spectrogram 1	1	91.601741769	91.664803453	295.6	2069.0	Fulica_americana-ML43003.wav	D:\Andean\Rallidae\Fulica_americana-ML43003.wav	2	a
-3	Spectrogram 1	1	92.337461414	92.400523098	406.4	2179.9	Fulica_americana-ML43003.wav	D:\Andean\Rallidae\Fulica_americana-ML43003.wav	3	a

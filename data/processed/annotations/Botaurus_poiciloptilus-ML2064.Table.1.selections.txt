@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.259799177	7.472557473	24.7	346.1	Botaurus_poiciloptilus-ML2064.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_poiciloptilus-ML2064.wav	1	a
-2	Spectrogram 1	1	7.557660792	7.970766485	24.7	346.1	Botaurus_poiciloptilus-ML2064.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_poiciloptilus-ML2064.wav	1	b
-3	Spectrogram 1	1	9.061108016	9.300461100	24.7	346.1	Botaurus_poiciloptilus-ML2064.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_poiciloptilus-ML2064.wav	2	a
-4	Spectrogram 1	1	9.373153518	9.784486225	49.4	346.1	Botaurus_poiciloptilus-ML2064.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_poiciloptilus-ML2064.wav	2	b
-5	Spectrogram 1	1	14.782310061	15.073079733	49.4	346.1	Botaurus_poiciloptilus-ML2064.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_poiciloptilus-ML2064.wav	3	a
-6	Spectrogram 1	1	15.193642768	15.615613390	49.4	370.8	Botaurus_poiciloptilus-ML2064.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Botaurus_poiciloptilus-ML2064.wav	3	b

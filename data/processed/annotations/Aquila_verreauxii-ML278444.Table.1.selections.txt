@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.253922066	1.458525654	1137.1	5191.1	Aquila_verreauxii-ML278444.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_verreauxii-ML278444.wav	1	a
-2	Spectrogram 1	1	1.850823442	2.072336417	1211.3	5339.5	Aquila_verreauxii-ML278444.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_verreauxii-ML278444.wav	2	a
-3	Spectrogram 1	1	2.488982286	2.795042199	1137.1	5290.0	Aquila_verreauxii-ML278444.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_verreauxii-ML278444.wav	3	a

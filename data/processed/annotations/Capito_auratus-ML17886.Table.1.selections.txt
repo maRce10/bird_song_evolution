@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.901876785	9.034749982	222.5	568.6	Capito_auratus-ML17886.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_auratus-ML17886.wav	1	a
-2	Spectrogram 1	1	9.086127619	9.229630672	197.8	568.6	Capito_auratus-ML17886.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_auratus-ML17886.wav	1	a
-3	Spectrogram 1	1	9.553841275	9.686714472	222.5	568.6	Capito_auratus-ML17886.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_auratus-ML17886.wav	1	a
-4	Spectrogram 1	1	9.738092109	9.863878736	271.9	593.3	Capito_auratus-ML17886.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_auratus-ML17886.wav	2	a
-5	Spectrogram 1	1	10.189860981	10.324505821	222.5	618.0	Capito_auratus-ML17886.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_auratus-ML17886.wav	3	a
-6	Spectrogram 1	1	10.368796887	10.498126800	247.2	642.7	Capito_auratus-ML17886.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Capitonidae\Capito_auratus-ML17886.wav	3	a

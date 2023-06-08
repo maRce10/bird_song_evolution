@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.180742723	18.233591724	1999.5	2915.9	Illadopsis_rufipennis-ML212548.wav	D:\Andean\Pellorneidae\Illadopsis_rufipennis-ML212548.wav	1	a
-2	Spectrogram 1	1	18.702626605	19.224510486	2360.5	2888.2	Illadopsis_rufipennis-ML212548.wav	D:\Andean\Pellorneidae\Illadopsis_rufipennis-ML212548.wav	1	b
-3	Spectrogram 1	1	22.969642996	23.029098122	1805.1	3082.6	Illadopsis_rufipennis-ML212548.wav	D:\Andean\Pellorneidae\Illadopsis_rufipennis-ML212548.wav	2	a
-4	Spectrogram 1	1	23.544375878	24.013410759	2305.0	2943.7	Illadopsis_rufipennis-ML212548.wav	D:\Andean\Pellorneidae\Illadopsis_rufipennis-ML212548.wav	2	b
-5	Spectrogram 1	1	28.299705113	28.372372489	2110.6	3082.6	Illadopsis_rufipennis-ML212548.wav	D:\Andean\Pellorneidae\Illadopsis_rufipennis-ML212548.wav	3	a
-6	Spectrogram 1	1	28.788558369	29.171713624	2360.5	2915.9	Illadopsis_rufipennis-ML212548.wav	D:\Andean\Pellorneidae\Illadopsis_rufipennis-ML212548.wav	3	b

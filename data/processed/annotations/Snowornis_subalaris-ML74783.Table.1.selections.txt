@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.857991956	7.463743551	2844.849	4503.270	Snowornis_subalaris-ML74783.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Snowornis_subalaris-ML74783.wav	1	a
-2	Spectrogram 1	1	30.988926037	31.589170799	2844.849	4783.567	Snowornis_subalaris-ML74783.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Cotingidae\Cotingidae\Snowornis_subalaris-ML74783.wav	2	a

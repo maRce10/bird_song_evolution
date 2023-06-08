@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.358092261	2.731463106	831.0	1523.6	Otus_cyprius-ML104674151.wav	D:\Andean\Strigidae\Otus_cyprius-ML104674151.wav	1	a
-2	Spectrogram 1	1	4.091599753	4.238281156	747.9	1218.8	Otus_cyprius-ML104674151.wav	D:\Andean\Strigidae\Otus_cyprius-ML104674151.wav	1	b
-3	Spectrogram 1	1	5.505075092	5.851776590	747.9	1412.8	Otus_cyprius-ML104674151.wav	D:\Andean\Strigidae\Otus_cyprius-ML104674151.wav	2	a
-4	Spectrogram 1	1	7.345259968	7.451937352	775.6	1218.8	Otus_cyprius-ML104674151.wav	D:\Andean\Strigidae\Otus_cyprius-ML104674151.wav	2	b
-5	Spectrogram 1	1	8.665392596	9.012094094	831.0	1357.3	Otus_cyprius-ML104674151.wav	D:\Andean\Strigidae\Otus_cyprius-ML104674151.wav	3	a
-6	Spectrogram 1	1	10.445571443	10.578918173	692.5	1218.8	Otus_cyprius-ML104674151.wav	D:\Andean\Strigidae\Otus_cyprius-ML104674151.wav	3	b

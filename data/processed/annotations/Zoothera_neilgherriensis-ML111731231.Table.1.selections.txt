@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	19.264839176	19.862757364	1463.0	2481.9	Zoothera_neilgherriensis-ML111731231.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_neilgherriensis-ML111731231.wav	1	a
-2	Spectrogram 1	1	20.357908363	20.853059363	1959.4	4206.2	Zoothera_neilgherriensis-ML111731231.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_neilgherriensis-ML111731231.wav	1	b
-3	Spectrogram 1	1	23.455017391	24.003887603	1802.7	3657.6	Zoothera_neilgherriensis-ML111731231.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_neilgherriensis-ML111731231.wav	2	c
-4	Spectrogram 1	1	26.816745111	27.087676790	1201.8	2403.6	Zoothera_neilgherriensis-ML111731231.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_neilgherriensis-ML111731231.wav	3	d

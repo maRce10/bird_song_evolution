@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.795640200	1.851695030	5152.4	7479.3	Muscicapa_muttui-ML75093201.wav	E:\Andean\Muscicapidae\Muscicapa_muttui-ML75093201.wav	1	a
-2	Spectrogram 1	1	1.925266995	1.956797837	4944.6	7410.0	Muscicapa_muttui-ML75093201.wav	E:\Andean\Muscicapidae\Muscicapa_muttui-ML75093201.wav	1	a
-3	Spectrogram 1	1	2.064236261	2.108613002	4764.6	7257.7	Muscicapa_muttui-ML75093201.wav	E:\Andean\Muscicapidae\Muscicapa_muttui-ML75093201.wav	1	a
-4	Spectrogram 1	1	6.266422936	6.308464059	4875.4	7230.0	Muscicapa_muttui-ML75093201.wav	E:\Andean\Muscicapidae\Muscicapa_muttui-ML75093201.wav	2	a
-5	Spectrogram 1	1	6.369190125	6.422909337	4764.6	7451.6	Muscicapa_muttui-ML75093201.wav	E:\Andean\Muscicapidae\Muscicapa_muttui-ML75093201.wav	2	a
-6	Spectrogram 1	1	6.464950460	6.513998436	4736.9	7396.2	Muscicapa_muttui-ML75093201.wav	E:\Andean\Muscicapidae\Muscicapa_muttui-ML75093201.wav	2	a
-7	Spectrogram 1	1	6.605087535	6.647128657	4459.9	7091.5	Muscicapa_muttui-ML75093201.wav	E:\Andean\Muscicapidae\Muscicapa_muttui-ML75093201.wav	2	a

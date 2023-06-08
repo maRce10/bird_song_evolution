@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.045106027	4.185486185	6206.5	7489.7	Euplectes_nigroventris-ML280324.wav	D:\Andean\Ploceidae\Euplectes_nigroventris-ML280324.wav	1	a
-2	Spectrogram 1	1	4.540565408	4.674339441	5918.4	7201.6	Euplectes_nigroventris-ML280324.wav	D:\Andean\Ploceidae\Euplectes_nigroventris-ML280324.wav	2	a
-3	Spectrogram 1	1	5.600848484	5.751137829	6180.3	7620.6	Euplectes_nigroventris-ML280324.wav	D:\Andean\Ploceidae\Euplectes_nigroventris-ML280324.wav	3	a

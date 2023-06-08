@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	115.863837733	116.029549730	2941.6	5042.8	Ictinia_plumbea-ML222397.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Ictinia_plumbea-ML222397.wav	1	a
-2	Spectrogram 1	1	116.063368505	116.563886372	2991.1	4622.6	Ictinia_plumbea-ML222397.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Ictinia_plumbea-ML222397.wav	1	b
-3	Spectrogram 1	1	136.434459282	136.608625972	3114.7	4993.4	Ictinia_plumbea-ML222397.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Ictinia_plumbea-ML222397.wav	2	a
-4	Spectrogram 1	1	136.637371931	137.132816982	3015.8	4400.1	Ictinia_plumbea-ML222397.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Ictinia_plumbea-ML222397.wav	2	b
-5	Spectrogram 1	1	163.767634960	163.951947282	3114.7	4993.4	Ictinia_plumbea-ML222397.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Ictinia_plumbea-ML222397.wav	3	a
-6	Spectrogram 1	1	163.972238547	164.445701395	2966.4	4499.0	Ictinia_plumbea-ML222397.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Ictinia_plumbea-ML222397.wav	3	b

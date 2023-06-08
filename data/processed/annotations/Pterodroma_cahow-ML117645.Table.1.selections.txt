@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	305.929814245	307.039643259	692.5	1024.9	Pterodroma_cahow-ML117645.wav	D:\Andean\Procellariidae\Pterodroma_cahow-ML117645.wav	1	a
-2	Spectrogram 1	1	307.211402511	307.753104768	747.9	1024.9	Pterodroma_cahow-ML117645.wav	D:\Andean\Procellariidae\Pterodroma_cahow-ML117645.wav	1	a
-3	Spectrogram 1	1	308.585476529	309.748154543	747.9	1108.0	Pterodroma_cahow-ML117645.wav	D:\Andean\Procellariidae\Pterodroma_cahow-ML117645.wav	1	a
-4	Spectrogram 1	1	316.631736880	317.741565894	720.2	1080.3	Pterodroma_cahow-ML117645.wav	D:\Andean\Procellariidae\Pterodroma_cahow-ML117645.wav	2	a
-5	Spectrogram 1	1	318.243631400	319.181701162	747.9	1080.3	Pterodroma_cahow-ML117645.wav	D:\Andean\Procellariidae\Pterodroma_cahow-ML117645.wav	2	a
-6	Spectrogram 1	1	319.472370666	319.974436172	747.9	1108.0	Pterodroma_cahow-ML117645.wav	D:\Andean\Procellariidae\Pterodroma_cahow-ML117645.wav	2	a
-7	Spectrogram 1	1	322.884221760	324.099748775	637.1	1024.9	Pterodroma_cahow-ML117645.wav	D:\Andean\Procellariidae\Pterodroma_cahow-ML117645.wav	3	a

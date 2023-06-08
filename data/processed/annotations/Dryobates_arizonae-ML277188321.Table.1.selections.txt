@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.378078965	13.496989216	1047.5	6180.3	Dryobates_arizonae-ML277188321.wav	D:\Andean\Picidae\Dryobates_arizonae-ML277188321.wav	1	a
-2	Spectrogram 1	1	15.379734865	15.505251242	995.1	6232.7	Dryobates_arizonae-ML277188321.wav	D:\Andean\Picidae\Dryobates_arizonae-ML277188321.wav	2	a
-3	Spectrogram 1	1	18.999891411	19.105589412	916.6	6101.7	Dryobates_arizonae-ML277188321.wav	D:\Andean\Picidae\Dryobates_arizonae-ML277188321.wav	3	a

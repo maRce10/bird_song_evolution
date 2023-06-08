@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.055804352	6.317259191	1448.1	3356.9	Saltator_grandis-ML109202.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_grandis-ML109202.wav	1	a
-2	Spectrogram 1	1	6.547588453	7.028997363	1250.6	4607.5	Saltator_grandis-ML109202.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_grandis-ML109202.wav	1	b
-3	Spectrogram 1	1	11.391622389	11.653077228	1481.0	3324.0	Saltator_grandis-ML109202.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_grandis-ML109202.wav	2	a
-4	Spectrogram 1	1	11.891706644	12.377265630	1349.3	4607.5	Saltator_grandis-ML109202.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_grandis-ML109202.wav	2	b
-5	Spectrogram 1	1	17.881236617	18.005738921	1316.4	3488.5	Saltator_grandis-ML109202.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_grandis-ML109202.wav	3	c
-6	Spectrogram 1	1	18.180042147	18.539023791	1579.7	3225.2	Saltator_grandis-ML109202.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_grandis-ML109202.wav	3	a
-7	Spectrogram 1	1	18.746527631	19.213411271	1250.6	4607.5	Saltator_grandis-ML109202.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Saltator_grandis-ML109202.wav	3	b

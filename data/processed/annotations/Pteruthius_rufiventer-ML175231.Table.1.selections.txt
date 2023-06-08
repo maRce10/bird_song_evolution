@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	81.449484188	81.636333622	1135.7	2216.1	Pteruthius_rufiventer-ML175231.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_rufiventer-ML175231.wav	1	a
-2	Spectrogram 1	1	81.715744631	81.904929683	1135.7	2991.7	Pteruthius_rufiventer-ML175231.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_rufiventer-ML175231.wav	1	b
-3	Spectrogram 1	1	83.386541579	83.568719777	1052.6	2243.8	Pteruthius_rufiventer-ML175231.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_rufiventer-ML175231.wav	2	a
-4	Spectrogram 1	1	83.655137640	83.839651456	1052.6	2936.3	Pteruthius_rufiventer-ML175231.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_rufiventer-ML175231.wav	2	b
-5	Spectrogram 1	1	85.658731623	85.833902967	997.2	2300.2	Pteruthius_rufiventer-ML175231.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_rufiventer-ML175231.wav	3	a
-6	Spectrogram 1	1	85.920320830	86.107170264	1024.9	2964.0	Pteruthius_rufiventer-ML175231.wav	C:\Users\pfmar\Downloads\Andean\Vireonidae\Pteruthius_rufiventer-ML175231.wav	3	b

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	52.385545789	53.402889052	4515.3	5512.5	Phoenicurus_leucocephalus-ML170916771.wav	E:\Andean\Muscicapidae\Phoenicurus_leucocephalus-ML170916771.wav	1	a
-2	Spectrogram 1	1	55.027995822	56.137824836	4764.6	5540.2	Phoenicurus_leucocephalus-ML170916771.wav	E:\Andean\Muscicapidae\Phoenicurus_leucocephalus-ML170916771.wav	2	a
-3	Spectrogram 1	1	58.958640247	59.982589635	4736.9	5540.2	Phoenicurus_leucocephalus-ML170916771.wav	E:\Andean\Muscicapidae\Phoenicurus_leucocephalus-ML170916771.wav	3	a

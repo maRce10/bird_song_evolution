@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.567767788	8.647041289	2880.9	3407.2	Batis_capensis-ML83284.wav	D:\Andean\Platysteiridae\Batis_capensis-ML83284.wav	1	a
-2	Spectrogram 1	1	9.142500670	9.208561921	2908.6	3379.5	Batis_capensis-ML83284.wav	D:\Andean\Platysteiridae\Batis_capensis-ML83284.wav	2	a
-3	Spectrogram 1	1	9.773385616	9.846052992	2880.9	3324.1	Batis_capensis-ML83284.wav	D:\Andean\Platysteiridae\Batis_capensis-ML83284.wav	3	a

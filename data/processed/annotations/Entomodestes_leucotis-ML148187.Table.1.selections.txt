@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	51.647012116	52.578475753	1306.3	3657.6	Entomodestes_leucotis-ML148187.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Entomodestes_leucotis-ML148187.wav	1	a
-2	Spectrogram 1	1	60.966090380	61.877735642	1541.4	3579.2	Entomodestes_leucotis-ML148187.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Entomodestes_leucotis-ML148187.wav	2	b
-3	Spectrogram 1	1	74.145638264	75.070495776	1280.2	3579.2	Entomodestes_leucotis-ML148187.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Entomodestes_leucotis-ML148187.wav	3	a

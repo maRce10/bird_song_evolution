@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	172.414475388	173.187392023	470.9	1800.6	Nyctibius_maculosus-ML35889.wav	E:\Andean\Nyctibiidae\Nyctibius_maculosus-ML35889.wav	1	a
-2	Spectrogram 1	1	196.171499067	196.924597326	526.3	1772.9	Nyctibius_maculosus-ML35889.wav	E:\Andean\Nyctibiidae\Nyctibius_maculosus-ML35889.wav	2	a
-3	Spectrogram 1	1	214.263248342	214.943679226	470.9	1800.6	Nyctibius_maculosus-ML35889.wav	E:\Andean\Nyctibiidae\Nyctibius_maculosus-ML35889.wav	3	a

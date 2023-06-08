@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	16.787214459	16.864289851	1463.0	4336.8	Calidris_alba-ML177654.wav	D:\Andean\Scolopacidae\Calidris_alba-ML177654.wav	1	a
-2	Spectrogram 1	1	17.581324553	17.644386237	1985.5	4493.6	Calidris_alba-ML177654.wav	D:\Andean\Scolopacidae\Calidris_alba-ML177654.wav	2	a
-3	Spectrogram 1	1	17.716790392	17.779852076	1828.8	4180.1	Calidris_alba-ML177654.wav	D:\Andean\Scolopacidae\Calidris_alba-ML177654.wav	2	a
-4	Spectrogram 1	1	18.454845656	18.513236104	2037.8	4127.8	Calidris_alba-ML177654.wav	D:\Andean\Scolopacidae\Calidris_alba-ML177654.wav	3	a

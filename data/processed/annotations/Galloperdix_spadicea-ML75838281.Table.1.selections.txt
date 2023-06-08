@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.997194118	3.088283217	1329.6	1994.5	Galloperdix_spadicea-ML75838281.wav	D:\Andean\Phasianidae\Galloperdix_spadicea-ML75838281.wav	1	a
-2	Spectrogram 1	1	3.160687373	3.261118943	1412.8	1994.5	Galloperdix_spadicea-ML75838281.wav	D:\Andean\Phasianidae\Galloperdix_spadicea-ML75838281.wav	1	b
-3	Spectrogram 1	1	3.978153645	4.066907126	1301.9	2077.6	Galloperdix_spadicea-ML75838281.wav	D:\Andean\Phasianidae\Galloperdix_spadicea-ML75838281.wav	2	a
-4	Spectrogram 1	1	4.127633192	4.237407235	1412.8	2133.0	Galloperdix_spadicea-ML75838281.wav	D:\Andean\Phasianidae\Galloperdix_spadicea-ML75838281.wav	2	b
-5	Spectrogram 1	1	4.938092611	5.038524182	1163.4	1966.8	Galloperdix_spadicea-ML75838281.wav	D:\Andean\Phasianidae\Galloperdix_spadicea-ML75838281.wav	3	a
-6	Spectrogram 1	1	5.092243394	5.199681819	1440.5	2105.3	Galloperdix_spadicea-ML75838281.wav	D:\Andean\Phasianidae\Galloperdix_spadicea-ML75838281.wav	3	b

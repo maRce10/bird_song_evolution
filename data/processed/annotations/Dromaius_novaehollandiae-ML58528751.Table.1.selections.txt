@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.816777970	15.096697506	2348.4	4770.9	Dromaius_novaehollandiae-ML58528751.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Casuariidae\Dromaius_novaehollandiae-ML58528751.wav	1	a
-2	Spectrogram 1	1	15.892165050	16.175627872	2323.7	4597.9	Dromaius_novaehollandiae-ML58528751.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Casuariidae\Dromaius_novaehollandiae-ML58528751.wav	2	a
-3	Spectrogram 1	1	17.713961584	17.995652763	2175.3	4499.0	Dromaius_novaehollandiae-ML58528751.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Casuariidae\Dromaius_novaehollandiae-ML58528751.wav	3	a

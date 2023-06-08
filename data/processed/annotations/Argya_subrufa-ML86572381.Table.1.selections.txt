@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	29.879872384	30.024824054	1581.3	7269.5	Argya_subrufa-ML86572381.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_subrufa-ML86572381.wav	1	a
-2	Spectrogram 1	1	41.156374707	41.303094080	1757.0	7313.4	Argya_subrufa-ML86572381.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_subrufa-ML86572381.wav	2	a
-3	Spectrogram 1	1	42.206390462	42.406140934	1669.1	7269.5	Argya_subrufa-ML86572381.wav	E:\Escritorio\Cantos\Leiothrichidae\Argya_subrufa-ML86572381.wav	3	a

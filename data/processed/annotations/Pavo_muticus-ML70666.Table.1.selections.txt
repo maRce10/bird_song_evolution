@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	54.232455549	55.078039560	332.4	1468.2	Pavo_muticus-ML70666.wav	D:\Andean\Phasianidae\Pavo_muticus-ML70666.wav	1	a
-2	Spectrogram 1	1	56.068958322	56.874905582	249.3	1218.8	Pavo_muticus-ML70666.wav	D:\Andean\Phasianidae\Pavo_muticus-ML70666.wav	2	a
-3	Spectrogram 1	1	58.123463223	59.008683984	332.4	1329.6	Pavo_muticus-ML70666.wav	D:\Andean\Phasianidae\Pavo_muticus-ML70666.wav	3	a

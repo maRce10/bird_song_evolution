@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.017495356	6.042317157	543.8	4078.8	Butorides_striata-ML190852.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Butorides_striata-ML190852.wav	1	a
-2	Spectrogram 1	1	6.076003888	6.694775934	321.4	1359.6	Butorides_striata-ML190852.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Butorides_striata-ML190852.wav	1	b

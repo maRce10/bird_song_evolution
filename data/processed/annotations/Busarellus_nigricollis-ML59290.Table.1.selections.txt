@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	354.176744708	356.336132405	419.5	5278.8	Busarellus_nigricollis-ML59290.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Busarellus_nigricollis-ML59290.wav	1	a
-2	Spectrogram 1	1	364.106615091	365.833168709	419.5	6222.7	Busarellus_nigricollis-ML59290.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Busarellus_nigricollis-ML59290.wav	2	a
-3	Spectrogram 1	1	383.451777664	385.498771981	349.6	5768.2	Busarellus_nigricollis-ML59290.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Busarellus_nigricollis-ML59290.wav	3	a

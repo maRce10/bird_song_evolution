@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.823290523	3.170940040	1052.6	12465.5	Tyto_alba-ML97928071.wav	C:\Users\pfmar\Downloads\Andean\Tytonidae\Tyto_alba-ML97928071.wav	1	a
-2	Spectrogram 1	1	32.819330617	34.193404634	886.4	14903.1	Tyto_alba-ML97928071.wav	C:\Users\pfmar\Downloads\Andean\Tytonidae\Tyto_alba-ML97928071.wav	2	b
-3	Spectrogram 1	1	52.675968028	54.023617544	886.4	9307.5	Tyto_alba-ML97928071.wav	C:\Users\pfmar\Downloads\Andean\Tytonidae\Tyto_alba-ML97928071.wav	3	c

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.501969989	7.356557904	2770.1	3684.2	Microbates_collaris-ML187982.wav	D:\Andean\Polioptilidae\Microbates_collaris-ML187982.wav	1	a
-2	Spectrogram 1	1	14.342980351	15.182170285	2687.0	3739.6	Microbates_collaris-ML187982.wav	D:\Andean\Polioptilidae\Microbates_collaris-ML187982.wav	2	a
-3	Spectrogram 1	1	28.383356637	29.083964747	2687.0	3684.2	Microbates_collaris-ML187982.wav	D:\Andean\Polioptilidae\Microbates_collaris-ML187982.wav	3	a

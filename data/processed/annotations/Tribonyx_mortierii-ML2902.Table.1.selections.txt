@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.711493075	7.807253410	387.8	2465.4	Tribonyx_mortierii-ML2902.wav	D:\Andean\Rallidae\Tribonyx_mortierii-ML2902.wav	1	a
-2	Spectrogram 1	1	8.346781150	8.477575753	332.4	2576.2	Tribonyx_mortierii-ML2902.wav	D:\Andean\Rallidae\Tribonyx_mortierii-ML2902.wav	2	a
-3	Spectrogram 1	1	9.010096639	9.175925512	415.5	2548.5	Tribonyx_mortierii-ML2902.wav	D:\Andean\Rallidae\Tribonyx_mortierii-ML2902.wav	3	a

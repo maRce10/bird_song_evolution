@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.906445218	1.330694008	1361.7	2833.1	Pterorhinus_woodi-ML221087.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_woodi-ML221087.wav	1	a
-2	Spectrogram 1	1	2.511519806	2.921626970	1229.9	2855.1	Pterorhinus_woodi-ML221087.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_woodi-ML221087.wav	1	a
-3	Spectrogram 1	1	5.662605219	6.065641570	1229.9	2811.2	Pterorhinus_woodi-ML221087.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_woodi-ML221087.wav	2	a
-4	Spectrogram 1	1	7.097980292	7.508087455	1251.8	2899.0	Pterorhinus_woodi-ML221087.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_woodi-ML221087.wav	2	a
-5	Spectrogram 1	1	9.488150233	9.898257397	1251.8	2899.0	Pterorhinus_woodi-ML221087.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_woodi-ML221087.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	810.738767608	812.297990225	2415.0	3500.0	Pithys_castaneus-ML228611.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Pithys_castaneus-ML228611.wav	1	a
-2	Spectrogram 1	1	819.607426576	821.123613325	2345.0	3430.0	Pithys_castaneus-ML228611.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Pithys_castaneus-ML228611.wav	2	a
-3	Spectrogram 1	1	830.613789136	832.166390851	2415.0	3745.0	Pithys_castaneus-ML228611.wav	C:\Users\joels\Downloads\OneDrive_1_10-8-2022\Pithys_castaneus-ML228611.wav	3	a

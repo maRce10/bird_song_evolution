@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.281050736	18.399960987	1301.9	3047.1	Recurvirostra_avosetta-ML36261.wav	D:\Andean\Recurvirostridae\Recurvirostra_avosetta-ML36261.wav	1	a
-2	Spectrogram 1	1	19.305000124	19.410698125	1274.2	3324.1	Recurvirostra_avosetta-ML36261.wav	D:\Andean\Recurvirostridae\Recurvirostra_avosetta-ML36261.wav	2	a
-3	Spectrogram 1	1	20.164895432	20.263987308	1163.4	3518.0	Recurvirostra_avosetta-ML36261.wav	D:\Andean\Recurvirostridae\Recurvirostra_avosetta-ML36261.wav	3	

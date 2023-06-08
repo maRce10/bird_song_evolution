@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.664365988	0.726373481	395.5	1483.2	Tockus_monteiri-ML221297.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Tockus_monteiri-ML221297.wav	1	a
-2	Spectrogram 1	1	0.859246678	0.919482528	271.9	1507.9	Tockus_monteiri-ML221297.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Tockus_monteiri-ML221297.wav	2	a
-3	Spectrogram 1	1	1.054127368	1.114363218	296.6	1483.2	Tockus_monteiri-ML221297.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucerotidae\Bucerotidae\Tockus_monteiri-ML221297.wav	3	b

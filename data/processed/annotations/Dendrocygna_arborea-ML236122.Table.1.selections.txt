@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	23.620254490	24.788652137	1829.3	2669.7	Dendrocygna_arborea-ML236122.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Dendrocygna_arborea-ML236122.wav	1	a
-2	Spectrogram 1	1	27.092447773	28.248434519	1829.3	2645.0	Dendrocygna_arborea-ML236122.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Dendrocygna_arborea-ML236122.wav	2	a
-3	Spectrogram 1	1	36.705350456	37.809920614	1829.3	2620.3	Dendrocygna_arborea-ML236122.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Dendrocygna_arborea-ML236122.wav	3	a

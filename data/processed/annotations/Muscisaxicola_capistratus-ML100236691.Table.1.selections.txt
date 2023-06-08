@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.201021170	9.292110269	4736.9	5955.7	Muscisaxicola_capistratus-ML100236691.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_capistratus-ML100236691.wav	1	a
-2	Spectrogram 1	1	9.871343513	9.962432612	4598.4	6011.1	Muscisaxicola_capistratus-ML100236691.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_capistratus-ML100236691.wav	2	a
-3	Spectrogram 1	1	10.593049451	10.684138550	4764.6	6038.8	Muscisaxicola_capistratus-ML100236691.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Muscisaxicola_capistratus-ML100236691.wav	3	a

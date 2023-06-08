@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.545102414	7.614451521	346.1	2348.4	Branta_leucopsis-ML235525.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_leucopsis-ML235525.wav	1	a
-2	Spectrogram 1	1	7.695757370	7.858369068	271.9	2027.0	Branta_leucopsis-ML235525.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_leucopsis-ML235525.wav	1	b
-3	Spectrogram 1	1	8.370117647	8.444249450	321.4	2620.3	Branta_leucopsis-ML235525.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_leucopsis-ML235525.wav	2	a
-4	Spectrogram 1	1	8.573382270	8.733602619	222.5	2101.2	Branta_leucopsis-ML235525.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_leucopsis-ML235525.wav	2	b
-5	Spectrogram 1	1	9.080348152	9.159262652	247.2	2719.2	Branta_leucopsis-ML235525.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_leucopsis-ML235525.wav	3	a
-6	Spectrogram 1	1	9.336222441	9.465355261	197.8	2051.7	Branta_leucopsis-ML235525.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Branta_leucopsis-ML235525.wav	3	b

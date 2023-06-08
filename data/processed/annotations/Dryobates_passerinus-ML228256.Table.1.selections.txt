@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.097740423	1.187772993	1387.9	4844.7	Dryobates_passerinus-ML228256.wav	D:\Andean\Picidae\Dryobates_passerinus-ML228256.wav	1	a
-2	Spectrogram 1	1	1.285868945	1.358273101	1152.3	4373.3	Dryobates_passerinus-ML228256.wav	D:\Andean\Picidae\Dryobates_passerinus-ML228256.wav	1	a
-3	Spectrogram 1	1	3.280702288	3.346099590	1414.1	5080.4	Dryobates_passerinus-ML228256.wav	D:\Andean\Picidae\Dryobates_passerinus-ML228256.wav	2	a
-4	Spectrogram 1	1	3.420839364	3.490907901	1361.8	4478.1	Dryobates_passerinus-ML228256.wav	D:\Andean\Picidae\Dryobates_passerinus-ML228256.wav	2	a
-5	Spectrogram 1	1	3.590537188	3.648927636	1230.8	4294.8	Dryobates_passerinus-ML228256.wav	D:\Andean\Picidae\Dryobates_passerinus-ML228256.wav	2	a
-6	Spectrogram 1	1	5.713272889	5.773998955	1335.6	4321.0	Dryobates_passerinus-ML228256.wav	D:\Andean\Picidae\Dryobates_passerinus-ML228256.wav	3	a
-7	Spectrogram 1	1	5.904793559	5.974862097	1492.7	4032.9	Dryobates_passerinus-ML228256.wav	D:\Andean\Picidae\Dryobates_passerinus-ML228256.wav	3	a

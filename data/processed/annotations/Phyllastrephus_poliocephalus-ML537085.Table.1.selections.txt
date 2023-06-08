@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.456561493	3.520971213	1301.9	2022.2	Phyllastrephus_poliocephalus-ML537085.wav	D:\Andean\Pycnonotidae\Phyllastrephus_poliocephalus-ML537085.wav	1	a
-2	Spectrogram 1	1	3.534183463	3.575471744	1191.1	2105.3	Phyllastrephus_poliocephalus-ML537085.wav	D:\Andean\Pycnonotidae\Phyllastrephus_poliocephalus-ML537085.wav	1	b
-3	Spectrogram 1	1	4.009824469	4.064325001	1385.1	2133.0	Phyllastrephus_poliocephalus-ML537085.wav	D:\Andean\Pycnonotidae\Phyllastrephus_poliocephalus-ML537085.wav	2	a
-4	Spectrogram 1	1	4.070931126	4.123780126	1163.4	1994.5	Phyllastrephus_poliocephalus-ML537085.wav	D:\Andean\Pycnonotidae\Phyllastrephus_poliocephalus-ML537085.wav	2	b
-5	Spectrogram 1	1	4.741452822	4.804211010	1301.9	2216.1	Phyllastrephus_poliocephalus-ML537085.wav	D:\Andean\Pycnonotidae\Phyllastrephus_poliocephalus-ML537085.wav	3	a
-6	Spectrogram 1	1	4.820726323	4.858711542	1191.1	2105.3	Phyllastrephus_poliocephalus-ML537085.wav	D:\Andean\Pycnonotidae\Phyllastrephus_poliocephalus-ML537085.wav	3	b

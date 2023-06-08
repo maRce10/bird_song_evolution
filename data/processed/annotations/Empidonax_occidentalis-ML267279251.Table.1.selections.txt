@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	28.699609347	28.726976347	1662.1	2991.7	Empidonax_occidentalis-ML267279251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_occidentalis-ML267279251.wav	1	a
-2	Spectrogram 1	1	28.731814207	28.769799426	3019.4	4820.0	Empidonax_occidentalis-ML267279251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_occidentalis-ML267279251.wav	1	b
-3	Spectrogram 1	1	28.790443567	28.835034911	1883.7	4570.7	Empidonax_occidentalis-ML267279251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_occidentalis-ML267279251.wav	1	c
-4	Spectrogram 1	1	30.084419112	30.117449737	2770.1	3988.9	Empidonax_occidentalis-ML267279251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_occidentalis-ML267279251.wav	2	d
-5	Spectrogram 1	1	30.150480363	30.248746473	4764.6	6038.8	Empidonax_occidentalis-ML267279251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_occidentalis-ML267279251.wav	2	e
-6	Spectrogram 1	1	33.204797103	33.230395838	1662.1	2880.9	Empidonax_occidentalis-ML267279251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_occidentalis-ML267279251.wav	3	a
-7	Spectrogram 1	1	33.234524666	33.469867872	2853.2	6426.6	Empidonax_occidentalis-ML267279251.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_occidentalis-ML267279251.wav	3	

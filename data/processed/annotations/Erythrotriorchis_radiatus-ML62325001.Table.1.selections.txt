@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.250258934	0.618883579	840.5	4400.1	Erythrotriorchis_radiatus-ML62325001.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Erythrotriorchis_radiatus-ML62325001.wav	1	a
-2	Spectrogram 1	1	1.046691081	1.420388543	741.6	4326.0	Erythrotriorchis_radiatus-ML62325001.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Erythrotriorchis_radiatus-ML62325001.wav	2	a
-3	Spectrogram 1	1	2.365631352	2.700437222	815.8	4251.8	Erythrotriorchis_radiatus-ML62325001.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Erythrotriorchis_radiatus-ML62325001.wav	3	a

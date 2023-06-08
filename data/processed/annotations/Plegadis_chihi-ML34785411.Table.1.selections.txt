@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.886917955	3.060495375	609.4	3601.1	Plegadis_chihi-ML34785411.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Plegadis_chihi-ML34785411.wav	1	a
-2	Spectrogram 1	1	3.423079320	3.648729966	554.0	4930.8	Plegadis_chihi-ML34785411.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Plegadis_chihi-ML34785411.wav	1	b
-3	Spectrogram 1	1	3.918739287	4.105817173	609.4	3601.1	Plegadis_chihi-ML34785411.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Plegadis_chihi-ML34785411.wav	1	a
-4	Spectrogram 1	1	4.371969218	4.543618000	664.8	3601.1	Plegadis_chihi-ML34785411.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Plegadis_chihi-ML34785411.wav	1	a
-5	Spectrogram 1	1	4.751910904	4.938988791	609.4	3601.1	Plegadis_chihi-ML34785411.wav	C:\Users\pfmar\Downloads\Andean\Threskiornithidae\Plegadis_chihi-ML34785411.wav	1	a

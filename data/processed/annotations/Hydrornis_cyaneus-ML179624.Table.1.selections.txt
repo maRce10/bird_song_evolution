@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.991869501	8.394843131	1080.3	2576.2	Hydrornis_cyaneus-ML179624.wav	D:\Andean\Pittidae\Hydrornis_cyaneus-ML179624.wav	1	a
-2	Spectrogram 1	1	8.624405978	8.675603447	1052.6	2548.5	Hydrornis_cyaneus-ML179624.wav	D:\Andean\Pittidae\Hydrornis_cyaneus-ML179624.wav	1	b
-3	Spectrogram 1	1	13.353033267	13.757658428	1080.3	2493.1	Hydrornis_cyaneus-ML179624.wav	D:\Andean\Pittidae\Hydrornis_cyaneus-ML179624.wav	2	a
-4	Spectrogram 1	1	13.970705962	14.025206494	1052.6	2437.7	Hydrornis_cyaneus-ML179624.wav	D:\Andean\Pittidae\Hydrornis_cyaneus-ML179624.wav	2	b
-5	Spectrogram 1	1	19.648298926	20.066136338	1052.6	2548.5	Hydrornis_cyaneus-ML179624.wav	D:\Andean\Pittidae\Hydrornis_cyaneus-ML179624.wav	3	a
-6	Spectrogram 1	1	20.270926215	20.318820622	1218.8	2382.3	Hydrornis_cyaneus-ML179624.wav	D:\Andean\Pittidae\Hydrornis_cyaneus-ML179624.wav	3	b

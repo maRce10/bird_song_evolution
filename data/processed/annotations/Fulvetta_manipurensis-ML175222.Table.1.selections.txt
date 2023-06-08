@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.559922147	4.598459843	4709.2	8088.7	Fulvetta_manipurensis-ML175222.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_manipurensis-ML175222.wav	1	a
-2	Spectrogram 1	1	4.603131079	4.636997539	3795.0	8199.5	Fulvetta_manipurensis-ML175222.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_manipurensis-ML175222.wav	1	b
-3	Spectrogram 1	1	4.708233885	4.743268154	4903.1	8199.5	Fulvetta_manipurensis-ML175222.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_manipurensis-ML175222.wav	2	a
-4	Spectrogram 1	1	4.751442817	4.781805850	4155.2	8282.6	Fulvetta_manipurensis-ML175222.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_manipurensis-ML175222.wav	2	b
-5	Spectrogram 1	1	4.850706579	4.883405229	5152.4	8338.0	Fulvetta_manipurensis-ML175222.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_manipurensis-ML175222.wav	3	a
-6	Spectrogram 1	1	4.896251128	4.927781970	4238.3	8365.7	Fulvetta_manipurensis-ML175222.wav	C:\Users\pfmar\Downloads\Andean\Sylviidae\Fulvetta_manipurensis-ML175222.wav	3	b

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	25.254528674	25.555038234	834.6	2657.4	Pterorhinus_poecilorhynchus-ML14161.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_poecilorhynchus-ML14161.wav	1	a
-2	Spectrogram 1	1	25.593927706	25.876760233	1229.9	2020.5	Pterorhinus_poecilorhynchus-ML14161.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_poecilorhynchus-ML14161.wav	1	b
-3	Spectrogram 1	1	36.559549888	36.852988635	900.4	2481.7	Pterorhinus_poecilorhynchus-ML14161.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_poecilorhynchus-ML14161.wav	2	a
-4	Spectrogram 1	1	36.906019733	37.174710634	1317.7	1998.6	Pterorhinus_poecilorhynchus-ML14161.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_poecilorhynchus-ML14161.wav	2	b
-5	Spectrogram 1	1	40.222784205	40.519758358	944.4	2459.8	Pterorhinus_poecilorhynchus-ML14161.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_poecilorhynchus-ML14161.wav	3	a
-6	Spectrogram 1	1	40.562183237	40.845015764	1273.8	1998.6	Pterorhinus_poecilorhynchus-ML14161.wav	E:\Escritorio\Cantos\Leiothrichidae\Pterorhinus_poecilorhynchus-ML14161.wav	3	b

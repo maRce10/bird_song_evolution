@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.278652976	4.519779046	568.6	3164.1	Mergus_octosetaceus-ML203917611.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Mergus_octosetaceus-ML203917611.wav	1	A
-2	Spectrogram 1	1	4.931385315	5.126413754	568.6	3188.8	Mergus_octosetaceus-ML203917611.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Mergus_octosetaceus-ML203917611.wav	2	a
-3	Spectrogram 1	1	6.693351148	6.913201388	716.9	3337.2	Mergus_octosetaceus-ML203917611.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Mergus_octosetaceus-ML203917611.wav	3	a

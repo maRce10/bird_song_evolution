@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.892682436	9.061776311	1137.1	3683.2	Aythya_nyroca-ML63209891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aythya_nyroca-ML63209891.wav	1	a
-2	Spectrogram 1	1	9.306962428	9.558912301	1236.0	3930.4	Aythya_nyroca-ML63209891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aythya_nyroca-ML63209891.wav	2	a
-3	Spectrogram 1	1	9.802407479	10.045902658	1038.2	3782.1	Aythya_nyroca-ML63209891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Aythya_nyroca-ML63209891.wav	3	a

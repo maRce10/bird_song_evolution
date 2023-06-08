@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.601658260	7.727186748	1038.0	3626.6	Dendrocitta_frontalis-ML198966.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_frontalis-ML198966.wav	1	a
-2	Spectrogram 1	1	9.620210597	9.744133803	1122.1	3675.0	Dendrocitta_frontalis-ML198966.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_frontalis-ML198966.wav	2	a
-3	Spectrogram 1	1	11.963912641	12.089557828	1094.1	3646.9	Dendrocitta_frontalis-ML198966.wav	E:\Escritorio\Cantos\Corvidae\Dendrocitta_frontalis-ML198966.wav	3	a

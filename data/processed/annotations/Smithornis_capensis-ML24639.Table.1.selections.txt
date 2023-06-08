@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.020870656	9.834046283	467.2	3877.4	Smithornis_capensis-ML24639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Calyptomenidae\Smithornis_capensis-ML24639.wav	1	a
-2	Spectrogram 1	1	32.874261645	33.687437271	584.0	3830.7	Smithornis_capensis-ML24639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Calyptomenidae\Smithornis_capensis-ML24639.wav	2	a
-3	Spectrogram 1	1	58.620800553	59.454167899	490.5	4017.6	Smithornis_capensis-ML24639.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Calyptomenidae\Smithornis_capensis-ML24639.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.695584212	8.076919426	0.0	240.6	Strigops_habroptila-ML203919621.wav	D:\Andean\Strigopidae\Strigops_habroptila-ML203919621.wav	1	a
-2	Spectrogram 1	1	9.217327567	9.609455287	0.0	279.5	Strigops_habroptila-ML203919621.wav	D:\Andean\Strigopidae\Strigops_habroptila-ML203919621.wav	2	a 
-3	Spectrogram 1	1	10.415295739	10.800228455	0.0	302.4	Strigops_habroptila-ML203919621.wav	D:\Andean\Strigopidae\Strigops_habroptila-ML203919621.wav	3	a

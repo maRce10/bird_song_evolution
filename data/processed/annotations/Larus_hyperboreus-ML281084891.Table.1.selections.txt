@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	13.632626191	13.990570316	513.9	2405.9	Larus_hyperboreus-ML281084891.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_hyperboreus-ML281084891.wav	1	a
-2	Spectrogram 1	1	14.159309397	14.508075467	584.0	2405.9	Larus_hyperboreus-ML281084891.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_hyperboreus-ML281084891.wav	2	a
-3	Spectrogram 1	1	14.695307778	15.044073848	607.3	2429.2	Larus_hyperboreus-ML281084891.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Larus_hyperboreus-ML281084891.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	46.635343693	46.997029042	757.6	5773.8	Empidonax_albigularis-ML31997351.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_albigularis-ML31997351.wav	1	a
-2	Spectrogram 1	1	49.234957939	49.705048730	783.8	6191.8	Empidonax_albigularis-ML31997351.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_albigularis-ML31997351.wav	2	b
-3	Spectrogram 1	1	56.273282129	56.765773697	705.4	6139.5	Empidonax_albigularis-ML31997351.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Empidonax_albigularis-ML31997351.wav	3	b

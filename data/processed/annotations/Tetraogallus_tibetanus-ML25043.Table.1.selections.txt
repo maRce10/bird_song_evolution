@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.271608407	6.327663237	415.5	2770.1	Tetraogallus_tibetanus-ML25043.wav	D:\Andean\Phasianidae\Tetraogallus_tibetanus-ML25043.wav	1	a
-2	Spectrogram 1	1	6.621951095	6.694355251	498.6	2742.4	Tetraogallus_tibetanus-ML25043.wav	D:\Andean\Phasianidae\Tetraogallus_tibetanus-ML25043.wav	2	a
-3	Spectrogram 1	1	7.037691085	7.079732208	470.9	2714.7	Tetraogallus_tibetanus-ML25043.wav	D:\Andean\Phasianidae\Tetraogallus_tibetanus-ML25043.wav	3	a

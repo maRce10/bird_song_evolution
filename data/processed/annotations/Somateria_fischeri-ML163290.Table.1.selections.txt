@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.388101917	8.638092916	197.8	2101.2	Somateria_fischeri-ML163290.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Somateria_fischeri-ML163290.wav	1	a
-2	Spectrogram 1	1	9.698579196	9.950343180	148.3	1928.1	Somateria_fischeri-ML163290.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Somateria_fischeri-ML163290.wav	2	a
-3	Spectrogram 1	1	10.765916652	10.996404806	222.5	1977.6	Somateria_fischeri-ML163290.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Somateria_fischeri-ML163290.wav	3	a

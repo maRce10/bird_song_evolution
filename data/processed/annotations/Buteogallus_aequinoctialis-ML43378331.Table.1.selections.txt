@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.211683449	1.690219113	2521.4	3881.0	Buteogallus_aequinoctialis-ML43378331.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_aequinoctialis-ML43378331.wav	1	a
-2	Spectrogram 1	1	4.548007930	5.007943268	2645.0	3806.8	Buteogallus_aequinoctialis-ML43378331.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_aequinoctialis-ML43378331.wav	1	a
-3	Spectrogram 1	1	8.078394908	8.556930572	2595.6	3757.4	Buteogallus_aequinoctialis-ML43378331.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteogallus_aequinoctialis-ML43378331.wav	3	a

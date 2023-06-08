@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.886308030	2.970854967	1409.0	4400.1	Butastur_teesa-ML131498111.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_teesa-ML131498111.wav	1	a
-2	Spectrogram 1	1	3.456154386	4.531591425	1236.0	4054.0	Butastur_teesa-ML131498111.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_teesa-ML131498111.wav	1	b
-3	Spectrogram 1	1	8.970508446	9.077037586	1260.7	4128.2	Butastur_teesa-ML131498111.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_teesa-ML131498111.wav	2	a
-4	Spectrogram 1	1	9.664937043	10.579569161	1260.7	4103.5	Butastur_teesa-ML131498111.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_teesa-ML131498111.wav	2	b

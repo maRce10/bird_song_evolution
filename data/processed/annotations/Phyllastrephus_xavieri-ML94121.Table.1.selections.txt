@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.689619877	5.825085717	997.2	1911.4	Phyllastrephus_xavieri-ML94121.wav	D:\Andean\Pycnonotidae\Phyllastrephus_xavieri-ML94121.wav	1	a
-2	Spectrogram 1	1	6.418332669	6.558469744	886.4	1772.9	Phyllastrephus_xavieri-ML94121.wav	D:\Andean\Pycnonotidae\Phyllastrephus_xavieri-ML94121.wav	2	a
-3	Spectrogram 1	1	7.027928946	7.144709843	1052.6	1856.0	Phyllastrephus_xavieri-ML94121.wav	D:\Andean\Pycnonotidae\Phyllastrephus_xavieri-ML94121.wav	3	a

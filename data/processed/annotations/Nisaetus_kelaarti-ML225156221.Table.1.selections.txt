@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	3.119449583	3.288543457	2521.4	3485.5	Nisaetus_kelaarti-ML225156221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_kelaarti-ML225156221.wav	1	a
-2	Spectrogram 1	1	3.337580681	3.964918954	2521.4	3485.5	Nisaetus_kelaarti-ML225156221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_kelaarti-ML225156221.wav	1	b
-3	Spectrogram 1	1	5.340195955	5.377396607	2521.4	3658.5	Nisaetus_kelaarti-ML225156221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_kelaarti-ML225156221.wav	2	c
-4	Spectrogram 1	1	5.487307625	6.079136185	2521.4	3609.1	Nisaetus_kelaarti-ML225156221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_kelaarti-ML225156221.wav	2	b
-5	Spectrogram 1	1	7.007841724	7.134662130	2447.3	3164.1	Nisaetus_kelaarti-ML225156221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_kelaarti-ML225156221.wav	3	a
-6	Spectrogram 1	1	7.237809393	7.675762527	2472.0	3312.4	Nisaetus_kelaarti-ML225156221.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Nisaetus_kelaarti-ML225156221.wav	3	b

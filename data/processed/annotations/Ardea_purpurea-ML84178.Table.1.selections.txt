@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	19.431261454	19.925924495	321.4	6575.4	Ardea_purpurea-ML84178.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_purpurea-ML84178.wav	1	a
-2	Spectrogram 1	1	20.425906492	20.911704603	296.6	6921.5	Ardea_purpurea-ML84178.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_purpurea-ML84178.wav	2	a
-3	Spectrogram 1	1	22.569161586	23.088646427	445.0	6674.3	Ardea_purpurea-ML84178.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Ardeidae\Ardeidae\Ardea_purpurea-ML84178.wav	3	a

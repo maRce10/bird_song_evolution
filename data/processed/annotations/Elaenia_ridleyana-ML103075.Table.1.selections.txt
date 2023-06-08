@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	80.187128028	80.218624304	914.4	4363.0	Elaenia_ridleyana-ML103075.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_ridleyana-ML103075.wav	1	a
-2	Spectrogram 1	1	80.288637660	80.590091696	1254.0	3135.1	Elaenia_ridleyana-ML103075.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_ridleyana-ML103075.wav	1	b
-3	Spectrogram 1	1	84.573065578	84.600706507	574.8	4598.1	Elaenia_ridleyana-ML103075.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_ridleyana-ML103075.wav	2	c
-4	Spectrogram 1	1	84.675460517	84.990467886	966.6	3187.3	Elaenia_ridleyana-ML103075.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_ridleyana-ML103075.wav	2	d
-5	Spectrogram 1	1	87.164314807	87.197345432	809.9	4937.7	Elaenia_ridleyana-ML103075.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_ridleyana-ML103075.wav	3	e
-6	Spectrogram 1	1	87.266709746	87.568939968	1201.8	3004.4	Elaenia_ridleyana-ML103075.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Elaenia_ridleyana-ML103075.wav	3	f

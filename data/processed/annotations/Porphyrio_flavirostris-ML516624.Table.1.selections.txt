@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	228.143468166	228.212832479	166.2	1634.4	Porphyrio_flavirostris-ML516624.wav	D:\Andean\Rallidae\Porphyrio_flavirostris-ML516624.wav	1	a
-2	Spectrogram 1	1	228.222741667	228.247514636	221.6	1883.7	Porphyrio_flavirostris-ML516624.wav	D:\Andean\Rallidae\Porphyrio_flavirostris-ML516624.wav	1	b
-3	Spectrogram 1	1	228.871793456	228.921339394	221.6	1772.9	Porphyrio_flavirostris-ML516624.wav	D:\Andean\Rallidae\Porphyrio_flavirostris-ML516624.wav	2	a
-4	Spectrogram 1	1	228.934551645	228.957673082	249.3	2105.3	Porphyrio_flavirostris-ML516624.wav	D:\Andean\Rallidae\Porphyrio_flavirostris-ML516624.wav	2	b
-5	Spectrogram 1	1	229.400283463	229.463041651	221.6	1745.2	Porphyrio_flavirostris-ML516624.wav	D:\Andean\Rallidae\Porphyrio_flavirostris-ML516624.wav	3	a
-6	Spectrogram 1	1	229.481208495	229.504329933	193.9	1828.3	Porphyrio_flavirostris-ML516624.wav	D:\Andean\Rallidae\Porphyrio_flavirostris-ML516624.wav	3	b

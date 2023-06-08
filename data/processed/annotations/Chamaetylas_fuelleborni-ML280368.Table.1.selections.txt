@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	20.417222364	20.806983743	1283.2	2330.7	Chamaetylas_fuelleborni-ML280368.wav	E:\Andean\Muscicapidae\Chamaetylas_fuelleborni-ML280368.wav	1	a
-2	Spectrogram 1	1	20.886257244	21.256200249	1937.9	2487.8	Chamaetylas_fuelleborni-ML280368.wav	E:\Andean\Muscicapidae\Chamaetylas_fuelleborni-ML280368.wav	1	b
-3	Spectrogram 1	1	25.854063307	26.230612437	1230.8	2278.3	Chamaetylas_fuelleborni-ML280368.wav	E:\Andean\Muscicapidae\Chamaetylas_fuelleborni-ML280368.wav	2	a
-4	Spectrogram 1	1	26.309885938	26.726071818	1859.3	2514.0	Chamaetylas_fuelleborni-ML280368.wav	E:\Andean\Muscicapidae\Chamaetylas_fuelleborni-ML280368.wav	2	b
-5	Spectrogram 1	1	29.665070399	30.127499155	1361.8	2173.6	Chamaetylas_fuelleborni-ML280368.wav	E:\Andean\Muscicapidae\Chamaetylas_fuelleborni-ML280368.wav	3	a
-6	Spectrogram 1	1	30.246409407	30.636170787	1911.7	2461.6	Chamaetylas_fuelleborni-ML280368.wav	E:\Andean\Muscicapidae\Chamaetylas_fuelleborni-ML280368.wav	3	b

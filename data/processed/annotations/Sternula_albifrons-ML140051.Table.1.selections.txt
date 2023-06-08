@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	365.191720846	365.305528721	887.6	4251.2	Sternula_albifrons-ML140051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_albifrons-ML140051.wav	1	a
-2	Spectrogram 1	1	365.845198324	365.975526698	934.3	4157.7	Sternula_albifrons-ML140051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_albifrons-ML140051.wav	1	a
-3	Spectrogram 1	1	368.416526093	368.530333968	864.2	4157.7	Sternula_albifrons-ML140051.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Sternula_albifrons-ML140051.wav	3	a

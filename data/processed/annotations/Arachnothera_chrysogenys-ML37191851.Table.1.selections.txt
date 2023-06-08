@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	62.197310153	62.246856091	1689.8	5540.2	Arachnothera_chrysogenys-ML37191851.wav	E:\Andean\Nectariniidae\Arachnothera_chrysogenys-ML37191851.wav	1	a
-2	Spectrogram 1	1	62.279886716	62.326129592	1634.4	5623.3	Arachnothera_chrysogenys-ML37191851.wav	E:\Andean\Nectariniidae\Arachnothera_chrysogenys-ML37191851.wav	1	a
-3	Spectrogram 1	1	64.122995615	64.175844615	1579.0	5540.2	Arachnothera_chrysogenys-ML37191851.wav	E:\Andean\Nectariniidae\Arachnothera_chrysogenys-ML37191851.wav	2	a
-4	Spectrogram 1	1	64.218784501	64.251815127	1606.7	5706.4	Arachnothera_chrysogenys-ML37191851.wav	E:\Andean\Nectariniidae\Arachnothera_chrysogenys-ML37191851.wav	2	a
-5	Spectrogram 1	1	66.223743464	66.269986340	1523.6	5540.2	Arachnothera_chrysogenys-ML37191851.wav	E:\Andean\Nectariniidae\Arachnothera_chrysogenys-ML37191851.wav	3	a
-6	Spectrogram 1	1	66.322835340	66.362472091	1606.7	5595.6	Arachnothera_chrysogenys-ML37191851.wav	E:\Andean\Nectariniidae\Arachnothera_chrysogenys-ML37191851.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.809948178	2.943532339	222.5	2274.2	Aquila_adalberti-ML77748291.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_adalberti-ML77748291.wav	1	a
-2	Spectrogram 1	1	3.322302617	3.449123022	247.2	2348.4	Aquila_adalberti-ML77748291.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_adalberti-ML77748291.wav	2	a
-3	Spectrogram 1	1	3.873548646	3.993605297	197.8	2298.9	Aquila_adalberti-ML77748291.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Aquila_adalberti-ML77748291.wav	3	a

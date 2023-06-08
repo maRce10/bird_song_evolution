@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.041927440	18.503866854	1080.3	2797.8	Polioptila_nigriceps-ML109173.wav	D:\Andean\Polioptilidae\Polioptila_nigriceps-ML109173.wav	1	a
-2	Spectrogram 1	1	20.636487145	21.029135646	1218.8	2825.5	Polioptila_nigriceps-ML109173.wav	D:\Andean\Polioptilidae\Polioptila_nigriceps-ML109173.wav	2	a
-3	Spectrogram 1	1	24.024042842	24.416691343	1080.3	2853.2	Polioptila_nigriceps-ML109173.wav	D:\Andean\Polioptilidae\Polioptila_nigriceps-ML109173.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	17.271478797	17.575360551	415.5	1883.7	Eclectus_roratus-ML164352.wav	D:\Andean\Psittaculidae\Eclectus_roratus-ML164352.wav	1	a
-2	Spectrogram 1	1	36.665613048	36.890221301	498.6	1966.8	Eclectus_roratus-ML164352.wav	D:\Andean\Psittaculidae\Eclectus_roratus-ML164352.wav	2	a
-3	Spectrogram 1	1	42.502990315	42.747416943	387.8	2049.9	Eclectus_roratus-ML164352.wav	D:\Andean\Psittaculidae\Eclectus_roratus-ML164352.wav	3	a

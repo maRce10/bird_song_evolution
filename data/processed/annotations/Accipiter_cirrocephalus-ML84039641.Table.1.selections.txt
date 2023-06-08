@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.873886566	3.179946479	1458.5	6229.4	Accipiter_cirrocephalus-ML84039641.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_cirrocephalus-ML84039641.wav	1	a
-2	Spectrogram 1	1	3.484315452	3.748101896	1532.6	6254.1	Accipiter_cirrocephalus-ML84039641.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_cirrocephalus-ML84039641.wav	2	a
-3	Spectrogram 1	1	4.069085938	4.383600544	1507.9	6303.5	Accipiter_cirrocephalus-ML84039641.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Accipiter_cirrocephalus-ML84039641.wav	3	a

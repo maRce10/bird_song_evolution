@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	235.059307908	236.530424613	642.7	3460.8	Buteo_brachypterus-ML95944.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_brachypterus-ML95944.wav	1	a
-2	Spectrogram 1	1	243.212771507	244.927368383	559.3	3426.0	Buteo_brachypterus-ML95944.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_brachypterus-ML95944.wav	2	a
-3	Spectrogram 1	1	245.412672462	246.811611335	454.5	3670.7	Buteo_brachypterus-ML95944.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Buteo_brachypterus-ML95944.wav	3	a

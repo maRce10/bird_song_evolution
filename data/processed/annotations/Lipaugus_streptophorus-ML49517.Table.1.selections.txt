@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	11.327245557	11.783313007	2086.4	4721.9	Lipaugus_streptophorus-ML49517.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Lipaugus_streptophorus-ML49517.wav	1	a
-2	Spectrogram 1	1	27.679773876	28.031462569	1998.6	4063.0	Lipaugus_streptophorus-ML49517.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Lipaugus_streptophorus-ML49517.wav	2	a

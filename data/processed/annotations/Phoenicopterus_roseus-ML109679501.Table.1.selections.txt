@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	105.323407507	105.706562762	138.5	1385.1	Phoenicopterus_roseus-ML109679501.wav	D:\Andean\Phoenicopteridae\Phoenicopterus_roseus-ML109679501.wav	1	a
-2	Spectrogram 1	1	106.472873271	106.994757153	55.4	1495.9	Phoenicopterus_roseus-ML109679501.wav	D:\Andean\Phoenicopteridae\Phoenicopterus_roseus-ML109679501.wav	2	a
-3	Spectrogram 1	1	110.026968566	110.568670823	110.8	1606.7	Phoenicopterus_roseus-ML109679501.wav	D:\Andean\Phoenicopteridae\Phoenicopterus_roseus-ML109679501.wav	3	a

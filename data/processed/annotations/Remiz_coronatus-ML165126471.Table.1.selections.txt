@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.378582078	1.807216842	4903.1	7590.1	Remiz_coronatus-ML165126471.wav	D:\Andean\Remizidae\Remiz_coronatus-ML165126471.wav	1	a
-2	Spectrogram 1	1	3.405908663	3.915636490	4709.2	7396.2	Remiz_coronatus-ML165126471.wav	D:\Andean\Remizidae\Remiz_coronatus-ML165126471.wav	2	a
-3	Spectrogram 1	1	7.715425747	8.120891064	4958.5	7645.5	Remiz_coronatus-ML165126471.wav	D:\Andean\Remizidae\Remiz_coronatus-ML165126471.wav	3	a

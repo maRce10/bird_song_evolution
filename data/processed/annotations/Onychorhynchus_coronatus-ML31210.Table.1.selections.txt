@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	23.421654883	23.600020261	1782.5	2820.6	Onychorhynchus_coronatus-ML31210.wav	E:\Andean\Oxyruncidae\Onychorhynchus_coronatus-ML31210.wav	1	a
-2	Spectrogram 1	1	27.960062816	28.151640443	1841.2	2879.4	Onychorhynchus_coronatus-ML31210.wav	E:\Andean\Oxyruncidae\Onychorhynchus_coronatus-ML31210.wav	2	a
-3	Spectrogram 1	1	33.664647414	33.843012791	1743.3	2781.4	Onychorhynchus_coronatus-ML31210.wav	E:\Andean\Oxyruncidae\Onychorhynchus_coronatus-ML31210.wav	3	a

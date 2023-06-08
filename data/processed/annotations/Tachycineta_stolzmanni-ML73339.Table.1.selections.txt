@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.643929695	4.813999811	3158.1	6541.7	Tachycineta_stolzmanni-ML73339.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_stolzmanni-ML73339.wav	1	a
-2	Spectrogram 1	1	6.614998727	6.793790387	2706.9	6767.3	Tachycineta_stolzmanni-ML73339.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_stolzmanni-ML73339.wav	2	a
-3	Spectrogram 1	1	17.242321175	17.368783569	3045.3	6541.7	Tachycineta_stolzmanni-ML73339.wav	C:\Users\Carlos PC\Desktop\Marcelo\Hirundinidae\Tachycineta_stolzmanni-ML73339.wav	3	a

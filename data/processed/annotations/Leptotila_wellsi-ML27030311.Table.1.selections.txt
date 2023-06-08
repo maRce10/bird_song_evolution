@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.651142255	2.434948106	350.4	747.5	Leptotila_wellsi-ML27030311.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_wellsi-ML27030311.wav	1	a
-2	Spectrogram 1	1	10.060459082	10.831415658	303.7	677.4	Leptotila_wellsi-ML27030311.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_wellsi-ML27030311.wav	2	a
-3	Spectrogram 1	1	17.375012387	18.195530456	350.4	747.5	Leptotila_wellsi-ML27030311.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Leptotila_wellsi-ML27030311.wav	3	a

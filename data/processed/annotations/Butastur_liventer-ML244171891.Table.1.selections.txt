@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	17.043690055	17.517152902	1211.3	3040.5	Butastur_liventer-ML244171891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_liventer-ML244171891.wav	1	a
-2	Spectrogram 1	1	17.809754124	17.912901387	914.6	3213.6	Butastur_liventer-ML244171891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_liventer-ML244171891.wav	1	b
-3	Spectrogram 1	1	18.426946764	18.908864306	1013.5	3065.2	Butastur_liventer-ML244171891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_liventer-ML244171891.wav	2	a
-4	Spectrogram 1	1	19.203514900	19.318498734	964.1	3164.1	Butastur_liventer-ML244171891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_liventer-ML244171891.wav	2	b
-5	Spectrogram 1	1	19.711735652	20.210562581	988.8	3139.4	Butastur_liventer-ML244171891.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Butastur_liventer-ML244171891.wav	3	a

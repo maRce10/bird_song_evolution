@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.075246196	4.063790156	1903.4	3609.1	Milvus_migrans-ML87377111.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Milvus_migrans-ML87377111.wav	1	a
-2	Spectrogram 1	1	7.579729849	8.837788273	2002.3	3609.1	Milvus_migrans-ML87377111.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Milvus_migrans-ML87377111.wav	2	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	28.704732947	28.909522825	1357.3	1994.5	Dysithamnus_occidentalis-ML47806001.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Dysithamnus_occidentalis-ML47806001.wav	1	a
-2	Spectrogram 1	1	30.144868215	30.369476468	1301.9	1939.1	Dysithamnus_occidentalis-ML47806001.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Dysithamnus_occidentalis-ML47806001.wav	2	a
-3	Spectrogram 1	1	31.221666604	31.459487107	1385.1	2049.9	Dysithamnus_occidentalis-ML47806001.wav	C:\Users\pfmar\Downloads\Andean\Thamnophilidae\Dysithamnus_occidentalis-ML47806001.wav	3	a

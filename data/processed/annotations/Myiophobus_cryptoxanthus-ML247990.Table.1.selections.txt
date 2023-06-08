@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	47.902395206	48.055987614	2271.5	5180.1	Myiophobus_cryptoxanthus-ML247990.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiophobus_cryptoxanthus-ML247990.wav	1	a
-2	Spectrogram 1	1	49.176580105	49.321914857	2326.9	5235.5	Myiophobus_cryptoxanthus-ML247990.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiophobus_cryptoxanthus-ML247990.wav	2	a
-3	Spectrogram 1	1	50.289711992	50.443304400	2326.9	5069.3	Myiophobus_cryptoxanthus-ML247990.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiophobus_cryptoxanthus-ML247990.wav	3	a

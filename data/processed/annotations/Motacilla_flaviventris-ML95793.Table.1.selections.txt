@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	4.181677178	4.333618055	2520.8	5761.8	Motacilla_flaviventris-ML95793.wav	E:\Andean\Motacillidae\Motacilla_flaviventris-ML95793.wav	1	a
-2	Spectrogram 1	1	4.412891556	4.584650808	2603.9	5595.6	Motacilla_flaviventris-ML95793.wav	E:\Andean\Motacillidae\Motacilla_flaviventris-ML95793.wav	2	a
-3	Spectrogram 1	1	6.097453452	6.229575953	2631.6	5540.2	Motacilla_flaviventris-ML95793.wav	E:\Andean\Motacillidae\Motacilla_flaviventris-ML95793.wav	3	a

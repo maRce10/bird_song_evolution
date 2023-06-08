@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	5.701262775	6.369646470	3834.8	7274.8	Nesopsar_nigerrimus-ML56138.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Nesopsar_nigerrimus-ML56138.wav	1	a
-2	Spectrogram 1	1	6.632949138	7.301332832	1973.8	6880.1	Nesopsar_nigerrimus-ML56138.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Nesopsar_nigerrimus-ML56138.wav	1	b
-3	Spectrogram 1	1	7.301332832	7.605143603	1635.4	6880.1	Nesopsar_nigerrimus-ML56138.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Nesopsar_nigerrimus-ML56138.wav	1	c
-4	Spectrogram 1	1	7.635524680	8.010224630	1409.8	6767.3	Nesopsar_nigerrimus-ML56138.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Nesopsar_nigerrimus-ML56138.wav	1	b
-5	Spectrogram 1	1	8.060859758	8.384924580	1297.1	6316.1	Nesopsar_nigerrimus-ML56138.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Nesopsar_nigerrimus-ML56138.wav	1	c
-6	Spectrogram 1	1	8.405178631	8.719116427	1240.7	5977.7	Nesopsar_nigerrimus-ML56138.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Nesopsar_nigerrimus-ML56138.wav	1	c
-7	Spectrogram 1	1	8.790005607	9.509024430	845.9	4680.7	Nesopsar_nigerrimus-ML56138.wav	C:\Users\Carlos PC\Desktop\Marcelo\Icteridae\Nesopsar_nigerrimus-ML56138.wav	1	d

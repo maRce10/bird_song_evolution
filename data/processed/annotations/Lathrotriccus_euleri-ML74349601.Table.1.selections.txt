@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.014868150	2.371598905	1689.8	4293.7	Lathrotriccus_euleri-ML74349601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_euleri-ML74349601.wav	1	a
-2	Spectrogram 1	1	2.417841780	2.649056158	1634.4	2714.7	Lathrotriccus_euleri-ML74349601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_euleri-ML74349601.wav	1	b
-3	Spectrogram 1	1	6.933262677	7.323024057	1634.4	4349.1	Lathrotriccus_euleri-ML74349601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_euleri-ML74349601.wav	2	c
-4	Spectrogram 1	1	7.365963870	7.607087436	1495.9	2465.4	Lathrotriccus_euleri-ML74349601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_euleri-ML74349601.wav	2	b
-5	Spectrogram 1	1	10.184316910	10.524532352	1523.6	4210.6	Lathrotriccus_euleri-ML74349601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_euleri-ML74349601.wav	3	a
-6	Spectrogram 1	1	10.547653790	10.643442604	1966.8	4182.9	Lathrotriccus_euleri-ML74349601.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Lathrotriccus_euleri-ML74349601.wav	3	d

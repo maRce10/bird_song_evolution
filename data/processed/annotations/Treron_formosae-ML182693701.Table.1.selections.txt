@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.545962949	1.856181191	397.1	794.2	Treron_formosae-ML182693701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_formosae-ML182693701.wav	1	a
-2	Spectrogram 1	1	1.981002731	2.496809393	443.8	794.2	Treron_formosae-ML182693701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_formosae-ML182693701.wav	1	b
-3	Spectrogram 1	1	2.674792146	4.057007150	397.1	887.6	Treron_formosae-ML182693701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_formosae-ML182693701.wav	1	c
-4	Spectrogram 1	1	4.340219661	4.556821746	373.7	911.0	Treron_formosae-ML182693701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_formosae-ML182693701.wav	1	d
-5	Spectrogram 1	1	4.658887592	4.915873117	420.4	817.5	Treron_formosae-ML182693701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_formosae-ML182693701.wav	1	e
-6	Spectrogram 1	1	5.055379545	5.341734844	420.4	864.2	Treron_formosae-ML182693701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_formosae-ML182693701.wav	1	e
-7	Spectrogram 1	1	5.525295934	5.815322455	397.1	817.5	Treron_formosae-ML182693701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_formosae-ML182693701.wav	1	e
-8	Spectrogram 1	1	5.885075669	6.292581288	420.4	817.5	Treron_formosae-ML182693701.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Treron_formosae-ML182693701.wav	1	f

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	26.342621956	26.371367915	3534.1	9664.6	Neothraupis_fasciata-ML189474.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Neothraupis_fasciata-ML189474.wav	1	a
-2	Spectrogram 1	1	26.929377699	26.956432719	3657.7	9837.6	Neothraupis_fasciata-ML189474.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Neothraupis_fasciata-ML189474.wav	2	a
-3	Spectrogram 1	1	27.998050984	28.026796943	3904.9	10109.5	Neothraupis_fasciata-ML189474.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Neothraupis_fasciata-ML189474.wav	1	a

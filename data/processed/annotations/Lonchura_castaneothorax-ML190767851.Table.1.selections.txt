@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.527338988	1.669833856	2899.0	4106.9	Lonchura_castaneothorax-ML190767851.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Lonchura_castaneothorax-ML190767851.wav	1	a
-2	Spectrogram 1	1	4.221434615	4.365179438	2899.0	3975.1	Lonchura_castaneothorax-ML190767851.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Lonchura_castaneothorax-ML190767851.wav	2	a
-3	Spectrogram 1	1	5.992339928	6.132334886	2767.2	4106.9	Lonchura_castaneothorax-ML190767851.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Lonchura_castaneothorax-ML190767851.wav	3	a

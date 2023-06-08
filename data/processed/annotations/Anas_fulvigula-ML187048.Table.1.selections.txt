@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.816801451	8.958840305	939.3	3287.7	Anas_fulvigula-ML187048.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_fulvigula-ML187048.wav	1	a
-2	Spectrogram 1	1	9.362974664	9.525304783	914.6	3238.3	Anas_fulvigula-ML187048.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_fulvigula-ML187048.wav	2	a
-3	Spectrogram 1	1	9.909147878	10.071477997	692.2	2991.1	Anas_fulvigula-ML187048.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Anatidae\Anatidae\Anas_fulvigula-ML187048.wav	3	a

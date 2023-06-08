@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	12.806255711	12.832830350	1829.3	4770.9	Charadrius_alexandrinus-ML78465.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_alexandrinus-ML78465.wav	1	a
-2	Spectrogram 1	1	12.855861705	12.878893059	1779.8	4597.9	Charadrius_alexandrinus-ML78465.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_alexandrinus-ML78465.wav	1	a
-3	Spectrogram 1	1	19.897036132	19.930697342	1409.0	4622.6	Charadrius_alexandrinus-ML78465.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_alexandrinus-ML78465.wav	2	a
-4	Spectrogram 1	1	20.300970653	20.334631863	1334.9	4894.5	Charadrius_alexandrinus-ML78465.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_alexandrinus-ML78465.wav	3	b
-5	Spectrogram 1	1	20.403725926	20.446245349	1161.8	4820.3	Charadrius_alexandrinus-ML78465.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Charadriidae\Charadrius_alexandrinus-ML78465.wav	3	a

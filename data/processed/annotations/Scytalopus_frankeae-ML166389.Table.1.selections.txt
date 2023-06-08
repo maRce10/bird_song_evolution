@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.184674321	6.300928132	1283.9	5163.6	Scytalopus_frankeae-ML166389.wav	D:\Andean\Rhinocryptidae\Scytalopus_frankeae-ML166389.wav	1	a
-2	Spectrogram 1	1	9.549490141	9.676658049	1032.7	4744.9	Scytalopus_frankeae-ML166389.wav	D:\Andean\Rhinocryptidae\Scytalopus_frankeae-ML166389.wav	2	a
-3	Spectrogram 1	1	12.599868398	12.735293963	1144.4	4800.8	Scytalopus_frankeae-ML166389.wav	D:\Andean\Rhinocryptidae\Scytalopus_frankeae-ML166389.wav	3	a

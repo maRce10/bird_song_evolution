@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.707362161	18.917567774	1463.0	6322.4	Spodiopsar_cineraceus-ML91508.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Spodiopsar_cineraceus-ML91508.wav	1	a
-2	Spectrogram 1	1	20.085376735	20.286239876	1384.7	6949.4	Spodiopsar_cineraceus-ML91508.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Spodiopsar_cineraceus-ML91508.wav	2	b
-3	Spectrogram 1	1	21.587815367	21.785999120	1541.4	7132.3	Spodiopsar_cineraceus-ML91508.wav	C:\Users\pfmar\Downloads\Andean\Sturnidae\Spodiopsar_cineraceus-ML91508.wav	3	b

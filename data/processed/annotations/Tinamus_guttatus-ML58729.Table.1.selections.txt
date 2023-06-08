@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.194392534	7.072584872	831.0	1135.7	Tinamus_guttatus-ML58729.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_guttatus-ML58729.wav	1	a
-2	Spectrogram 1	1	8.174996531	9.538997398	886.4	1163.4	Tinamus_guttatus-ML58729.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_guttatus-ML58729.wav	1	b
-3	Spectrogram 1	1	13.630999997	14.527877279	831.0	1163.4	Tinamus_guttatus-ML58729.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_guttatus-ML58729.wav	2	a
-4	Spectrogram 1	1	15.648973881	17.012974748	858.7	1163.4	Tinamus_guttatus-ML58729.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_guttatus-ML58729.wav	2	b
-5	Spectrogram 1	1	24.561691871	25.514623983	775.6	1218.8	Tinamus_guttatus-ML58729.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_guttatus-ML58729.wav	3	a
-8	Spectrogram 1	1	26.560980812	27.831556962	886.4	1191.1	Tinamus_guttatus-ML58729.wav	C:\Users\pfmar\Downloads\Andean\Tinamidae\Tinamus_guttatus-ML58729.wav	3	b

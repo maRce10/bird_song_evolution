@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.639140537	2.837564512	1211.3	6476.6	Buphagus_africanus-ML127086551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Buphagidae\Buphagus_africanus-ML127086551.wav	1	a
-2	Spectrogram 1	1	4.597375232	4.795799207	1161.8	6773.2	Buphagus_africanus-ML127086551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Buphagidae\Buphagus_africanus-ML127086551.wav	2	a
-3	Spectrogram 1	1	6.688110932	6.890078192	1285.4	6674.3	Buphagus_africanus-ML127086551.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Buphagidae\Buphagus_africanus-ML127086551.wav	3	a

@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	30.597139809	30.954489351	2465.4	5817.2	Rhynchocyclus_fulvipectus-ML49225.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_fulvipectus-ML49225.wav	1	a
-2	Spectrogram 1	1	92.934759336	93.226711576	3019.4	5706.4	Rhynchocyclus_fulvipectus-ML49225.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_fulvipectus-ML49225.wav	2	b
-3	Spectrogram 1	1	93.236054048	93.313129439	3573.4	5983.4	Rhynchocyclus_fulvipectus-ML49225.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_fulvipectus-ML49225.wav	2	c
-4	Spectrogram 1	1	93.352834944	93.422903481	2825.5	5817.2	Rhynchocyclus_fulvipectus-ML49225.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Rhynchocyclus_fulvipectus-ML49225.wav	2	d

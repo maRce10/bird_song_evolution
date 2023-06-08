@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.475347471	7.638023301	1535.5	4360.9	Myiophobus_fasciatus-ML66588.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiophobus_fasciatus-ML66588.wav	1	a
-2	Spectrogram 1	1	8.374607675	8.437365863	1228.4	3132.5	Myiophobus_fasciatus-ML66588.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiophobus_fasciatus-ML66588.wav	2	b
-3	Spectrogram 1	1	8.448926582	8.604996287	1535.5	3009.6	Myiophobus_fasciatus-ML66588.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiophobus_fasciatus-ML66588.wav	2	c
-4	Spectrogram 1	1	9.450580899	9.615734027	1412.7	4391.6	Myiophobus_fasciatus-ML66588.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiophobus_fasciatus-ML66588.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	96.470137890	96.630336424	775.6	4515.3	Perdix_perdix-ML202272.wav	D:\Andean\Phasianidae\Perdix_perdix-ML202272.wav	1	a
-2	Spectrogram 1	1	96.681533893	96.996976366	914.1	5207.8	Perdix_perdix-ML202272.wav	D:\Andean\Phasianidae\Perdix_perdix-ML202272.wav	1	b
-3	Spectrogram 1	1	98.778978607	98.934222547	831.0	4543.0	Perdix_perdix-ML202272.wav	D:\Andean\Phasianidae\Perdix_perdix-ML202272.wav	2	a
-4	Spectrogram 1	1	98.960647047	99.241407363	692.5	4543.0	Perdix_perdix-ML202272.wav	D:\Andean\Phasianidae\Perdix_perdix-ML202272.wav	2	b
-5	Spectrogram 1	1	102.971918617	103.140083108	914.1	4432.2	Perdix_perdix-ML202272.wav	D:\Andean\Phasianidae\Perdix_perdix-ML202272.wav	3	a
-6	Spectrogram 1	1	103.168110523	103.443713437	720.2	4598.4	Perdix_perdix-ML202272.wav	D:\Andean\Phasianidae\Perdix_perdix-ML202272.wav	3	b

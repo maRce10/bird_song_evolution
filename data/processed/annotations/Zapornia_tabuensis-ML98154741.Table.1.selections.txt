@@ -1,2 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.154924290	6.615116424	83.1	5097.0	Zapornia_tabuensis-ML98154741.wav	D:\Andean\Rallidae\Zapornia_tabuensis-ML98154741.wav	1	a

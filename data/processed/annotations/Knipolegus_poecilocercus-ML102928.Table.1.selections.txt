@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	9.283598969	9.316297620	3313.1	5067.0	Knipolegus_poecilocercus-ML102928.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_poecilocercus-ML102928.wav	1	a
-2	Spectrogram 1	1	9.365345597	9.393373012	3842.0	5735.2	Knipolegus_poecilocercus-ML102928.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_poecilocercus-ML102928.wav	1	b
-3	Spectrogram 1	1	58.687162038	58.712853835	3619.3	5039.2	Knipolegus_poecilocercus-ML102928.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_poecilocercus-ML102928.wav	2	a
-4	Spectrogram 1	1	58.759566193	58.792264844	3842.0	5958.0	Knipolegus_poecilocercus-ML102928.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Knipolegus_poecilocercus-ML102928.wav	2	b

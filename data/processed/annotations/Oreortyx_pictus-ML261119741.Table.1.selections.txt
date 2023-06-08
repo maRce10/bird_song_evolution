@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	18.009576744	18.234184997	498.6	1800.6	Oreortyx_pictus-ML261119741.wav	E:\Andean\Odontophoridae\Oreortyx_pictus-ML261119741.wav	1	a
-2	Spectrogram 1	1	25.624038895	25.875071648	554.0	1800.6	Oreortyx_pictus-ML261119741.wav	E:\Andean\Odontophoridae\Oreortyx_pictus-ML261119741.wav	2	a
-3	Spectrogram 1	1	31.969229103	32.246686356	581.7	1772.9	Oreortyx_pictus-ML261119741.wav	E:\Andean\Odontophoridae\Oreortyx_pictus-ML261119741.wav	3	a

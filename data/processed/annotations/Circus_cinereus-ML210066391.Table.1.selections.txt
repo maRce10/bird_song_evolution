@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.886116173	8.165121065	3015.8	6427.1	Circus_cinereus-ML210066391.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_cinereus-ML210066391.wav	1	a
-2	Spectrogram 1	1	8.860096888	9.177993371	2991.1	6896.8	Circus_cinereus-ML210066391.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_cinereus-ML210066391.wav	2	a
-3	Spectrogram 1	1	13.697972454	14.004032366	3040.5	6451.8	Circus_cinereus-ML210066391.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Circus_cinereus-ML210066391.wav	3	a

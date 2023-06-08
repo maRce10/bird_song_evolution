@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	24.436449560	25.601390391	2351.3	3370.2	Zimmerius_petersi-ML66648.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_petersi-ML66648.wav	1	a
-2	Spectrogram 1	1	35.476287515	36.186315363	2338.2	3644.5	Zimmerius_petersi-ML66648.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_petersi-ML66648.wav	2	b
-3	Spectrogram 1	1	41.965795604	43.056529173	2246.8	3435.5	Zimmerius_petersi-ML66648.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Zimmerius_petersi-ML66648.wav	3	a

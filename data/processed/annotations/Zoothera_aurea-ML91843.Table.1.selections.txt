@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	17.216131289	18.081533675	1567.5	2272.9	Zoothera_aurea-ML91843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_aurea-ML91843.wav	1	a
-2	Spectrogram 1	1	21.411020717	22.276423103	2926.1	3527.0	Zoothera_aurea-ML91843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_aurea-ML91843.wav	1	b
-3	Spectrogram 1	1	25.455357024	26.393426786	2926.1	3527.0	Zoothera_aurea-ML91843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_aurea-ML91843.wav	1	b
-4	Spectrogram 1	1	29.617790520	30.489799031	1645.9	2299.1	Zoothera_aurea-ML91843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_aurea-ML91843.wav	2	a
-5	Spectrogram 1	1	33.839104449	34.790386461	2926.1	3474.7	Zoothera_aurea-ML91843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_aurea-ML91843.wav	2	b
-6	Spectrogram 1	1	37.176585372	38.028775508	1593.7	2246.8	Zoothera_aurea-ML91843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_aurea-ML91843.wav	3	a
-7	Spectrogram 1	1	40.928745235	41.827178246	2926.1	3579.2	Zoothera_aurea-ML91843.wav	C:\Users\pfmar\Downloads\Andean\Turdidae\Zoothera_aurea-ML91843.wav	3	b

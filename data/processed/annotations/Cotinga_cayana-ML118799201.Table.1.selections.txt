@@ -1,2 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.968701404	1.149007139	285.5	614.9	Cotinga_cayana-ML118799201.wav	E:\Escritorio\Cantos\Cotingidae\Cotingidae\Cotinga_cayana-ML118799201.wav	1	a

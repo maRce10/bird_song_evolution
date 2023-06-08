@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	7.515049884	8.031219245	1954.6	3404.1	Stagonopleura_oculata-ML178562531.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Stagonopleura_oculata-ML178562531.wav	1	a
-2	Spectrogram 1	1	8.596884298	9.113053659	1932.7	3404.1	Stagonopleura_oculata-ML178562531.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Stagonopleura_oculata-ML178562531.wav	2	a
-3	Spectrogram 1	1	9.480735944	10.003976118	1976.6	3426.1	Stagonopleura_oculata-ML178562531.wav	E:\Escritorio\Cantos\Estrildidae\Estrildidae\Stagonopleura_oculata-ML178562531.wav	3	a

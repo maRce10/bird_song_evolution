@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	6.841963496	7.118339747	3287.7	5685.5	Tachornis_squamata-ML12898.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Tachornis_squamata-ML12898.wav	1	a
-2	Spectrogram 1	1	7.229953233	7.563022049	3411.3	5809.1	Tachornis_squamata-ML12898.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Tachornis_squamata-ML12898.wav	2	a
-3	Spectrogram 1	1	7.868075650	8.114333976	3510.2	5784.4	Tachornis_squamata-ML12898.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Apodidae\Apodidae\Tachornis_squamata-ML12898.wav	3	a

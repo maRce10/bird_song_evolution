@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	31.112744118	31.151555102	3509.1	4321.0	Malimbus_rubricollis-ML1454.wav	D:\Andean\Ploceidae\Malimbus_rubricollis-ML1454.wav	1	a
-2	Spectrogram 1	1	31.152967481	31.176914685	2566.4	3849.6	Malimbus_rubricollis-ML1454.wav	D:\Andean\Ploceidae\Malimbus_rubricollis-ML1454.wav	1	b
-3	Spectrogram 1	1	35.139247167	35.175580855	3378.2	4216.2	Malimbus_rubricollis-ML1454.wav	D:\Andean\Ploceidae\Malimbus_rubricollis-ML1454.wav	2	a
-4	Spectrogram 1	1	35.182186980	35.199528058	2645.0	3797.2	Malimbus_rubricollis-ML1454.wav	D:\Andean\Ploceidae\Malimbus_rubricollis-ML1454.wav	2	b
-5	Spectrogram 1	1	36.910357597	36.951645879	3535.3	4321.0	Malimbus_rubricollis-ML1454.wav	D:\Andean\Ploceidae\Malimbus_rubricollis-ML1454.wav	3	a
-6	Spectrogram 1	1	36.954948941	36.976418848	2461.6	3587.7	Malimbus_rubricollis-ML1454.wav	D:\Andean\Ploceidae\Malimbus_rubricollis-ML1454.wav	3	b

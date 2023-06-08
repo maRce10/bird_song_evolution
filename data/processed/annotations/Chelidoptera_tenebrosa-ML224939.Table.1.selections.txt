@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	78.876750862	79.013167345	4696.7	5908.0	Chelidoptera_tenebrosa-ML224939.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Chelidoptera_tenebrosa-ML224939.wav	1	a
-2	Spectrogram 1	1	79.059230054	79.197418179	4449.6	5388.9	Chelidoptera_tenebrosa-ML224939.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Chelidoptera_tenebrosa-ML224939.wav	1	b
-3	Spectrogram 1	1	81.103706794	81.217091923	4499.0	6179.9	Chelidoptera_tenebrosa-ML224939.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Chelidoptera_tenebrosa-ML224939.wav	2	a
-4	Spectrogram 1	1	81.275556130	81.424374111	4647.3	5339.5	Chelidoptera_tenebrosa-ML224939.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Chelidoptera_tenebrosa-ML224939.wav	2	b
-5	Spectrogram 1	1	84.858642666	84.950768083	4499.0	6427.1	Chelidoptera_tenebrosa-ML224939.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Chelidoptera_tenebrosa-ML224939.wav	3	a
-6	Spectrogram 1	1	85.018090503	85.154506986	4647.3	5364.2	Chelidoptera_tenebrosa-ML224939.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Bucconidae\Bucconidae\Chelidoptera_tenebrosa-ML224939.wav	3	b

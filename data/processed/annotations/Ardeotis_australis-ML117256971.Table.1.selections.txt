@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.895957899	2.827421536	1047.5	2645.0	Ardeotis_australis-ML117256971.wav	E:\Andean\Otididae\Ardeotis_australis-ML117256971.wav	1	a
-2	Spectrogram 1	1	3.871189299	4.201495553	1257.0	2566.4	Ardeotis_australis-ML117256971.wav	E:\Andean\Otididae\Ardeotis_australis-ML117256971.wav	2	a
-3	Spectrogram 1	1	4.432709931	5.099928564	1361.8	2618.8	Ardeotis_australis-ML117256971.wav	E:\Andean\Otididae\Ardeotis_australis-ML117256971.wav	2	a
-4	Spectrogram 1	1	6.203151453	7.260131466	1414.1	2854.5	Ardeotis_australis-ML117256971.wav	E:\Andean\Otididae\Ardeotis_australis-ML117256971.wav	3	a

@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	70.064081367	70.212719181	200.8	567.9	Momotus_momota-ML117122.wav	E:\Andean\Momotidae\Momotus_momota-ML117122.wav	1	a
-2	Spectrogram 1	1	70.239143682	70.282083495	187.0	554.0	Momotus_momota-ML117122.wav	E:\Andean\Momotidae\Momotus_momota-ML117122.wav	1	b
-3	Spectrogram 1	1	74.156575856	74.292001420	187.0	554.0	Momotus_momota-ML117122.wav	E:\Andean\Momotidae\Momotus_momota-ML117122.wav	2	a
-4	Spectrogram 1	1	74.325032046	74.374577984	200.8	574.8	Momotus_momota-ML117122.wav	E:\Andean\Momotidae\Momotus_momota-ML117122.wav	2	b
-5	Spectrogram 1	1	78.031219666	78.176554418	207.8	533.2	Momotus_momota-ML117122.wav	E:\Andean\Momotidae\Momotus_momota-ML117122.wav	3	a
-6	Spectrogram 1	1	78.202978918	78.255827919	207.8	533.2	Momotus_momota-ML117122.wav	E:\Andean\Momotidae\Momotus_momota-ML117122.wav	3	b

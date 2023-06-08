@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	14.147586994	14.232042710	1163.4	3961.2	Myiarchus_phaeocephalus-ML19408.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_phaeocephalus-ML19408.wav	1	a
-2	Spectrogram 1	1	14.242777663	14.297278195	1218.8	2797.8	Myiarchus_phaeocephalus-ML19408.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_phaeocephalus-ML19408.wav	1	b
-3	Spectrogram 1	1	15.943882004	16.018200911	1301.9	4044.3	Myiarchus_phaeocephalus-ML19408.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_phaeocephalus-ML19408.wav	2	a
-4	Spectrogram 1	1	16.028110099	16.092519818	1080.3	3047.1	Myiarchus_phaeocephalus-ML19408.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_phaeocephalus-ML19408.wav	2	b
-5	Spectrogram 1	1	16.545019564	16.620164237	1163.4	3905.8	Myiarchus_phaeocephalus-ML19408.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_phaeocephalus-ML19408.wav	3	a
-6	Spectrogram 1	1	16.628421893	16.687877019	1135.7	2880.9	Myiarchus_phaeocephalus-ML19408.wav	C:\Users\pfmar\Downloads\Andean\Tyrannidae\Myiarchus_phaeocephalus-ML19408.wav	3	b

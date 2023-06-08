@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.661440458	1.846411961	707.1	2880.6	Celeus_ochraceus-ML79805571.wav	D:\Andean\Picidae\Celeus_ochraceus-ML79805571.wav	1	a
-2	Spectrogram 1	1	2.028080401	2.196536590	785.6	2645.0	Celeus_ochraceus-ML79805571.wav	D:\Andean\Picidae\Celeus_ochraceus-ML79805571.wav	2	a
-3	Spectrogram 1	1	2.394720343	2.556570407	628.5	2618.8	Celeus_ochraceus-ML79805571.wav	D:\Andean\Picidae\Celeus_ochraceus-ML79805571.wav	3	a

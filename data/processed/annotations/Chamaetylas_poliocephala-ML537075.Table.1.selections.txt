@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.132373379	2.502316384	2383.1	2802.1	Chamaetylas_poliocephala-ML537075.wav	E:\Andean\Muscicapidae\Chamaetylas_poliocephala-ML537075.wav	1	a
-2	Spectrogram 1	1	2.569782657	2.820815411	2566.4	2906.8	Chamaetylas_poliocephala-ML537075.wav	E:\Andean\Muscicapidae\Chamaetylas_poliocephala-ML537075.wav	1	a
-3	Spectrogram 1	1	7.088372214	7.306374342	2435.5	2749.7	Chamaetylas_poliocephala-ML537075.wav	E:\Andean\Muscicapidae\Chamaetylas_poliocephala-ML537075.wav	2	a
-4	Spectrogram 1	1	7.544194845	7.762196973	2592.6	2880.6	Chamaetylas_poliocephala-ML537075.wav	E:\Andean\Muscicapidae\Chamaetylas_poliocephala-ML537075.wav	2	a

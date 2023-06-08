@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	32.357895544	32.416285992	498.6	1634.4	Lophura_swinhoii-ML88144.wav	D:\Andean\Phasianidae\Lophura_swinhoii-ML88144.wav	1	a
-2	Spectrogram 1	1	32.796991714	32.853046544	470.9	1634.4	Lophura_swinhoii-ML88144.wav	D:\Andean\Phasianidae\Lophura_swinhoii-ML88144.wav	2	a
-3	Spectrogram 1	1	33.278129006	33.331848218	470.9	1606.7	Lophura_swinhoii-ML88144.wav	D:\Andean\Phasianidae\Lophura_swinhoii-ML88144.wav	3	a

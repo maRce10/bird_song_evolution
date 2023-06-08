@@ -1,9 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.300100017	8.946235052	1051.1	4344.6	Donacobius_atricapilla-ML70174.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Donacobiidae\Donacobiidae\Donacobius_atricapilla-ML70174.wav	1	a
-2	Spectrogram 1	1	9.034344375	9.651109636	911.0	4204.4	Donacobius_atricapilla-ML70174.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Donacobiidae\Donacobiidae\Donacobius_atricapilla-ML70174.wav	1	a
-3	Spectrogram 1	1	9.742890180	10.344970554	1027.8	4111.0	Donacobius_atricapilla-ML70174.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Donacobiidae\Donacobiidae\Donacobius_atricapilla-ML70174.wav	1	a
-4	Spectrogram 1	1	10.411052546	11.060858803	1051.1	4017.6	Donacobius_atricapilla-ML70174.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Donacobiidae\Donacobiidae\Donacobius_atricapilla-ML70174.wav	1	a
-5	Spectrogram 1	1	11.123269573	11.795103160	1191.3	4040.9	Donacobius_atricapilla-ML70174.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Donacobiidae\Donacobiidae\Donacobius_atricapilla-ML70174.wav	1	a
-6	Spectrogram 1	1	18.504936337	19.044605940	1261.3	4554.8	Donacobius_atricapilla-ML70174.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Donacobiidae\Donacobiidae\Donacobius_atricapilla-ML70174.wav	2	a
-7	Spectrogram 1	1	19.110687933	19.775179076	1144.5	4461.4	Donacobius_atricapilla-ML70174.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Donacobiidae\Donacobiidae\Donacobius_atricapilla-ML70174.wav	2	a
-8	Spectrogram 1	1	19.837589847	20.417642889	1448.2	4251.2	Donacobius_atricapilla-ML70174.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Donacobiidae\Donacobiidae\Donacobius_atricapilla-ML70174.wav	2	a

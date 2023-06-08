@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.629994271	1.724697861	6994.8	11394.9	Conirostrum_rufum-ML66292381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Conirostrum_rufum-ML66292381.wav	1	a
-2	Spectrogram 1	1	3.157335745	3.250337376	6871.2	11543.3	Conirostrum_rufum-ML66292381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Conirostrum_rufum-ML66292381.wav	2	a
-3	Spectrogram 1	1	4.620238246	4.720003632	6698.2	11469.1	Conirostrum_rufum-ML66292381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Conirostrum_rufum-ML66292381.wav	3	a
-4	Spectrogram 1	1	6.101392404	6.197775912	7069.0	12012.9	Conirostrum_rufum-ML66292381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Conirostrum_rufum-ML66292381.wav	4	a
-5	Spectrogram 1	1	6.711821290	6.816659492	6896.0	11765.7	Conirostrum_rufum-ML66292381.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Thraupidae\Conirostrum_rufum-ML66292381.wav	5	a

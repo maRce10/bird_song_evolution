@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	0.899449338	1.215174412	244.5	1756.0	Ichthyaetus_melanocephalus-ML217822601.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Ichthyaetus_melanocephalus-ML217822601.wav	1	a
-2	Spectrogram 1	1	1.362023284	1.686926412	333.4	2156.1	Ichthyaetus_melanocephalus-ML217822601.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Ichthyaetus_melanocephalus-ML217822601.wav	1	b
-3	Spectrogram 1	1	1.775035735	2.121966194	289.0	2600.7	Ichthyaetus_melanocephalus-ML217822601.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Laridae\Laridae\Ichthyaetus_melanocephalus-ML217822601.wav	1	c

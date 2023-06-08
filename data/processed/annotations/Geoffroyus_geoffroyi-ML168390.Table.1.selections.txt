@@ -1,8 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	8.817298505	9.011154792	3074.8	3878.1	Geoffroyus_geoffroyi-ML168390.wav	D:\Andean\Psittaculidae\Geoffroyus_geoffroyi-ML168390.wav	1	a
-2	Spectrogram 1	1	9.146620632	9.317120740	3102.5	3739.6	Geoffroyus_geoffroyi-ML168390.wav	D:\Andean\Psittaculidae\Geoffroyus_geoffroyi-ML168390.wav	1	a
-3	Spectrogram 1	1	24.083713730	24.254213838	2797.8	4016.6	Geoffroyus_geoffroyi-ML168390.wav	D:\Andean\Psittaculidae\Geoffroyus_geoffroyi-ML168390.wav	2	a
-4	Spectrogram 1	1	24.420042711	24.597549673	3102.5	3933.5	Geoffroyus_geoffroyi-ML168390.wav	D:\Andean\Psittaculidae\Geoffroyus_geoffroyi-ML168390.wav	2	a
-5	Spectrogram 1	1	35.879190362	36.313615296	2936.3	3795.0	Geoffroyus_geoffroyi-ML168390.wav	D:\Andean\Psittaculidae\Geoffroyus_geoffroyi-ML168390.wav	3	b
-6	Spectrogram 1	1	36.484115404	36.923211573	3047.1	3822.7	Geoffroyus_geoffroyi-ML168390.wav	D:\Andean\Psittaculidae\Geoffroyus_geoffroyi-ML168390.wav	3	b
-7	Spectrogram 1	1	37.114732243	37.469746167	2964.0	3739.6	Geoffroyus_geoffroyi-ML168390.wav	D:\Andean\Psittaculidae\Geoffroyus_geoffroyi-ML168390.wav	3	b

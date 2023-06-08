@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	10.377444281	10.543608391	702.8	1032.2	Tricholaema_frontata-ML277126.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Tricholaema_frontata-ML277126.wav	1	a
-2	Spectrogram 1	1	10.847653357	11.010282059	658.9	1098.1	Tricholaema_frontata-ML277126.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Tricholaema_frontata-ML277126.wav	2	a
-3	Spectrogram 1	1	11.282508366	11.409783003	658.9	1032.2	Tricholaema_frontata-ML277126.wav	E:\Escritorio\Cantos\Lybiidae\Lybiidae\Tricholaema_frontata-ML277126.wav	3	a

@@ -1,4 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	86.503096758	87.121980337	1384.3	2224.8	Urotriorchis_macrourus-ML181152.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Urotriorchis_macrourus-ML181152.wav	1	a
-2	Spectrogram 1	1	87.586987257	88.251526183	1507.9	2521.4	Urotriorchis_macrourus-ML181152.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Urotriorchis_macrourus-ML181152.wav	2	a
-3	Spectrogram 1	1	88.687718131	89.414821790	1409.0	2818.0	Urotriorchis_macrourus-ML181152.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Urotriorchis_macrourus-ML181152.wav	3	a

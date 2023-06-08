@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.790259898	2.477296906	1329.6	3434.9	Pluvianellus_socialis-ML42753541.wav	D:\Andean\Pluvianellidae\Pluvianellus_socialis-ML42753541.wav	1	a
-2	Spectrogram 1	1	24.394549155	25.068373914	1717.5	3324.1	Pluvianellus_socialis-ML42753541.wav	D:\Andean\Pluvianellidae\Pluvianellus_socialis-ML42753541.wav	2	a

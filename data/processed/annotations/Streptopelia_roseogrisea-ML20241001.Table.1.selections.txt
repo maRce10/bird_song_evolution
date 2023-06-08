@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	2.956978458	3.078128777	327.0	817.5	Streptopelia_roseogrisea-ML20241001.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_roseogrisea-ML20241001.wav	1	a
-2	Spectrogram 1	1	3.263525477	4.159303594	327.0	747.5	Streptopelia_roseogrisea-ML20241001.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_roseogrisea-ML20241001.wav	1	b
-3	Spectrogram 1	1	5.705087580	5.798703736	303.7	817.5	Streptopelia_roseogrisea-ML20241001.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_roseogrisea-ML20241001.wav	2	a
-4	Spectrogram 1	1	6.022648265	6.984508374	327.0	817.5	Streptopelia_roseogrisea-ML20241001.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_roseogrisea-ML20241001.wav	2	b
-5	Spectrogram 1	1	8.762167375	8.874139640	327.0	840.9	Streptopelia_roseogrisea-ML20241001.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_roseogrisea-ML20241001.wav	3	a
-6	Spectrogram 1	1	9.087070504	10.059944278	350.4	770.8	Streptopelia_roseogrisea-ML20241001.wav	G:\Unidades compartidas\Dani Cloud\Trabajo\Andean Nature\Cantos\Columbidae\Columbidae\Streptopelia_roseogrisea-ML20241001.wav	3	b

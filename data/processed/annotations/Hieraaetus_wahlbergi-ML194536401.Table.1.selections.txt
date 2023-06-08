@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Begin Path	song	element
-1	Spectrogram 1	1	1.404188514	2.789067343	1705.7	2472.0	Hieraaetus_wahlbergi-ML194536401.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Hieraaetus_wahlbergi-ML194536401.wav	1	a
-2	Spectrogram 1	1	8.172188603	9.812399183	1631.5	2496.7	Hieraaetus_wahlbergi-ML194536401.wav	C:\Users\User\OneDrive - Pontificia Universidad Javeriana\Desktop\Andean nature\Cantos\Accipitridae\Accipitridae\Hieraaetus_wahlbergi-ML194536401.wav	2	a
