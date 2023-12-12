@@ -3,7 +3,7 @@
 <font size="4"><a href="https://marce10.github.io//">Marcelo
 Araya-Salas, PhD</a></font><br>
 
-*Updated on 2023-06-08 11:30:03*
+*Updated on 2023-11-28 15:10:34.69827*
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -42,6 +42,8 @@ Araya-Salas, PhD</a></font><br>
 - [Current status log](https://rpubs.com/marcelo-araya-salas/1013041)
 - [Annotated
   spectrograms](https://6f33fa7f78ea46e2aaca-my.sharepoint.com/personal/marcelo_araya_ucr_ac_cr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmarcelo_araya_ucr_ac_cr%2FDocuments%2Fannotated_spectrograms)
+- [Fixing
+  annotations](https://docs.google.com/spreadsheets/d/1guDbKEVPB-scVQidTOVoPEn1YbXASBM7_cs6CpEYWUM/edit?usp=sharing)
 
 ------------------------------------------------------------------------
 
